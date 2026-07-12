@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Privacy Policy — Flash Card</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="logo">FC</div>
+    <div class="name">Flash Card</div>
+  </header>
+
+  <div class="nav-links"><a href="index.html">Home</a><a href="terms-of-use.html">Terms of Use</a></div>
+
+  <h1>Privacy Policy</h1>
+  <p class="meta"><strong>Effective date:</strong> July 13, 2026</p>
+  <p class="meta"><strong>App:</strong> Flash Card ("the App")</p>
+  <p class="meta"><strong>Data controller:</strong> Suvijak Intaping, Thailand</p>
+  <p class="meta"><strong>Contact / Data Protection enquiries:</strong> <a href="mailto:suvijak.in@gmail.com">suvijak.in@gmail.com</a></p>
+
+  <div class="warn">⚠️ <strong>Not legal advice.</strong> This policy was written to accurately describe how the App currently works, kept in sync with the code as features change. It has not been reviewed by a lawyer — consider having one review it before wide public release.</div>
+
+  <p>This policy explains what the App does with information. The guiding principle: <strong>your study data stays on your device and there are no accounts.</strong> A few optional features send small amounts of data off your device — either to third-party services, or (for one specific, opt-in, anonymous feature) to a database we use to improve word suggestions — described below.</p>
+
+  <hr />
+
+  <h2>1. Summary (the important parts)</h2>
+  <ul>
+    <li><strong>No account, no sign-in, no advertising, no analytics SDKs, no tracking, no ad ID.</strong></li>
+    <li><strong>Your decks, cards, study history, settings, and captured words are stored only on your device</strong> (a local SQLite database and local app storage).</li>
+    <li>Some <strong>optional</strong> features send limited data off your device:
+      <ul>
+        <li><strong>Translation/definitions</strong> → individual words/short phrases sent to MyMemory and Free Dictionary API.</li>
+        <li><strong>Vocabulary suggestions (optional, OFF by default)</strong> → if you turn this on in Settings, the <strong>word, definition, and your "My Language" setting</strong> of cards you save are sent to our database, <strong>anonymously — with no account, device, or user identifier attached.</strong> Never your example sentences, images, or any other card content.</li>
+        <li><strong>Google Drive backup (optional, OFF by default)</strong> → if you connect your Google Drive, a backup of your own data is saved to a folder in <strong>your own</strong> Drive, using a Drive access scope limited to files the App itself creates.</li>
+      </ul>
+    </li>
+    <li>You can <strong>turn off</strong> every off-device feature in Settings, and <strong>delete all data</strong> by clearing app data or uninstalling.</li>
+  </ul>
+
+  <h2>2. Information the App processes</h2>
+
+  <h3>2.1 Stored only on your device (never sent to us)</h3>
+  <ul>
+    <li>Decks, cards (words, definitions, examples, optional images you add), and study/review history.</li>
+    <li>App settings (theme, language, learning settings, notification settings).</li>
+    <li>"Captured words" inbox (text you captured via text-selection, pending review).</li>
+    <li>Your consent record (timestamp + policy version), stored locally as evidence of your choices.</li>
+  </ul>
+
+  <h3>2.2 Text you capture from other apps (optional)</h3>
+  <p>If you use the system "share to / process text" feature to send selected text to the App, that text is stored locally in your captured-words list.</p>
+
+  <h3>2.3 Vocabulary suggestions (optional, OFF by default)</h3>
+  <p>If you turn on <strong>Help Improve Suggestions</strong> in Settings, the <strong>word, definition, and your "My Language" setting</strong> (e.g. "Thai" — the language you chose for translations, not your device's language or location) of each card you save from then on is sent to a database we use to build better vocabulary suggestions, so we can match suggestions to other learners using the same language. This is:</p>
+  <ul>
+    <li><strong>Anonymous</strong> — no account, device ID, or any other identifier is attached to the row. We cannot trace a submitted word/definition/language back to you or your device.</li>
+    <li><strong>Minimal</strong> — only the word, definition, and language code. <strong>Never</strong> your example sentences, images, deck names, or study history.</li>
+    <li><strong>Opt-in and reversible</strong> — OFF unless you turn it on, and you can turn it back off at any time in Settings; doing so stops all future sharing (previously shared, anonymous entries cannot be identified as yours to delete individually, precisely because nothing ties them to you).</li>
+  </ul>
+
+  <h3>2.4 Google Drive backup (optional, OFF by default)</h3>
+  <p>If you connect your Google account in Settings → Backup &amp; Restore, the App can save a backup of <strong>your own</strong> decks, cards, study history, and settings into a folder ("Flash Card Data") in <strong>your own</strong> Google Drive, and restore from it later. This uses Google's <code>drive.file</code> scope, which limits the App to files it created itself — it cannot see or access the rest of your Drive. This data is controlled by you in your own Google account; we never receive a copy of it.</p>
+
+  <h3>2.5 Data sent to third-party / cloud services (optional features)</h3>
+  <p>When you actively use these features, the App sends the <strong>minimum data needed</strong> to the relevant service over the internet:</p>
+  <table>
+    <tr><th>Feature</th><th>What is sent</th><th>To whom</th><th>Their policy</th></tr>
+    <tr><td>Word translation</td><td>the individual word/short phrase</td><td>MyMemory Translation API</td><td><a href="https://mymemory.translated.net/doc/spec.php">Link</a></td></tr>
+    <tr><td>English definitions</td><td>the individual word</td><td>Free Dictionary API (dictionaryapi.dev)</td><td><a href="https://dictionaryapi.dev/">Link</a></td></tr>
+    <tr><td>Vocabulary suggestions (§2.3)</td><td>word + definition + language code, no identifier</td><td>Supabase (our database provider)</td><td><a href="https://supabase.com/privacy">Link</a></td></tr>
+    <tr><td>Drive backup (§2.4)</td><td>your own backup file, to your own Drive</td><td>Google</td><td><a href="https://policies.google.com/privacy">Link</a></td></tr>
+  </table>
+  <p>No account name, email, or device identifier is attached by the App to the translation/definition or vocabulary-suggestion requests. These services are independent controllers/processors with their own policies, and may process data outside Thailand. We do not control them.</p>
+
+  <h2>3. Device permissions and why</h2>
+  <ul>
+    <li><strong>Notifications (POST_NOTIFICATIONS):</strong> to show capture suggestions and optional study/quiz reminders.</li>
+    <li><strong>Foreground service:</strong> used by the quiz-notification scheduler.</li>
+  </ul>
+
+  <h2>4. Why we are allowed to process this (legal bases)</h2>
+  <p>Where the <strong>Thailand PDPA</strong>, <strong>GDPR</strong>, or similar law applies, our bases are:</p>
+  <ul>
+    <li><strong>Your consent</strong>, which you give in the App's onboarding and by enabling optional features, and which you can <strong>withdraw at any time</strong> by disabling those features in Settings; and</li>
+    <li><strong>Performance of the service you requested</strong> and our <strong>legitimate interest</strong> in providing the core flashcard functionality you asked for.</li>
+  </ul>
+
+  <h2>5. Your rights</h2>
+  <p>Because your data lives on your device, you are largely in direct control:</p>
+  <ul>
+    <li><strong>Access / portability:</strong> view your data in the App and <strong>export decks to CSV</strong>.</li>
+    <li><strong>Erasure:</strong> delete decks/cards in the App, clear the App's data, or uninstall to remove everything from your device.</li>
+    <li><strong>Withdraw consent:</strong> turn off vocabulary sharing, Drive backup, or any other optional feature in Settings, at any time.</li>
+  </ul>
+  <p>Where the law gives you additional rights (objection, restriction, complaint), contact us at <a href="mailto:suvijak.in@gmail.com">suvijak.in@gmail.com</a>. If you are in Thailand you may also complain to the <strong>Personal Data Protection Committee (PDPC)</strong>; in the EU/UK, to your local supervisory authority.</p>
+
+  <h2>6. Children</h2>
+  <p>The App is <strong>not directed to children</strong> under <strong>13</strong> and we do not knowingly collect their data. If you believe a child has used the App, contact us and we will help you delete the on-device data.</p>
+
+  <h2>7. International transfers</h2>
+  <p>The optional third-party/cloud services in Section 2.5 may process data on servers <strong>outside Thailand</strong> (e.g., in the United States or the EU). By using those optional features you understand the relevant data leaves your device to those providers under their own safeguards.</p>
+
+  <h2>8. Security</h2>
+  <p>Data on your device is protected by your device's own security (lock screen, OS sandboxing). We cannot protect data after it leaves your device to a service you chose to use (translation/definition lookups, vocabulary sharing, or your own Google Drive). No method of transmission or storage is 100% secure.</p>
+
+  <h2>9. Retention</h2>
+  <p>On-device data is kept until <strong>you</strong> delete it (in-app, by clearing data, or by uninstalling). Anonymous vocabulary-suggestion entries (§2.3), once submitted, contain no identifier and so cannot be linked back to you to delete individually; we retain them to keep improving suggestions. Drive backups (§2.4) live in your own Google Drive under your control.</p>
+
+  <h2>10. Changes</h2>
+  <p>We may update this policy. If changes are material, we will update the effective date and ask for renewed consent in the App where required. The current version always ships with the App.</p>
+
+  <h2>11. Contact</h2>
+  <p>Privacy questions or requests: <a href="mailto:suvijak.in@gmail.com">suvijak.in@gmail.com</a>.</p>
+
+  <footer>Flash Card — Privacy Policy · Last updated July 13, 2026</footer>
+</div>
+</body>
+</html>
