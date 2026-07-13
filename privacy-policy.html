@@ -23,19 +23,20 @@
 
   <div class="warn">⚠️ <strong>Not legal advice.</strong> This policy was written to accurately describe how the App currently works, kept in sync with the code as features change. It has not been reviewed by a lawyer — consider having one review it before wide public release.</div>
 
-  <p>This policy explains what the App does with information. The guiding principle: <strong>your study data stays on your device and there are no accounts.</strong> A few optional features send small amounts of data off your device — either to third-party services, or (for one specific, opt-in, anonymous feature) to a database we use to improve word suggestions — described below.</p>
+  <p>This policy explains what the App does with information. The guiding principle: <strong>your study data stays on your device and there are no accounts.</strong> A few optional features send small amounts of data off your device — to third-party services, to a database we use to improve word suggestions, or (if you turn it on) to a crash-reporting service to help us fix bugs — described below.</p>
 
   <hr />
 
   <h2>1. Summary (the important parts)</h2>
   <ul>
-    <li><strong>No account, no sign-in, no advertising, no analytics SDKs, no tracking, no ad ID.</strong></li>
+    <li><strong>No account, no sign-in, no advertising, no behavioral analytics, no tracking, no ad ID.</strong> The one exception is an <strong>optional, OFF-by-default crash reporter</strong> (§2.5) — it never tracks what you do in the App, only technical details at the moment of a crash.</li>
     <li><strong>Your decks, cards, study history, settings, and captured words are stored only on your device</strong> (a local SQLite database and local app storage).</li>
     <li>Some <strong>optional</strong> features send limited data off your device:
       <ul>
         <li><strong>Translation/definitions</strong> → individual words/short phrases sent to MyMemory and Free Dictionary API.</li>
         <li><strong>Vocabulary suggestions (optional, OFF by default)</strong> → if you turn this on in Settings, the <strong>word, definition, and your "My Language" setting</strong> of cards you save are sent to our database, <strong>anonymously — with no account, device, or user identifier attached.</strong> Never your example sentences, images, or any other card content.</li>
         <li><strong>Google Drive backup (optional, OFF by default)</strong> → if you connect your Google Drive, a backup of your own data is saved to a folder in <strong>your own</strong> Drive, using a Drive access scope limited to files the App itself creates.</li>
+        <li><strong>Crash reporting (optional, OFF by default)</strong> → if you turn this on in Settings, technical crash/error details (stack trace, device model, OS and app version) are sent to our crash-reporting service. Never your flashcards, account, or anything that identifies you.</li>
       </ul>
     </li>
     <li>You can <strong>turn off</strong> every off-device feature in Settings, and <strong>delete all data</strong> by clearing app data or uninstalling.</li>
@@ -65,7 +66,16 @@
   <h3>2.4 Google Drive backup (optional, OFF by default)</h3>
   <p>If you connect your Google account in Settings → Backup &amp; Restore, the App can save a backup of <strong>your own</strong> decks, cards, study history, and settings into a folder ("Flash Card Data") in <strong>your own</strong> Google Drive, and restore from it later. This uses Google's <code>drive.file</code> scope, which limits the App to files it created itself — it cannot see or access the rest of your Drive. This data is controlled by you in your own Google account; we never receive a copy of it.</p>
 
-  <h3>2.5 Data sent to third-party / cloud services (optional features)</h3>
+  <h3>2.5 Crash reporting (optional, OFF by default)</h3>
+  <p>If you turn on <strong>Help Fix Bugs</strong> in Settings, the App starts sending crash and error reports to Sentry, a crash-reporting service, so we can find and fix bugs. This is:</p>
+  <ul>
+    <li><strong>Technical only</strong> — a crash report contains the error's stack trace, your device model, OS version, and the App's version. <strong>Never</strong> your flashcards, account, or any other content you've entered.</li>
+    <li><strong>Not behavioral tracking</strong> — it does not record what you tap, how you use the App, or build any profile of you. It only activates at the moment something goes wrong.</li>
+    <li><strong>Off by default, and nothing is sent until you turn it on</strong> — the crash reporter is not started at all while this is off, not merely "started but filtered," so no crash data — not even at the device level — is captured while disabled.</li>
+    <li><strong>Reversible</strong> — turn it off in Settings at any time to stop all future reports.</li>
+  </ul>
+
+  <h3>2.6 Data sent to third-party / cloud services (optional features)</h3>
   <p>When you actively use these features, the App sends the <strong>minimum data needed</strong> to the relevant service over the internet:</p>
   <table>
     <tr><th>Feature</th><th>What is sent</th><th>To whom</th><th>Their policy</th></tr>
@@ -73,8 +83,9 @@
     <tr><td>English definitions</td><td>the individual word</td><td>Free Dictionary API (dictionaryapi.dev)</td><td><a href="https://dictionaryapi.dev/">Link</a></td></tr>
     <tr><td>Vocabulary suggestions (§2.3)</td><td>word + definition + language code, no identifier</td><td>Supabase (our database provider)</td><td><a href="https://supabase.com/privacy">Link</a></td></tr>
     <tr><td>Drive backup (§2.4)</td><td>your own backup file, to your own Drive</td><td>Google</td><td><a href="https://policies.google.com/privacy">Link</a></td></tr>
+    <tr><td>Crash reporting (§2.5)</td><td>stack trace, device model, OS/app version, no identifier</td><td>Sentry</td><td><a href="https://sentry.io/privacy/">Link</a></td></tr>
   </table>
-  <p>No account name, email, or device identifier is attached by the App to the translation/definition or vocabulary-suggestion requests. These services are independent controllers/processors with their own policies, and may process data outside Thailand. We do not control them.</p>
+  <p>No account name, email, or device identifier is attached by the App to the translation/definition, vocabulary-suggestion, or crash-report requests. These services are independent controllers/processors with their own policies, and may process data outside Thailand. We do not control them.</p>
 
   <h2>3. Device permissions and why</h2>
   <ul>
@@ -94,7 +105,7 @@
   <ul>
     <li><strong>Access / portability:</strong> view your data in the App and <strong>export decks to CSV</strong>.</li>
     <li><strong>Erasure:</strong> delete decks/cards in the App, clear the App's data, or uninstall to remove everything from your device.</li>
-    <li><strong>Withdraw consent:</strong> turn off vocabulary sharing, Drive backup, or any other optional feature in Settings, at any time.</li>
+    <li><strong>Withdraw consent:</strong> turn off vocabulary sharing, Drive backup, crash reporting, or any other optional feature in Settings, at any time.</li>
   </ul>
   <p>Where the law gives you additional rights (objection, restriction, complaint), contact us at <a href="mailto:suvijak.in@gmail.com">suvijak.in@gmail.com</a>. If you are in Thailand you may also complain to the <strong>Personal Data Protection Committee (PDPC)</strong>; in the EU/UK, to your local supervisory authority.</p>
 
@@ -102,13 +113,13 @@
   <p>The App is <strong>not directed to children</strong> under <strong>13</strong> and we do not knowingly collect their data. If you believe a child has used the App, contact us and we will help you delete the on-device data.</p>
 
   <h2>7. International transfers</h2>
-  <p>The optional third-party/cloud services in Section 2.5 may process data on servers <strong>outside Thailand</strong> (e.g., in the United States or the EU). By using those optional features you understand the relevant data leaves your device to those providers under their own safeguards.</p>
+  <p>The optional third-party/cloud services in Section 2.6 may process data on servers <strong>outside Thailand</strong> (e.g., in the United States or the EU). By using those optional features you understand the relevant data leaves your device to those providers under their own safeguards.</p>
 
   <h2>8. Security</h2>
   <p>Data on your device is protected by your device's own security (lock screen, OS sandboxing). We cannot protect data after it leaves your device to a service you chose to use (translation/definition lookups, vocabulary sharing, or your own Google Drive). No method of transmission or storage is 100% secure.</p>
 
   <h2>9. Retention</h2>
-  <p>On-device data is kept until <strong>you</strong> delete it (in-app, by clearing data, or by uninstalling). Anonymous vocabulary-suggestion entries (§2.3), once submitted, contain no identifier and so cannot be linked back to you to delete individually; we retain them to keep improving suggestions. Drive backups (§2.4) live in your own Google Drive under your control.</p>
+  <p>On-device data is kept until <strong>you</strong> delete it (in-app, by clearing data, or by uninstalling). Anonymous vocabulary-suggestion entries (§2.3), once submitted, contain no identifier and so cannot be linked back to you to delete individually; we retain them to keep improving suggestions. Drive backups (§2.4) live in your own Google Drive under your control. Crash reports (§2.5), if you opt in, are retained by Sentry per their own retention policy (currently 30 days) and are not otherwise linked to you.</p>
 
   <h2>10. Changes</h2>
   <p>We may update this policy. If changes are material, we will update the effective date and ask for renewed consent in the App where required. The current version always ships with the App.</p>
