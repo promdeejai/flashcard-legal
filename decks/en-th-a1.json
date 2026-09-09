@@ -1,0 +1,3580 @@
+{
+  "id": "en-th-a1",
+  "name": "English A1",
+  "learn": "en",
+  "native": "th",
+  "level": "A1",
+  "version": 2,
+  "items": [
+    {
+      "word": "action",
+      "translation": "การกระทำ",
+      "example": "She took action straight away."
+    },
+    {
+      "word": "activity",
+      "translation": "กิจกรรม",
+      "example": "The main activity is swimming."
+    },
+    {
+      "word": "address",
+      "translation": "ที่อยู่",
+      "example": "Write your address on the form."
+    },
+    {
+      "word": "adult",
+      "translation": "ผู้ใหญ่",
+      "example": "One adult and two children, please."
+    },
+    {
+      "word": "advice",
+      "translation": "คำแนะนำ",
+      "example": "He gave me useful advice about the job."
+    },
+    {
+      "word": "afraid",
+      "translation": "กลัว",
+      "example": "She is afraid of dogs."
+    },
+    {
+      "word": "afternoon",
+      "translation": "ตอนบ่าย",
+      "example": "We met on Tuesday afternoon."
+    },
+    {
+      "word": "age",
+      "translation": "อายุ",
+      "example": "She started work at a young age."
+    },
+    {
+      "word": "agree",
+      "translation": "เห็นด้วย",
+      "example": "We agreed on a later date."
+    },
+    {
+      "word": "air",
+      "translation": "อากาศที่หายใจ",
+      "example": "The air is cooler by the river."
+    },
+    {
+      "word": "airport",
+      "translation": "สนามบิน",
+      "example": "The airport is an hour away."
+    },
+    {
+      "word": "always",
+      "translation": "เสมอ",
+      "example": "She always locks the door."
+    },
+    {
+      "word": "angry",
+      "translation": "โกรธ",
+      "example": "He was angry about the delay."
+    },
+    {
+      "word": "animal",
+      "translation": "สัตว์",
+      "example": "No animal is allowed inside."
+    },
+    {
+      "word": "answer",
+      "translation": "คำตอบ",
+      "example": "Nobody knew the answer."
+    },
+    {
+      "word": "apartment",
+      "translation": "อพาร์ตเมนต์",
+      "example": "Their apartment is on the top floor."
+    },
+    {
+      "word": "apple",
+      "translation": "แอปเปิล",
+      "example": "I ate an apple after lunch."
+    },
+    {
+      "word": "area",
+      "translation": "พื้นที่",
+      "example": "This area floods every year."
+    },
+    {
+      "word": "arm",
+      "translation": "แขน",
+      "example": "He broke his arm last winter."
+    },
+    {
+      "word": "arrive",
+      "translation": "มาถึง",
+      "example": "They arrive on Sunday evening."
+    },
+    {
+      "word": "art",
+      "translation": "ศิลปะ",
+      "example": "She studies art in Rome."
+    },
+    {
+      "word": "artist",
+      "translation": "ศิลปิน",
+      "example": "The artist works only at night."
+    },
+    {
+      "word": "aunt",
+      "translation": "ป้า",
+      "example": "My aunt lives in the next town."
+    },
+    {
+      "word": "autumn",
+      "translation": "ฤดูใบไม้ร่วง",
+      "example": "The garden is best in autumn."
+    },
+    {
+      "word": "baby",
+      "translation": "ทารก",
+      "example": "The baby is asleep."
+    },
+    {
+      "word": "bad",
+      "translation": "แย่",
+      "example": "The weather was bad all week."
+    },
+    {
+      "word": "bag",
+      "translation": "กระเป๋า",
+      "example": "Her bag was under the seat."
+    },
+    {
+      "word": "ball",
+      "translation": "ลูกบอล",
+      "example": "The ball rolled into the road."
+    },
+    {
+      "word": "banana",
+      "translation": "กล้วย",
+      "example": "He eats a banana before running."
+    },
+    {
+      "word": "band",
+      "translation": "วงดนตรี",
+      "example": "The band played for two hours."
+    },
+    {
+      "word": "bank",
+      "translation": "ธนาคาร",
+      "example": "The bank closes at three."
+    },
+    {
+      "word": "bathroom",
+      "translation": "ห้องน้ำ",
+      "example": "The bathroom is at the end of the hall."
+    },
+    {
+      "word": "beach",
+      "translation": "ชายหาด",
+      "example": "The beach was empty at dawn."
+    },
+    {
+      "word": "beautiful",
+      "translation": "สวยงาม",
+      "example": "It was a beautiful morning."
+    },
+    {
+      "word": "bed",
+      "translation": "เตียง",
+      "example": "The bed is next to the window."
+    },
+    {
+      "word": "bedroom",
+      "translation": "ห้องนอน",
+      "example": "The bedroom faces the garden."
+    },
+    {
+      "word": "bicycle",
+      "translation": "จักรยาน",
+      "example": "She rides her bicycle to class."
+    },
+    {
+      "word": "big",
+      "translation": "ใหญ่",
+      "example": "They live in a big house."
+    },
+    {
+      "word": "bill",
+      "translation": "ใบเสร็จ",
+      "example": "Could we have the bill, please?"
+    },
+    {
+      "word": "bird",
+      "translation": "นก",
+      "example": "A bird woke me at dawn."
+    },
+    {
+      "word": "birthday",
+      "translation": "วันเกิด",
+      "example": "His birthday is in August."
+    },
+    {
+      "word": "black",
+      "translation": "สีดำ",
+      "example": "He carried a black bag."
+    },
+    {
+      "word": "blue",
+      "translation": "สีน้ำเงิน",
+      "example": "The sky is very blue today."
+    },
+    {
+      "word": "boat",
+      "translation": "เรือ",
+      "example": "The boat leaves at seven."
+    },
+    {
+      "word": "body",
+      "translation": "ร่างกาย",
+      "example": "Cold water shocks the body."
+    },
+    {
+      "word": "book",
+      "translation": "หนังสือ",
+      "example": "This book has many pictures."
+    },
+    {
+      "word": "bottle",
+      "translation": "ขวด",
+      "example": "There is one bottle left."
+    },
+    {
+      "word": "box",
+      "translation": "กล่อง",
+      "example": "The box was heavier than it looked."
+    },
+    {
+      "word": "boy",
+      "translation": "เด็กผู้ชาย",
+      "example": "The boy dropped his ball."
+    },
+    {
+      "word": "bread",
+      "translation": "ขนมปัง",
+      "example": "He eats bread for breakfast."
+    },
+    {
+      "word": "break",
+      "translation": "การพัก",
+      "example": "Let us take a short break."
+    },
+    {
+      "word": "breakfast",
+      "translation": "อาหารเช้า",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "bring",
+      "translation": "นำมา",
+      "example": "Please bring a coat."
+    },
+    {
+      "word": "brother",
+      "translation": "พี่ชาย",
+      "example": "My brother is taller than me."
+    },
+    {
+      "word": "brown",
+      "translation": "สีน้ำตาล",
+      "example": "She wore a brown jacket."
+    },
+    {
+      "word": "build",
+      "translation": "สร้าง",
+      "example": "They will build a new school."
+    },
+    {
+      "word": "building",
+      "translation": "อาคาร",
+      "example": "That building is a hundred years old."
+    },
+    {
+      "word": "bus",
+      "translation": "รถประจำทาง",
+      "example": "The bus was late again."
+    },
+    {
+      "word": "business",
+      "translation": "ธุรกิจ",
+      "example": "His business grew quickly."
+    },
+    {
+      "word": "busy",
+      "translation": "ยุ่ง",
+      "example": "The office is busy on Mondays."
+    },
+    {
+      "word": "butter",
+      "translation": "เนย",
+      "example": "There is no butter left."
+    },
+    {
+      "word": "buy",
+      "translation": "ซื้อ",
+      "example": "I want to buy a ticket."
+    },
+    {
+      "word": "cake",
+      "translation": "เค้ก",
+      "example": "She made a cake for the party."
+    },
+    {
+      "word": "camera",
+      "translation": "กล้องถ่ายรูป",
+      "example": "His camera is very old."
+    },
+    {
+      "word": "car",
+      "translation": "รถยนต์",
+      "example": "Their car is very old."
+    },
+    {
+      "word": "card",
+      "translation": "การ์ด",
+      "example": "He sent a card in December."
+    },
+    {
+      "word": "carrot",
+      "translation": "แครอท",
+      "example": "Cut the carrot into small pieces."
+    },
+    {
+      "word": "carry",
+      "translation": "ถือ",
+      "example": "Can you carry this bag?"
+    },
+    {
+      "word": "cat",
+      "translation": "แมว",
+      "example": "My cat hates water."
+    },
+    {
+      "word": "centre",
+      "translation": "ใจกลาง",
+      "example": "The station is in the centre."
+    },
+    {
+      "word": "chair",
+      "translation": "เก้าอี้",
+      "example": "He pulled out a chair for her."
+    },
+    {
+      "word": "change",
+      "translation": "เงินทอน",
+      "example": "He kept the change."
+    },
+    {
+      "word": "cheap",
+      "translation": "ถูก",
+      "example": "The tickets were surprisingly cheap."
+    },
+    {
+      "word": "cheese",
+      "translation": "ชีส",
+      "example": "This cheese is very strong."
+    },
+    {
+      "word": "chicken",
+      "translation": "ไก่",
+      "example": "We had chicken and rice."
+    },
+    {
+      "word": "child",
+      "translation": "เด็ก",
+      "example": "Every child gets a free book."
+    },
+    {
+      "word": "chocolate",
+      "translation": "ช็อกโกแลต",
+      "example": "She gave me a box of chocolate."
+    },
+    {
+      "word": "choose",
+      "translation": "เลือก",
+      "example": "Choose any seat you like."
+    },
+    {
+      "word": "cinema",
+      "translation": "โรงภาพยนตร์",
+      "example": "The cinema opens at noon."
+    },
+    {
+      "word": "city",
+      "translation": "เมือง",
+      "example": "This city has three parks."
+    },
+    {
+      "word": "class",
+      "translation": "ชั้นเรียน",
+      "example": "The class starts in ten minutes."
+    },
+    {
+      "word": "clean",
+      "translation": "สะอาด",
+      "example": "The room is clean now."
+    },
+    {
+      "word": "clock",
+      "translation": "นาฬิกา",
+      "example": "The clock on the wall is slow."
+    },
+    {
+      "word": "clothes",
+      "translation": "เสื้อผ้า",
+      "example": "Her clothes were still wet."
+    },
+    {
+      "word": "coat",
+      "translation": "เสื้อโค้ท",
+      "example": "Take a coat, it is cold."
+    },
+    {
+      "word": "coffee",
+      "translation": "กาแฟ",
+      "example": "This coffee is too strong."
+    },
+    {
+      "word": "cold",
+      "translation": "หนาว",
+      "example": "My hands are cold."
+    },
+    {
+      "word": "colour",
+      "translation": "สี",
+      "example": "What colour is the door?"
+    },
+    {
+      "word": "come",
+      "translation": "มา",
+      "example": "Please come at seven."
+    },
+    {
+      "word": "common",
+      "translation": "ทั่วไป",
+      "example": "That name is very common here."
+    },
+    {
+      "word": "company",
+      "translation": "บริษัท",
+      "example": "She works for a small company."
+    },
+    {
+      "word": "compare",
+      "translation": "เปรียบเทียบ",
+      "example": "Compare the two versions carefully."
+    },
+    {
+      "word": "computer",
+      "translation": "คอมพิวเตอร์",
+      "example": "The computer is very slow today."
+    },
+    {
+      "word": "cook",
+      "translation": "ทำอาหาร",
+      "example": "He cooks for the whole family."
+    },
+    {
+      "word": "cost",
+      "translation": "มีราคา",
+      "example": "The repair will cost a lot."
+    },
+    {
+      "word": "country",
+      "translation": "ประเทศ",
+      "example": "She has visited nine countries."
+    },
+    {
+      "word": "cousin",
+      "translation": "ลูกพี่ลูกน้อง",
+      "example": "My cousin studies in Japan."
+    },
+    {
+      "word": "cow",
+      "translation": "วัว",
+      "example": "A cow stood in the road."
+    },
+    {
+      "word": "culture",
+      "translation": "วัฒนธรรม",
+      "example": "Food is a big part of the culture."
+    },
+    {
+      "word": "cup",
+      "translation": "ถ้วย",
+      "example": "He drank two cups of tea."
+    },
+    {
+      "word": "customer",
+      "translation": "ลูกค้า",
+      "example": "A customer asked for a refund."
+    },
+    {
+      "word": "cut",
+      "translation": "ตัด",
+      "example": "She cut the bread carefully."
+    },
+    {
+      "word": "dance",
+      "translation": "เต้นรำ",
+      "example": "They danced until midnight."
+    },
+    {
+      "word": "dangerous",
+      "translation": "อันตราย",
+      "example": "That road is dangerous in the rain."
+    },
+    {
+      "word": "dark",
+      "translation": "มืด",
+      "example": "The room was completely dark."
+    },
+    {
+      "word": "daughter",
+      "translation": "ลูกสาว",
+      "example": "Their daughter is at university."
+    },
+    {
+      "word": "day",
+      "translation": "วัน",
+      "example": "It was a long day at work."
+    },
+    {
+      "word": "decide",
+      "translation": "ตัดสินใจ",
+      "example": "We decided to stay one more night."
+    },
+    {
+      "word": "describe",
+      "translation": "บรรยาย",
+      "example": "Can you describe the man?"
+    },
+    {
+      "word": "desk",
+      "translation": "โต๊ะทำงาน",
+      "example": "His desk is by the window."
+    },
+    {
+      "word": "detail",
+      "translation": "รายละเอียด",
+      "example": "He explained every detail."
+    },
+    {
+      "word": "dictionary",
+      "translation": "พจนานุกรม",
+      "example": "Look it up in a dictionary."
+    },
+    {
+      "word": "difference",
+      "translation": "ความแตกต่าง",
+      "example": "The difference is small but real."
+    },
+    {
+      "word": "dinner",
+      "translation": "อาหารเย็น",
+      "example": "Dinner is at seven."
+    },
+    {
+      "word": "dirty",
+      "translation": "สกปรก",
+      "example": "His shoes were dirty."
+    },
+    {
+      "word": "discuss",
+      "translation": "อภิปราย",
+      "example": "We discussed it for an hour."
+    },
+    {
+      "word": "doctor",
+      "translation": "แพทย์",
+      "example": "The doctor arrives at nine."
+    },
+    {
+      "word": "dog",
+      "translation": "สุนัข",
+      "example": "The dog sleeps under the table."
+    },
+    {
+      "word": "door",
+      "translation": "ประตู",
+      "example": "Please close the door."
+    },
+    {
+      "word": "draw",
+      "translation": "วาดรูป",
+      "example": "She draws every evening."
+    },
+    {
+      "word": "dress",
+      "translation": "ชุดกระโปรง",
+      "example": "That dress suits you."
+    },
+    {
+      "word": "drink",
+      "translation": "ดื่ม",
+      "example": "He does not drink coffee."
+    },
+    {
+      "word": "drive",
+      "translation": "ขับรถ",
+      "example": "He drives to work on Mondays."
+    },
+    {
+      "word": "ear",
+      "translation": "หู",
+      "example": "The noise hurt my ear."
+    },
+    {
+      "word": "early",
+      "translation": "แต่เช้า",
+      "example": "He arrived early as usual."
+    },
+    {
+      "word": "easy",
+      "translation": "ง่าย",
+      "example": "The test was easy."
+    },
+    {
+      "word": "eat",
+      "translation": "กิน",
+      "example": "We eat dinner at seven."
+    },
+    {
+      "word": "egg",
+      "translation": "ไข่",
+      "example": "She boiled one egg."
+    },
+    {
+      "word": "email",
+      "translation": "อีเมล",
+      "example": "Send me an email tonight."
+    },
+    {
+      "word": "end",
+      "translation": "ตอนจบ",
+      "example": "The end of the film surprised me."
+    },
+    {
+      "word": "evening",
+      "translation": "ตอนเย็น",
+      "example": "We walk in the evening."
+    },
+    {
+      "word": "exam",
+      "translation": "การสอบ",
+      "example": "The exam lasted three hours."
+    },
+    {
+      "word": "example",
+      "translation": "ตัวอย่าง",
+      "example": "Give me one clear example."
+    },
+    {
+      "word": "exercise",
+      "translation": "การออกกำลังกาย",
+      "example": "She does exercise every morning."
+    },
+    {
+      "word": "expensive",
+      "translation": "แพง",
+      "example": "That restaurant is too expensive."
+    },
+    {
+      "word": "explain",
+      "translation": "อธิบาย",
+      "example": "Please explain the rule again."
+    },
+    {
+      "word": "eye",
+      "translation": "ตา",
+      "example": "She closed one eye."
+    },
+    {
+      "word": "face",
+      "translation": "ใบหน้า",
+      "example": "His face was very red."
+    },
+    {
+      "word": "fact",
+      "translation": "ข้อเท็จจริง",
+      "example": "That is a simple fact."
+    },
+    {
+      "word": "family",
+      "translation": "ครอบครัว",
+      "example": "My family lives in a small town."
+    },
+    {
+      "word": "famous",
+      "translation": "มีชื่อเสียง",
+      "example": "The restaurant is famous for its soup."
+    },
+    {
+      "word": "far",
+      "translation": "ไกล",
+      "example": "Their house is far from here."
+    },
+    {
+      "word": "farm",
+      "translation": "ฟาร์ม",
+      "example": "They own a small farm."
+    },
+    {
+      "word": "fast",
+      "translation": "เร็ว",
+      "example": "That train is very fast."
+    },
+    {
+      "word": "father",
+      "translation": "พ่อ",
+      "example": "His father drives a taxi."
+    },
+    {
+      "word": "feel",
+      "translation": "รู้สึก",
+      "example": "I feel much better today."
+    },
+    {
+      "word": "festival",
+      "translation": "เทศกาล",
+      "example": "The festival lasts four days."
+    },
+    {
+      "word": "film",
+      "translation": "ภาพยนตร์",
+      "example": "The film was three hours long."
+    },
+    {
+      "word": "find",
+      "translation": "หาเจอ",
+      "example": "I cannot find my keys."
+    },
+    {
+      "word": "fire",
+      "translation": "ไฟ",
+      "example": "The fire burned all night."
+    },
+    {
+      "word": "fish",
+      "translation": "ปลา",
+      "example": "The fish was very fresh."
+    },
+    {
+      "word": "flat",
+      "translation": "แฟลต",
+      "example": "Their flat is very small."
+    },
+    {
+      "word": "floor",
+      "translation": "ชั้น",
+      "example": "Our office is on the third floor."
+    },
+    {
+      "word": "flower",
+      "translation": "ดอกไม้",
+      "example": "She bought a yellow flower."
+    },
+    {
+      "word": "fly",
+      "translation": "บิน",
+      "example": "Birds fly south in winter."
+    },
+    {
+      "word": "follow",
+      "translation": "ตามไป",
+      "example": "Follow me to the office."
+    },
+    {
+      "word": "food",
+      "translation": "อาหาร",
+      "example": "The food here is cheap and good."
+    },
+    {
+      "word": "foot",
+      "translation": "เท้า",
+      "example": "My foot still hurts."
+    },
+    {
+      "word": "football",
+      "translation": "ฟุตบอล",
+      "example": "They play football on Sundays."
+    },
+    {
+      "word": "forget",
+      "translation": "ลืม",
+      "example": "Do not forget your keys."
+    },
+    {
+      "word": "free",
+      "translation": "ฟรี",
+      "example": "Entry is free on Mondays."
+    },
+    {
+      "word": "friend",
+      "translation": "เพื่อน",
+      "example": "My friend lives next door."
+    },
+    {
+      "word": "front",
+      "translation": "ด้านหน้า",
+      "example": "Wait at the front of the building."
+    },
+    {
+      "word": "fruit",
+      "translation": "ผลไม้",
+      "example": "Fruit is cheap in summer."
+    },
+    {
+      "word": "full",
+      "translation": "เต็ม",
+      "example": "The bus was completely full."
+    },
+    {
+      "word": "fun",
+      "translation": "ความสนุก",
+      "example": "The trip was great fun."
+    },
+    {
+      "word": "funny",
+      "translation": "ตลก",
+      "example": "His story was very funny."
+    },
+    {
+      "word": "game",
+      "translation": "เกม",
+      "example": "The game ended in a draw."
+    },
+    {
+      "word": "garden",
+      "translation": "สวน",
+      "example": "Their garden is full of flowers."
+    },
+    {
+      "word": "girl",
+      "translation": "เด็กผู้หญิง",
+      "example": "A girl waved from the window."
+    },
+    {
+      "word": "give",
+      "translation": "ให้",
+      "example": "Give me one minute."
+    },
+    {
+      "word": "glass",
+      "translation": "แก้ว",
+      "example": "She broke a glass this morning."
+    },
+    {
+      "word": "go",
+      "translation": "ไป",
+      "example": "We go to the market on Friday."
+    },
+    {
+      "word": "good",
+      "translation": "ดี",
+      "example": "This is a good idea."
+    },
+    {
+      "word": "grandfather",
+      "translation": "ปู่",
+      "example": "My grandfather was a fisherman."
+    },
+    {
+      "word": "grandmother",
+      "translation": "ย่า",
+      "example": "Her grandmother still cooks daily."
+    },
+    {
+      "word": "green",
+      "translation": "สีเขียว",
+      "example": "The fields turn green in May."
+    },
+    {
+      "word": "group",
+      "translation": "กลุ่ม",
+      "example": "A group of students waited outside."
+    },
+    {
+      "word": "grow",
+      "translation": "เติบโต",
+      "example": "These plants grow very fast."
+    },
+    {
+      "word": "guitar",
+      "translation": "กีตาร์",
+      "example": "He plays the guitar badly."
+    },
+    {
+      "word": "happy",
+      "translation": "มีความสุข",
+      "example": "She was happy to see him."
+    },
+    {
+      "word": "hard",
+      "translation": "ยาก",
+      "example": "This question is hard."
+    },
+    {
+      "word": "health",
+      "translation": "สุขภาพ",
+      "example": "His health improved slowly."
+    },
+    {
+      "word": "hear",
+      "translation": "ได้ยิน",
+      "example": "I cannot hear you."
+    },
+    {
+      "word": "holiday",
+      "translation": "วันหยุด",
+      "example": "We took a short holiday in June."
+    },
+    {
+      "word": "hospital",
+      "translation": "โรงพยาบาล",
+      "example": "The hospital is behind the school."
+    },
+    {
+      "word": "hot",
+      "translation": "ร้อน",
+      "example": "The tea is still hot."
+    },
+    {
+      "word": "hotel",
+      "translation": "โรงแรม",
+      "example": "The hotel was near the beach."
+    },
+    {
+      "word": "hour",
+      "translation": "ชั่วโมง",
+      "example": "The trip takes about an hour."
+    },
+    {
+      "word": "house",
+      "translation": "บ้าน",
+      "example": "Their house has a red door."
+    },
+    {
+      "word": "idea",
+      "translation": "ความคิด",
+      "example": "That is a good idea."
+    },
+    {
+      "word": "improve",
+      "translation": "ปรับปรุง",
+      "example": "His writing has improved a lot."
+    },
+    {
+      "word": "journey",
+      "translation": "การเดินทาง",
+      "example": "The journey home took all day."
+    },
+    {
+      "word": "kitchen",
+      "translation": "ห้องครัว",
+      "example": "She is cooking in the kitchen."
+    },
+    {
+      "word": "language",
+      "translation": "ภาษา",
+      "example": "Thai is a difficult language to write."
+    },
+    {
+      "word": "late",
+      "translation": "สาย",
+      "example": "The train was late again."
+    },
+    {
+      "word": "learn",
+      "translation": "เรียนรู้",
+      "example": "She wants to learn Spanish."
+    },
+    {
+      "word": "leave",
+      "translation": "ออกเดินทาง",
+      "example": "We leave early tomorrow."
+    },
+    {
+      "word": "letter",
+      "translation": "จดหมาย",
+      "example": "He wrote a letter to his brother."
+    },
+    {
+      "word": "light",
+      "translation": "เบา",
+      "example": "The bag is surprisingly light."
+    },
+    {
+      "word": "long",
+      "translation": "ยาว",
+      "example": "It was a long walk."
+    },
+    {
+      "word": "look",
+      "translation": "มอง",
+      "example": "Look at that bird."
+    },
+    {
+      "word": "man",
+      "translation": "ผู้ชาย",
+      "example": "That man works at the bank."
+    },
+    {
+      "word": "map",
+      "translation": "แผนที่",
+      "example": "She drew a map on a napkin."
+    },
+    {
+      "word": "market",
+      "translation": "ตลาด",
+      "example": "The market opens at dawn."
+    },
+    {
+      "word": "maybe",
+      "translation": "บางที",
+      "example": "Maybe they forgot."
+    },
+    {
+      "word": "meat",
+      "translation": "เนื้อสัตว์",
+      "example": "He does not eat meat."
+    },
+    {
+      "word": "meeting",
+      "translation": "การประชุม",
+      "example": "The meeting lasted two hours."
+    },
+    {
+      "word": "message",
+      "translation": "ข้อความ",
+      "example": "I left a message for you."
+    },
+    {
+      "word": "milk",
+      "translation": "นม",
+      "example": "The milk is in the fridge."
+    },
+    {
+      "word": "month",
+      "translation": "เดือน",
+      "example": "The rent is due every month."
+    },
+    {
+      "word": "morning",
+      "translation": "เช้า",
+      "example": "I run every morning."
+    },
+    {
+      "word": "mother",
+      "translation": "แม่",
+      "example": "My mother cooks on Sundays."
+    },
+    {
+      "word": "mountain",
+      "translation": "ภูเขา",
+      "example": "The mountain is covered in snow."
+    },
+    {
+      "word": "music",
+      "translation": "ดนตรี",
+      "example": "She listens to music while working."
+    },
+    {
+      "word": "name",
+      "translation": "ชื่อ",
+      "example": "Please write your name at the top."
+    },
+    {
+      "word": "near",
+      "translation": "ใกล้",
+      "example": "The station is quite near."
+    },
+    {
+      "word": "never",
+      "translation": "ไม่เคย",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "new",
+      "translation": "ใหม่",
+      "example": "They bought a new table."
+    },
+    {
+      "word": "news",
+      "translation": "ข่าว",
+      "example": "The news came late that evening."
+    },
+    {
+      "word": "night",
+      "translation": "กลางคืน",
+      "example": "The street is dark at night."
+    },
+    {
+      "word": "office",
+      "translation": "สำนักงาน",
+      "example": "The office is empty on Fridays."
+    },
+    {
+      "word": "often",
+      "translation": "บ่อย",
+      "example": "We often eat outside."
+    },
+    {
+      "word": "old",
+      "translation": "เก่า",
+      "example": "This building is very old."
+    },
+    {
+      "word": "opinion",
+      "translation": "ความคิดเห็น",
+      "example": "Everyone had a different opinion."
+    },
+    {
+      "word": "park",
+      "translation": "สวนสาธารณะ",
+      "example": "We walk in the park on Sundays."
+    },
+    {
+      "word": "party",
+      "translation": "งานเลี้ยง",
+      "example": "The party ended after midnight."
+    },
+    {
+      "word": "passport",
+      "translation": "หนังสือเดินทาง",
+      "example": "Keep your passport in your bag."
+    },
+    {
+      "word": "photo",
+      "translation": "รูปถ่าย",
+      "example": "He showed me a photo of his dog."
+    },
+    {
+      "word": "plan",
+      "translation": "แผน",
+      "example": "Our plan changed at the last minute."
+    },
+    {
+      "word": "poor",
+      "translation": "จน",
+      "example": "The village was very poor."
+    },
+    {
+      "word": "possible",
+      "translation": "เป็นไปได้",
+      "example": "It is possible but unlikely."
+    },
+    {
+      "word": "practise",
+      "translation": "ฝึกฝน",
+      "example": "She practises the piano every evening."
+    },
+    {
+      "word": "prefer",
+      "translation": "ชอบมากกว่า",
+      "example": "I prefer tea to coffee."
+    },
+    {
+      "word": "price",
+      "translation": "ราคา",
+      "example": "The price went up again."
+    },
+    {
+      "word": "problem",
+      "translation": "ปัญหา",
+      "example": "We solved the problem together."
+    },
+    {
+      "word": "project",
+      "translation": "โครงการ",
+      "example": "The project runs until March."
+    },
+    {
+      "word": "question",
+      "translation": "คำถาม",
+      "example": "Her question surprised everyone."
+    },
+    {
+      "word": "quiet",
+      "translation": "เงียบ",
+      "example": "The library is very quiet."
+    },
+    {
+      "word": "rain",
+      "translation": "ฝน",
+      "example": "The rain started at noon."
+    },
+    {
+      "word": "read",
+      "translation": "อ่าน",
+      "example": "I read before bed."
+    },
+    {
+      "word": "ready",
+      "translation": "พร้อม",
+      "example": "Dinner is ready."
+    },
+    {
+      "word": "reason",
+      "translation": "เหตุผล",
+      "example": "There is no reason to worry."
+    },
+    {
+      "word": "red",
+      "translation": "สีแดง",
+      "example": "She wore a red dress."
+    },
+    {
+      "word": "remember",
+      "translation": "จำได้",
+      "example": "I remember his face."
+    },
+    {
+      "word": "repeat",
+      "translation": "พูดซ้ำ",
+      "example": "Could you repeat the question?"
+    },
+    {
+      "word": "result",
+      "translation": "ผลลัพธ์",
+      "example": "The result surprised everyone."
+    },
+    {
+      "word": "rice",
+      "translation": "ข้าว",
+      "example": "We cook rice every day."
+    },
+    {
+      "word": "rich",
+      "translation": "รวย",
+      "example": "Her family is not rich."
+    },
+    {
+      "word": "right",
+      "translation": "สิทธิ",
+      "example": "Every worker has that right."
+    },
+    {
+      "word": "river",
+      "translation": "แม่น้ำ",
+      "example": "They swam in the river."
+    },
+    {
+      "word": "room",
+      "translation": "ห้อง",
+      "example": "This room is very bright."
+    },
+    {
+      "word": "rule",
+      "translation": "กฎ",
+      "example": "Everyone must follow the same rule."
+    },
+    {
+      "word": "say",
+      "translation": "บอก",
+      "example": "He did not say anything."
+    },
+    {
+      "word": "school",
+      "translation": "โรงเรียน",
+      "example": "The school opens at eight."
+    },
+    {
+      "word": "sea",
+      "translation": "ทะเล",
+      "example": "The sea is calm this morning."
+    },
+    {
+      "word": "see",
+      "translation": "เห็น",
+      "example": "I can see the sea from here."
+    },
+    {
+      "word": "send",
+      "translation": "ส่ง",
+      "example": "Please send the file today."
+    },
+    {
+      "word": "shop",
+      "translation": "ร้านค้า",
+      "example": "The shop closes at nine."
+    },
+    {
+      "word": "short",
+      "translation": "สั้น",
+      "example": "He gave a short answer."
+    },
+    {
+      "word": "similar",
+      "translation": "คล้ายกัน",
+      "example": "Our jobs are quite similar."
+    },
+    {
+      "word": "sister",
+      "translation": "พี่สาว",
+      "example": "Her sister lives abroad."
+    },
+    {
+      "word": "situation",
+      "translation": "สถานการณ์",
+      "example": "The situation is improving."
+    },
+    {
+      "word": "skill",
+      "translation": "ทักษะ",
+      "example": "Listening is an underrated skill."
+    },
+    {
+      "word": "sleep",
+      "translation": "นอน",
+      "example": "The baby sleeps all afternoon."
+    },
+    {
+      "word": "slow",
+      "translation": "ช้า",
+      "example": "The traffic was slow this morning."
+    },
+    {
+      "word": "small",
+      "translation": "เล็ก",
+      "example": "She has a small bag."
+    },
+    {
+      "word": "sometimes",
+      "translation": "บางครั้ง",
+      "example": "Sometimes she walks to work."
+    },
+    {
+      "word": "speak",
+      "translation": "พูด",
+      "example": "She speaks three languages."
+    },
+    {
+      "word": "star",
+      "translation": "ดวงดาว",
+      "example": "One star appeared above the hill."
+    },
+    {
+      "word": "station",
+      "translation": "สถานี",
+      "example": "The station is behind the market."
+    },
+    {
+      "word": "story",
+      "translation": "เรื่องราว",
+      "example": "He told us a funny story."
+    },
+    {
+      "word": "street",
+      "translation": "ถนน",
+      "example": "Their street is very narrow."
+    },
+    {
+      "word": "strong",
+      "translation": "แรง",
+      "example": "The coffee here is very strong."
+    },
+    {
+      "word": "student",
+      "translation": "นักเรียน",
+      "example": "Every student needs a pen."
+    },
+    {
+      "word": "sun",
+      "translation": "ดวงอาทิตย์",
+      "example": "The sun is very strong today."
+    },
+    {
+      "word": "table",
+      "translation": "โต๊ะ",
+      "example": "The keys are on the table."
+    },
+    {
+      "word": "take",
+      "translation": "เอาไป",
+      "example": "Take an umbrella with you."
+    },
+    {
+      "word": "tea",
+      "translation": "ชา",
+      "example": "She drinks tea in the evening."
+    },
+    {
+      "word": "teach",
+      "translation": "สอน",
+      "example": "He teaches history at a school."
+    },
+    {
+      "word": "teacher",
+      "translation": "ครู",
+      "example": "The teacher asked a question."
+    },
+    {
+      "word": "ticket",
+      "translation": "ตั๋ว",
+      "example": "I bought a ticket for the early train."
+    },
+    {
+      "word": "tired",
+      "translation": "เหนื่อย",
+      "example": "I felt tired after the meeting."
+    },
+    {
+      "word": "together",
+      "translation": "ด้วยกัน",
+      "example": "They finished the work together."
+    },
+    {
+      "word": "tree",
+      "translation": "ต้นไม้",
+      "example": "A big tree stands by the gate."
+    },
+    {
+      "word": "understand",
+      "translation": "เข้าใจ",
+      "example": "I do not understand this word."
+    },
+    {
+      "word": "useful",
+      "translation": "มีประโยชน์",
+      "example": "That was a useful suggestion."
+    },
+    {
+      "word": "village",
+      "translation": "หมู่บ้าน",
+      "example": "She grew up in a small village."
+    },
+    {
+      "word": "wait",
+      "translation": "รอ",
+      "example": "We waited for an hour."
+    },
+    {
+      "word": "walk",
+      "translation": "เดิน",
+      "example": "They walk to work every day."
+    },
+    {
+      "word": "water",
+      "translation": "น้ำ",
+      "example": "I drink water after running."
+    },
+    {
+      "word": "weather",
+      "translation": "อากาศ",
+      "example": "The weather changed suddenly."
+    },
+    {
+      "word": "week",
+      "translation": "สัปดาห์",
+      "example": "She will be away next week."
+    },
+    {
+      "word": "weekend",
+      "translation": "สุดสัปดาห์",
+      "example": "We stayed home all weekend."
+    },
+    {
+      "word": "white",
+      "translation": "สีขาว",
+      "example": "The walls are white."
+    },
+    {
+      "word": "wind",
+      "translation": "ลม",
+      "example": "A cold wind came from the sea."
+    },
+    {
+      "word": "window",
+      "translation": "หน้าต่าง",
+      "example": "Open the window for some air."
+    },
+    {
+      "word": "woman",
+      "translation": "ผู้หญิง",
+      "example": "The woman next to me is a nurse."
+    },
+    {
+      "word": "word",
+      "translation": "คำ",
+      "example": "I did not understand that word."
+    },
+    {
+      "word": "write",
+      "translation": "เขียน",
+      "example": "Please write your answer here."
+    },
+    {
+      "word": "year",
+      "translation": "ปี",
+      "example": "They moved here last year."
+    },
+    {
+      "word": "young",
+      "translation": "อายุน้อย",
+      "example": "She is too young to drive."
+    },
+    {
+      "word": "actor",
+      "translation": "นักแสดงชาย",
+      "example": "The actor forgot his line."
+    },
+    {
+      "word": "actress",
+      "translation": "นักแสดงหญิง",
+      "example": "The actress waved at the crowd."
+    },
+    {
+      "word": "add",
+      "translation": "เพิ่มใส่",
+      "example": "Add a little salt."
+    },
+    {
+      "word": "amazing",
+      "translation": "น่าทึ่ง",
+      "example": "The view was amazing."
+    },
+    {
+      "word": "article",
+      "translation": "บทความ",
+      "example": "She wrote an article about it."
+    },
+    {
+      "word": "ask",
+      "translation": "ถาม",
+      "example": "Ask the driver where to get off."
+    },
+    {
+      "word": "bath",
+      "translation": "การอาบน้ำในอ่าง",
+      "example": "He had a hot bath."
+    },
+    {
+      "word": "become",
+      "translation": "กลายเป็น",
+      "example": "She became a teacher in June."
+    },
+    {
+      "word": "beer",
+      "translation": "เบียร์",
+      "example": "He ordered one beer."
+    },
+    {
+      "word": "begin",
+      "translation": "เริ่มต้น",
+      "example": "The film begins at eight."
+    },
+    {
+      "word": "beginning",
+      "translation": "จุดเริ่มต้น",
+      "example": "The beginning was slow."
+    },
+    {
+      "word": "behind",
+      "translation": "ข้างหลัง",
+      "example": "The garden is behind the house."
+    },
+    {
+      "word": "believe",
+      "translation": "เชื่อ",
+      "example": "I believe she is right."
+    },
+    {
+      "word": "best",
+      "translation": "ดีที่สุด",
+      "example": "This is the best one."
+    },
+    {
+      "word": "better",
+      "translation": "ดีกว่า",
+      "example": "Her Spanish is better than mine."
+    },
+    {
+      "word": "bike",
+      "translation": "จักรยาน",
+      "example": "He rode his bike to school."
+    },
+    {
+      "word": "boot",
+      "translation": "รองเท้าบูต",
+      "example": "One boot was missing."
+    },
+    {
+      "word": "bored",
+      "translation": "เบื่อ",
+      "example": "The children were bored."
+    },
+    {
+      "word": "boring",
+      "translation": "น่าเบื่อ",
+      "example": "The lesson was boring."
+    },
+    {
+      "word": "born",
+      "translation": "เกิด",
+      "example": "She was born in Chiang Mai."
+    },
+    {
+      "word": "boyfriend",
+      "translation": "แฟนหนุ่ม",
+      "example": "Her boyfriend cooks well."
+    },
+    {
+      "word": "cafe",
+      "translation": "ร้านกาแฟ",
+      "example": "We met at a small cafe."
+    },
+    {
+      "word": "call",
+      "translation": "โทรหา",
+      "example": "Call me after seven."
+    },
+    {
+      "word": "capital",
+      "translation": "เมืองหลวง",
+      "example": "Bangkok is the capital."
+    },
+    {
+      "word": "career",
+      "translation": "อาชีพการงาน",
+      "example": "Her career started late."
+    },
+    {
+      "word": "century",
+      "translation": "ศตวรรษ",
+      "example": "The church is a century old."
+    },
+    {
+      "word": "chart",
+      "translation": "แผนภูมิ",
+      "example": "The chart shows the change."
+    },
+    {
+      "word": "check",
+      "translation": "ตรวจสอบ",
+      "example": "Check the time before you go."
+    },
+    {
+      "word": "classroom",
+      "translation": "ห้องเรียน",
+      "example": "The classroom was empty."
+    },
+    {
+      "word": "climb",
+      "translation": "ปีน",
+      "example": "They climbed the hill slowly."
+    },
+    {
+      "word": "club",
+      "translation": "ชมรม",
+      "example": "He joined the tennis club."
+    },
+    {
+      "word": "college",
+      "translation": "วิทยาลัย",
+      "example": "She studies at a college."
+    },
+    {
+      "word": "complete",
+      "translation": "เสร็จสมบูรณ์",
+      "example": "The work is not complete."
+    },
+    {
+      "word": "concert",
+      "translation": "คอนเสิร์ต",
+      "example": "The concert starts at nine."
+    },
+    {
+      "word": "conversation",
+      "translation": "การสนทนา",
+      "example": "We had a long conversation."
+    },
+    {
+      "word": "cooking",
+      "translation": "การทำอาหาร",
+      "example": "Cooking relaxes him."
+    },
+    {
+      "word": "cool",
+      "translation": "เย็นสบาย",
+      "example": "The evening air was cool."
+    },
+    {
+      "word": "correct",
+      "translation": "ถูกต้อง",
+      "example": "That is the correct answer."
+    },
+    {
+      "word": "course",
+      "translation": "หลักสูตร",
+      "example": "He took a course in Spanish."
+    },
+    {
+      "word": "cream",
+      "translation": "ครีม",
+      "example": "She put cream in her coffee."
+    },
+    {
+      "word": "create",
+      "translation": "สร้างสรรค์ขึ้น",
+      "example": "They created a new logo."
+    },
+    {
+      "word": "dad",
+      "translation": "พ่อ (ภาษาพูด)",
+      "example": "My dad drives a lorry."
+    },
+    {
+      "word": "dancer",
+      "translation": "นักเต้น",
+      "example": "The dancer trained for years."
+    },
+    {
+      "word": "date",
+      "translation": "วันที่",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "delicious",
+      "translation": "อร่อย",
+      "example": "The soup was delicious."
+    },
+    {
+      "word": "description",
+      "translation": "คำบรรยายลักษณะ",
+      "example": "Her description was very clear."
+    },
+    {
+      "word": "design",
+      "translation": "การออกแบบ",
+      "example": "The design is very simple."
+    },
+    {
+      "word": "die",
+      "translation": "ตาย",
+      "example": "The plant died in winter."
+    },
+    {
+      "word": "diet",
+      "translation": "การควบคุมอาหาร",
+      "example": "He is on a strict diet."
+    },
+    {
+      "word": "different",
+      "translation": "แตกต่าง",
+      "example": "This one is different."
+    },
+    {
+      "word": "difficult",
+      "translation": "ยากลำบาก",
+      "example": "The exam was difficult."
+    },
+    {
+      "word": "dish",
+      "translation": "จาน",
+      "example": "Wash the last dish, please."
+    },
+    {
+      "word": "dollar",
+      "translation": "ดอลลาร์",
+      "example": "It cost one dollar."
+    },
+    {
+      "word": "downstairs",
+      "translation": "ชั้นล่าง",
+      "example": "The kitchen is downstairs."
+    },
+    {
+      "word": "driver",
+      "translation": "คนขับ",
+      "example": "The driver waited outside."
+    },
+    {
+      "word": "east",
+      "translation": "ทิศตะวันออก",
+      "example": "The wind comes from the east."
+    },
+    {
+      "word": "elephant",
+      "translation": "ช้าง",
+      "example": "The elephant drank from the river."
+    },
+    {
+      "word": "enjoy",
+      "translation": "เพลิดเพลินกับ",
+      "example": "I enjoy long walks."
+    },
+    {
+      "word": "enough",
+      "translation": "เพียงพอ",
+      "example": "There is not enough rice."
+    },
+    {
+      "word": "event",
+      "translation": "งานเหตุการณ์",
+      "example": "The event lasted two days."
+    },
+    {
+      "word": "everybody",
+      "translation": "ทุกคน",
+      "example": "Everybody arrived on time."
+    },
+    {
+      "word": "everything",
+      "translation": "ทุกสิ่งทุกอย่าง",
+      "example": "Everything is ready."
+    },
+    {
+      "word": "excited",
+      "translation": "ตื่นเต้นดีใจ",
+      "example": "The children were excited."
+    },
+    {
+      "word": "exciting",
+      "translation": "น่าตื่นเต้น",
+      "example": "It was an exciting match."
+    },
+    {
+      "word": "extra",
+      "translation": "เพิ่มเติมพิเศษ",
+      "example": "We need one extra chair."
+    },
+    {
+      "word": "fall",
+      "translation": "ร่วงหล่น",
+      "example": "Leaves fall in October."
+    },
+    {
+      "word": "false",
+      "translation": "เท็จ",
+      "example": "That statement is false."
+    },
+    {
+      "word": "fantastic",
+      "translation": "เยี่ยมยอด",
+      "example": "The concert was fantastic."
+    },
+    {
+      "word": "farmer",
+      "translation": "ชาวนาชาวไร่",
+      "example": "The farmer sold his cows."
+    },
+    {
+      "word": "fat",
+      "translation": "ไขมัน",
+      "example": "The soup is too fat."
+    },
+    {
+      "word": "favourite",
+      "translation": "ที่ชอบที่สุด",
+      "example": "This is my favourite song."
+    },
+    {
+      "word": "feeling",
+      "translation": "ความรู้สึก",
+      "example": "I had a strange feeling."
+    },
+    {
+      "word": "fill",
+      "translation": "เติมให้เต็ม",
+      "example": "Fill the glass slowly."
+    },
+    {
+      "word": "final",
+      "translation": "สุดท้าย",
+      "example": "This is the final version."
+    },
+    {
+      "word": "fine",
+      "translation": "ดีงาม",
+      "example": "The weather was fine."
+    },
+    {
+      "word": "finish",
+      "translation": "ทำให้เสร็จ",
+      "example": "Finish your work first."
+    },
+    {
+      "word": "flight",
+      "translation": "เที่ยวบิน",
+      "example": "The flight was delayed."
+    },
+    {
+      "word": "form",
+      "translation": "แบบฟอร์ม",
+      "example": "Fill in the form in ink."
+    },
+    {
+      "word": "friendly",
+      "translation": "เป็นมิตร",
+      "example": "The staff were very friendly."
+    },
+    {
+      "word": "future",
+      "translation": "อนาคต",
+      "example": "Nobody knows the future."
+    },
+    {
+      "word": "geography",
+      "translation": "ภูมิศาสตร์",
+      "example": "She teaches geography."
+    },
+    {
+      "word": "girlfriend",
+      "translation": "แฟนสาว",
+      "example": "His girlfriend studies law."
+    },
+    {
+      "word": "great",
+      "translation": "เยี่ยม",
+      "example": "That is a great idea."
+    },
+    {
+      "word": "grey",
+      "translation": "สีเทา",
+      "example": "The sky turned grey."
+    },
+    {
+      "word": "guess",
+      "translation": "เดา",
+      "example": "Guess how old he is."
+    },
+    {
+      "word": "gym",
+      "translation": "โรงยิม",
+      "example": "She goes to the gym daily."
+    },
+    {
+      "word": "hair",
+      "translation": "ผม",
+      "example": "Her hair is very long."
+    },
+    {
+      "word": "half",
+      "translation": "ครึ่งหนึ่ง",
+      "example": "Half the class was absent."
+    },
+    {
+      "word": "hand",
+      "translation": "มือ",
+      "example": "He raised his hand."
+    },
+    {
+      "word": "happen",
+      "translation": "เกิดขึ้น",
+      "example": "What happened last night?"
+    },
+    {
+      "word": "hat",
+      "translation": "หมวก",
+      "example": "He lost his hat on the bus."
+    },
+    {
+      "word": "hate",
+      "translation": "เกลียด",
+      "example": "I hate waiting in queues."
+    },
+    {
+      "word": "head",
+      "translation": "ศีรษะ",
+      "example": "He hit his head on the door."
+    },
+    {
+      "word": "healthy",
+      "translation": "ที่ดีต่อสุขภาพ",
+      "example": "She eats very healthy food."
+    },
+    {
+      "word": "high",
+      "translation": "สูง",
+      "example": "The wall is too high."
+    },
+    {
+      "word": "history",
+      "translation": "ประวัติศาสตร์",
+      "example": "He studies history."
+    },
+    {
+      "word": "hobby",
+      "translation": "งานอดิเรก",
+      "example": "Painting is her hobby."
+    },
+    {
+      "word": "homework",
+      "translation": "การบ้าน",
+      "example": "He finished his homework early."
+    },
+    {
+      "word": "hope",
+      "translation": "หวัง",
+      "example": "I hope she arrives soon."
+    },
+    {
+      "word": "horse",
+      "translation": "ม้า",
+      "example": "The horse ran across the field."
+    },
+    {
+      "word": "however",
+      "translation": "อย่างไรก็ตาม",
+      "example": "It rained; however, we walked."
+    },
+    {
+      "word": "hungry",
+      "translation": "หิว",
+      "example": "The children were hungry."
+    },
+    {
+      "word": "husband",
+      "translation": "สามี",
+      "example": "Her husband is a nurse."
+    },
+    {
+      "word": "ice",
+      "translation": "น้ำแข็ง",
+      "example": "There was ice on the road."
+    },
+    {
+      "word": "imagine",
+      "translation": "จินตนาการ",
+      "example": "Imagine living there."
+    },
+    {
+      "word": "important",
+      "translation": "สำคัญ",
+      "example": "This part is important."
+    },
+    {
+      "word": "include",
+      "translation": "รวมถึง",
+      "example": "The price includes breakfast."
+    },
+    {
+      "word": "information",
+      "translation": "ข้อมูลข่าวสาร",
+      "example": "The information was wrong."
+    },
+    {
+      "word": "interest",
+      "translation": "ความสนใจ",
+      "example": "He has no interest in sport."
+    },
+    {
+      "word": "interested",
+      "translation": "ที่สนใจ",
+      "example": "She is interested in art."
+    },
+    {
+      "word": "interesting",
+      "translation": "น่าสนใจ",
+      "example": "The book is very interesting."
+    },
+    {
+      "word": "internet",
+      "translation": "อินเทอร์เน็ต",
+      "example": "The internet is slow here."
+    },
+    {
+      "word": "interview",
+      "translation": "การสัมภาษณ์",
+      "example": "The interview lasted an hour."
+    },
+    {
+      "word": "introduce",
+      "translation": "แนะนำให้รู้จัก",
+      "example": "Let me introduce my sister."
+    },
+    {
+      "word": "island",
+      "translation": "เกาะ",
+      "example": "The island has one shop."
+    },
+    {
+      "word": "jacket",
+      "translation": "เสื้อแจ็กเก็ต",
+      "example": "He left his jacket behind."
+    },
+    {
+      "word": "jeans",
+      "translation": "กางเกงยีนส์",
+      "example": "These jeans are too tight."
+    },
+    {
+      "word": "job",
+      "translation": "งานอาชีพ",
+      "example": "She started a new job."
+    },
+    {
+      "word": "join",
+      "translation": "เข้าร่วม",
+      "example": "Join us for dinner."
+    },
+    {
+      "word": "juice",
+      "translation": "น้ำผลไม้",
+      "example": "He drank orange juice."
+    },
+    {
+      "word": "keep",
+      "translation": "เก็บไว้",
+      "example": "Keep the receipt."
+    },
+    {
+      "word": "key",
+      "translation": "กุญแจ",
+      "example": "I lost the key again."
+    },
+    {
+      "word": "kind",
+      "translation": "ใจดี",
+      "example": "She was very kind to us."
+    },
+    {
+      "word": "know",
+      "translation": "รู้",
+      "example": "I know the answer."
+    },
+    {
+      "word": "land",
+      "translation": "ลงจอด",
+      "example": "The plane landed safely."
+    },
+    {
+      "word": "large",
+      "translation": "ใหญ่โต",
+      "example": "They bought a large table."
+    },
+    {
+      "word": "later",
+      "translation": "ภายหลัง",
+      "example": "See you later."
+    },
+    {
+      "word": "laugh",
+      "translation": "หัวเราะ",
+      "example": "Everybody laughed at once."
+    },
+    {
+      "word": "leg",
+      "translation": "ขา",
+      "example": "He hurt his leg playing football."
+    },
+    {
+      "word": "lesson",
+      "translation": "บทเรียน",
+      "example": "The lesson lasted an hour."
+    },
+    {
+      "word": "library",
+      "translation": "ห้องสมุด",
+      "example": "The library closes at six."
+    },
+    {
+      "word": "life",
+      "translation": "ชีวิต",
+      "example": "Life here is quiet."
+    },
+    {
+      "word": "like",
+      "translation": "ชอบ",
+      "example": "I like this song."
+    },
+    {
+      "word": "line",
+      "translation": "เส้น",
+      "example": "Draw a straight line."
+    },
+    {
+      "word": "lion",
+      "translation": "สิงโต",
+      "example": "The lion slept all afternoon."
+    },
+    {
+      "word": "list",
+      "translation": "รายการ",
+      "example": "Write a list before shopping."
+    },
+    {
+      "word": "listen",
+      "translation": "ฟัง",
+      "example": "Listen to this song."
+    },
+    {
+      "word": "local",
+      "translation": "ท้องถิ่น",
+      "example": "The local shop sells bread."
+    },
+    {
+      "word": "lose",
+      "translation": "ทำหาย",
+      "example": "Do not lose the ticket."
+    },
+    {
+      "word": "love",
+      "translation": "รัก",
+      "example": "They love the mountains."
+    },
+    {
+      "word": "lunch",
+      "translation": "อาหารกลางวัน",
+      "example": "We had lunch at noon."
+    },
+    {
+      "word": "machine",
+      "translation": "เครื่องจักร",
+      "example": "The machine stopped working."
+    },
+    {
+      "word": "magazine",
+      "translation": "นิตยสาร",
+      "example": "She reads one magazine a month."
+    },
+    {
+      "word": "main",
+      "translation": "หลัก",
+      "example": "The main road is closed."
+    },
+    {
+      "word": "make",
+      "translation": "ทำสร้าง",
+      "example": "She makes her own clothes."
+    },
+    {
+      "word": "married",
+      "translation": "ที่แต่งงานแล้ว",
+      "example": "They got married in May."
+    },
+    {
+      "word": "match",
+      "translation": "การแข่งขันนัดหนึ่ง",
+      "example": "The match ended late."
+    },
+    {
+      "word": "meal",
+      "translation": "มื้ออาหาร",
+      "example": "The meal took two hours."
+    },
+    {
+      "word": "mean",
+      "translation": "หมายความว่า",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "meaning",
+      "translation": "ความหมาย",
+      "example": "The meaning is not clear."
+    },
+    {
+      "word": "meet",
+      "translation": "พบเจอ",
+      "example": "Let us meet at six."
+    },
+    {
+      "word": "member",
+      "translation": "สมาชิก",
+      "example": "Every member pays a fee."
+    },
+    {
+      "word": "blog",
+      "translation": "บล็อก",
+      "example": "She writes a travel blog."
+    },
+    {
+      "word": "dancing",
+      "translation": "การเต้นรำ",
+      "example": "Dancing is her favourite hobby."
+    },
+    {
+      "word": "dialogue",
+      "translation": "บทสนทนา",
+      "example": "The dialogue felt natural."
+    },
+    {
+      "word": "euro",
+      "translation": "ยูโร",
+      "example": "It cost three euros."
+    },
+    {
+      "word": "grandparent",
+      "translation": "ปู่ย่าตายาย",
+      "example": "My grandparent still drives."
+    },
+    {
+      "word": "help",
+      "translation": "ช่วยเหลือ",
+      "example": "Can you help me lift this?"
+    },
+    {
+      "word": "home",
+      "translation": "บ้านที่อยู่",
+      "example": "We go home at six."
+    },
+    {
+      "word": "kilometre",
+      "translation": "กิโลเมตร",
+      "example": "The village is one kilometre away."
+    },
+    {
+      "word": "left",
+      "translation": "ซ้าย",
+      "example": "Turn left at the bank."
+    },
+    {
+      "word": "lot",
+      "translation": "จำนวนมาก",
+      "example": "There is a lot of work today."
+    },
+    {
+      "word": "menu",
+      "translation": "เมนู",
+      "example": "The menu is only in Thai."
+    },
+    {
+      "word": "metre",
+      "translation": "เมตร",
+      "example": "The wall is two metres high."
+    },
+    {
+      "word": "midnight",
+      "translation": "เที่ยงคืน",
+      "example": "They arrived after midnight."
+    },
+    {
+      "word": "mile",
+      "translation": "ไมล์",
+      "example": "We walked three miles."
+    },
+    {
+      "word": "miss",
+      "translation": "คิดถึง",
+      "example": "I miss my old school."
+    },
+    {
+      "word": "mistake",
+      "translation": "ความผิดพลาด",
+      "example": "It was an honest mistake."
+    },
+    {
+      "word": "model",
+      "translation": "รุ่นแบบ",
+      "example": "This model is cheaper."
+    },
+    {
+      "word": "modern",
+      "translation": "ทันสมัย",
+      "example": "The building is very modern."
+    },
+    {
+      "word": "moment",
+      "translation": "ชั่วขณะ",
+      "example": "Wait a moment, please."
+    },
+    {
+      "word": "money",
+      "translation": "เงิน",
+      "example": "He saved money all year."
+    },
+    {
+      "word": "mouse",
+      "translation": "หนู",
+      "example": "A mouse ran under the door."
+    },
+    {
+      "word": "mouth",
+      "translation": "ปาก",
+      "example": "She covered her mouth."
+    },
+    {
+      "word": "move",
+      "translation": "ย้าย",
+      "example": "They moved to a bigger flat."
+    },
+    {
+      "word": "movie",
+      "translation": "ภาพยนตร์",
+      "example": "The movie starts at nine."
+    },
+    {
+      "word": "mum",
+      "translation": "แม่ (ภาษาพูด)",
+      "example": "My mum works nights."
+    },
+    {
+      "word": "museum",
+      "translation": "พิพิธภัณฑ์",
+      "example": "The museum is free on Mondays."
+    },
+    {
+      "word": "natural",
+      "translation": "ตามธรรมชาติ",
+      "example": "It is a natural reaction."
+    },
+    {
+      "word": "negative",
+      "translation": "เชิงลบ",
+      "example": "His answer was negative."
+    },
+    {
+      "word": "neighbour",
+      "translation": "เพื่อนบ้าน",
+      "example": "Our neighbour has three cats."
+    },
+    {
+      "word": "newspaper",
+      "translation": "หนังสือพิมพ์",
+      "example": "He reads a newspaper daily."
+    },
+    {
+      "word": "nice",
+      "translation": "ดีน่าพอใจ",
+      "example": "That was a nice thing to say."
+    },
+    {
+      "word": "north",
+      "translation": "ทิศเหนือ",
+      "example": "The wind came from the north."
+    },
+    {
+      "word": "nose",
+      "translation": "จมูก",
+      "example": "His nose was red from the cold."
+    },
+    {
+      "word": "note",
+      "translation": "บันทึกข้อความ",
+      "example": "She left a note on the table."
+    },
+    {
+      "word": "number",
+      "translation": "หมายเลข",
+      "example": "What is your room number?"
+    },
+    {
+      "word": "nurse",
+      "translation": "พยาบาล",
+      "example": "A nurse checked his arm."
+    },
+    {
+      "word": "object",
+      "translation": "วัตถุสิ่งของ",
+      "example": "A small object fell out."
+    },
+    {
+      "word": "onion",
+      "translation": "หัวหอม",
+      "example": "Chop one onion finely."
+    },
+    {
+      "word": "online",
+      "translation": "ออนไลน์",
+      "example": "I bought it online."
+    },
+    {
+      "word": "open",
+      "translation": "เปิด",
+      "example": "The shop opens at eight."
+    },
+    {
+      "word": "opposite",
+      "translation": "ตรงข้าม",
+      "example": "The bank is opposite the park."
+    },
+    {
+      "word": "orange",
+      "translation": "ส้ม",
+      "example": "She ate an orange."
+    },
+    {
+      "word": "order",
+      "translation": "สั่งอาหาร",
+      "example": "He ordered soup and bread."
+    },
+    {
+      "word": "outside",
+      "translation": "ข้างนอก",
+      "example": "Wait outside, please."
+    },
+    {
+      "word": "page",
+      "translation": "หน้ากระดาษ",
+      "example": "The answer is on page ten."
+    },
+    {
+      "word": "paint",
+      "translation": "ทาสี",
+      "example": "They painted the door blue."
+    },
+    {
+      "word": "painting",
+      "translation": "ภาพวาดระบายสี",
+      "example": "The painting hangs by the stairs."
+    },
+    {
+      "word": "pair",
+      "translation": "คู่",
+      "example": "He bought a pair of shoes."
+    },
+    {
+      "word": "paper",
+      "translation": "กระดาษ",
+      "example": "Write it on paper first."
+    },
+    {
+      "word": "paragraph",
+      "translation": "ย่อหน้า",
+      "example": "The last paragraph is unclear."
+    },
+    {
+      "word": "parent",
+      "translation": "ผู้ปกครองพ่อแม่",
+      "example": "Every parent was invited."
+    },
+    {
+      "word": "part",
+      "translation": "ส่วนหนึ่ง",
+      "example": "This part is difficult."
+    },
+    {
+      "word": "partner",
+      "translation": "คู่ครองหุ้นส่วน",
+      "example": "Her partner runs the shop."
+    },
+    {
+      "word": "pay",
+      "translation": "จ่ายเงิน",
+      "example": "I will pay tomorrow."
+    },
+    {
+      "word": "pen",
+      "translation": "ปากกา",
+      "example": "The pen has run out."
+    },
+    {
+      "word": "pencil",
+      "translation": "ดินสอ",
+      "example": "Use a pencil for the draft."
+    },
+    {
+      "word": "people",
+      "translation": "ผู้คน",
+      "example": "Many people waited outside."
+    },
+    {
+      "word": "pepper",
+      "translation": "พริกไทย",
+      "example": "Add salt and pepper."
+    },
+    {
+      "word": "perfect",
+      "translation": "สมบูรณ์แบบ",
+      "example": "The weather was perfect."
+    },
+    {
+      "word": "person",
+      "translation": "บุคคล",
+      "example": "Only one person answered."
+    },
+    {
+      "word": "personal",
+      "translation": "ส่วนตัว",
+      "example": "That is a personal question."
+    },
+    {
+      "word": "phone",
+      "translation": "โทรศัพท์",
+      "example": "My phone is nearly dead."
+    },
+    {
+      "word": "photograph",
+      "translation": "ภาพถ่าย",
+      "example": "He took a photograph of the bridge."
+    },
+    {
+      "word": "phrase",
+      "translation": "วลี",
+      "example": "That phrase is hard to translate."
+    },
+    {
+      "word": "piano",
+      "translation": "เปียโน",
+      "example": "She plays the piano well."
+    },
+    {
+      "word": "picture",
+      "translation": "รูปภาพ",
+      "example": "The picture is crooked."
+    },
+    {
+      "word": "piece",
+      "translation": "ชิ้น",
+      "example": "Take one piece each."
+    },
+    {
+      "word": "pig",
+      "translation": "หมู",
+      "example": "The pig slept in the shade."
+    },
+    {
+      "word": "pink",
+      "translation": "สีชมพู",
+      "example": "She wore a pink scarf."
+    },
+    {
+      "word": "place",
+      "translation": "สถานที่",
+      "example": "This is a good place to stop."
+    },
+    {
+      "word": "plane",
+      "translation": "เครื่องบิน",
+      "example": "The plane was two hours late."
+    },
+    {
+      "word": "plant",
+      "translation": "ต้นไม้พืช",
+      "example": "Water the plant twice a week."
+    },
+    {
+      "word": "play",
+      "translation": "เล่น",
+      "example": "The children play outside."
+    },
+    {
+      "word": "player",
+      "translation": "ผู้เล่น",
+      "example": "One player was injured."
+    },
+    {
+      "word": "point",
+      "translation": "ประเด็น",
+      "example": "He made a good point."
+    },
+    {
+      "word": "police",
+      "translation": "ตำรวจ",
+      "example": "The police arrived quickly."
+    },
+    {
+      "word": "pool",
+      "translation": "สระว่ายน้ำ",
+      "example": "The pool closes at eight."
+    },
+    {
+      "word": "popular",
+      "translation": "เป็นที่นิยม",
+      "example": "That song is very popular."
+    },
+    {
+      "word": "positive",
+      "translation": "เชิงบวก",
+      "example": "The result was positive."
+    },
+    {
+      "word": "post",
+      "translation": "ส่งไปรษณีย์",
+      "example": "I will post the letter today."
+    },
+    {
+      "word": "potato",
+      "translation": "มันฝรั่ง",
+      "example": "Peel two potatoes."
+    },
+    {
+      "word": "pound",
+      "translation": "ปอนด์",
+      "example": "The bag weighs one pound."
+    },
+    {
+      "word": "practice",
+      "translation": "การฝึกฝน",
+      "example": "Practice makes it easier."
+    },
+    {
+      "word": "prepare",
+      "translation": "เตรียม",
+      "example": "Prepare the room before noon."
+    },
+    {
+      "word": "present",
+      "translation": "ของขวัญ",
+      "example": "She gave him a present."
+    },
+    {
+      "word": "pretty",
+      "translation": "สวยน่ารัก",
+      "example": "The garden is very pretty."
+    },
+    {
+      "word": "probably",
+      "translation": "คงจะ",
+      "example": "He will probably arrive late."
+    },
+    {
+      "word": "product",
+      "translation": "ผลิตภัณฑ์",
+      "example": "The product sells well."
+    },
+    {
+      "word": "programme",
+      "translation": "รายการ",
+      "example": "The programme lasts an hour."
+    },
+    {
+      "word": "purple",
+      "translation": "สีม่วง",
+      "example": "She painted the door purple."
+    },
+    {
+      "word": "put",
+      "translation": "วาง",
+      "example": "Put the box on the shelf."
+    },
+    {
+      "word": "quarter",
+      "translation": "หนึ่งในสี่",
+      "example": "A quarter of the class was absent."
+    },
+    {
+      "word": "quick",
+      "translation": "รวดเร็ว",
+      "example": "That was a quick answer."
+    },
+    {
+      "word": "quickly",
+      "translation": "อย่างรวดเร็ว",
+      "example": "She answered quickly."
+    },
+    {
+      "word": "quite",
+      "translation": "ค่อนข้างจะ",
+      "example": "The room is quite small."
+    },
+    {
+      "word": "radio",
+      "translation": "วิทยุ",
+      "example": "The radio was on all night."
+    },
+    {
+      "word": "reader",
+      "translation": "ผู้อ่าน",
+      "example": "A reader wrote to complain."
+    },
+    {
+      "word": "reading",
+      "translation": "การอ่าน",
+      "example": "Reading helps him sleep."
+    },
+    {
+      "word": "real",
+      "translation": "ของจริงแท้",
+      "example": "Is that a real diamond?"
+    },
+    {
+      "word": "really",
+      "translation": "จริงๆ",
+      "example": "It was really cold outside."
+    },
+    {
+      "word": "relax",
+      "translation": "ผ่อนคลาย",
+      "example": "Sit down and relax."
+    },
+    {
+      "word": "report",
+      "translation": "รายงาน",
+      "example": "She wrote the report alone."
+    },
+    {
+      "word": "restaurant",
+      "translation": "ร้านอาหาร",
+      "example": "The restaurant closes on Mondays."
+    },
+    {
+      "word": "return",
+      "translation": "กลับมา",
+      "example": "They return on Sunday."
+    },
+    {
+      "word": "ride",
+      "translation": "ขี่",
+      "example": "He rides to school daily."
+    },
+    {
+      "word": "road",
+      "translation": "ถนนสายหลัก",
+      "example": "The road was closed for repairs."
+    },
+    {
+      "word": "routine",
+      "translation": "กิจวัตร",
+      "example": "Her morning routine is fixed."
+    },
+    {
+      "word": "run",
+      "translation": "วิ่ง",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "sad",
+      "translation": "เศร้า",
+      "example": "The ending was sad."
+    },
+    {
+      "word": "salad",
+      "translation": "สลัด",
+      "example": "He ordered a green salad."
+    },
+    {
+      "word": "salt",
+      "translation": "เกลือ",
+      "example": "There is too much salt."
+    },
+    {
+      "word": "sandwich",
+      "translation": "แซนด์วิช",
+      "example": "She made a cheese sandwich."
+    },
+    {
+      "word": "science",
+      "translation": "วิทยาศาสตร์",
+      "example": "Science was her best subject."
+    },
+    {
+      "word": "scientist",
+      "translation": "นักวิทยาศาสตร์",
+      "example": "A scientist explained the result."
+    },
+    {
+      "word": "section",
+      "translation": "ส่วนตอน",
+      "example": "The last section is missing."
+    },
+    {
+      "word": "sell",
+      "translation": "ขาย",
+      "example": "They sell bread and milk."
+    },
+    {
+      "word": "sentence",
+      "translation": "ประโยค",
+      "example": "Write one sentence only."
+    },
+    {
+      "word": "share",
+      "translation": "แบ่งปัน",
+      "example": "They shared the last apple."
+    },
+    {
+      "word": "sheep",
+      "translation": "แกะ",
+      "example": "The sheep stayed near the wall."
+    },
+    {
+      "word": "shirt",
+      "translation": "เสื้อเชิ้ต",
+      "example": "His shirt was torn."
+    },
+    {
+      "word": "shoe",
+      "translation": "รองเท้า",
+      "example": "One shoe was under the bed."
+    },
+    {
+      "word": "shopping",
+      "translation": "การจับจ่ายซื้อของ",
+      "example": "We do the shopping on Saturdays."
+    },
+    {
+      "word": "show",
+      "translation": "แสดงให้ดู",
+      "example": "Show me the photograph."
+    },
+    {
+      "word": "shower",
+      "translation": "การอาบน้ำฝักบัว",
+      "example": "He had a cold shower."
+    },
+    {
+      "word": "sick",
+      "translation": "คลื่นไส้ป่วย",
+      "example": "She felt sick on the boat."
+    },
+    {
+      "word": "sing",
+      "translation": "ร้องเพลง",
+      "example": "They sang all the way home."
+    },
+    {
+      "word": "singer",
+      "translation": "นักร้อง",
+      "example": "The singer forgot the words."
+    },
+    {
+      "word": "sit",
+      "translation": "นั่ง",
+      "example": "Please sit here."
+    },
+    {
+      "word": "skirt",
+      "translation": "กระโปรง",
+      "example": "Her skirt was too long."
+    },
+    {
+      "word": "snake",
+      "translation": "งู",
+      "example": "A snake crossed the path."
+    },
+    {
+      "word": "snow",
+      "translation": "หิมะ",
+      "example": "The snow lasted three days."
+    },
+    {
+      "word": "somebody",
+      "translation": "ใครบางคน",
+      "example": "Somebody left the light on."
+    },
+    {
+      "word": "something",
+      "translation": "บางสิ่งบางอย่าง",
+      "example": "Something smells burnt."
+    },
+    {
+      "word": "son",
+      "translation": "ลูกชาย",
+      "example": "Their son studies abroad."
+    },
+    {
+      "word": "song",
+      "translation": "เพลง",
+      "example": "That song is very old."
+    },
+    {
+      "word": "soon",
+      "translation": "เร็วๆ นี้",
+      "example": "She will arrive soon."
+    },
+    {
+      "word": "sound",
+      "translation": "เสียง",
+      "example": "The sound came from upstairs."
+    },
+    {
+      "word": "soup",
+      "translation": "ซุป",
+      "example": "The soup was too salty."
+    },
+    {
+      "word": "south",
+      "translation": "ทิศใต้",
+      "example": "They drove south for hours."
+    },
+    {
+      "word": "space",
+      "translation": "พื้นที่ว่าง",
+      "example": "There is space for one more."
+    },
+    {
+      "word": "special",
+      "translation": "พิเศษ",
+      "example": "Today is a special day."
+    },
+    {
+      "word": "spell",
+      "translation": "สะกดคำ",
+      "example": "How do you spell your name?"
+    },
+    {
+      "word": "spelling",
+      "translation": "การสะกดคำ",
+      "example": "His spelling is very poor."
+    },
+    {
+      "word": "spend",
+      "translation": "ใช้จ่าย",
+      "example": "They spend little on food."
+    },
+    {
+      "word": "sport",
+      "translation": "กีฬา",
+      "example": "Football is his favourite sport."
+    },
+    {
+      "word": "spring",
+      "translation": "ฤดูใบไม้ผลิ",
+      "example": "The garden is best in spring."
+    },
+    {
+      "word": "stand",
+      "translation": "ยืน",
+      "example": "Please stand near the door."
+    },
+    {
+      "word": "start",
+      "translation": "เริ่ม",
+      "example": "The class starts at ten."
+    },
+    {
+      "word": "statement",
+      "translation": "คำแถลง",
+      "example": "His statement was short."
+    },
+    {
+      "word": "stay",
+      "translation": "พักอยู่",
+      "example": "We stayed two nights."
+    },
+    {
+      "word": "stop",
+      "translation": "หยุด",
+      "example": "The bus stops here."
+    },
+    {
+      "word": "study",
+      "translation": "ศึกษาเล่าเรียน",
+      "example": "She studies at night."
+    },
+    {
+      "word": "style",
+      "translation": "สไตล์",
+      "example": "I like her writing style."
+    },
+    {
+      "word": "subject",
+      "translation": "วิชา",
+      "example": "History is my best subject."
+    },
+    {
+      "word": "success",
+      "translation": "ความสำเร็จที่ได้",
+      "example": "The evening was a success."
+    },
+    {
+      "word": "sugar",
+      "translation": "น้ำตาล",
+      "example": "He takes no sugar."
+    },
+    {
+      "word": "summer",
+      "translation": "ฤดูร้อน",
+      "example": "The summer was very dry."
+    },
+    {
+      "word": "supermarket",
+      "translation": "ซูเปอร์มาร์เก็ต",
+      "example": "The supermarket opens early."
+    },
+    {
+      "word": "sure",
+      "translation": "แน่ใจ",
+      "example": "I am not sure about the time."
+    },
+    {
+      "word": "sweater",
+      "translation": "เสื้อกันหนาว",
+      "example": "He wore a thick sweater."
+    },
+    {
+      "word": "swim",
+      "translation": "ว่ายน้ำ",
+      "example": "They swim before breakfast."
+    },
+    {
+      "word": "swimming",
+      "translation": "การว่ายน้ำ",
+      "example": "Swimming keeps her fit."
+    },
+    {
+      "word": "talk",
+      "translation": "พูดคุย",
+      "example": "We talked for an hour."
+    },
+    {
+      "word": "tall",
+      "translation": "สูงโปร่ง",
+      "example": "He is taller than his father."
+    },
+    {
+      "word": "taxi",
+      "translation": "แท็กซี่",
+      "example": "We took a taxi home."
+    },
+    {
+      "word": "blonde",
+      "translation": "ผมบลอนด์",
+      "example": "She has blonde hair."
+    },
+    {
+      "word": "period",
+      "translation": "ช่วงเวลา",
+      "example": "It was a difficult period."
+    },
+    {
+      "word": "policeman",
+      "translation": "ตำรวจชาย",
+      "example": "A policeman stopped the car."
+    },
+    {
+      "word": "team",
+      "translation": "ทีม",
+      "example": "Our team won on Sunday."
+    },
+    {
+      "word": "teenager",
+      "translation": "วัยรุ่น",
+      "example": "The teenager missed the bus."
+    },
+    {
+      "word": "telephone",
+      "translation": "โทรศัพท์บ้าน",
+      "example": "The telephone rang twice."
+    },
+    {
+      "word": "television",
+      "translation": "โทรทัศน์",
+      "example": "The television is too loud."
+    },
+    {
+      "word": "tell",
+      "translation": "บอกเล่า",
+      "example": "Tell me what happened."
+    },
+    {
+      "word": "tennis",
+      "translation": "เทนนิส",
+      "example": "They play tennis on Fridays."
+    },
+    {
+      "word": "terrible",
+      "translation": "แย่มาก",
+      "example": "The weather was terrible."
+    },
+    {
+      "word": "test",
+      "translation": "การทดสอบ",
+      "example": "The test was easier than expected."
+    },
+    {
+      "word": "text",
+      "translation": "ข้อความสั้น",
+      "example": "Send me a text when you arrive."
+    },
+    {
+      "word": "theatre",
+      "translation": "โรงละคร",
+      "example": "The theatre is closed in August."
+    },
+    {
+      "word": "thing",
+      "translation": "สิ่งของ",
+      "example": "One thing still worries me."
+    },
+    {
+      "word": "think",
+      "translation": "คิด",
+      "example": "I think she is right."
+    },
+    {
+      "word": "thirsty",
+      "translation": "กระหายน้ำ",
+      "example": "The children were thirsty."
+    },
+    {
+      "word": "time",
+      "translation": "เวลา",
+      "example": "We had a good time."
+    },
+    {
+      "word": "title",
+      "translation": "ชื่อเรื่อง",
+      "example": "The title is misleading."
+    },
+    {
+      "word": "today",
+      "translation": "วันนี้",
+      "example": "Today is my last day."
+    },
+    {
+      "word": "toilet",
+      "translation": "ห้องสุขา",
+      "example": "The toilet is at the back."
+    },
+    {
+      "word": "tomato",
+      "translation": "มะเขือเทศ",
+      "example": "Slice one tomato thinly."
+    },
+    {
+      "word": "tomorrow",
+      "translation": "พรุ่งนี้",
+      "example": "We leave tomorrow morning."
+    },
+    {
+      "word": "tonight",
+      "translation": "คืนนี้",
+      "example": "There is a concert tonight."
+    },
+    {
+      "word": "tooth",
+      "translation": "ฟัน",
+      "example": "He lost a tooth playing rugby."
+    },
+    {
+      "word": "topic",
+      "translation": "หัวข้อ",
+      "example": "The topic changed quickly."
+    },
+    {
+      "word": "tourist",
+      "translation": "นักท่องเที่ยว",
+      "example": "A tourist asked for directions."
+    },
+    {
+      "word": "town",
+      "translation": "เมืองเล็ก",
+      "example": "The town has one bank."
+    },
+    {
+      "word": "traffic",
+      "translation": "การจราจร",
+      "example": "The traffic was terrible."
+    },
+    {
+      "word": "train",
+      "translation": "รถไฟ",
+      "example": "The train leaves at six."
+    },
+    {
+      "word": "travel",
+      "translation": "เดินทางท่องเที่ยว",
+      "example": "They travel every summer."
+    },
+    {
+      "word": "trip",
+      "translation": "การเดินทางทริป",
+      "example": "The trip took two days."
+    },
+    {
+      "word": "trousers",
+      "translation": "กางเกงขายาว",
+      "example": "His trousers were too long."
+    },
+    {
+      "word": "true",
+      "translation": "จริง",
+      "example": "That story is true."
+    },
+    {
+      "word": "try",
+      "translation": "พยายามลอง",
+      "example": "Try the other door."
+    },
+    {
+      "word": "turn",
+      "translation": "เลี้ยว",
+      "example": "Turn left at the church."
+    },
+    {
+      "word": "type",
+      "translation": "ชนิดประเภท",
+      "example": "What type of bread is it?"
+    },
+    {
+      "word": "umbrella",
+      "translation": "ร่ม",
+      "example": "Take an umbrella, it may rain."
+    },
+    {
+      "word": "uncle",
+      "translation": "ลุงอา",
+      "example": "My uncle lives in Spain."
+    },
+    {
+      "word": "university",
+      "translation": "มหาวิทยาลัย",
+      "example": "She starts university in October."
+    },
+    {
+      "word": "upstairs",
+      "translation": "ชั้นบน",
+      "example": "The bathroom is upstairs."
+    },
+    {
+      "word": "use",
+      "translation": "ใช้",
+      "example": "Use a sharp knife."
+    },
+    {
+      "word": "vegetable",
+      "translation": "ผัก",
+      "example": "Eat one green vegetable daily."
+    },
+    {
+      "word": "video",
+      "translation": "วิดีโอ",
+      "example": "The video would not load."
+    },
+    {
+      "word": "visit",
+      "translation": "เยี่ยมเยียน",
+      "example": "They visit every August."
+    },
+    {
+      "word": "visitor",
+      "translation": "ผู้มาเยือน",
+      "example": "One visitor stayed behind."
+    },
+    {
+      "word": "waiter",
+      "translation": "บริกร",
+      "example": "The waiter forgot the drinks."
+    },
+    {
+      "word": "wake",
+      "translation": "ปลุกตื่น",
+      "example": "Wake me at seven."
+    },
+    {
+      "word": "wall",
+      "translation": "กำแพงผนัง",
+      "example": "The wall needs painting."
+    },
+    {
+      "word": "want",
+      "translation": "ต้องการ",
+      "example": "I want a quiet evening."
+    },
+    {
+      "word": "warm",
+      "translation": "อบอุ่น",
+      "example": "The room is warm enough."
+    },
+    {
+      "word": "wash",
+      "translation": "ล้าง",
+      "example": "Wash your hands first."
+    },
+    {
+      "word": "watch",
+      "translation": "เฝ้าดู",
+      "example": "We watched the sun set."
+    },
+    {
+      "word": "way",
+      "translation": "ทางวิธี",
+      "example": "This is the quickest way."
+    },
+    {
+      "word": "wear",
+      "translation": "สวมใส่",
+      "example": "She wears glasses to read."
+    },
+    {
+      "word": "website",
+      "translation": "เว็บไซต์",
+      "example": "The website is very slow."
+    },
+    {
+      "word": "welcome",
+      "translation": "ต้อนรับ",
+      "example": "They made us very welcome."
+    },
+    {
+      "word": "west",
+      "translation": "ทิศตะวันตก",
+      "example": "The sun sets in the west."
+    },
+    {
+      "word": "wife",
+      "translation": "ภรรยา",
+      "example": "His wife teaches music."
+    },
+    {
+      "word": "win",
+      "translation": "ชนะ",
+      "example": "They won by one goal."
+    },
+    {
+      "word": "wine",
+      "translation": "ไวน์",
+      "example": "The wine was too warm."
+    },
+    {
+      "word": "winter",
+      "translation": "ฤดูหนาว",
+      "example": "The winter was very long."
+    },
+    {
+      "word": "wonderful",
+      "translation": "วิเศษ",
+      "example": "It was a wonderful evening."
+    },
+    {
+      "word": "work",
+      "translation": "ทำงาน",
+      "example": "She works in a hospital."
+    },
+    {
+      "word": "worker",
+      "translation": "คนงาน",
+      "example": "Every worker got a bonus."
+    },
+    {
+      "word": "world",
+      "translation": "โลก",
+      "example": "The world has changed."
+    },
+    {
+      "word": "writer",
+      "translation": "นักเขียน",
+      "example": "The writer lives nearby."
+    },
+    {
+      "word": "writing",
+      "translation": "ลายมือการเขียน",
+      "example": "His writing is hard to read."
+    },
+    {
+      "word": "wrong",
+      "translation": "ผิด",
+      "example": "You have the wrong number."
+    },
+    {
+      "word": "yellow",
+      "translation": "สีเหลือง",
+      "example": "The walls were pale yellow."
+    },
+    {
+      "word": "yesterday",
+      "translation": "เมื่อวาน",
+      "example": "It rained all day yesterday."
+    },
+    {
+      "word": "after",
+      "translation": "หลังจาก",
+      "example": "We left after lunch."
+    },
+    {
+      "word": "again",
+      "translation": "อีกครั้ง",
+      "example": "Try again tomorrow."
+    },
+    {
+      "word": "ago",
+      "translation": "ที่แล้ว",
+      "example": "She left two years ago."
+    },
+    {
+      "word": "anyone",
+      "translation": "ใครก็ได้",
+      "example": "Anyone can join."
+    },
+    {
+      "word": "anything",
+      "translation": "อะไรก็ได้",
+      "example": "Anything is better than waiting."
+    },
+    {
+      "word": "away",
+      "translation": "ห่างออกไป",
+      "example": "The station is ten minutes away."
+    },
+    {
+      "word": "back",
+      "translation": "กลับมา",
+      "example": "He came back at six."
+    },
+    {
+      "word": "before",
+      "translation": "ก่อน",
+      "example": "Call me before you leave."
+    },
+    {
+      "word": "cannot",
+      "translation": "ไม่สามารถ",
+      "example": "I cannot open the door."
+    },
+    {
+      "word": "CD",
+      "translation": "ซีดี",
+      "example": "The CD was scratched."
+    },
+    {
+      "word": "cent",
+      "translation": "เซ็นต์",
+      "example": "It costs fifty cents."
+    },
+    {
+      "word": "dear",
+      "translation": "ที่รัก",
+      "example": "Dear Anna, thank you for the book."
+    },
+    {
+      "word": "DVD",
+      "translation": "ดีวีดี",
+      "example": "The DVD would not play."
+    },
+    {
+      "word": "else",
+      "translation": "อื่น",
+      "example": "Ask somebody else."
+    },
+    {
+      "word": "everyone",
+      "translation": "ทุกคน",
+      "example": "Everyone arrived on time."
+    },
+    {
+      "word": "have to",
+      "translation": "ต้อง",
+      "example": "I have to leave now."
+    },
+    {
+      "word": "ice cream",
+      "translation": "ไอศกรีม",
+      "example": "The children wanted ice cream."
+    },
+    {
+      "word": "next to",
+      "translation": "ถัดจาก",
+      "example": "The bank is next to the market."
+    },
+    {
+      "word": "no one",
+      "translation": "ไม่มีใคร",
+      "example": "No one answered the door."
+    },
+    {
+      "word": "now",
+      "translation": "ตอนนี้",
+      "example": "We should go now."
+    },
+    {
+      "word": "o’clock",
+      "translation": "นาฬิกา (บอกเวลา)",
+      "example": "The train leaves at six o’clock."
+    },
+    {
+      "word": "someone",
+      "translation": "ใครบางคน",
+      "example": "Someone left a note."
+    },
+    {
+      "word": "T-shirt",
+      "translation": "เสื้อยืด",
+      "example": "He wore a plain T-shirt."
+    },
+    {
+      "word": "TV",
+      "translation": "ทีวี",
+      "example": "The TV was on all evening."
+    },
+    {
+      "word": "vacation",
+      "translation": "วันหยุดพักผ่อน",
+      "example": "They took a long vacation."
+    }
+  ]
+}

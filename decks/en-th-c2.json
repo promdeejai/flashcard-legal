@@ -1,0 +1,510 @@
+{
+  "id": "en-th-c2",
+  "name": "English C2",
+  "learn": "en",
+  "native": "th",
+  "level": "C2",
+  "version": 2,
+  "items": [
+    {
+      "word": "abrogate",
+      "translation": "ยกเลิกเพิกถอน",
+      "example": "The treaty was abrogated without warning."
+    },
+    {
+      "word": "abstruse",
+      "translation": "ที่เข้าใจยากลึกลับ",
+      "example": "The argument is needlessly abstruse."
+    },
+    {
+      "word": "acumen",
+      "translation": "ไหวพริบเฉียบคม",
+      "example": "Her business acumen is well known."
+    },
+    {
+      "word": "alacrity",
+      "translation": "ความกระตือรือร้นฉับไว",
+      "example": "He accepted with surprising alacrity."
+    },
+    {
+      "word": "anachronism",
+      "translation": "สิ่งที่ผิดยุคสมัย",
+      "example": "The uniform is a curious anachronism."
+    },
+    {
+      "word": "anathema",
+      "translation": "สิ่งที่รับไม่ได้อย่างยิ่ง",
+      "example": "Compromise was anathema to him."
+    },
+    {
+      "word": "antithesis",
+      "translation": "สิ่งที่ตรงข้ามโดยสิ้นเชิง",
+      "example": "His approach is the antithesis of hers."
+    },
+    {
+      "word": "apocryphal",
+      "translation": "ที่เล่าลือกันแต่ไม่จริง",
+      "example": "The story is almost certainly apocryphal."
+    },
+    {
+      "word": "arcane",
+      "translation": "ที่ลึกลับรู้กันเฉพาะกลุ่ม",
+      "example": "The rules are arcane and unwritten."
+    },
+    {
+      "word": "arrogate",
+      "translation": "ถือเอาอำนาจมาโดยมิชอบ",
+      "example": "The committee arrogated powers to itself."
+    },
+    {
+      "word": "assuage",
+      "translation": "บรรเทาความรู้สึก",
+      "example": "Nothing could assuage her guilt."
+    },
+    {
+      "word": "austerity",
+      "translation": "ความรัดเข็มขัด",
+      "example": "Years of austerity followed the crisis."
+    },
+    {
+      "word": "bellicose",
+      "translation": "ที่ชอบก่อสงคราม",
+      "example": "The speech was unusually bellicose."
+    },
+    {
+      "word": "brevity",
+      "translation": "ความกระชับ",
+      "example": "He valued brevity above all."
+    },
+    {
+      "word": "bulwark",
+      "translation": "ปราการป้องกัน",
+      "example": "The courts are a bulwark against abuse."
+    },
+    {
+      "word": "calumny",
+      "translation": "การใส่ร้ายป้ายสี",
+      "example": "The accusation was pure calumny."
+    },
+    {
+      "word": "candour",
+      "translation": "ความตรงไปตรงมา",
+      "example": "She spoke with disarming candour."
+    },
+    {
+      "word": "castigate",
+      "translation": "ตำหนิอย่างรุนแรง",
+      "example": "The press castigated the decision."
+    },
+    {
+      "word": "catharsis",
+      "translation": "การระบายอารมณ์จนโล่ง",
+      "example": "The play offers a kind of catharsis."
+    },
+    {
+      "word": "cavil",
+      "translation": "จับผิดเรื่องเล็กน้อย",
+      "example": "Do not cavil over small sums."
+    },
+    {
+      "word": "circumvent",
+      "translation": "หลบเลี่ยง",
+      "example": "They found a way to circumvent the rule."
+    },
+    {
+      "word": "coalesce",
+      "translation": "รวมตัวเข้าด้วยกัน",
+      "example": "The groups coalesced into one party."
+    },
+    {
+      "word": "denigrate",
+      "translation": "ลดคุณค่าให้เสียหาย",
+      "example": "He never denigrates a rival."
+    },
+    {
+      "word": "denouement",
+      "translation": "บทสรุปคลี่คลายเรื่อง",
+      "example": "The denouement felt rushed."
+    },
+    {
+      "word": "diaphanous",
+      "translation": "ที่บางจนโปร่งแสง",
+      "example": "She wore something diaphanous and pale."
+    },
+    {
+      "word": "dichotomy",
+      "translation": "การแบ่งขั้วสองด้าน",
+      "example": "He rejects the dichotomy between work and life."
+    },
+    {
+      "word": "disabuse",
+      "translation": "ทำให้เลิกเข้าใจผิด",
+      "example": "Let me disabuse you of that idea."
+    },
+    {
+      "word": "effrontery",
+      "translation": "ความหน้าด้าน",
+      "example": "He had the effrontery to complain."
+    },
+    {
+      "word": "elucidate",
+      "translation": "อธิบายให้กระจ่าง",
+      "example": "Could you elucidate that point?"
+    },
+    {
+      "word": "ennui",
+      "translation": "ความเบื่อหน่ายเซ็ง",
+      "example": "A general ennui settled over the office."
+    },
+    {
+      "word": "ephemeral",
+      "translation": "ที่อยู่ได้ชั่วครู่",
+      "example": "Fame of that kind is ephemeral."
+    },
+    {
+      "word": "equivocation",
+      "translation": "การพูดกำกวมเลี่ยงตอบ",
+      "example": "The answer was pure equivocation."
+    },
+    {
+      "word": "eschew",
+      "translation": "หลีกเลี่ยงไม่ข้องแวะ",
+      "example": "He eschews all forms of publicity."
+    },
+    {
+      "word": "excoriate",
+      "translation": "ประณามอย่างรุนแรง",
+      "example": "The judge excoriated the police."
+    },
+    {
+      "word": "exhort",
+      "translation": "กระตุ้นเร่งเร้า",
+      "example": "She exhorted them to keep going."
+    },
+    {
+      "word": "extrapolate",
+      "translation": "อนุมานคาดการณ์",
+      "example": "It is risky to extrapolate from one case."
+    },
+    {
+      "word": "fastidious",
+      "translation": "ที่จู้จี้พิถีพิถัน",
+      "example": "He is fastidious about detail."
+    },
+    {
+      "word": "fatuous",
+      "translation": "ที่โง่เขลาไร้สาระ",
+      "example": "It was a fatuous suggestion."
+    },
+    {
+      "word": "garrulous",
+      "translation": "ที่พูดมากไม่หยุด",
+      "example": "Their garrulous neighbour cornered us."
+    },
+    {
+      "word": "hackneyed",
+      "translation": "ที่ใช้จนเฝือ",
+      "example": "The phrase is hackneyed now."
+    },
+    {
+      "word": "hegemony",
+      "translation": "อำนาจครอบงำ",
+      "example": "The region resisted foreign hegemony."
+    },
+    {
+      "word": "hubris",
+      "translation": "ความหยิ่งผยองเกินตัว",
+      "example": "The failure was born of hubris."
+    },
+    {
+      "word": "idiosyncrasy",
+      "translation": "ลักษณะเฉพาะตัวที่แปลก",
+      "example": "Every writer has some idiosyncrasy."
+    },
+    {
+      "word": "imbroglio",
+      "translation": "เรื่องยุ่งเหยิงซับซ้อน",
+      "example": "The whole imbroglio lasted a year."
+    },
+    {
+      "word": "importune",
+      "translation": "รบเร้าไม่หยุด",
+      "example": "Reporters importuned her for weeks."
+    },
+    {
+      "word": "ineffable",
+      "translation": "ที่ยากจะบรรยายเป็นคำพูด",
+      "example": "She described an ineffable calm."
+    },
+    {
+      "word": "inexorable",
+      "translation": "ที่หยุดยั้งไม่ได้",
+      "example": "The decline was slow but inexorable."
+    },
+    {
+      "word": "insouciant",
+      "translation": "ที่ไม่ยี่หระใส่ใจ",
+      "example": "He gave an insouciant shrug."
+    },
+    {
+      "word": "intransigent",
+      "translation": "ที่ไม่ยอมประนีประนอม",
+      "example": "Both sides remained intransigent."
+    },
+    {
+      "word": "laconic",
+      "translation": "ที่พูดน้อยแต่ได้ใจความ",
+      "example": "His reply was famously laconic."
+    },
+    {
+      "word": "largesse",
+      "translation": "ความเอื้อเฟื้อใจกว้าง",
+      "example": "The museum survives on private largesse."
+    },
+    {
+      "word": "lugubrious",
+      "translation": "ที่เศร้าหมองหม่น",
+      "example": "He has a lugubrious manner."
+    },
+    {
+      "word": "malaise",
+      "translation": "ความไม่สบายใจที่คลุมเครือ",
+      "example": "A deep malaise runs through the sector."
+    },
+    {
+      "word": "mendacious",
+      "translation": "ที่โกหกบิดเบือน",
+      "example": "The account was wholly mendacious."
+    },
+    {
+      "word": "munificent",
+      "translation": "ที่ให้อย่างใจกว้างมาก",
+      "example": "The gift was munificent."
+    },
+    {
+      "word": "nadir",
+      "translation": "จุดต่ำสุด",
+      "example": "That year marked the nadir of his career."
+    },
+    {
+      "word": "obdurate",
+      "translation": "ที่ดื้อดึงไม่เปลี่ยนใจ",
+      "example": "He was obdurate to the last."
+    },
+    {
+      "word": "obfuscation",
+      "translation": "การทำให้คลุมเครือ",
+      "example": "The report was an exercise in obfuscation."
+    },
+    {
+      "word": "obviate",
+      "translation": "ทำให้ไม่จำเป็นต้องมี",
+      "example": "A clear rule would obviate the dispute."
+    },
+    {
+      "word": "panacea",
+      "translation": "ยาครอบจักรวาล",
+      "example": "Technology is no panacea."
+    },
+    {
+      "word": "pastiche",
+      "translation": "งานเลียนแบบผสมผสาน",
+      "example": "The film is a pastiche of old thrillers."
+    },
+    {
+      "word": "paucity",
+      "translation": "ความขาดแคลน",
+      "example": "There is a paucity of reliable data."
+    },
+    {
+      "word": "pellucid",
+      "translation": "ที่ใสกระจ่างชัดเจน",
+      "example": "Her prose is pellucid."
+    },
+    {
+      "word": "penchant",
+      "translation": "ความชอบเป็นพิเศษ",
+      "example": "She has a penchant for old maps."
+    },
+    {
+      "word": "perfidy",
+      "translation": "ความทรยศคดโกง",
+      "example": "The perfidy of his closest ally stunned him."
+    },
+    {
+      "word": "perfunctory",
+      "translation": "ที่ทำพอเป็นพิธี",
+      "example": "He gave a perfunctory apology."
+    },
+    {
+      "word": "perspicacious",
+      "translation": "ที่มองการณ์เฉียบแหลม",
+      "example": "A perspicacious reader will spot it."
+    },
+    {
+      "word": "phlegmatic",
+      "translation": "ที่เยือกเย็นไม่หวั่นไหว",
+      "example": "She stayed phlegmatic throughout."
+    },
+    {
+      "word": "plethora",
+      "translation": "จำนวนที่มากล้นเกิน",
+      "example": "There is a plethora of options."
+    },
+    {
+      "word": "polemic",
+      "translation": "งานเขียนโต้แย้งรุนแรง",
+      "example": "The essay is a polemic, not a study."
+    },
+    {
+      "word": "promulgate",
+      "translation": "ประกาศใช้",
+      "example": "The new law was promulgated in March."
+    },
+    {
+      "word": "propensity",
+      "translation": "ความโน้มเอียง",
+      "example": "He has a propensity for exaggeration."
+    },
+    {
+      "word": "propitiate",
+      "translation": "เอาใจให้หายโกรธ",
+      "example": "The offering was meant to propitiate."
+    },
+    {
+      "word": "quandary",
+      "translation": "ภาวะกลืนไม่เข้าคายไม่ออก",
+      "example": "She found herself in a real quandary."
+    },
+    {
+      "word": "quixotic",
+      "translation": "ที่เพ้อฝันไม่สมจริง",
+      "example": "It was a quixotic attempt at reform."
+    },
+    {
+      "word": "rapprochement",
+      "translation": "การกลับมาปรองดอง",
+      "example": "The visit signalled a rapprochement."
+    },
+    {
+      "word": "recalcitrant",
+      "translation": "ที่ดื้อรั้นไม่ยอมทำตาม",
+      "example": "The committee proved recalcitrant."
+    },
+    {
+      "word": "redolent",
+      "translation": "ที่ชวนให้นึกถึงกลิ่นอาย",
+      "example": "The room was redolent of old paper."
+    },
+    {
+      "word": "repudiate",
+      "translation": "ปฏิเสธไม่ยอมรับ",
+      "example": "He repudiated the agreement entirely."
+    },
+    {
+      "word": "sanguine",
+      "translation": "ที่มองโลกในแง่ดี",
+      "example": "He remains sanguine about the outcome."
+    },
+    {
+      "word": "schism",
+      "translation": "ความแตกแยก",
+      "example": "The dispute caused a lasting schism."
+    },
+    {
+      "word": "solecism",
+      "translation": "การใช้ภาษาผิดหลัก",
+      "example": "The sentence contains a plain solecism."
+    },
+    {
+      "word": "sophistry",
+      "translation": "การใช้เหตุผลลวง",
+      "example": "The defence was elegant sophistry."
+    },
+    {
+      "word": "soporific",
+      "translation": "ที่ชวนให้ง่วง",
+      "example": "The lecture was frankly soporific."
+    },
+    {
+      "word": "subterfuge",
+      "translation": "อุบายหลอกลวง",
+      "example": "They obtained it by subterfuge."
+    },
+    {
+      "word": "sycophant",
+      "translation": "คนประจบสอพลอ",
+      "example": "The court was full of sycophants."
+    },
+    {
+      "word": "taciturn",
+      "translation": "ที่พูดน้อยเงียบขรึม",
+      "example": "Their guide was taciturn but kind."
+    },
+    {
+      "word": "tautology",
+      "translation": "การกล่าวซ้ำความ",
+      "example": "The sentence collapses into tautology."
+    },
+    {
+      "word": "temporise",
+      "translation": "ถ่วงเวลาไว้ก่อน",
+      "example": "The board temporised for a month."
+    },
+    {
+      "word": "tenacious",
+      "translation": "ที่ยึดมั่นไม่ยอมปล่อย",
+      "example": "She is a tenacious negotiator."
+    },
+    {
+      "word": "traduce",
+      "translation": "ใส่ร้ายป้ายสี",
+      "example": "He felt traduced by the article."
+    },
+    {
+      "word": "trenchant",
+      "translation": "ที่คมคายตรงจุด",
+      "example": "He offered a trenchant critique."
+    },
+    {
+      "word": "truculent",
+      "translation": "ที่ก้าวร้าวหาเรื่อง",
+      "example": "The crowd grew truculent."
+    },
+    {
+      "word": "ubiquitous",
+      "translation": "ที่มีอยู่ทุกหนแห่ง",
+      "example": "Screens are now ubiquitous."
+    },
+    {
+      "word": "umbrage",
+      "translation": "ความขุ่นเคือง",
+      "example": "She took umbrage at the remark."
+    },
+    {
+      "word": "vacillate",
+      "translation": "ลังเลไม่ตัดสินใจ",
+      "example": "She vacillated for weeks."
+    },
+    {
+      "word": "venal",
+      "translation": "ที่เห็นแก่สินบน",
+      "example": "The system was venal from the top down."
+    },
+    {
+      "word": "veracity",
+      "translation": "ความสัตย์จริง",
+      "example": "Nobody questioned his veracity."
+    },
+    {
+      "word": "verisimilitude",
+      "translation": "ความสมจริง",
+      "example": "The novel has remarkable verisimilitude."
+    },
+    {
+      "word": "zenith",
+      "translation": "จุดสูงสุด",
+      "example": "The movement reached its zenith in 1968."
+    }
+  ]
+}

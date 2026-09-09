@@ -1,0 +1,510 @@
+{
+  "id": "en-es-c1",
+  "name": "English C1",
+  "learn": "en",
+  "native": "es",
+  "level": "C1",
+  "version": 2,
+  "items": [
+    {
+      "word": "aftermath",
+      "translation": "las secuelas",
+      "example": "The aftermath of the storm lasted weeks."
+    },
+    {
+      "word": "alleviate",
+      "translation": "aliviar",
+      "example": "The grant helped alleviate the shortage."
+    },
+    {
+      "word": "ambivalent",
+      "translation": "ambivalente",
+      "example": "She felt ambivalent about the offer."
+    },
+    {
+      "word": "anomaly",
+      "translation": "la anomalía",
+      "example": "The reading was dismissed as an anomaly."
+    },
+    {
+      "word": "arbitrary",
+      "translation": "arbitrario",
+      "example": "The deadline seemed entirely arbitrary."
+    },
+    {
+      "word": "aspiration",
+      "translation": "la aspiración",
+      "example": "Her aspiration was always to teach."
+    },
+    {
+      "word": "astute",
+      "translation": "astuto",
+      "example": "That was an astute observation."
+    },
+    {
+      "word": "augment",
+      "translation": "aumentar con adición",
+      "example": "They augmented the team with two hires."
+    },
+    {
+      "word": "backlash",
+      "translation": "la reacción adversa",
+      "example": "The decision provoked a backlash."
+    },
+    {
+      "word": "caveat",
+      "translation": "la salvedad",
+      "example": "He accepted, with one caveat."
+    },
+    {
+      "word": "cogent",
+      "translation": "convincente y sólido",
+      "example": "She made a cogent case for delay."
+    },
+    {
+      "word": "coherent",
+      "translation": "coherente",
+      "example": "He gave a coherent account of the evening."
+    },
+    {
+      "word": "compelling",
+      "translation": "convincente",
+      "example": "The evidence was compelling."
+    },
+    {
+      "word": "conjecture",
+      "translation": "la conjetura",
+      "example": "The rest is pure conjecture."
+    },
+    {
+      "word": "connotation",
+      "translation": "la connotación",
+      "example": "The word carries a negative connotation."
+    },
+    {
+      "word": "consolidate",
+      "translation": "consolidar",
+      "example": "The company consolidated its position."
+    },
+    {
+      "word": "contentious",
+      "translation": "polémico",
+      "example": "Funding remains a contentious issue."
+    },
+    {
+      "word": "contingency",
+      "translation": "la contingencia",
+      "example": "They had no contingency for a strike."
+    },
+    {
+      "word": "culminate",
+      "translation": "culminar",
+      "example": "The tour culminated in a final concert."
+    },
+    {
+      "word": "cursory",
+      "translation": "somero",
+      "example": "He gave the report a cursory glance."
+    },
+    {
+      "word": "curtail",
+      "translation": "recortar",
+      "example": "The trip was curtailed by illness."
+    },
+    {
+      "word": "delineate",
+      "translation": "delinear",
+      "example": "The report delineates each responsibility."
+    },
+    {
+      "word": "deterrent",
+      "translation": "el elemento disuasorio",
+      "example": "The fine is not much of a deterrent."
+    },
+    {
+      "word": "discern",
+      "translation": "discernir",
+      "example": "It is hard to discern a pattern."
+    },
+    {
+      "word": "discreet",
+      "translation": "discreto",
+      "example": "She was discreet about the negotiations."
+    },
+    {
+      "word": "discrepancy",
+      "translation": "la discrepancia",
+      "example": "There is a discrepancy between the two reports."
+    },
+    {
+      "word": "disparate",
+      "translation": "dispar",
+      "example": "The team brought disparate skills."
+    },
+    {
+      "word": "disparity",
+      "translation": "la disparidad",
+      "example": "The pay disparity is widening."
+    },
+    {
+      "word": "dispel",
+      "translation": "disipar",
+      "example": "The letter dispelled every doubt."
+    },
+    {
+      "word": "elusive",
+      "translation": "esquivo",
+      "example": "A solution has proved elusive."
+    },
+    {
+      "word": "emphatic",
+      "translation": "rotundo",
+      "example": "The answer was an emphatic no."
+    },
+    {
+      "word": "entail",
+      "translation": "conllevar",
+      "example": "The role entails frequent travel."
+    },
+    {
+      "word": "entrenched",
+      "translation": "arraigado",
+      "example": "The habit is deeply entrenched."
+    },
+    {
+      "word": "equilibrium",
+      "translation": "el equilibrio",
+      "example": "The market found a new equilibrium."
+    },
+    {
+      "word": "exacerbate",
+      "translation": "agravar",
+      "example": "The delay only exacerbated the problem."
+    },
+    {
+      "word": "expedite",
+      "translation": "agilizar",
+      "example": "A courier will expedite delivery."
+    },
+    {
+      "word": "fallacy",
+      "translation": "la falacia",
+      "example": "That argument rests on a fallacy."
+    },
+    {
+      "word": "formidable",
+      "translation": "formidable",
+      "example": "She is a formidable opponent."
+    },
+    {
+      "word": "hamper",
+      "translation": "obstaculizar",
+      "example": "Bad weather hampered the search."
+    },
+    {
+      "word": "hindsight",
+      "translation": "la retrospectiva",
+      "example": "In hindsight the signs were clear."
+    },
+    {
+      "word": "impede",
+      "translation": "impedir",
+      "example": "Nothing should impede the work."
+    },
+    {
+      "word": "impetus",
+      "translation": "el impulso",
+      "example": "The report gave fresh impetus to reform."
+    },
+    {
+      "word": "incentive",
+      "translation": "el incentivo",
+      "example": "The bonus is an incentive to finish early."
+    },
+    {
+      "word": "incremental",
+      "translation": "incremental",
+      "example": "The gains were incremental but real."
+    },
+    {
+      "word": "indispensable",
+      "translation": "imprescindible",
+      "example": "His local knowledge was indispensable."
+    },
+    {
+      "word": "inference",
+      "translation": "la inferencia",
+      "example": "That is an inference, not a fact."
+    },
+    {
+      "word": "innate",
+      "translation": "innato",
+      "example": "She has an innate sense of balance."
+    },
+    {
+      "word": "insidious",
+      "translation": "insidioso",
+      "example": "The damage was slow and insidious."
+    },
+    {
+      "word": "integral",
+      "translation": "integral",
+      "example": "Testing is integral to the process."
+    },
+    {
+      "word": "intricate",
+      "translation": "intrincado",
+      "example": "The design is remarkably intricate."
+    },
+    {
+      "word": "latent",
+      "translation": "latente",
+      "example": "The fault stayed latent for years."
+    },
+    {
+      "word": "mandate",
+      "translation": "el mandato",
+      "example": "The council has no mandate for this."
+    },
+    {
+      "word": "meticulous",
+      "translation": "meticuloso",
+      "example": "He keeps meticulous records."
+    },
+    {
+      "word": "mitigate",
+      "translation": "mitigar",
+      "example": "Steps were taken to mitigate the risk."
+    },
+    {
+      "word": "momentum",
+      "translation": "el impulso sostenido",
+      "example": "The campaign lost momentum in July."
+    },
+    {
+      "word": "negligible",
+      "translation": "insignificante",
+      "example": "The cost difference is negligible."
+    },
+    {
+      "word": "nuance",
+      "translation": "el matiz",
+      "example": "The translation lost every nuance."
+    },
+    {
+      "word": "opaque",
+      "translation": "opaco",
+      "example": "The wording is deliberately opaque."
+    },
+    {
+      "word": "outset",
+      "translation": "el inicio",
+      "example": "The plan was flawed from the outset."
+    },
+    {
+      "word": "overt",
+      "translation": "manifiesto",
+      "example": "There was no overt hostility."
+    },
+    {
+      "word": "paradigm",
+      "translation": "el paradigma",
+      "example": "The discovery changed the whole paradigm."
+    },
+    {
+      "word": "paradox",
+      "translation": "la paradoja",
+      "example": "It is a paradox worth examining."
+    },
+    {
+      "word": "pervasive",
+      "translation": "omnipresente",
+      "example": "The smell was pervasive."
+    },
+    {
+      "word": "plausible",
+      "translation": "plausible",
+      "example": "That explanation sounds plausible."
+    },
+    {
+      "word": "pragmatic",
+      "translation": "pragmático",
+      "example": "They took a pragmatic view."
+    },
+    {
+      "word": "precedent",
+      "translation": "el precedente",
+      "example": "The ruling set an important precedent."
+    },
+    {
+      "word": "preclude",
+      "translation": "excluir de antemano",
+      "example": "The rules preclude a second attempt."
+    },
+    {
+      "word": "premise",
+      "translation": "la premisa",
+      "example": "The argument rests on a false premise."
+    },
+    {
+      "word": "pretext",
+      "translation": "el pretexto",
+      "example": "The visit was a pretext for a search."
+    },
+    {
+      "word": "proponent",
+      "translation": "el partidario",
+      "example": "She is a leading proponent of the method."
+    },
+    {
+      "word": "prudent",
+      "translation": "prudente",
+      "example": "It would be prudent to wait."
+    },
+    {
+      "word": "rationale",
+      "translation": "la justificación razonada",
+      "example": "Nobody explained the rationale."
+    },
+    {
+      "word": "rebuttal",
+      "translation": "la refutación",
+      "example": "His rebuttal was brief and effective."
+    },
+    {
+      "word": "reconcile",
+      "translation": "conciliar",
+      "example": "It is hard to reconcile the two accounts."
+    },
+    {
+      "word": "redundant",
+      "translation": "redundante",
+      "example": "The second clause is redundant."
+    },
+    {
+      "word": "relinquish",
+      "translation": "renunciar a",
+      "example": "She relinquished the title in May."
+    },
+    {
+      "word": "resilient",
+      "translation": "resiliente",
+      "example": "The economy proved surprisingly resilient."
+    },
+    {
+      "word": "resurgence",
+      "translation": "el resurgimiento",
+      "example": "There has been a resurgence of interest."
+    },
+    {
+      "word": "robust",
+      "translation": "robusto",
+      "example": "The method is robust enough."
+    },
+    {
+      "word": "safeguard",
+      "translation": "la salvaguarda",
+      "example": "The rule is a safeguard against abuse."
+    },
+    {
+      "word": "salient",
+      "translation": "destacado",
+      "example": "He listed the salient points."
+    },
+    {
+      "word": "sanction",
+      "translation": "la sanción",
+      "example": "The committee imposed a sanction."
+    },
+    {
+      "word": "scrutiny",
+      "translation": "el escrutinio",
+      "example": "The accounts came under close scrutiny."
+    },
+    {
+      "word": "stalemate",
+      "translation": "el punto muerto",
+      "example": "The talks ended in stalemate."
+    },
+    {
+      "word": "stigma",
+      "translation": "el estigma",
+      "example": "The stigma has faded over time."
+    },
+    {
+      "word": "streamline",
+      "translation": "simplificar",
+      "example": "They streamlined the whole process."
+    },
+    {
+      "word": "substantiate",
+      "translation": "corroborar",
+      "example": "He could not substantiate the claim."
+    },
+    {
+      "word": "supersede",
+      "translation": "reemplazar",
+      "example": "The new rules supersede the old ones."
+    },
+    {
+      "word": "tentative",
+      "translation": "provisional",
+      "example": "They reached a tentative agreement."
+    },
+    {
+      "word": "tenuous",
+      "translation": "tenue",
+      "example": "The link between them is tenuous."
+    },
+    {
+      "word": "threshold",
+      "translation": "el umbral",
+      "example": "Sales are just below the threshold."
+    },
+    {
+      "word": "trajectory",
+      "translation": "la trayectoria",
+      "example": "The company is on a steady trajectory."
+    },
+    {
+      "word": "underpin",
+      "translation": "sustentar",
+      "example": "Trust underpins the entire system."
+    },
+    {
+      "word": "unprecedented",
+      "translation": "sin precedentes",
+      "example": "The demand was unprecedented."
+    },
+    {
+      "word": "upheaval",
+      "translation": "la agitación",
+      "example": "The merger caused real upheaval."
+    },
+    {
+      "word": "versatile",
+      "translation": "versátil",
+      "example": "It is a versatile little tool."
+    },
+    {
+      "word": "vestige",
+      "translation": "el vestigio",
+      "example": "Not a vestige of the wall remains."
+    },
+    {
+      "word": "wane",
+      "translation": "menguar",
+      "example": "Public interest began to wane."
+    },
+    {
+      "word": "warrant",
+      "translation": "merecer",
+      "example": "The situation warrants immediate action."
+    },
+    {
+      "word": "watershed",
+      "translation": "el punto de inflexión",
+      "example": "The ruling was a watershed for the industry."
+    }
+  ]
+}

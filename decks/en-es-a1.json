@@ -1,0 +1,3580 @@
+{
+  "id": "en-es-a1",
+  "name": "English A1",
+  "learn": "en",
+  "native": "es",
+  "level": "A1",
+  "version": 2,
+  "items": [
+    {
+      "word": "action",
+      "translation": "la acción",
+      "example": "She took action straight away."
+    },
+    {
+      "word": "activity",
+      "translation": "la actividad",
+      "example": "The main activity is swimming."
+    },
+    {
+      "word": "address",
+      "translation": "la dirección",
+      "example": "Write your address on the form."
+    },
+    {
+      "word": "adult",
+      "translation": "el adulto",
+      "example": "One adult and two children, please."
+    },
+    {
+      "word": "advice",
+      "translation": "el consejo",
+      "example": "He gave me useful advice about the job."
+    },
+    {
+      "word": "afraid",
+      "translation": "asustado",
+      "example": "She is afraid of dogs."
+    },
+    {
+      "word": "afternoon",
+      "translation": "la tarde",
+      "example": "We met on Tuesday afternoon."
+    },
+    {
+      "word": "age",
+      "translation": "la edad",
+      "example": "She started work at a young age."
+    },
+    {
+      "word": "agree",
+      "translation": "estar de acuerdo",
+      "example": "We agreed on a later date."
+    },
+    {
+      "word": "air",
+      "translation": "el aire",
+      "example": "The air is cooler by the river."
+    },
+    {
+      "word": "airport",
+      "translation": "el aeropuerto",
+      "example": "The airport is an hour away."
+    },
+    {
+      "word": "always",
+      "translation": "siempre",
+      "example": "She always locks the door."
+    },
+    {
+      "word": "angry",
+      "translation": "enfadado",
+      "example": "He was angry about the delay."
+    },
+    {
+      "word": "animal",
+      "translation": "el animal",
+      "example": "No animal is allowed inside."
+    },
+    {
+      "word": "answer",
+      "translation": "la respuesta",
+      "example": "Nobody knew the answer."
+    },
+    {
+      "word": "apartment",
+      "translation": "el apartamento",
+      "example": "Their apartment is on the top floor."
+    },
+    {
+      "word": "apple",
+      "translation": "la manzana",
+      "example": "I ate an apple after lunch."
+    },
+    {
+      "word": "area",
+      "translation": "la zona",
+      "example": "This area floods every year."
+    },
+    {
+      "word": "arm",
+      "translation": "el brazo",
+      "example": "He broke his arm last winter."
+    },
+    {
+      "word": "arrive",
+      "translation": "llegar",
+      "example": "They arrive on Sunday evening."
+    },
+    {
+      "word": "art",
+      "translation": "el arte",
+      "example": "She studies art in Rome."
+    },
+    {
+      "word": "artist",
+      "translation": "el artista",
+      "example": "The artist works only at night."
+    },
+    {
+      "word": "aunt",
+      "translation": "la tía",
+      "example": "My aunt lives in the next town."
+    },
+    {
+      "word": "autumn",
+      "translation": "el otoño",
+      "example": "The garden is best in autumn."
+    },
+    {
+      "word": "baby",
+      "translation": "el bebé",
+      "example": "The baby is asleep."
+    },
+    {
+      "word": "bad",
+      "translation": "malo",
+      "example": "The weather was bad all week."
+    },
+    {
+      "word": "bag",
+      "translation": "la bolsa",
+      "example": "Her bag was under the seat."
+    },
+    {
+      "word": "ball",
+      "translation": "la pelota",
+      "example": "The ball rolled into the road."
+    },
+    {
+      "word": "banana",
+      "translation": "el plátano",
+      "example": "He eats a banana before running."
+    },
+    {
+      "word": "band",
+      "translation": "la banda",
+      "example": "The band played for two hours."
+    },
+    {
+      "word": "bank",
+      "translation": "el banco",
+      "example": "The bank closes at three."
+    },
+    {
+      "word": "bathroom",
+      "translation": "el baño",
+      "example": "The bathroom is at the end of the hall."
+    },
+    {
+      "word": "beach",
+      "translation": "la playa",
+      "example": "The beach was empty at dawn."
+    },
+    {
+      "word": "beautiful",
+      "translation": "hermoso",
+      "example": "It was a beautiful morning."
+    },
+    {
+      "word": "bed",
+      "translation": "la cama",
+      "example": "The bed is next to the window."
+    },
+    {
+      "word": "bedroom",
+      "translation": "el dormitorio",
+      "example": "The bedroom faces the garden."
+    },
+    {
+      "word": "bicycle",
+      "translation": "la bicicleta",
+      "example": "She rides her bicycle to class."
+    },
+    {
+      "word": "big",
+      "translation": "grande",
+      "example": "They live in a big house."
+    },
+    {
+      "word": "bill",
+      "translation": "la cuenta",
+      "example": "Could we have the bill, please?"
+    },
+    {
+      "word": "bird",
+      "translation": "el pájaro",
+      "example": "A bird woke me at dawn."
+    },
+    {
+      "word": "birthday",
+      "translation": "el cumpleaños",
+      "example": "His birthday is in August."
+    },
+    {
+      "word": "black",
+      "translation": "negro",
+      "example": "He carried a black bag."
+    },
+    {
+      "word": "blue",
+      "translation": "azul",
+      "example": "The sky is very blue today."
+    },
+    {
+      "word": "boat",
+      "translation": "el barco",
+      "example": "The boat leaves at seven."
+    },
+    {
+      "word": "body",
+      "translation": "el cuerpo",
+      "example": "Cold water shocks the body."
+    },
+    {
+      "word": "book",
+      "translation": "el libro",
+      "example": "This book has many pictures."
+    },
+    {
+      "word": "bottle",
+      "translation": "la botella",
+      "example": "There is one bottle left."
+    },
+    {
+      "word": "box",
+      "translation": "la caja",
+      "example": "The box was heavier than it looked."
+    },
+    {
+      "word": "boy",
+      "translation": "el chico",
+      "example": "The boy dropped his ball."
+    },
+    {
+      "word": "bread",
+      "translation": "el pan",
+      "example": "He eats bread for breakfast."
+    },
+    {
+      "word": "break",
+      "translation": "el descanso",
+      "example": "Let us take a short break."
+    },
+    {
+      "word": "breakfast",
+      "translation": "el desayuno",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "bring",
+      "translation": "traer",
+      "example": "Please bring a coat."
+    },
+    {
+      "word": "brother",
+      "translation": "el hermano",
+      "example": "My brother is taller than me."
+    },
+    {
+      "word": "brown",
+      "translation": "marrón",
+      "example": "She wore a brown jacket."
+    },
+    {
+      "word": "build",
+      "translation": "construir",
+      "example": "They will build a new school."
+    },
+    {
+      "word": "building",
+      "translation": "el edificio",
+      "example": "That building is a hundred years old."
+    },
+    {
+      "word": "bus",
+      "translation": "el autobús",
+      "example": "The bus was late again."
+    },
+    {
+      "word": "business",
+      "translation": "el negocio",
+      "example": "His business grew quickly."
+    },
+    {
+      "word": "busy",
+      "translation": "ocupado",
+      "example": "The office is busy on Mondays."
+    },
+    {
+      "word": "butter",
+      "translation": "la mantequilla",
+      "example": "There is no butter left."
+    },
+    {
+      "word": "buy",
+      "translation": "comprar",
+      "example": "I want to buy a ticket."
+    },
+    {
+      "word": "cake",
+      "translation": "el pastel",
+      "example": "She made a cake for the party."
+    },
+    {
+      "word": "camera",
+      "translation": "la cámara",
+      "example": "His camera is very old."
+    },
+    {
+      "word": "car",
+      "translation": "el coche",
+      "example": "Their car is very old."
+    },
+    {
+      "word": "card",
+      "translation": "la tarjeta",
+      "example": "He sent a card in December."
+    },
+    {
+      "word": "carrot",
+      "translation": "la zanahoria",
+      "example": "Cut the carrot into small pieces."
+    },
+    {
+      "word": "carry",
+      "translation": "llevar",
+      "example": "Can you carry this bag?"
+    },
+    {
+      "word": "cat",
+      "translation": "el gato",
+      "example": "My cat hates water."
+    },
+    {
+      "word": "centre",
+      "translation": "el centro",
+      "example": "The station is in the centre."
+    },
+    {
+      "word": "chair",
+      "translation": "la silla",
+      "example": "He pulled out a chair for her."
+    },
+    {
+      "word": "change",
+      "translation": "el cambio",
+      "example": "He kept the change."
+    },
+    {
+      "word": "cheap",
+      "translation": "barato",
+      "example": "The tickets were surprisingly cheap."
+    },
+    {
+      "word": "cheese",
+      "translation": "el queso",
+      "example": "This cheese is very strong."
+    },
+    {
+      "word": "chicken",
+      "translation": "el pollo",
+      "example": "We had chicken and rice."
+    },
+    {
+      "word": "child",
+      "translation": "el niño",
+      "example": "Every child gets a free book."
+    },
+    {
+      "word": "chocolate",
+      "translation": "el chocolate",
+      "example": "She gave me a box of chocolate."
+    },
+    {
+      "word": "choose",
+      "translation": "elegir",
+      "example": "Choose any seat you like."
+    },
+    {
+      "word": "cinema",
+      "translation": "el cine",
+      "example": "The cinema opens at noon."
+    },
+    {
+      "word": "city",
+      "translation": "la ciudad",
+      "example": "This city has three parks."
+    },
+    {
+      "word": "class",
+      "translation": "la clase",
+      "example": "The class starts in ten minutes."
+    },
+    {
+      "word": "clean",
+      "translation": "limpio",
+      "example": "The room is clean now."
+    },
+    {
+      "word": "clock",
+      "translation": "el reloj",
+      "example": "The clock on the wall is slow."
+    },
+    {
+      "word": "clothes",
+      "translation": "la ropa",
+      "example": "Her clothes were still wet."
+    },
+    {
+      "word": "coat",
+      "translation": "el abrigo",
+      "example": "Take a coat, it is cold."
+    },
+    {
+      "word": "coffee",
+      "translation": "el café",
+      "example": "This coffee is too strong."
+    },
+    {
+      "word": "cold",
+      "translation": "frío",
+      "example": "My hands are cold."
+    },
+    {
+      "word": "colour",
+      "translation": "el color",
+      "example": "What colour is the door?"
+    },
+    {
+      "word": "come",
+      "translation": "venir",
+      "example": "Please come at seven."
+    },
+    {
+      "word": "common",
+      "translation": "común",
+      "example": "That name is very common here."
+    },
+    {
+      "word": "company",
+      "translation": "la empresa",
+      "example": "She works for a small company."
+    },
+    {
+      "word": "compare",
+      "translation": "comparar",
+      "example": "Compare the two versions carefully."
+    },
+    {
+      "word": "computer",
+      "translation": "el ordenador",
+      "example": "The computer is very slow today."
+    },
+    {
+      "word": "cook",
+      "translation": "cocinar",
+      "example": "He cooks for the whole family."
+    },
+    {
+      "word": "cost",
+      "translation": "costar",
+      "example": "The repair will cost a lot."
+    },
+    {
+      "word": "country",
+      "translation": "el país",
+      "example": "She has visited nine countries."
+    },
+    {
+      "word": "cousin",
+      "translation": "el primo",
+      "example": "My cousin studies in Japan."
+    },
+    {
+      "word": "cow",
+      "translation": "la vaca",
+      "example": "A cow stood in the road."
+    },
+    {
+      "word": "culture",
+      "translation": "la cultura",
+      "example": "Food is a big part of the culture."
+    },
+    {
+      "word": "cup",
+      "translation": "la taza",
+      "example": "He drank two cups of tea."
+    },
+    {
+      "word": "customer",
+      "translation": "el cliente",
+      "example": "A customer asked for a refund."
+    },
+    {
+      "word": "cut",
+      "translation": "cortar",
+      "example": "She cut the bread carefully."
+    },
+    {
+      "word": "dance",
+      "translation": "bailar",
+      "example": "They danced until midnight."
+    },
+    {
+      "word": "dangerous",
+      "translation": "peligroso",
+      "example": "That road is dangerous in the rain."
+    },
+    {
+      "word": "dark",
+      "translation": "oscuro",
+      "example": "The room was completely dark."
+    },
+    {
+      "word": "daughter",
+      "translation": "la hija",
+      "example": "Their daughter is at university."
+    },
+    {
+      "word": "day",
+      "translation": "el día",
+      "example": "It was a long day at work."
+    },
+    {
+      "word": "decide",
+      "translation": "decidir",
+      "example": "We decided to stay one more night."
+    },
+    {
+      "word": "describe",
+      "translation": "describir",
+      "example": "Can you describe the man?"
+    },
+    {
+      "word": "desk",
+      "translation": "el escritorio",
+      "example": "His desk is by the window."
+    },
+    {
+      "word": "detail",
+      "translation": "el detalle",
+      "example": "He explained every detail."
+    },
+    {
+      "word": "dictionary",
+      "translation": "el diccionario",
+      "example": "Look it up in a dictionary."
+    },
+    {
+      "word": "difference",
+      "translation": "la diferencia",
+      "example": "The difference is small but real."
+    },
+    {
+      "word": "dinner",
+      "translation": "la cena",
+      "example": "Dinner is at seven."
+    },
+    {
+      "word": "dirty",
+      "translation": "sucio",
+      "example": "His shoes were dirty."
+    },
+    {
+      "word": "discuss",
+      "translation": "discutir a fondo",
+      "example": "We discussed it for an hour."
+    },
+    {
+      "word": "doctor",
+      "translation": "el médico",
+      "example": "The doctor arrives at nine."
+    },
+    {
+      "word": "dog",
+      "translation": "el perro",
+      "example": "The dog sleeps under the table."
+    },
+    {
+      "word": "door",
+      "translation": "la puerta",
+      "example": "Please close the door."
+    },
+    {
+      "word": "draw",
+      "translation": "dibujar",
+      "example": "She draws every evening."
+    },
+    {
+      "word": "dress",
+      "translation": "el vestido",
+      "example": "That dress suits you."
+    },
+    {
+      "word": "drink",
+      "translation": "beber",
+      "example": "He does not drink coffee."
+    },
+    {
+      "word": "drive",
+      "translation": "conducir",
+      "example": "He drives to work on Mondays."
+    },
+    {
+      "word": "ear",
+      "translation": "la oreja",
+      "example": "The noise hurt my ear."
+    },
+    {
+      "word": "early",
+      "translation": "temprano",
+      "example": "He arrived early as usual."
+    },
+    {
+      "word": "easy",
+      "translation": "fácil",
+      "example": "The test was easy."
+    },
+    {
+      "word": "eat",
+      "translation": "comer",
+      "example": "We eat dinner at seven."
+    },
+    {
+      "word": "egg",
+      "translation": "el huevo",
+      "example": "She boiled one egg."
+    },
+    {
+      "word": "email",
+      "translation": "el correo electrónico",
+      "example": "Send me an email tonight."
+    },
+    {
+      "word": "end",
+      "translation": "el final",
+      "example": "The end of the film surprised me."
+    },
+    {
+      "word": "evening",
+      "translation": "la tarde noche",
+      "example": "We walk in the evening."
+    },
+    {
+      "word": "exam",
+      "translation": "el examen",
+      "example": "The exam lasted three hours."
+    },
+    {
+      "word": "example",
+      "translation": "el ejemplo",
+      "example": "Give me one clear example."
+    },
+    {
+      "word": "exercise",
+      "translation": "el ejercicio",
+      "example": "She does exercise every morning."
+    },
+    {
+      "word": "expensive",
+      "translation": "caro",
+      "example": "That restaurant is too expensive."
+    },
+    {
+      "word": "explain",
+      "translation": "explicar",
+      "example": "Please explain the rule again."
+    },
+    {
+      "word": "eye",
+      "translation": "el ojo",
+      "example": "She closed one eye."
+    },
+    {
+      "word": "face",
+      "translation": "la cara",
+      "example": "His face was very red."
+    },
+    {
+      "word": "fact",
+      "translation": "el hecho",
+      "example": "That is a simple fact."
+    },
+    {
+      "word": "family",
+      "translation": "la familia",
+      "example": "My family lives in a small town."
+    },
+    {
+      "word": "famous",
+      "translation": "famoso",
+      "example": "The restaurant is famous for its soup."
+    },
+    {
+      "word": "far",
+      "translation": "lejos",
+      "example": "Their house is far from here."
+    },
+    {
+      "word": "farm",
+      "translation": "la granja",
+      "example": "They own a small farm."
+    },
+    {
+      "word": "fast",
+      "translation": "rápido",
+      "example": "That train is very fast."
+    },
+    {
+      "word": "father",
+      "translation": "el padre",
+      "example": "His father drives a taxi."
+    },
+    {
+      "word": "feel",
+      "translation": "sentir",
+      "example": "I feel much better today."
+    },
+    {
+      "word": "festival",
+      "translation": "el festival",
+      "example": "The festival lasts four days."
+    },
+    {
+      "word": "film",
+      "translation": "la película",
+      "example": "The film was three hours long."
+    },
+    {
+      "word": "find",
+      "translation": "encontrar",
+      "example": "I cannot find my keys."
+    },
+    {
+      "word": "fire",
+      "translation": "el fuego",
+      "example": "The fire burned all night."
+    },
+    {
+      "word": "fish",
+      "translation": "el pescado",
+      "example": "The fish was very fresh."
+    },
+    {
+      "word": "flat",
+      "translation": "el piso pequeño",
+      "example": "Their flat is very small."
+    },
+    {
+      "word": "floor",
+      "translation": "el piso",
+      "example": "Our office is on the third floor."
+    },
+    {
+      "word": "flower",
+      "translation": "la flor",
+      "example": "She bought a yellow flower."
+    },
+    {
+      "word": "fly",
+      "translation": "volar",
+      "example": "Birds fly south in winter."
+    },
+    {
+      "word": "follow",
+      "translation": "seguir",
+      "example": "Follow me to the office."
+    },
+    {
+      "word": "food",
+      "translation": "la comida",
+      "example": "The food here is cheap and good."
+    },
+    {
+      "word": "foot",
+      "translation": "el pie",
+      "example": "My foot still hurts."
+    },
+    {
+      "word": "football",
+      "translation": "el fútbol",
+      "example": "They play football on Sundays."
+    },
+    {
+      "word": "forget",
+      "translation": "olvidar",
+      "example": "Do not forget your keys."
+    },
+    {
+      "word": "free",
+      "translation": "gratis",
+      "example": "Entry is free on Mondays."
+    },
+    {
+      "word": "friend",
+      "translation": "el amigo",
+      "example": "My friend lives next door."
+    },
+    {
+      "word": "front",
+      "translation": "el frente",
+      "example": "Wait at the front of the building."
+    },
+    {
+      "word": "fruit",
+      "translation": "la fruta",
+      "example": "Fruit is cheap in summer."
+    },
+    {
+      "word": "full",
+      "translation": "lleno",
+      "example": "The bus was completely full."
+    },
+    {
+      "word": "fun",
+      "translation": "la diversión",
+      "example": "The trip was great fun."
+    },
+    {
+      "word": "funny",
+      "translation": "divertido",
+      "example": "His story was very funny."
+    },
+    {
+      "word": "game",
+      "translation": "el juego",
+      "example": "The game ended in a draw."
+    },
+    {
+      "word": "garden",
+      "translation": "el jardín",
+      "example": "Their garden is full of flowers."
+    },
+    {
+      "word": "girl",
+      "translation": "la chica",
+      "example": "A girl waved from the window."
+    },
+    {
+      "word": "give",
+      "translation": "dar",
+      "example": "Give me one minute."
+    },
+    {
+      "word": "glass",
+      "translation": "el vaso",
+      "example": "She broke a glass this morning."
+    },
+    {
+      "word": "go",
+      "translation": "ir",
+      "example": "We go to the market on Friday."
+    },
+    {
+      "word": "good",
+      "translation": "bueno",
+      "example": "This is a good idea."
+    },
+    {
+      "word": "grandfather",
+      "translation": "el abuelo",
+      "example": "My grandfather was a fisherman."
+    },
+    {
+      "word": "grandmother",
+      "translation": "la abuela",
+      "example": "Her grandmother still cooks daily."
+    },
+    {
+      "word": "green",
+      "translation": "verde",
+      "example": "The fields turn green in May."
+    },
+    {
+      "word": "group",
+      "translation": "el grupo",
+      "example": "A group of students waited outside."
+    },
+    {
+      "word": "grow",
+      "translation": "crecer",
+      "example": "These plants grow very fast."
+    },
+    {
+      "word": "guitar",
+      "translation": "la guitarra",
+      "example": "He plays the guitar badly."
+    },
+    {
+      "word": "happy",
+      "translation": "feliz",
+      "example": "She was happy to see him."
+    },
+    {
+      "word": "hard",
+      "translation": "difícil",
+      "example": "This question is hard."
+    },
+    {
+      "word": "health",
+      "translation": "la salud",
+      "example": "His health improved slowly."
+    },
+    {
+      "word": "hear",
+      "translation": "oír",
+      "example": "I cannot hear you."
+    },
+    {
+      "word": "holiday",
+      "translation": "las vacaciones",
+      "example": "We took a short holiday in June."
+    },
+    {
+      "word": "hospital",
+      "translation": "el hospital",
+      "example": "The hospital is behind the school."
+    },
+    {
+      "word": "hot",
+      "translation": "caliente",
+      "example": "The tea is still hot."
+    },
+    {
+      "word": "hotel",
+      "translation": "el hotel",
+      "example": "The hotel was near the beach."
+    },
+    {
+      "word": "hour",
+      "translation": "la hora",
+      "example": "The trip takes about an hour."
+    },
+    {
+      "word": "house",
+      "translation": "la casa",
+      "example": "Their house has a red door."
+    },
+    {
+      "word": "idea",
+      "translation": "la idea",
+      "example": "That is a good idea."
+    },
+    {
+      "word": "improve",
+      "translation": "mejorar",
+      "example": "His writing has improved a lot."
+    },
+    {
+      "word": "journey",
+      "translation": "el trayecto",
+      "example": "The journey home took all day."
+    },
+    {
+      "word": "kitchen",
+      "translation": "la cocina",
+      "example": "She is cooking in the kitchen."
+    },
+    {
+      "word": "language",
+      "translation": "el idioma",
+      "example": "Thai is a difficult language to write."
+    },
+    {
+      "word": "late",
+      "translation": "tarde",
+      "example": "The train was late again."
+    },
+    {
+      "word": "learn",
+      "translation": "aprender",
+      "example": "She wants to learn Spanish."
+    },
+    {
+      "word": "leave",
+      "translation": "salir",
+      "example": "We leave early tomorrow."
+    },
+    {
+      "word": "letter",
+      "translation": "la carta",
+      "example": "He wrote a letter to his brother."
+    },
+    {
+      "word": "light",
+      "translation": "ligero",
+      "example": "The bag is surprisingly light."
+    },
+    {
+      "word": "long",
+      "translation": "largo",
+      "example": "It was a long walk."
+    },
+    {
+      "word": "look",
+      "translation": "mirar",
+      "example": "Look at that bird."
+    },
+    {
+      "word": "man",
+      "translation": "el hombre",
+      "example": "That man works at the bank."
+    },
+    {
+      "word": "map",
+      "translation": "el mapa",
+      "example": "She drew a map on a napkin."
+    },
+    {
+      "word": "market",
+      "translation": "el mercado",
+      "example": "The market opens at dawn."
+    },
+    {
+      "word": "maybe",
+      "translation": "quizás",
+      "example": "Maybe they forgot."
+    },
+    {
+      "word": "meat",
+      "translation": "la carne",
+      "example": "He does not eat meat."
+    },
+    {
+      "word": "meeting",
+      "translation": "la reunión",
+      "example": "The meeting lasted two hours."
+    },
+    {
+      "word": "message",
+      "translation": "el mensaje",
+      "example": "I left a message for you."
+    },
+    {
+      "word": "milk",
+      "translation": "la leche",
+      "example": "The milk is in the fridge."
+    },
+    {
+      "word": "month",
+      "translation": "el mes",
+      "example": "The rent is due every month."
+    },
+    {
+      "word": "morning",
+      "translation": "la mañana",
+      "example": "I run every morning."
+    },
+    {
+      "word": "mother",
+      "translation": "la madre",
+      "example": "My mother cooks on Sundays."
+    },
+    {
+      "word": "mountain",
+      "translation": "la montaña",
+      "example": "The mountain is covered in snow."
+    },
+    {
+      "word": "music",
+      "translation": "la música",
+      "example": "She listens to music while working."
+    },
+    {
+      "word": "name",
+      "translation": "el nombre",
+      "example": "Please write your name at the top."
+    },
+    {
+      "word": "near",
+      "translation": "cerca",
+      "example": "The station is quite near."
+    },
+    {
+      "word": "never",
+      "translation": "nunca",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "new",
+      "translation": "nuevo",
+      "example": "They bought a new table."
+    },
+    {
+      "word": "news",
+      "translation": "la noticia",
+      "example": "The news came late that evening."
+    },
+    {
+      "word": "night",
+      "translation": "la noche",
+      "example": "The street is dark at night."
+    },
+    {
+      "word": "office",
+      "translation": "la oficina",
+      "example": "The office is empty on Fridays."
+    },
+    {
+      "word": "often",
+      "translation": "a menudo",
+      "example": "We often eat outside."
+    },
+    {
+      "word": "old",
+      "translation": "viejo",
+      "example": "This building is very old."
+    },
+    {
+      "word": "opinion",
+      "translation": "la opinión",
+      "example": "Everyone had a different opinion."
+    },
+    {
+      "word": "park",
+      "translation": "el parque",
+      "example": "We walk in the park on Sundays."
+    },
+    {
+      "word": "party",
+      "translation": "la fiesta",
+      "example": "The party ended after midnight."
+    },
+    {
+      "word": "passport",
+      "translation": "el pasaporte",
+      "example": "Keep your passport in your bag."
+    },
+    {
+      "word": "photo",
+      "translation": "la foto",
+      "example": "He showed me a photo of his dog."
+    },
+    {
+      "word": "plan",
+      "translation": "el plan",
+      "example": "Our plan changed at the last minute."
+    },
+    {
+      "word": "poor",
+      "translation": "pobre",
+      "example": "The village was very poor."
+    },
+    {
+      "word": "possible",
+      "translation": "posible",
+      "example": "It is possible but unlikely."
+    },
+    {
+      "word": "practise",
+      "translation": "practicar",
+      "example": "She practises the piano every evening."
+    },
+    {
+      "word": "prefer",
+      "translation": "preferir",
+      "example": "I prefer tea to coffee."
+    },
+    {
+      "word": "price",
+      "translation": "el precio",
+      "example": "The price went up again."
+    },
+    {
+      "word": "problem",
+      "translation": "el problema",
+      "example": "We solved the problem together."
+    },
+    {
+      "word": "project",
+      "translation": "el proyecto",
+      "example": "The project runs until March."
+    },
+    {
+      "word": "question",
+      "translation": "la pregunta",
+      "example": "Her question surprised everyone."
+    },
+    {
+      "word": "quiet",
+      "translation": "silencioso",
+      "example": "The library is very quiet."
+    },
+    {
+      "word": "rain",
+      "translation": "la lluvia",
+      "example": "The rain started at noon."
+    },
+    {
+      "word": "read",
+      "translation": "leer",
+      "example": "I read before bed."
+    },
+    {
+      "word": "ready",
+      "translation": "listo",
+      "example": "Dinner is ready."
+    },
+    {
+      "word": "reason",
+      "translation": "la razón",
+      "example": "There is no reason to worry."
+    },
+    {
+      "word": "red",
+      "translation": "rojo",
+      "example": "She wore a red dress."
+    },
+    {
+      "word": "remember",
+      "translation": "recordar",
+      "example": "I remember his face."
+    },
+    {
+      "word": "repeat",
+      "translation": "repetir",
+      "example": "Could you repeat the question?"
+    },
+    {
+      "word": "result",
+      "translation": "el resultado",
+      "example": "The result surprised everyone."
+    },
+    {
+      "word": "rice",
+      "translation": "el arroz",
+      "example": "We cook rice every day."
+    },
+    {
+      "word": "rich",
+      "translation": "rico",
+      "example": "Her family is not rich."
+    },
+    {
+      "word": "right",
+      "translation": "el derecho",
+      "example": "Every worker has that right."
+    },
+    {
+      "word": "river",
+      "translation": "el río",
+      "example": "They swam in the river."
+    },
+    {
+      "word": "room",
+      "translation": "la habitación",
+      "example": "This room is very bright."
+    },
+    {
+      "word": "rule",
+      "translation": "la regla",
+      "example": "Everyone must follow the same rule."
+    },
+    {
+      "word": "say",
+      "translation": "decir",
+      "example": "He did not say anything."
+    },
+    {
+      "word": "school",
+      "translation": "la escuela",
+      "example": "The school opens at eight."
+    },
+    {
+      "word": "sea",
+      "translation": "el mar",
+      "example": "The sea is calm this morning."
+    },
+    {
+      "word": "see",
+      "translation": "ver",
+      "example": "I can see the sea from here."
+    },
+    {
+      "word": "send",
+      "translation": "enviar",
+      "example": "Please send the file today."
+    },
+    {
+      "word": "shop",
+      "translation": "la tienda",
+      "example": "The shop closes at nine."
+    },
+    {
+      "word": "short",
+      "translation": "corto",
+      "example": "He gave a short answer."
+    },
+    {
+      "word": "similar",
+      "translation": "similar",
+      "example": "Our jobs are quite similar."
+    },
+    {
+      "word": "sister",
+      "translation": "la hermana",
+      "example": "Her sister lives abroad."
+    },
+    {
+      "word": "situation",
+      "translation": "la situación",
+      "example": "The situation is improving."
+    },
+    {
+      "word": "skill",
+      "translation": "la habilidad",
+      "example": "Listening is an underrated skill."
+    },
+    {
+      "word": "sleep",
+      "translation": "dormir",
+      "example": "The baby sleeps all afternoon."
+    },
+    {
+      "word": "slow",
+      "translation": "lento",
+      "example": "The traffic was slow this morning."
+    },
+    {
+      "word": "small",
+      "translation": "pequeño",
+      "example": "She has a small bag."
+    },
+    {
+      "word": "sometimes",
+      "translation": "a veces",
+      "example": "Sometimes she walks to work."
+    },
+    {
+      "word": "speak",
+      "translation": "hablar",
+      "example": "She speaks three languages."
+    },
+    {
+      "word": "star",
+      "translation": "la estrella",
+      "example": "One star appeared above the hill."
+    },
+    {
+      "word": "station",
+      "translation": "la estación",
+      "example": "The station is behind the market."
+    },
+    {
+      "word": "story",
+      "translation": "la historia",
+      "example": "He told us a funny story."
+    },
+    {
+      "word": "street",
+      "translation": "la calle",
+      "example": "Their street is very narrow."
+    },
+    {
+      "word": "strong",
+      "translation": "fuerte",
+      "example": "The coffee here is very strong."
+    },
+    {
+      "word": "student",
+      "translation": "el estudiante",
+      "example": "Every student needs a pen."
+    },
+    {
+      "word": "sun",
+      "translation": "el sol",
+      "example": "The sun is very strong today."
+    },
+    {
+      "word": "table",
+      "translation": "la mesa",
+      "example": "The keys are on the table."
+    },
+    {
+      "word": "take",
+      "translation": "tomar",
+      "example": "Take an umbrella with you."
+    },
+    {
+      "word": "tea",
+      "translation": "el té",
+      "example": "She drinks tea in the evening."
+    },
+    {
+      "word": "teach",
+      "translation": "enseñar",
+      "example": "He teaches history at a school."
+    },
+    {
+      "word": "teacher",
+      "translation": "el profesor",
+      "example": "The teacher asked a question."
+    },
+    {
+      "word": "ticket",
+      "translation": "el billete",
+      "example": "I bought a ticket for the early train."
+    },
+    {
+      "word": "tired",
+      "translation": "cansado",
+      "example": "I felt tired after the meeting."
+    },
+    {
+      "word": "together",
+      "translation": "juntos",
+      "example": "They finished the work together."
+    },
+    {
+      "word": "tree",
+      "translation": "el árbol",
+      "example": "A big tree stands by the gate."
+    },
+    {
+      "word": "understand",
+      "translation": "entender",
+      "example": "I do not understand this word."
+    },
+    {
+      "word": "useful",
+      "translation": "útil",
+      "example": "That was a useful suggestion."
+    },
+    {
+      "word": "village",
+      "translation": "el pueblo",
+      "example": "She grew up in a small village."
+    },
+    {
+      "word": "wait",
+      "translation": "esperar",
+      "example": "We waited for an hour."
+    },
+    {
+      "word": "walk",
+      "translation": "caminar",
+      "example": "They walk to work every day."
+    },
+    {
+      "word": "water",
+      "translation": "el agua",
+      "example": "I drink water after running."
+    },
+    {
+      "word": "weather",
+      "translation": "el tiempo",
+      "example": "The weather changed suddenly."
+    },
+    {
+      "word": "week",
+      "translation": "la semana",
+      "example": "She will be away next week."
+    },
+    {
+      "word": "weekend",
+      "translation": "el fin de semana",
+      "example": "We stayed home all weekend."
+    },
+    {
+      "word": "white",
+      "translation": "blanco",
+      "example": "The walls are white."
+    },
+    {
+      "word": "wind",
+      "translation": "el viento",
+      "example": "A cold wind came from the sea."
+    },
+    {
+      "word": "window",
+      "translation": "la ventana",
+      "example": "Open the window for some air."
+    },
+    {
+      "word": "woman",
+      "translation": "la mujer",
+      "example": "The woman next to me is a nurse."
+    },
+    {
+      "word": "word",
+      "translation": "la palabra",
+      "example": "I did not understand that word."
+    },
+    {
+      "word": "write",
+      "translation": "escribir",
+      "example": "Please write your answer here."
+    },
+    {
+      "word": "year",
+      "translation": "el año",
+      "example": "They moved here last year."
+    },
+    {
+      "word": "young",
+      "translation": "joven",
+      "example": "She is too young to drive."
+    },
+    {
+      "word": "actor",
+      "translation": "el actor",
+      "example": "The actor forgot his line."
+    },
+    {
+      "word": "actress",
+      "translation": "la actriz",
+      "example": "The actress waved at the crowd."
+    },
+    {
+      "word": "add",
+      "translation": "añadir",
+      "example": "Add a little salt."
+    },
+    {
+      "word": "amazing",
+      "translation": "asombroso",
+      "example": "The view was amazing."
+    },
+    {
+      "word": "article",
+      "translation": "el artículo",
+      "example": "She wrote an article about it."
+    },
+    {
+      "word": "ask",
+      "translation": "preguntar",
+      "example": "Ask the driver where to get off."
+    },
+    {
+      "word": "bath",
+      "translation": "el baño de tina",
+      "example": "He had a hot bath."
+    },
+    {
+      "word": "become",
+      "translation": "llegar a ser",
+      "example": "She became a teacher in June."
+    },
+    {
+      "word": "beer",
+      "translation": "la cerveza",
+      "example": "He ordered one beer."
+    },
+    {
+      "word": "begin",
+      "translation": "comenzar",
+      "example": "The film begins at eight."
+    },
+    {
+      "word": "beginning",
+      "translation": "el comienzo",
+      "example": "The beginning was slow."
+    },
+    {
+      "word": "behind",
+      "translation": "detrás de",
+      "example": "The garden is behind the house."
+    },
+    {
+      "word": "believe",
+      "translation": "creer",
+      "example": "I believe she is right."
+    },
+    {
+      "word": "best",
+      "translation": "el mejor",
+      "example": "This is the best one."
+    },
+    {
+      "word": "better",
+      "translation": "mejor",
+      "example": "Her Spanish is better than mine."
+    },
+    {
+      "word": "bike",
+      "translation": "la bici",
+      "example": "He rode his bike to school."
+    },
+    {
+      "word": "boot",
+      "translation": "la bota",
+      "example": "One boot was missing."
+    },
+    {
+      "word": "bored",
+      "translation": "aburrido",
+      "example": "The children were bored."
+    },
+    {
+      "word": "boring",
+      "translation": "aburrido de ver",
+      "example": "The lesson was boring."
+    },
+    {
+      "word": "born",
+      "translation": "nacido",
+      "example": "She was born in Chiang Mai."
+    },
+    {
+      "word": "boyfriend",
+      "translation": "el novio",
+      "example": "Her boyfriend cooks well."
+    },
+    {
+      "word": "cafe",
+      "translation": "la cafetería",
+      "example": "We met at a small cafe."
+    },
+    {
+      "word": "call",
+      "translation": "llamar",
+      "example": "Call me after seven."
+    },
+    {
+      "word": "capital",
+      "translation": "la capital",
+      "example": "Bangkok is the capital."
+    },
+    {
+      "word": "career",
+      "translation": "la carrera profesional",
+      "example": "Her career started late."
+    },
+    {
+      "word": "century",
+      "translation": "el siglo",
+      "example": "The church is a century old."
+    },
+    {
+      "word": "chart",
+      "translation": "el gráfico",
+      "example": "The chart shows the change."
+    },
+    {
+      "word": "check",
+      "translation": "comprobar",
+      "example": "Check the time before you go."
+    },
+    {
+      "word": "classroom",
+      "translation": "el aula",
+      "example": "The classroom was empty."
+    },
+    {
+      "word": "climb",
+      "translation": "escalar",
+      "example": "They climbed the hill slowly."
+    },
+    {
+      "word": "club",
+      "translation": "el club",
+      "example": "He joined the tennis club."
+    },
+    {
+      "word": "college",
+      "translation": "la universidad menor",
+      "example": "She studies at a college."
+    },
+    {
+      "word": "complete",
+      "translation": "completo",
+      "example": "The work is not complete."
+    },
+    {
+      "word": "concert",
+      "translation": "el concierto",
+      "example": "The concert starts at nine."
+    },
+    {
+      "word": "conversation",
+      "translation": "la conversación",
+      "example": "We had a long conversation."
+    },
+    {
+      "word": "cooking",
+      "translation": "la cocina como actividad",
+      "example": "Cooking relaxes him."
+    },
+    {
+      "word": "cool",
+      "translation": "fresco de temperatura",
+      "example": "The evening air was cool."
+    },
+    {
+      "word": "correct",
+      "translation": "correcto",
+      "example": "That is the correct answer."
+    },
+    {
+      "word": "course",
+      "translation": "el curso",
+      "example": "He took a course in Spanish."
+    },
+    {
+      "word": "cream",
+      "translation": "la nata",
+      "example": "She put cream in her coffee."
+    },
+    {
+      "word": "create",
+      "translation": "crear",
+      "example": "They created a new logo."
+    },
+    {
+      "word": "dad",
+      "translation": "papá",
+      "example": "My dad drives a lorry."
+    },
+    {
+      "word": "dancer",
+      "translation": "el bailarín",
+      "example": "The dancer trained for years."
+    },
+    {
+      "word": "date",
+      "translation": "la fecha",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "delicious",
+      "translation": "delicioso",
+      "example": "The soup was delicious."
+    },
+    {
+      "word": "description",
+      "translation": "la descripción",
+      "example": "Her description was very clear."
+    },
+    {
+      "word": "design",
+      "translation": "el diseño",
+      "example": "The design is very simple."
+    },
+    {
+      "word": "die",
+      "translation": "morir",
+      "example": "The plant died in winter."
+    },
+    {
+      "word": "diet",
+      "translation": "la dieta",
+      "example": "He is on a strict diet."
+    },
+    {
+      "word": "different",
+      "translation": "diferente",
+      "example": "This one is different."
+    },
+    {
+      "word": "difficult",
+      "translation": "difícil",
+      "example": "The exam was difficult."
+    },
+    {
+      "word": "dish",
+      "translation": "el plato",
+      "example": "Wash the last dish, please."
+    },
+    {
+      "word": "dollar",
+      "translation": "el dólar",
+      "example": "It cost one dollar."
+    },
+    {
+      "word": "downstairs",
+      "translation": "abajo",
+      "example": "The kitchen is downstairs."
+    },
+    {
+      "word": "driver",
+      "translation": "el conductor",
+      "example": "The driver waited outside."
+    },
+    {
+      "word": "east",
+      "translation": "el este",
+      "example": "The wind comes from the east."
+    },
+    {
+      "word": "elephant",
+      "translation": "el elefante",
+      "example": "The elephant drank from the river."
+    },
+    {
+      "word": "enjoy",
+      "translation": "disfrutar",
+      "example": "I enjoy long walks."
+    },
+    {
+      "word": "enough",
+      "translation": "suficiente",
+      "example": "There is not enough rice."
+    },
+    {
+      "word": "event",
+      "translation": "el evento",
+      "example": "The event lasted two days."
+    },
+    {
+      "word": "everybody",
+      "translation": "todo el mundo",
+      "example": "Everybody arrived on time."
+    },
+    {
+      "word": "everything",
+      "translation": "todo",
+      "example": "Everything is ready."
+    },
+    {
+      "word": "excited",
+      "translation": "emocionado",
+      "example": "The children were excited."
+    },
+    {
+      "word": "exciting",
+      "translation": "emocionante",
+      "example": "It was an exciting match."
+    },
+    {
+      "word": "extra",
+      "translation": "extra",
+      "example": "We need one extra chair."
+    },
+    {
+      "word": "fall",
+      "translation": "caer",
+      "example": "Leaves fall in October."
+    },
+    {
+      "word": "false",
+      "translation": "falso",
+      "example": "That statement is false."
+    },
+    {
+      "word": "fantastic",
+      "translation": "fantástico",
+      "example": "The concert was fantastic."
+    },
+    {
+      "word": "farmer",
+      "translation": "el granjero",
+      "example": "The farmer sold his cows."
+    },
+    {
+      "word": "fat",
+      "translation": "graso",
+      "example": "The soup is too fat."
+    },
+    {
+      "word": "favourite",
+      "translation": "favorito",
+      "example": "This is my favourite song."
+    },
+    {
+      "word": "feeling",
+      "translation": "el sentimiento",
+      "example": "I had a strange feeling."
+    },
+    {
+      "word": "fill",
+      "translation": "llenar",
+      "example": "Fill the glass slowly."
+    },
+    {
+      "word": "final",
+      "translation": "final",
+      "example": "This is the final version."
+    },
+    {
+      "word": "fine",
+      "translation": "bien",
+      "example": "The weather was fine."
+    },
+    {
+      "word": "finish",
+      "translation": "terminar",
+      "example": "Finish your work first."
+    },
+    {
+      "word": "flight",
+      "translation": "el vuelo",
+      "example": "The flight was delayed."
+    },
+    {
+      "word": "form",
+      "translation": "el formulario",
+      "example": "Fill in the form in ink."
+    },
+    {
+      "word": "friendly",
+      "translation": "amable",
+      "example": "The staff were very friendly."
+    },
+    {
+      "word": "future",
+      "translation": "el futuro",
+      "example": "Nobody knows the future."
+    },
+    {
+      "word": "geography",
+      "translation": "la geografía",
+      "example": "She teaches geography."
+    },
+    {
+      "word": "girlfriend",
+      "translation": "la novia",
+      "example": "His girlfriend studies law."
+    },
+    {
+      "word": "great",
+      "translation": "estupendo",
+      "example": "That is a great idea."
+    },
+    {
+      "word": "grey",
+      "translation": "gris",
+      "example": "The sky turned grey."
+    },
+    {
+      "word": "guess",
+      "translation": "adivinar",
+      "example": "Guess how old he is."
+    },
+    {
+      "word": "gym",
+      "translation": "el gimnasio",
+      "example": "She goes to the gym daily."
+    },
+    {
+      "word": "hair",
+      "translation": "el pelo",
+      "example": "Her hair is very long."
+    },
+    {
+      "word": "half",
+      "translation": "la mitad",
+      "example": "Half the class was absent."
+    },
+    {
+      "word": "hand",
+      "translation": "la mano",
+      "example": "He raised his hand."
+    },
+    {
+      "word": "happen",
+      "translation": "ocurrir",
+      "example": "What happened last night?"
+    },
+    {
+      "word": "hat",
+      "translation": "el sombrero",
+      "example": "He lost his hat on the bus."
+    },
+    {
+      "word": "hate",
+      "translation": "odiar",
+      "example": "I hate waiting in queues."
+    },
+    {
+      "word": "head",
+      "translation": "la cabeza",
+      "example": "He hit his head on the door."
+    },
+    {
+      "word": "healthy",
+      "translation": "saludable",
+      "example": "She eats very healthy food."
+    },
+    {
+      "word": "high",
+      "translation": "alto",
+      "example": "The wall is too high."
+    },
+    {
+      "word": "history",
+      "translation": "la historia académica",
+      "example": "He studies history."
+    },
+    {
+      "word": "hobby",
+      "translation": "el pasatiempo",
+      "example": "Painting is her hobby."
+    },
+    {
+      "word": "homework",
+      "translation": "los deberes",
+      "example": "He finished his homework early."
+    },
+    {
+      "word": "hope",
+      "translation": "esperar con ilusión",
+      "example": "I hope she arrives soon."
+    },
+    {
+      "word": "horse",
+      "translation": "el caballo",
+      "example": "The horse ran across the field."
+    },
+    {
+      "word": "however",
+      "translation": "sin embargo",
+      "example": "It rained; however, we walked."
+    },
+    {
+      "word": "hungry",
+      "translation": "hambriento",
+      "example": "The children were hungry."
+    },
+    {
+      "word": "husband",
+      "translation": "el marido",
+      "example": "Her husband is a nurse."
+    },
+    {
+      "word": "ice",
+      "translation": "el hielo",
+      "example": "There was ice on the road."
+    },
+    {
+      "word": "imagine",
+      "translation": "imaginar",
+      "example": "Imagine living there."
+    },
+    {
+      "word": "important",
+      "translation": "importante",
+      "example": "This part is important."
+    },
+    {
+      "word": "include",
+      "translation": "incluir",
+      "example": "The price includes breakfast."
+    },
+    {
+      "word": "information",
+      "translation": "la información",
+      "example": "The information was wrong."
+    },
+    {
+      "word": "interest",
+      "translation": "el interés",
+      "example": "He has no interest in sport."
+    },
+    {
+      "word": "interested",
+      "translation": "interesado",
+      "example": "She is interested in art."
+    },
+    {
+      "word": "interesting",
+      "translation": "interesante",
+      "example": "The book is very interesting."
+    },
+    {
+      "word": "internet",
+      "translation": "internet",
+      "example": "The internet is slow here."
+    },
+    {
+      "word": "interview",
+      "translation": "la entrevista",
+      "example": "The interview lasted an hour."
+    },
+    {
+      "word": "introduce",
+      "translation": "presentar",
+      "example": "Let me introduce my sister."
+    },
+    {
+      "word": "island",
+      "translation": "la isla",
+      "example": "The island has one shop."
+    },
+    {
+      "word": "jacket",
+      "translation": "la chaqueta",
+      "example": "He left his jacket behind."
+    },
+    {
+      "word": "jeans",
+      "translation": "los vaqueros",
+      "example": "These jeans are too tight."
+    },
+    {
+      "word": "job",
+      "translation": "el trabajo",
+      "example": "She started a new job."
+    },
+    {
+      "word": "join",
+      "translation": "unirse",
+      "example": "Join us for dinner."
+    },
+    {
+      "word": "juice",
+      "translation": "el zumo",
+      "example": "He drank orange juice."
+    },
+    {
+      "word": "keep",
+      "translation": "guardar",
+      "example": "Keep the receipt."
+    },
+    {
+      "word": "key",
+      "translation": "la llave",
+      "example": "I lost the key again."
+    },
+    {
+      "word": "kind",
+      "translation": "amable de corazón",
+      "example": "She was very kind to us."
+    },
+    {
+      "word": "know",
+      "translation": "saber",
+      "example": "I know the answer."
+    },
+    {
+      "word": "land",
+      "translation": "aterrizar",
+      "example": "The plane landed safely."
+    },
+    {
+      "word": "large",
+      "translation": "grande de tamaño",
+      "example": "They bought a large table."
+    },
+    {
+      "word": "later",
+      "translation": "más tarde",
+      "example": "See you later."
+    },
+    {
+      "word": "laugh",
+      "translation": "reír",
+      "example": "Everybody laughed at once."
+    },
+    {
+      "word": "leg",
+      "translation": "la pierna",
+      "example": "He hurt his leg playing football."
+    },
+    {
+      "word": "lesson",
+      "translation": "la lección",
+      "example": "The lesson lasted an hour."
+    },
+    {
+      "word": "library",
+      "translation": "la biblioteca",
+      "example": "The library closes at six."
+    },
+    {
+      "word": "life",
+      "translation": "la vida",
+      "example": "Life here is quiet."
+    },
+    {
+      "word": "like",
+      "translation": "gustar",
+      "example": "I like this song."
+    },
+    {
+      "word": "line",
+      "translation": "la línea",
+      "example": "Draw a straight line."
+    },
+    {
+      "word": "lion",
+      "translation": "el león",
+      "example": "The lion slept all afternoon."
+    },
+    {
+      "word": "list",
+      "translation": "la lista",
+      "example": "Write a list before shopping."
+    },
+    {
+      "word": "listen",
+      "translation": "escuchar",
+      "example": "Listen to this song."
+    },
+    {
+      "word": "local",
+      "translation": "local",
+      "example": "The local shop sells bread."
+    },
+    {
+      "word": "lose",
+      "translation": "perder",
+      "example": "Do not lose the ticket."
+    },
+    {
+      "word": "love",
+      "translation": "amar",
+      "example": "They love the mountains."
+    },
+    {
+      "word": "lunch",
+      "translation": "el almuerzo",
+      "example": "We had lunch at noon."
+    },
+    {
+      "word": "machine",
+      "translation": "la máquina",
+      "example": "The machine stopped working."
+    },
+    {
+      "word": "magazine",
+      "translation": "la revista",
+      "example": "She reads one magazine a month."
+    },
+    {
+      "word": "main",
+      "translation": "principal",
+      "example": "The main road is closed."
+    },
+    {
+      "word": "make",
+      "translation": "hacer",
+      "example": "She makes her own clothes."
+    },
+    {
+      "word": "married",
+      "translation": "casado",
+      "example": "They got married in May."
+    },
+    {
+      "word": "match",
+      "translation": "el partido",
+      "example": "The match ended late."
+    },
+    {
+      "word": "meal",
+      "translation": "la comida servida",
+      "example": "The meal took two hours."
+    },
+    {
+      "word": "mean",
+      "translation": "significar",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "meaning",
+      "translation": "el significado",
+      "example": "The meaning is not clear."
+    },
+    {
+      "word": "meet",
+      "translation": "encontrarse",
+      "example": "Let us meet at six."
+    },
+    {
+      "word": "member",
+      "translation": "el miembro",
+      "example": "Every member pays a fee."
+    },
+    {
+      "word": "blog",
+      "translation": "el blog",
+      "example": "She writes a travel blog."
+    },
+    {
+      "word": "dancing",
+      "translation": "el baile",
+      "example": "Dancing is her favourite hobby."
+    },
+    {
+      "word": "dialogue",
+      "translation": "el diálogo",
+      "example": "The dialogue felt natural."
+    },
+    {
+      "word": "euro",
+      "translation": "el euro",
+      "example": "It cost three euros."
+    },
+    {
+      "word": "grandparent",
+      "translation": "el abuelo o la abuela",
+      "example": "My grandparent still drives."
+    },
+    {
+      "word": "help",
+      "translation": "ayudar",
+      "example": "Can you help me lift this?"
+    },
+    {
+      "word": "home",
+      "translation": "el hogar",
+      "example": "We go home at six."
+    },
+    {
+      "word": "kilometre",
+      "translation": "el kilómetro",
+      "example": "The village is one kilometre away."
+    },
+    {
+      "word": "left",
+      "translation": "izquierda",
+      "example": "Turn left at the bank."
+    },
+    {
+      "word": "lot",
+      "translation": "mucho",
+      "example": "There is a lot of work today."
+    },
+    {
+      "word": "menu",
+      "translation": "el menú",
+      "example": "The menu is only in Thai."
+    },
+    {
+      "word": "metre",
+      "translation": "el metro",
+      "example": "The wall is two metres high."
+    },
+    {
+      "word": "midnight",
+      "translation": "la medianoche",
+      "example": "They arrived after midnight."
+    },
+    {
+      "word": "mile",
+      "translation": "la milla",
+      "example": "We walked three miles."
+    },
+    {
+      "word": "miss",
+      "translation": "echar de menos",
+      "example": "I miss my old school."
+    },
+    {
+      "word": "mistake",
+      "translation": "el error cometido",
+      "example": "It was an honest mistake."
+    },
+    {
+      "word": "model",
+      "translation": "el modelo",
+      "example": "This model is cheaper."
+    },
+    {
+      "word": "modern",
+      "translation": "moderno",
+      "example": "The building is very modern."
+    },
+    {
+      "word": "moment",
+      "translation": "el momento",
+      "example": "Wait a moment, please."
+    },
+    {
+      "word": "money",
+      "translation": "el dinero",
+      "example": "He saved money all year."
+    },
+    {
+      "word": "mouse",
+      "translation": "el ratón",
+      "example": "A mouse ran under the door."
+    },
+    {
+      "word": "mouth",
+      "translation": "la boca",
+      "example": "She covered her mouth."
+    },
+    {
+      "word": "move",
+      "translation": "mudarse",
+      "example": "They moved to a bigger flat."
+    },
+    {
+      "word": "movie",
+      "translation": "la película de cine",
+      "example": "The movie starts at nine."
+    },
+    {
+      "word": "mum",
+      "translation": "mamá",
+      "example": "My mum works nights."
+    },
+    {
+      "word": "museum",
+      "translation": "el museo",
+      "example": "The museum is free on Mondays."
+    },
+    {
+      "word": "natural",
+      "translation": "natural",
+      "example": "It is a natural reaction."
+    },
+    {
+      "word": "negative",
+      "translation": "negativo",
+      "example": "His answer was negative."
+    },
+    {
+      "word": "neighbour",
+      "translation": "el vecino",
+      "example": "Our neighbour has three cats."
+    },
+    {
+      "word": "newspaper",
+      "translation": "el periódico",
+      "example": "He reads a newspaper daily."
+    },
+    {
+      "word": "nice",
+      "translation": "agradable",
+      "example": "That was a nice thing to say."
+    },
+    {
+      "word": "north",
+      "translation": "el norte",
+      "example": "The wind came from the north."
+    },
+    {
+      "word": "nose",
+      "translation": "la nariz",
+      "example": "His nose was red from the cold."
+    },
+    {
+      "word": "note",
+      "translation": "la nota",
+      "example": "She left a note on the table."
+    },
+    {
+      "word": "number",
+      "translation": "el número",
+      "example": "What is your room number?"
+    },
+    {
+      "word": "nurse",
+      "translation": "el enfermero",
+      "example": "A nurse checked his arm."
+    },
+    {
+      "word": "object",
+      "translation": "el objeto",
+      "example": "A small object fell out."
+    },
+    {
+      "word": "onion",
+      "translation": "la cebolla",
+      "example": "Chop one onion finely."
+    },
+    {
+      "word": "online",
+      "translation": "en línea",
+      "example": "I bought it online."
+    },
+    {
+      "word": "open",
+      "translation": "abrir",
+      "example": "The shop opens at eight."
+    },
+    {
+      "word": "opposite",
+      "translation": "enfrente de",
+      "example": "The bank is opposite the park."
+    },
+    {
+      "word": "orange",
+      "translation": "la naranja",
+      "example": "She ate an orange."
+    },
+    {
+      "word": "order",
+      "translation": "pedir",
+      "example": "He ordered soup and bread."
+    },
+    {
+      "word": "outside",
+      "translation": "fuera",
+      "example": "Wait outside, please."
+    },
+    {
+      "word": "page",
+      "translation": "la página",
+      "example": "The answer is on page ten."
+    },
+    {
+      "word": "paint",
+      "translation": "pintar",
+      "example": "They painted the door blue."
+    },
+    {
+      "word": "painting",
+      "translation": "el cuadro",
+      "example": "The painting hangs by the stairs."
+    },
+    {
+      "word": "pair",
+      "translation": "el par",
+      "example": "He bought a pair of shoes."
+    },
+    {
+      "word": "paper",
+      "translation": "el papel",
+      "example": "Write it on paper first."
+    },
+    {
+      "word": "paragraph",
+      "translation": "el párrafo",
+      "example": "The last paragraph is unclear."
+    },
+    {
+      "word": "parent",
+      "translation": "el padre o la madre",
+      "example": "Every parent was invited."
+    },
+    {
+      "word": "part",
+      "translation": "la parte",
+      "example": "This part is difficult."
+    },
+    {
+      "word": "partner",
+      "translation": "la pareja",
+      "example": "Her partner runs the shop."
+    },
+    {
+      "word": "pay",
+      "translation": "pagar",
+      "example": "I will pay tomorrow."
+    },
+    {
+      "word": "pen",
+      "translation": "el bolígrafo",
+      "example": "The pen has run out."
+    },
+    {
+      "word": "pencil",
+      "translation": "el lápiz",
+      "example": "Use a pencil for the draft."
+    },
+    {
+      "word": "people",
+      "translation": "la gente",
+      "example": "Many people waited outside."
+    },
+    {
+      "word": "pepper",
+      "translation": "la pimienta",
+      "example": "Add salt and pepper."
+    },
+    {
+      "word": "perfect",
+      "translation": "perfecto",
+      "example": "The weather was perfect."
+    },
+    {
+      "word": "person",
+      "translation": "la persona",
+      "example": "Only one person answered."
+    },
+    {
+      "word": "personal",
+      "translation": "personal",
+      "example": "That is a personal question."
+    },
+    {
+      "word": "phone",
+      "translation": "el teléfono",
+      "example": "My phone is nearly dead."
+    },
+    {
+      "word": "photograph",
+      "translation": "la fotografía",
+      "example": "He took a photograph of the bridge."
+    },
+    {
+      "word": "phrase",
+      "translation": "la frase hecha",
+      "example": "That phrase is hard to translate."
+    },
+    {
+      "word": "piano",
+      "translation": "el piano",
+      "example": "She plays the piano well."
+    },
+    {
+      "word": "picture",
+      "translation": "la imagen colgada",
+      "example": "The picture is crooked."
+    },
+    {
+      "word": "piece",
+      "translation": "el trozo",
+      "example": "Take one piece each."
+    },
+    {
+      "word": "pig",
+      "translation": "el cerdo",
+      "example": "The pig slept in the shade."
+    },
+    {
+      "word": "pink",
+      "translation": "rosa",
+      "example": "She wore a pink scarf."
+    },
+    {
+      "word": "place",
+      "translation": "el lugar",
+      "example": "This is a good place to stop."
+    },
+    {
+      "word": "plane",
+      "translation": "el avión",
+      "example": "The plane was two hours late."
+    },
+    {
+      "word": "plant",
+      "translation": "la planta",
+      "example": "Water the plant twice a week."
+    },
+    {
+      "word": "play",
+      "translation": "jugar",
+      "example": "The children play outside."
+    },
+    {
+      "word": "player",
+      "translation": "el jugador",
+      "example": "One player was injured."
+    },
+    {
+      "word": "point",
+      "translation": "el punto",
+      "example": "He made a good point."
+    },
+    {
+      "word": "police",
+      "translation": "la policía",
+      "example": "The police arrived quickly."
+    },
+    {
+      "word": "pool",
+      "translation": "la piscina",
+      "example": "The pool closes at eight."
+    },
+    {
+      "word": "popular",
+      "translation": "popular",
+      "example": "That song is very popular."
+    },
+    {
+      "word": "positive",
+      "translation": "positivo",
+      "example": "The result was positive."
+    },
+    {
+      "word": "post",
+      "translation": "enviar por correo",
+      "example": "I will post the letter today."
+    },
+    {
+      "word": "potato",
+      "translation": "la patata",
+      "example": "Peel two potatoes."
+    },
+    {
+      "word": "pound",
+      "translation": "la libra",
+      "example": "The bag weighs one pound."
+    },
+    {
+      "word": "practice",
+      "translation": "la práctica",
+      "example": "Practice makes it easier."
+    },
+    {
+      "word": "prepare",
+      "translation": "preparar",
+      "example": "Prepare the room before noon."
+    },
+    {
+      "word": "present",
+      "translation": "el regalo dado",
+      "example": "She gave him a present."
+    },
+    {
+      "word": "pretty",
+      "translation": "bonito",
+      "example": "The garden is very pretty."
+    },
+    {
+      "word": "probably",
+      "translation": "probablemente",
+      "example": "He will probably arrive late."
+    },
+    {
+      "word": "product",
+      "translation": "el producto",
+      "example": "The product sells well."
+    },
+    {
+      "word": "programme",
+      "translation": "el programa",
+      "example": "The programme lasts an hour."
+    },
+    {
+      "word": "purple",
+      "translation": "morado",
+      "example": "She painted the door purple."
+    },
+    {
+      "word": "put",
+      "translation": "poner",
+      "example": "Put the box on the shelf."
+    },
+    {
+      "word": "quarter",
+      "translation": "el cuarto",
+      "example": "A quarter of the class was absent."
+    },
+    {
+      "word": "quick",
+      "translation": "rápido de reacción",
+      "example": "That was a quick answer."
+    },
+    {
+      "word": "quickly",
+      "translation": "rápidamente",
+      "example": "She answered quickly."
+    },
+    {
+      "word": "quite",
+      "translation": "bastante algo",
+      "example": "The room is quite small."
+    },
+    {
+      "word": "radio",
+      "translation": "la radio",
+      "example": "The radio was on all night."
+    },
+    {
+      "word": "reader",
+      "translation": "el lector",
+      "example": "A reader wrote to complain."
+    },
+    {
+      "word": "reading",
+      "translation": "la lectura",
+      "example": "Reading helps him sleep."
+    },
+    {
+      "word": "real",
+      "translation": "verdadero",
+      "example": "Is that a real diamond?"
+    },
+    {
+      "word": "really",
+      "translation": "realmente",
+      "example": "It was really cold outside."
+    },
+    {
+      "word": "relax",
+      "translation": "relajarse",
+      "example": "Sit down and relax."
+    },
+    {
+      "word": "report",
+      "translation": "el informe",
+      "example": "She wrote the report alone."
+    },
+    {
+      "word": "restaurant",
+      "translation": "el restaurante",
+      "example": "The restaurant closes on Mondays."
+    },
+    {
+      "word": "return",
+      "translation": "regresar",
+      "example": "They return on Sunday."
+    },
+    {
+      "word": "ride",
+      "translation": "montar",
+      "example": "He rides to school daily."
+    },
+    {
+      "word": "road",
+      "translation": "la carretera",
+      "example": "The road was closed for repairs."
+    },
+    {
+      "word": "routine",
+      "translation": "la rutina",
+      "example": "Her morning routine is fixed."
+    },
+    {
+      "word": "run",
+      "translation": "correr",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "sad",
+      "translation": "triste",
+      "example": "The ending was sad."
+    },
+    {
+      "word": "salad",
+      "translation": "la ensalada",
+      "example": "He ordered a green salad."
+    },
+    {
+      "word": "salt",
+      "translation": "la sal",
+      "example": "There is too much salt."
+    },
+    {
+      "word": "sandwich",
+      "translation": "el bocadillo",
+      "example": "She made a cheese sandwich."
+    },
+    {
+      "word": "science",
+      "translation": "la ciencia",
+      "example": "Science was her best subject."
+    },
+    {
+      "word": "scientist",
+      "translation": "el científico",
+      "example": "A scientist explained the result."
+    },
+    {
+      "word": "section",
+      "translation": "la sección",
+      "example": "The last section is missing."
+    },
+    {
+      "word": "sell",
+      "translation": "vender",
+      "example": "They sell bread and milk."
+    },
+    {
+      "word": "sentence",
+      "translation": "la oración",
+      "example": "Write one sentence only."
+    },
+    {
+      "word": "share",
+      "translation": "compartir",
+      "example": "They shared the last apple."
+    },
+    {
+      "word": "sheep",
+      "translation": "la oveja",
+      "example": "The sheep stayed near the wall."
+    },
+    {
+      "word": "shirt",
+      "translation": "la camisa",
+      "example": "His shirt was torn."
+    },
+    {
+      "word": "shoe",
+      "translation": "el zapato",
+      "example": "One shoe was under the bed."
+    },
+    {
+      "word": "shopping",
+      "translation": "las compras",
+      "example": "We do the shopping on Saturdays."
+    },
+    {
+      "word": "show",
+      "translation": "mostrar",
+      "example": "Show me the photograph."
+    },
+    {
+      "word": "shower",
+      "translation": "la ducha",
+      "example": "He had a cold shower."
+    },
+    {
+      "word": "sick",
+      "translation": "mareado",
+      "example": "She felt sick on the boat."
+    },
+    {
+      "word": "sing",
+      "translation": "cantar",
+      "example": "They sang all the way home."
+    },
+    {
+      "word": "singer",
+      "translation": "el cantante",
+      "example": "The singer forgot the words."
+    },
+    {
+      "word": "sit",
+      "translation": "sentarse",
+      "example": "Please sit here."
+    },
+    {
+      "word": "skirt",
+      "translation": "la falda",
+      "example": "Her skirt was too long."
+    },
+    {
+      "word": "snake",
+      "translation": "la serpiente",
+      "example": "A snake crossed the path."
+    },
+    {
+      "word": "snow",
+      "translation": "la nieve",
+      "example": "The snow lasted three days."
+    },
+    {
+      "word": "somebody",
+      "translation": "alguien",
+      "example": "Somebody left the light on."
+    },
+    {
+      "word": "something",
+      "translation": "algo",
+      "example": "Something smells burnt."
+    },
+    {
+      "word": "son",
+      "translation": "el hijo",
+      "example": "Their son studies abroad."
+    },
+    {
+      "word": "song",
+      "translation": "la canción",
+      "example": "That song is very old."
+    },
+    {
+      "word": "soon",
+      "translation": "pronto",
+      "example": "She will arrive soon."
+    },
+    {
+      "word": "sound",
+      "translation": "el sonido",
+      "example": "The sound came from upstairs."
+    },
+    {
+      "word": "soup",
+      "translation": "la sopa",
+      "example": "The soup was too salty."
+    },
+    {
+      "word": "south",
+      "translation": "el sur",
+      "example": "They drove south for hours."
+    },
+    {
+      "word": "space",
+      "translation": "el espacio",
+      "example": "There is space for one more."
+    },
+    {
+      "word": "special",
+      "translation": "especial",
+      "example": "Today is a special day."
+    },
+    {
+      "word": "spell",
+      "translation": "deletrear",
+      "example": "How do you spell your name?"
+    },
+    {
+      "word": "spelling",
+      "translation": "la ortografía",
+      "example": "His spelling is very poor."
+    },
+    {
+      "word": "spend",
+      "translation": "gastar",
+      "example": "They spend little on food."
+    },
+    {
+      "word": "sport",
+      "translation": "el deporte",
+      "example": "Football is his favourite sport."
+    },
+    {
+      "word": "spring",
+      "translation": "la primavera",
+      "example": "The garden is best in spring."
+    },
+    {
+      "word": "stand",
+      "translation": "estar de pie",
+      "example": "Please stand near the door."
+    },
+    {
+      "word": "start",
+      "translation": "empezar",
+      "example": "The class starts at ten."
+    },
+    {
+      "word": "statement",
+      "translation": "la declaración",
+      "example": "His statement was short."
+    },
+    {
+      "word": "stay",
+      "translation": "quedarse",
+      "example": "We stayed two nights."
+    },
+    {
+      "word": "stop",
+      "translation": "parar",
+      "example": "The bus stops here."
+    },
+    {
+      "word": "study",
+      "translation": "estudiar",
+      "example": "She studies at night."
+    },
+    {
+      "word": "style",
+      "translation": "el estilo",
+      "example": "I like her writing style."
+    },
+    {
+      "word": "subject",
+      "translation": "la asignatura",
+      "example": "History is my best subject."
+    },
+    {
+      "word": "success",
+      "translation": "el éxito",
+      "example": "The evening was a success."
+    },
+    {
+      "word": "sugar",
+      "translation": "el azúcar",
+      "example": "He takes no sugar."
+    },
+    {
+      "word": "summer",
+      "translation": "el verano",
+      "example": "The summer was very dry."
+    },
+    {
+      "word": "supermarket",
+      "translation": "el supermercado",
+      "example": "The supermarket opens early."
+    },
+    {
+      "word": "sure",
+      "translation": "seguro de estar",
+      "example": "I am not sure about the time."
+    },
+    {
+      "word": "sweater",
+      "translation": "el jersey",
+      "example": "He wore a thick sweater."
+    },
+    {
+      "word": "swim",
+      "translation": "nadar",
+      "example": "They swim before breakfast."
+    },
+    {
+      "word": "swimming",
+      "translation": "la natación",
+      "example": "Swimming keeps her fit."
+    },
+    {
+      "word": "talk",
+      "translation": "hablar con",
+      "example": "We talked for an hour."
+    },
+    {
+      "word": "tall",
+      "translation": "alto de estatura",
+      "example": "He is taller than his father."
+    },
+    {
+      "word": "taxi",
+      "translation": "el taxi",
+      "example": "We took a taxi home."
+    },
+    {
+      "word": "blonde",
+      "translation": "rubia",
+      "example": "She has blonde hair."
+    },
+    {
+      "word": "period",
+      "translation": "el periodo",
+      "example": "It was a difficult period."
+    },
+    {
+      "word": "policeman",
+      "translation": "el policía",
+      "example": "A policeman stopped the car."
+    },
+    {
+      "word": "team",
+      "translation": "el equipo",
+      "example": "Our team won on Sunday."
+    },
+    {
+      "word": "teenager",
+      "translation": "el adolescente",
+      "example": "The teenager missed the bus."
+    },
+    {
+      "word": "telephone",
+      "translation": "el teléfono fijo",
+      "example": "The telephone rang twice."
+    },
+    {
+      "word": "television",
+      "translation": "la televisión",
+      "example": "The television is too loud."
+    },
+    {
+      "word": "tell",
+      "translation": "contar",
+      "example": "Tell me what happened."
+    },
+    {
+      "word": "tennis",
+      "translation": "el tenis",
+      "example": "They play tennis on Fridays."
+    },
+    {
+      "word": "terrible",
+      "translation": "terrible",
+      "example": "The weather was terrible."
+    },
+    {
+      "word": "test",
+      "translation": "la prueba",
+      "example": "The test was easier than expected."
+    },
+    {
+      "word": "text",
+      "translation": "el mensaje de texto",
+      "example": "Send me a text when you arrive."
+    },
+    {
+      "word": "theatre",
+      "translation": "el teatro edificio",
+      "example": "The theatre is closed in August."
+    },
+    {
+      "word": "thing",
+      "translation": "la cosa",
+      "example": "One thing still worries me."
+    },
+    {
+      "word": "think",
+      "translation": "pensar",
+      "example": "I think she is right."
+    },
+    {
+      "word": "thirsty",
+      "translation": "sediento",
+      "example": "The children were thirsty."
+    },
+    {
+      "word": "time",
+      "translation": "el tiempo",
+      "example": "We had a good time."
+    },
+    {
+      "word": "title",
+      "translation": "el título",
+      "example": "The title is misleading."
+    },
+    {
+      "word": "today",
+      "translation": "hoy",
+      "example": "Today is my last day."
+    },
+    {
+      "word": "toilet",
+      "translation": "el aseo",
+      "example": "The toilet is at the back."
+    },
+    {
+      "word": "tomato",
+      "translation": "el tomate",
+      "example": "Slice one tomato thinly."
+    },
+    {
+      "word": "tomorrow",
+      "translation": "mañana",
+      "example": "We leave tomorrow morning."
+    },
+    {
+      "word": "tonight",
+      "translation": "esta noche",
+      "example": "There is a concert tonight."
+    },
+    {
+      "word": "tooth",
+      "translation": "el diente",
+      "example": "He lost a tooth playing rugby."
+    },
+    {
+      "word": "topic",
+      "translation": "el tema",
+      "example": "The topic changed quickly."
+    },
+    {
+      "word": "tourist",
+      "translation": "el turista",
+      "example": "A tourist asked for directions."
+    },
+    {
+      "word": "town",
+      "translation": "el pueblo grande",
+      "example": "The town has one bank."
+    },
+    {
+      "word": "traffic",
+      "translation": "el tráfico",
+      "example": "The traffic was terrible."
+    },
+    {
+      "word": "train",
+      "translation": "el tren",
+      "example": "The train leaves at six."
+    },
+    {
+      "word": "travel",
+      "translation": "viajar",
+      "example": "They travel every summer."
+    },
+    {
+      "word": "trip",
+      "translation": "el viaje corto",
+      "example": "The trip took two days."
+    },
+    {
+      "word": "trousers",
+      "translation": "los pantalones largos",
+      "example": "His trousers were too long."
+    },
+    {
+      "word": "true",
+      "translation": "cierto",
+      "example": "That story is true."
+    },
+    {
+      "word": "try",
+      "translation": "intentar",
+      "example": "Try the other door."
+    },
+    {
+      "word": "turn",
+      "translation": "girar",
+      "example": "Turn left at the church."
+    },
+    {
+      "word": "type",
+      "translation": "el tipo clase",
+      "example": "What type of bread is it?"
+    },
+    {
+      "word": "umbrella",
+      "translation": "el paraguas",
+      "example": "Take an umbrella, it may rain."
+    },
+    {
+      "word": "uncle",
+      "translation": "el tío",
+      "example": "My uncle lives in Spain."
+    },
+    {
+      "word": "university",
+      "translation": "la universidad",
+      "example": "She starts university in October."
+    },
+    {
+      "word": "upstairs",
+      "translation": "arriba",
+      "example": "The bathroom is upstairs."
+    },
+    {
+      "word": "use",
+      "translation": "usar",
+      "example": "Use a sharp knife."
+    },
+    {
+      "word": "vegetable",
+      "translation": "la verdura",
+      "example": "Eat one green vegetable daily."
+    },
+    {
+      "word": "video",
+      "translation": "el vídeo",
+      "example": "The video would not load."
+    },
+    {
+      "word": "visit",
+      "translation": "visitar",
+      "example": "They visit every August."
+    },
+    {
+      "word": "visitor",
+      "translation": "el visitante",
+      "example": "One visitor stayed behind."
+    },
+    {
+      "word": "waiter",
+      "translation": "el camarero",
+      "example": "The waiter forgot the drinks."
+    },
+    {
+      "word": "wake",
+      "translation": "despertar",
+      "example": "Wake me at seven."
+    },
+    {
+      "word": "wall",
+      "translation": "la pared",
+      "example": "The wall needs painting."
+    },
+    {
+      "word": "want",
+      "translation": "querer",
+      "example": "I want a quiet evening."
+    },
+    {
+      "word": "warm",
+      "translation": "cálido",
+      "example": "The room is warm enough."
+    },
+    {
+      "word": "wash",
+      "translation": "lavar",
+      "example": "Wash your hands first."
+    },
+    {
+      "word": "watch",
+      "translation": "ver mirar",
+      "example": "We watched the sun set."
+    },
+    {
+      "word": "way",
+      "translation": "el camino",
+      "example": "This is the quickest way."
+    },
+    {
+      "word": "wear",
+      "translation": "llevar puesto",
+      "example": "She wears glasses to read."
+    },
+    {
+      "word": "website",
+      "translation": "el sitio web",
+      "example": "The website is very slow."
+    },
+    {
+      "word": "welcome",
+      "translation": "dar la bienvenida",
+      "example": "They made us very welcome."
+    },
+    {
+      "word": "west",
+      "translation": "el oeste",
+      "example": "The sun sets in the west."
+    },
+    {
+      "word": "wife",
+      "translation": "la esposa",
+      "example": "His wife teaches music."
+    },
+    {
+      "word": "win",
+      "translation": "ganar",
+      "example": "They won by one goal."
+    },
+    {
+      "word": "wine",
+      "translation": "el vino",
+      "example": "The wine was too warm."
+    },
+    {
+      "word": "winter",
+      "translation": "el invierno",
+      "example": "The winter was very long."
+    },
+    {
+      "word": "wonderful",
+      "translation": "maravilloso",
+      "example": "It was a wonderful evening."
+    },
+    {
+      "word": "work",
+      "translation": "trabajar",
+      "example": "She works in a hospital."
+    },
+    {
+      "word": "worker",
+      "translation": "el trabajador",
+      "example": "Every worker got a bonus."
+    },
+    {
+      "word": "world",
+      "translation": "el mundo",
+      "example": "The world has changed."
+    },
+    {
+      "word": "writer",
+      "translation": "el escritor",
+      "example": "The writer lives nearby."
+    },
+    {
+      "word": "writing",
+      "translation": "la escritura",
+      "example": "His writing is hard to read."
+    },
+    {
+      "word": "wrong",
+      "translation": "equivocado",
+      "example": "You have the wrong number."
+    },
+    {
+      "word": "yellow",
+      "translation": "amarillo",
+      "example": "The walls were pale yellow."
+    },
+    {
+      "word": "yesterday",
+      "translation": "ayer",
+      "example": "It rained all day yesterday."
+    },
+    {
+      "word": "after",
+      "translation": "después de",
+      "example": "We left after lunch."
+    },
+    {
+      "word": "again",
+      "translation": "otra vez",
+      "example": "Try again tomorrow."
+    },
+    {
+      "word": "ago",
+      "translation": "hace tiempo",
+      "example": "She left two years ago."
+    },
+    {
+      "word": "anyone",
+      "translation": "cualquier persona",
+      "example": "Anyone can join."
+    },
+    {
+      "word": "anything",
+      "translation": "cualquier cosa",
+      "example": "Anything is better than waiting."
+    },
+    {
+      "word": "away",
+      "translation": "a cierta distancia",
+      "example": "The station is ten minutes away."
+    },
+    {
+      "word": "back",
+      "translation": "de vuelta",
+      "example": "He came back at six."
+    },
+    {
+      "word": "before",
+      "translation": "antes de",
+      "example": "Call me before you leave."
+    },
+    {
+      "word": "cannot",
+      "translation": "no poder",
+      "example": "I cannot open the door."
+    },
+    {
+      "word": "CD",
+      "translation": "el CD",
+      "example": "The CD was scratched."
+    },
+    {
+      "word": "cent",
+      "translation": "el centavo",
+      "example": "It costs fifty cents."
+    },
+    {
+      "word": "dear",
+      "translation": "querido",
+      "example": "Dear Anna, thank you for the book."
+    },
+    {
+      "word": "DVD",
+      "translation": "el DVD",
+      "example": "The DVD would not play."
+    },
+    {
+      "word": "else",
+      "translation": "otro más",
+      "example": "Ask somebody else."
+    },
+    {
+      "word": "everyone",
+      "translation": "todos",
+      "example": "Everyone arrived on time."
+    },
+    {
+      "word": "have to",
+      "translation": "tener que",
+      "example": "I have to leave now."
+    },
+    {
+      "word": "ice cream",
+      "translation": "el helado",
+      "example": "The children wanted ice cream."
+    },
+    {
+      "word": "next to",
+      "translation": "al lado de",
+      "example": "The bank is next to the market."
+    },
+    {
+      "word": "no one",
+      "translation": "nadie",
+      "example": "No one answered the door."
+    },
+    {
+      "word": "now",
+      "translation": "ahora",
+      "example": "We should go now."
+    },
+    {
+      "word": "o’clock",
+      "translation": "en punto",
+      "example": "The train leaves at six o’clock."
+    },
+    {
+      "word": "someone",
+      "translation": "alguien",
+      "example": "Someone left a note."
+    },
+    {
+      "word": "T-shirt",
+      "translation": "la camiseta",
+      "example": "He wore a plain T-shirt."
+    },
+    {
+      "word": "TV",
+      "translation": "la tele",
+      "example": "The TV was on all evening."
+    },
+    {
+      "word": "vacation",
+      "translation": "las vacaciones largas",
+      "example": "They took a long vacation."
+    }
+  ]
+}

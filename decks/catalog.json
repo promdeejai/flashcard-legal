@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "updated": "2026-09-09",
+  "decks": [
+    {
+      "id": "en-th-a1",
+      "name": "English A1",
+      "description": "คำศัพท์ภาษาอังกฤษระดับ A1 พร้อมคำแปลและประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "level": "A1",
+      "words": 714,
+      "version": 2,
+      "file": "en-th-a1.json"
+    },
+    {
+      "id": "en-es-a1",
+      "name": "English A1",
+      "description": "First words: people, places and things you name every day.",
+      "learn": "en",
+      "native": "es",
+      "level": "A1",
+      "words": 714,
+      "version": 2,
+      "file": "en-es-a1.json"
+    },
+    {
+      "id": "en-th-a2",
+      "name": "English A2",
+      "description": "คำศัพท์ภาษาอังกฤษระดับ A2 พร้อมคำแปลและประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "level": "A2",
+      "words": 768,
+      "version": 2,
+      "file": "en-th-a2.json"
+    },
+    {
+      "id": "en-es-a2",
+      "name": "English A2",
+      "description": "Getting around: travel, home, plans and simple opinions.",
+      "learn": "en",
+      "native": "es",
+      "level": "A2",
+      "words": 768,
+      "version": 2,
+      "file": "en-es-a2.json"
+    },
+    {
+      "id": "en-th-b1",
+      "name": "English B1",
+      "description": "คำศัพท์ภาษาอังกฤษระดับ B1 พร้อมคำแปลและประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "level": "B1",
+      "words": 687,
+      "version": 2,
+      "file": "en-th-b1.json"
+    },
+    {
+      "id": "en-es-b1",
+      "name": "English B1",
+      "description": "Saying what you think, and why.",
+      "learn": "en",
+      "native": "es",
+      "level": "B1",
+      "words": 687,
+      "version": 2,
+      "file": "en-es-b1.json"
+    },
+    {
+      "id": "en-th-b2",
+      "name": "English B2",
+      "description": "คำศัพท์ภาษาอังกฤษระดับ B2 พร้อมคำแปลและประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "level": "B2",
+      "words": 654,
+      "version": 2,
+      "file": "en-th-b2.json"
+    },
+    {
+      "id": "en-es-b2",
+      "name": "English B2",
+      "description": "Argument and abstraction: the vocabulary of discussion.",
+      "learn": "en",
+      "native": "es",
+      "level": "B2",
+      "words": 654,
+      "version": 2,
+      "file": "en-es-b2.json"
+    },
+    {
+      "id": "en-th-c1",
+      "name": "English C1",
+      "description": "คำศัพท์ภาษาอังกฤษระดับ C1 พร้อมคำแปลและประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "level": "C1",
+      "words": 100,
+      "version": 2,
+      "file": "en-th-c1.json"
+    },
+    {
+      "id": "en-es-c1",
+      "name": "English C1",
+      "description": "Precision: shades of meaning that change an argument.",
+      "learn": "en",
+      "native": "es",
+      "level": "C1",
+      "words": 100,
+      "version": 2,
+      "file": "en-es-c1.json"
+    },
+    {
+      "id": "en-th-c2",
+      "name": "English C2",
+      "description": "คำศัพท์ภาษาอังกฤษระดับ C2 พร้อมคำแปลและประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "level": "C2",
+      "words": 100,
+      "version": 2,
+      "file": "en-th-c2.json"
+    },
+    {
+      "id": "en-es-c2",
+      "name": "English C2",
+      "description": "The far end: formal, literary and rarely needed until it is.",
+      "learn": "en",
+      "native": "es",
+      "level": "C2",
+      "words": 100,
+      "version": 2,
+      "file": "en-es-c2.json"
+    },
+    {
+      "id": "en-th-everyday-30",
+      "name": "Everyday English 30",
+      "description": "สามสิบคำที่ใช้ทุกวัน พร้อมประโยคตัวอย่าง",
+      "learn": "en",
+      "native": "th",
+      "words": 30,
+      "version": 2,
+      "file": "en-th-everyday-30.json"
+    },
+    {
+      "id": "en-es-everyday-30",
+      "name": "Everyday English 30",
+      "description": "Thirty words that come up every single day, with a sentence for each.",
+      "learn": "en",
+      "native": "es",
+      "words": 30,
+      "version": 2,
+      "file": "en-es-everyday-30.json"
+    }
+  ]
+}
