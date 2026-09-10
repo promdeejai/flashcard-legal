@@ -16,13 +16,46 @@
     {
       "id": "en-es-a1",
       "name": "English A1",
-      "description": "First words: people, places and things you name every day.",
+      "description": "Vocabulario de inglés de nivel A1, con traducción y frase de ejemplo.",
       "learn": "en",
       "native": "es",
       "level": "A1",
       "words": 723,
       "version": 3,
       "file": "en-es-a1.json"
+    },
+    {
+      "id": "en-fr-a1",
+      "name": "English A1",
+      "description": "Vocabulaire anglais de niveau A1, avec traduction et phrase d'exemple.",
+      "learn": "en",
+      "native": "fr",
+      "level": "A1",
+      "words": 723,
+      "version": 3,
+      "file": "en-fr-a1.json"
+    },
+    {
+      "id": "en-de-a1",
+      "name": "English A1",
+      "description": "Englischer Wortschatz der Stufe A1, mit Übersetzung und Beispielsatz.",
+      "learn": "en",
+      "native": "de",
+      "level": "A1",
+      "words": 723,
+      "version": 3,
+      "file": "en-de-a1.json"
+    },
+    {
+      "id": "en-ja-a1",
+      "name": "English A1",
+      "description": "レベルA1の英単語。翻訳と例文つき。",
+      "learn": "en",
+      "native": "ja",
+      "level": "A1",
+      "words": 723,
+      "version": 3,
+      "file": "en-ja-a1.json"
     },
     {
       "id": "en-th-a2",
@@ -38,7 +71,7 @@
     {
       "id": "en-es-a2",
       "name": "English A2",
-      "description": "Getting around: travel, home, plans and simple opinions.",
+      "description": "Vocabulario de inglés de nivel A2, con traducción y frase de ejemplo.",
       "learn": "en",
       "native": "es",
       "level": "A2",
@@ -60,7 +93,7 @@
     {
       "id": "en-es-b1",
       "name": "English B1",
-      "description": "Saying what you think, and why.",
+      "description": "Vocabulario de inglés de nivel B1, con traducción y frase de ejemplo.",
       "learn": "en",
       "native": "es",
       "level": "B1",
@@ -82,7 +115,7 @@
     {
       "id": "en-es-b2",
       "name": "English B2",
-      "description": "Argument and abstraction: the vocabulary of discussion.",
+      "description": "Vocabulario de inglés de nivel B2, con traducción y frase de ejemplo.",
       "learn": "en",
       "native": "es",
       "level": "B2",
@@ -104,7 +137,7 @@
     {
       "id": "en-es-c1",
       "name": "English C1",
-      "description": "Precision: shades of meaning that change an argument.",
+      "description": "Vocabulario de inglés de nivel C1, con traducción y frase de ejemplo.",
       "learn": "en",
       "native": "es",
       "level": "C1",
@@ -126,7 +159,7 @@
     {
       "id": "en-es-c2",
       "name": "English C2",
-      "description": "The far end: formal, literary and rarely needed until it is.",
+      "description": "Vocabulario de inglés de nivel C2, con traducción y frase de ejemplo.",
       "learn": "en",
       "native": "es",
       "level": "C2",

@@ -1,0 +1,3625 @@
+{
+  "id": "en-fr-a1",
+  "name": "English A1",
+  "learn": "en",
+  "native": "fr",
+  "level": "A1",
+  "version": 3,
+  "items": [
+    {
+      "word": "action",
+      "translation": "l'action",
+      "example": "She took action straight away."
+    },
+    {
+      "word": "activity",
+      "translation": "l'activité",
+      "example": "The main activity is swimming."
+    },
+    {
+      "word": "actor",
+      "translation": "l'acteur",
+      "example": "The actor forgot his line."
+    },
+    {
+      "word": "actress",
+      "translation": "l'actrice",
+      "example": "The actress waved at the crowd."
+    },
+    {
+      "word": "add",
+      "translation": "ajouter",
+      "example": "Add a little salt."
+    },
+    {
+      "word": "address",
+      "translation": "l'adresse",
+      "example": "Write your address on the form."
+    },
+    {
+      "word": "adult",
+      "translation": "l'adulte",
+      "example": "One adult and two children, please."
+    },
+    {
+      "word": "advice",
+      "translation": "le conseil",
+      "example": "He gave me useful advice about the job."
+    },
+    {
+      "word": "afraid",
+      "translation": "effrayé",
+      "example": "She is afraid of dogs."
+    },
+    {
+      "word": "after",
+      "translation": "après",
+      "example": "We left after lunch."
+    },
+    {
+      "word": "afternoon",
+      "translation": "l'après-midi",
+      "example": "We met on Tuesday afternoon."
+    },
+    {
+      "word": "again",
+      "translation": "encore",
+      "example": "Try again tomorrow."
+    },
+    {
+      "word": "age",
+      "translation": "l'âge",
+      "example": "She started work at a young age."
+    },
+    {
+      "word": "ago",
+      "translation": "il y a",
+      "example": "She left two years ago."
+    },
+    {
+      "word": "agree",
+      "translation": "être d'accord",
+      "example": "We agreed on a later date."
+    },
+    {
+      "word": "air",
+      "translation": "l'air",
+      "example": "The air is cooler by the river."
+    },
+    {
+      "word": "airport",
+      "translation": "l'aéroport",
+      "example": "The airport is an hour away."
+    },
+    {
+      "word": "always",
+      "translation": "toujours",
+      "example": "She always locks the door."
+    },
+    {
+      "word": "amazing",
+      "translation": "incroyable",
+      "example": "The view was amazing."
+    },
+    {
+      "word": "angry",
+      "translation": "en colère",
+      "example": "He was angry about the delay."
+    },
+    {
+      "word": "animal",
+      "translation": "l'animal",
+      "example": "No animal is allowed inside."
+    },
+    {
+      "word": "answer",
+      "translation": "la réponse",
+      "example": "Nobody knew the answer."
+    },
+    {
+      "word": "anyone",
+      "translation": "n'importe qui",
+      "example": "Anyone can join."
+    },
+    {
+      "word": "anything",
+      "translation": "n'importe quoi",
+      "example": "Anything is better than waiting."
+    },
+    {
+      "word": "apartment",
+      "translation": "l'appartement",
+      "example": "Their apartment is on the top floor."
+    },
+    {
+      "word": "apple",
+      "translation": "la pomme",
+      "example": "I ate an apple after lunch."
+    },
+    {
+      "word": "area",
+      "translation": "la zone",
+      "example": "This area floods every year."
+    },
+    {
+      "word": "arm",
+      "translation": "le bras",
+      "example": "He broke his arm last winter."
+    },
+    {
+      "word": "arrive",
+      "translation": "arriver",
+      "example": "They arrive on Sunday evening."
+    },
+    {
+      "word": "art",
+      "translation": "l'art",
+      "example": "She studies art in Rome."
+    },
+    {
+      "word": "article",
+      "translation": "l'article",
+      "example": "She wrote an article about it."
+    },
+    {
+      "word": "artist",
+      "translation": "l'artiste",
+      "example": "The artist works only at night."
+    },
+    {
+      "word": "ask",
+      "translation": "demander",
+      "example": "Ask the driver where to get off."
+    },
+    {
+      "word": "aunt",
+      "translation": "la tante",
+      "example": "My aunt lives in the next town."
+    },
+    {
+      "word": "autumn",
+      "translation": "l'automne",
+      "example": "The garden is best in autumn."
+    },
+    {
+      "word": "away",
+      "translation": "au loin",
+      "example": "The station is ten minutes away."
+    },
+    {
+      "word": "baby",
+      "translation": "le bébé",
+      "example": "The baby is asleep."
+    },
+    {
+      "word": "back",
+      "translation": "de retour",
+      "example": "He came back at six."
+    },
+    {
+      "word": "bad",
+      "translation": "mauvais",
+      "example": "The weather was bad all week."
+    },
+    {
+      "word": "bag",
+      "translation": "le sac",
+      "example": "Her bag was under the seat."
+    },
+    {
+      "word": "ball",
+      "translation": "le ballon",
+      "example": "The ball rolled into the road."
+    },
+    {
+      "word": "banana",
+      "translation": "la banane",
+      "example": "He eats a banana before running."
+    },
+    {
+      "word": "band",
+      "translation": "le groupe",
+      "example": "The band played for two hours."
+    },
+    {
+      "word": "bank",
+      "translation": "la banque",
+      "example": "The bank closes at three."
+    },
+    {
+      "word": "bath",
+      "translation": "le bain",
+      "example": "He had a hot bath."
+    },
+    {
+      "word": "bathroom",
+      "translation": "la salle de bains",
+      "example": "The bathroom is at the end of the hall."
+    },
+    {
+      "word": "beach",
+      "translation": "la plage",
+      "example": "The beach was empty at dawn."
+    },
+    {
+      "word": "beautiful",
+      "translation": "beau",
+      "example": "It was a beautiful morning."
+    },
+    {
+      "word": "become",
+      "translation": "devenir",
+      "example": "She became a teacher in June."
+    },
+    {
+      "word": "bed",
+      "translation": "le lit",
+      "example": "The bed is next to the window."
+    },
+    {
+      "word": "bedroom",
+      "translation": "la chambre",
+      "example": "The bedroom faces the garden."
+    },
+    {
+      "word": "beer",
+      "translation": "la bière",
+      "example": "He ordered one beer."
+    },
+    {
+      "word": "before",
+      "translation": "avant",
+      "example": "Call me before you leave."
+    },
+    {
+      "word": "begin",
+      "translation": "commencer",
+      "example": "The film begins at eight."
+    },
+    {
+      "word": "beginning",
+      "translation": "le début",
+      "example": "The beginning was slow."
+    },
+    {
+      "word": "behind",
+      "translation": "derrière",
+      "example": "The garden is behind the house."
+    },
+    {
+      "word": "believe",
+      "translation": "croire",
+      "example": "I believe she is right."
+    },
+    {
+      "word": "best",
+      "translation": "le meilleur",
+      "example": "This is the best one."
+    },
+    {
+      "word": "better",
+      "translation": "meilleur",
+      "example": "Her Spanish is better than mine."
+    },
+    {
+      "word": "bicycle",
+      "translation": "la bicyclette",
+      "example": "She rides her bicycle to class."
+    },
+    {
+      "word": "big",
+      "translation": "grand",
+      "example": "They live in a big house."
+    },
+    {
+      "word": "bike",
+      "translation": "le vélo",
+      "example": "He rode his bike to school."
+    },
+    {
+      "word": "bill",
+      "translation": "l'addition",
+      "example": "Could we have the bill, please?"
+    },
+    {
+      "word": "bird",
+      "translation": "l'oiseau",
+      "example": "A bird woke me at dawn."
+    },
+    {
+      "word": "birthday",
+      "translation": "l'anniversaire",
+      "example": "His birthday is in August."
+    },
+    {
+      "word": "black",
+      "translation": "noir",
+      "example": "He carried a black bag."
+    },
+    {
+      "word": "blog",
+      "translation": "le blog",
+      "example": "She writes a travel blog."
+    },
+    {
+      "word": "blonde",
+      "translation": "blonde",
+      "example": "She has blonde hair."
+    },
+    {
+      "word": "blue",
+      "translation": "bleu",
+      "example": "The sky is very blue today."
+    },
+    {
+      "word": "boat",
+      "translation": "le bateau",
+      "example": "The boat leaves at seven."
+    },
+    {
+      "word": "body",
+      "translation": "le corps",
+      "example": "Cold water shocks the body."
+    },
+    {
+      "word": "book",
+      "translation": "le livre",
+      "example": "This book has many pictures."
+    },
+    {
+      "word": "boot",
+      "translation": "la botte",
+      "example": "One boot was missing."
+    },
+    {
+      "word": "bored",
+      "translation": "ennuyé",
+      "example": "The children were bored."
+    },
+    {
+      "word": "boring",
+      "translation": "ennuyeux",
+      "example": "The lesson was boring."
+    },
+    {
+      "word": "born",
+      "translation": "né",
+      "example": "She was born in Chiang Mai."
+    },
+    {
+      "word": "bottle",
+      "translation": "la bouteille",
+      "example": "There is one bottle left."
+    },
+    {
+      "word": "box",
+      "translation": "la boîte",
+      "example": "The box was heavier than it looked."
+    },
+    {
+      "word": "boy",
+      "translation": "le garçon",
+      "example": "The boy dropped his ball."
+    },
+    {
+      "word": "boyfriend",
+      "translation": "le petit ami",
+      "example": "Her boyfriend cooks well."
+    },
+    {
+      "word": "bread",
+      "translation": "le pain",
+      "example": "He eats bread for breakfast."
+    },
+    {
+      "word": "break",
+      "translation": "la pause",
+      "example": "Let us take a short break."
+    },
+    {
+      "word": "breakfast",
+      "translation": "le petit-déjeuner",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "bring",
+      "translation": "apporter",
+      "example": "Please bring a coat."
+    },
+    {
+      "word": "brother",
+      "translation": "le frère",
+      "example": "My brother is taller than me."
+    },
+    {
+      "word": "brown",
+      "translation": "marron",
+      "example": "She wore a brown jacket."
+    },
+    {
+      "word": "build",
+      "translation": "construire",
+      "example": "They will build a new school."
+    },
+    {
+      "word": "building",
+      "translation": "le bâtiment",
+      "example": "That building is a hundred years old."
+    },
+    {
+      "word": "bus",
+      "translation": "le bus",
+      "example": "The bus was late again."
+    },
+    {
+      "word": "business",
+      "translation": "l'entreprise",
+      "example": "His business grew quickly."
+    },
+    {
+      "word": "busy",
+      "translation": "occupé",
+      "example": "The office is busy on Mondays."
+    },
+    {
+      "word": "butter",
+      "translation": "le beurre",
+      "example": "There is no butter left."
+    },
+    {
+      "word": "buy",
+      "translation": "acheter",
+      "example": "I want to buy a ticket."
+    },
+    {
+      "word": "cafe",
+      "translation": "le café",
+      "example": "We met at a small cafe."
+    },
+    {
+      "word": "cake",
+      "translation": "le gâteau",
+      "example": "She made a cake for the party."
+    },
+    {
+      "word": "call",
+      "translation": "appeler",
+      "example": "Call me after seven."
+    },
+    {
+      "word": "camera",
+      "translation": "l'appareil photo",
+      "example": "His camera is very old."
+    },
+    {
+      "word": "cannot",
+      "translation": "ne pas pouvoir",
+      "example": "I cannot open the door."
+    },
+    {
+      "word": "capital",
+      "translation": "la capitale",
+      "example": "Bangkok is the capital."
+    },
+    {
+      "word": "car",
+      "translation": "la voiture",
+      "example": "Their car is very old."
+    },
+    {
+      "word": "card",
+      "translation": "la carte",
+      "example": "He sent a card in December."
+    },
+    {
+      "word": "career",
+      "translation": "la carrière",
+      "example": "Her career started late."
+    },
+    {
+      "word": "carrot",
+      "translation": "la carotte",
+      "example": "Cut the carrot into small pieces."
+    },
+    {
+      "word": "carry",
+      "translation": "porter",
+      "example": "Can you carry this bag?"
+    },
+    {
+      "word": "cat",
+      "translation": "le chat",
+      "example": "My cat hates water."
+    },
+    {
+      "word": "CD",
+      "translation": "le CD",
+      "example": "The CD was scratched."
+    },
+    {
+      "word": "cent",
+      "translation": "le centime",
+      "example": "It costs fifty cents."
+    },
+    {
+      "word": "centre",
+      "translation": "le centre",
+      "example": "The station is in the centre."
+    },
+    {
+      "word": "century",
+      "translation": "le siècle",
+      "example": "The church is a century old."
+    },
+    {
+      "word": "chair",
+      "translation": "la chaise",
+      "example": "He pulled out a chair for her."
+    },
+    {
+      "word": "change",
+      "translation": "la monnaie",
+      "example": "He kept the change."
+    },
+    {
+      "word": "chart",
+      "translation": "le graphique",
+      "example": "The chart shows the change."
+    },
+    {
+      "word": "cheap",
+      "translation": "bon marché",
+      "example": "The tickets were surprisingly cheap."
+    },
+    {
+      "word": "check",
+      "translation": "vérifier",
+      "example": "Check the time before you go."
+    },
+    {
+      "word": "cheese",
+      "translation": "le fromage",
+      "example": "This cheese is very strong."
+    },
+    {
+      "word": "chicken",
+      "translation": "le poulet",
+      "example": "We had chicken and rice."
+    },
+    {
+      "word": "child",
+      "translation": "l'enfant",
+      "example": "Every child gets a free book."
+    },
+    {
+      "word": "chocolate",
+      "translation": "le chocolat",
+      "example": "She gave me a box of chocolate."
+    },
+    {
+      "word": "choose",
+      "translation": "choisir",
+      "example": "Choose any seat you like."
+    },
+    {
+      "word": "cinema",
+      "translation": "le cinéma",
+      "example": "The cinema opens at noon."
+    },
+    {
+      "word": "city",
+      "translation": "la ville",
+      "example": "This city has three parks."
+    },
+    {
+      "word": "class",
+      "translation": "la classe",
+      "example": "The class starts in ten minutes."
+    },
+    {
+      "word": "classroom",
+      "translation": "la salle de classe",
+      "example": "The classroom was empty."
+    },
+    {
+      "word": "clean",
+      "translation": "propre",
+      "example": "The room is clean now."
+    },
+    {
+      "word": "climb",
+      "translation": "grimper",
+      "example": "They climbed the hill slowly."
+    },
+    {
+      "word": "clock",
+      "translation": "l'horloge",
+      "example": "The clock on the wall is slow."
+    },
+    {
+      "word": "close",
+      "translation": "proche",
+      "example": "The shop is close to my house."
+    },
+    {
+      "word": "clothes",
+      "translation": "les vêtements",
+      "example": "Her clothes were still wet."
+    },
+    {
+      "word": "club",
+      "translation": "le club",
+      "example": "He joined the tennis club."
+    },
+    {
+      "word": "coat",
+      "translation": "le manteau",
+      "example": "Take a coat, it is cold."
+    },
+    {
+      "word": "coffee",
+      "translation": "le café",
+      "example": "This coffee is too strong."
+    },
+    {
+      "word": "cold",
+      "translation": "froid",
+      "example": "My hands are cold."
+    },
+    {
+      "word": "college",
+      "translation": "l'université",
+      "example": "She studies at a college."
+    },
+    {
+      "word": "colour",
+      "translation": "la couleur",
+      "example": "What colour is the door?"
+    },
+    {
+      "word": "come",
+      "translation": "venir",
+      "example": "Please come at seven."
+    },
+    {
+      "word": "common",
+      "translation": "courant",
+      "example": "That name is very common here."
+    },
+    {
+      "word": "company",
+      "translation": "l'entreprise",
+      "example": "She works for a small company."
+    },
+    {
+      "word": "compare",
+      "translation": "comparer",
+      "example": "Compare the two versions carefully."
+    },
+    {
+      "word": "complete",
+      "translation": "complet",
+      "example": "The work is not complete."
+    },
+    {
+      "word": "computer",
+      "translation": "l'ordinateur",
+      "example": "The computer is very slow today."
+    },
+    {
+      "word": "concert",
+      "translation": "le concert",
+      "example": "The concert starts at nine."
+    },
+    {
+      "word": "conversation",
+      "translation": "la conversation",
+      "example": "We had a long conversation."
+    },
+    {
+      "word": "cook",
+      "translation": "cuisiner",
+      "example": "He cooks for the whole family."
+    },
+    {
+      "word": "cooking",
+      "translation": "la cuisine",
+      "example": "Cooking relaxes him."
+    },
+    {
+      "word": "cool",
+      "translation": "frais",
+      "example": "The evening air was cool."
+    },
+    {
+      "word": "correct",
+      "translation": "correct",
+      "example": "That is the correct answer."
+    },
+    {
+      "word": "cost",
+      "translation": "coûter",
+      "example": "The repair will cost a lot."
+    },
+    {
+      "word": "country",
+      "translation": "le pays",
+      "example": "She has visited nine countries."
+    },
+    {
+      "word": "course",
+      "translation": "le cours",
+      "example": "He took a course in Spanish."
+    },
+    {
+      "word": "cousin",
+      "translation": "le cousin",
+      "example": "My cousin studies in Japan."
+    },
+    {
+      "word": "cow",
+      "translation": "la vache",
+      "example": "A cow stood in the road."
+    },
+    {
+      "word": "cream",
+      "translation": "la crème",
+      "example": "She put cream in her coffee."
+    },
+    {
+      "word": "create",
+      "translation": "créer",
+      "example": "They created a new logo."
+    },
+    {
+      "word": "culture",
+      "translation": "la culture",
+      "example": "Food is a big part of the culture."
+    },
+    {
+      "word": "cup",
+      "translation": "la tasse",
+      "example": "He drank two cups of tea."
+    },
+    {
+      "word": "customer",
+      "translation": "le client",
+      "example": "A customer asked for a refund."
+    },
+    {
+      "word": "cut",
+      "translation": "couper",
+      "example": "She cut the bread carefully."
+    },
+    {
+      "word": "dad",
+      "translation": "papa",
+      "example": "My dad drives a lorry."
+    },
+    {
+      "word": "dance",
+      "translation": "danser",
+      "example": "They danced until midnight."
+    },
+    {
+      "word": "dancer",
+      "translation": "le danseur",
+      "example": "The dancer trained for years."
+    },
+    {
+      "word": "dancing",
+      "translation": "la danse",
+      "example": "Dancing is her favourite hobby."
+    },
+    {
+      "word": "dangerous",
+      "translation": "dangereux",
+      "example": "That road is dangerous in the rain."
+    },
+    {
+      "word": "dark",
+      "translation": "sombre",
+      "example": "The room was completely dark."
+    },
+    {
+      "word": "date",
+      "translation": "la date",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "daughter",
+      "translation": "la fille",
+      "example": "Their daughter is at university."
+    },
+    {
+      "word": "day",
+      "translation": "le jour",
+      "example": "It was a long day at work."
+    },
+    {
+      "word": "dear",
+      "translation": "cher",
+      "example": "Dear Anna, thank you for the book."
+    },
+    {
+      "word": "decide",
+      "translation": "décider",
+      "example": "We decided to stay one more night."
+    },
+    {
+      "word": "delicious",
+      "translation": "délicieux",
+      "example": "The soup was delicious."
+    },
+    {
+      "word": "describe",
+      "translation": "décrire",
+      "example": "Can you describe the man?"
+    },
+    {
+      "word": "description",
+      "translation": "la description",
+      "example": "Her description was very clear."
+    },
+    {
+      "word": "design",
+      "translation": "le design",
+      "example": "The design is very simple."
+    },
+    {
+      "word": "desk",
+      "translation": "le bureau",
+      "example": "His desk is by the window."
+    },
+    {
+      "word": "detail",
+      "translation": "le détail",
+      "example": "He explained every detail."
+    },
+    {
+      "word": "dialogue",
+      "translation": "le dialogue",
+      "example": "The dialogue felt natural."
+    },
+    {
+      "word": "dictionary",
+      "translation": "le dictionnaire",
+      "example": "Look it up in a dictionary."
+    },
+    {
+      "word": "die",
+      "translation": "mourir",
+      "example": "The plant died in winter."
+    },
+    {
+      "word": "diet",
+      "translation": "le régime",
+      "example": "He is on a strict diet."
+    },
+    {
+      "word": "difference",
+      "translation": "la différence",
+      "example": "The difference is small but real."
+    },
+    {
+      "word": "different",
+      "translation": "différent",
+      "example": "This one is different."
+    },
+    {
+      "word": "difficult",
+      "translation": "difficile",
+      "example": "The exam was difficult."
+    },
+    {
+      "word": "dinner",
+      "translation": "le dîner",
+      "example": "Dinner is at seven."
+    },
+    {
+      "word": "dirty",
+      "translation": "sale",
+      "example": "His shoes were dirty."
+    },
+    {
+      "word": "discuss",
+      "translation": "discuter",
+      "example": "We discussed it for an hour."
+    },
+    {
+      "word": "dish",
+      "translation": "le plat",
+      "example": "Wash the last dish, please."
+    },
+    {
+      "word": "doctor",
+      "translation": "le médecin",
+      "example": "The doctor arrives at nine."
+    },
+    {
+      "word": "dog",
+      "translation": "le chien",
+      "example": "The dog sleeps under the table."
+    },
+    {
+      "word": "dollar",
+      "translation": "le dollar",
+      "example": "It cost one dollar."
+    },
+    {
+      "word": "door",
+      "translation": "la porte",
+      "example": "Please close the door."
+    },
+    {
+      "word": "downstairs",
+      "translation": "en bas",
+      "example": "The kitchen is downstairs."
+    },
+    {
+      "word": "draw",
+      "translation": "dessiner",
+      "example": "She draws every evening."
+    },
+    {
+      "word": "dress",
+      "translation": "la robe",
+      "example": "That dress suits you."
+    },
+    {
+      "word": "drink",
+      "translation": "boire",
+      "example": "He does not drink coffee."
+    },
+    {
+      "word": "drive",
+      "translation": "conduire",
+      "example": "He drives to work on Mondays."
+    },
+    {
+      "word": "driver",
+      "translation": "le conducteur",
+      "example": "The driver waited outside."
+    },
+    {
+      "word": "DVD",
+      "translation": "le DVD",
+      "example": "The DVD would not play."
+    },
+    {
+      "word": "ear",
+      "translation": "l'oreille",
+      "example": "The noise hurt my ear."
+    },
+    {
+      "word": "early",
+      "translation": "tôt",
+      "example": "He arrived early as usual."
+    },
+    {
+      "word": "east",
+      "translation": "l'est",
+      "example": "The wind comes from the east."
+    },
+    {
+      "word": "easy",
+      "translation": "facile",
+      "example": "The test was easy."
+    },
+    {
+      "word": "eat",
+      "translation": "manger",
+      "example": "We eat dinner at seven."
+    },
+    {
+      "word": "egg",
+      "translation": "l'œuf",
+      "example": "She boiled one egg."
+    },
+    {
+      "word": "elephant",
+      "translation": "l'éléphant",
+      "example": "The elephant drank from the river."
+    },
+    {
+      "word": "else",
+      "translation": "d'autre",
+      "example": "Ask somebody else."
+    },
+    {
+      "word": "email",
+      "translation": "l'e-mail",
+      "example": "Send me an email tonight."
+    },
+    {
+      "word": "end",
+      "translation": "la fin",
+      "example": "The end of the film surprised me."
+    },
+    {
+      "word": "enjoy",
+      "translation": "aimer",
+      "example": "I enjoy long walks."
+    },
+    {
+      "word": "enough",
+      "translation": "assez",
+      "example": "There is not enough rice."
+    },
+    {
+      "word": "euro",
+      "translation": "l'euro",
+      "example": "It cost three euros."
+    },
+    {
+      "word": "evening",
+      "translation": "le soir",
+      "example": "We walk in the evening."
+    },
+    {
+      "word": "event",
+      "translation": "l'événement",
+      "example": "The event lasted two days."
+    },
+    {
+      "word": "everybody",
+      "translation": "tout le monde",
+      "example": "Everybody arrived on time."
+    },
+    {
+      "word": "everyone",
+      "translation": "tout le monde",
+      "example": "Everyone arrived on time."
+    },
+    {
+      "word": "everything",
+      "translation": "tout",
+      "example": "Everything is ready."
+    },
+    {
+      "word": "exam",
+      "translation": "l'examen",
+      "example": "The exam lasted three hours."
+    },
+    {
+      "word": "example",
+      "translation": "l'exemple",
+      "example": "Give me one clear example."
+    },
+    {
+      "word": "excited",
+      "translation": "excité",
+      "example": "The children were excited."
+    },
+    {
+      "word": "exciting",
+      "translation": "passionnant",
+      "example": "It was an exciting match."
+    },
+    {
+      "word": "exercise",
+      "translation": "l'exercice",
+      "example": "She does exercise every morning."
+    },
+    {
+      "word": "expensive",
+      "translation": "cher",
+      "example": "That restaurant is too expensive."
+    },
+    {
+      "word": "explain",
+      "translation": "expliquer",
+      "example": "Please explain the rule again."
+    },
+    {
+      "word": "extra",
+      "translation": "supplémentaire",
+      "example": "We need one extra chair."
+    },
+    {
+      "word": "eye",
+      "translation": "l'œil",
+      "example": "She closed one eye."
+    },
+    {
+      "word": "face",
+      "translation": "le visage",
+      "example": "His face was very red."
+    },
+    {
+      "word": "fact",
+      "translation": "le fait",
+      "example": "That is a simple fact."
+    },
+    {
+      "word": "fall",
+      "translation": "tomber",
+      "example": "Leaves fall in October."
+    },
+    {
+      "word": "false",
+      "translation": "faux",
+      "example": "That statement is false."
+    },
+    {
+      "word": "family",
+      "translation": "la famille",
+      "example": "My family lives in a small town."
+    },
+    {
+      "word": "famous",
+      "translation": "célèbre",
+      "example": "The restaurant is famous for its soup."
+    },
+    {
+      "word": "fantastic",
+      "translation": "fantastique",
+      "example": "The concert was fantastic."
+    },
+    {
+      "word": "far",
+      "translation": "loin",
+      "example": "Their house is far from here."
+    },
+    {
+      "word": "farm",
+      "translation": "la ferme",
+      "example": "They own a small farm."
+    },
+    {
+      "word": "farmer",
+      "translation": "le fermier",
+      "example": "The farmer sold his cows."
+    },
+    {
+      "word": "fast",
+      "translation": "rapide",
+      "example": "That train is very fast."
+    },
+    {
+      "word": "fat",
+      "translation": "gras",
+      "example": "The soup is too fat."
+    },
+    {
+      "word": "father",
+      "translation": "le père",
+      "example": "His father drives a taxi."
+    },
+    {
+      "word": "favourite",
+      "translation": "préféré",
+      "example": "This is my favourite song."
+    },
+    {
+      "word": "feel",
+      "translation": "se sentir",
+      "example": "I feel much better today."
+    },
+    {
+      "word": "feeling",
+      "translation": "le sentiment",
+      "example": "I had a strange feeling."
+    },
+    {
+      "word": "festival",
+      "translation": "le festival",
+      "example": "The festival lasts four days."
+    },
+    {
+      "word": "fill",
+      "translation": "remplir",
+      "example": "Fill the glass slowly."
+    },
+    {
+      "word": "film",
+      "translation": "le film",
+      "example": "The film was three hours long."
+    },
+    {
+      "word": "final",
+      "translation": "final",
+      "example": "This is the final version."
+    },
+    {
+      "word": "find",
+      "translation": "trouver",
+      "example": "I cannot find my keys."
+    },
+    {
+      "word": "fine",
+      "translation": "bien",
+      "example": "The weather was fine."
+    },
+    {
+      "word": "finish",
+      "translation": "finir",
+      "example": "Finish your work first."
+    },
+    {
+      "word": "fire",
+      "translation": "le feu",
+      "example": "The fire burned all night."
+    },
+    {
+      "word": "fish",
+      "translation": "le poisson",
+      "example": "The fish was very fresh."
+    },
+    {
+      "word": "flat",
+      "translation": "l'appartement",
+      "example": "Their flat is very small."
+    },
+    {
+      "word": "flight",
+      "translation": "le vol",
+      "example": "The flight was delayed."
+    },
+    {
+      "word": "floor",
+      "translation": "l'étage",
+      "example": "Our office is on the third floor."
+    },
+    {
+      "word": "flower",
+      "translation": "la fleur",
+      "example": "She bought a yellow flower."
+    },
+    {
+      "word": "fly",
+      "translation": "voler",
+      "example": "Birds fly south in winter."
+    },
+    {
+      "word": "follow",
+      "translation": "suivre",
+      "example": "Follow me to the office."
+    },
+    {
+      "word": "food",
+      "translation": "la nourriture",
+      "example": "The food here is cheap and good."
+    },
+    {
+      "word": "foot",
+      "translation": "le pied",
+      "example": "My foot still hurts."
+    },
+    {
+      "word": "football",
+      "translation": "le football",
+      "example": "They play football on Sundays."
+    },
+    {
+      "word": "forget",
+      "translation": "oublier",
+      "example": "Do not forget your keys."
+    },
+    {
+      "word": "form",
+      "translation": "le formulaire",
+      "example": "Fill in the form in ink."
+    },
+    {
+      "word": "free",
+      "translation": "gratuit",
+      "example": "Entry is free on Mondays."
+    },
+    {
+      "word": "friend",
+      "translation": "l'ami",
+      "example": "My friend lives next door."
+    },
+    {
+      "word": "friendly",
+      "translation": "amical",
+      "example": "The staff were very friendly."
+    },
+    {
+      "word": "front",
+      "translation": "le devant",
+      "example": "Wait at the front of the building."
+    },
+    {
+      "word": "fruit",
+      "translation": "le fruit",
+      "example": "Fruit is cheap in summer."
+    },
+    {
+      "word": "full",
+      "translation": "plein",
+      "example": "The bus was completely full."
+    },
+    {
+      "word": "fun",
+      "translation": "l'amusement",
+      "example": "The trip was great fun."
+    },
+    {
+      "word": "funny",
+      "translation": "drôle",
+      "example": "His story was very funny."
+    },
+    {
+      "word": "future",
+      "translation": "l'avenir",
+      "example": "Nobody knows the future."
+    },
+    {
+      "word": "game",
+      "translation": "le jeu",
+      "example": "The game ended in a draw."
+    },
+    {
+      "word": "garden",
+      "translation": "le jardin",
+      "example": "Their garden is full of flowers."
+    },
+    {
+      "word": "geography",
+      "translation": "la géographie",
+      "example": "She teaches geography."
+    },
+    {
+      "word": "girl",
+      "translation": "la fille",
+      "example": "A girl waved from the window."
+    },
+    {
+      "word": "girlfriend",
+      "translation": "la petite amie",
+      "example": "His girlfriend studies law."
+    },
+    {
+      "word": "give",
+      "translation": "donner",
+      "example": "Give me one minute."
+    },
+    {
+      "word": "glass",
+      "translation": "le verre",
+      "example": "She broke a glass this morning."
+    },
+    {
+      "word": "go",
+      "translation": "aller",
+      "example": "We go to the market on Friday."
+    },
+    {
+      "word": "good",
+      "translation": "bon",
+      "example": "This is a good idea."
+    },
+    {
+      "word": "grandfather",
+      "translation": "le grand-père",
+      "example": "My grandfather was a fisherman."
+    },
+    {
+      "word": "grandmother",
+      "translation": "la grand-mère",
+      "example": "Her grandmother still cooks daily."
+    },
+    {
+      "word": "grandparent",
+      "translation": "le grand-parent",
+      "example": "My grandparent still drives."
+    },
+    {
+      "word": "great",
+      "translation": "génial",
+      "example": "That is a great idea."
+    },
+    {
+      "word": "green",
+      "translation": "vert",
+      "example": "The fields turn green in May."
+    },
+    {
+      "word": "grey",
+      "translation": "gris",
+      "example": "The sky turned grey."
+    },
+    {
+      "word": "group",
+      "translation": "le groupe",
+      "example": "A group of students waited outside."
+    },
+    {
+      "word": "grow",
+      "translation": "pousser",
+      "example": "These plants grow very fast."
+    },
+    {
+      "word": "guess",
+      "translation": "deviner",
+      "example": "Guess how old he is."
+    },
+    {
+      "word": "guitar",
+      "translation": "la guitare",
+      "example": "He plays the guitar badly."
+    },
+    {
+      "word": "gym",
+      "translation": "la salle de sport",
+      "example": "She goes to the gym daily."
+    },
+    {
+      "word": "hair",
+      "translation": "les cheveux",
+      "example": "Her hair is very long."
+    },
+    {
+      "word": "half",
+      "translation": "la moitié",
+      "example": "Half the class was absent."
+    },
+    {
+      "word": "hand",
+      "translation": "la main",
+      "example": "He raised his hand."
+    },
+    {
+      "word": "happen",
+      "translation": "se passer",
+      "example": "What happened last night?"
+    },
+    {
+      "word": "happy",
+      "translation": "heureux",
+      "example": "She was happy to see him."
+    },
+    {
+      "word": "hard",
+      "translation": "difficile",
+      "example": "This question is hard."
+    },
+    {
+      "word": "hat",
+      "translation": "le chapeau",
+      "example": "He lost his hat on the bus."
+    },
+    {
+      "word": "hate",
+      "translation": "détester",
+      "example": "I hate waiting in queues."
+    },
+    {
+      "word": "have to",
+      "translation": "devoir",
+      "example": "I have to leave now."
+    },
+    {
+      "word": "head",
+      "translation": "la tête",
+      "example": "He hit his head on the door."
+    },
+    {
+      "word": "health",
+      "translation": "la santé",
+      "example": "His health improved slowly."
+    },
+    {
+      "word": "healthy",
+      "translation": "sain",
+      "example": "She eats very healthy food."
+    },
+    {
+      "word": "hear",
+      "translation": "entendre",
+      "example": "I cannot hear you."
+    },
+    {
+      "word": "help",
+      "translation": "aider",
+      "example": "Can you help me lift this?"
+    },
+    {
+      "word": "high",
+      "translation": "haut",
+      "example": "The wall is too high."
+    },
+    {
+      "word": "history",
+      "translation": "l'histoire",
+      "example": "He studies history."
+    },
+    {
+      "word": "hobby",
+      "translation": "le passe-temps",
+      "example": "Painting is her hobby."
+    },
+    {
+      "word": "holiday",
+      "translation": "les vacances",
+      "example": "We took a short holiday in June."
+    },
+    {
+      "word": "home",
+      "translation": "le foyer",
+      "example": "We go home at six."
+    },
+    {
+      "word": "homework",
+      "translation": "les devoirs",
+      "example": "He finished his homework early."
+    },
+    {
+      "word": "hope",
+      "translation": "espérer",
+      "example": "I hope she arrives soon."
+    },
+    {
+      "word": "horse",
+      "translation": "le cheval",
+      "example": "The horse ran across the field."
+    },
+    {
+      "word": "hospital",
+      "translation": "l'hôpital",
+      "example": "The hospital is behind the school."
+    },
+    {
+      "word": "hot",
+      "translation": "chaud",
+      "example": "The tea is still hot."
+    },
+    {
+      "word": "hotel",
+      "translation": "l'hôtel",
+      "example": "The hotel was near the beach."
+    },
+    {
+      "word": "hour",
+      "translation": "l'heure",
+      "example": "The trip takes about an hour."
+    },
+    {
+      "word": "house",
+      "translation": "la maison",
+      "example": "Their house has a red door."
+    },
+    {
+      "word": "however",
+      "translation": "cependant",
+      "example": "It rained; however, we walked."
+    },
+    {
+      "word": "hungry",
+      "translation": "affamé",
+      "example": "The children were hungry."
+    },
+    {
+      "word": "husband",
+      "translation": "le mari",
+      "example": "Her husband is a nurse."
+    },
+    {
+      "word": "ice",
+      "translation": "la glace",
+      "example": "There was ice on the road."
+    },
+    {
+      "word": "ice cream",
+      "translation": "la glace",
+      "example": "The children wanted ice cream."
+    },
+    {
+      "word": "idea",
+      "translation": "l'idée",
+      "example": "That is a good idea."
+    },
+    {
+      "word": "imagine",
+      "translation": "imaginer",
+      "example": "Imagine living there."
+    },
+    {
+      "word": "important",
+      "translation": "important",
+      "example": "This part is important."
+    },
+    {
+      "word": "improve",
+      "translation": "améliorer",
+      "example": "His writing has improved a lot."
+    },
+    {
+      "word": "include",
+      "translation": "inclure",
+      "example": "The price includes breakfast."
+    },
+    {
+      "word": "information",
+      "translation": "l'information",
+      "example": "The information was wrong."
+    },
+    {
+      "word": "interest",
+      "translation": "l'intérêt",
+      "example": "He has no interest in sport."
+    },
+    {
+      "word": "interested",
+      "translation": "intéressé",
+      "example": "She is interested in art."
+    },
+    {
+      "word": "interesting",
+      "translation": "intéressant",
+      "example": "The book is very interesting."
+    },
+    {
+      "word": "internet",
+      "translation": "internet",
+      "example": "The internet is slow here."
+    },
+    {
+      "word": "interview",
+      "translation": "l'entretien",
+      "example": "The interview lasted an hour."
+    },
+    {
+      "word": "introduce",
+      "translation": "présenter",
+      "example": "Let me introduce my sister."
+    },
+    {
+      "word": "island",
+      "translation": "l'île",
+      "example": "The island has one shop."
+    },
+    {
+      "word": "jacket",
+      "translation": "la veste",
+      "example": "He left his jacket behind."
+    },
+    {
+      "word": "jeans",
+      "translation": "le jean",
+      "example": "These jeans are too tight."
+    },
+    {
+      "word": "job",
+      "translation": "le travail",
+      "example": "She started a new job."
+    },
+    {
+      "word": "join",
+      "translation": "rejoindre",
+      "example": "Join us for dinner."
+    },
+    {
+      "word": "journey",
+      "translation": "le voyage",
+      "example": "The journey home took all day."
+    },
+    {
+      "word": "juice",
+      "translation": "le jus",
+      "example": "He drank orange juice."
+    },
+    {
+      "word": "keep",
+      "translation": "garder",
+      "example": "Keep the receipt."
+    },
+    {
+      "word": "key",
+      "translation": "la clé",
+      "example": "I lost the key again."
+    },
+    {
+      "word": "kilometre",
+      "translation": "le kilomètre",
+      "example": "The village is one kilometre away."
+    },
+    {
+      "word": "kind",
+      "translation": "gentil",
+      "example": "She was very kind to us."
+    },
+    {
+      "word": "kitchen",
+      "translation": "la cuisine",
+      "example": "She is cooking in the kitchen."
+    },
+    {
+      "word": "know",
+      "translation": "savoir",
+      "example": "I know the answer."
+    },
+    {
+      "word": "land",
+      "translation": "atterrir",
+      "example": "The plane landed safely."
+    },
+    {
+      "word": "language",
+      "translation": "la langue",
+      "example": "Thai is a difficult language to write."
+    },
+    {
+      "word": "large",
+      "translation": "grand",
+      "example": "They bought a large table."
+    },
+    {
+      "word": "last",
+      "translation": "dernier",
+      "example": "The film was three hours long, but the last part was the best."
+    },
+    {
+      "word": "late",
+      "translation": "en retard",
+      "example": "The train was late again."
+    },
+    {
+      "word": "later",
+      "translation": "plus tard",
+      "example": "See you later."
+    },
+    {
+      "word": "laugh",
+      "translation": "rire",
+      "example": "Everybody laughed at once."
+    },
+    {
+      "word": "learn",
+      "translation": "apprendre",
+      "example": "She wants to learn Spanish."
+    },
+    {
+      "word": "leave",
+      "translation": "partir",
+      "example": "We leave early tomorrow."
+    },
+    {
+      "word": "left",
+      "translation": "gauche",
+      "example": "Turn left at the bank."
+    },
+    {
+      "word": "leg",
+      "translation": "la jambe",
+      "example": "He hurt his leg playing football."
+    },
+    {
+      "word": "lesson",
+      "translation": "la leçon",
+      "example": "The lesson lasted an hour."
+    },
+    {
+      "word": "letter",
+      "translation": "la lettre",
+      "example": "He wrote a letter to his brother."
+    },
+    {
+      "word": "library",
+      "translation": "la bibliothèque",
+      "example": "The library closes at six."
+    },
+    {
+      "word": "lie",
+      "translation": "s'allonger",
+      "example": "I like to lie on the grass and read."
+    },
+    {
+      "word": "life",
+      "translation": "la vie",
+      "example": "Life here is quiet."
+    },
+    {
+      "word": "light",
+      "translation": "léger",
+      "example": "The bag is surprisingly light."
+    },
+    {
+      "word": "like",
+      "translation": "aimer bien",
+      "example": "I like this song."
+    },
+    {
+      "word": "line",
+      "translation": "la ligne",
+      "example": "Draw a straight line."
+    },
+    {
+      "word": "lion",
+      "translation": "le lion",
+      "example": "The lion slept all afternoon."
+    },
+    {
+      "word": "list",
+      "translation": "la liste",
+      "example": "Write a list before shopping."
+    },
+    {
+      "word": "listen",
+      "translation": "écouter",
+      "example": "Listen to this song."
+    },
+    {
+      "word": "live",
+      "translation": "vivre",
+      "example": "My grandparents live near the sea."
+    },
+    {
+      "word": "local",
+      "translation": "local",
+      "example": "The local shop sells bread."
+    },
+    {
+      "word": "long",
+      "translation": "long",
+      "example": "It was a long walk."
+    },
+    {
+      "word": "look",
+      "translation": "regarder",
+      "example": "Look at that bird."
+    },
+    {
+      "word": "lose",
+      "translation": "perdre",
+      "example": "Do not lose the ticket."
+    },
+    {
+      "word": "lot",
+      "translation": "beaucoup",
+      "example": "There is a lot of work today."
+    },
+    {
+      "word": "love",
+      "translation": "aimer",
+      "example": "They love the mountains."
+    },
+    {
+      "word": "lunch",
+      "translation": "le déjeuner",
+      "example": "We had lunch at noon."
+    },
+    {
+      "word": "machine",
+      "translation": "la machine",
+      "example": "The machine stopped working."
+    },
+    {
+      "word": "magazine",
+      "translation": "le magazine",
+      "example": "She reads one magazine a month."
+    },
+    {
+      "word": "main",
+      "translation": "principal",
+      "example": "The main road is closed."
+    },
+    {
+      "word": "make",
+      "translation": "faire",
+      "example": "She makes her own clothes."
+    },
+    {
+      "word": "man",
+      "translation": "l'homme",
+      "example": "That man works at the bank."
+    },
+    {
+      "word": "map",
+      "translation": "la carte",
+      "example": "She drew a map on a napkin."
+    },
+    {
+      "word": "market",
+      "translation": "le marché",
+      "example": "The market opens at dawn."
+    },
+    {
+      "word": "married",
+      "translation": "marié",
+      "example": "They got married in May."
+    },
+    {
+      "word": "match",
+      "translation": "le match",
+      "example": "The match ended late."
+    },
+    {
+      "word": "maybe",
+      "translation": "peut-être",
+      "example": "Maybe they forgot."
+    },
+    {
+      "word": "meal",
+      "translation": "le repas",
+      "example": "The meal took two hours."
+    },
+    {
+      "word": "mean",
+      "translation": "signifier",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "meaning",
+      "translation": "la signification",
+      "example": "The meaning is not clear."
+    },
+    {
+      "word": "meat",
+      "translation": "la viande",
+      "example": "He does not eat meat."
+    },
+    {
+      "word": "meet",
+      "translation": "rencontrer",
+      "example": "Let us meet at six."
+    },
+    {
+      "word": "meeting",
+      "translation": "la réunion",
+      "example": "The meeting lasted two hours."
+    },
+    {
+      "word": "member",
+      "translation": "le membre",
+      "example": "Every member pays a fee."
+    },
+    {
+      "word": "menu",
+      "translation": "le menu",
+      "example": "The menu is only in Thai."
+    },
+    {
+      "word": "message",
+      "translation": "le message",
+      "example": "I left a message for you."
+    },
+    {
+      "word": "metre",
+      "translation": "le mètre",
+      "example": "The wall is two metres high."
+    },
+    {
+      "word": "midnight",
+      "translation": "minuit",
+      "example": "They arrived after midnight."
+    },
+    {
+      "word": "mile",
+      "translation": "le mile",
+      "example": "We walked three miles."
+    },
+    {
+      "word": "milk",
+      "translation": "le lait",
+      "example": "The milk is in the fridge."
+    },
+    {
+      "word": "miss",
+      "translation": "manquer",
+      "example": "I miss my old school."
+    },
+    {
+      "word": "mistake",
+      "translation": "l'erreur",
+      "example": "It was an honest mistake."
+    },
+    {
+      "word": "model",
+      "translation": "le modèle",
+      "example": "This model is cheaper."
+    },
+    {
+      "word": "modern",
+      "translation": "moderne",
+      "example": "The building is very modern."
+    },
+    {
+      "word": "moment",
+      "translation": "le moment",
+      "example": "Wait a moment, please."
+    },
+    {
+      "word": "money",
+      "translation": "l'argent",
+      "example": "He saved money all year."
+    },
+    {
+      "word": "month",
+      "translation": "le mois",
+      "example": "The rent is due every month."
+    },
+    {
+      "word": "morning",
+      "translation": "le matin",
+      "example": "I run every morning."
+    },
+    {
+      "word": "mother",
+      "translation": "la mère",
+      "example": "My mother cooks on Sundays."
+    },
+    {
+      "word": "mountain",
+      "translation": "la montagne",
+      "example": "The mountain is covered in snow."
+    },
+    {
+      "word": "mouse",
+      "translation": "la souris",
+      "example": "A mouse ran under the door."
+    },
+    {
+      "word": "mouth",
+      "translation": "la bouche",
+      "example": "She covered her mouth."
+    },
+    {
+      "word": "move",
+      "translation": "déménager",
+      "example": "They moved to a bigger flat."
+    },
+    {
+      "word": "movie",
+      "translation": "le film",
+      "example": "The movie starts at nine."
+    },
+    {
+      "word": "mum",
+      "translation": "maman",
+      "example": "My mum works nights."
+    },
+    {
+      "word": "museum",
+      "translation": "le musée",
+      "example": "The museum is free on Mondays."
+    },
+    {
+      "word": "music",
+      "translation": "la musique",
+      "example": "She listens to music while working."
+    },
+    {
+      "word": "name",
+      "translation": "le nom",
+      "example": "Please write your name at the top."
+    },
+    {
+      "word": "natural",
+      "translation": "naturel",
+      "example": "It is a natural reaction."
+    },
+    {
+      "word": "near",
+      "translation": "près",
+      "example": "The station is quite near."
+    },
+    {
+      "word": "negative",
+      "translation": "négatif",
+      "example": "His answer was negative."
+    },
+    {
+      "word": "neighbour",
+      "translation": "le voisin",
+      "example": "Our neighbour has three cats."
+    },
+    {
+      "word": "never",
+      "translation": "jamais",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "new",
+      "translation": "nouveau",
+      "example": "They bought a new table."
+    },
+    {
+      "word": "news",
+      "translation": "les nouvelles",
+      "example": "The news came late that evening."
+    },
+    {
+      "word": "newspaper",
+      "translation": "le journal",
+      "example": "He reads a newspaper daily."
+    },
+    {
+      "word": "next to",
+      "translation": "à côté de",
+      "example": "The bank is next to the market."
+    },
+    {
+      "word": "nice",
+      "translation": "agréable",
+      "example": "That was a nice thing to say."
+    },
+    {
+      "word": "night",
+      "translation": "la nuit",
+      "example": "The street is dark at night."
+    },
+    {
+      "word": "noon",
+      "translation": "midi",
+      "example": "We stopped for lunch at noon."
+    },
+    {
+      "word": "no one",
+      "translation": "personne",
+      "example": "No one answered the door."
+    },
+    {
+      "word": "north",
+      "translation": "le nord",
+      "example": "The wind came from the north."
+    },
+    {
+      "word": "nose",
+      "translation": "le nez",
+      "example": "His nose was red from the cold."
+    },
+    {
+      "word": "note",
+      "translation": "la note",
+      "example": "She left a note on the table."
+    },
+    {
+      "word": "now",
+      "translation": "maintenant",
+      "example": "We should go now."
+    },
+    {
+      "word": "number",
+      "translation": "le numéro",
+      "example": "What is your room number?"
+    },
+    {
+      "word": "nurse",
+      "translation": "l'infirmier",
+      "example": "A nurse checked his arm."
+    },
+    {
+      "word": "object",
+      "translation": "l'objet",
+      "example": "A small object fell out."
+    },
+    {
+      "word": "o’clock",
+      "translation": "pile",
+      "example": "The train leaves at six o’clock."
+    },
+    {
+      "word": "office",
+      "translation": "le bureau",
+      "example": "The office is empty on Fridays."
+    },
+    {
+      "word": "often",
+      "translation": "souvent",
+      "example": "We often eat outside."
+    },
+    {
+      "word": "old",
+      "translation": "vieux",
+      "example": "This building is very old."
+    },
+    {
+      "word": "onion",
+      "translation": "l'oignon",
+      "example": "Chop one onion finely."
+    },
+    {
+      "word": "online",
+      "translation": "en ligne",
+      "example": "I bought it online."
+    },
+    {
+      "word": "open",
+      "translation": "ouvrir",
+      "example": "The shop opens at eight."
+    },
+    {
+      "word": "opinion",
+      "translation": "l'opinion",
+      "example": "Everyone had a different opinion."
+    },
+    {
+      "word": "opposite",
+      "translation": "en face de",
+      "example": "The bank is opposite the park."
+    },
+    {
+      "word": "orange",
+      "translation": "l'orange",
+      "example": "She ate an orange."
+    },
+    {
+      "word": "order",
+      "translation": "commander",
+      "example": "He ordered soup and bread."
+    },
+    {
+      "word": "outside",
+      "translation": "dehors",
+      "example": "Wait outside, please."
+    },
+    {
+      "word": "page",
+      "translation": "la page",
+      "example": "The answer is on page ten."
+    },
+    {
+      "word": "paint",
+      "translation": "peindre",
+      "example": "They painted the door blue."
+    },
+    {
+      "word": "painting",
+      "translation": "le tableau",
+      "example": "The painting hangs by the stairs."
+    },
+    {
+      "word": "pair",
+      "translation": "la paire",
+      "example": "He bought a pair of shoes."
+    },
+    {
+      "word": "paper",
+      "translation": "le papier",
+      "example": "Write it on paper first."
+    },
+    {
+      "word": "paragraph",
+      "translation": "le paragraphe",
+      "example": "The last paragraph is unclear."
+    },
+    {
+      "word": "parent",
+      "translation": "le parent",
+      "example": "Every parent was invited."
+    },
+    {
+      "word": "park",
+      "translation": "le parc",
+      "example": "We walk in the park on Sundays."
+    },
+    {
+      "word": "part",
+      "translation": "la partie",
+      "example": "This part is difficult."
+    },
+    {
+      "word": "partner",
+      "translation": "le partenaire",
+      "example": "Her partner runs the shop."
+    },
+    {
+      "word": "party",
+      "translation": "la fête",
+      "example": "The party ended after midnight."
+    },
+    {
+      "word": "passport",
+      "translation": "le passeport",
+      "example": "Keep your passport in your bag."
+    },
+    {
+      "word": "pasta",
+      "translation": "les pâtes",
+      "example": "She cooked pasta with tomatoes."
+    },
+    {
+      "word": "pay",
+      "translation": "payer",
+      "example": "I will pay tomorrow."
+    },
+    {
+      "word": "pen",
+      "translation": "le stylo",
+      "example": "The pen has run out."
+    },
+    {
+      "word": "pencil",
+      "translation": "le crayon",
+      "example": "Use a pencil for the draft."
+    },
+    {
+      "word": "people",
+      "translation": "les gens",
+      "example": "Many people waited outside."
+    },
+    {
+      "word": "pepper",
+      "translation": "le poivre",
+      "example": "Add salt and pepper."
+    },
+    {
+      "word": "perfect",
+      "translation": "parfait",
+      "example": "The weather was perfect."
+    },
+    {
+      "word": "period",
+      "translation": "la période",
+      "example": "It was a difficult period."
+    },
+    {
+      "word": "person",
+      "translation": "la personne",
+      "example": "Only one person answered."
+    },
+    {
+      "word": "personal",
+      "translation": "personnel",
+      "example": "That is a personal question."
+    },
+    {
+      "word": "phone",
+      "translation": "le téléphone",
+      "example": "My phone is nearly dead."
+    },
+    {
+      "word": "photo",
+      "translation": "la photo",
+      "example": "He showed me a photo of his dog."
+    },
+    {
+      "word": "photograph",
+      "translation": "la photographie",
+      "example": "He took a photograph of the bridge."
+    },
+    {
+      "word": "phrase",
+      "translation": "l'expression",
+      "example": "That phrase is hard to translate."
+    },
+    {
+      "word": "piano",
+      "translation": "le piano",
+      "example": "She plays the piano well."
+    },
+    {
+      "word": "picture",
+      "translation": "l'image",
+      "example": "The picture is crooked."
+    },
+    {
+      "word": "piece",
+      "translation": "le morceau",
+      "example": "Take one piece each."
+    },
+    {
+      "word": "pig",
+      "translation": "le cochon",
+      "example": "The pig slept in the shade."
+    },
+    {
+      "word": "pink",
+      "translation": "rose",
+      "example": "She wore a pink scarf."
+    },
+    {
+      "word": "pizza",
+      "translation": "la pizza",
+      "example": "We shared a large pizza."
+    },
+    {
+      "word": "place",
+      "translation": "le lieu",
+      "example": "This is a good place to stop."
+    },
+    {
+      "word": "plan",
+      "translation": "le plan",
+      "example": "Our plan changed at the last minute."
+    },
+    {
+      "word": "plane",
+      "translation": "l'avion",
+      "example": "The plane was two hours late."
+    },
+    {
+      "word": "plant",
+      "translation": "la plante",
+      "example": "Water the plant twice a week."
+    },
+    {
+      "word": "play",
+      "translation": "jouer",
+      "example": "The children play outside."
+    },
+    {
+      "word": "player",
+      "translation": "le joueur",
+      "example": "One player was injured."
+    },
+    {
+      "word": "point",
+      "translation": "le point",
+      "example": "He made a good point."
+    },
+    {
+      "word": "police",
+      "translation": "la police",
+      "example": "The police arrived quickly."
+    },
+    {
+      "word": "policeman",
+      "translation": "le policier",
+      "example": "A policeman stopped the car."
+    },
+    {
+      "word": "pool",
+      "translation": "la piscine",
+      "example": "The pool closes at eight."
+    },
+    {
+      "word": "poor",
+      "translation": "pauvre",
+      "example": "The village was very poor."
+    },
+    {
+      "word": "popular",
+      "translation": "populaire",
+      "example": "That song is very popular."
+    },
+    {
+      "word": "positive",
+      "translation": "positif",
+      "example": "The result was positive."
+    },
+    {
+      "word": "possible",
+      "translation": "possible",
+      "example": "It is possible but unlikely."
+    },
+    {
+      "word": "post",
+      "translation": "poster",
+      "example": "I will post the letter today."
+    },
+    {
+      "word": "potato",
+      "translation": "la pomme de terre",
+      "example": "Peel two potatoes."
+    },
+    {
+      "word": "pound",
+      "translation": "la livre",
+      "example": "The bag weighs one pound."
+    },
+    {
+      "word": "practice",
+      "translation": "la pratique",
+      "example": "Practice makes it easier."
+    },
+    {
+      "word": "practise",
+      "translation": "pratiquer",
+      "example": "She practises the piano every evening."
+    },
+    {
+      "word": "prefer",
+      "translation": "préférer",
+      "example": "I prefer tea to coffee."
+    },
+    {
+      "word": "prepare",
+      "translation": "préparer",
+      "example": "Prepare the room before noon."
+    },
+    {
+      "word": "present",
+      "translation": "le cadeau",
+      "example": "She gave him a present."
+    },
+    {
+      "word": "pretty",
+      "translation": "joli",
+      "example": "The garden is very pretty."
+    },
+    {
+      "word": "price",
+      "translation": "le prix",
+      "example": "The price went up again."
+    },
+    {
+      "word": "probably",
+      "translation": "probablement",
+      "example": "He will probably arrive late."
+    },
+    {
+      "word": "problem",
+      "translation": "le problème",
+      "example": "We solved the problem together."
+    },
+    {
+      "word": "product",
+      "translation": "le produit",
+      "example": "The product sells well."
+    },
+    {
+      "word": "programme",
+      "translation": "le programme",
+      "example": "The programme lasts an hour."
+    },
+    {
+      "word": "project",
+      "translation": "le projet",
+      "example": "The project runs until March."
+    },
+    {
+      "word": "purple",
+      "translation": "violet",
+      "example": "She painted the door purple."
+    },
+    {
+      "word": "put",
+      "translation": "mettre",
+      "example": "Put the box on the shelf."
+    },
+    {
+      "word": "quarter",
+      "translation": "le quart",
+      "example": "A quarter of the class was absent."
+    },
+    {
+      "word": "question",
+      "translation": "la question",
+      "example": "Her question surprised everyone."
+    },
+    {
+      "word": "quick",
+      "translation": "rapide",
+      "example": "That was a quick answer."
+    },
+    {
+      "word": "quickly",
+      "translation": "rapidement",
+      "example": "She answered quickly."
+    },
+    {
+      "word": "quiet",
+      "translation": "calme",
+      "example": "The library is very quiet."
+    },
+    {
+      "word": "quite",
+      "translation": "assez",
+      "example": "The room is quite small."
+    },
+    {
+      "word": "rabbit",
+      "translation": "le lapin",
+      "example": "A small rabbit ran across the field."
+    },
+    {
+      "word": "radio",
+      "translation": "la radio",
+      "example": "The radio was on all night."
+    },
+    {
+      "word": "rain",
+      "translation": "la pluie",
+      "example": "The rain started at noon."
+    },
+    {
+      "word": "read",
+      "translation": "lire",
+      "example": "I read before bed."
+    },
+    {
+      "word": "reader",
+      "translation": "le lecteur",
+      "example": "A reader wrote to complain."
+    },
+    {
+      "word": "reading",
+      "translation": "la lecture",
+      "example": "Reading helps him sleep."
+    },
+    {
+      "word": "ready",
+      "translation": "prêt",
+      "example": "Dinner is ready."
+    },
+    {
+      "word": "real",
+      "translation": "vrai",
+      "example": "Is that a real diamond?"
+    },
+    {
+      "word": "really",
+      "translation": "vraiment",
+      "example": "It was really cold outside."
+    },
+    {
+      "word": "reason",
+      "translation": "la raison",
+      "example": "There is no reason to worry."
+    },
+    {
+      "word": "red",
+      "translation": "rouge",
+      "example": "She wore a red dress."
+    },
+    {
+      "word": "relax",
+      "translation": "se détendre",
+      "example": "Sit down and relax."
+    },
+    {
+      "word": "remember",
+      "translation": "se souvenir",
+      "example": "I remember his face."
+    },
+    {
+      "word": "repeat",
+      "translation": "répéter",
+      "example": "Could you repeat the question?"
+    },
+    {
+      "word": "report",
+      "translation": "le rapport",
+      "example": "She wrote the report alone."
+    },
+    {
+      "word": "restaurant",
+      "translation": "le restaurant",
+      "example": "The restaurant closes on Mondays."
+    },
+    {
+      "word": "result",
+      "translation": "le résultat",
+      "example": "The result surprised everyone."
+    },
+    {
+      "word": "return",
+      "translation": "retourner",
+      "example": "They return on Sunday."
+    },
+    {
+      "word": "rice",
+      "translation": "le riz",
+      "example": "We cook rice every day."
+    },
+    {
+      "word": "rich",
+      "translation": "riche",
+      "example": "Her family is not rich."
+    },
+    {
+      "word": "ride",
+      "translation": "monter",
+      "example": "He rides to school daily."
+    },
+    {
+      "word": "right",
+      "translation": "le droit",
+      "example": "Every worker has that right."
+    },
+    {
+      "word": "river",
+      "translation": "la rivière",
+      "example": "They swam in the river."
+    },
+    {
+      "word": "road",
+      "translation": "la route",
+      "example": "The road was closed for repairs."
+    },
+    {
+      "word": "room",
+      "translation": "la pièce",
+      "example": "This room is very bright."
+    },
+    {
+      "word": "routine",
+      "translation": "la routine",
+      "example": "Her morning routine is fixed."
+    },
+    {
+      "word": "rule",
+      "translation": "la règle",
+      "example": "Everyone must follow the same rule."
+    },
+    {
+      "word": "run",
+      "translation": "courir",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "sad",
+      "translation": "triste",
+      "example": "The ending was sad."
+    },
+    {
+      "word": "salad",
+      "translation": "la salade",
+      "example": "He ordered a green salad."
+    },
+    {
+      "word": "salt",
+      "translation": "le sel",
+      "example": "There is too much salt."
+    },
+    {
+      "word": "sandwich",
+      "translation": "le sandwich",
+      "example": "She made a cheese sandwich."
+    },
+    {
+      "word": "say",
+      "translation": "dire",
+      "example": "He did not say anything."
+    },
+    {
+      "word": "school",
+      "translation": "l'école",
+      "example": "The school opens at eight."
+    },
+    {
+      "word": "science",
+      "translation": "la science",
+      "example": "Science was her best subject."
+    },
+    {
+      "word": "scientist",
+      "translation": "le scientifique",
+      "example": "A scientist explained the result."
+    },
+    {
+      "word": "sea",
+      "translation": "la mer",
+      "example": "The sea is calm this morning."
+    },
+    {
+      "word": "section",
+      "translation": "la section",
+      "example": "The last section is missing."
+    },
+    {
+      "word": "see",
+      "translation": "voir",
+      "example": "I can see the sea from here."
+    },
+    {
+      "word": "sell",
+      "translation": "vendre",
+      "example": "They sell bread and milk."
+    },
+    {
+      "word": "send",
+      "translation": "envoyer",
+      "example": "Please send the file today."
+    },
+    {
+      "word": "sentence",
+      "translation": "la phrase",
+      "example": "Write one sentence only."
+    },
+    {
+      "word": "share",
+      "translation": "partager",
+      "example": "They shared the last apple."
+    },
+    {
+      "word": "sheep",
+      "translation": "le mouton",
+      "example": "The sheep stayed near the wall."
+    },
+    {
+      "word": "shirt",
+      "translation": "la chemise",
+      "example": "His shirt was torn."
+    },
+    {
+      "word": "shoe",
+      "translation": "la chaussure",
+      "example": "One shoe was under the bed."
+    },
+    {
+      "word": "shop",
+      "translation": "le magasin",
+      "example": "The shop closes at nine."
+    },
+    {
+      "word": "shopping",
+      "translation": "les courses",
+      "example": "We do the shopping on Saturdays."
+    },
+    {
+      "word": "short",
+      "translation": "court",
+      "example": "He gave a short answer."
+    },
+    {
+      "word": "show",
+      "translation": "montrer",
+      "example": "Show me the photograph."
+    },
+    {
+      "word": "shower",
+      "translation": "la douche",
+      "example": "He had a cold shower."
+    },
+    {
+      "word": "sick",
+      "translation": "malade",
+      "example": "She felt sick on the boat."
+    },
+    {
+      "word": "similar",
+      "translation": "similaire",
+      "example": "Our jobs are quite similar."
+    },
+    {
+      "word": "sing",
+      "translation": "chanter",
+      "example": "They sang all the way home."
+    },
+    {
+      "word": "singer",
+      "translation": "le chanteur",
+      "example": "The singer forgot the words."
+    },
+    {
+      "word": "sister",
+      "translation": "la sœur",
+      "example": "Her sister lives abroad."
+    },
+    {
+      "word": "sit",
+      "translation": "s'asseoir",
+      "example": "Please sit here."
+    },
+    {
+      "word": "situation",
+      "translation": "la situation",
+      "example": "The situation is improving."
+    },
+    {
+      "word": "skill",
+      "translation": "la compétence",
+      "example": "Listening is an underrated skill."
+    },
+    {
+      "word": "skirt",
+      "translation": "la jupe",
+      "example": "Her skirt was too long."
+    },
+    {
+      "word": "sleep",
+      "translation": "dormir",
+      "example": "The baby sleeps all afternoon."
+    },
+    {
+      "word": "slow",
+      "translation": "lent",
+      "example": "The traffic was slow this morning."
+    },
+    {
+      "word": "small",
+      "translation": "petit",
+      "example": "She has a small bag."
+    },
+    {
+      "word": "snake",
+      "translation": "le serpent",
+      "example": "A snake crossed the path."
+    },
+    {
+      "word": "snow",
+      "translation": "la neige",
+      "example": "The snow lasted three days."
+    },
+    {
+      "word": "sofa",
+      "translation": "le canapé",
+      "example": "The cat sleeps on the sofa."
+    },
+    {
+      "word": "somebody",
+      "translation": "quelqu'un",
+      "example": "Somebody left the light on."
+    },
+    {
+      "word": "someone",
+      "translation": "quelqu'un",
+      "example": "Someone left a note."
+    },
+    {
+      "word": "something",
+      "translation": "quelque chose",
+      "example": "Something smells burnt."
+    },
+    {
+      "word": "sometimes",
+      "translation": "parfois",
+      "example": "Sometimes she walks to work."
+    },
+    {
+      "word": "son",
+      "translation": "le fils",
+      "example": "Their son studies abroad."
+    },
+    {
+      "word": "song",
+      "translation": "la chanson",
+      "example": "That song is very old."
+    },
+    {
+      "word": "soon",
+      "translation": "bientôt",
+      "example": "She will arrive soon."
+    },
+    {
+      "word": "sound",
+      "translation": "le son",
+      "example": "The sound came from upstairs."
+    },
+    {
+      "word": "soup",
+      "translation": "la soupe",
+      "example": "The soup was too salty."
+    },
+    {
+      "word": "south",
+      "translation": "le sud",
+      "example": "They drove south for hours."
+    },
+    {
+      "word": "space",
+      "translation": "l'espace",
+      "example": "There is space for one more."
+    },
+    {
+      "word": "speak",
+      "translation": "parler",
+      "example": "She speaks three languages."
+    },
+    {
+      "word": "special",
+      "translation": "spécial",
+      "example": "Today is a special day."
+    },
+    {
+      "word": "spell",
+      "translation": "épeler",
+      "example": "How do you spell your name?"
+    },
+    {
+      "word": "spelling",
+      "translation": "l'orthographe",
+      "example": "His spelling is very poor."
+    },
+    {
+      "word": "spend",
+      "translation": "dépenser",
+      "example": "They spend little on food."
+    },
+    {
+      "word": "sport",
+      "translation": "le sport",
+      "example": "Football is his favourite sport."
+    },
+    {
+      "word": "spring",
+      "translation": "le printemps",
+      "example": "The garden is best in spring."
+    },
+    {
+      "word": "stand",
+      "translation": "se tenir debout",
+      "example": "Please stand near the door."
+    },
+    {
+      "word": "star",
+      "translation": "l'étoile",
+      "example": "One star appeared above the hill."
+    },
+    {
+      "word": "start",
+      "translation": "commencer",
+      "example": "The class starts at ten."
+    },
+    {
+      "word": "statement",
+      "translation": "la déclaration",
+      "example": "His statement was short."
+    },
+    {
+      "word": "station",
+      "translation": "la gare",
+      "example": "The station is behind the market."
+    },
+    {
+      "word": "stay",
+      "translation": "rester",
+      "example": "We stayed two nights."
+    },
+    {
+      "word": "stop",
+      "translation": "arrêter",
+      "example": "The bus stops here."
+    },
+    {
+      "word": "story",
+      "translation": "l'histoire",
+      "example": "He told us a funny story."
+    },
+    {
+      "word": "street",
+      "translation": "la rue",
+      "example": "Their street is very narrow."
+    },
+    {
+      "word": "strong",
+      "translation": "fort",
+      "example": "The coffee here is very strong."
+    },
+    {
+      "word": "student",
+      "translation": "l'étudiant",
+      "example": "Every student needs a pen."
+    },
+    {
+      "word": "study",
+      "translation": "étudier",
+      "example": "She studies at night."
+    },
+    {
+      "word": "style",
+      "translation": "le style",
+      "example": "I like her writing style."
+    },
+    {
+      "word": "subject",
+      "translation": "la matière",
+      "example": "History is my best subject."
+    },
+    {
+      "word": "success",
+      "translation": "le succès",
+      "example": "The evening was a success."
+    },
+    {
+      "word": "sugar",
+      "translation": "le sucre",
+      "example": "He takes no sugar."
+    },
+    {
+      "word": "summer",
+      "translation": "l'été",
+      "example": "The summer was very dry."
+    },
+    {
+      "word": "sun",
+      "translation": "le soleil",
+      "example": "The sun is very strong today."
+    },
+    {
+      "word": "supermarket",
+      "translation": "le supermarché",
+      "example": "The supermarket opens early."
+    },
+    {
+      "word": "sure",
+      "translation": "sûr",
+      "example": "I am not sure about the time."
+    },
+    {
+      "word": "sweater",
+      "translation": "le pull",
+      "example": "He wore a thick sweater."
+    },
+    {
+      "word": "swim",
+      "translation": "nager",
+      "example": "They swim before breakfast."
+    },
+    {
+      "word": "swimming",
+      "translation": "la natation",
+      "example": "Swimming keeps her fit."
+    },
+    {
+      "word": "table",
+      "translation": "la table",
+      "example": "The keys are on the table."
+    },
+    {
+      "word": "take",
+      "translation": "prendre",
+      "example": "Take an umbrella with you."
+    },
+    {
+      "word": "talk",
+      "translation": "parler",
+      "example": "We talked for an hour."
+    },
+    {
+      "word": "tall",
+      "translation": "grand",
+      "example": "He is taller than his father."
+    },
+    {
+      "word": "taxi",
+      "translation": "le taxi",
+      "example": "We took a taxi home."
+    },
+    {
+      "word": "tea",
+      "translation": "le thé",
+      "example": "She drinks tea in the evening."
+    },
+    {
+      "word": "teach",
+      "translation": "enseigner",
+      "example": "He teaches history at a school."
+    },
+    {
+      "word": "teacher",
+      "translation": "le professeur",
+      "example": "The teacher asked a question."
+    },
+    {
+      "word": "team",
+      "translation": "l'équipe",
+      "example": "Our team won on Sunday."
+    },
+    {
+      "word": "teenager",
+      "translation": "l'adolescent",
+      "example": "The teenager missed the bus."
+    },
+    {
+      "word": "telephone",
+      "translation": "le téléphone fixe",
+      "example": "The telephone rang twice."
+    },
+    {
+      "word": "television",
+      "translation": "la télévision",
+      "example": "The television is too loud."
+    },
+    {
+      "word": "tell",
+      "translation": "dire",
+      "example": "Tell me what happened."
+    },
+    {
+      "word": "tennis",
+      "translation": "le tennis",
+      "example": "They play tennis on Fridays."
+    },
+    {
+      "word": "terrible",
+      "translation": "terrible",
+      "example": "The weather was terrible."
+    },
+    {
+      "word": "test",
+      "translation": "le test",
+      "example": "The test was easier than expected."
+    },
+    {
+      "word": "text",
+      "translation": "le SMS",
+      "example": "Send me a text when you arrive."
+    },
+    {
+      "word": "theatre",
+      "translation": "le théâtre",
+      "example": "The theatre is closed in August."
+    },
+    {
+      "word": "thing",
+      "translation": "la chose",
+      "example": "One thing still worries me."
+    },
+    {
+      "word": "think",
+      "translation": "penser",
+      "example": "I think she is right."
+    },
+    {
+      "word": "thirsty",
+      "translation": "assoiffé",
+      "example": "The children were thirsty."
+    },
+    {
+      "word": "ticket",
+      "translation": "le billet",
+      "example": "I bought a ticket for the early train."
+    },
+    {
+      "word": "time",
+      "translation": "le temps",
+      "example": "We had a good time."
+    },
+    {
+      "word": "tired",
+      "translation": "fatigué",
+      "example": "I felt tired after the meeting."
+    },
+    {
+      "word": "title",
+      "translation": "le titre",
+      "example": "The title is misleading."
+    },
+    {
+      "word": "today",
+      "translation": "aujourd'hui",
+      "example": "Today is my last day."
+    },
+    {
+      "word": "together",
+      "translation": "ensemble",
+      "example": "They finished the work together."
+    },
+    {
+      "word": "toilet",
+      "translation": "les toilettes",
+      "example": "The toilet is at the back."
+    },
+    {
+      "word": "tomato",
+      "translation": "la tomate",
+      "example": "Slice one tomato thinly."
+    },
+    {
+      "word": "tomorrow",
+      "translation": "demain",
+      "example": "We leave tomorrow morning."
+    },
+    {
+      "word": "tonight",
+      "translation": "ce soir",
+      "example": "There is a concert tonight."
+    },
+    {
+      "word": "tooth",
+      "translation": "la dent",
+      "example": "He lost a tooth playing rugby."
+    },
+    {
+      "word": "topic",
+      "translation": "le sujet",
+      "example": "The topic changed quickly."
+    },
+    {
+      "word": "tourist",
+      "translation": "le touriste",
+      "example": "A tourist asked for directions."
+    },
+    {
+      "word": "town",
+      "translation": "la ville",
+      "example": "The town has one bank."
+    },
+    {
+      "word": "traffic",
+      "translation": "la circulation",
+      "example": "The traffic was terrible."
+    },
+    {
+      "word": "train",
+      "translation": "le train",
+      "example": "The train leaves at six."
+    },
+    {
+      "word": "travel",
+      "translation": "voyager",
+      "example": "They travel every summer."
+    },
+    {
+      "word": "tree",
+      "translation": "l'arbre",
+      "example": "A big tree stands by the gate."
+    },
+    {
+      "word": "trip",
+      "translation": "le voyage",
+      "example": "The trip took two days."
+    },
+    {
+      "word": "trousers",
+      "translation": "le pantalon",
+      "example": "His trousers were too long."
+    },
+    {
+      "word": "true",
+      "translation": "vrai",
+      "example": "That story is true."
+    },
+    {
+      "word": "try",
+      "translation": "essayer",
+      "example": "Try the other door."
+    },
+    {
+      "word": "T-shirt",
+      "translation": "le T-shirt",
+      "example": "He wore a plain T-shirt."
+    },
+    {
+      "word": "turn",
+      "translation": "tourner",
+      "example": "Turn left at the church."
+    },
+    {
+      "word": "TV",
+      "translation": "la télé",
+      "example": "The TV was on all evening."
+    },
+    {
+      "word": "type",
+      "translation": "le type",
+      "example": "What type of bread is it?"
+    },
+    {
+      "word": "umbrella",
+      "translation": "le parapluie",
+      "example": "Take an umbrella, it may rain."
+    },
+    {
+      "word": "uncle",
+      "translation": "l'oncle",
+      "example": "My uncle lives in Spain."
+    },
+    {
+      "word": "understand",
+      "translation": "comprendre",
+      "example": "I do not understand this word."
+    },
+    {
+      "word": "university",
+      "translation": "l'université",
+      "example": "She starts university in October."
+    },
+    {
+      "word": "upstairs",
+      "translation": "en haut",
+      "example": "The bathroom is upstairs."
+    },
+    {
+      "word": "use",
+      "translation": "utiliser",
+      "example": "Use a sharp knife."
+    },
+    {
+      "word": "useful",
+      "translation": "utile",
+      "example": "That was a useful suggestion."
+    },
+    {
+      "word": "vacation",
+      "translation": "les vacances",
+      "example": "They took a long vacation."
+    },
+    {
+      "word": "vegetable",
+      "translation": "le légume",
+      "example": "Eat one green vegetable daily."
+    },
+    {
+      "word": "video",
+      "translation": "la vidéo",
+      "example": "The video would not load."
+    },
+    {
+      "word": "village",
+      "translation": "le village",
+      "example": "She grew up in a small village."
+    },
+    {
+      "word": "visit",
+      "translation": "visiter",
+      "example": "They visit every August."
+    },
+    {
+      "word": "visitor",
+      "translation": "le visiteur",
+      "example": "One visitor stayed behind."
+    },
+    {
+      "word": "wait",
+      "translation": "attendre",
+      "example": "We waited for an hour."
+    },
+    {
+      "word": "waiter",
+      "translation": "le serveur",
+      "example": "The waiter forgot the drinks."
+    },
+    {
+      "word": "wake",
+      "translation": "réveiller",
+      "example": "Wake me at seven."
+    },
+    {
+      "word": "walk",
+      "translation": "marcher",
+      "example": "They walk to work every day."
+    },
+    {
+      "word": "wall",
+      "translation": "le mur",
+      "example": "The wall needs painting."
+    },
+    {
+      "word": "want",
+      "translation": "vouloir",
+      "example": "I want a quiet evening."
+    },
+    {
+      "word": "warm",
+      "translation": "chaud",
+      "example": "The room is warm enough."
+    },
+    {
+      "word": "wash",
+      "translation": "laver",
+      "example": "Wash your hands first."
+    },
+    {
+      "word": "watch",
+      "translation": "regarder",
+      "example": "We watched the sun set."
+    },
+    {
+      "word": "water",
+      "translation": "l'eau",
+      "example": "I drink water after running."
+    },
+    {
+      "word": "way",
+      "translation": "le chemin",
+      "example": "This is the quickest way."
+    },
+    {
+      "word": "wear",
+      "translation": "porter",
+      "example": "She wears glasses to read."
+    },
+    {
+      "word": "weather",
+      "translation": "le temps",
+      "example": "The weather changed suddenly."
+    },
+    {
+      "word": "website",
+      "translation": "le site web",
+      "example": "The website is very slow."
+    },
+    {
+      "word": "week",
+      "translation": "la semaine",
+      "example": "She will be away next week."
+    },
+    {
+      "word": "weekend",
+      "translation": "le week-end",
+      "example": "We stayed home all weekend."
+    },
+    {
+      "word": "welcome",
+      "translation": "accueillir",
+      "example": "They made us very welcome."
+    },
+    {
+      "word": "west",
+      "translation": "l'ouest",
+      "example": "The sun sets in the west."
+    },
+    {
+      "word": "white",
+      "translation": "blanc",
+      "example": "The walls are white."
+    },
+    {
+      "word": "wife",
+      "translation": "l'épouse",
+      "example": "His wife teaches music."
+    },
+    {
+      "word": "win",
+      "translation": "gagner",
+      "example": "They won by one goal."
+    },
+    {
+      "word": "wind",
+      "translation": "le vent",
+      "example": "A cold wind came from the sea."
+    },
+    {
+      "word": "window",
+      "translation": "la fenêtre",
+      "example": "Open the window for some air."
+    },
+    {
+      "word": "wine",
+      "translation": "le vin",
+      "example": "The wine was too warm."
+    },
+    {
+      "word": "winter",
+      "translation": "l'hiver",
+      "example": "The winter was very long."
+    },
+    {
+      "word": "woman",
+      "translation": "la femme",
+      "example": "The woman next to me is a nurse."
+    },
+    {
+      "word": "wonderful",
+      "translation": "merveilleux",
+      "example": "It was a wonderful evening."
+    },
+    {
+      "word": "word",
+      "translation": "le mot",
+      "example": "I did not understand that word."
+    },
+    {
+      "word": "work",
+      "translation": "travailler",
+      "example": "She works in a hospital."
+    },
+    {
+      "word": "worker",
+      "translation": "le travailleur",
+      "example": "Every worker got a bonus."
+    },
+    {
+      "word": "world",
+      "translation": "le monde",
+      "example": "The world has changed."
+    },
+    {
+      "word": "write",
+      "translation": "écrire",
+      "example": "Please write your answer here."
+    },
+    {
+      "word": "writer",
+      "translation": "l'écrivain",
+      "example": "The writer lives nearby."
+    },
+    {
+      "word": "writing",
+      "translation": "l'écriture",
+      "example": "His writing is hard to read."
+    },
+    {
+      "word": "wrong",
+      "translation": "faux",
+      "example": "You have the wrong number."
+    },
+    {
+      "word": "year",
+      "translation": "l'année",
+      "example": "They moved here last year."
+    },
+    {
+      "word": "yellow",
+      "translation": "jaune",
+      "example": "The walls were pale yellow."
+    },
+    {
+      "word": "yesterday",
+      "translation": "hier",
+      "example": "It rained all day yesterday."
+    },
+    {
+      "word": "young",
+      "translation": "jeune",
+      "example": "She is too young to drive."
+    }
+  ]
+}

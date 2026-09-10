@@ -1,0 +1,3625 @@
+{
+  "id": "en-de-a1",
+  "name": "English A1",
+  "learn": "en",
+  "native": "de",
+  "level": "A1",
+  "version": 3,
+  "items": [
+    {
+      "word": "action",
+      "translation": "die Aktion",
+      "example": "She took action straight away."
+    },
+    {
+      "word": "activity",
+      "translation": "die Aktivität",
+      "example": "The main activity is swimming."
+    },
+    {
+      "word": "actor",
+      "translation": "der Schauspieler",
+      "example": "The actor forgot his line."
+    },
+    {
+      "word": "actress",
+      "translation": "die Schauspielerin",
+      "example": "The actress waved at the crowd."
+    },
+    {
+      "word": "add",
+      "translation": "hinzufügen",
+      "example": "Add a little salt."
+    },
+    {
+      "word": "address",
+      "translation": "die Adresse",
+      "example": "Write your address on the form."
+    },
+    {
+      "word": "adult",
+      "translation": "der Erwachsene",
+      "example": "One adult and two children, please."
+    },
+    {
+      "word": "advice",
+      "translation": "der Rat",
+      "example": "He gave me useful advice about the job."
+    },
+    {
+      "word": "afraid",
+      "translation": "ängstlich",
+      "example": "She is afraid of dogs."
+    },
+    {
+      "word": "after",
+      "translation": "nach",
+      "example": "We left after lunch."
+    },
+    {
+      "word": "afternoon",
+      "translation": "der Nachmittag",
+      "example": "We met on Tuesday afternoon."
+    },
+    {
+      "word": "again",
+      "translation": "wieder",
+      "example": "Try again tomorrow."
+    },
+    {
+      "word": "age",
+      "translation": "das Alter",
+      "example": "She started work at a young age."
+    },
+    {
+      "word": "ago",
+      "translation": "vor",
+      "example": "She left two years ago."
+    },
+    {
+      "word": "agree",
+      "translation": "zustimmen",
+      "example": "We agreed on a later date."
+    },
+    {
+      "word": "air",
+      "translation": "die Luft",
+      "example": "The air is cooler by the river."
+    },
+    {
+      "word": "airport",
+      "translation": "der Flughafen",
+      "example": "The airport is an hour away."
+    },
+    {
+      "word": "always",
+      "translation": "immer",
+      "example": "She always locks the door."
+    },
+    {
+      "word": "amazing",
+      "translation": "erstaunlich",
+      "example": "The view was amazing."
+    },
+    {
+      "word": "angry",
+      "translation": "wütend",
+      "example": "He was angry about the delay."
+    },
+    {
+      "word": "animal",
+      "translation": "das Tier",
+      "example": "No animal is allowed inside."
+    },
+    {
+      "word": "answer",
+      "translation": "die Antwort",
+      "example": "Nobody knew the answer."
+    },
+    {
+      "word": "anyone",
+      "translation": "irgendjemand",
+      "example": "Anyone can join."
+    },
+    {
+      "word": "anything",
+      "translation": "irgendetwas",
+      "example": "Anything is better than waiting."
+    },
+    {
+      "word": "apartment",
+      "translation": "die Wohnung",
+      "example": "Their apartment is on the top floor."
+    },
+    {
+      "word": "apple",
+      "translation": "der Apfel",
+      "example": "I ate an apple after lunch."
+    },
+    {
+      "word": "area",
+      "translation": "das Gebiet",
+      "example": "This area floods every year."
+    },
+    {
+      "word": "arm",
+      "translation": "der Arm",
+      "example": "He broke his arm last winter."
+    },
+    {
+      "word": "arrive",
+      "translation": "ankommen",
+      "example": "They arrive on Sunday evening."
+    },
+    {
+      "word": "art",
+      "translation": "die Kunst",
+      "example": "She studies art in Rome."
+    },
+    {
+      "word": "article",
+      "translation": "der Artikel",
+      "example": "She wrote an article about it."
+    },
+    {
+      "word": "artist",
+      "translation": "der Künstler",
+      "example": "The artist works only at night."
+    },
+    {
+      "word": "ask",
+      "translation": "fragen",
+      "example": "Ask the driver where to get off."
+    },
+    {
+      "word": "aunt",
+      "translation": "die Tante",
+      "example": "My aunt lives in the next town."
+    },
+    {
+      "word": "autumn",
+      "translation": "der Herbst",
+      "example": "The garden is best in autumn."
+    },
+    {
+      "word": "away",
+      "translation": "weg",
+      "example": "The station is ten minutes away."
+    },
+    {
+      "word": "baby",
+      "translation": "das Baby",
+      "example": "The baby is asleep."
+    },
+    {
+      "word": "back",
+      "translation": "zurück",
+      "example": "He came back at six."
+    },
+    {
+      "word": "bad",
+      "translation": "schlecht",
+      "example": "The weather was bad all week."
+    },
+    {
+      "word": "bag",
+      "translation": "die Tasche",
+      "example": "Her bag was under the seat."
+    },
+    {
+      "word": "ball",
+      "translation": "der Ball",
+      "example": "The ball rolled into the road."
+    },
+    {
+      "word": "banana",
+      "translation": "die Banane",
+      "example": "He eats a banana before running."
+    },
+    {
+      "word": "band",
+      "translation": "die Band",
+      "example": "The band played for two hours."
+    },
+    {
+      "word": "bank",
+      "translation": "die Bank",
+      "example": "The bank closes at three."
+    },
+    {
+      "word": "bath",
+      "translation": "das Bad",
+      "example": "He had a hot bath."
+    },
+    {
+      "word": "bathroom",
+      "translation": "das Badezimmer",
+      "example": "The bathroom is at the end of the hall."
+    },
+    {
+      "word": "beach",
+      "translation": "der Strand",
+      "example": "The beach was empty at dawn."
+    },
+    {
+      "word": "beautiful",
+      "translation": "schön",
+      "example": "It was a beautiful morning."
+    },
+    {
+      "word": "become",
+      "translation": "werden",
+      "example": "She became a teacher in June."
+    },
+    {
+      "word": "bed",
+      "translation": "das Bett",
+      "example": "The bed is next to the window."
+    },
+    {
+      "word": "bedroom",
+      "translation": "das Schlafzimmer",
+      "example": "The bedroom faces the garden."
+    },
+    {
+      "word": "beer",
+      "translation": "das Bier",
+      "example": "He ordered one beer."
+    },
+    {
+      "word": "before",
+      "translation": "bevor",
+      "example": "Call me before you leave."
+    },
+    {
+      "word": "begin",
+      "translation": "beginnen",
+      "example": "The film begins at eight."
+    },
+    {
+      "word": "beginning",
+      "translation": "der Anfang",
+      "example": "The beginning was slow."
+    },
+    {
+      "word": "behind",
+      "translation": "hinter",
+      "example": "The garden is behind the house."
+    },
+    {
+      "word": "believe",
+      "translation": "glauben",
+      "example": "I believe she is right."
+    },
+    {
+      "word": "best",
+      "translation": "das Beste",
+      "example": "This is the best one."
+    },
+    {
+      "word": "better",
+      "translation": "besser",
+      "example": "Her Spanish is better than mine."
+    },
+    {
+      "word": "bicycle",
+      "translation": "das Fahrrad",
+      "example": "She rides her bicycle to class."
+    },
+    {
+      "word": "big",
+      "translation": "groß",
+      "example": "They live in a big house."
+    },
+    {
+      "word": "bike",
+      "translation": "das Rad",
+      "example": "He rode his bike to school."
+    },
+    {
+      "word": "bill",
+      "translation": "die Rechnung",
+      "example": "Could we have the bill, please?"
+    },
+    {
+      "word": "bird",
+      "translation": "der Vogel",
+      "example": "A bird woke me at dawn."
+    },
+    {
+      "word": "birthday",
+      "translation": "der Geburtstag",
+      "example": "His birthday is in August."
+    },
+    {
+      "word": "black",
+      "translation": "schwarz",
+      "example": "He carried a black bag."
+    },
+    {
+      "word": "blog",
+      "translation": "der Blog",
+      "example": "She writes a travel blog."
+    },
+    {
+      "word": "blonde",
+      "translation": "blond",
+      "example": "She has blonde hair."
+    },
+    {
+      "word": "blue",
+      "translation": "blau",
+      "example": "The sky is very blue today."
+    },
+    {
+      "word": "boat",
+      "translation": "das Boot",
+      "example": "The boat leaves at seven."
+    },
+    {
+      "word": "body",
+      "translation": "der Körper",
+      "example": "Cold water shocks the body."
+    },
+    {
+      "word": "book",
+      "translation": "das Buch",
+      "example": "This book has many pictures."
+    },
+    {
+      "word": "boot",
+      "translation": "der Stiefel",
+      "example": "One boot was missing."
+    },
+    {
+      "word": "bored",
+      "translation": "gelangweilt",
+      "example": "The children were bored."
+    },
+    {
+      "word": "boring",
+      "translation": "langweilig",
+      "example": "The lesson was boring."
+    },
+    {
+      "word": "born",
+      "translation": "geboren",
+      "example": "She was born in Chiang Mai."
+    },
+    {
+      "word": "bottle",
+      "translation": "die Flasche",
+      "example": "There is one bottle left."
+    },
+    {
+      "word": "box",
+      "translation": "die Kiste",
+      "example": "The box was heavier than it looked."
+    },
+    {
+      "word": "boy",
+      "translation": "der Junge",
+      "example": "The boy dropped his ball."
+    },
+    {
+      "word": "boyfriend",
+      "translation": "der Freund",
+      "example": "Her boyfriend cooks well."
+    },
+    {
+      "word": "bread",
+      "translation": "das Brot",
+      "example": "He eats bread for breakfast."
+    },
+    {
+      "word": "break",
+      "translation": "die Pause",
+      "example": "Let us take a short break."
+    },
+    {
+      "word": "breakfast",
+      "translation": "das Frühstück",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "bring",
+      "translation": "bringen",
+      "example": "Please bring a coat."
+    },
+    {
+      "word": "brother",
+      "translation": "der Bruder",
+      "example": "My brother is taller than me."
+    },
+    {
+      "word": "brown",
+      "translation": "braun",
+      "example": "She wore a brown jacket."
+    },
+    {
+      "word": "build",
+      "translation": "bauen",
+      "example": "They will build a new school."
+    },
+    {
+      "word": "building",
+      "translation": "das Gebäude",
+      "example": "That building is a hundred years old."
+    },
+    {
+      "word": "bus",
+      "translation": "der Bus",
+      "example": "The bus was late again."
+    },
+    {
+      "word": "business",
+      "translation": "das Geschäft",
+      "example": "His business grew quickly."
+    },
+    {
+      "word": "busy",
+      "translation": "beschäftigt",
+      "example": "The office is busy on Mondays."
+    },
+    {
+      "word": "butter",
+      "translation": "die Butter",
+      "example": "There is no butter left."
+    },
+    {
+      "word": "buy",
+      "translation": "kaufen",
+      "example": "I want to buy a ticket."
+    },
+    {
+      "word": "cafe",
+      "translation": "das Café",
+      "example": "We met at a small cafe."
+    },
+    {
+      "word": "cake",
+      "translation": "der Kuchen",
+      "example": "She made a cake for the party."
+    },
+    {
+      "word": "call",
+      "translation": "anrufen",
+      "example": "Call me after seven."
+    },
+    {
+      "word": "camera",
+      "translation": "die Kamera",
+      "example": "His camera is very old."
+    },
+    {
+      "word": "cannot",
+      "translation": "nicht können",
+      "example": "I cannot open the door."
+    },
+    {
+      "word": "capital",
+      "translation": "die Hauptstadt",
+      "example": "Bangkok is the capital."
+    },
+    {
+      "word": "car",
+      "translation": "das Auto",
+      "example": "Their car is very old."
+    },
+    {
+      "word": "card",
+      "translation": "die Karte",
+      "example": "He sent a card in December."
+    },
+    {
+      "word": "career",
+      "translation": "die Karriere",
+      "example": "Her career started late."
+    },
+    {
+      "word": "carrot",
+      "translation": "die Karotte",
+      "example": "Cut the carrot into small pieces."
+    },
+    {
+      "word": "carry",
+      "translation": "tragen",
+      "example": "Can you carry this bag?"
+    },
+    {
+      "word": "cat",
+      "translation": "die Katze",
+      "example": "My cat hates water."
+    },
+    {
+      "word": "CD",
+      "translation": "die CD",
+      "example": "The CD was scratched."
+    },
+    {
+      "word": "cent",
+      "translation": "der Cent",
+      "example": "It costs fifty cents."
+    },
+    {
+      "word": "centre",
+      "translation": "das Zentrum",
+      "example": "The station is in the centre."
+    },
+    {
+      "word": "century",
+      "translation": "das Jahrhundert",
+      "example": "The church is a century old."
+    },
+    {
+      "word": "chair",
+      "translation": "der Stuhl",
+      "example": "He pulled out a chair for her."
+    },
+    {
+      "word": "change",
+      "translation": "das Wechselgeld",
+      "example": "He kept the change."
+    },
+    {
+      "word": "chart",
+      "translation": "das Diagramm",
+      "example": "The chart shows the change."
+    },
+    {
+      "word": "cheap",
+      "translation": "billig",
+      "example": "The tickets were surprisingly cheap."
+    },
+    {
+      "word": "check",
+      "translation": "prüfen",
+      "example": "Check the time before you go."
+    },
+    {
+      "word": "cheese",
+      "translation": "der Käse",
+      "example": "This cheese is very strong."
+    },
+    {
+      "word": "chicken",
+      "translation": "das Hähnchen",
+      "example": "We had chicken and rice."
+    },
+    {
+      "word": "child",
+      "translation": "das Kind",
+      "example": "Every child gets a free book."
+    },
+    {
+      "word": "chocolate",
+      "translation": "die Schokolade",
+      "example": "She gave me a box of chocolate."
+    },
+    {
+      "word": "choose",
+      "translation": "wählen",
+      "example": "Choose any seat you like."
+    },
+    {
+      "word": "cinema",
+      "translation": "das Kino",
+      "example": "The cinema opens at noon."
+    },
+    {
+      "word": "city",
+      "translation": "die Stadt",
+      "example": "This city has three parks."
+    },
+    {
+      "word": "class",
+      "translation": "die Klasse",
+      "example": "The class starts in ten minutes."
+    },
+    {
+      "word": "classroom",
+      "translation": "das Klassenzimmer",
+      "example": "The classroom was empty."
+    },
+    {
+      "word": "clean",
+      "translation": "sauber",
+      "example": "The room is clean now."
+    },
+    {
+      "word": "climb",
+      "translation": "klettern",
+      "example": "They climbed the hill slowly."
+    },
+    {
+      "word": "clock",
+      "translation": "die Uhr",
+      "example": "The clock on the wall is slow."
+    },
+    {
+      "word": "close",
+      "translation": "nah",
+      "example": "The shop is close to my house."
+    },
+    {
+      "word": "clothes",
+      "translation": "die Kleidung",
+      "example": "Her clothes were still wet."
+    },
+    {
+      "word": "club",
+      "translation": "der Club",
+      "example": "He joined the tennis club."
+    },
+    {
+      "word": "coat",
+      "translation": "der Mantel",
+      "example": "Take a coat, it is cold."
+    },
+    {
+      "word": "coffee",
+      "translation": "der Kaffee",
+      "example": "This coffee is too strong."
+    },
+    {
+      "word": "cold",
+      "translation": "kalt",
+      "example": "My hands are cold."
+    },
+    {
+      "word": "college",
+      "translation": "die Hochschule",
+      "example": "She studies at a college."
+    },
+    {
+      "word": "colour",
+      "translation": "die Farbe",
+      "example": "What colour is the door?"
+    },
+    {
+      "word": "come",
+      "translation": "kommen",
+      "example": "Please come at seven."
+    },
+    {
+      "word": "common",
+      "translation": "üblich",
+      "example": "That name is very common here."
+    },
+    {
+      "word": "company",
+      "translation": "die Firma",
+      "example": "She works for a small company."
+    },
+    {
+      "word": "compare",
+      "translation": "vergleichen",
+      "example": "Compare the two versions carefully."
+    },
+    {
+      "word": "complete",
+      "translation": "vollständig",
+      "example": "The work is not complete."
+    },
+    {
+      "word": "computer",
+      "translation": "der Computer",
+      "example": "The computer is very slow today."
+    },
+    {
+      "word": "concert",
+      "translation": "das Konzert",
+      "example": "The concert starts at nine."
+    },
+    {
+      "word": "conversation",
+      "translation": "das Gespräch",
+      "example": "We had a long conversation."
+    },
+    {
+      "word": "cook",
+      "translation": "kochen",
+      "example": "He cooks for the whole family."
+    },
+    {
+      "word": "cooking",
+      "translation": "das Kochen",
+      "example": "Cooking relaxes him."
+    },
+    {
+      "word": "cool",
+      "translation": "kühl",
+      "example": "The evening air was cool."
+    },
+    {
+      "word": "correct",
+      "translation": "richtig",
+      "example": "That is the correct answer."
+    },
+    {
+      "word": "cost",
+      "translation": "kosten",
+      "example": "The repair will cost a lot."
+    },
+    {
+      "word": "country",
+      "translation": "das Land",
+      "example": "She has visited nine countries."
+    },
+    {
+      "word": "course",
+      "translation": "der Kurs",
+      "example": "He took a course in Spanish."
+    },
+    {
+      "word": "cousin",
+      "translation": "der Cousin",
+      "example": "My cousin studies in Japan."
+    },
+    {
+      "word": "cow",
+      "translation": "die Kuh",
+      "example": "A cow stood in the road."
+    },
+    {
+      "word": "cream",
+      "translation": "die Sahne",
+      "example": "She put cream in her coffee."
+    },
+    {
+      "word": "create",
+      "translation": "schaffen",
+      "example": "They created a new logo."
+    },
+    {
+      "word": "culture",
+      "translation": "die Kultur",
+      "example": "Food is a big part of the culture."
+    },
+    {
+      "word": "cup",
+      "translation": "die Tasse",
+      "example": "He drank two cups of tea."
+    },
+    {
+      "word": "customer",
+      "translation": "der Kunde",
+      "example": "A customer asked for a refund."
+    },
+    {
+      "word": "cut",
+      "translation": "schneiden",
+      "example": "She cut the bread carefully."
+    },
+    {
+      "word": "dad",
+      "translation": "Papa",
+      "example": "My dad drives a lorry."
+    },
+    {
+      "word": "dance",
+      "translation": "tanzen",
+      "example": "They danced until midnight."
+    },
+    {
+      "word": "dancer",
+      "translation": "der Tänzer",
+      "example": "The dancer trained for years."
+    },
+    {
+      "word": "dancing",
+      "translation": "das Tanzen",
+      "example": "Dancing is her favourite hobby."
+    },
+    {
+      "word": "dangerous",
+      "translation": "gefährlich",
+      "example": "That road is dangerous in the rain."
+    },
+    {
+      "word": "dark",
+      "translation": "dunkel",
+      "example": "The room was completely dark."
+    },
+    {
+      "word": "date",
+      "translation": "das Datum",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "daughter",
+      "translation": "die Tochter",
+      "example": "Their daughter is at university."
+    },
+    {
+      "word": "day",
+      "translation": "der Tag",
+      "example": "It was a long day at work."
+    },
+    {
+      "word": "dear",
+      "translation": "lieb",
+      "example": "Dear Anna, thank you for the book."
+    },
+    {
+      "word": "decide",
+      "translation": "entscheiden",
+      "example": "We decided to stay one more night."
+    },
+    {
+      "word": "delicious",
+      "translation": "lecker",
+      "example": "The soup was delicious."
+    },
+    {
+      "word": "describe",
+      "translation": "beschreiben",
+      "example": "Can you describe the man?"
+    },
+    {
+      "word": "description",
+      "translation": "die Beschreibung",
+      "example": "Her description was very clear."
+    },
+    {
+      "word": "design",
+      "translation": "das Design",
+      "example": "The design is very simple."
+    },
+    {
+      "word": "desk",
+      "translation": "der Schreibtisch",
+      "example": "His desk is by the window."
+    },
+    {
+      "word": "detail",
+      "translation": "das Detail",
+      "example": "He explained every detail."
+    },
+    {
+      "word": "dialogue",
+      "translation": "der Dialog",
+      "example": "The dialogue felt natural."
+    },
+    {
+      "word": "dictionary",
+      "translation": "das Wörterbuch",
+      "example": "Look it up in a dictionary."
+    },
+    {
+      "word": "die",
+      "translation": "sterben",
+      "example": "The plant died in winter."
+    },
+    {
+      "word": "diet",
+      "translation": "die Diät",
+      "example": "He is on a strict diet."
+    },
+    {
+      "word": "difference",
+      "translation": "der Unterschied",
+      "example": "The difference is small but real."
+    },
+    {
+      "word": "different",
+      "translation": "anders",
+      "example": "This one is different."
+    },
+    {
+      "word": "difficult",
+      "translation": "schwierig",
+      "example": "The exam was difficult."
+    },
+    {
+      "word": "dinner",
+      "translation": "das Abendessen",
+      "example": "Dinner is at seven."
+    },
+    {
+      "word": "dirty",
+      "translation": "schmutzig",
+      "example": "His shoes were dirty."
+    },
+    {
+      "word": "discuss",
+      "translation": "diskutieren",
+      "example": "We discussed it for an hour."
+    },
+    {
+      "word": "dish",
+      "translation": "das Gericht",
+      "example": "Wash the last dish, please."
+    },
+    {
+      "word": "doctor",
+      "translation": "der Arzt",
+      "example": "The doctor arrives at nine."
+    },
+    {
+      "word": "dog",
+      "translation": "der Hund",
+      "example": "The dog sleeps under the table."
+    },
+    {
+      "word": "dollar",
+      "translation": "der Dollar",
+      "example": "It cost one dollar."
+    },
+    {
+      "word": "door",
+      "translation": "die Tür",
+      "example": "Please close the door."
+    },
+    {
+      "word": "downstairs",
+      "translation": "unten",
+      "example": "The kitchen is downstairs."
+    },
+    {
+      "word": "draw",
+      "translation": "zeichnen",
+      "example": "She draws every evening."
+    },
+    {
+      "word": "dress",
+      "translation": "das Kleid",
+      "example": "That dress suits you."
+    },
+    {
+      "word": "drink",
+      "translation": "trinken",
+      "example": "He does not drink coffee."
+    },
+    {
+      "word": "drive",
+      "translation": "fahren",
+      "example": "He drives to work on Mondays."
+    },
+    {
+      "word": "driver",
+      "translation": "der Fahrer",
+      "example": "The driver waited outside."
+    },
+    {
+      "word": "DVD",
+      "translation": "die DVD",
+      "example": "The DVD would not play."
+    },
+    {
+      "word": "ear",
+      "translation": "das Ohr",
+      "example": "The noise hurt my ear."
+    },
+    {
+      "word": "early",
+      "translation": "früh",
+      "example": "He arrived early as usual."
+    },
+    {
+      "word": "east",
+      "translation": "der Osten",
+      "example": "The wind comes from the east."
+    },
+    {
+      "word": "easy",
+      "translation": "einfach",
+      "example": "The test was easy."
+    },
+    {
+      "word": "eat",
+      "translation": "essen",
+      "example": "We eat dinner at seven."
+    },
+    {
+      "word": "egg",
+      "translation": "das Ei",
+      "example": "She boiled one egg."
+    },
+    {
+      "word": "elephant",
+      "translation": "der Elefant",
+      "example": "The elephant drank from the river."
+    },
+    {
+      "word": "else",
+      "translation": "sonst",
+      "example": "Ask somebody else."
+    },
+    {
+      "word": "email",
+      "translation": "die E-Mail",
+      "example": "Send me an email tonight."
+    },
+    {
+      "word": "end",
+      "translation": "das Ende",
+      "example": "The end of the film surprised me."
+    },
+    {
+      "word": "enjoy",
+      "translation": "genießen",
+      "example": "I enjoy long walks."
+    },
+    {
+      "word": "enough",
+      "translation": "genug",
+      "example": "There is not enough rice."
+    },
+    {
+      "word": "euro",
+      "translation": "der Euro",
+      "example": "It cost three euros."
+    },
+    {
+      "word": "evening",
+      "translation": "der Abend",
+      "example": "We walk in the evening."
+    },
+    {
+      "word": "event",
+      "translation": "das Ereignis",
+      "example": "The event lasted two days."
+    },
+    {
+      "word": "everybody",
+      "translation": "jeder",
+      "example": "Everybody arrived on time."
+    },
+    {
+      "word": "everyone",
+      "translation": "jeder",
+      "example": "Everyone arrived on time."
+    },
+    {
+      "word": "everything",
+      "translation": "alles",
+      "example": "Everything is ready."
+    },
+    {
+      "word": "exam",
+      "translation": "die Prüfung",
+      "example": "The exam lasted three hours."
+    },
+    {
+      "word": "example",
+      "translation": "das Beispiel",
+      "example": "Give me one clear example."
+    },
+    {
+      "word": "excited",
+      "translation": "aufgeregt",
+      "example": "The children were excited."
+    },
+    {
+      "word": "exciting",
+      "translation": "aufregend",
+      "example": "It was an exciting match."
+    },
+    {
+      "word": "exercise",
+      "translation": "die Übung",
+      "example": "She does exercise every morning."
+    },
+    {
+      "word": "expensive",
+      "translation": "teuer",
+      "example": "That restaurant is too expensive."
+    },
+    {
+      "word": "explain",
+      "translation": "erklären",
+      "example": "Please explain the rule again."
+    },
+    {
+      "word": "extra",
+      "translation": "zusätzlich",
+      "example": "We need one extra chair."
+    },
+    {
+      "word": "eye",
+      "translation": "das Auge",
+      "example": "She closed one eye."
+    },
+    {
+      "word": "face",
+      "translation": "das Gesicht",
+      "example": "His face was very red."
+    },
+    {
+      "word": "fact",
+      "translation": "die Tatsache",
+      "example": "That is a simple fact."
+    },
+    {
+      "word": "fall",
+      "translation": "fallen",
+      "example": "Leaves fall in October."
+    },
+    {
+      "word": "false",
+      "translation": "falsch",
+      "example": "That statement is false."
+    },
+    {
+      "word": "family",
+      "translation": "die Familie",
+      "example": "My family lives in a small town."
+    },
+    {
+      "word": "famous",
+      "translation": "berühmt",
+      "example": "The restaurant is famous for its soup."
+    },
+    {
+      "word": "fantastic",
+      "translation": "fantastisch",
+      "example": "The concert was fantastic."
+    },
+    {
+      "word": "far",
+      "translation": "weit",
+      "example": "Their house is far from here."
+    },
+    {
+      "word": "farm",
+      "translation": "der Bauernhof",
+      "example": "They own a small farm."
+    },
+    {
+      "word": "farmer",
+      "translation": "der Bauer",
+      "example": "The farmer sold his cows."
+    },
+    {
+      "word": "fast",
+      "translation": "schnell",
+      "example": "That train is very fast."
+    },
+    {
+      "word": "fat",
+      "translation": "fett",
+      "example": "The soup is too fat."
+    },
+    {
+      "word": "father",
+      "translation": "der Vater",
+      "example": "His father drives a taxi."
+    },
+    {
+      "word": "favourite",
+      "translation": "Lieblings-",
+      "example": "This is my favourite song."
+    },
+    {
+      "word": "feel",
+      "translation": "fühlen",
+      "example": "I feel much better today."
+    },
+    {
+      "word": "feeling",
+      "translation": "das Gefühl",
+      "example": "I had a strange feeling."
+    },
+    {
+      "word": "festival",
+      "translation": "das Festival",
+      "example": "The festival lasts four days."
+    },
+    {
+      "word": "fill",
+      "translation": "füllen",
+      "example": "Fill the glass slowly."
+    },
+    {
+      "word": "film",
+      "translation": "der Film",
+      "example": "The film was three hours long."
+    },
+    {
+      "word": "final",
+      "translation": "endgültig",
+      "example": "This is the final version."
+    },
+    {
+      "word": "find",
+      "translation": "finden",
+      "example": "I cannot find my keys."
+    },
+    {
+      "word": "fine",
+      "translation": "gut",
+      "example": "The weather was fine."
+    },
+    {
+      "word": "finish",
+      "translation": "beenden",
+      "example": "Finish your work first."
+    },
+    {
+      "word": "fire",
+      "translation": "das Feuer",
+      "example": "The fire burned all night."
+    },
+    {
+      "word": "fish",
+      "translation": "der Fisch",
+      "example": "The fish was very fresh."
+    },
+    {
+      "word": "flat",
+      "translation": "die Wohnung",
+      "example": "Their flat is very small."
+    },
+    {
+      "word": "flight",
+      "translation": "der Flug",
+      "example": "The flight was delayed."
+    },
+    {
+      "word": "floor",
+      "translation": "das Stockwerk",
+      "example": "Our office is on the third floor."
+    },
+    {
+      "word": "flower",
+      "translation": "die Blume",
+      "example": "She bought a yellow flower."
+    },
+    {
+      "word": "fly",
+      "translation": "fliegen",
+      "example": "Birds fly south in winter."
+    },
+    {
+      "word": "follow",
+      "translation": "folgen",
+      "example": "Follow me to the office."
+    },
+    {
+      "word": "food",
+      "translation": "das Essen",
+      "example": "The food here is cheap and good."
+    },
+    {
+      "word": "foot",
+      "translation": "der Fuß",
+      "example": "My foot still hurts."
+    },
+    {
+      "word": "football",
+      "translation": "der Fußball",
+      "example": "They play football on Sundays."
+    },
+    {
+      "word": "forget",
+      "translation": "vergessen",
+      "example": "Do not forget your keys."
+    },
+    {
+      "word": "form",
+      "translation": "das Formular",
+      "example": "Fill in the form in ink."
+    },
+    {
+      "word": "free",
+      "translation": "kostenlos",
+      "example": "Entry is free on Mondays."
+    },
+    {
+      "word": "friend",
+      "translation": "der Freund",
+      "example": "My friend lives next door."
+    },
+    {
+      "word": "friendly",
+      "translation": "freundlich",
+      "example": "The staff were very friendly."
+    },
+    {
+      "word": "front",
+      "translation": "vorne",
+      "example": "Wait at the front of the building."
+    },
+    {
+      "word": "fruit",
+      "translation": "das Obst",
+      "example": "Fruit is cheap in summer."
+    },
+    {
+      "word": "full",
+      "translation": "voll",
+      "example": "The bus was completely full."
+    },
+    {
+      "word": "fun",
+      "translation": "der Spaß",
+      "example": "The trip was great fun."
+    },
+    {
+      "word": "funny",
+      "translation": "lustig",
+      "example": "His story was very funny."
+    },
+    {
+      "word": "future",
+      "translation": "die Zukunft",
+      "example": "Nobody knows the future."
+    },
+    {
+      "word": "game",
+      "translation": "das Spiel",
+      "example": "The game ended in a draw."
+    },
+    {
+      "word": "garden",
+      "translation": "der Garten",
+      "example": "Their garden is full of flowers."
+    },
+    {
+      "word": "geography",
+      "translation": "die Geografie",
+      "example": "She teaches geography."
+    },
+    {
+      "word": "girl",
+      "translation": "das Mädchen",
+      "example": "A girl waved from the window."
+    },
+    {
+      "word": "girlfriend",
+      "translation": "die Freundin",
+      "example": "His girlfriend studies law."
+    },
+    {
+      "word": "give",
+      "translation": "geben",
+      "example": "Give me one minute."
+    },
+    {
+      "word": "glass",
+      "translation": "das Glas",
+      "example": "She broke a glass this morning."
+    },
+    {
+      "word": "go",
+      "translation": "gehen",
+      "example": "We go to the market on Friday."
+    },
+    {
+      "word": "good",
+      "translation": "gut",
+      "example": "This is a good idea."
+    },
+    {
+      "word": "grandfather",
+      "translation": "der Großvater",
+      "example": "My grandfather was a fisherman."
+    },
+    {
+      "word": "grandmother",
+      "translation": "die Großmutter",
+      "example": "Her grandmother still cooks daily."
+    },
+    {
+      "word": "grandparent",
+      "translation": "der Großelternteil",
+      "example": "My grandparent still drives."
+    },
+    {
+      "word": "great",
+      "translation": "toll",
+      "example": "That is a great idea."
+    },
+    {
+      "word": "green",
+      "translation": "grün",
+      "example": "The fields turn green in May."
+    },
+    {
+      "word": "grey",
+      "translation": "grau",
+      "example": "The sky turned grey."
+    },
+    {
+      "word": "group",
+      "translation": "die Gruppe",
+      "example": "A group of students waited outside."
+    },
+    {
+      "word": "grow",
+      "translation": "wachsen",
+      "example": "These plants grow very fast."
+    },
+    {
+      "word": "guess",
+      "translation": "raten",
+      "example": "Guess how old he is."
+    },
+    {
+      "word": "guitar",
+      "translation": "die Gitarre",
+      "example": "He plays the guitar badly."
+    },
+    {
+      "word": "gym",
+      "translation": "das Fitnessstudio",
+      "example": "She goes to the gym daily."
+    },
+    {
+      "word": "hair",
+      "translation": "die Haare",
+      "example": "Her hair is very long."
+    },
+    {
+      "word": "half",
+      "translation": "die Hälfte",
+      "example": "Half the class was absent."
+    },
+    {
+      "word": "hand",
+      "translation": "die Hand",
+      "example": "He raised his hand."
+    },
+    {
+      "word": "happen",
+      "translation": "passieren",
+      "example": "What happened last night?"
+    },
+    {
+      "word": "happy",
+      "translation": "glücklich",
+      "example": "She was happy to see him."
+    },
+    {
+      "word": "hard",
+      "translation": "schwer",
+      "example": "This question is hard."
+    },
+    {
+      "word": "hat",
+      "translation": "der Hut",
+      "example": "He lost his hat on the bus."
+    },
+    {
+      "word": "hate",
+      "translation": "hassen",
+      "example": "I hate waiting in queues."
+    },
+    {
+      "word": "have to",
+      "translation": "müssen",
+      "example": "I have to leave now."
+    },
+    {
+      "word": "head",
+      "translation": "der Kopf",
+      "example": "He hit his head on the door."
+    },
+    {
+      "word": "health",
+      "translation": "die Gesundheit",
+      "example": "His health improved slowly."
+    },
+    {
+      "word": "healthy",
+      "translation": "gesund",
+      "example": "She eats very healthy food."
+    },
+    {
+      "word": "hear",
+      "translation": "hören",
+      "example": "I cannot hear you."
+    },
+    {
+      "word": "help",
+      "translation": "helfen",
+      "example": "Can you help me lift this?"
+    },
+    {
+      "word": "high",
+      "translation": "hoch",
+      "example": "The wall is too high."
+    },
+    {
+      "word": "history",
+      "translation": "die Geschichte",
+      "example": "He studies history."
+    },
+    {
+      "word": "hobby",
+      "translation": "das Hobby",
+      "example": "Painting is her hobby."
+    },
+    {
+      "word": "holiday",
+      "translation": "der Urlaub",
+      "example": "We took a short holiday in June."
+    },
+    {
+      "word": "home",
+      "translation": "das Zuhause",
+      "example": "We go home at six."
+    },
+    {
+      "word": "homework",
+      "translation": "die Hausaufgaben",
+      "example": "He finished his homework early."
+    },
+    {
+      "word": "hope",
+      "translation": "hoffen",
+      "example": "I hope she arrives soon."
+    },
+    {
+      "word": "horse",
+      "translation": "das Pferd",
+      "example": "The horse ran across the field."
+    },
+    {
+      "word": "hospital",
+      "translation": "das Krankenhaus",
+      "example": "The hospital is behind the school."
+    },
+    {
+      "word": "hot",
+      "translation": "heiß",
+      "example": "The tea is still hot."
+    },
+    {
+      "word": "hotel",
+      "translation": "das Hotel",
+      "example": "The hotel was near the beach."
+    },
+    {
+      "word": "hour",
+      "translation": "die Stunde",
+      "example": "The trip takes about an hour."
+    },
+    {
+      "word": "house",
+      "translation": "das Haus",
+      "example": "Their house has a red door."
+    },
+    {
+      "word": "however",
+      "translation": "jedoch",
+      "example": "It rained; however, we walked."
+    },
+    {
+      "word": "hungry",
+      "translation": "hungrig",
+      "example": "The children were hungry."
+    },
+    {
+      "word": "husband",
+      "translation": "der Ehemann",
+      "example": "Her husband is a nurse."
+    },
+    {
+      "word": "ice",
+      "translation": "das Eis",
+      "example": "There was ice on the road."
+    },
+    {
+      "word": "ice cream",
+      "translation": "das Eis",
+      "example": "The children wanted ice cream."
+    },
+    {
+      "word": "idea",
+      "translation": "die Idee",
+      "example": "That is a good idea."
+    },
+    {
+      "word": "imagine",
+      "translation": "sich vorstellen",
+      "example": "Imagine living there."
+    },
+    {
+      "word": "important",
+      "translation": "wichtig",
+      "example": "This part is important."
+    },
+    {
+      "word": "improve",
+      "translation": "verbessern",
+      "example": "His writing has improved a lot."
+    },
+    {
+      "word": "include",
+      "translation": "einschließen",
+      "example": "The price includes breakfast."
+    },
+    {
+      "word": "information",
+      "translation": "die Information",
+      "example": "The information was wrong."
+    },
+    {
+      "word": "interest",
+      "translation": "das Interesse",
+      "example": "He has no interest in sport."
+    },
+    {
+      "word": "interested",
+      "translation": "interessiert",
+      "example": "She is interested in art."
+    },
+    {
+      "word": "interesting",
+      "translation": "interessant",
+      "example": "The book is very interesting."
+    },
+    {
+      "word": "internet",
+      "translation": "das Internet",
+      "example": "The internet is slow here."
+    },
+    {
+      "word": "interview",
+      "translation": "das Interview",
+      "example": "The interview lasted an hour."
+    },
+    {
+      "word": "introduce",
+      "translation": "vorstellen",
+      "example": "Let me introduce my sister."
+    },
+    {
+      "word": "island",
+      "translation": "die Insel",
+      "example": "The island has one shop."
+    },
+    {
+      "word": "jacket",
+      "translation": "die Jacke",
+      "example": "He left his jacket behind."
+    },
+    {
+      "word": "jeans",
+      "translation": "die Jeans",
+      "example": "These jeans are too tight."
+    },
+    {
+      "word": "job",
+      "translation": "der Job",
+      "example": "She started a new job."
+    },
+    {
+      "word": "join",
+      "translation": "beitreten",
+      "example": "Join us for dinner."
+    },
+    {
+      "word": "journey",
+      "translation": "die Reise",
+      "example": "The journey home took all day."
+    },
+    {
+      "word": "juice",
+      "translation": "der Saft",
+      "example": "He drank orange juice."
+    },
+    {
+      "word": "keep",
+      "translation": "behalten",
+      "example": "Keep the receipt."
+    },
+    {
+      "word": "key",
+      "translation": "der Schlüssel",
+      "example": "I lost the key again."
+    },
+    {
+      "word": "kilometre",
+      "translation": "der Kilometer",
+      "example": "The village is one kilometre away."
+    },
+    {
+      "word": "kind",
+      "translation": "nett",
+      "example": "She was very kind to us."
+    },
+    {
+      "word": "kitchen",
+      "translation": "die Küche",
+      "example": "She is cooking in the kitchen."
+    },
+    {
+      "word": "know",
+      "translation": "wissen",
+      "example": "I know the answer."
+    },
+    {
+      "word": "land",
+      "translation": "landen",
+      "example": "The plane landed safely."
+    },
+    {
+      "word": "language",
+      "translation": "die Sprache",
+      "example": "Thai is a difficult language to write."
+    },
+    {
+      "word": "large",
+      "translation": "groß",
+      "example": "They bought a large table."
+    },
+    {
+      "word": "last",
+      "translation": "letzte",
+      "example": "The film was three hours long, but the last part was the best."
+    },
+    {
+      "word": "late",
+      "translation": "spät",
+      "example": "The train was late again."
+    },
+    {
+      "word": "later",
+      "translation": "später",
+      "example": "See you later."
+    },
+    {
+      "word": "laugh",
+      "translation": "lachen",
+      "example": "Everybody laughed at once."
+    },
+    {
+      "word": "learn",
+      "translation": "lernen",
+      "example": "She wants to learn Spanish."
+    },
+    {
+      "word": "leave",
+      "translation": "verlassen",
+      "example": "We leave early tomorrow."
+    },
+    {
+      "word": "left",
+      "translation": "links",
+      "example": "Turn left at the bank."
+    },
+    {
+      "word": "leg",
+      "translation": "das Bein",
+      "example": "He hurt his leg playing football."
+    },
+    {
+      "word": "lesson",
+      "translation": "die Lektion",
+      "example": "The lesson lasted an hour."
+    },
+    {
+      "word": "letter",
+      "translation": "der Brief",
+      "example": "He wrote a letter to his brother."
+    },
+    {
+      "word": "library",
+      "translation": "die Bibliothek",
+      "example": "The library closes at six."
+    },
+    {
+      "word": "lie",
+      "translation": "liegen",
+      "example": "I like to lie on the grass and read."
+    },
+    {
+      "word": "life",
+      "translation": "das Leben",
+      "example": "Life here is quiet."
+    },
+    {
+      "word": "light",
+      "translation": "leicht",
+      "example": "The bag is surprisingly light."
+    },
+    {
+      "word": "like",
+      "translation": "mögen",
+      "example": "I like this song."
+    },
+    {
+      "word": "line",
+      "translation": "die Linie",
+      "example": "Draw a straight line."
+    },
+    {
+      "word": "lion",
+      "translation": "der Löwe",
+      "example": "The lion slept all afternoon."
+    },
+    {
+      "word": "list",
+      "translation": "die Liste",
+      "example": "Write a list before shopping."
+    },
+    {
+      "word": "listen",
+      "translation": "zuhören",
+      "example": "Listen to this song."
+    },
+    {
+      "word": "live",
+      "translation": "leben",
+      "example": "My grandparents live near the sea."
+    },
+    {
+      "word": "local",
+      "translation": "örtlich",
+      "example": "The local shop sells bread."
+    },
+    {
+      "word": "long",
+      "translation": "lang",
+      "example": "It was a long walk."
+    },
+    {
+      "word": "look",
+      "translation": "schauen",
+      "example": "Look at that bird."
+    },
+    {
+      "word": "lose",
+      "translation": "verlieren",
+      "example": "Do not lose the ticket."
+    },
+    {
+      "word": "lot",
+      "translation": "viel",
+      "example": "There is a lot of work today."
+    },
+    {
+      "word": "love",
+      "translation": "lieben",
+      "example": "They love the mountains."
+    },
+    {
+      "word": "lunch",
+      "translation": "das Mittagessen",
+      "example": "We had lunch at noon."
+    },
+    {
+      "word": "machine",
+      "translation": "die Maschine",
+      "example": "The machine stopped working."
+    },
+    {
+      "word": "magazine",
+      "translation": "die Zeitschrift",
+      "example": "She reads one magazine a month."
+    },
+    {
+      "word": "main",
+      "translation": "hauptsächlich",
+      "example": "The main road is closed."
+    },
+    {
+      "word": "make",
+      "translation": "machen",
+      "example": "She makes her own clothes."
+    },
+    {
+      "word": "man",
+      "translation": "der Mann",
+      "example": "That man works at the bank."
+    },
+    {
+      "word": "map",
+      "translation": "die Karte",
+      "example": "She drew a map on a napkin."
+    },
+    {
+      "word": "market",
+      "translation": "der Markt",
+      "example": "The market opens at dawn."
+    },
+    {
+      "word": "married",
+      "translation": "verheiratet",
+      "example": "They got married in May."
+    },
+    {
+      "word": "match",
+      "translation": "das Spiel",
+      "example": "The match ended late."
+    },
+    {
+      "word": "maybe",
+      "translation": "vielleicht",
+      "example": "Maybe they forgot."
+    },
+    {
+      "word": "meal",
+      "translation": "die Mahlzeit",
+      "example": "The meal took two hours."
+    },
+    {
+      "word": "mean",
+      "translation": "bedeuten",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "meaning",
+      "translation": "die Bedeutung",
+      "example": "The meaning is not clear."
+    },
+    {
+      "word": "meat",
+      "translation": "das Fleisch",
+      "example": "He does not eat meat."
+    },
+    {
+      "word": "meet",
+      "translation": "treffen",
+      "example": "Let us meet at six."
+    },
+    {
+      "word": "meeting",
+      "translation": "das Treffen",
+      "example": "The meeting lasted two hours."
+    },
+    {
+      "word": "member",
+      "translation": "das Mitglied",
+      "example": "Every member pays a fee."
+    },
+    {
+      "word": "menu",
+      "translation": "die Speisekarte",
+      "example": "The menu is only in Thai."
+    },
+    {
+      "word": "message",
+      "translation": "die Nachricht",
+      "example": "I left a message for you."
+    },
+    {
+      "word": "metre",
+      "translation": "der Meter",
+      "example": "The wall is two metres high."
+    },
+    {
+      "word": "midnight",
+      "translation": "Mitternacht",
+      "example": "They arrived after midnight."
+    },
+    {
+      "word": "mile",
+      "translation": "die Meile",
+      "example": "We walked three miles."
+    },
+    {
+      "word": "milk",
+      "translation": "die Milch",
+      "example": "The milk is in the fridge."
+    },
+    {
+      "word": "miss",
+      "translation": "vermissen",
+      "example": "I miss my old school."
+    },
+    {
+      "word": "mistake",
+      "translation": "der Fehler",
+      "example": "It was an honest mistake."
+    },
+    {
+      "word": "model",
+      "translation": "das Modell",
+      "example": "This model is cheaper."
+    },
+    {
+      "word": "modern",
+      "translation": "modern",
+      "example": "The building is very modern."
+    },
+    {
+      "word": "moment",
+      "translation": "der Moment",
+      "example": "Wait a moment, please."
+    },
+    {
+      "word": "money",
+      "translation": "das Geld",
+      "example": "He saved money all year."
+    },
+    {
+      "word": "month",
+      "translation": "der Monat",
+      "example": "The rent is due every month."
+    },
+    {
+      "word": "morning",
+      "translation": "der Morgen",
+      "example": "I run every morning."
+    },
+    {
+      "word": "mother",
+      "translation": "die Mutter",
+      "example": "My mother cooks on Sundays."
+    },
+    {
+      "word": "mountain",
+      "translation": "der Berg",
+      "example": "The mountain is covered in snow."
+    },
+    {
+      "word": "mouse",
+      "translation": "die Maus",
+      "example": "A mouse ran under the door."
+    },
+    {
+      "word": "mouth",
+      "translation": "der Mund",
+      "example": "She covered her mouth."
+    },
+    {
+      "word": "move",
+      "translation": "umziehen",
+      "example": "They moved to a bigger flat."
+    },
+    {
+      "word": "movie",
+      "translation": "der Film",
+      "example": "The movie starts at nine."
+    },
+    {
+      "word": "mum",
+      "translation": "Mama",
+      "example": "My mum works nights."
+    },
+    {
+      "word": "museum",
+      "translation": "das Museum",
+      "example": "The museum is free on Mondays."
+    },
+    {
+      "word": "music",
+      "translation": "die Musik",
+      "example": "She listens to music while working."
+    },
+    {
+      "word": "name",
+      "translation": "der Name",
+      "example": "Please write your name at the top."
+    },
+    {
+      "word": "natural",
+      "translation": "natürlich",
+      "example": "It is a natural reaction."
+    },
+    {
+      "word": "near",
+      "translation": "nah",
+      "example": "The station is quite near."
+    },
+    {
+      "word": "negative",
+      "translation": "negativ",
+      "example": "His answer was negative."
+    },
+    {
+      "word": "neighbour",
+      "translation": "der Nachbar",
+      "example": "Our neighbour has three cats."
+    },
+    {
+      "word": "never",
+      "translation": "nie",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "new",
+      "translation": "neu",
+      "example": "They bought a new table."
+    },
+    {
+      "word": "news",
+      "translation": "die Nachrichten",
+      "example": "The news came late that evening."
+    },
+    {
+      "word": "newspaper",
+      "translation": "die Zeitung",
+      "example": "He reads a newspaper daily."
+    },
+    {
+      "word": "next to",
+      "translation": "neben",
+      "example": "The bank is next to the market."
+    },
+    {
+      "word": "nice",
+      "translation": "nett",
+      "example": "That was a nice thing to say."
+    },
+    {
+      "word": "night",
+      "translation": "die Nacht",
+      "example": "The street is dark at night."
+    },
+    {
+      "word": "noon",
+      "translation": "Mittag",
+      "example": "We stopped for lunch at noon."
+    },
+    {
+      "word": "no one",
+      "translation": "niemand",
+      "example": "No one answered the door."
+    },
+    {
+      "word": "north",
+      "translation": "der Norden",
+      "example": "The wind came from the north."
+    },
+    {
+      "word": "nose",
+      "translation": "die Nase",
+      "example": "His nose was red from the cold."
+    },
+    {
+      "word": "note",
+      "translation": "die Notiz",
+      "example": "She left a note on the table."
+    },
+    {
+      "word": "now",
+      "translation": "jetzt",
+      "example": "We should go now."
+    },
+    {
+      "word": "number",
+      "translation": "die Nummer",
+      "example": "What is your room number?"
+    },
+    {
+      "word": "nurse",
+      "translation": "der Krankenpfleger",
+      "example": "A nurse checked his arm."
+    },
+    {
+      "word": "object",
+      "translation": "das Objekt",
+      "example": "A small object fell out."
+    },
+    {
+      "word": "o’clock",
+      "translation": "Uhr",
+      "example": "The train leaves at six o’clock."
+    },
+    {
+      "word": "office",
+      "translation": "das Büro",
+      "example": "The office is empty on Fridays."
+    },
+    {
+      "word": "often",
+      "translation": "oft",
+      "example": "We often eat outside."
+    },
+    {
+      "word": "old",
+      "translation": "alt",
+      "example": "This building is very old."
+    },
+    {
+      "word": "onion",
+      "translation": "die Zwiebel",
+      "example": "Chop one onion finely."
+    },
+    {
+      "word": "online",
+      "translation": "online",
+      "example": "I bought it online."
+    },
+    {
+      "word": "open",
+      "translation": "öffnen",
+      "example": "The shop opens at eight."
+    },
+    {
+      "word": "opinion",
+      "translation": "die Meinung",
+      "example": "Everyone had a different opinion."
+    },
+    {
+      "word": "opposite",
+      "translation": "gegenüber",
+      "example": "The bank is opposite the park."
+    },
+    {
+      "word": "orange",
+      "translation": "die Orange",
+      "example": "She ate an orange."
+    },
+    {
+      "word": "order",
+      "translation": "bestellen",
+      "example": "He ordered soup and bread."
+    },
+    {
+      "word": "outside",
+      "translation": "draußen",
+      "example": "Wait outside, please."
+    },
+    {
+      "word": "page",
+      "translation": "die Seite",
+      "example": "The answer is on page ten."
+    },
+    {
+      "word": "paint",
+      "translation": "malen",
+      "example": "They painted the door blue."
+    },
+    {
+      "word": "painting",
+      "translation": "das Gemälde",
+      "example": "The painting hangs by the stairs."
+    },
+    {
+      "word": "pair",
+      "translation": "das Paar",
+      "example": "He bought a pair of shoes."
+    },
+    {
+      "word": "paper",
+      "translation": "das Papier",
+      "example": "Write it on paper first."
+    },
+    {
+      "word": "paragraph",
+      "translation": "der Absatz",
+      "example": "The last paragraph is unclear."
+    },
+    {
+      "word": "parent",
+      "translation": "das Elternteil",
+      "example": "Every parent was invited."
+    },
+    {
+      "word": "park",
+      "translation": "der Park",
+      "example": "We walk in the park on Sundays."
+    },
+    {
+      "word": "part",
+      "translation": "der Teil",
+      "example": "This part is difficult."
+    },
+    {
+      "word": "partner",
+      "translation": "der Partner",
+      "example": "Her partner runs the shop."
+    },
+    {
+      "word": "party",
+      "translation": "die Party",
+      "example": "The party ended after midnight."
+    },
+    {
+      "word": "passport",
+      "translation": "der Reisepass",
+      "example": "Keep your passport in your bag."
+    },
+    {
+      "word": "pasta",
+      "translation": "die Pasta",
+      "example": "She cooked pasta with tomatoes."
+    },
+    {
+      "word": "pay",
+      "translation": "bezahlen",
+      "example": "I will pay tomorrow."
+    },
+    {
+      "word": "pen",
+      "translation": "der Stift",
+      "example": "The pen has run out."
+    },
+    {
+      "word": "pencil",
+      "translation": "der Bleistift",
+      "example": "Use a pencil for the draft."
+    },
+    {
+      "word": "people",
+      "translation": "die Leute",
+      "example": "Many people waited outside."
+    },
+    {
+      "word": "pepper",
+      "translation": "der Pfeffer",
+      "example": "Add salt and pepper."
+    },
+    {
+      "word": "perfect",
+      "translation": "perfekt",
+      "example": "The weather was perfect."
+    },
+    {
+      "word": "period",
+      "translation": "die Periode",
+      "example": "It was a difficult period."
+    },
+    {
+      "word": "person",
+      "translation": "die Person",
+      "example": "Only one person answered."
+    },
+    {
+      "word": "personal",
+      "translation": "persönlich",
+      "example": "That is a personal question."
+    },
+    {
+      "word": "phone",
+      "translation": "das Telefon",
+      "example": "My phone is nearly dead."
+    },
+    {
+      "word": "photo",
+      "translation": "das Foto",
+      "example": "He showed me a photo of his dog."
+    },
+    {
+      "word": "photograph",
+      "translation": "die Fotografie",
+      "example": "He took a photograph of the bridge."
+    },
+    {
+      "word": "phrase",
+      "translation": "die Redewendung",
+      "example": "That phrase is hard to translate."
+    },
+    {
+      "word": "piano",
+      "translation": "das Klavier",
+      "example": "She plays the piano well."
+    },
+    {
+      "word": "picture",
+      "translation": "das Bild",
+      "example": "The picture is crooked."
+    },
+    {
+      "word": "piece",
+      "translation": "das Stück",
+      "example": "Take one piece each."
+    },
+    {
+      "word": "pig",
+      "translation": "das Schwein",
+      "example": "The pig slept in the shade."
+    },
+    {
+      "word": "pink",
+      "translation": "rosa",
+      "example": "She wore a pink scarf."
+    },
+    {
+      "word": "pizza",
+      "translation": "die Pizza",
+      "example": "We shared a large pizza."
+    },
+    {
+      "word": "place",
+      "translation": "der Ort",
+      "example": "This is a good place to stop."
+    },
+    {
+      "word": "plan",
+      "translation": "der Plan",
+      "example": "Our plan changed at the last minute."
+    },
+    {
+      "word": "plane",
+      "translation": "das Flugzeug",
+      "example": "The plane was two hours late."
+    },
+    {
+      "word": "plant",
+      "translation": "die Pflanze",
+      "example": "Water the plant twice a week."
+    },
+    {
+      "word": "play",
+      "translation": "spielen",
+      "example": "The children play outside."
+    },
+    {
+      "word": "player",
+      "translation": "der Spieler",
+      "example": "One player was injured."
+    },
+    {
+      "word": "point",
+      "translation": "der Punkt",
+      "example": "He made a good point."
+    },
+    {
+      "word": "police",
+      "translation": "die Polizei",
+      "example": "The police arrived quickly."
+    },
+    {
+      "word": "policeman",
+      "translation": "der Polizist",
+      "example": "A policeman stopped the car."
+    },
+    {
+      "word": "pool",
+      "translation": "das Schwimmbad",
+      "example": "The pool closes at eight."
+    },
+    {
+      "word": "poor",
+      "translation": "arm",
+      "example": "The village was very poor."
+    },
+    {
+      "word": "popular",
+      "translation": "beliebt",
+      "example": "That song is very popular."
+    },
+    {
+      "word": "positive",
+      "translation": "positiv",
+      "example": "The result was positive."
+    },
+    {
+      "word": "possible",
+      "translation": "möglich",
+      "example": "It is possible but unlikely."
+    },
+    {
+      "word": "post",
+      "translation": "verschicken",
+      "example": "I will post the letter today."
+    },
+    {
+      "word": "potato",
+      "translation": "die Kartoffel",
+      "example": "Peel two potatoes."
+    },
+    {
+      "word": "pound",
+      "translation": "das Pfund",
+      "example": "The bag weighs one pound."
+    },
+    {
+      "word": "practice",
+      "translation": "die Übung",
+      "example": "Practice makes it easier."
+    },
+    {
+      "word": "practise",
+      "translation": "üben",
+      "example": "She practises the piano every evening."
+    },
+    {
+      "word": "prefer",
+      "translation": "bevorzugen",
+      "example": "I prefer tea to coffee."
+    },
+    {
+      "word": "prepare",
+      "translation": "vorbereiten",
+      "example": "Prepare the room before noon."
+    },
+    {
+      "word": "present",
+      "translation": "das Geschenk",
+      "example": "She gave him a present."
+    },
+    {
+      "word": "pretty",
+      "translation": "hübsch",
+      "example": "The garden is very pretty."
+    },
+    {
+      "word": "price",
+      "translation": "der Preis",
+      "example": "The price went up again."
+    },
+    {
+      "word": "probably",
+      "translation": "wahrscheinlich",
+      "example": "He will probably arrive late."
+    },
+    {
+      "word": "problem",
+      "translation": "das Problem",
+      "example": "We solved the problem together."
+    },
+    {
+      "word": "product",
+      "translation": "das Produkt",
+      "example": "The product sells well."
+    },
+    {
+      "word": "programme",
+      "translation": "das Programm",
+      "example": "The programme lasts an hour."
+    },
+    {
+      "word": "project",
+      "translation": "das Projekt",
+      "example": "The project runs until March."
+    },
+    {
+      "word": "purple",
+      "translation": "lila",
+      "example": "She painted the door purple."
+    },
+    {
+      "word": "put",
+      "translation": "legen",
+      "example": "Put the box on the shelf."
+    },
+    {
+      "word": "quarter",
+      "translation": "das Viertel",
+      "example": "A quarter of the class was absent."
+    },
+    {
+      "word": "question",
+      "translation": "die Frage",
+      "example": "Her question surprised everyone."
+    },
+    {
+      "word": "quick",
+      "translation": "schnell",
+      "example": "That was a quick answer."
+    },
+    {
+      "word": "quickly",
+      "translation": "schnell",
+      "example": "She answered quickly."
+    },
+    {
+      "word": "quiet",
+      "translation": "ruhig",
+      "example": "The library is very quiet."
+    },
+    {
+      "word": "quite",
+      "translation": "ziemlich",
+      "example": "The room is quite small."
+    },
+    {
+      "word": "rabbit",
+      "translation": "das Kaninchen",
+      "example": "A small rabbit ran across the field."
+    },
+    {
+      "word": "radio",
+      "translation": "das Radio",
+      "example": "The radio was on all night."
+    },
+    {
+      "word": "rain",
+      "translation": "der Regen",
+      "example": "The rain started at noon."
+    },
+    {
+      "word": "read",
+      "translation": "lesen",
+      "example": "I read before bed."
+    },
+    {
+      "word": "reader",
+      "translation": "der Leser",
+      "example": "A reader wrote to complain."
+    },
+    {
+      "word": "reading",
+      "translation": "das Lesen",
+      "example": "Reading helps him sleep."
+    },
+    {
+      "word": "ready",
+      "translation": "bereit",
+      "example": "Dinner is ready."
+    },
+    {
+      "word": "real",
+      "translation": "echt",
+      "example": "Is that a real diamond?"
+    },
+    {
+      "word": "really",
+      "translation": "wirklich",
+      "example": "It was really cold outside."
+    },
+    {
+      "word": "reason",
+      "translation": "der Grund",
+      "example": "There is no reason to worry."
+    },
+    {
+      "word": "red",
+      "translation": "rot",
+      "example": "She wore a red dress."
+    },
+    {
+      "word": "relax",
+      "translation": "entspannen",
+      "example": "Sit down and relax."
+    },
+    {
+      "word": "remember",
+      "translation": "sich erinnern",
+      "example": "I remember his face."
+    },
+    {
+      "word": "repeat",
+      "translation": "wiederholen",
+      "example": "Could you repeat the question?"
+    },
+    {
+      "word": "report",
+      "translation": "der Bericht",
+      "example": "She wrote the report alone."
+    },
+    {
+      "word": "restaurant",
+      "translation": "das Restaurant",
+      "example": "The restaurant closes on Mondays."
+    },
+    {
+      "word": "result",
+      "translation": "das Ergebnis",
+      "example": "The result surprised everyone."
+    },
+    {
+      "word": "return",
+      "translation": "zurückkehren",
+      "example": "They return on Sunday."
+    },
+    {
+      "word": "rice",
+      "translation": "der Reis",
+      "example": "We cook rice every day."
+    },
+    {
+      "word": "rich",
+      "translation": "reich",
+      "example": "Her family is not rich."
+    },
+    {
+      "word": "ride",
+      "translation": "fahren",
+      "example": "He rides to school daily."
+    },
+    {
+      "word": "right",
+      "translation": "das Recht",
+      "example": "Every worker has that right."
+    },
+    {
+      "word": "river",
+      "translation": "der Fluss",
+      "example": "They swam in the river."
+    },
+    {
+      "word": "road",
+      "translation": "die Straße",
+      "example": "The road was closed for repairs."
+    },
+    {
+      "word": "room",
+      "translation": "das Zimmer",
+      "example": "This room is very bright."
+    },
+    {
+      "word": "routine",
+      "translation": "die Routine",
+      "example": "Her morning routine is fixed."
+    },
+    {
+      "word": "rule",
+      "translation": "die Regel",
+      "example": "Everyone must follow the same rule."
+    },
+    {
+      "word": "run",
+      "translation": "laufen",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "sad",
+      "translation": "traurig",
+      "example": "The ending was sad."
+    },
+    {
+      "word": "salad",
+      "translation": "der Salat",
+      "example": "He ordered a green salad."
+    },
+    {
+      "word": "salt",
+      "translation": "das Salz",
+      "example": "There is too much salt."
+    },
+    {
+      "word": "sandwich",
+      "translation": "das Sandwich",
+      "example": "She made a cheese sandwich."
+    },
+    {
+      "word": "say",
+      "translation": "sagen",
+      "example": "He did not say anything."
+    },
+    {
+      "word": "school",
+      "translation": "die Schule",
+      "example": "The school opens at eight."
+    },
+    {
+      "word": "science",
+      "translation": "die Wissenschaft",
+      "example": "Science was her best subject."
+    },
+    {
+      "word": "scientist",
+      "translation": "der Wissenschaftler",
+      "example": "A scientist explained the result."
+    },
+    {
+      "word": "sea",
+      "translation": "das Meer",
+      "example": "The sea is calm this morning."
+    },
+    {
+      "word": "section",
+      "translation": "der Abschnitt",
+      "example": "The last section is missing."
+    },
+    {
+      "word": "see",
+      "translation": "sehen",
+      "example": "I can see the sea from here."
+    },
+    {
+      "word": "sell",
+      "translation": "verkaufen",
+      "example": "They sell bread and milk."
+    },
+    {
+      "word": "send",
+      "translation": "senden",
+      "example": "Please send the file today."
+    },
+    {
+      "word": "sentence",
+      "translation": "der Satz",
+      "example": "Write one sentence only."
+    },
+    {
+      "word": "share",
+      "translation": "teilen",
+      "example": "They shared the last apple."
+    },
+    {
+      "word": "sheep",
+      "translation": "das Schaf",
+      "example": "The sheep stayed near the wall."
+    },
+    {
+      "word": "shirt",
+      "translation": "das Hemd",
+      "example": "His shirt was torn."
+    },
+    {
+      "word": "shoe",
+      "translation": "der Schuh",
+      "example": "One shoe was under the bed."
+    },
+    {
+      "word": "shop",
+      "translation": "der Laden",
+      "example": "The shop closes at nine."
+    },
+    {
+      "word": "shopping",
+      "translation": "das Einkaufen",
+      "example": "We do the shopping on Saturdays."
+    },
+    {
+      "word": "short",
+      "translation": "kurz",
+      "example": "He gave a short answer."
+    },
+    {
+      "word": "show",
+      "translation": "zeigen",
+      "example": "Show me the photograph."
+    },
+    {
+      "word": "shower",
+      "translation": "die Dusche",
+      "example": "He had a cold shower."
+    },
+    {
+      "word": "sick",
+      "translation": "krank",
+      "example": "She felt sick on the boat."
+    },
+    {
+      "word": "similar",
+      "translation": "ähnlich",
+      "example": "Our jobs are quite similar."
+    },
+    {
+      "word": "sing",
+      "translation": "singen",
+      "example": "They sang all the way home."
+    },
+    {
+      "word": "singer",
+      "translation": "der Sänger",
+      "example": "The singer forgot the words."
+    },
+    {
+      "word": "sister",
+      "translation": "die Schwester",
+      "example": "Her sister lives abroad."
+    },
+    {
+      "word": "sit",
+      "translation": "sitzen",
+      "example": "Please sit here."
+    },
+    {
+      "word": "situation",
+      "translation": "die Situation",
+      "example": "The situation is improving."
+    },
+    {
+      "word": "skill",
+      "translation": "die Fähigkeit",
+      "example": "Listening is an underrated skill."
+    },
+    {
+      "word": "skirt",
+      "translation": "der Rock",
+      "example": "Her skirt was too long."
+    },
+    {
+      "word": "sleep",
+      "translation": "schlafen",
+      "example": "The baby sleeps all afternoon."
+    },
+    {
+      "word": "slow",
+      "translation": "langsam",
+      "example": "The traffic was slow this morning."
+    },
+    {
+      "word": "small",
+      "translation": "klein",
+      "example": "She has a small bag."
+    },
+    {
+      "word": "snake",
+      "translation": "die Schlange",
+      "example": "A snake crossed the path."
+    },
+    {
+      "word": "snow",
+      "translation": "der Schnee",
+      "example": "The snow lasted three days."
+    },
+    {
+      "word": "sofa",
+      "translation": "das Sofa",
+      "example": "The cat sleeps on the sofa."
+    },
+    {
+      "word": "somebody",
+      "translation": "jemand",
+      "example": "Somebody left the light on."
+    },
+    {
+      "word": "someone",
+      "translation": "jemand",
+      "example": "Someone left a note."
+    },
+    {
+      "word": "something",
+      "translation": "etwas",
+      "example": "Something smells burnt."
+    },
+    {
+      "word": "sometimes",
+      "translation": "manchmal",
+      "example": "Sometimes she walks to work."
+    },
+    {
+      "word": "son",
+      "translation": "der Sohn",
+      "example": "Their son studies abroad."
+    },
+    {
+      "word": "song",
+      "translation": "das Lied",
+      "example": "That song is very old."
+    },
+    {
+      "word": "soon",
+      "translation": "bald",
+      "example": "She will arrive soon."
+    },
+    {
+      "word": "sound",
+      "translation": "der Klang",
+      "example": "The sound came from upstairs."
+    },
+    {
+      "word": "soup",
+      "translation": "die Suppe",
+      "example": "The soup was too salty."
+    },
+    {
+      "word": "south",
+      "translation": "der Süden",
+      "example": "They drove south for hours."
+    },
+    {
+      "word": "space",
+      "translation": "der Platz",
+      "example": "There is space for one more."
+    },
+    {
+      "word": "speak",
+      "translation": "sprechen",
+      "example": "She speaks three languages."
+    },
+    {
+      "word": "special",
+      "translation": "besonders",
+      "example": "Today is a special day."
+    },
+    {
+      "word": "spell",
+      "translation": "buchstabieren",
+      "example": "How do you spell your name?"
+    },
+    {
+      "word": "spelling",
+      "translation": "die Rechtschreibung",
+      "example": "His spelling is very poor."
+    },
+    {
+      "word": "spend",
+      "translation": "ausgeben",
+      "example": "They spend little on food."
+    },
+    {
+      "word": "sport",
+      "translation": "der Sport",
+      "example": "Football is his favourite sport."
+    },
+    {
+      "word": "spring",
+      "translation": "der Frühling",
+      "example": "The garden is best in spring."
+    },
+    {
+      "word": "stand",
+      "translation": "stehen",
+      "example": "Please stand near the door."
+    },
+    {
+      "word": "star",
+      "translation": "der Stern",
+      "example": "One star appeared above the hill."
+    },
+    {
+      "word": "start",
+      "translation": "anfangen",
+      "example": "The class starts at ten."
+    },
+    {
+      "word": "statement",
+      "translation": "die Aussage",
+      "example": "His statement was short."
+    },
+    {
+      "word": "station",
+      "translation": "der Bahnhof",
+      "example": "The station is behind the market."
+    },
+    {
+      "word": "stay",
+      "translation": "bleiben",
+      "example": "We stayed two nights."
+    },
+    {
+      "word": "stop",
+      "translation": "anhalten",
+      "example": "The bus stops here."
+    },
+    {
+      "word": "story",
+      "translation": "die Geschichte",
+      "example": "He told us a funny story."
+    },
+    {
+      "word": "street",
+      "translation": "die Straße",
+      "example": "Their street is very narrow."
+    },
+    {
+      "word": "strong",
+      "translation": "stark",
+      "example": "The coffee here is very strong."
+    },
+    {
+      "word": "student",
+      "translation": "der Student",
+      "example": "Every student needs a pen."
+    },
+    {
+      "word": "study",
+      "translation": "studieren",
+      "example": "She studies at night."
+    },
+    {
+      "word": "style",
+      "translation": "der Stil",
+      "example": "I like her writing style."
+    },
+    {
+      "word": "subject",
+      "translation": "das Fach",
+      "example": "History is my best subject."
+    },
+    {
+      "word": "success",
+      "translation": "der Erfolg",
+      "example": "The evening was a success."
+    },
+    {
+      "word": "sugar",
+      "translation": "der Zucker",
+      "example": "He takes no sugar."
+    },
+    {
+      "word": "summer",
+      "translation": "der Sommer",
+      "example": "The summer was very dry."
+    },
+    {
+      "word": "sun",
+      "translation": "die Sonne",
+      "example": "The sun is very strong today."
+    },
+    {
+      "word": "supermarket",
+      "translation": "der Supermarkt",
+      "example": "The supermarket opens early."
+    },
+    {
+      "word": "sure",
+      "translation": "sicher",
+      "example": "I am not sure about the time."
+    },
+    {
+      "word": "sweater",
+      "translation": "der Pullover",
+      "example": "He wore a thick sweater."
+    },
+    {
+      "word": "swim",
+      "translation": "schwimmen",
+      "example": "They swim before breakfast."
+    },
+    {
+      "word": "swimming",
+      "translation": "das Schwimmen",
+      "example": "Swimming keeps her fit."
+    },
+    {
+      "word": "table",
+      "translation": "der Tisch",
+      "example": "The keys are on the table."
+    },
+    {
+      "word": "take",
+      "translation": "nehmen",
+      "example": "Take an umbrella with you."
+    },
+    {
+      "word": "talk",
+      "translation": "reden",
+      "example": "We talked for an hour."
+    },
+    {
+      "word": "tall",
+      "translation": "groß",
+      "example": "He is taller than his father."
+    },
+    {
+      "word": "taxi",
+      "translation": "das Taxi",
+      "example": "We took a taxi home."
+    },
+    {
+      "word": "tea",
+      "translation": "der Tee",
+      "example": "She drinks tea in the evening."
+    },
+    {
+      "word": "teach",
+      "translation": "unterrichten",
+      "example": "He teaches history at a school."
+    },
+    {
+      "word": "teacher",
+      "translation": "der Lehrer",
+      "example": "The teacher asked a question."
+    },
+    {
+      "word": "team",
+      "translation": "das Team",
+      "example": "Our team won on Sunday."
+    },
+    {
+      "word": "teenager",
+      "translation": "der Teenager",
+      "example": "The teenager missed the bus."
+    },
+    {
+      "word": "telephone",
+      "translation": "das Festnetztelefon",
+      "example": "The telephone rang twice."
+    },
+    {
+      "word": "television",
+      "translation": "der Fernseher",
+      "example": "The television is too loud."
+    },
+    {
+      "word": "tell",
+      "translation": "erzählen",
+      "example": "Tell me what happened."
+    },
+    {
+      "word": "tennis",
+      "translation": "das Tennis",
+      "example": "They play tennis on Fridays."
+    },
+    {
+      "word": "terrible",
+      "translation": "schrecklich",
+      "example": "The weather was terrible."
+    },
+    {
+      "word": "test",
+      "translation": "der Test",
+      "example": "The test was easier than expected."
+    },
+    {
+      "word": "text",
+      "translation": "die SMS",
+      "example": "Send me a text when you arrive."
+    },
+    {
+      "word": "theatre",
+      "translation": "das Theater",
+      "example": "The theatre is closed in August."
+    },
+    {
+      "word": "thing",
+      "translation": "das Ding",
+      "example": "One thing still worries me."
+    },
+    {
+      "word": "think",
+      "translation": "denken",
+      "example": "I think she is right."
+    },
+    {
+      "word": "thirsty",
+      "translation": "durstig",
+      "example": "The children were thirsty."
+    },
+    {
+      "word": "ticket",
+      "translation": "das Ticket",
+      "example": "I bought a ticket for the early train."
+    },
+    {
+      "word": "time",
+      "translation": "die Zeit",
+      "example": "We had a good time."
+    },
+    {
+      "word": "tired",
+      "translation": "müde",
+      "example": "I felt tired after the meeting."
+    },
+    {
+      "word": "title",
+      "translation": "der Titel",
+      "example": "The title is misleading."
+    },
+    {
+      "word": "today",
+      "translation": "heute",
+      "example": "Today is my last day."
+    },
+    {
+      "word": "together",
+      "translation": "zusammen",
+      "example": "They finished the work together."
+    },
+    {
+      "word": "toilet",
+      "translation": "die Toilette",
+      "example": "The toilet is at the back."
+    },
+    {
+      "word": "tomato",
+      "translation": "die Tomate",
+      "example": "Slice one tomato thinly."
+    },
+    {
+      "word": "tomorrow",
+      "translation": "morgen",
+      "example": "We leave tomorrow morning."
+    },
+    {
+      "word": "tonight",
+      "translation": "heute Abend",
+      "example": "There is a concert tonight."
+    },
+    {
+      "word": "tooth",
+      "translation": "der Zahn",
+      "example": "He lost a tooth playing rugby."
+    },
+    {
+      "word": "topic",
+      "translation": "das Thema",
+      "example": "The topic changed quickly."
+    },
+    {
+      "word": "tourist",
+      "translation": "der Tourist",
+      "example": "A tourist asked for directions."
+    },
+    {
+      "word": "town",
+      "translation": "die Stadt",
+      "example": "The town has one bank."
+    },
+    {
+      "word": "traffic",
+      "translation": "der Verkehr",
+      "example": "The traffic was terrible."
+    },
+    {
+      "word": "train",
+      "translation": "der Zug",
+      "example": "The train leaves at six."
+    },
+    {
+      "word": "travel",
+      "translation": "reisen",
+      "example": "They travel every summer."
+    },
+    {
+      "word": "tree",
+      "translation": "der Baum",
+      "example": "A big tree stands by the gate."
+    },
+    {
+      "word": "trip",
+      "translation": "die Reise",
+      "example": "The trip took two days."
+    },
+    {
+      "word": "trousers",
+      "translation": "die Hose",
+      "example": "His trousers were too long."
+    },
+    {
+      "word": "true",
+      "translation": "wahr",
+      "example": "That story is true."
+    },
+    {
+      "word": "try",
+      "translation": "versuchen",
+      "example": "Try the other door."
+    },
+    {
+      "word": "T-shirt",
+      "translation": "das T-Shirt",
+      "example": "He wore a plain T-shirt."
+    },
+    {
+      "word": "turn",
+      "translation": "abbiegen",
+      "example": "Turn left at the church."
+    },
+    {
+      "word": "TV",
+      "translation": "der Fernseher",
+      "example": "The TV was on all evening."
+    },
+    {
+      "word": "type",
+      "translation": "die Art",
+      "example": "What type of bread is it?"
+    },
+    {
+      "word": "umbrella",
+      "translation": "der Regenschirm",
+      "example": "Take an umbrella, it may rain."
+    },
+    {
+      "word": "uncle",
+      "translation": "der Onkel",
+      "example": "My uncle lives in Spain."
+    },
+    {
+      "word": "understand",
+      "translation": "verstehen",
+      "example": "I do not understand this word."
+    },
+    {
+      "word": "university",
+      "translation": "die Universität",
+      "example": "She starts university in October."
+    },
+    {
+      "word": "upstairs",
+      "translation": "oben",
+      "example": "The bathroom is upstairs."
+    },
+    {
+      "word": "use",
+      "translation": "benutzen",
+      "example": "Use a sharp knife."
+    },
+    {
+      "word": "useful",
+      "translation": "nützlich",
+      "example": "That was a useful suggestion."
+    },
+    {
+      "word": "vacation",
+      "translation": "der Urlaub",
+      "example": "They took a long vacation."
+    },
+    {
+      "word": "vegetable",
+      "translation": "das Gemüse",
+      "example": "Eat one green vegetable daily."
+    },
+    {
+      "word": "video",
+      "translation": "das Video",
+      "example": "The video would not load."
+    },
+    {
+      "word": "village",
+      "translation": "das Dorf",
+      "example": "She grew up in a small village."
+    },
+    {
+      "word": "visit",
+      "translation": "besuchen",
+      "example": "They visit every August."
+    },
+    {
+      "word": "visitor",
+      "translation": "der Besucher",
+      "example": "One visitor stayed behind."
+    },
+    {
+      "word": "wait",
+      "translation": "warten",
+      "example": "We waited for an hour."
+    },
+    {
+      "word": "waiter",
+      "translation": "der Kellner",
+      "example": "The waiter forgot the drinks."
+    },
+    {
+      "word": "wake",
+      "translation": "aufwecken",
+      "example": "Wake me at seven."
+    },
+    {
+      "word": "walk",
+      "translation": "gehen",
+      "example": "They walk to work every day."
+    },
+    {
+      "word": "wall",
+      "translation": "die Wand",
+      "example": "The wall needs painting."
+    },
+    {
+      "word": "want",
+      "translation": "wollen",
+      "example": "I want a quiet evening."
+    },
+    {
+      "word": "warm",
+      "translation": "warm",
+      "example": "The room is warm enough."
+    },
+    {
+      "word": "wash",
+      "translation": "waschen",
+      "example": "Wash your hands first."
+    },
+    {
+      "word": "watch",
+      "translation": "ansehen",
+      "example": "We watched the sun set."
+    },
+    {
+      "word": "water",
+      "translation": "das Wasser",
+      "example": "I drink water after running."
+    },
+    {
+      "word": "way",
+      "translation": "der Weg",
+      "example": "This is the quickest way."
+    },
+    {
+      "word": "wear",
+      "translation": "tragen",
+      "example": "She wears glasses to read."
+    },
+    {
+      "word": "weather",
+      "translation": "das Wetter",
+      "example": "The weather changed suddenly."
+    },
+    {
+      "word": "website",
+      "translation": "die Website",
+      "example": "The website is very slow."
+    },
+    {
+      "word": "week",
+      "translation": "die Woche",
+      "example": "She will be away next week."
+    },
+    {
+      "word": "weekend",
+      "translation": "das Wochenende",
+      "example": "We stayed home all weekend."
+    },
+    {
+      "word": "welcome",
+      "translation": "willkommen heißen",
+      "example": "They made us very welcome."
+    },
+    {
+      "word": "west",
+      "translation": "der Westen",
+      "example": "The sun sets in the west."
+    },
+    {
+      "word": "white",
+      "translation": "weiß",
+      "example": "The walls are white."
+    },
+    {
+      "word": "wife",
+      "translation": "die Ehefrau",
+      "example": "His wife teaches music."
+    },
+    {
+      "word": "win",
+      "translation": "gewinnen",
+      "example": "They won by one goal."
+    },
+    {
+      "word": "wind",
+      "translation": "der Wind",
+      "example": "A cold wind came from the sea."
+    },
+    {
+      "word": "window",
+      "translation": "das Fenster",
+      "example": "Open the window for some air."
+    },
+    {
+      "word": "wine",
+      "translation": "der Wein",
+      "example": "The wine was too warm."
+    },
+    {
+      "word": "winter",
+      "translation": "der Winter",
+      "example": "The winter was very long."
+    },
+    {
+      "word": "woman",
+      "translation": "die Frau",
+      "example": "The woman next to me is a nurse."
+    },
+    {
+      "word": "wonderful",
+      "translation": "wunderbar",
+      "example": "It was a wonderful evening."
+    },
+    {
+      "word": "word",
+      "translation": "das Wort",
+      "example": "I did not understand that word."
+    },
+    {
+      "word": "work",
+      "translation": "arbeiten",
+      "example": "She works in a hospital."
+    },
+    {
+      "word": "worker",
+      "translation": "der Arbeiter",
+      "example": "Every worker got a bonus."
+    },
+    {
+      "word": "world",
+      "translation": "die Welt",
+      "example": "The world has changed."
+    },
+    {
+      "word": "write",
+      "translation": "schreiben",
+      "example": "Please write your answer here."
+    },
+    {
+      "word": "writer",
+      "translation": "der Schriftsteller",
+      "example": "The writer lives nearby."
+    },
+    {
+      "word": "writing",
+      "translation": "das Schreiben",
+      "example": "His writing is hard to read."
+    },
+    {
+      "word": "wrong",
+      "translation": "falsch",
+      "example": "You have the wrong number."
+    },
+    {
+      "word": "year",
+      "translation": "das Jahr",
+      "example": "They moved here last year."
+    },
+    {
+      "word": "yellow",
+      "translation": "gelb",
+      "example": "The walls were pale yellow."
+    },
+    {
+      "word": "yesterday",
+      "translation": "gestern",
+      "example": "It rained all day yesterday."
+    },
+    {
+      "word": "young",
+      "translation": "jung",
+      "example": "She is too young to drive."
+    }
+  ]
+}

@@ -1,0 +1,3625 @@
+{
+  "id": "en-ja-a1",
+  "name": "English A1",
+  "learn": "en",
+  "native": "ja",
+  "level": "A1",
+  "version": 3,
+  "items": [
+    {
+      "word": "action",
+      "translation": "行動",
+      "example": "She took action straight away."
+    },
+    {
+      "word": "activity",
+      "translation": "活動",
+      "example": "The main activity is swimming."
+    },
+    {
+      "word": "actor",
+      "translation": "俳優",
+      "example": "The actor forgot his line."
+    },
+    {
+      "word": "actress",
+      "translation": "女優",
+      "example": "The actress waved at the crowd."
+    },
+    {
+      "word": "add",
+      "translation": "加える",
+      "example": "Add a little salt."
+    },
+    {
+      "word": "address",
+      "translation": "住所",
+      "example": "Write your address on the form."
+    },
+    {
+      "word": "adult",
+      "translation": "大人",
+      "example": "One adult and two children, please."
+    },
+    {
+      "word": "advice",
+      "translation": "アドバイス",
+      "example": "He gave me useful advice about the job."
+    },
+    {
+      "word": "afraid",
+      "translation": "怖い",
+      "example": "She is afraid of dogs."
+    },
+    {
+      "word": "after",
+      "translation": "後で",
+      "example": "We left after lunch."
+    },
+    {
+      "word": "afternoon",
+      "translation": "午後",
+      "example": "We met on Tuesday afternoon."
+    },
+    {
+      "word": "again",
+      "translation": "また",
+      "example": "Try again tomorrow."
+    },
+    {
+      "word": "age",
+      "translation": "年齢",
+      "example": "She started work at a young age."
+    },
+    {
+      "word": "ago",
+      "translation": "前",
+      "example": "She left two years ago."
+    },
+    {
+      "word": "agree",
+      "translation": "賛成する",
+      "example": "We agreed on a later date."
+    },
+    {
+      "word": "air",
+      "translation": "空気",
+      "example": "The air is cooler by the river."
+    },
+    {
+      "word": "airport",
+      "translation": "空港",
+      "example": "The airport is an hour away."
+    },
+    {
+      "word": "always",
+      "translation": "いつも",
+      "example": "She always locks the door."
+    },
+    {
+      "word": "amazing",
+      "translation": "すごい",
+      "example": "The view was amazing."
+    },
+    {
+      "word": "angry",
+      "translation": "怒っている",
+      "example": "He was angry about the delay."
+    },
+    {
+      "word": "animal",
+      "translation": "動物",
+      "example": "No animal is allowed inside."
+    },
+    {
+      "word": "answer",
+      "translation": "答え",
+      "example": "Nobody knew the answer."
+    },
+    {
+      "word": "anyone",
+      "translation": "誰でも",
+      "example": "Anyone can join."
+    },
+    {
+      "word": "anything",
+      "translation": "何でも",
+      "example": "Anything is better than waiting."
+    },
+    {
+      "word": "apartment",
+      "translation": "アパート",
+      "example": "Their apartment is on the top floor."
+    },
+    {
+      "word": "apple",
+      "translation": "りんご",
+      "example": "I ate an apple after lunch."
+    },
+    {
+      "word": "area",
+      "translation": "地域",
+      "example": "This area floods every year."
+    },
+    {
+      "word": "arm",
+      "translation": "腕",
+      "example": "He broke his arm last winter."
+    },
+    {
+      "word": "arrive",
+      "translation": "着く",
+      "example": "They arrive on Sunday evening."
+    },
+    {
+      "word": "art",
+      "translation": "芸術",
+      "example": "She studies art in Rome."
+    },
+    {
+      "word": "article",
+      "translation": "記事",
+      "example": "She wrote an article about it."
+    },
+    {
+      "word": "artist",
+      "translation": "芸術家",
+      "example": "The artist works only at night."
+    },
+    {
+      "word": "ask",
+      "translation": "聞く",
+      "example": "Ask the driver where to get off."
+    },
+    {
+      "word": "aunt",
+      "translation": "おば",
+      "example": "My aunt lives in the next town."
+    },
+    {
+      "word": "autumn",
+      "translation": "秋",
+      "example": "The garden is best in autumn."
+    },
+    {
+      "word": "away",
+      "translation": "離れて",
+      "example": "The station is ten minutes away."
+    },
+    {
+      "word": "baby",
+      "translation": "赤ちゃん",
+      "example": "The baby is asleep."
+    },
+    {
+      "word": "back",
+      "translation": "戻る",
+      "example": "He came back at six."
+    },
+    {
+      "word": "bad",
+      "translation": "悪い",
+      "example": "The weather was bad all week."
+    },
+    {
+      "word": "bag",
+      "translation": "かばん",
+      "example": "Her bag was under the seat."
+    },
+    {
+      "word": "ball",
+      "translation": "ボール",
+      "example": "The ball rolled into the road."
+    },
+    {
+      "word": "banana",
+      "translation": "バナナ",
+      "example": "He eats a banana before running."
+    },
+    {
+      "word": "band",
+      "translation": "バンド",
+      "example": "The band played for two hours."
+    },
+    {
+      "word": "bank",
+      "translation": "銀行",
+      "example": "The bank closes at three."
+    },
+    {
+      "word": "bath",
+      "translation": "風呂",
+      "example": "He had a hot bath."
+    },
+    {
+      "word": "bathroom",
+      "translation": "バスルーム",
+      "example": "The bathroom is at the end of the hall."
+    },
+    {
+      "word": "beach",
+      "translation": "ビーチ",
+      "example": "The beach was empty at dawn."
+    },
+    {
+      "word": "beautiful",
+      "translation": "美しい",
+      "example": "It was a beautiful morning."
+    },
+    {
+      "word": "become",
+      "translation": "なる",
+      "example": "She became a teacher in June."
+    },
+    {
+      "word": "bed",
+      "translation": "ベッド",
+      "example": "The bed is next to the window."
+    },
+    {
+      "word": "bedroom",
+      "translation": "寝室",
+      "example": "The bedroom faces the garden."
+    },
+    {
+      "word": "beer",
+      "translation": "ビール",
+      "example": "He ordered one beer."
+    },
+    {
+      "word": "before",
+      "translation": "前に",
+      "example": "Call me before you leave."
+    },
+    {
+      "word": "begin",
+      "translation": "始まる",
+      "example": "The film begins at eight."
+    },
+    {
+      "word": "beginning",
+      "translation": "始まり",
+      "example": "The beginning was slow."
+    },
+    {
+      "word": "behind",
+      "translation": "後ろ",
+      "example": "The garden is behind the house."
+    },
+    {
+      "word": "believe",
+      "translation": "信じる",
+      "example": "I believe she is right."
+    },
+    {
+      "word": "best",
+      "translation": "一番いい",
+      "example": "This is the best one."
+    },
+    {
+      "word": "better",
+      "translation": "もっと良い",
+      "example": "Her Spanish is better than mine."
+    },
+    {
+      "word": "bicycle",
+      "translation": "自転車",
+      "example": "She rides her bicycle to class."
+    },
+    {
+      "word": "big",
+      "translation": "大きい",
+      "example": "They live in a big house."
+    },
+    {
+      "word": "bike",
+      "translation": "自転車",
+      "example": "He rode his bike to school."
+    },
+    {
+      "word": "bill",
+      "translation": "お会計",
+      "example": "Could we have the bill, please?"
+    },
+    {
+      "word": "bird",
+      "translation": "鳥",
+      "example": "A bird woke me at dawn."
+    },
+    {
+      "word": "birthday",
+      "translation": "誕生日",
+      "example": "His birthday is in August."
+    },
+    {
+      "word": "black",
+      "translation": "黒い",
+      "example": "He carried a black bag."
+    },
+    {
+      "word": "blog",
+      "translation": "ブログ",
+      "example": "She writes a travel blog."
+    },
+    {
+      "word": "blonde",
+      "translation": "金髪",
+      "example": "She has blonde hair."
+    },
+    {
+      "word": "blue",
+      "translation": "青い",
+      "example": "The sky is very blue today."
+    },
+    {
+      "word": "boat",
+      "translation": "船",
+      "example": "The boat leaves at seven."
+    },
+    {
+      "word": "body",
+      "translation": "体",
+      "example": "Cold water shocks the body."
+    },
+    {
+      "word": "book",
+      "translation": "本",
+      "example": "This book has many pictures."
+    },
+    {
+      "word": "boot",
+      "translation": "ブーツ",
+      "example": "One boot was missing."
+    },
+    {
+      "word": "bored",
+      "translation": "退屈な",
+      "example": "The children were bored."
+    },
+    {
+      "word": "boring",
+      "translation": "つまらない",
+      "example": "The lesson was boring."
+    },
+    {
+      "word": "born",
+      "translation": "生まれた",
+      "example": "She was born in Chiang Mai."
+    },
+    {
+      "word": "bottle",
+      "translation": "瓶",
+      "example": "There is one bottle left."
+    },
+    {
+      "word": "box",
+      "translation": "箱",
+      "example": "The box was heavier than it looked."
+    },
+    {
+      "word": "boy",
+      "translation": "男の子",
+      "example": "The boy dropped his ball."
+    },
+    {
+      "word": "boyfriend",
+      "translation": "彼氏",
+      "example": "Her boyfriend cooks well."
+    },
+    {
+      "word": "bread",
+      "translation": "パン",
+      "example": "He eats bread for breakfast."
+    },
+    {
+      "word": "break",
+      "translation": "休憩",
+      "example": "Let us take a short break."
+    },
+    {
+      "word": "breakfast",
+      "translation": "朝ごはん",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "bring",
+      "translation": "持ってくる",
+      "example": "Please bring a coat."
+    },
+    {
+      "word": "brother",
+      "translation": "兄",
+      "example": "My brother is taller than me."
+    },
+    {
+      "word": "brown",
+      "translation": "茶色",
+      "example": "She wore a brown jacket."
+    },
+    {
+      "word": "build",
+      "translation": "建てる",
+      "example": "They will build a new school."
+    },
+    {
+      "word": "building",
+      "translation": "建物",
+      "example": "That building is a hundred years old."
+    },
+    {
+      "word": "bus",
+      "translation": "バス",
+      "example": "The bus was late again."
+    },
+    {
+      "word": "business",
+      "translation": "会社",
+      "example": "His business grew quickly."
+    },
+    {
+      "word": "busy",
+      "translation": "忙しい",
+      "example": "The office is busy on Mondays."
+    },
+    {
+      "word": "butter",
+      "translation": "バター",
+      "example": "There is no butter left."
+    },
+    {
+      "word": "buy",
+      "translation": "買う",
+      "example": "I want to buy a ticket."
+    },
+    {
+      "word": "cafe",
+      "translation": "カフェ",
+      "example": "We met at a small cafe."
+    },
+    {
+      "word": "cake",
+      "translation": "ケーキ",
+      "example": "She made a cake for the party."
+    },
+    {
+      "word": "call",
+      "translation": "電話する",
+      "example": "Call me after seven."
+    },
+    {
+      "word": "camera",
+      "translation": "カメラ",
+      "example": "His camera is very old."
+    },
+    {
+      "word": "cannot",
+      "translation": "できない",
+      "example": "I cannot open the door."
+    },
+    {
+      "word": "capital",
+      "translation": "首都",
+      "example": "Bangkok is the capital."
+    },
+    {
+      "word": "car",
+      "translation": "車",
+      "example": "Their car is very old."
+    },
+    {
+      "word": "card",
+      "translation": "カード",
+      "example": "He sent a card in December."
+    },
+    {
+      "word": "career",
+      "translation": "キャリア",
+      "example": "Her career started late."
+    },
+    {
+      "word": "carrot",
+      "translation": "にんじん",
+      "example": "Cut the carrot into small pieces."
+    },
+    {
+      "word": "carry",
+      "translation": "運ぶ",
+      "example": "Can you carry this bag?"
+    },
+    {
+      "word": "cat",
+      "translation": "猫",
+      "example": "My cat hates water."
+    },
+    {
+      "word": "CD",
+      "translation": "CD",
+      "example": "The CD was scratched."
+    },
+    {
+      "word": "cent",
+      "translation": "セント",
+      "example": "It costs fifty cents."
+    },
+    {
+      "word": "centre",
+      "translation": "中心",
+      "example": "The station is in the centre."
+    },
+    {
+      "word": "century",
+      "translation": "世紀",
+      "example": "The church is a century old."
+    },
+    {
+      "word": "chair",
+      "translation": "椅子",
+      "example": "He pulled out a chair for her."
+    },
+    {
+      "word": "change",
+      "translation": "お釣り",
+      "example": "He kept the change."
+    },
+    {
+      "word": "chart",
+      "translation": "図表",
+      "example": "The chart shows the change."
+    },
+    {
+      "word": "cheap",
+      "translation": "安い",
+      "example": "The tickets were surprisingly cheap."
+    },
+    {
+      "word": "check",
+      "translation": "確認する",
+      "example": "Check the time before you go."
+    },
+    {
+      "word": "cheese",
+      "translation": "チーズ",
+      "example": "This cheese is very strong."
+    },
+    {
+      "word": "chicken",
+      "translation": "鶏肉",
+      "example": "We had chicken and rice."
+    },
+    {
+      "word": "child",
+      "translation": "子供",
+      "example": "Every child gets a free book."
+    },
+    {
+      "word": "chocolate",
+      "translation": "チョコレート",
+      "example": "She gave me a box of chocolate."
+    },
+    {
+      "word": "choose",
+      "translation": "選ぶ",
+      "example": "Choose any seat you like."
+    },
+    {
+      "word": "cinema",
+      "translation": "映画館",
+      "example": "The cinema opens at noon."
+    },
+    {
+      "word": "city",
+      "translation": "都市",
+      "example": "This city has three parks."
+    },
+    {
+      "word": "class",
+      "translation": "授業",
+      "example": "The class starts in ten minutes."
+    },
+    {
+      "word": "classroom",
+      "translation": "教室",
+      "example": "The classroom was empty."
+    },
+    {
+      "word": "clean",
+      "translation": "きれいな",
+      "example": "The room is clean now."
+    },
+    {
+      "word": "climb",
+      "translation": "登る",
+      "example": "They climbed the hill slowly."
+    },
+    {
+      "word": "clock",
+      "translation": "時計",
+      "example": "The clock on the wall is slow."
+    },
+    {
+      "word": "close",
+      "translation": "近い",
+      "example": "The shop is close to my house."
+    },
+    {
+      "word": "clothes",
+      "translation": "服",
+      "example": "Her clothes were still wet."
+    },
+    {
+      "word": "club",
+      "translation": "クラブ",
+      "example": "He joined the tennis club."
+    },
+    {
+      "word": "coat",
+      "translation": "コート",
+      "example": "Take a coat, it is cold."
+    },
+    {
+      "word": "coffee",
+      "translation": "コーヒー",
+      "example": "This coffee is too strong."
+    },
+    {
+      "word": "cold",
+      "translation": "寒い",
+      "example": "My hands are cold."
+    },
+    {
+      "word": "college",
+      "translation": "大学",
+      "example": "She studies at a college."
+    },
+    {
+      "word": "colour",
+      "translation": "色",
+      "example": "What colour is the door?"
+    },
+    {
+      "word": "come",
+      "translation": "来る",
+      "example": "Please come at seven."
+    },
+    {
+      "word": "common",
+      "translation": "よくある",
+      "example": "That name is very common here."
+    },
+    {
+      "word": "company",
+      "translation": "会社",
+      "example": "She works for a small company."
+    },
+    {
+      "word": "compare",
+      "translation": "比べる",
+      "example": "Compare the two versions carefully."
+    },
+    {
+      "word": "complete",
+      "translation": "完全な",
+      "example": "The work is not complete."
+    },
+    {
+      "word": "computer",
+      "translation": "コンピューター",
+      "example": "The computer is very slow today."
+    },
+    {
+      "word": "concert",
+      "translation": "コンサート",
+      "example": "The concert starts at nine."
+    },
+    {
+      "word": "conversation",
+      "translation": "会話",
+      "example": "We had a long conversation."
+    },
+    {
+      "word": "cook",
+      "translation": "料理する",
+      "example": "He cooks for the whole family."
+    },
+    {
+      "word": "cooking",
+      "translation": "料理",
+      "example": "Cooking relaxes him."
+    },
+    {
+      "word": "cool",
+      "translation": "涼しい",
+      "example": "The evening air was cool."
+    },
+    {
+      "word": "correct",
+      "translation": "正しい",
+      "example": "That is the correct answer."
+    },
+    {
+      "word": "cost",
+      "translation": "かかる",
+      "example": "The repair will cost a lot."
+    },
+    {
+      "word": "country",
+      "translation": "国",
+      "example": "She has visited nine countries."
+    },
+    {
+      "word": "course",
+      "translation": "コース",
+      "example": "He took a course in Spanish."
+    },
+    {
+      "word": "cousin",
+      "translation": "いとこ",
+      "example": "My cousin studies in Japan."
+    },
+    {
+      "word": "cow",
+      "translation": "牛",
+      "example": "A cow stood in the road."
+    },
+    {
+      "word": "cream",
+      "translation": "クリーム",
+      "example": "She put cream in her coffee."
+    },
+    {
+      "word": "create",
+      "translation": "作る",
+      "example": "They created a new logo."
+    },
+    {
+      "word": "culture",
+      "translation": "文化",
+      "example": "Food is a big part of the culture."
+    },
+    {
+      "word": "cup",
+      "translation": "カップ",
+      "example": "He drank two cups of tea."
+    },
+    {
+      "word": "customer",
+      "translation": "客",
+      "example": "A customer asked for a refund."
+    },
+    {
+      "word": "cut",
+      "translation": "切る",
+      "example": "She cut the bread carefully."
+    },
+    {
+      "word": "dad",
+      "translation": "お父さん",
+      "example": "My dad drives a lorry."
+    },
+    {
+      "word": "dance",
+      "translation": "踊る",
+      "example": "They danced until midnight."
+    },
+    {
+      "word": "dancer",
+      "translation": "ダンサー",
+      "example": "The dancer trained for years."
+    },
+    {
+      "word": "dancing",
+      "translation": "ダンス",
+      "example": "Dancing is her favourite hobby."
+    },
+    {
+      "word": "dangerous",
+      "translation": "危ない",
+      "example": "That road is dangerous in the rain."
+    },
+    {
+      "word": "dark",
+      "translation": "暗い",
+      "example": "The room was completely dark."
+    },
+    {
+      "word": "date",
+      "translation": "日付",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "daughter",
+      "translation": "娘",
+      "example": "Their daughter is at university."
+    },
+    {
+      "word": "day",
+      "translation": "日",
+      "example": "It was a long day at work."
+    },
+    {
+      "word": "dear",
+      "translation": "親愛な",
+      "example": "Dear Anna, thank you for the book."
+    },
+    {
+      "word": "decide",
+      "translation": "決める",
+      "example": "We decided to stay one more night."
+    },
+    {
+      "word": "delicious",
+      "translation": "おいしい",
+      "example": "The soup was delicious."
+    },
+    {
+      "word": "describe",
+      "translation": "描写する",
+      "example": "Can you describe the man?"
+    },
+    {
+      "word": "description",
+      "translation": "説明",
+      "example": "Her description was very clear."
+    },
+    {
+      "word": "design",
+      "translation": "デザイン",
+      "example": "The design is very simple."
+    },
+    {
+      "word": "desk",
+      "translation": "机",
+      "example": "His desk is by the window."
+    },
+    {
+      "word": "detail",
+      "translation": "詳細",
+      "example": "He explained every detail."
+    },
+    {
+      "word": "dialogue",
+      "translation": "対話",
+      "example": "The dialogue felt natural."
+    },
+    {
+      "word": "dictionary",
+      "translation": "辞書",
+      "example": "Look it up in a dictionary."
+    },
+    {
+      "word": "die",
+      "translation": "死ぬ",
+      "example": "The plant died in winter."
+    },
+    {
+      "word": "diet",
+      "translation": "ダイエット",
+      "example": "He is on a strict diet."
+    },
+    {
+      "word": "difference",
+      "translation": "違い",
+      "example": "The difference is small but real."
+    },
+    {
+      "word": "different",
+      "translation": "違う",
+      "example": "This one is different."
+    },
+    {
+      "word": "difficult",
+      "translation": "難しい",
+      "example": "The exam was difficult."
+    },
+    {
+      "word": "dinner",
+      "translation": "晩ご飯",
+      "example": "Dinner is at seven."
+    },
+    {
+      "word": "dirty",
+      "translation": "汚い",
+      "example": "His shoes were dirty."
+    },
+    {
+      "word": "discuss",
+      "translation": "話し合う",
+      "example": "We discussed it for an hour."
+    },
+    {
+      "word": "dish",
+      "translation": "皿",
+      "example": "Wash the last dish, please."
+    },
+    {
+      "word": "doctor",
+      "translation": "医者",
+      "example": "The doctor arrives at nine."
+    },
+    {
+      "word": "dog",
+      "translation": "犬",
+      "example": "The dog sleeps under the table."
+    },
+    {
+      "word": "dollar",
+      "translation": "ドル",
+      "example": "It cost one dollar."
+    },
+    {
+      "word": "door",
+      "translation": "ドア",
+      "example": "Please close the door."
+    },
+    {
+      "word": "downstairs",
+      "translation": "下の階",
+      "example": "The kitchen is downstairs."
+    },
+    {
+      "word": "draw",
+      "translation": "描く",
+      "example": "She draws every evening."
+    },
+    {
+      "word": "dress",
+      "translation": "ドレス",
+      "example": "That dress suits you."
+    },
+    {
+      "word": "drink",
+      "translation": "飲む",
+      "example": "He does not drink coffee."
+    },
+    {
+      "word": "drive",
+      "translation": "運転する",
+      "example": "He drives to work on Mondays."
+    },
+    {
+      "word": "driver",
+      "translation": "運転手",
+      "example": "The driver waited outside."
+    },
+    {
+      "word": "DVD",
+      "translation": "DVD",
+      "example": "The DVD would not play."
+    },
+    {
+      "word": "ear",
+      "translation": "耳",
+      "example": "The noise hurt my ear."
+    },
+    {
+      "word": "early",
+      "translation": "早く",
+      "example": "He arrived early as usual."
+    },
+    {
+      "word": "east",
+      "translation": "東",
+      "example": "The wind comes from the east."
+    },
+    {
+      "word": "easy",
+      "translation": "簡単な",
+      "example": "The test was easy."
+    },
+    {
+      "word": "eat",
+      "translation": "食べる",
+      "example": "We eat dinner at seven."
+    },
+    {
+      "word": "egg",
+      "translation": "卵",
+      "example": "She boiled one egg."
+    },
+    {
+      "word": "elephant",
+      "translation": "象",
+      "example": "The elephant drank from the river."
+    },
+    {
+      "word": "else",
+      "translation": "他に",
+      "example": "Ask somebody else."
+    },
+    {
+      "word": "email",
+      "translation": "メール",
+      "example": "Send me an email tonight."
+    },
+    {
+      "word": "end",
+      "translation": "終わり",
+      "example": "The end of the film surprised me."
+    },
+    {
+      "word": "enjoy",
+      "translation": "楽しむ",
+      "example": "I enjoy long walks."
+    },
+    {
+      "word": "enough",
+      "translation": "十分な",
+      "example": "There is not enough rice."
+    },
+    {
+      "word": "euro",
+      "translation": "ユーロ",
+      "example": "It cost three euros."
+    },
+    {
+      "word": "evening",
+      "translation": "夕方",
+      "example": "We walk in the evening."
+    },
+    {
+      "word": "event",
+      "translation": "イベント",
+      "example": "The event lasted two days."
+    },
+    {
+      "word": "everybody",
+      "translation": "みんな",
+      "example": "Everybody arrived on time."
+    },
+    {
+      "word": "everyone",
+      "translation": "みんな",
+      "example": "Everyone arrived on time."
+    },
+    {
+      "word": "everything",
+      "translation": "すべて",
+      "example": "Everything is ready."
+    },
+    {
+      "word": "exam",
+      "translation": "試験",
+      "example": "The exam lasted three hours."
+    },
+    {
+      "word": "example",
+      "translation": "例",
+      "example": "Give me one clear example."
+    },
+    {
+      "word": "excited",
+      "translation": "わくわくしている",
+      "example": "The children were excited."
+    },
+    {
+      "word": "exciting",
+      "translation": "わくわくする",
+      "example": "It was an exciting match."
+    },
+    {
+      "word": "exercise",
+      "translation": "運動",
+      "example": "She does exercise every morning."
+    },
+    {
+      "word": "expensive",
+      "translation": "高い",
+      "example": "That restaurant is too expensive."
+    },
+    {
+      "word": "explain",
+      "translation": "説明する",
+      "example": "Please explain the rule again."
+    },
+    {
+      "word": "extra",
+      "translation": "追加の",
+      "example": "We need one extra chair."
+    },
+    {
+      "word": "eye",
+      "translation": "目",
+      "example": "She closed one eye."
+    },
+    {
+      "word": "face",
+      "translation": "顔",
+      "example": "His face was very red."
+    },
+    {
+      "word": "fact",
+      "translation": "事実",
+      "example": "That is a simple fact."
+    },
+    {
+      "word": "fall",
+      "translation": "落ちる",
+      "example": "Leaves fall in October."
+    },
+    {
+      "word": "false",
+      "translation": "間違った",
+      "example": "That statement is false."
+    },
+    {
+      "word": "family",
+      "translation": "家族",
+      "example": "My family lives in a small town."
+    },
+    {
+      "word": "famous",
+      "translation": "有名な",
+      "example": "The restaurant is famous for its soup."
+    },
+    {
+      "word": "fantastic",
+      "translation": "素晴らしい",
+      "example": "The concert was fantastic."
+    },
+    {
+      "word": "far",
+      "translation": "遠い",
+      "example": "Their house is far from here."
+    },
+    {
+      "word": "farm",
+      "translation": "農場",
+      "example": "They own a small farm."
+    },
+    {
+      "word": "farmer",
+      "translation": "農家",
+      "example": "The farmer sold his cows."
+    },
+    {
+      "word": "fast",
+      "translation": "速い",
+      "example": "That train is very fast."
+    },
+    {
+      "word": "fat",
+      "translation": "脂っこい",
+      "example": "The soup is too fat."
+    },
+    {
+      "word": "father",
+      "translation": "父",
+      "example": "His father drives a taxi."
+    },
+    {
+      "word": "favourite",
+      "translation": "お気に入りの",
+      "example": "This is my favourite song."
+    },
+    {
+      "word": "feel",
+      "translation": "感じる",
+      "example": "I feel much better today."
+    },
+    {
+      "word": "feeling",
+      "translation": "気持ち",
+      "example": "I had a strange feeling."
+    },
+    {
+      "word": "festival",
+      "translation": "祭り",
+      "example": "The festival lasts four days."
+    },
+    {
+      "word": "fill",
+      "translation": "いっぱいにする",
+      "example": "Fill the glass slowly."
+    },
+    {
+      "word": "film",
+      "translation": "映画",
+      "example": "The film was three hours long."
+    },
+    {
+      "word": "final",
+      "translation": "最後の",
+      "example": "This is the final version."
+    },
+    {
+      "word": "find",
+      "translation": "見つける",
+      "example": "I cannot find my keys."
+    },
+    {
+      "word": "fine",
+      "translation": "良い",
+      "example": "The weather was fine."
+    },
+    {
+      "word": "finish",
+      "translation": "終える",
+      "example": "Finish your work first."
+    },
+    {
+      "word": "fire",
+      "translation": "火",
+      "example": "The fire burned all night."
+    },
+    {
+      "word": "fish",
+      "translation": "魚",
+      "example": "The fish was very fresh."
+    },
+    {
+      "word": "flat",
+      "translation": "アパート",
+      "example": "Their flat is very small."
+    },
+    {
+      "word": "flight",
+      "translation": "フライト",
+      "example": "The flight was delayed."
+    },
+    {
+      "word": "floor",
+      "translation": "階",
+      "example": "Our office is on the third floor."
+    },
+    {
+      "word": "flower",
+      "translation": "花",
+      "example": "She bought a yellow flower."
+    },
+    {
+      "word": "fly",
+      "translation": "飛ぶ",
+      "example": "Birds fly south in winter."
+    },
+    {
+      "word": "follow",
+      "translation": "ついていく",
+      "example": "Follow me to the office."
+    },
+    {
+      "word": "food",
+      "translation": "食べ物",
+      "example": "The food here is cheap and good."
+    },
+    {
+      "word": "foot",
+      "translation": "足",
+      "example": "My foot still hurts."
+    },
+    {
+      "word": "football",
+      "translation": "サッカー",
+      "example": "They play football on Sundays."
+    },
+    {
+      "word": "forget",
+      "translation": "忘れる",
+      "example": "Do not forget your keys."
+    },
+    {
+      "word": "form",
+      "translation": "用紙",
+      "example": "Fill in the form in ink."
+    },
+    {
+      "word": "free",
+      "translation": "無料の",
+      "example": "Entry is free on Mondays."
+    },
+    {
+      "word": "friend",
+      "translation": "友達",
+      "example": "My friend lives next door."
+    },
+    {
+      "word": "friendly",
+      "translation": "フレンドリーな",
+      "example": "The staff were very friendly."
+    },
+    {
+      "word": "front",
+      "translation": "前",
+      "example": "Wait at the front of the building."
+    },
+    {
+      "word": "fruit",
+      "translation": "果物",
+      "example": "Fruit is cheap in summer."
+    },
+    {
+      "word": "full",
+      "translation": "いっぱいの",
+      "example": "The bus was completely full."
+    },
+    {
+      "word": "fun",
+      "translation": "楽しさ",
+      "example": "The trip was great fun."
+    },
+    {
+      "word": "funny",
+      "translation": "面白い",
+      "example": "His story was very funny."
+    },
+    {
+      "word": "future",
+      "translation": "未来",
+      "example": "Nobody knows the future."
+    },
+    {
+      "word": "game",
+      "translation": "ゲーム",
+      "example": "The game ended in a draw."
+    },
+    {
+      "word": "garden",
+      "translation": "庭",
+      "example": "Their garden is full of flowers."
+    },
+    {
+      "word": "geography",
+      "translation": "地理",
+      "example": "She teaches geography."
+    },
+    {
+      "word": "girl",
+      "translation": "女の子",
+      "example": "A girl waved from the window."
+    },
+    {
+      "word": "girlfriend",
+      "translation": "彼女",
+      "example": "His girlfriend studies law."
+    },
+    {
+      "word": "give",
+      "translation": "あげる",
+      "example": "Give me one minute."
+    },
+    {
+      "word": "glass",
+      "translation": "グラス",
+      "example": "She broke a glass this morning."
+    },
+    {
+      "word": "go",
+      "translation": "行く",
+      "example": "We go to the market on Friday."
+    },
+    {
+      "word": "good",
+      "translation": "いい",
+      "example": "This is a good idea."
+    },
+    {
+      "word": "grandfather",
+      "translation": "おじいさん",
+      "example": "My grandfather was a fisherman."
+    },
+    {
+      "word": "grandmother",
+      "translation": "おばあさん",
+      "example": "Her grandmother still cooks daily."
+    },
+    {
+      "word": "grandparent",
+      "translation": "祖父母",
+      "example": "My grandparent still drives."
+    },
+    {
+      "word": "great",
+      "translation": "素晴らしい",
+      "example": "That is a great idea."
+    },
+    {
+      "word": "green",
+      "translation": "緑色の",
+      "example": "The fields turn green in May."
+    },
+    {
+      "word": "grey",
+      "translation": "灰色の",
+      "example": "The sky turned grey."
+    },
+    {
+      "word": "group",
+      "translation": "グループ",
+      "example": "A group of students waited outside."
+    },
+    {
+      "word": "grow",
+      "translation": "育つ",
+      "example": "These plants grow very fast."
+    },
+    {
+      "word": "guess",
+      "translation": "当てる",
+      "example": "Guess how old he is."
+    },
+    {
+      "word": "guitar",
+      "translation": "ギター",
+      "example": "He plays the guitar badly."
+    },
+    {
+      "word": "gym",
+      "translation": "ジム",
+      "example": "She goes to the gym daily."
+    },
+    {
+      "word": "hair",
+      "translation": "髪",
+      "example": "Her hair is very long."
+    },
+    {
+      "word": "half",
+      "translation": "半分",
+      "example": "Half the class was absent."
+    },
+    {
+      "word": "hand",
+      "translation": "手",
+      "example": "He raised his hand."
+    },
+    {
+      "word": "happen",
+      "translation": "起こる",
+      "example": "What happened last night?"
+    },
+    {
+      "word": "happy",
+      "translation": "幸せな",
+      "example": "She was happy to see him."
+    },
+    {
+      "word": "hard",
+      "translation": "難しい",
+      "example": "This question is hard."
+    },
+    {
+      "word": "hat",
+      "translation": "帽子",
+      "example": "He lost his hat on the bus."
+    },
+    {
+      "word": "hate",
+      "translation": "嫌いな",
+      "example": "I hate waiting in queues."
+    },
+    {
+      "word": "have to",
+      "translation": "しなければならない",
+      "example": "I have to leave now."
+    },
+    {
+      "word": "head",
+      "translation": "頭",
+      "example": "He hit his head on the door."
+    },
+    {
+      "word": "health",
+      "translation": "健康",
+      "example": "His health improved slowly."
+    },
+    {
+      "word": "healthy",
+      "translation": "健康的な",
+      "example": "She eats very healthy food."
+    },
+    {
+      "word": "hear",
+      "translation": "聞こえる",
+      "example": "I cannot hear you."
+    },
+    {
+      "word": "help",
+      "translation": "手伝う",
+      "example": "Can you help me lift this?"
+    },
+    {
+      "word": "high",
+      "translation": "高い",
+      "example": "The wall is too high."
+    },
+    {
+      "word": "history",
+      "translation": "歴史",
+      "example": "He studies history."
+    },
+    {
+      "word": "hobby",
+      "translation": "趣味",
+      "example": "Painting is her hobby."
+    },
+    {
+      "word": "holiday",
+      "translation": "休日",
+      "example": "We took a short holiday in June."
+    },
+    {
+      "word": "home",
+      "translation": "家",
+      "example": "We go home at six."
+    },
+    {
+      "word": "homework",
+      "translation": "宿題",
+      "example": "He finished his homework early."
+    },
+    {
+      "word": "hope",
+      "translation": "望む",
+      "example": "I hope she arrives soon."
+    },
+    {
+      "word": "horse",
+      "translation": "馬",
+      "example": "The horse ran across the field."
+    },
+    {
+      "word": "hospital",
+      "translation": "病院",
+      "example": "The hospital is behind the school."
+    },
+    {
+      "word": "hot",
+      "translation": "熱い",
+      "example": "The tea is still hot."
+    },
+    {
+      "word": "hotel",
+      "translation": "ホテル",
+      "example": "The hotel was near the beach."
+    },
+    {
+      "word": "hour",
+      "translation": "時間",
+      "example": "The trip takes about an hour."
+    },
+    {
+      "word": "house",
+      "translation": "家",
+      "example": "Their house has a red door."
+    },
+    {
+      "word": "however",
+      "translation": "しかし",
+      "example": "It rained; however, we walked."
+    },
+    {
+      "word": "hungry",
+      "translation": "お腹が空いた",
+      "example": "The children were hungry."
+    },
+    {
+      "word": "husband",
+      "translation": "夫",
+      "example": "Her husband is a nurse."
+    },
+    {
+      "word": "ice",
+      "translation": "氷",
+      "example": "There was ice on the road."
+    },
+    {
+      "word": "ice cream",
+      "translation": "アイスクリーム",
+      "example": "The children wanted ice cream."
+    },
+    {
+      "word": "idea",
+      "translation": "アイデア",
+      "example": "That is a good idea."
+    },
+    {
+      "word": "imagine",
+      "translation": "想像する",
+      "example": "Imagine living there."
+    },
+    {
+      "word": "important",
+      "translation": "重要な",
+      "example": "This part is important."
+    },
+    {
+      "word": "improve",
+      "translation": "改善する",
+      "example": "His writing has improved a lot."
+    },
+    {
+      "word": "include",
+      "translation": "含む",
+      "example": "The price includes breakfast."
+    },
+    {
+      "word": "information",
+      "translation": "情報",
+      "example": "The information was wrong."
+    },
+    {
+      "word": "interest",
+      "translation": "興味",
+      "example": "He has no interest in sport."
+    },
+    {
+      "word": "interested",
+      "translation": "興味がある",
+      "example": "She is interested in art."
+    },
+    {
+      "word": "interesting",
+      "translation": "面白い",
+      "example": "The book is very interesting."
+    },
+    {
+      "word": "internet",
+      "translation": "インターネット",
+      "example": "The internet is slow here."
+    },
+    {
+      "word": "interview",
+      "translation": "面接",
+      "example": "The interview lasted an hour."
+    },
+    {
+      "word": "introduce",
+      "translation": "紹介する",
+      "example": "Let me introduce my sister."
+    },
+    {
+      "word": "island",
+      "translation": "島",
+      "example": "The island has one shop."
+    },
+    {
+      "word": "jacket",
+      "translation": "ジャケット",
+      "example": "He left his jacket behind."
+    },
+    {
+      "word": "jeans",
+      "translation": "ジーンズ",
+      "example": "These jeans are too tight."
+    },
+    {
+      "word": "job",
+      "translation": "仕事",
+      "example": "She started a new job."
+    },
+    {
+      "word": "join",
+      "translation": "参加する",
+      "example": "Join us for dinner."
+    },
+    {
+      "word": "journey",
+      "translation": "旅",
+      "example": "The journey home took all day."
+    },
+    {
+      "word": "juice",
+      "translation": "ジュース",
+      "example": "He drank orange juice."
+    },
+    {
+      "word": "keep",
+      "translation": "とっておく",
+      "example": "Keep the receipt."
+    },
+    {
+      "word": "key",
+      "translation": "鍵",
+      "example": "I lost the key again."
+    },
+    {
+      "word": "kilometre",
+      "translation": "キロメートル",
+      "example": "The village is one kilometre away."
+    },
+    {
+      "word": "kind",
+      "translation": "親切な",
+      "example": "She was very kind to us."
+    },
+    {
+      "word": "kitchen",
+      "translation": "キッチン",
+      "example": "She is cooking in the kitchen."
+    },
+    {
+      "word": "know",
+      "translation": "知っている",
+      "example": "I know the answer."
+    },
+    {
+      "word": "land",
+      "translation": "着陸する",
+      "example": "The plane landed safely."
+    },
+    {
+      "word": "language",
+      "translation": "言語",
+      "example": "Thai is a difficult language to write."
+    },
+    {
+      "word": "large",
+      "translation": "大きい",
+      "example": "They bought a large table."
+    },
+    {
+      "word": "last",
+      "translation": "最後の",
+      "example": "The film was three hours long, but the last part was the best."
+    },
+    {
+      "word": "late",
+      "translation": "遅い",
+      "example": "The train was late again."
+    },
+    {
+      "word": "later",
+      "translation": "後で",
+      "example": "See you later."
+    },
+    {
+      "word": "laugh",
+      "translation": "笑う",
+      "example": "Everybody laughed at once."
+    },
+    {
+      "word": "learn",
+      "translation": "習う",
+      "example": "She wants to learn Spanish."
+    },
+    {
+      "word": "leave",
+      "translation": "出発する",
+      "example": "We leave early tomorrow."
+    },
+    {
+      "word": "left",
+      "translation": "左",
+      "example": "Turn left at the bank."
+    },
+    {
+      "word": "leg",
+      "translation": "脚",
+      "example": "He hurt his leg playing football."
+    },
+    {
+      "word": "lesson",
+      "translation": "レッスン",
+      "example": "The lesson lasted an hour."
+    },
+    {
+      "word": "letter",
+      "translation": "手紙",
+      "example": "He wrote a letter to his brother."
+    },
+    {
+      "word": "library",
+      "translation": "図書館",
+      "example": "The library closes at six."
+    },
+    {
+      "word": "lie",
+      "translation": "横になる",
+      "example": "I like to lie on the grass and read."
+    },
+    {
+      "word": "life",
+      "translation": "生活",
+      "example": "Life here is quiet."
+    },
+    {
+      "word": "light",
+      "translation": "軽い",
+      "example": "The bag is surprisingly light."
+    },
+    {
+      "word": "like",
+      "translation": "好きな",
+      "example": "I like this song."
+    },
+    {
+      "word": "line",
+      "translation": "線",
+      "example": "Draw a straight line."
+    },
+    {
+      "word": "lion",
+      "translation": "ライオン",
+      "example": "The lion slept all afternoon."
+    },
+    {
+      "word": "list",
+      "translation": "リスト",
+      "example": "Write a list before shopping."
+    },
+    {
+      "word": "listen",
+      "translation": "聞く",
+      "example": "Listen to this song."
+    },
+    {
+      "word": "live",
+      "translation": "住む",
+      "example": "My grandparents live near the sea."
+    },
+    {
+      "word": "local",
+      "translation": "地元の",
+      "example": "The local shop sells bread."
+    },
+    {
+      "word": "long",
+      "translation": "長い",
+      "example": "It was a long walk."
+    },
+    {
+      "word": "look",
+      "translation": "見る",
+      "example": "Look at that bird."
+    },
+    {
+      "word": "lose",
+      "translation": "なくす",
+      "example": "Do not lose the ticket."
+    },
+    {
+      "word": "lot",
+      "translation": "たくさん",
+      "example": "There is a lot of work today."
+    },
+    {
+      "word": "love",
+      "translation": "大好きな",
+      "example": "They love the mountains."
+    },
+    {
+      "word": "lunch",
+      "translation": "昼ご飯",
+      "example": "We had lunch at noon."
+    },
+    {
+      "word": "machine",
+      "translation": "機械",
+      "example": "The machine stopped working."
+    },
+    {
+      "word": "magazine",
+      "translation": "雑誌",
+      "example": "She reads one magazine a month."
+    },
+    {
+      "word": "main",
+      "translation": "主な",
+      "example": "The main road is closed."
+    },
+    {
+      "word": "make",
+      "translation": "作る",
+      "example": "She makes her own clothes."
+    },
+    {
+      "word": "man",
+      "translation": "男の人",
+      "example": "That man works at the bank."
+    },
+    {
+      "word": "map",
+      "translation": "地図",
+      "example": "She drew a map on a napkin."
+    },
+    {
+      "word": "market",
+      "translation": "市場",
+      "example": "The market opens at dawn."
+    },
+    {
+      "word": "married",
+      "translation": "結婚している",
+      "example": "They got married in May."
+    },
+    {
+      "word": "match",
+      "translation": "試合",
+      "example": "The match ended late."
+    },
+    {
+      "word": "maybe",
+      "translation": "たぶん",
+      "example": "Maybe they forgot."
+    },
+    {
+      "word": "meal",
+      "translation": "食事",
+      "example": "The meal took two hours."
+    },
+    {
+      "word": "mean",
+      "translation": "意味する",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "meaning",
+      "translation": "意味",
+      "example": "The meaning is not clear."
+    },
+    {
+      "word": "meat",
+      "translation": "肉",
+      "example": "He does not eat meat."
+    },
+    {
+      "word": "meet",
+      "translation": "会う",
+      "example": "Let us meet at six."
+    },
+    {
+      "word": "meeting",
+      "translation": "会議",
+      "example": "The meeting lasted two hours."
+    },
+    {
+      "word": "member",
+      "translation": "メンバー",
+      "example": "Every member pays a fee."
+    },
+    {
+      "word": "menu",
+      "translation": "メニュー",
+      "example": "The menu is only in Thai."
+    },
+    {
+      "word": "message",
+      "translation": "メッセージ",
+      "example": "I left a message for you."
+    },
+    {
+      "word": "metre",
+      "translation": "メートル",
+      "example": "The wall is two metres high."
+    },
+    {
+      "word": "midnight",
+      "translation": "真夜中",
+      "example": "They arrived after midnight."
+    },
+    {
+      "word": "mile",
+      "translation": "マイル",
+      "example": "We walked three miles."
+    },
+    {
+      "word": "milk",
+      "translation": "牛乳",
+      "example": "The milk is in the fridge."
+    },
+    {
+      "word": "miss",
+      "translation": "懐かしい",
+      "example": "I miss my old school."
+    },
+    {
+      "word": "mistake",
+      "translation": "間違い",
+      "example": "It was an honest mistake."
+    },
+    {
+      "word": "model",
+      "translation": "モデル",
+      "example": "This model is cheaper."
+    },
+    {
+      "word": "modern",
+      "translation": "現代的な",
+      "example": "The building is very modern."
+    },
+    {
+      "word": "moment",
+      "translation": "瞬間",
+      "example": "Wait a moment, please."
+    },
+    {
+      "word": "money",
+      "translation": "お金",
+      "example": "He saved money all year."
+    },
+    {
+      "word": "month",
+      "translation": "月",
+      "example": "The rent is due every month."
+    },
+    {
+      "word": "morning",
+      "translation": "朝",
+      "example": "I run every morning."
+    },
+    {
+      "word": "mother",
+      "translation": "母",
+      "example": "My mother cooks on Sundays."
+    },
+    {
+      "word": "mountain",
+      "translation": "山",
+      "example": "The mountain is covered in snow."
+    },
+    {
+      "word": "mouse",
+      "translation": "ねずみ",
+      "example": "A mouse ran under the door."
+    },
+    {
+      "word": "mouth",
+      "translation": "口",
+      "example": "She covered her mouth."
+    },
+    {
+      "word": "move",
+      "translation": "引っ越す",
+      "example": "They moved to a bigger flat."
+    },
+    {
+      "word": "movie",
+      "translation": "映画",
+      "example": "The movie starts at nine."
+    },
+    {
+      "word": "mum",
+      "translation": "お母さん",
+      "example": "My mum works nights."
+    },
+    {
+      "word": "museum",
+      "translation": "博物館",
+      "example": "The museum is free on Mondays."
+    },
+    {
+      "word": "music",
+      "translation": "音楽",
+      "example": "She listens to music while working."
+    },
+    {
+      "word": "name",
+      "translation": "名前",
+      "example": "Please write your name at the top."
+    },
+    {
+      "word": "natural",
+      "translation": "自然な",
+      "example": "It is a natural reaction."
+    },
+    {
+      "word": "near",
+      "translation": "近い",
+      "example": "The station is quite near."
+    },
+    {
+      "word": "negative",
+      "translation": "否定的な",
+      "example": "His answer was negative."
+    },
+    {
+      "word": "neighbour",
+      "translation": "お隣さん",
+      "example": "Our neighbour has three cats."
+    },
+    {
+      "word": "never",
+      "translation": "決して",
+      "example": "He never eats breakfast."
+    },
+    {
+      "word": "new",
+      "translation": "新しい",
+      "example": "They bought a new table."
+    },
+    {
+      "word": "news",
+      "translation": "ニュース",
+      "example": "The news came late that evening."
+    },
+    {
+      "word": "newspaper",
+      "translation": "新聞",
+      "example": "He reads a newspaper daily."
+    },
+    {
+      "word": "next to",
+      "translation": "の隣に",
+      "example": "The bank is next to the market."
+    },
+    {
+      "word": "nice",
+      "translation": "素敵な",
+      "example": "That was a nice thing to say."
+    },
+    {
+      "word": "night",
+      "translation": "夜",
+      "example": "The street is dark at night."
+    },
+    {
+      "word": "noon",
+      "translation": "正午",
+      "example": "We stopped for lunch at noon."
+    },
+    {
+      "word": "no one",
+      "translation": "誰も",
+      "example": "No one answered the door."
+    },
+    {
+      "word": "north",
+      "translation": "北",
+      "example": "The wind came from the north."
+    },
+    {
+      "word": "nose",
+      "translation": "鼻",
+      "example": "His nose was red from the cold."
+    },
+    {
+      "word": "note",
+      "translation": "メモ",
+      "example": "She left a note on the table."
+    },
+    {
+      "word": "now",
+      "translation": "今",
+      "example": "We should go now."
+    },
+    {
+      "word": "number",
+      "translation": "番号",
+      "example": "What is your room number?"
+    },
+    {
+      "word": "nurse",
+      "translation": "看護師",
+      "example": "A nurse checked his arm."
+    },
+    {
+      "word": "object",
+      "translation": "物",
+      "example": "A small object fell out."
+    },
+    {
+      "word": "o’clock",
+      "translation": "時",
+      "example": "The train leaves at six o’clock."
+    },
+    {
+      "word": "office",
+      "translation": "オフィス",
+      "example": "The office is empty on Fridays."
+    },
+    {
+      "word": "often",
+      "translation": "よく",
+      "example": "We often eat outside."
+    },
+    {
+      "word": "old",
+      "translation": "古い",
+      "example": "This building is very old."
+    },
+    {
+      "word": "onion",
+      "translation": "玉ねぎ",
+      "example": "Chop one onion finely."
+    },
+    {
+      "word": "online",
+      "translation": "オンラインで",
+      "example": "I bought it online."
+    },
+    {
+      "word": "open",
+      "translation": "開く",
+      "example": "The shop opens at eight."
+    },
+    {
+      "word": "opinion",
+      "translation": "意見",
+      "example": "Everyone had a different opinion."
+    },
+    {
+      "word": "opposite",
+      "translation": "向かい",
+      "example": "The bank is opposite the park."
+    },
+    {
+      "word": "orange",
+      "translation": "オレンジ",
+      "example": "She ate an orange."
+    },
+    {
+      "word": "order",
+      "translation": "注文する",
+      "example": "He ordered soup and bread."
+    },
+    {
+      "word": "outside",
+      "translation": "外で",
+      "example": "Wait outside, please."
+    },
+    {
+      "word": "page",
+      "translation": "ページ",
+      "example": "The answer is on page ten."
+    },
+    {
+      "word": "paint",
+      "translation": "塗る",
+      "example": "They painted the door blue."
+    },
+    {
+      "word": "painting",
+      "translation": "絵",
+      "example": "The painting hangs by the stairs."
+    },
+    {
+      "word": "pair",
+      "translation": "一組",
+      "example": "He bought a pair of shoes."
+    },
+    {
+      "word": "paper",
+      "translation": "紙",
+      "example": "Write it on paper first."
+    },
+    {
+      "word": "paragraph",
+      "translation": "段落",
+      "example": "The last paragraph is unclear."
+    },
+    {
+      "word": "parent",
+      "translation": "親",
+      "example": "Every parent was invited."
+    },
+    {
+      "word": "park",
+      "translation": "公園",
+      "example": "We walk in the park on Sundays."
+    },
+    {
+      "word": "part",
+      "translation": "部分",
+      "example": "This part is difficult."
+    },
+    {
+      "word": "partner",
+      "translation": "パートナー",
+      "example": "Her partner runs the shop."
+    },
+    {
+      "word": "party",
+      "translation": "パーティー",
+      "example": "The party ended after midnight."
+    },
+    {
+      "word": "passport",
+      "translation": "パスポート",
+      "example": "Keep your passport in your bag."
+    },
+    {
+      "word": "pasta",
+      "translation": "パスタ",
+      "example": "She cooked pasta with tomatoes."
+    },
+    {
+      "word": "pay",
+      "translation": "払う",
+      "example": "I will pay tomorrow."
+    },
+    {
+      "word": "pen",
+      "translation": "ペン",
+      "example": "The pen has run out."
+    },
+    {
+      "word": "pencil",
+      "translation": "鉛筆",
+      "example": "Use a pencil for the draft."
+    },
+    {
+      "word": "people",
+      "translation": "人々",
+      "example": "Many people waited outside."
+    },
+    {
+      "word": "pepper",
+      "translation": "こしょう",
+      "example": "Add salt and pepper."
+    },
+    {
+      "word": "perfect",
+      "translation": "完璧な",
+      "example": "The weather was perfect."
+    },
+    {
+      "word": "period",
+      "translation": "期間",
+      "example": "It was a difficult period."
+    },
+    {
+      "word": "person",
+      "translation": "人",
+      "example": "Only one person answered."
+    },
+    {
+      "word": "personal",
+      "translation": "個人的な",
+      "example": "That is a personal question."
+    },
+    {
+      "word": "phone",
+      "translation": "電話",
+      "example": "My phone is nearly dead."
+    },
+    {
+      "word": "photo",
+      "translation": "写真",
+      "example": "He showed me a photo of his dog."
+    },
+    {
+      "word": "photograph",
+      "translation": "写真",
+      "example": "He took a photograph of the bridge."
+    },
+    {
+      "word": "phrase",
+      "translation": "フレーズ",
+      "example": "That phrase is hard to translate."
+    },
+    {
+      "word": "piano",
+      "translation": "ピアノ",
+      "example": "She plays the piano well."
+    },
+    {
+      "word": "picture",
+      "translation": "絵",
+      "example": "The picture is crooked."
+    },
+    {
+      "word": "piece",
+      "translation": "一つ",
+      "example": "Take one piece each."
+    },
+    {
+      "word": "pig",
+      "translation": "豚",
+      "example": "The pig slept in the shade."
+    },
+    {
+      "word": "pink",
+      "translation": "ピンク",
+      "example": "She wore a pink scarf."
+    },
+    {
+      "word": "pizza",
+      "translation": "ピザ",
+      "example": "We shared a large pizza."
+    },
+    {
+      "word": "place",
+      "translation": "場所",
+      "example": "This is a good place to stop."
+    },
+    {
+      "word": "plan",
+      "translation": "計画",
+      "example": "Our plan changed at the last minute."
+    },
+    {
+      "word": "plane",
+      "translation": "飛行機",
+      "example": "The plane was two hours late."
+    },
+    {
+      "word": "plant",
+      "translation": "植物",
+      "example": "Water the plant twice a week."
+    },
+    {
+      "word": "play",
+      "translation": "遊ぶ",
+      "example": "The children play outside."
+    },
+    {
+      "word": "player",
+      "translation": "選手",
+      "example": "One player was injured."
+    },
+    {
+      "word": "point",
+      "translation": "ポイント",
+      "example": "He made a good point."
+    },
+    {
+      "word": "police",
+      "translation": "警察",
+      "example": "The police arrived quickly."
+    },
+    {
+      "word": "policeman",
+      "translation": "警察官",
+      "example": "A policeman stopped the car."
+    },
+    {
+      "word": "pool",
+      "translation": "プール",
+      "example": "The pool closes at eight."
+    },
+    {
+      "word": "poor",
+      "translation": "貧しい",
+      "example": "The village was very poor."
+    },
+    {
+      "word": "popular",
+      "translation": "人気がある",
+      "example": "That song is very popular."
+    },
+    {
+      "word": "positive",
+      "translation": "ポジティブな",
+      "example": "The result was positive."
+    },
+    {
+      "word": "possible",
+      "translation": "可能な",
+      "example": "It is possible but unlikely."
+    },
+    {
+      "word": "post",
+      "translation": "出す",
+      "example": "I will post the letter today."
+    },
+    {
+      "word": "potato",
+      "translation": "じゃがいも",
+      "example": "Peel two potatoes."
+    },
+    {
+      "word": "pound",
+      "translation": "ポンド",
+      "example": "The bag weighs one pound."
+    },
+    {
+      "word": "practice",
+      "translation": "練習",
+      "example": "Practice makes it easier."
+    },
+    {
+      "word": "practise",
+      "translation": "練習する",
+      "example": "She practises the piano every evening."
+    },
+    {
+      "word": "prefer",
+      "translation": "好む",
+      "example": "I prefer tea to coffee."
+    },
+    {
+      "word": "prepare",
+      "translation": "準備する",
+      "example": "Prepare the room before noon."
+    },
+    {
+      "word": "present",
+      "translation": "プレゼント",
+      "example": "She gave him a present."
+    },
+    {
+      "word": "pretty",
+      "translation": "かわいい",
+      "example": "The garden is very pretty."
+    },
+    {
+      "word": "price",
+      "translation": "値段",
+      "example": "The price went up again."
+    },
+    {
+      "word": "probably",
+      "translation": "たぶん",
+      "example": "He will probably arrive late."
+    },
+    {
+      "word": "problem",
+      "translation": "問題",
+      "example": "We solved the problem together."
+    },
+    {
+      "word": "product",
+      "translation": "製品",
+      "example": "The product sells well."
+    },
+    {
+      "word": "programme",
+      "translation": "番組",
+      "example": "The programme lasts an hour."
+    },
+    {
+      "word": "project",
+      "translation": "プロジェクト",
+      "example": "The project runs until March."
+    },
+    {
+      "word": "purple",
+      "translation": "紫色の",
+      "example": "She painted the door purple."
+    },
+    {
+      "word": "put",
+      "translation": "置く",
+      "example": "Put the box on the shelf."
+    },
+    {
+      "word": "quarter",
+      "translation": "四分の一",
+      "example": "A quarter of the class was absent."
+    },
+    {
+      "word": "question",
+      "translation": "質問",
+      "example": "Her question surprised everyone."
+    },
+    {
+      "word": "quick",
+      "translation": "速い",
+      "example": "That was a quick answer."
+    },
+    {
+      "word": "quickly",
+      "translation": "素早く",
+      "example": "She answered quickly."
+    },
+    {
+      "word": "quiet",
+      "translation": "静かな",
+      "example": "The library is very quiet."
+    },
+    {
+      "word": "quite",
+      "translation": "かなり",
+      "example": "The room is quite small."
+    },
+    {
+      "word": "rabbit",
+      "translation": "うさぎ",
+      "example": "A small rabbit ran across the field."
+    },
+    {
+      "word": "radio",
+      "translation": "ラジオ",
+      "example": "The radio was on all night."
+    },
+    {
+      "word": "rain",
+      "translation": "雨",
+      "example": "The rain started at noon."
+    },
+    {
+      "word": "read",
+      "translation": "読む",
+      "example": "I read before bed."
+    },
+    {
+      "word": "reader",
+      "translation": "読者",
+      "example": "A reader wrote to complain."
+    },
+    {
+      "word": "reading",
+      "translation": "読書",
+      "example": "Reading helps him sleep."
+    },
+    {
+      "word": "ready",
+      "translation": "準備ができた",
+      "example": "Dinner is ready."
+    },
+    {
+      "word": "real",
+      "translation": "本物の",
+      "example": "Is that a real diamond?"
+    },
+    {
+      "word": "really",
+      "translation": "本当に",
+      "example": "It was really cold outside."
+    },
+    {
+      "word": "reason",
+      "translation": "理由",
+      "example": "There is no reason to worry."
+    },
+    {
+      "word": "red",
+      "translation": "赤い",
+      "example": "She wore a red dress."
+    },
+    {
+      "word": "relax",
+      "translation": "リラックスする",
+      "example": "Sit down and relax."
+    },
+    {
+      "word": "remember",
+      "translation": "覚えている",
+      "example": "I remember his face."
+    },
+    {
+      "word": "repeat",
+      "translation": "繰り返す",
+      "example": "Could you repeat the question?"
+    },
+    {
+      "word": "report",
+      "translation": "レポート",
+      "example": "She wrote the report alone."
+    },
+    {
+      "word": "restaurant",
+      "translation": "レストラン",
+      "example": "The restaurant closes on Mondays."
+    },
+    {
+      "word": "result",
+      "translation": "結果",
+      "example": "The result surprised everyone."
+    },
+    {
+      "word": "return",
+      "translation": "帰る",
+      "example": "They return on Sunday."
+    },
+    {
+      "word": "rice",
+      "translation": "ご飯",
+      "example": "We cook rice every day."
+    },
+    {
+      "word": "rich",
+      "translation": "金持ちの",
+      "example": "Her family is not rich."
+    },
+    {
+      "word": "ride",
+      "translation": "乗る",
+      "example": "He rides to school daily."
+    },
+    {
+      "word": "right",
+      "translation": "権利",
+      "example": "Every worker has that right."
+    },
+    {
+      "word": "river",
+      "translation": "川",
+      "example": "They swam in the river."
+    },
+    {
+      "word": "road",
+      "translation": "道路",
+      "example": "The road was closed for repairs."
+    },
+    {
+      "word": "room",
+      "translation": "部屋",
+      "example": "This room is very bright."
+    },
+    {
+      "word": "routine",
+      "translation": "日課",
+      "example": "Her morning routine is fixed."
+    },
+    {
+      "word": "rule",
+      "translation": "ルール",
+      "example": "Everyone must follow the same rule."
+    },
+    {
+      "word": "run",
+      "translation": "走る",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "sad",
+      "translation": "悲しい",
+      "example": "The ending was sad."
+    },
+    {
+      "word": "salad",
+      "translation": "サラダ",
+      "example": "He ordered a green salad."
+    },
+    {
+      "word": "salt",
+      "translation": "塩",
+      "example": "There is too much salt."
+    },
+    {
+      "word": "sandwich",
+      "translation": "サンドイッチ",
+      "example": "She made a cheese sandwich."
+    },
+    {
+      "word": "say",
+      "translation": "言う",
+      "example": "He did not say anything."
+    },
+    {
+      "word": "school",
+      "translation": "学校",
+      "example": "The school opens at eight."
+    },
+    {
+      "word": "science",
+      "translation": "科学",
+      "example": "Science was her best subject."
+    },
+    {
+      "word": "scientist",
+      "translation": "科学者",
+      "example": "A scientist explained the result."
+    },
+    {
+      "word": "sea",
+      "translation": "海",
+      "example": "The sea is calm this morning."
+    },
+    {
+      "word": "section",
+      "translation": "セクション",
+      "example": "The last section is missing."
+    },
+    {
+      "word": "see",
+      "translation": "見る",
+      "example": "I can see the sea from here."
+    },
+    {
+      "word": "sell",
+      "translation": "売る",
+      "example": "They sell bread and milk."
+    },
+    {
+      "word": "send",
+      "translation": "送る",
+      "example": "Please send the file today."
+    },
+    {
+      "word": "sentence",
+      "translation": "文",
+      "example": "Write one sentence only."
+    },
+    {
+      "word": "share",
+      "translation": "分け合う",
+      "example": "They shared the last apple."
+    },
+    {
+      "word": "sheep",
+      "translation": "羊",
+      "example": "The sheep stayed near the wall."
+    },
+    {
+      "word": "shirt",
+      "translation": "シャツ",
+      "example": "His shirt was torn."
+    },
+    {
+      "word": "shoe",
+      "translation": "靴",
+      "example": "One shoe was under the bed."
+    },
+    {
+      "word": "shop",
+      "translation": "店",
+      "example": "The shop closes at nine."
+    },
+    {
+      "word": "shopping",
+      "translation": "買い物",
+      "example": "We do the shopping on Saturdays."
+    },
+    {
+      "word": "short",
+      "translation": "短い",
+      "example": "He gave a short answer."
+    },
+    {
+      "word": "show",
+      "translation": "見せる",
+      "example": "Show me the photograph."
+    },
+    {
+      "word": "shower",
+      "translation": "シャワー",
+      "example": "He had a cold shower."
+    },
+    {
+      "word": "sick",
+      "translation": "病気の",
+      "example": "She felt sick on the boat."
+    },
+    {
+      "word": "similar",
+      "translation": "似ている",
+      "example": "Our jobs are quite similar."
+    },
+    {
+      "word": "sing",
+      "translation": "歌う",
+      "example": "They sang all the way home."
+    },
+    {
+      "word": "singer",
+      "translation": "歌手",
+      "example": "The singer forgot the words."
+    },
+    {
+      "word": "sister",
+      "translation": "姉",
+      "example": "Her sister lives abroad."
+    },
+    {
+      "word": "sit",
+      "translation": "座る",
+      "example": "Please sit here."
+    },
+    {
+      "word": "situation",
+      "translation": "状況",
+      "example": "The situation is improving."
+    },
+    {
+      "word": "skill",
+      "translation": "スキル",
+      "example": "Listening is an underrated skill."
+    },
+    {
+      "word": "skirt",
+      "translation": "スカート",
+      "example": "Her skirt was too long."
+    },
+    {
+      "word": "sleep",
+      "translation": "寝る",
+      "example": "The baby sleeps all afternoon."
+    },
+    {
+      "word": "slow",
+      "translation": "遅い",
+      "example": "The traffic was slow this morning."
+    },
+    {
+      "word": "small",
+      "translation": "小さい",
+      "example": "She has a small bag."
+    },
+    {
+      "word": "snake",
+      "translation": "蛇",
+      "example": "A snake crossed the path."
+    },
+    {
+      "word": "snow",
+      "translation": "雪",
+      "example": "The snow lasted three days."
+    },
+    {
+      "word": "sofa",
+      "translation": "ソファー",
+      "example": "The cat sleeps on the sofa."
+    },
+    {
+      "word": "somebody",
+      "translation": "誰か",
+      "example": "Somebody left the light on."
+    },
+    {
+      "word": "someone",
+      "translation": "誰か",
+      "example": "Someone left a note."
+    },
+    {
+      "word": "something",
+      "translation": "何か",
+      "example": "Something smells burnt."
+    },
+    {
+      "word": "sometimes",
+      "translation": "時々",
+      "example": "Sometimes she walks to work."
+    },
+    {
+      "word": "son",
+      "translation": "息子",
+      "example": "Their son studies abroad."
+    },
+    {
+      "word": "song",
+      "translation": "歌",
+      "example": "That song is very old."
+    },
+    {
+      "word": "soon",
+      "translation": "すぐに",
+      "example": "She will arrive soon."
+    },
+    {
+      "word": "sound",
+      "translation": "音",
+      "example": "The sound came from upstairs."
+    },
+    {
+      "word": "soup",
+      "translation": "スープ",
+      "example": "The soup was too salty."
+    },
+    {
+      "word": "south",
+      "translation": "南",
+      "example": "They drove south for hours."
+    },
+    {
+      "word": "space",
+      "translation": "スペース",
+      "example": "There is space for one more."
+    },
+    {
+      "word": "speak",
+      "translation": "話す",
+      "example": "She speaks three languages."
+    },
+    {
+      "word": "special",
+      "translation": "特別な",
+      "example": "Today is a special day."
+    },
+    {
+      "word": "spell",
+      "translation": "つづる",
+      "example": "How do you spell your name?"
+    },
+    {
+      "word": "spelling",
+      "translation": "つづり",
+      "example": "His spelling is very poor."
+    },
+    {
+      "word": "spend",
+      "translation": "使う",
+      "example": "They spend little on food."
+    },
+    {
+      "word": "sport",
+      "translation": "スポーツ",
+      "example": "Football is his favourite sport."
+    },
+    {
+      "word": "spring",
+      "translation": "春",
+      "example": "The garden is best in spring."
+    },
+    {
+      "word": "stand",
+      "translation": "立つ",
+      "example": "Please stand near the door."
+    },
+    {
+      "word": "star",
+      "translation": "星",
+      "example": "One star appeared above the hill."
+    },
+    {
+      "word": "start",
+      "translation": "始める",
+      "example": "The class starts at ten."
+    },
+    {
+      "word": "statement",
+      "translation": "声明",
+      "example": "His statement was short."
+    },
+    {
+      "word": "station",
+      "translation": "駅",
+      "example": "The station is behind the market."
+    },
+    {
+      "word": "stay",
+      "translation": "泊まる",
+      "example": "We stayed two nights."
+    },
+    {
+      "word": "stop",
+      "translation": "止まる",
+      "example": "The bus stops here."
+    },
+    {
+      "word": "story",
+      "translation": "物語",
+      "example": "He told us a funny story."
+    },
+    {
+      "word": "street",
+      "translation": "通り",
+      "example": "Their street is very narrow."
+    },
+    {
+      "word": "strong",
+      "translation": "強い",
+      "example": "The coffee here is very strong."
+    },
+    {
+      "word": "student",
+      "translation": "学生",
+      "example": "Every student needs a pen."
+    },
+    {
+      "word": "study",
+      "translation": "勉強する",
+      "example": "She studies at night."
+    },
+    {
+      "word": "style",
+      "translation": "スタイル",
+      "example": "I like her writing style."
+    },
+    {
+      "word": "subject",
+      "translation": "科目",
+      "example": "History is my best subject."
+    },
+    {
+      "word": "success",
+      "translation": "成功",
+      "example": "The evening was a success."
+    },
+    {
+      "word": "sugar",
+      "translation": "砂糖",
+      "example": "He takes no sugar."
+    },
+    {
+      "word": "summer",
+      "translation": "夏",
+      "example": "The summer was very dry."
+    },
+    {
+      "word": "sun",
+      "translation": "太陽",
+      "example": "The sun is very strong today."
+    },
+    {
+      "word": "supermarket",
+      "translation": "スーパー",
+      "example": "The supermarket opens early."
+    },
+    {
+      "word": "sure",
+      "translation": "確かな",
+      "example": "I am not sure about the time."
+    },
+    {
+      "word": "sweater",
+      "translation": "セーター",
+      "example": "He wore a thick sweater."
+    },
+    {
+      "word": "swim",
+      "translation": "泳ぐ",
+      "example": "They swim before breakfast."
+    },
+    {
+      "word": "swimming",
+      "translation": "水泳",
+      "example": "Swimming keeps her fit."
+    },
+    {
+      "word": "table",
+      "translation": "テーブル",
+      "example": "The keys are on the table."
+    },
+    {
+      "word": "take",
+      "translation": "取る",
+      "example": "Take an umbrella with you."
+    },
+    {
+      "word": "talk",
+      "translation": "話す",
+      "example": "We talked for an hour."
+    },
+    {
+      "word": "tall",
+      "translation": "背が高い",
+      "example": "He is taller than his father."
+    },
+    {
+      "word": "taxi",
+      "translation": "タクシー",
+      "example": "We took a taxi home."
+    },
+    {
+      "word": "tea",
+      "translation": "お茶",
+      "example": "She drinks tea in the evening."
+    },
+    {
+      "word": "teach",
+      "translation": "教える",
+      "example": "He teaches history at a school."
+    },
+    {
+      "word": "teacher",
+      "translation": "先生",
+      "example": "The teacher asked a question."
+    },
+    {
+      "word": "team",
+      "translation": "チーム",
+      "example": "Our team won on Sunday."
+    },
+    {
+      "word": "teenager",
+      "translation": "ティーンエイジャー",
+      "example": "The teenager missed the bus."
+    },
+    {
+      "word": "telephone",
+      "translation": "電話",
+      "example": "The telephone rang twice."
+    },
+    {
+      "word": "television",
+      "translation": "テレビ",
+      "example": "The television is too loud."
+    },
+    {
+      "word": "tell",
+      "translation": "伝える",
+      "example": "Tell me what happened."
+    },
+    {
+      "word": "tennis",
+      "translation": "テニス",
+      "example": "They play tennis on Fridays."
+    },
+    {
+      "word": "terrible",
+      "translation": "ひどい",
+      "example": "The weather was terrible."
+    },
+    {
+      "word": "test",
+      "translation": "テスト",
+      "example": "The test was easier than expected."
+    },
+    {
+      "word": "text",
+      "translation": "ショートメッセージ",
+      "example": "Send me a text when you arrive."
+    },
+    {
+      "word": "theatre",
+      "translation": "劇場",
+      "example": "The theatre is closed in August."
+    },
+    {
+      "word": "thing",
+      "translation": "もの",
+      "example": "One thing still worries me."
+    },
+    {
+      "word": "think",
+      "translation": "思う",
+      "example": "I think she is right."
+    },
+    {
+      "word": "thirsty",
+      "translation": "喉が渇いた",
+      "example": "The children were thirsty."
+    },
+    {
+      "word": "ticket",
+      "translation": "チケット",
+      "example": "I bought a ticket for the early train."
+    },
+    {
+      "word": "time",
+      "translation": "時間",
+      "example": "We had a good time."
+    },
+    {
+      "word": "tired",
+      "translation": "疲れた",
+      "example": "I felt tired after the meeting."
+    },
+    {
+      "word": "title",
+      "translation": "タイトル",
+      "example": "The title is misleading."
+    },
+    {
+      "word": "today",
+      "translation": "今日",
+      "example": "Today is my last day."
+    },
+    {
+      "word": "together",
+      "translation": "一緒に",
+      "example": "They finished the work together."
+    },
+    {
+      "word": "toilet",
+      "translation": "トイレ",
+      "example": "The toilet is at the back."
+    },
+    {
+      "word": "tomato",
+      "translation": "トマト",
+      "example": "Slice one tomato thinly."
+    },
+    {
+      "word": "tomorrow",
+      "translation": "明日",
+      "example": "We leave tomorrow morning."
+    },
+    {
+      "word": "tonight",
+      "translation": "今夜",
+      "example": "There is a concert tonight."
+    },
+    {
+      "word": "tooth",
+      "translation": "歯",
+      "example": "He lost a tooth playing rugby."
+    },
+    {
+      "word": "topic",
+      "translation": "話題",
+      "example": "The topic changed quickly."
+    },
+    {
+      "word": "tourist",
+      "translation": "観光客",
+      "example": "A tourist asked for directions."
+    },
+    {
+      "word": "town",
+      "translation": "町",
+      "example": "The town has one bank."
+    },
+    {
+      "word": "traffic",
+      "translation": "交通",
+      "example": "The traffic was terrible."
+    },
+    {
+      "word": "train",
+      "translation": "電車",
+      "example": "The train leaves at six."
+    },
+    {
+      "word": "travel",
+      "translation": "旅行する",
+      "example": "They travel every summer."
+    },
+    {
+      "word": "tree",
+      "translation": "木",
+      "example": "A big tree stands by the gate."
+    },
+    {
+      "word": "trip",
+      "translation": "旅行",
+      "example": "The trip took two days."
+    },
+    {
+      "word": "trousers",
+      "translation": "ズボン",
+      "example": "His trousers were too long."
+    },
+    {
+      "word": "true",
+      "translation": "本当の",
+      "example": "That story is true."
+    },
+    {
+      "word": "try",
+      "translation": "試す",
+      "example": "Try the other door."
+    },
+    {
+      "word": "T-shirt",
+      "translation": "Tシャツ",
+      "example": "He wore a plain T-shirt."
+    },
+    {
+      "word": "turn",
+      "translation": "曲がる",
+      "example": "Turn left at the church."
+    },
+    {
+      "word": "TV",
+      "translation": "テレビ",
+      "example": "The TV was on all evening."
+    },
+    {
+      "word": "type",
+      "translation": "種類",
+      "example": "What type of bread is it?"
+    },
+    {
+      "word": "umbrella",
+      "translation": "傘",
+      "example": "Take an umbrella, it may rain."
+    },
+    {
+      "word": "uncle",
+      "translation": "おじ",
+      "example": "My uncle lives in Spain."
+    },
+    {
+      "word": "understand",
+      "translation": "分かる",
+      "example": "I do not understand this word."
+    },
+    {
+      "word": "university",
+      "translation": "大学",
+      "example": "She starts university in October."
+    },
+    {
+      "word": "upstairs",
+      "translation": "上の階",
+      "example": "The bathroom is upstairs."
+    },
+    {
+      "word": "use",
+      "translation": "使う",
+      "example": "Use a sharp knife."
+    },
+    {
+      "word": "useful",
+      "translation": "役に立つ",
+      "example": "That was a useful suggestion."
+    },
+    {
+      "word": "vacation",
+      "translation": "休暇",
+      "example": "They took a long vacation."
+    },
+    {
+      "word": "vegetable",
+      "translation": "野菜",
+      "example": "Eat one green vegetable daily."
+    },
+    {
+      "word": "video",
+      "translation": "ビデオ",
+      "example": "The video would not load."
+    },
+    {
+      "word": "village",
+      "translation": "村",
+      "example": "She grew up in a small village."
+    },
+    {
+      "word": "visit",
+      "translation": "訪れる",
+      "example": "They visit every August."
+    },
+    {
+      "word": "visitor",
+      "translation": "訪問者",
+      "example": "One visitor stayed behind."
+    },
+    {
+      "word": "wait",
+      "translation": "待つ",
+      "example": "We waited for an hour."
+    },
+    {
+      "word": "waiter",
+      "translation": "ウェイター",
+      "example": "The waiter forgot the drinks."
+    },
+    {
+      "word": "wake",
+      "translation": "起こす",
+      "example": "Wake me at seven."
+    },
+    {
+      "word": "walk",
+      "translation": "歩く",
+      "example": "They walk to work every day."
+    },
+    {
+      "word": "wall",
+      "translation": "壁",
+      "example": "The wall needs painting."
+    },
+    {
+      "word": "want",
+      "translation": "欲しい",
+      "example": "I want a quiet evening."
+    },
+    {
+      "word": "warm",
+      "translation": "暖かい",
+      "example": "The room is warm enough."
+    },
+    {
+      "word": "wash",
+      "translation": "洗う",
+      "example": "Wash your hands first."
+    },
+    {
+      "word": "watch",
+      "translation": "見る",
+      "example": "We watched the sun set."
+    },
+    {
+      "word": "water",
+      "translation": "水",
+      "example": "I drink water after running."
+    },
+    {
+      "word": "way",
+      "translation": "道",
+      "example": "This is the quickest way."
+    },
+    {
+      "word": "wear",
+      "translation": "着る",
+      "example": "She wears glasses to read."
+    },
+    {
+      "word": "weather",
+      "translation": "天気",
+      "example": "The weather changed suddenly."
+    },
+    {
+      "word": "website",
+      "translation": "ウェブサイト",
+      "example": "The website is very slow."
+    },
+    {
+      "word": "week",
+      "translation": "週",
+      "example": "She will be away next week."
+    },
+    {
+      "word": "weekend",
+      "translation": "週末",
+      "example": "We stayed home all weekend."
+    },
+    {
+      "word": "welcome",
+      "translation": "歓迎する",
+      "example": "They made us very welcome."
+    },
+    {
+      "word": "west",
+      "translation": "西",
+      "example": "The sun sets in the west."
+    },
+    {
+      "word": "white",
+      "translation": "白い",
+      "example": "The walls are white."
+    },
+    {
+      "word": "wife",
+      "translation": "妻",
+      "example": "His wife teaches music."
+    },
+    {
+      "word": "win",
+      "translation": "勝つ",
+      "example": "They won by one goal."
+    },
+    {
+      "word": "wind",
+      "translation": "風",
+      "example": "A cold wind came from the sea."
+    },
+    {
+      "word": "window",
+      "translation": "窓",
+      "example": "Open the window for some air."
+    },
+    {
+      "word": "wine",
+      "translation": "ワイン",
+      "example": "The wine was too warm."
+    },
+    {
+      "word": "winter",
+      "translation": "冬",
+      "example": "The winter was very long."
+    },
+    {
+      "word": "woman",
+      "translation": "女の人",
+      "example": "The woman next to me is a nurse."
+    },
+    {
+      "word": "wonderful",
+      "translation": "素晴らしい",
+      "example": "It was a wonderful evening."
+    },
+    {
+      "word": "word",
+      "translation": "言葉",
+      "example": "I did not understand that word."
+    },
+    {
+      "word": "work",
+      "translation": "働く",
+      "example": "She works in a hospital."
+    },
+    {
+      "word": "worker",
+      "translation": "労働者",
+      "example": "Every worker got a bonus."
+    },
+    {
+      "word": "world",
+      "translation": "世界",
+      "example": "The world has changed."
+    },
+    {
+      "word": "write",
+      "translation": "書く",
+      "example": "Please write your answer here."
+    },
+    {
+      "word": "writer",
+      "translation": "作家",
+      "example": "The writer lives nearby."
+    },
+    {
+      "word": "writing",
+      "translation": "文章",
+      "example": "His writing is hard to read."
+    },
+    {
+      "word": "wrong",
+      "translation": "間違っている",
+      "example": "You have the wrong number."
+    },
+    {
+      "word": "year",
+      "translation": "年",
+      "example": "They moved here last year."
+    },
+    {
+      "word": "yellow",
+      "translation": "黄色の",
+      "example": "The walls were pale yellow."
+    },
+    {
+      "word": "yesterday",
+      "translation": "昨日",
+      "example": "It rained all day yesterday."
+    },
+    {
+      "word": "young",
+      "translation": "若い",
+      "example": "She is too young to drive."
+    }
+  ]
+}
