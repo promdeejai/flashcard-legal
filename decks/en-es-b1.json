@@ -4,158 +4,8 @@
   "learn": "en",
   "native": "es",
   "level": "B1",
-  "version": 2,
+  "version": 3,
   "items": [
-    {
-      "word": "admit",
-      "translation": "admitir",
-      "example": "He admitted he was wrong."
-    },
-    {
-      "word": "attitude",
-      "translation": "la actitud",
-      "example": "His attitude changed after the meeting."
-    },
-    {
-      "word": "calm",
-      "translation": "tranquilo",
-      "example": "She stayed calm throughout."
-    },
-    {
-      "word": "confident",
-      "translation": "seguro",
-      "example": "She sounded confident in the interview."
-    },
-    {
-      "word": "confuse",
-      "translation": "confundir",
-      "example": "The two names confuse me."
-    },
-    {
-      "word": "consequence",
-      "translation": "la consecuencia",
-      "example": "He accepted the consequences of his choice."
-    },
-    {
-      "word": "curious",
-      "translation": "curioso",
-      "example": "She was curious about the result."
-    },
-    {
-      "word": "deadline",
-      "translation": "la fecha límite",
-      "example": "We missed the deadline by a day."
-    },
-    {
-      "word": "disadvantage",
-      "translation": "la desventaja",
-      "example": "The cost is a real disadvantage."
-    },
-    {
-      "word": "disappointed",
-      "translation": "decepcionado",
-      "example": "They were disappointed by the result."
-    },
-    {
-      "word": "effort",
-      "translation": "el esfuerzo",
-      "example": "It took real effort to finish."
-    },
-    {
-      "word": "embarrassed",
-      "translation": "avergonzado",
-      "example": "He looked embarrassed by the question."
-    },
-    {
-      "word": "encourage",
-      "translation": "animar",
-      "example": "Her teacher encouraged her to apply."
-    },
-    {
-      "word": "essential",
-      "translation": "esencial",
-      "example": "Sleep is essential for recovery."
-    },
-    {
-      "word": "generous",
-      "translation": "generoso",
-      "example": "He was generous with his time."
-    },
-    {
-      "word": "grateful",
-      "translation": "agradecido",
-      "example": "We are grateful for your help."
-    },
-    {
-      "word": "honest",
-      "translation": "honesto",
-      "example": "I want an honest answer."
-    },
-    {
-      "word": "influence",
-      "translation": "la influencia",
-      "example": "Her influence on the team was obvious."
-    },
-    {
-      "word": "obvious",
-      "translation": "obvio",
-      "example": "The mistake was obvious."
-    },
-    {
-      "word": "proud",
-      "translation": "orgulloso",
-      "example": "They were proud of the result."
-    },
-    {
-      "word": "rare",
-      "translation": "raro",
-      "example": "Snow is rare in this region."
-    },
-    {
-      "word": "realise",
-      "translation": "darse cuenta",
-      "example": "I did not realise how late it was."
-    },
-    {
-      "word": "refuse",
-      "translation": "rechazar",
-      "example": "She refused to sign."
-    },
-    {
-      "word": "reliable",
-      "translation": "fiable",
-      "example": "She is the most reliable person here."
-    },
-    {
-      "word": "require",
-      "translation": "requerir",
-      "example": "The job requires a driving licence."
-    },
-    {
-      "word": "responsible",
-      "translation": "responsable",
-      "example": "She is responsible for the whole team."
-    },
-    {
-      "word": "risk",
-      "translation": "el riesgo",
-      "example": "There is a risk of delay."
-    },
-    {
-      "word": "safety",
-      "translation": "la seguridad",
-      "example": "Safety comes before speed."
-    },
-    {
-      "word": "selfish",
-      "translation": "egoísta",
-      "example": "That was a selfish decision."
-    },
-    {
-      "word": "supply",
-      "translation": "el suministro",
-      "example": "The supply ran out by noon."
-    },
     {
       "word": "absolutely",
       "translation": "absolutamente",
@@ -187,6 +37,11 @@
       "example": "Finishing was an achievement in itself."
     },
     {
+      "word": "ad",
+      "translation": "el anuncio breve",
+      "example": "The ad ran for two weeks."
+    },
+    {
       "word": "addition",
       "translation": "la adición",
       "example": "The addition of a lift helped."
@@ -195,6 +50,11 @@
       "word": "admire",
       "translation": "admirar",
       "example": "I admire her patience."
+    },
+    {
+      "word": "admit",
+      "translation": "admitir",
+      "example": "He admitted he was wrong."
     },
     {
       "word": "advanced",
@@ -210,6 +70,11 @@
       "word": "afford",
       "translation": "permitirse",
       "example": "We cannot afford a second car."
+    },
+    {
+      "word": "aged",
+      "translation": "de edad",
+      "example": "He retired aged sixty."
     },
     {
       "word": "agent",
@@ -245,6 +110,11 @@
       "word": "alcohol",
       "translation": "el alcohol",
       "example": "He gave up alcohol in March."
+    },
+    {
+      "word": "alcoholic",
+      "translation": "alcohólico",
+      "example": "They serve no alcoholic drinks."
     },
     {
       "word": "amazed",
@@ -357,6 +227,11 @@
       "example": "Attach the file to your email."
     },
     {
+      "word": "attitude",
+      "translation": "la actitud",
+      "example": "His attitude changed after the meeting."
+    },
+    {
       "word": "attract",
       "translation": "atraer",
       "example": "The market attracts tourists."
@@ -462,6 +337,11 @@
       "example": "The bomb was never found."
     },
     {
+      "word": "booking",
+      "translation": "la reserva",
+      "example": "Our booking is for eight o'clock."
+    },
+    {
       "word": "border",
       "translation": "la frontera",
       "example": "They crossed the border at dawn."
@@ -497,6 +377,11 @@
       "example": "It was hard to breathe inside."
     },
     {
+      "word": "breathing",
+      "translation": "la respiración pausada",
+      "example": "Her breathing slowed at last."
+    },
+    {
       "word": "bride",
       "translation": "la novia",
       "example": "The bride arrived late."
@@ -507,14 +392,29 @@
       "example": "A bubble rose to the surface."
     },
     {
+      "word": "burst",
+      "translation": "reventar",
+      "example": "The bag burst and the fruit rolled away."
+    },
+    {
       "word": "bury",
       "translation": "enterrar",
       "example": "They buried the box in the garden."
     },
     {
+      "word": "calm",
+      "translation": "tranquilo",
+      "example": "She stayed calm throughout."
+    },
+    {
       "word": "campaign",
       "translation": "la campaña",
       "example": "The campaign ran for six weeks."
+    },
+    {
+      "word": "campus",
+      "translation": "el campus",
+      "example": "The campus is closed in August."
     },
     {
       "word": "candidate",
@@ -622,6 +522,11 @@
       "example": "He claims he never saw it."
     },
     {
+      "word": "clause",
+      "translation": "la cláusula",
+      "example": "The second clause is unclear."
+    },
+    {
       "word": "click",
       "translation": "hacer clic",
       "example": "Click the button twice."
@@ -657,6 +562,11 @@
       "example": "His collection fills two rooms."
     },
     {
+      "word": "coloured",
+      "translation": "de colores",
+      "example": "She used coloured pencils."
+    },
+    {
       "word": "combine",
       "translation": "combinar",
       "example": "They combined the two reports."
@@ -682,14 +592,14 @@
       "example": "The comparison is not fair."
     },
     {
-      "word": "competitor",
-      "translation": "el competidor",
-      "example": "Their main competitor cut prices."
-    },
-    {
       "word": "competitive",
       "translation": "competitivo",
       "example": "The market is very competitive."
+    },
+    {
+      "word": "competitor",
+      "translation": "el competidor",
+      "example": "Their main competitor cut prices."
     },
     {
       "word": "complaint",
@@ -717,9 +627,19 @@
       "example": "His conclusion was premature."
     },
     {
+      "word": "confident",
+      "translation": "seguro",
+      "example": "She sounded confident in the interview."
+    },
+    {
       "word": "confirm",
       "translation": "confirmar",
       "example": "Please confirm the booking."
+    },
+    {
+      "word": "confuse",
+      "translation": "confundir",
+      "example": "The two names confuse me."
     },
     {
       "word": "confused",
@@ -730,6 +650,11 @@
       "word": "connection",
       "translation": "la conexión",
       "example": "There is no connection between them."
+    },
+    {
+      "word": "consequence",
+      "translation": "la consecuencia",
+      "example": "He accepted the consequences of his choice."
     },
     {
       "word": "consist",
@@ -757,6 +682,11 @@
       "example": "The container was already full."
     },
     {
+      "word": "content",
+      "translation": "contento",
+      "example": "She looked content with the result."
+    },
+    {
       "word": "continuous",
       "translation": "continuo",
       "example": "There was a continuous low hum."
@@ -775,6 +705,11 @@
       "word": "convince",
       "translation": "convencer",
       "example": "She convinced him to stay."
+    },
+    {
+      "word": "copper",
+      "translation": "el cobre",
+      "example": "The old roof turned green because it is copper."
     },
     {
       "word": "costume",
@@ -802,6 +737,11 @@
       "example": "The court ruled against him."
     },
     {
+      "word": "covered",
+      "translation": "cubierto",
+      "example": "The table was covered in dust."
+    },
+    {
       "word": "cruel",
       "translation": "cruel",
       "example": "That was a cruel thing to say."
@@ -810,6 +750,11 @@
       "word": "cultural",
       "translation": "cultural",
       "example": "The festival has cultural roots."
+    },
+    {
+      "word": "curious",
+      "translation": "curioso",
+      "example": "She was curious about the result."
     },
     {
       "word": "currency",
@@ -842,6 +787,11 @@
       "example": "The storm damaged two roofs."
     },
     {
+      "word": "deadline",
+      "translation": "la fecha límite",
+      "example": "We missed the deadline by a day."
+    },
+    {
       "word": "decade",
       "translation": "la década",
       "example": "The bridge took a decade to build."
@@ -850,6 +800,11 @@
       "word": "decorate",
       "translation": "decorar",
       "example": "They decorated the hall in blue."
+    },
+    {
+      "word": "deer",
+      "translation": "el ciervo",
+      "example": "A deer crossed the road at dusk."
     },
     {
       "word": "define",
@@ -875,6 +830,11 @@
       "word": "departure",
       "translation": "la salida",
       "example": "Departure is at six sharp."
+    },
+    {
+      "word": "desktop",
+      "translation": "el escritorio",
+      "example": "The file is still on my desktop."
     },
     {
       "word": "despite",
@@ -927,6 +887,16 @@
       "example": "There was dirt on the window."
     },
     {
+      "word": "disadvantage",
+      "translation": "la desventaja",
+      "example": "The cost is a real disadvantage."
+    },
+    {
+      "word": "disappointed",
+      "translation": "decepcionado",
+      "example": "They were disappointed by the result."
+    },
+    {
       "word": "disappointing",
       "translation": "decepcionante",
       "example": "The result was disappointing."
@@ -962,9 +932,19 @@
       "example": "I doubt he will come."
     },
     {
+      "word": "dressed",
+      "translation": "vestido",
+      "example": "He was already dressed."
+    },
+    {
       "word": "drum",
       "translation": "el tambor",
       "example": "He plays the drum badly."
+    },
+    {
+      "word": "drunk",
+      "translation": "borracho",
+      "example": "He was clearly drunk."
     },
     {
       "word": "due",
@@ -1037,6 +1017,11 @@
       "example": "The rule effectively bans them."
     },
     {
+      "word": "effort",
+      "translation": "el esfuerzo",
+      "example": "It took real effort to finish."
+    },
+    {
       "word": "election",
       "translation": "la elección",
       "example": "The election is in November."
@@ -1045,6 +1030,11 @@
       "word": "element",
       "translation": "el elemento",
       "example": "Trust is the key element."
+    },
+    {
+      "word": "embarrassed",
+      "translation": "avergonzado",
+      "example": "He looked embarrassed by the question."
     },
     {
       "word": "embarrassing",
@@ -1065,6 +1055,11 @@
       "word": "employment",
       "translation": "el empleo",
       "example": "Employment rose last quarter."
+    },
+    {
+      "word": "encourage",
+      "translation": "animar",
+      "example": "Her teacher encouraged her to apply."
     },
     {
       "word": "enemy",
@@ -1107,56 +1102,6 @@
       "example": "The environmental cost is high."
     },
     {
-      "word": "ad",
-      "translation": "el anuncio breve",
-      "example": "The ad ran for two weeks."
-    },
-    {
-      "word": "aged",
-      "translation": "de edad",
-      "example": "He retired aged sixty."
-    },
-    {
-      "word": "alcoholic",
-      "translation": "alcohólico",
-      "example": "They serve no alcoholic drinks."
-    },
-    {
-      "word": "breathing",
-      "translation": "la respiración pausada",
-      "example": "Her breathing slowed at last."
-    },
-    {
-      "word": "campus",
-      "translation": "el campus",
-      "example": "The campus is closed in August."
-    },
-    {
-      "word": "clause",
-      "translation": "la cláusula",
-      "example": "The second clause is unclear."
-    },
-    {
-      "word": "coloured",
-      "translation": "de colores",
-      "example": "She used coloured pencils."
-    },
-    {
-      "word": "covered",
-      "translation": "cubierto",
-      "example": "The table was covered in dust."
-    },
-    {
-      "word": "dressed",
-      "translation": "vestido",
-      "example": "He was already dressed."
-    },
-    {
-      "word": "drunk",
-      "translation": "borracho",
-      "example": "He was clearly drunk."
-    },
-    {
       "word": "episode",
       "translation": "el episodio",
       "example": "The last episode was the best."
@@ -1175,6 +1120,11 @@
       "word": "escape",
       "translation": "escapar",
       "example": "The bird escaped through the window."
+    },
+    {
+      "word": "essential",
+      "translation": "esencial",
+      "example": "Sleep is essential for recovery."
     },
     {
       "word": "eventually",
@@ -1327,6 +1277,11 @@
       "example": "The water flows south."
     },
     {
+      "word": "fog",
+      "translation": "la niebla",
+      "example": "Thick fog closed the airport."
+    },
+    {
       "word": "fold",
       "translation": "doblar en pliegues",
       "example": "Fold the paper twice."
@@ -1427,6 +1382,11 @@
       "example": "Her generation grew up poor."
     },
     {
+      "word": "generous",
+      "translation": "generoso",
+      "example": "He was generous with his time."
+    },
+    {
       "word": "gentle",
       "translation": "suave de trato",
       "example": "He has a gentle voice."
@@ -1445,6 +1405,11 @@
       "word": "giant",
       "translation": "gigante",
       "example": "A giant tree fell in the storm."
+    },
+    {
+      "word": "gig",
+      "translation": "el concierto",
+      "example": "The band played a small gig on Friday."
     },
     {
       "word": "glad",
@@ -1480,6 +1445,11 @@
       "word": "grain",
       "translation": "el grano",
       "example": "The grain was stored dry."
+    },
+    {
+      "word": "grateful",
+      "translation": "agradecido",
+      "example": "We are grateful for your help."
     },
     {
       "word": "growth",
@@ -1542,6 +1512,11 @@
       "example": "She is highly respected."
     },
     {
+      "word": "hint",
+      "translation": "la pista",
+      "example": "Give me a hint if I get stuck."
+    },
+    {
       "word": "hire",
       "translation": "contratar",
       "example": "They hired two more staff."
@@ -1555,6 +1530,16 @@
       "word": "historical",
       "translation": "histórico de época",
       "example": "The novel is historical."
+    },
+    {
+      "word": "honest",
+      "translation": "honesto",
+      "example": "I want an honest answer."
+    },
+    {
+      "word": "honey",
+      "translation": "la miel",
+      "example": "She puts honey in her tea."
     },
     {
       "word": "horrible",
@@ -1590,6 +1575,11 @@
       "word": "identity",
       "translation": "la identidad",
       "example": "His identity was never confirmed."
+    },
+    {
+      "word": "ignorant",
+      "translation": "ignorante",
+      "example": "I was ignorant of the rules until today."
     },
     {
       "word": "ignore",
@@ -1662,6 +1652,11 @@
       "example": "The sign indicates a bend."
     },
     {
+      "word": "indirect",
+      "translation": "indirecto",
+      "example": "He gave an indirect answer."
+    },
+    {
       "word": "indoor",
       "translation": "de interior",
       "example": "They booked an indoor court."
@@ -1670,6 +1665,16 @@
       "word": "indoors",
       "translation": "dentro de casa",
       "example": "We stayed indoors all day."
+    },
+    {
+      "word": "infant",
+      "translation": "el bebé",
+      "example": "The infant slept through the flight."
+    },
+    {
+      "word": "influence",
+      "translation": "la influencia",
+      "example": "Her influence on the team was obvious."
     },
     {
       "word": "ingredient",
@@ -1755,6 +1760,16 @@
       "word": "kick",
       "translation": "patear",
       "example": "He kicked the ball too hard."
+    },
+    {
+      "word": "killing",
+      "translation": "la matanza",
+      "example": "The killing shocked the town."
+    },
+    {
+      "word": "kingdom",
+      "translation": "el reino",
+      "example": "The story is set in an old kingdom."
     },
     {
       "word": "kiss",
@@ -1862,6 +1877,11 @@
       "example": "The location suits us well."
     },
     {
+      "word": "log",
+      "translation": "el registro",
+      "example": "He wrote every call in a log."
+    },
+    {
       "word": "lonely",
       "translation": "solitario",
       "example": "The house felt lonely."
@@ -1942,6 +1962,11 @@
       "example": "The winter was unusually mild."
     },
     {
+      "word": "mill",
+      "translation": "el molino",
+      "example": "The old mill by the river is now a museum."
+    },
+    {
       "word": "mix",
       "translation": "mezclar",
       "example": "Mix the two colours."
@@ -1982,6 +2007,11 @@
       "example": "He hammered the nail flat."
     },
     {
+      "word": "narrative",
+      "translation": "la narrativa",
+      "example": "The narrative jumps around."
+    },
+    {
       "word": "nation",
       "translation": "la nación",
       "example": "The whole nation watched."
@@ -1995,6 +2025,11 @@
       "word": "naturally",
       "translation": "naturalmente",
       "example": "She sings naturally well."
+    },
+    {
+      "word": "necessarily",
+      "translation": "necesariamente",
+      "example": "That is not necessarily true."
     },
     {
       "word": "needle",
@@ -2022,6 +2057,11 @@
       "example": "The nuclear plant closed."
     },
     {
+      "word": "obvious",
+      "translation": "obvio",
+      "example": "The mistake was obvious."
+    },
+    {
       "word": "obviously",
       "translation": "obviamente",
       "example": "He was obviously tired."
@@ -2037,26 +2077,6 @@
       "example": "The fault occurs rarely."
     },
     {
-      "word": "indirect",
-      "translation": "indirecto",
-      "example": "He gave an indirect answer."
-    },
-    {
-      "word": "killing",
-      "translation": "la matanza",
-      "example": "The killing shocked the town."
-    },
-    {
-      "word": "narrative",
-      "translation": "la narrativa",
-      "example": "The narrative jumps around."
-    },
-    {
-      "word": "necessarily",
-      "translation": "necesariamente",
-      "example": "That is not necessarily true."
-    },
-    {
       "word": "odd",
       "translation": "extraño",
       "example": "There is something odd about it."
@@ -2065,6 +2085,11 @@
       "word": "official",
       "translation": "oficial",
       "example": "The official result came later."
+    },
+    {
+      "word": "old-fashioned",
+      "translation": "anticuado",
+      "example": "The kitchen is rather old-fashioned."
     },
     {
       "word": "operation",
@@ -2087,6 +2112,11 @@
       "example": "It was originally a barn."
     },
     {
+      "word": "ought to",
+      "translation": "deber",
+      "example": "You ought to tell her the truth."
+    },
+    {
       "word": "outdoor",
       "translation": "al aire libre",
       "example": "They booked an outdoor table."
@@ -2100,6 +2130,11 @@
       "word": "package",
       "translation": "el paquete",
       "example": "The package arrived open."
+    },
+    {
+      "word": "pad",
+      "translation": "el bloc",
+      "example": "She wrote the number on a pad."
     },
     {
       "word": "painful",
@@ -2172,6 +2207,11 @@
       "example": "She persuaded him to stay."
     },
     {
+      "word": "pessimistic",
+      "translation": "pesimista",
+      "example": "He is pessimistic about the result."
+    },
+    {
       "word": "photographer",
       "translation": "el fotógrafo",
       "example": "The photographer arrived early."
@@ -2215,6 +2255,11 @@
       "word": "plot",
       "translation": "la trama",
       "example": "The plot was hard to follow."
+    },
+    {
+      "word": "plus",
+      "translation": "más",
+      "example": "Two plus two makes four."
     },
     {
       "word": "poem",
@@ -2312,6 +2357,11 @@
       "example": "They prayed for rain."
     },
     {
+      "word": "prayer",
+      "translation": "la oración religiosa",
+      "example": "She said a short prayer."
+    },
+    {
       "word": "prediction",
       "translation": "la predicción",
       "example": "His prediction proved wrong."
@@ -2372,6 +2422,11 @@
       "example": "The princess visited the school."
     },
     {
+      "word": "printing",
+      "translation": "la impresión",
+      "example": "The printing was smudged."
+    },
+    {
       "word": "prisoner",
       "translation": "el prisionero",
       "example": "The prisoner was released early."
@@ -2427,9 +2482,24 @@
       "example": "They protested outside the office."
     },
     {
+      "word": "proud",
+      "translation": "orgulloso",
+      "example": "They were proud of the result."
+    },
+    {
       "word": "prove",
       "translation": "probar demostrar",
       "example": "He could not prove it."
+    },
+    {
+      "word": "pump",
+      "translation": "la bomba",
+      "example": "Use the pump to fill the tyre."
+    },
+    {
+      "word": "punch",
+      "translation": "el puñetazo",
+      "example": "He gave the bag a hard punch."
     },
     {
       "word": "punish",
@@ -2487,6 +2557,11 @@
       "example": "The range of colours is small."
     },
     {
+      "word": "rare",
+      "translation": "raro",
+      "example": "Snow is rare in this region."
+    },
+    {
       "word": "rarely",
       "translation": "rara vez",
       "example": "He rarely complains."
@@ -2495,6 +2570,11 @@
       "word": "reaction",
       "translation": "la reacción",
       "example": "Her reaction surprised me."
+    },
+    {
+      "word": "realise",
+      "translation": "darse cuenta",
+      "example": "I did not realise how late it was."
     },
     {
       "word": "reality",
@@ -2520,6 +2600,11 @@
       "word": "reflect",
       "translation": "reflejar",
       "example": "The result reflects real effort."
+    },
+    {
+      "word": "refuse",
+      "translation": "rechazar",
+      "example": "She refused to sign."
     },
     {
       "word": "regularly",
@@ -2567,6 +2652,11 @@
       "example": "They released the film in June."
     },
     {
+      "word": "reliable",
+      "translation": "fiable",
+      "example": "She is the most reliable person here."
+    },
+    {
       "word": "religion",
       "translation": "la religión",
       "example": "Religion plays a small part here."
@@ -2607,6 +2697,11 @@
       "example": "She represents the whole region."
     },
     {
+      "word": "require",
+      "translation": "requerir",
+      "example": "The job requires a driving licence."
+    },
+    {
       "word": "reservation",
       "translation": "la reserva",
       "example": "I made a reservation for two."
@@ -2627,6 +2722,11 @@
       "example": "It is your responsibility now."
     },
     {
+      "word": "responsible",
+      "translation": "responsable",
+      "example": "She is responsible for the whole team."
+    },
+    {
       "word": "retire",
       "translation": "jubilarse",
       "example": "He retired at sixty."
@@ -2640,6 +2740,16 @@
       "word": "revise",
       "translation": "repasar",
       "example": "Revise the chapter tonight."
+    },
+    {
+      "word": "rifle",
+      "translation": "el rifle",
+      "example": "The rifle hung above the fireplace."
+    },
+    {
+      "word": "risk",
+      "translation": "el riesgo",
+      "example": "There is a risk of delay."
     },
     {
       "word": "robot",
@@ -2667,9 +2777,24 @@
       "example": "The sea was rough that day."
     },
     {
+      "word": "row",
+      "translation": "la fila",
+      "example": "We sat in the front row."
+    },
+    {
       "word": "royal",
       "translation": "real de realeza",
       "example": "The royal visit lasted a day."
+    },
+    {
+      "word": "rugby",
+      "translation": "el rugby",
+      "example": "He played rugby at school."
+    },
+    {
+      "word": "safety",
+      "translation": "la seguridad",
+      "example": "Safety comes before speed."
     },
     {
       "word": "sailor",
@@ -2722,6 +2847,11 @@
       "example": "The seed took a month to grow."
     },
     {
+      "word": "selfish",
+      "translation": "egoísta",
+      "example": "That was a selfish decision."
+    },
+    {
       "word": "sensible",
       "translation": "sensato",
       "example": "That was a sensible choice."
@@ -2745,6 +2875,16 @@
       "word": "setting",
       "translation": "el escenario",
       "example": "The setting of the story is rural."
+    },
+    {
+      "word": "sex",
+      "translation": "el sexo",
+      "example": "The form asks for age and sex."
+    },
+    {
+      "word": "sexual",
+      "translation": "sexual",
+      "example": "The book covers sexual health."
     },
     {
       "word": "sharp",
@@ -2807,6 +2947,11 @@
       "example": "That was a silly mistake."
     },
     {
+      "word": "similarity",
+      "translation": "la similitud",
+      "example": "The similarity is striking."
+    },
+    {
       "word": "similarly",
       "translation": "de manera similar",
       "example": "Similarly, the second test failed."
@@ -2820,6 +2965,26 @@
       "word": "sink",
       "translation": "hundirse",
       "example": "The boat began to sink."
+    },
+    {
+      "word": "skip",
+      "translation": "saltarse",
+      "example": "Let us skip the first question."
+    },
+    {
+      "word": "slam",
+      "translation": "dar un portazo",
+      "example": "Do not slam the door."
+    },
+    {
+      "word": "slap",
+      "translation": "la bofetada",
+      "example": "She gave the table an angry slap."
+    },
+    {
+      "word": "slice",
+      "translation": "la rebanada",
+      "example": "Cut one slice of bread."
     },
     {
       "word": "slightly",
@@ -2857,6 +3022,11 @@
       "example": "The southern coast is warmer."
     },
     {
+      "word": "spam",
+      "translation": "el correo basura",
+      "example": "My inbox is full of spam."
+    },
+    {
       "word": "specifically",
       "translation": "específicamente",
       "example": "He asked specifically for you."
@@ -2892,6 +3062,11 @@
       "example": "The news spread quickly."
     },
     {
+      "word": "spy",
+      "translation": "el espía",
+      "example": "The film is about a spy in Berlin."
+    },
+    {
       "word": "stadium",
       "translation": "el estadio",
       "example": "The stadium was half empty."
@@ -2905,6 +3080,11 @@
       "word": "standard",
       "translation": "el estándar",
       "example": "The standard is very high."
+    },
+    {
+      "word": "statistic",
+      "translation": "la estadística",
+      "example": "That statistic is out of date."
     },
     {
       "word": "statue",
@@ -2940,36 +3120,6 @@
       "word": "studio",
       "translation": "el estudio",
       "example": "The studio is above the shop."
-    },
-    {
-      "word": "prayer",
-      "translation": "la oración religiosa",
-      "example": "She said a short prayer."
-    },
-    {
-      "word": "printing",
-      "translation": "la impresión",
-      "example": "The printing was smudged."
-    },
-    {
-      "word": "rugby",
-      "translation": "el rugby",
-      "example": "He played rugby at school."
-    },
-    {
-      "word": "similarity",
-      "translation": "la similitud",
-      "example": "The similarity is striking."
-    },
-    {
-      "word": "slice",
-      "translation": "la rebanada",
-      "example": "Cut one slice of bread."
-    },
-    {
-      "word": "statistic",
-      "translation": "la estadística",
-      "example": "That statistic is out of date."
     },
     {
       "word": "stuff",
@@ -3012,6 +3162,11 @@
       "example": "The summary was too short."
     },
     {
+      "word": "supply",
+      "translation": "el suministro",
+      "example": "The supply ran out by noon."
+    },
+    {
       "word": "supporter",
       "translation": "el partidario seguidor",
       "example": "One supporter shouted back."
@@ -3035,6 +3190,11 @@
       "word": "switch",
       "translation": "apagar cambiar",
       "example": "Switch the light off."
+    },
+    {
+      "word": "sword",
+      "translation": "la espada",
+      "example": "The sword hung on the wall."
     },
     {
       "word": "symptom",
@@ -3122,6 +3282,16 @@
       "example": "The lid is too tight."
     },
     {
+      "word": "till",
+      "translation": "hasta que",
+      "example": "Wait till the rain stops."
+    },
+    {
+      "word": "tin",
+      "translation": "la lata",
+      "example": "She opened a tin of beans."
+    },
+    {
       "word": "tiny",
       "translation": "diminuto",
       "example": "A tiny crack ran across it."
@@ -3150,6 +3320,11 @@
       "word": "trade",
       "translation": "el comercio",
       "example": "The trade in salt was ancient."
+    },
+    {
+      "word": "trailer",
+      "translation": "el tráiler",
+      "example": "The trailer was better than the film."
     },
     {
       "word": "translate",
@@ -3192,6 +3367,11 @@
       "example": "The tube was empty."
     },
     {
+      "word": "turtle",
+      "translation": "la tortuga",
+      "example": "A turtle crossed the sand slowly."
+    },
+    {
       "word": "typically",
       "translation": "típicamente",
       "example": "He typically arrives late."
@@ -3215,6 +3395,11 @@
       "word": "uncomfortable",
       "translation": "incómodo",
       "example": "The chair is uncomfortable."
+    },
+    {
+      "word": "underwear",
+      "translation": "la ropa interior",
+      "example": "He packed socks and underwear."
     },
     {
       "word": "unemployed",
@@ -3267,9 +3452,19 @@
       "example": "The update fixed the fault."
     },
     {
+      "word": "upon",
+      "translation": "sobre",
+      "example": "The decision rests upon one fact."
+    },
+    {
       "word": "upset",
       "translation": "disgustado",
       "example": "She was upset by the news."
+    },
+    {
+      "word": "used",
+      "translation": "usado",
+      "example": "They bought a used car."
     },
     {
       "word": "valuable",
@@ -3347,6 +3542,11 @@
       "example": "The western wall is older."
     },
     {
+      "word": "whale",
+      "translation": "la ballena",
+      "example": "We saw a whale from the boat."
+    },
+    {
       "word": "whatever",
       "translation": "lo que sea",
       "example": "Take whatever you need."
@@ -3392,6 +3592,11 @@
       "example": "The trip was worth the cost."
     },
     {
+      "word": "wrinkle",
+      "translation": "la arruga",
+      "example": "There was one wrinkle in the shirt."
+    },
+    {
       "word": "written",
       "translation": "escrito",
       "example": "A written record survives."
@@ -3402,44 +3607,14 @@
       "example": "The yard was full of crates."
     },
     {
+      "word": "yell",
+      "translation": "gritar",
+      "example": "Do not yell at the children."
+    },
+    {
       "word": "youth",
       "translation": "la juventud",
       "example": "He spent his youth abroad."
-    },
-    {
-      "word": "old-fashioned",
-      "translation": "anticuado",
-      "example": "The kitchen is rather old-fashioned."
-    },
-    {
-      "word": "sex",
-      "translation": "el sexo",
-      "example": "The form asks for age and sex."
-    },
-    {
-      "word": "sexual",
-      "translation": "sexual",
-      "example": "The book covers sexual health."
-    },
-    {
-      "word": "till",
-      "translation": "hasta que",
-      "example": "Wait till the rain stops."
-    },
-    {
-      "word": "tin",
-      "translation": "la lata",
-      "example": "She opened a tin of beans."
-    },
-    {
-      "word": "underwear",
-      "translation": "la ropa interior",
-      "example": "He packed socks and underwear."
-    },
-    {
-      "word": "upon",
-      "translation": "sobre",
-      "example": "The decision rests upon one fact."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "decks": [
     {
       "id": "en-th-a1",
@@ -9,8 +9,8 @@
       "learn": "en",
       "native": "th",
       "level": "A1",
-      "words": 714,
-      "version": 2,
+      "words": 723,
+      "version": 3,
       "file": "en-th-a1.json"
     },
     {
@@ -20,8 +20,8 @@
       "learn": "en",
       "native": "es",
       "level": "A1",
-      "words": 714,
-      "version": 2,
+      "words": 723,
+      "version": 3,
       "file": "en-es-a1.json"
     },
     {
@@ -31,8 +31,8 @@
       "learn": "en",
       "native": "th",
       "level": "A2",
-      "words": 768,
-      "version": 2,
+      "words": 796,
+      "version": 3,
       "file": "en-th-a2.json"
     },
     {
@@ -42,8 +42,8 @@
       "learn": "en",
       "native": "es",
       "level": "A2",
-      "words": 768,
-      "version": 2,
+      "words": 796,
+      "version": 3,
       "file": "en-es-a2.json"
     },
     {
@@ -53,8 +53,8 @@
       "learn": "en",
       "native": "th",
       "level": "B1",
-      "words": 687,
-      "version": 2,
+      "words": 722,
+      "version": 3,
       "file": "en-th-b1.json"
     },
     {
@@ -64,8 +64,8 @@
       "learn": "en",
       "native": "es",
       "level": "B1",
-      "words": 687,
-      "version": 2,
+      "words": 722,
+      "version": 3,
       "file": "en-es-b1.json"
     },
     {
@@ -75,8 +75,8 @@
       "learn": "en",
       "native": "th",
       "level": "B2",
-      "words": 654,
-      "version": 2,
+      "words": 1366,
+      "version": 3,
       "file": "en-th-b2.json"
     },
     {
@@ -86,8 +86,8 @@
       "learn": "en",
       "native": "es",
       "level": "B2",
-      "words": 654,
-      "version": 2,
+      "words": 1366,
+      "version": 3,
       "file": "en-es-b2.json"
     },
     {
@@ -97,8 +97,8 @@
       "learn": "en",
       "native": "th",
       "level": "C1",
-      "words": 100,
-      "version": 2,
+      "words": 1310,
+      "version": 3,
       "file": "en-th-c1.json"
     },
     {
@@ -108,8 +108,8 @@
       "learn": "en",
       "native": "es",
       "level": "C1",
-      "words": 100,
-      "version": 2,
+      "words": 1310,
+      "version": 3,
       "file": "en-es-c1.json"
     },
     {
@@ -119,8 +119,8 @@
       "learn": "en",
       "native": "th",
       "level": "C2",
-      "words": 100,
-      "version": 2,
+      "words": 2001,
+      "version": 3,
       "file": "en-th-c2.json"
     },
     {
@@ -130,8 +130,8 @@
       "learn": "en",
       "native": "es",
       "level": "C2",
-      "words": 100,
-      "version": 2,
+      "words": 2001,
+      "version": 3,
       "file": "en-es-c2.json"
     },
     {
@@ -141,7 +141,7 @@
       "learn": "en",
       "native": "th",
       "words": 30,
-      "version": 2,
+      "version": 3,
       "file": "en-th-everyday-30.json"
     },
     {
@@ -151,7 +151,7 @@
       "learn": "en",
       "native": "es",
       "words": 30,
-      "version": 2,
+      "version": 3,
       "file": "en-es-everyday-30.json"
     }
   ]
