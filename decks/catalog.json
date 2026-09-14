@@ -10,7 +10,7 @@
       "native": "th",
       "level": "A1",
       "words": 723,
-      "version": 4,
+      "version": 5,
       "file": "en-th-a1.json"
     },
     {
@@ -21,7 +21,7 @@
       "native": "es",
       "level": "A1",
       "words": 723,
-      "version": 4,
+      "version": 5,
       "file": "en-es-a1.json"
     },
     {
@@ -32,7 +32,7 @@
       "native": "fr",
       "level": "A1",
       "words": 723,
-      "version": 4,
+      "version": 5,
       "file": "en-fr-a1.json"
     },
     {
@@ -43,7 +43,7 @@
       "native": "de",
       "level": "A1",
       "words": 723,
-      "version": 4,
+      "version": 5,
       "file": "en-de-a1.json"
     },
     {
@@ -54,7 +54,7 @@
       "native": "ja",
       "level": "A1",
       "words": 723,
-      "version": 4,
+      "version": 5,
       "file": "en-ja-a1.json"
     },
     {
@@ -65,7 +65,7 @@
       "native": "th",
       "level": "A2",
       "words": 796,
-      "version": 4,
+      "version": 5,
       "file": "en-th-a2.json"
     },
     {
@@ -76,7 +76,7 @@
       "native": "es",
       "level": "A2",
       "words": 796,
-      "version": 4,
+      "version": 5,
       "file": "en-es-a2.json"
     },
     {
@@ -87,7 +87,7 @@
       "native": "fr",
       "level": "A2",
       "words": 796,
-      "version": 4,
+      "version": 5,
       "file": "en-fr-a2.json"
     },
     {
@@ -98,7 +98,7 @@
       "native": "de",
       "level": "A2",
       "words": 796,
-      "version": 4,
+      "version": 5,
       "file": "en-de-a2.json"
     },
     {
@@ -109,7 +109,7 @@
       "native": "ja",
       "level": "A2",
       "words": 796,
-      "version": 4,
+      "version": 5,
       "file": "en-ja-a2.json"
     },
     {
@@ -120,7 +120,7 @@
       "native": "th",
       "level": "B1",
       "words": 722,
-      "version": 4,
+      "version": 5,
       "file": "en-th-b1.json"
     },
     {
@@ -131,8 +131,41 @@
       "native": "es",
       "level": "B1",
       "words": 722,
-      "version": 4,
+      "version": 5,
       "file": "en-es-b1.json"
+    },
+    {
+      "id": "en-fr-b1",
+      "name": "English B1",
+      "description": "Vocabulaire anglais de niveau B1, avec traduction et phrase d'exemple.",
+      "learn": "en",
+      "native": "fr",
+      "level": "B1",
+      "words": 722,
+      "version": 5,
+      "file": "en-fr-b1.json"
+    },
+    {
+      "id": "en-de-b1",
+      "name": "English B1",
+      "description": "Englischer Wortschatz der Stufe B1, mit Übersetzung und Beispielsatz.",
+      "learn": "en",
+      "native": "de",
+      "level": "B1",
+      "words": 722,
+      "version": 5,
+      "file": "en-de-b1.json"
+    },
+    {
+      "id": "en-ja-b1",
+      "name": "English B1",
+      "description": "レベルB1の英単語。翻訳と例文つき。",
+      "learn": "en",
+      "native": "ja",
+      "level": "B1",
+      "words": 722,
+      "version": 5,
+      "file": "en-ja-b1.json"
     },
     {
       "id": "en-th-b2",
@@ -142,7 +175,7 @@
       "native": "th",
       "level": "B2",
       "words": 1366,
-      "version": 4,
+      "version": 5,
       "file": "en-th-b2.json"
     },
     {
@@ -153,7 +186,7 @@
       "native": "es",
       "level": "B2",
       "words": 1366,
-      "version": 4,
+      "version": 5,
       "file": "en-es-b2.json"
     },
     {
@@ -164,7 +197,7 @@
       "native": "th",
       "level": "C1",
       "words": 1310,
-      "version": 4,
+      "version": 5,
       "file": "en-th-c1.json"
     },
     {
@@ -175,7 +208,7 @@
       "native": "es",
       "level": "C1",
       "words": 1310,
-      "version": 4,
+      "version": 5,
       "file": "en-es-c1.json"
     },
     {
@@ -186,7 +219,7 @@
       "native": "th",
       "level": "C2",
       "words": 2001,
-      "version": 4,
+      "version": 5,
       "file": "en-th-c2.json"
     },
     {
@@ -197,7 +230,7 @@
       "native": "es",
       "level": "C2",
       "words": 2001,
-      "version": 4,
+      "version": 5,
       "file": "en-es-c2.json"
     },
     {
@@ -207,7 +240,7 @@
       "learn": "en",
       "native": "th",
       "words": 30,
-      "version": 4,
+      "version": 5,
       "file": "en-th-everyday-30.json"
     },
     {
@@ -217,7 +250,7 @@
       "learn": "en",
       "native": "es",
       "words": 30,
-      "version": 4,
+      "version": 5,
       "file": "en-es-everyday-30.json"
     }
   ]
