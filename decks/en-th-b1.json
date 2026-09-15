@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "B1",
-  "version": 12,
+  "version": 13,
   "items": [
     {
       "word": "absolutely",
@@ -148,7 +148,7 @@
     },
     {
       "word": "announcement",
-      "translation": "ประกาศแจ้ง",
+      "translation": "ประกาศ, แจ้ง",
       "example": "The announcement surprised everyone."
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "word": "authority",
-      "translation": "อำนาจหน้าที่",
+      "translation": "อำนาจ, หน้าที่",
       "example": "He has no authority to sign."
     },
     {
@@ -438,7 +438,7 @@
     },
     {
       "word": "category",
-      "translation": "ประเภทหมวดหมู่",
+      "translation": "ประเภท, หมวดหมู่",
       "example": "It falls into a different category."
     },
     {
@@ -523,7 +523,7 @@
     },
     {
       "word": "clause",
-      "translation": "อนุประโยคข้อสัญญา",
+      "translation": "อนุประโยค, ข้อสัญญา",
       "example": "The second clause is unclear."
     },
     {
@@ -618,7 +618,7 @@
     },
     {
       "word": "conclude",
-      "translation": "สรุปลงท้าย",
+      "translation": "สรุป, ลงท้าย",
       "example": "The report concludes with a warning."
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "word": "consume",
-      "translation": "บริโภคใช้ไป",
+      "translation": "บริโภค, ใช้ไป",
       "example": "The engine consumes little fuel."
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "word": "continuous",
-      "translation": "ต่อเนื่องไม่ขาดสาย",
+      "translation": "ต่อเนื่อง, ไม่ขาดสาย",
       "example": "There was a continuous low hum."
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "word": "definite",
-      "translation": "แน่นอนชัดเจน",
+      "translation": "แน่นอน, ชัดเจน",
       "example": "There is no definite answer yet."
     },
     {
@@ -848,12 +848,12 @@
     },
     {
       "word": "determine",
-      "translation": "ตัดสินชี้ขาด",
+      "translation": "ตัดสิน, ชี้ขาด",
       "example": "The judge will determine the outcome."
     },
     {
       "word": "determined",
-      "translation": "มุ่งมั่นแน่วแน่",
+      "translation": "มุ่งมั่น, แน่วแน่",
       "example": "She was determined to finish."
     },
     {
@@ -928,7 +928,7 @@
     },
     {
       "word": "doubt",
-      "translation": "สงสัยไม่แน่ใจ",
+      "translation": "สงสัย, ไม่แน่ใจ",
       "example": "I doubt he will come."
     },
     {
@@ -1048,7 +1048,7 @@
     },
     {
       "word": "emotion",
-      "translation": "อารมณ์ความรู้สึก",
+      "translation": "อารมณ์, ความรู้สึก",
       "example": "He showed no emotion."
     },
     {
@@ -1293,7 +1293,7 @@
     },
     {
       "word": "force",
-      "translation": "บังคับใช้กำลัง",
+      "translation": "บังคับ, ใช้กำลัง",
       "example": "They forced the door open."
     },
     {
@@ -1543,7 +1543,7 @@
     },
     {
       "word": "horrible",
-      "translation": "แย่มากน่าขยะแขยง",
+      "translation": "แย่มาก, น่าขยะแขยง",
       "example": "The smell was horrible."
     },
     {
@@ -1558,7 +1558,7 @@
     },
     {
       "word": "hunt",
-      "translation": "ตามหาล่า",
+      "translation": "ตามหา, ล่า",
       "example": "They hunted for the key."
     },
     {
@@ -1573,7 +1573,7 @@
     },
     {
       "word": "identity",
-      "translation": "อัตลักษณ์ตัวตน",
+      "translation": "อัตลักษณ์, ตัวตน",
       "example": "His identity was never confirmed."
     },
     {
@@ -1723,7 +1723,7 @@
     },
     {
       "word": "involved",
-      "translation": "ที่เกี่ยวข้องพัวพัน",
+      "translation": "ที่เกี่ยวข้อง, พัวพัน",
       "example": "Three schools were involved."
     },
     {
@@ -1863,7 +1863,7 @@
     },
     {
       "word": "locate",
-      "translation": "ระบุตำแหน่งพบ",
+      "translation": "ระบุตำแหน่ง, พบ",
       "example": "They located the fault quickly."
     },
     {
@@ -1893,7 +1893,7 @@
     },
     {
       "word": "luxury",
-      "translation": "ความหรูหราฟุ่มเฟือย",
+      "translation": "ความหรูหรา, ฟุ่มเฟือย",
       "example": "A hot bath is a luxury here."
     },
     {
@@ -1953,12 +1953,12 @@
     },
     {
       "word": "mess",
-      "translation": "ความยุ่งเหยิงรกรุงรัง",
+      "translation": "ความยุ่งเหยิง, รกรุงรัง",
       "example": "The kitchen was a mess."
     },
     {
       "word": "mild",
-      "translation": "อ่อนโยนไม่รุนแรง",
+      "translation": "อ่อนโยน, ไม่รุนแรง",
       "example": "The winter was unusually mild."
     },
     {
@@ -2013,7 +2013,7 @@
     },
     {
       "word": "nation",
-      "translation": "ชาติประเทศ",
+      "translation": "ชาติ, ประเทศ",
       "example": "The whole nation watched."
     },
     {
@@ -2108,7 +2108,7 @@
     },
     {
       "word": "originally",
-      "translation": "เดิมทีแต่แรก",
+      "translation": "เดิมที, แต่แรก",
       "example": "It was originally a barn."
     },
     {
@@ -2123,7 +2123,7 @@
     },
     {
       "word": "outdoors",
-      "translation": "ข้างนอกกลางแจ้ง",
+      "translation": "ข้างนอก, กลางแจ้ง",
       "example": "The children played outdoors."
     },
     {
@@ -2203,7 +2203,7 @@
     },
     {
       "word": "persuade",
-      "translation": "โน้มน้าวชักจูง",
+      "translation": "โน้มน้าว, ชักจูง",
       "example": "She persuaded him to stay."
     },
     {
@@ -2408,7 +2408,7 @@
     },
     {
       "word": "primary",
-      "translation": "ลำดับแรกสำคัญที่สุด",
+      "translation": "ลำดับแรก, สำคัญที่สุด",
       "example": "The primary aim is safety."
     },
     {
@@ -2438,7 +2438,7 @@
     },
     {
       "word": "producer",
-      "translation": "ผู้ผลิตผู้อำนวยการสร้าง",
+      "translation": "ผู้ผลิต, ผู้อำนวยการสร้าง",
       "example": "The producer changed the ending."
     },
     {
@@ -2463,7 +2463,7 @@
     },
     {
       "word": "proper",
-      "translation": "ที่เหมาะสมถูกต้อง",
+      "translation": "ที่เหมาะสม, ถูกต้อง",
       "example": "Use the proper tool for it."
     },
     {
@@ -2473,7 +2473,7 @@
     },
     {
       "word": "property",
-      "translation": "ทรัพย์สินอสังหา",
+      "translation": "ทรัพย์สิน, อสังหา",
       "example": "The property was sold twice."
     },
     {
@@ -2533,7 +2533,7 @@
     },
     {
       "word": "quit",
-      "translation": "ลาออกเลิก",
+      "translation": "ลาออก, เลิก",
       "example": "He quit the job in May."
     },
     {
@@ -2628,7 +2628,7 @@
     },
     {
       "word": "relation",
-      "translation": "ความสัมพันธ์เชื่อมโยง",
+      "translation": "ความสัมพันธ์, เชื่อมโยง",
       "example": "There is no relation between them."
     },
     {
@@ -2773,7 +2773,7 @@
     },
     {
       "word": "rough",
-      "translation": "ที่ปั่นป่วนขรุขระ",
+      "translation": "ที่ปั่นป่วน, ขรุขระ",
       "example": "The sea was rough that day."
     },
     {
@@ -2838,7 +2838,7 @@
     },
     {
       "word": "security",
-      "translation": "ความปลอดภัยการรักษาความปลอดภัย",
+      "translation": "ความปลอดภัย, การรักษาความปลอดภัย",
       "example": "Security checked every bag."
     },
     {
@@ -2853,7 +2853,7 @@
     },
     {
       "word": "sensible",
-      "translation": "ที่มีเหตุผลรอบคอบ",
+      "translation": "ที่มีเหตุผล, รอบคอบ",
       "example": "That was a sensible choice."
     },
     {
@@ -2873,7 +2873,7 @@
     },
     {
       "word": "setting",
-      "translation": "ฉากสถานที่",
+      "translation": "ฉาก, สถานที่",
       "example": "The setting of the story is rural."
     },
     {
@@ -2918,7 +2918,7 @@
     },
     {
       "word": "shoot",
-      "translation": "ถ่ายทำยิง",
+      "translation": "ถ่ายทำ, ยิง",
       "example": "They shot the scene twice."
     },
     {
@@ -3083,7 +3083,7 @@
     },
     {
       "word": "statistic",
-      "translation": "สถิติตัวเลข",
+      "translation": "สถิติ, ตัวเลข",
       "example": "That statistic is out of date."
     },
     {
@@ -3188,7 +3188,7 @@
     },
     {
       "word": "switch",
-      "translation": "สับเปลี่ยนปิดเปิด",
+      "translation": "สับเปลี่ยน, ปิดเปิด",
       "example": "Switch the light off."
     },
     {
@@ -3233,7 +3233,7 @@
     },
     {
       "word": "technique",
-      "translation": "เทคนิควิธี",
+      "translation": "เทคนิค, วิธี",
       "example": "Her technique has improved."
     },
     {
@@ -3248,7 +3248,7 @@
     },
     {
       "word": "theme",
-      "translation": "แก่นเรื่องธีม",
+      "translation": "แก่นเรื่อง, ธีม",
       "example": "The theme runs through the book."
     },
     {
@@ -3348,7 +3348,7 @@
     },
     {
       "word": "trend",
-      "translation": "แนวโน้มกระแส",
+      "translation": "แนวโน้ม, กระแส",
       "example": "The trend is clearly upward."
     },
     {
@@ -3458,7 +3458,7 @@
     },
     {
       "word": "upset",
-      "translation": "ที่เสียใจไม่สบายใจ",
+      "translation": "ที่เสียใจ, ไม่สบายใจ",
       "example": "She was upset by the news."
     },
     {
@@ -3488,7 +3488,7 @@
     },
     {
       "word": "victim",
-      "translation": "เหยื่อผู้เคราะห์ร้าย",
+      "translation": "เหยื่อ, ผู้เคราะห์ร้าย",
       "example": "The victim recovered fully."
     },
     {
@@ -3523,7 +3523,7 @@
     },
     {
       "word": "waste",
-      "translation": "สิ้นเปลืองเสียเปล่า",
+      "translation": "สิ้นเปลือง, เสียเปล่า",
       "example": "Do not waste the paper."
     },
     {
@@ -3573,12 +3573,12 @@
     },
     {
       "word": "wonder",
-      "translation": "สงสัยใคร่รู้",
+      "translation": "สงสัย, ใคร่รู้",
       "example": "I wonder why she left."
     },
     {
       "word": "wool",
-      "translation": "ขนสัตว์ผ้าขนแกะ",
+      "translation": "ขนสัตว์, ผ้าขนแกะ",
       "example": "The blanket is pure wool."
     },
     {

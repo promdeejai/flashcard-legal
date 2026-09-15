@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "A2",
-  "version": 12,
+  "version": 13,
   "items": [
     {
       "word": "ability",
@@ -68,7 +68,7 @@
     },
     {
       "word": "advertise",
-      "translation": "โฆษณาประชาสัมพันธ์",
+      "translation": "โฆษณา, ประชาสัมพันธ์",
       "example": "They advertise on the radio."
     },
     {
@@ -658,12 +658,12 @@
     },
     {
       "word": "classical",
-      "translation": "คลาสสิกดั้งเดิม",
+      "translation": "คลาสสิก, ดั้งเดิม",
       "example": "She prefers classical music."
     },
     {
       "word": "clear",
-      "translation": "ชัดเจนเข้าใจง่าย",
+      "translation": "ชัดเจน, เข้าใจง่าย",
       "example": "The instructions were clear."
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "word": "comedy",
-      "translation": "ตลกขบขัน",
+      "translation": "ตลก, ขบขัน",
       "example": "The film is a comedy."
     },
     {
@@ -798,7 +798,7 @@
     },
     {
       "word": "contain",
-      "translation": "บรรจุมี",
+      "translation": "บรรจุ, มี",
       "example": "The box contains old letters."
     },
     {
@@ -938,7 +938,7 @@
     },
     {
       "word": "dead",
-      "translation": "หมดสิ้นไม่ทำงาน",
+      "translation": "หมดสิ้น, ไม่ทำงาน",
       "example": "The battery is completely dead."
     },
     {
@@ -1078,7 +1078,7 @@
     },
     {
       "word": "discussion",
-      "translation": "การสนทนาถกเถียง",
+      "translation": "การสนทนา, ถกเถียง",
       "example": "The discussion went on for hours."
     },
     {
@@ -1103,7 +1103,7 @@
     },
     {
       "word": "double",
-      "translation": "คู่สองเท่า",
+      "translation": "คู่, สองเท่า",
       "example": "Ask for a double room."
     },
     {
@@ -1158,7 +1158,7 @@
     },
     {
       "word": "earth",
-      "translation": "พื้นดินโลก",
+      "translation": "พื้นดิน, โลก",
       "example": "The earth was soft after rain."
     },
     {
@@ -1253,7 +1253,7 @@
     },
     {
       "word": "equipment",
-      "translation": "อุปกรณ์เครื่องมือ",
+      "translation": "อุปกรณ์, เครื่องมือ",
       "example": "The equipment arrived damaged."
     },
     {
@@ -1423,7 +1423,7 @@
     },
     {
       "word": "fight",
-      "translation": "ทะเลาะต่อสู้",
+      "translation": "ทะเลาะ, ต่อสู้",
       "example": "They fought about money."
     },
     {
@@ -1478,7 +1478,7 @@
     },
     {
       "word": "following",
-      "translation": "ที่ตามมาถัดไป",
+      "translation": "ที่ตามมา, ถัดไป",
       "example": "The following day was quiet."
     },
     {
@@ -1553,7 +1553,7 @@
     },
     {
       "word": "gate",
-      "translation": "ประตูรั้ว",
+      "translation": "ประตู, รั้ว",
       "example": "Close the gate behind you."
     },
     {
@@ -1858,7 +1858,7 @@
     },
     {
       "word": "intelligent",
-      "translation": "ฉลาดหลักแหลม",
+      "translation": "ฉลาด, หลักแหลม",
       "example": "He is an intelligent boy."
     },
     {
@@ -1898,7 +1898,7 @@
     },
     {
       "word": "item",
-      "translation": "รายการสิ่งของ",
+      "translation": "รายการ, สิ่งของ",
       "example": "One item was missing."
     },
     {
@@ -2133,7 +2133,7 @@
     },
     {
       "word": "major",
-      "translation": "สำคัญใหญ่หลวง",
+      "translation": "สำคัญ, ใหญ่หลวง",
       "example": "That is a major problem."
     },
     {
@@ -2153,7 +2153,7 @@
     },
     {
       "word": "manner",
-      "translation": "ลักษณะท่าที",
+      "translation": "ลักษณะ, ท่าที",
       "example": "He answered in a polite manner."
     },
     {
@@ -2173,7 +2173,7 @@
     },
     {
       "word": "material",
-      "translation": "วัสดุเนื้อผ้า",
+      "translation": "วัสดุ, เนื้อผ้า",
       "example": "The material tears easily."
     },
     {
@@ -2233,7 +2233,7 @@
     },
     {
       "word": "mind",
-      "translation": "จิตใจความคิด",
+      "translation": "จิตใจ, ความคิด",
       "example": "Her mind was elsewhere."
     },
     {
@@ -2403,7 +2403,7 @@
     },
     {
       "word": "ordinary",
-      "translation": "ธรรมดาสามัญ",
+      "translation": "ธรรมดา, สามัญ",
       "example": "It was an ordinary Tuesday."
     },
     {
@@ -2413,12 +2413,12 @@
     },
     {
       "word": "organize",
-      "translation": "จัดระเบียบจัดการ",
+      "translation": "จัดระเบียบ, จัดการ",
       "example": "She organized the whole trip."
     },
     {
       "word": "original",
-      "translation": "ดั้งเดิมแต่แรก",
+      "translation": "ดั้งเดิม, แต่แรก",
       "example": "The original plan was better."
     },
     {
@@ -2753,7 +2753,7 @@
     },
     {
       "word": "publish",
-      "translation": "ตีพิมพ์เผยแพร่",
+      "translation": "ตีพิมพ์, เผยแพร่",
       "example": "They published the results online."
     },
     {
@@ -2778,7 +2778,7 @@
     },
     {
       "word": "quantity",
-      "translation": "ปริมาณจำนวน",
+      "translation": "ปริมาณ, จำนวน",
       "example": "A small quantity is enough."
     },
     {
@@ -2803,7 +2803,7 @@
     },
     {
       "word": "raise",
-      "translation": "ยกขึ้นเพิ่มขึ้น",
+      "translation": "ยกขึ้น, เพิ่มขึ้น",
       "example": "They raised the price again."
     },
     {
@@ -2903,7 +2903,7 @@
     },
     {
       "word": "regular",
-      "translation": "ประจำสม่ำเสมอ",
+      "translation": "ประจำ, สม่ำเสมอ",
       "example": "He is a regular customer."
     },
     {
@@ -2953,7 +2953,7 @@
     },
     {
       "word": "respond",
-      "translation": "ตอบสนองตอบกลับ",
+      "translation": "ตอบสนอง, ตอบกลับ",
       "example": "Nobody responded to the email."
     },
     {
@@ -3138,7 +3138,7 @@
     },
     {
       "word": "sense",
-      "translation": "ความหมายเหตุผล",
+      "translation": "ความหมาย, เหตุผล",
       "example": "That makes no sense."
     },
     {
@@ -3183,7 +3183,7 @@
     },
     {
       "word": "sheet",
-      "translation": "ผ้าปูที่นอนแผ่น",
+      "translation": "ผ้าปูที่นอน, แผ่น",
       "example": "Put a clean sheet on the bed."
     },
     {
@@ -3223,7 +3223,7 @@
     },
     {
       "word": "simple",
-      "translation": "ง่ายไม่ซับซ้อน",
+      "translation": "ง่าย, ไม่ซับซ้อน",
       "example": "The answer is very simple."
     },
     {
@@ -3358,7 +3358,7 @@
     },
     {
       "word": "sort",
-      "translation": "ประเภทชนิด",
+      "translation": "ประเภท, ชนิด",
       "example": "What sort of car is it?"
     },
     {
@@ -3368,7 +3368,7 @@
     },
     {
       "word": "speaker",
-      "translation": "ผู้พูดลำโพง",
+      "translation": "ผู้พูด, ลำโพง",
       "example": "The speaker was hard to hear."
     },
     {
@@ -3423,7 +3423,7 @@
     },
     {
       "word": "state",
-      "translation": "ระบุกล่าว",
+      "translation": "ระบุ, กล่าว",
       "example": "He stated his reasons clearly."
     },
     {
@@ -3438,7 +3438,7 @@
     },
     {
       "word": "stomach",
-      "translation": "ท้องกระเพาะ",
+      "translation": "ท้อง, กระเพาะ",
       "example": "His stomach hurt all morning."
     },
     {
@@ -3528,7 +3528,7 @@
     },
     {
       "word": "suppose",
-      "translation": "คาดว่าเดาว่า",
+      "translation": "คาดว่า, เดาว่า",
       "example": "I suppose he forgot."
     },
     {
@@ -3613,7 +3613,7 @@
     },
     {
       "word": "term",
-      "translation": "ภาคเรียนวาระ",
+      "translation": "ภาคเรียน, วาระ",
       "example": "The term ends in April."
     },
     {
@@ -3623,7 +3623,7 @@
     },
     {
       "word": "thief",
-      "translation": "ขโมยโจร",
+      "translation": "ขโมย, โจร",
       "example": "The thief took only cash."
     },
     {
@@ -3693,7 +3693,7 @@
     },
     {
       "word": "towards",
-      "translation": "ไปทางมุ่งไปยัง",
+      "translation": "ไปทาง, มุ่งไปยัง",
       "example": "He walked towards the gate."
     },
     {
@@ -3753,7 +3753,7 @@
     },
     {
       "word": "trouble",
-      "translation": "ปัญหาความยุ่งยาก",
+      "translation": "ปัญหา, ความยุ่งยาก",
       "example": "The car gave us trouble."
     },
     {
@@ -3808,7 +3808,7 @@
     },
     {
       "word": "unusual",
-      "translation": "ผิดปกติไม่ธรรมดา",
+      "translation": "ผิดปกติ, ไม่ธรรมดา",
       "example": "It is an unusual name."
     },
     {
@@ -3923,7 +3923,7 @@
     },
     {
       "word": "wild",
-      "translation": "ที่เป็นธรรมชาติป่า",
+      "translation": "ที่เป็นธรรมชาติ, ป่า",
       "example": "Wild flowers grow along the track."
     },
     {

@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "A1",
-  "version": 12,
+  "version": 13,
   "items": [
     {
       "word": "action",
@@ -28,7 +28,7 @@
     },
     {
       "word": "add",
-      "translation": "เพิ่มใส่",
+      "translation": "เพิ่ม, ใส่",
       "example": "Add a little salt."
     },
     {
@@ -513,7 +513,7 @@
     },
     {
       "word": "career",
-      "translation": "อาชีพการงาน",
+      "translation": "อาชีพ, การงาน",
       "example": "Her career started late."
     },
     {
@@ -1058,7 +1058,7 @@
     },
     {
       "word": "event",
-      "translation": "งานเหตุการณ์",
+      "translation": "งาน, เหตุการณ์",
       "example": "The event lasted two days."
     },
     {
@@ -1088,7 +1088,7 @@
     },
     {
       "word": "excited",
-      "translation": "ตื่นเต้นดีใจ",
+      "translation": "ตื่นเต้น, ดีใจ",
       "example": "The children were excited."
     },
     {
@@ -1113,7 +1113,7 @@
     },
     {
       "word": "extra",
-      "translation": "เพิ่มเติมพิเศษ",
+      "translation": "เพิ่มเติม, พิเศษ",
       "example": "We need one extra chair."
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "word": "farmer",
-      "translation": "ชาวนาชาวไร่",
+      "translation": "ชาวนา, ชาวไร่",
       "example": "The farmer sold his cows."
     },
     {
@@ -1228,7 +1228,7 @@
     },
     {
       "word": "fine",
-      "translation": "ดีงาม",
+      "translation": "ดี, งาม",
       "example": "The weather was fine."
     },
     {
@@ -1538,7 +1538,7 @@
     },
     {
       "word": "home",
-      "translation": "บ้านที่อยู่",
+      "translation": "บ้าน, ที่อยู่",
       "example": "We go home at six."
     },
     {
@@ -1683,7 +1683,7 @@
     },
     {
       "word": "job",
-      "translation": "งานอาชีพ",
+      "translation": "งาน, อาชีพ",
       "example": "She started a new job."
     },
     {
@@ -1898,7 +1898,7 @@
     },
     {
       "word": "make",
-      "translation": "ทำสร้าง",
+      "translation": "ทำ, สร้าง",
       "example": "She makes her own clothes."
     },
     {
@@ -2008,7 +2008,7 @@
     },
     {
       "word": "model",
-      "translation": "รุ่นแบบ",
+      "translation": "รุ่น, แบบ",
       "example": "This model is cheaper."
     },
     {
@@ -2133,7 +2133,7 @@
     },
     {
       "word": "nice",
-      "translation": "ดีน่าพอใจ",
+      "translation": "ดี, น่าพอใจ",
       "example": "That was a nice thing to say."
     },
     {
@@ -2183,7 +2183,7 @@
     },
     {
       "word": "object",
-      "translation": "วัตถุสิ่งของ",
+      "translation": "วัตถุ, สิ่งของ",
       "example": "A small object fell out."
     },
     {
@@ -2278,7 +2278,7 @@
     },
     {
       "word": "parent",
-      "translation": "ผู้ปกครองพ่อแม่",
+      "translation": "ผู้ปกครอง, พ่อแม่",
       "example": "Every parent was invited."
     },
     {
@@ -2293,7 +2293,7 @@
     },
     {
       "word": "partner",
-      "translation": "คู่ครองหุ้นส่วน",
+      "translation": "คู่ครอง, หุ้นส่วน",
       "example": "Her partner runs the shop."
     },
     {
@@ -2423,7 +2423,7 @@
     },
     {
       "word": "plant",
-      "translation": "ต้นไม้พืช",
+      "translation": "ต้นไม้, พืช",
       "example": "Water the plant twice a week."
     },
     {
@@ -2518,7 +2518,7 @@
     },
     {
       "word": "pretty",
-      "translation": "สวยน่ารัก",
+      "translation": "สวย, น่ารัก",
       "example": "The garden is very pretty."
     },
     {
@@ -2628,7 +2628,7 @@
     },
     {
       "word": "real",
-      "translation": "ของจริงแท้",
+      "translation": "ของจริง, แท้",
       "example": "Is that a real diamond?"
     },
     {
@@ -2778,7 +2778,7 @@
     },
     {
       "word": "section",
-      "translation": "ส่วนตอน",
+      "translation": "ส่วน, ตอน",
       "example": "The last section is missing."
     },
     {
@@ -2848,7 +2848,7 @@
     },
     {
       "word": "sick",
-      "translation": "คลื่นไส้ป่วย",
+      "translation": "คลื่นไส้, ป่วย",
       "example": "She felt sick on the boat."
     },
     {
@@ -3313,7 +3313,7 @@
     },
     {
       "word": "travel",
-      "translation": "เดินทางท่องเที่ยว",
+      "translation": "เดินทาง, ท่องเที่ยว",
       "example": "They travel every summer."
     },
     {
@@ -3323,7 +3323,7 @@
     },
     {
       "word": "trip",
-      "translation": "การเดินทางทริป",
+      "translation": "การเดินทาง, ทริป",
       "example": "The trip took two days."
     },
     {
@@ -3338,7 +3338,7 @@
     },
     {
       "word": "try",
-      "translation": "พยายามลอง",
+      "translation": "พยายาม, ลอง",
       "example": "Try the other door."
     },
     {
@@ -3368,7 +3368,7 @@
     },
     {
       "word": "uncle",
-      "translation": "ลุงอา",
+      "translation": "ลุง, อา",
       "example": "My uncle lives in Spain."
     },
     {
@@ -3448,7 +3448,7 @@
     },
     {
       "word": "wall",
-      "translation": "กำแพงผนัง",
+      "translation": "กำแพง, ผนัง",
       "example": "The wall needs painting."
     },
     {
@@ -3478,7 +3478,7 @@
     },
     {
       "word": "way",
-      "translation": "ทางวิธี",
+      "translation": "ทาง, วิธี",
       "example": "This is the quickest way."
     },
     {
@@ -3593,7 +3593,7 @@
     },
     {
       "word": "writing",
-      "translation": "ลายมือการเขียน",
+      "translation": "ลายมือ, การเขียน",
       "example": "His writing is hard to read."
     },
     {

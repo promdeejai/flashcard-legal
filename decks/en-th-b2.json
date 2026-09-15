@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "B2",
-  "version": 12,
+  "version": 13,
   "items": [
     {
       "word": "abandon",
@@ -13,7 +13,7 @@
     },
     {
       "word": "absent",
-      "translation": "ขาดไม่มา",
+      "translation": "ขาด, ไม่มา",
       "example": "Three students were absent on Monday."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "word": "accumulate",
-      "translation": "สะสมพอกพูน",
+      "translation": "สะสม, พอกพูน",
       "example": "Debts accumulated quickly."
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "word": "agency",
-      "translation": "หน่วยงานตัวแทน",
+      "translation": "หน่วยงาน, ตัวแทน",
       "example": "The agency placed her in a job."
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "word": "alien",
-      "translation": "แปลกแตกต่าง",
+      "translation": "แปลก, แตกต่าง",
       "example": "The idea felt alien to him."
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "word": "alter",
-      "translation": "เปลี่ยนแปลงแก้ไข",
+      "translation": "เปลี่ยนแปลง, แก้ไข",
       "example": "They altered the design slightly."
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "word": "arms",
-      "translation": "อาวุธยุทโธปกรณ์",
+      "translation": "อาวุธ, ยุทโธปกรณ์",
       "example": "The treaty limited arms sales."
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "word": "associated",
-      "translation": "ที่เกี่ยวข้องสัมพันธ์",
+      "translation": "ที่เกี่ยวข้อง, สัมพันธ์",
       "example": "The risks associated with it are known."
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "word": "assure",
-      "translation": "รับรองยืนยัน",
+      "translation": "รับรอง, ยืนยัน",
       "example": "I assure you the room is booked."
     },
     {
@@ -533,7 +533,7 @@
     },
     {
       "word": "awkward",
-      "translation": "อึดอัดกระอักกระอ่วน",
+      "translation": "อึดอัด, กระอักกระอ่วน",
       "example": "There was an awkward silence."
     },
     {
@@ -548,7 +548,7 @@
     },
     {
       "word": "balanced",
-      "translation": "สมดุลเป็นกลาง",
+      "translation": "สมดุล, เป็นกลาง",
       "example": "She gave a balanced account of events."
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "word": "barrier",
-      "translation": "อุปสรรคขวางกั้น",
+      "translation": "อุปสรรค, ขวางกั้น",
       "example": "Language is the real barrier."
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "word": "broadcaster",
-      "translation": "สถานีผู้กระจายเสียง",
+      "translation": "สถานี, ผู้กระจายเสียง",
       "example": "The broadcaster apologised on air."
     },
     {
@@ -983,7 +983,7 @@
     },
     {
       "word": "coherence",
-      "translation": "ความสอดคล้องต่อเนื่อง",
+      "translation": "ความสอดคล้อง, ต่อเนื่อง",
       "example": "The essay lacks coherence."
     },
     {
@@ -1073,7 +1073,7 @@
     },
     {
       "word": "complicated",
-      "translation": "ยุ่งยากซับซ้อน",
+      "translation": "ยุ่งยาก, ซับซ้อน",
       "example": "The process is unnecessarily complicated."
     },
     {
@@ -1083,7 +1083,7 @@
     },
     {
       "word": "component",
-      "translation": "ชิ้นส่วนประกอบ",
+      "translation": "ชิ้นส่วน, ประกอบ",
       "example": "One component was missing."
     },
     {
@@ -1343,12 +1343,12 @@
     },
     {
       "word": "convert",
-      "translation": "ดัดแปลงเปลี่ยนเป็น",
+      "translation": "ดัดแปลง, เปลี่ยนเป็น",
       "example": "They converted the barn into a house."
     },
     {
       "word": "convey",
-      "translation": "สื่อถ่ายทอด",
+      "translation": "สื่อ, ถ่ายทอด",
       "example": "The photograph conveys the mood well."
     },
     {
@@ -1448,7 +1448,7 @@
     },
     {
       "word": "crew",
-      "translation": "ลูกเรือทีมงาน",
+      "translation": "ลูกเรือ, ทีมงาน",
       "example": "The crew worked through the night."
     },
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "word": "cue",
-      "translation": "สัญญาณบอกใบ้",
+      "translation": "สัญญาณ, บอกใบ้",
       "example": "That was my cue to leave."
     },
     {
@@ -1553,7 +1553,7 @@
     },
     {
       "word": "debate",
-      "translation": "การอภิปรายโต้แย้ง",
+      "translation": "การอภิปราย, โต้แย้ง",
       "example": "The debate ran late."
     },
     {
@@ -1573,12 +1573,12 @@
     },
     {
       "word": "declare",
-      "translation": "ประกาศแถลง",
+      "translation": "ประกาศ, แถลง",
       "example": "They declared the result invalid."
     },
     {
       "word": "decline",
-      "translation": "ลดลงเสื่อมถอย",
+      "translation": "ลดลง, เสื่อมถอย",
       "example": "Sales declined for three quarters."
     },
     {
@@ -1608,7 +1608,7 @@
     },
     {
       "word": "defend",
-      "translation": "ปกป้องแก้ต่าง",
+      "translation": "ปกป้อง, แก้ต่าง",
       "example": "He defended his choice calmly."
     },
     {
@@ -1653,7 +1653,7 @@
     },
     {
       "word": "demand",
-      "translation": "อุปสงค์ความต้องการ",
+      "translation": "อุปสงค์, ความต้องการ",
       "example": "Demand rose sharply."
     },
     {
@@ -1843,7 +1843,7 @@
     },
     {
       "word": "dismiss",
-      "translation": "ปัดตกไม่ยอมรับ",
+      "translation": "ปัดตก, ไม่ยอมรับ",
       "example": "He dismissed the idea at once."
     },
     {
@@ -1863,7 +1863,7 @@
     },
     {
       "word": "distinct",
-      "translation": "ชัดเจนแยกจากกัน",
+      "translation": "ชัดเจน, แยกจากกัน",
       "example": "There are two distinct groups."
     },
     {
@@ -1888,7 +1888,7 @@
     },
     {
       "word": "distribution",
-      "translation": "การกระจายแจกจ่าย",
+      "translation": "การกระจาย, แจกจ่าย",
       "example": "The distribution was uneven."
     },
     {
@@ -2093,7 +2093,7 @@
     },
     {
       "word": "embrace",
-      "translation": "ยอมรับเปิดรับ",
+      "translation": "ยอมรับ, เปิดรับ",
       "example": "The company embraced the new method."
     },
     {
@@ -2238,7 +2238,7 @@
     },
     {
       "word": "estate",
-      "translation": "ที่ดินมรดก",
+      "translation": "ที่ดิน, มรดก",
       "example": "The estate was sold in parts."
     },
     {
@@ -2288,12 +2288,12 @@
     },
     {
       "word": "evolve",
-      "translation": "วิวัฒน์พัฒนา",
+      "translation": "วิวัฒน์, พัฒนา",
       "example": "The design evolved over ten years."
     },
     {
       "word": "examination",
-      "translation": "การตรวจสอบสอบสวน",
+      "translation": "การตรวจสอบ, สอบสวน",
       "example": "The examination was thorough."
     },
     {
@@ -2413,7 +2413,7 @@
     },
     {
       "word": "extent",
-      "translation": "ขอบเขตระดับ",
+      "translation": "ขอบเขต, ระดับ",
       "example": "To some extent he was right."
     },
     {
@@ -2433,7 +2433,7 @@
     },
     {
       "word": "fabric",
-      "translation": "ผ้าเนื้อผ้า",
+      "translation": "ผ้า, เนื้อผ้า",
       "example": "The fabric feels rough."
     },
     {
@@ -2478,7 +2478,7 @@
     },
     {
       "word": "fantasy",
-      "translation": "จินตนาการเพ้อฝัน",
+      "translation": "จินตนาการ, เพ้อฝัน",
       "example": "The novel is pure fantasy."
     },
     {
@@ -2513,7 +2513,7 @@
     },
     {
       "word": "feedback",
-      "translation": "ข้อเสนอแนะป้อนกลับ",
+      "translation": "ข้อเสนอแนะ, ป้อนกลับ",
       "example": "Her feedback was useful."
     },
     {
@@ -2548,7 +2548,7 @@
     },
     {
       "word": "firm",
-      "translation": "บริษัทห้างร้าน",
+      "translation": "บริษัท, ห้างร้าน",
       "example": "The firm employs sixty people."
     },
     {
@@ -2588,7 +2588,7 @@
     },
     {
       "word": "fond",
-      "translation": "ชอบรักใคร่",
+      "translation": "ชอบ, รักใคร่",
       "example": "She is fond of old films."
     },
     {
@@ -2713,7 +2713,7 @@
     },
     {
       "word": "fulfil",
-      "translation": "เติมเต็มทำให้สมหวัง",
+      "translation": "เติมเต็ม, ทำให้สมหวัง",
       "example": "The job did not fulfil her hopes."
     },
     {
@@ -2733,7 +2733,7 @@
     },
     {
       "word": "fundamental",
-      "translation": "พื้นฐานสำคัญ",
+      "translation": "พื้นฐาน, สำคัญ",
       "example": "This is a fundamental difference."
     },
     {
@@ -2828,7 +2828,7 @@
     },
     {
       "word": "gesture",
-      "translation": "ท่าทางการแสดงออก",
+      "translation": "ท่าทาง, การแสดงออก",
       "example": "He made a small gesture of thanks."
     },
     {
@@ -2878,7 +2878,7 @@
     },
     {
       "word": "grand",
-      "translation": "โอ่อ่าใหญ่โต",
+      "translation": "โอ่อ่า, ใหญ่โต",
       "example": "The hall was rather grand."
     },
     {
@@ -2933,7 +2933,7 @@
     },
     {
       "word": "handle",
-      "translation": "จัดการรับมือ",
+      "translation": "จัดการ, รับมือ",
       "example": "She handled the complaint well."
     },
     {
@@ -2943,7 +2943,7 @@
     },
     {
       "word": "harm",
-      "translation": "ความเสียหายอันตราย",
+      "translation": "ความเสียหาย, อันตราย",
       "example": "The delay did no real harm."
     },
     {
@@ -2958,7 +2958,7 @@
     },
     {
       "word": "heal",
-      "translation": "หายรักษาให้หาย",
+      "translation": "หาย, รักษาให้หาย",
       "example": "The cut healed in a week."
     },
     {
@@ -3003,7 +3003,7 @@
     },
     {
       "word": "hesitate",
-      "translation": "ลังเลชะงัก",
+      "translation": "ลังเล, ชะงัก",
       "example": "She hesitated before answering."
     },
     {
@@ -3148,7 +3148,7 @@
     },
     {
       "word": "impatient",
-      "translation": "ใจร้อนไม่อดทน",
+      "translation": "ใจร้อน, ไม่อดทน",
       "example": "He grew impatient waiting."
     },
     {
@@ -3168,7 +3168,7 @@
     },
     {
       "word": "impose",
-      "translation": "บังคับใช้กำหนด",
+      "translation": "บังคับใช้, กำหนด",
       "example": "They imposed a strict limit."
     },
     {
@@ -3283,7 +3283,7 @@
     },
     {
       "word": "inherit",
-      "translation": "สืบทอดรับมรดก",
+      "translation": "สืบทอด, รับมรดก",
       "example": "She inherited the house from an aunt."
     },
     {
@@ -3318,7 +3318,7 @@
     },
     {
       "word": "input",
-      "translation": "ข้อมูลความเห็นที่ให้",
+      "translation": "ข้อมูล, ความเห็นที่ให้",
       "example": "Your input on the design would help."
     },
     {
@@ -3458,7 +3458,7 @@
     },
     {
       "word": "investigation",
-      "translation": "การสืบสวนสอบสวน",
+      "translation": "การสืบสวน, สอบสวน",
       "example": "The investigation lasted a year."
     },
     {
@@ -3698,7 +3698,7 @@
     },
     {
       "word": "load",
-      "translation": "ภาระน้ำหนักบรรทุก",
+      "translation": "ภาระ, น้ำหนักบรรทุก",
       "example": "The load was too heavy."
     },
     {
@@ -3728,7 +3728,7 @@
     },
     {
       "word": "lord",
-      "translation": "ขุนนางเจ้าที่ดิน",
+      "translation": "ขุนนาง, เจ้าที่ดิน",
       "example": "The lord owned the whole valley."
     },
     {
@@ -3778,7 +3778,7 @@
     },
     {
       "word": "making",
-      "translation": "การสร้างการทำ",
+      "translation": "การสร้าง, การทำ",
       "example": "The making of the film took four years."
     },
     {
@@ -3798,7 +3798,7 @@
     },
     {
       "word": "margin",
-      "translation": "ส่วนต่างระยะห่าง",
+      "translation": "ส่วนต่าง, ระยะห่าง",
       "example": "They won by a narrow margin."
     },
     {
@@ -3943,7 +3943,7 @@
     },
     {
       "word": "miserable",
-      "translation": "หดหู่ทุกข์ระทม",
+      "translation": "หดหู่, ทุกข์ระทม",
       "example": "The weather made everyone miserable."
     },
     {
@@ -3963,7 +3963,7 @@
     },
     {
       "word": "mode",
-      "translation": "โหมดรูปแบบ",
+      "translation": "โหมด, รูปแบบ",
       "example": "Put the phone in silent mode."
     },
     {
@@ -4058,7 +4058,7 @@
     },
     {
       "word": "multiply",
-      "translation": "ทวีคูณเพิ่มขึ้น",
+      "translation": "ทวีคูณ, เพิ่มขึ้น",
       "example": "The problems multiplied quickly."
     },
     {
@@ -4078,12 +4078,12 @@
     },
     {
       "word": "nasty",
-      "translation": "หยาบร้ายกาจ",
+      "translation": "หยาบ, ร้ายกาจ",
       "example": "He left a nasty comment."
     },
     {
       "word": "navigation",
-      "translation": "การเดินเรือนำทาง",
+      "translation": "การเดินเรือ, นำทาง",
       "example": "Navigation is difficult in fog."
     },
     {
@@ -4158,7 +4158,7 @@
     },
     {
       "word": "notion",
-      "translation": "ความคิดความเชื่อ",
+      "translation": "ความคิด, ความเชื่อ",
       "example": "The notion is out of date."
     },
     {
@@ -4193,7 +4193,7 @@
     },
     {
       "word": "obey",
-      "translation": "เชื่อฟังปฏิบัติตาม",
+      "translation": "เชื่อฟัง, ปฏิบัติตาม",
       "example": "Everyone must obey the rule."
     },
     {
@@ -4248,7 +4248,7 @@
     },
     {
       "word": "occupy",
-      "translation": "ครอบครองอาศัย",
+      "translation": "ครอบครอง, อาศัย",
       "example": "Two families occupy the top floor."
     },
     {
@@ -4298,7 +4298,7 @@
     },
     {
       "word": "operate",
-      "translation": "ควบคุมเดินเครื่อง",
+      "translation": "ควบคุม, เดินเครื่อง",
       "example": "She operates the machine alone."
     },
     {
@@ -4428,7 +4428,7 @@
     },
     {
       "word": "pace",
-      "translation": "จังหวะความเร็ว",
+      "translation": "จังหวะ, ความเร็ว",
       "example": "The pace was too fast."
     },
     {
@@ -4528,7 +4528,7 @@
     },
     {
       "word": "penalty",
-      "translation": "ค่าปรับบทลงโทษ",
+      "translation": "ค่าปรับ, บทลงโทษ",
       "example": "The penalty for late payment is small."
     },
     {
@@ -4538,7 +4538,7 @@
     },
     {
       "word": "perceive",
-      "translation": "รับรู้มองว่า",
+      "translation": "รับรู้, มองว่า",
       "example": "People perceive risk differently."
     },
     {
@@ -4613,12 +4613,12 @@
     },
     {
       "word": "placement",
-      "translation": "การฝึกงานการจัดวาง",
+      "translation": "การฝึกงาน, การจัดวาง",
       "example": "She found a placement at a local firm."
     },
     {
       "word": "plain",
-      "translation": "เรียบง่ายชัดแจ้ง",
+      "translation": "เรียบง่าย, ชัดแจ้ง",
       "example": "The answer was plain enough."
     },
     {
@@ -4628,7 +4628,7 @@
     },
     {
       "word": "pointed",
-      "translation": "ที่มุ่งเป้าเสียดสี",
+      "translation": "ที่มุ่งเป้า, เสียดสี",
       "example": "She made a pointed remark."
     },
     {
@@ -4643,12 +4643,12 @@
     },
     {
       "word": "pose",
-      "translation": "ก่อให้เกิดตั้งขึ้น",
+      "translation": "ก่อให้เกิด, ตั้งขึ้น",
       "example": "The question poses a real problem."
     },
     {
       "word": "possess",
-      "translation": "ครอบครองมี",
+      "translation": "ครอบครอง, มี",
       "example": "He possesses rare patience."
     },
     {
@@ -4663,7 +4663,7 @@
     },
     {
       "word": "praise",
-      "translation": "ชื่นชมยกย่อง",
+      "translation": "ชื่นชม, ยกย่อง",
       "example": "The teacher praised her work."
     },
     {
@@ -4678,7 +4678,7 @@
     },
     {
       "word": "precise",
-      "translation": "แม่นยำชัดเจน",
+      "translation": "แม่นยำ, ชัดเจน",
       "example": "Give me the precise figure."
     },
     {
@@ -4713,12 +4713,12 @@
     },
     {
       "word": "presence",
-      "translation": "การมีอยู่ปรากฏตัว",
+      "translation": "การมีอยู่, ปรากฏตัว",
       "example": "His presence calmed the room."
     },
     {
       "word": "preserve",
-      "translation": "อนุรักษ์รักษาไว้",
+      "translation": "อนุรักษ์, รักษาไว้",
       "example": "They preserved the old doors."
     },
     {
@@ -4738,12 +4738,12 @@
     },
     {
       "word": "prime",
-      "translation": "สำคัญที่สุดอันดับแรก",
+      "translation": "สำคัญที่สุด, อันดับแรก",
       "example": "That is the prime reason."
     },
     {
       "word": "principal",
-      "translation": "หลักสำคัญที่สุด",
+      "translation": "หลัก, สำคัญที่สุด",
       "example": "The principal reason is cost."
     },
     {
@@ -4778,7 +4778,7 @@
     },
     {
       "word": "procedure",
-      "translation": "ขั้นตอนวิธีปฏิบัติ",
+      "translation": "ขั้นตอน, วิธีปฏิบัติ",
       "example": "The procedure is straightforward."
     },
     {
@@ -4818,12 +4818,12 @@
     },
     {
       "word": "prompt",
-      "translation": "ที่รวดเร็วทันที",
+      "translation": "ที่รวดเร็ว, ทันที",
       "example": "A prompt reply would help."
     },
     {
       "word": "proof",
-      "translation": "หลักฐานพิสูจน์",
+      "translation": "หลักฐาน, พิสูจน์",
       "example": "There is no proof of that."
     },
     {
@@ -4913,7 +4913,7 @@
     },
     {
       "word": "pure",
-      "translation": "บริสุทธิ์ล้วน",
+      "translation": "บริสุทธิ์, ล้วน",
       "example": "It is pure cotton."
     },
     {
@@ -4928,7 +4928,7 @@
     },
     {
       "word": "pursuit",
-      "translation": "การไล่ตามแสวงหา",
+      "translation": "การไล่ตาม, แสวงหา",
       "example": "The pursuit of profit shaped the plan."
     },
     {
@@ -5003,7 +5003,7 @@
     },
     {
       "word": "realistic",
-      "translation": "ที่สมจริงเป็นจริงได้",
+      "translation": "ที่สมจริง, เป็นจริงได้",
       "example": "Be realistic about the time."
     },
     {
@@ -5023,7 +5023,7 @@
     },
     {
       "word": "recall",
-      "translation": "นึกออกจำได้",
+      "translation": "นึกออก, จำได้",
       "example": "I cannot recall his name."
     },
     {
@@ -5048,7 +5048,7 @@
     },
     {
       "word": "recover",
-      "translation": "ฟื้นตัวหายดี",
+      "translation": "ฟื้นตัว, หายดี",
       "example": "He recovered within a week."
     },
     {
@@ -5083,7 +5083,7 @@
     },
     {
       "word": "regard",
-      "translation": "ถือว่ามองว่า",
+      "translation": "ถือว่า, มองว่า",
       "example": "I regard that as a mistake."
     },
     {
@@ -5118,12 +5118,12 @@
     },
     {
       "word": "reinforce",
-      "translation": "ตอกย้ำเสริม",
+      "translation": "ตอกย้ำ, เสริม",
       "example": "The result reinforces our view."
     },
     {
       "word": "relatively",
-      "translation": "ค่อนข้างจะโดยเปรียบเทียบ",
+      "translation": "ค่อนข้างจะ, โดยเปรียบเทียบ",
       "example": "The task is relatively simple."
     },
     {
@@ -5163,7 +5163,7 @@
     },
     {
       "word": "remark",
-      "translation": "คำพูดข้อสังเกต",
+      "translation": "คำพูด, ข้อสังเกต",
       "example": "His remark upset her."
     },
     {
@@ -5223,7 +5223,7 @@
     },
     {
       "word": "resolution",
-      "translation": "มติข้อยุติ",
+      "translation": "มติ, ข้อยุติ",
       "example": "The meeting passed a resolution."
     },
     {
@@ -5238,7 +5238,7 @@
     },
     {
       "word": "restore",
-      "translation": "บูรณะฟื้นฟู",
+      "translation": "บูรณะ, ฟื้นฟู",
       "example": "They restored the old clock."
     },
     {
@@ -5283,7 +5283,7 @@
     },
     {
       "word": "revision",
-      "translation": "การแก้ไขทบทวน",
+      "translation": "การแก้ไข, ทบทวน",
       "example": "The essay needs one more revision."
     },
     {
@@ -5293,7 +5293,7 @@
     },
     {
       "word": "reward",
-      "translation": "รางวัลตอบแทน",
+      "translation": "รางวัล, ตอบแทน",
       "example": "The reward was never claimed."
     },
     {
@@ -5313,7 +5313,7 @@
     },
     {
       "word": "rigorous",
-      "translation": "ที่เข้มงวดรัดกุม",
+      "translation": "ที่เข้มงวด, รัดกุม",
       "example": "The testing was rigorous."
     },
     {
@@ -5413,7 +5413,7 @@
     },
     {
       "word": "scale",
-      "translation": "ขนาดขอบเขต",
+      "translation": "ขนาด, ขอบเขต",
       "example": "The scale of the problem grew."
     },
     {
@@ -5433,7 +5433,7 @@
     },
     {
       "word": "scheme",
-      "translation": "โครงการแผนการ",
+      "translation": "โครงการ, แผนการ",
       "example": "The scheme ran for two years."
     },
     {
@@ -5468,7 +5468,7 @@
     },
     {
       "word": "secure",
-      "translation": "ที่ปลอดภัยมั่นคง",
+      "translation": "ที่ปลอดภัย, มั่นคง",
       "example": "The lock is not secure."
     },
     {
@@ -5508,7 +5508,7 @@
     },
     {
       "word": "sensitive",
-      "translation": "ที่อ่อนไหวละเอียดอ่อน",
+      "translation": "ที่อ่อนไหว, ละเอียดอ่อน",
       "example": "It is a sensitive subject."
     },
     {
@@ -5533,7 +5533,7 @@
     },
     {
       "word": "severe",
-      "translation": "ที่รุนแรงหนัก",
+      "translation": "ที่รุนแรง, หนัก",
       "example": "The weather was severe."
     },
     {
@@ -5733,12 +5733,12 @@
     },
     {
       "word": "sophisticated",
-      "translation": "ซับซ้อนล้ำสมัย",
+      "translation": "ซับซ้อน, ล้ำสมัย",
       "example": "The system is more sophisticated than it looks."
     },
     {
       "word": "soul",
-      "translation": "จิตวิญญาณความรู้สึก",
+      "translation": "จิตวิญญาณ, ความรู้สึก",
       "example": "The music has real soul."
     },
     {
@@ -5848,7 +5848,7 @@
     },
     {
       "word": "stable",
-      "translation": "ที่คงที่มั่นคง",
+      "translation": "ที่คงที่, มั่นคง",
       "example": "The patient is stable now."
     },
     {
@@ -5883,7 +5883,7 @@
     },
     {
       "word": "steady",
-      "translation": "ที่คงที่สม่ำเสมอ",
+      "translation": "ที่คงที่, สม่ำเสมอ",
       "example": "The improvement was steady."
     },
     {
@@ -5963,7 +5963,7 @@
     },
     {
       "word": "struggle",
-      "translation": "ดิ้นรนต่อสู้",
+      "translation": "ดิ้นรน, ต่อสู้",
       "example": "They struggled to pay the rent."
     },
     {
@@ -6013,7 +6013,7 @@
     },
     {
       "word": "sum",
-      "translation": "ผลรวมจำนวนเงิน",
+      "translation": "ผลรวม, จำนวนเงิน",
       "example": "The sum was larger than expected."
     },
     {
@@ -6118,7 +6118,7 @@
     },
     {
       "word": "tale",
-      "translation": "นิทานเรื่องเล่า",
+      "translation": "นิทาน, เรื่องเล่า",
       "example": "It is an old local tale."
     },
     {
@@ -6248,7 +6248,7 @@
     },
     {
       "word": "thorough",
-      "translation": "ละเอียดถี่ถ้วน",
+      "translation": "ละเอียด, ถี่ถ้วน",
       "example": "They carried out a thorough review."
     },
     {
@@ -6303,7 +6303,7 @@
     },
     {
       "word": "tough",
-      "translation": "ยากลำบากเหนียว",
+      "translation": "ยากลำบาก, เหนียว",
       "example": "It was a tough decision."
     },
     {
@@ -6433,7 +6433,7 @@
     },
     {
       "word": "ultimate",
-      "translation": "สูงสุดปลายทาง",
+      "translation": "สูงสุด, ปลายทาง",
       "example": "The ultimate aim is a cure."
     },
     {
@@ -6478,12 +6478,12 @@
     },
     {
       "word": "unfold",
-      "translation": "คลี่คลายเผยออก",
+      "translation": "คลี่คลาย, เผยออก",
       "example": "The story unfolds slowly."
     },
     {
       "word": "unfortunate",
-      "translation": "โชคร้ายไม่เหมาะ",
+      "translation": "โชคร้าย, ไม่เหมาะ",
       "example": "It was an unfortunate choice of word."
     },
     {
@@ -6503,7 +6503,7 @@
     },
     {
       "word": "universal",
-      "translation": "สากลทั่วไป",
+      "translation": "สากล, ทั่วไป",
       "example": "The rule is universal."
     },
     {
@@ -6568,7 +6568,7 @@
     },
     {
       "word": "vast",
-      "translation": "กว้างใหญ่ไพศาล",
+      "translation": "กว้างใหญ่, ไพศาล",
       "example": "A vast plain lay ahead."
     },
     {
@@ -6648,7 +6648,7 @@
     },
     {
       "word": "volume",
-      "translation": "ระดับเสียงปริมาตร",
+      "translation": "ระดับเสียง, ปริมาตร",
       "example": "Turn the volume down."
     },
     {
@@ -6723,7 +6723,7 @@
     },
     {
       "word": "whereas",
-      "translation": "ในขณะที่ตรงกันข้าม",
+      "translation": "ในขณะที่, ตรงกันข้าม",
       "example": "He walks, whereas she drives."
     },
     {
@@ -6768,7 +6768,7 @@
     },
     {
       "word": "wire",
-      "translation": "สายไฟลวด",
+      "translation": "สายไฟ, ลวด",
       "example": "A loose wire caused the fault."
     },
     {
@@ -6778,7 +6778,7 @@
     },
     {
       "word": "wise",
-      "translation": "ฉลาดสุขุม",
+      "translation": "ฉลาด, สุขุม",
       "example": "That was a wise decision."
     },
     {
@@ -6813,7 +6813,7 @@
     },
     {
       "word": "worm",
-      "translation": "หนอนไส้เดือน",
+      "translation": "หนอน, ไส้เดือน",
       "example": "A worm turned in the wet soil."
     },
     {
