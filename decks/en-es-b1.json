@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "es",
   "level": "B1",
-  "version": 14,
+  "version": 15,
   "items": [
     {
       "word": "absolutely",
@@ -28,7 +28,7 @@
     },
     {
       "word": "account",
-      "translation": "la cuenta bancaria",
+      "translation": "la cuenta",
       "example": "He opened an account last week."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "word": "ad",
-      "translation": "el anuncio breve",
+      "translation": "el anuncio",
       "example": "The ad ran for two weeks."
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "word": "announcement",
-      "translation": "el anuncio oficial",
+      "translation": "el anuncio",
       "example": "The announcement surprised everyone."
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "word": "assignment",
-      "translation": "la tarea asignada",
+      "translation": "la tarea",
       "example": "The assignment is due Friday."
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "word": "balance",
-      "translation": "el equilibrio corporal",
+      "translation": "el equilibrio",
       "example": "He lost his balance on the step."
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "word": "basis",
-      "translation": "la base regular",
+      "translation": "la base",
       "example": "We meet on a weekly basis."
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "word": "breathing",
-      "translation": "la respiración pausada",
+      "translation": "la respiración",
       "example": "Her breathing slowed at last."
     },
     {
@@ -533,7 +533,7 @@
     },
     {
       "word": "client",
-      "translation": "el cliente profesional",
+      "translation": "el cliente",
       "example": "The client cancelled the order."
     },
     {
@@ -758,7 +758,7 @@
     },
     {
       "word": "currency",
-      "translation": "la moneda nacional",
+      "translation": "la moneda",
       "example": "The currency lost value quickly."
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "word": "entry",
-      "translation": "el acceso pagado",
+      "translation": "la entrada",
       "example": "Entry costs five euros."
     },
     {
@@ -1128,7 +1128,7 @@
     },
     {
       "word": "eventually",
-      "translation": "finalmente tras un tiempo",
+      "translation": "finalmente",
       "example": "He eventually agreed."
     },
     {
@@ -1198,7 +1198,7 @@
     },
     {
       "word": "familiar",
-      "translation": "familiar conocido",
+      "translation": "familiar, conocido",
       "example": "His face looked familiar."
     },
     {
@@ -1523,7 +1523,7 @@
     },
     {
       "word": "historic",
-      "translation": "histórico trascendente",
+      "translation": "histórico",
       "example": "It was a historic decision."
     },
     {
@@ -1738,7 +1738,7 @@
     },
     {
       "word": "journal",
-      "translation": "el diario personal",
+      "translation": "el diario, la revista",
       "example": "She keeps a daily journal."
     },
     {
@@ -1798,7 +1798,7 @@
     },
     {
       "word": "lay",
-      "translation": "poner extendido",
+      "translation": "poner, colocar",
       "example": "Lay the cloth on the table."
     },
     {
@@ -1808,7 +1808,7 @@
     },
     {
       "word": "leading",
-      "translation": "destacado principal",
+      "translation": "destacado, principal",
       "example": "She is a leading expert."
     },
     {
@@ -1958,7 +1958,7 @@
     },
     {
       "word": "mild",
-      "translation": "suave templado",
+      "translation": "suave, templado",
       "example": "The winter was unusually mild."
     },
     {
@@ -2073,7 +2073,7 @@
     },
     {
       "word": "occur",
-      "translation": "ocurrir esporádicamente",
+      "translation": "ocurrir",
       "example": "The fault occurs rarely."
     },
     {
@@ -2238,7 +2238,7 @@
     },
     {
       "word": "pleasant",
-      "translation": "agradable grato",
+      "translation": "agradable, grato",
       "example": "It was a pleasant surprise."
     },
     {
@@ -2288,7 +2288,7 @@
     },
     {
       "word": "policy",
-      "translation": "la política institucional",
+      "translation": "la política",
       "example": "The policy changed last year."
     },
     {
@@ -2338,7 +2338,7 @@
     },
     {
       "word": "powder",
-      "translation": "el polvo fino",
+      "translation": "el polvo",
       "example": "Mix the powder with water."
     },
     {
@@ -2358,7 +2358,7 @@
     },
     {
       "word": "prayer",
-      "translation": "la oración religiosa",
+      "translation": "la oración",
       "example": "She said a short prayer."
     },
     {
@@ -2453,7 +2453,7 @@
     },
     {
       "word": "profit",
-      "translation": "el beneficio económico",
+      "translation": "el beneficio",
       "example": "The shop made no profit."
     },
     {
@@ -2488,7 +2488,7 @@
     },
     {
       "word": "prove",
-      "translation": "probar demostrar",
+      "translation": "probar, demostrar",
       "example": "He could not prove it."
     },
     {
@@ -2533,17 +2533,17 @@
     },
     {
       "word": "quit",
-      "translation": "dejar el trabajo",
+      "translation": "dejar, renunciar",
       "example": "He quit the job in May."
     },
     {
       "word": "quotation",
-      "translation": "la cita textual",
+      "translation": "la cita",
       "example": "He began with a quotation."
     },
     {
       "word": "quote",
-      "translation": "citar palabras",
+      "translation": "citar",
       "example": "She quoted his own words."
     },
     {
@@ -2613,7 +2613,7 @@
     },
     {
       "word": "reject",
-      "translation": "rechazar una oferta",
+      "translation": "rechazar",
       "example": "They rejected the offer."
     },
     {
@@ -2838,7 +2838,7 @@
     },
     {
       "word": "security",
-      "translation": "la seguridad vigilancia",
+      "translation": "la seguridad",
       "example": "Security checked every bag."
     },
     {
@@ -2918,7 +2918,7 @@
     },
     {
       "word": "shoot",
-      "translation": "rodar disparar",
+      "translation": "disparar, rodar",
       "example": "They shot the scene twice."
     },
     {
@@ -2938,7 +2938,7 @@
     },
     {
       "word": "silent",
-      "translation": "silencioso callado",
+      "translation": "silencioso, callado",
       "example": "The room went silent."
     },
     {
@@ -2993,7 +2993,7 @@
     },
     {
       "word": "smart",
-      "translation": "astuto inteligente",
+      "translation": "inteligente, elegante",
       "example": "That was a smart move."
     },
     {
@@ -3033,7 +3033,7 @@
     },
     {
       "word": "spending",
-      "translation": "el gasto público",
+      "translation": "el gasto",
       "example": "Spending rose again last year."
     },
     {
@@ -3168,7 +3168,7 @@
     },
     {
       "word": "supporter",
-      "translation": "el partidario seguidor",
+      "translation": "el partidario, el seguidor",
       "example": "One supporter shouted back."
     },
     {
@@ -3188,7 +3188,7 @@
     },
     {
       "word": "switch",
-      "translation": "apagar cambiar",
+      "translation": "cambiar, el interruptor",
       "example": "Switch the light off."
     },
     {
@@ -3218,7 +3218,7 @@
     },
     {
       "word": "tape",
-      "translation": "la cinta adhesiva",
+      "translation": "la cinta",
       "example": "He mended it with tape."
     },
     {
@@ -3248,7 +3248,7 @@
     },
     {
       "word": "theme",
-      "translation": "el tema central",
+      "translation": "el tema",
       "example": "The theme runs through the book."
     },
     {
@@ -3348,7 +3348,7 @@
     },
     {
       "word": "trend",
-      "translation": "la tendencia general",
+      "translation": "la tendencia",
       "example": "The trend is clearly upward."
     },
     {

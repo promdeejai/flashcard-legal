@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "es",
   "level": "B2",
-  "version": 14,
+  "version": 15,
   "items": [
     {
       "word": "abandon",
@@ -698,7 +698,7 @@
     },
     {
       "word": "breast",
-      "translation": "el pecho anatómico",
+      "translation": "el pecho",
       "example": "The scan showed a breast injury."
     },
     {
@@ -898,7 +898,7 @@
     },
     {
       "word": "chief",
-      "translation": "el jefe principal",
+      "translation": "el jefe",
       "example": "The chief engineer signed it off."
     },
     {
@@ -1723,7 +1723,7 @@
     },
     {
       "word": "deserve",
-      "translation": "merecer algo",
+      "translation": "merecer",
       "example": "She deserves the credit."
     },
     {
@@ -2148,7 +2148,7 @@
     },
     {
       "word": "engage",
-      "translation": "captar el interés",
+      "translation": "captar, involucrar",
       "example": "The talk engaged the whole room."
     },
     {
@@ -2263,7 +2263,7 @@
     },
     {
       "word": "evaluate",
-      "translation": "evaluar detenidamente",
+      "translation": "evaluar",
       "example": "We evaluate every application."
     },
     {
@@ -2293,7 +2293,7 @@
     },
     {
       "word": "examination",
-      "translation": "el examen minucioso",
+      "translation": "el examen",
       "example": "The examination was thorough."
     },
     {
@@ -2763,7 +2763,7 @@
     },
     {
       "word": "gain",
-      "translation": "obtener ganancia",
+      "translation": "obtener, la ganancia",
       "example": "They gained nothing from it."
     },
     {
@@ -2973,7 +2973,7 @@
     },
     {
       "word": "heaven",
-      "translation": "el cielo celestial",
+      "translation": "el cielo",
       "example": "They believed in heaven."
     },
     {
@@ -3003,7 +3003,7 @@
     },
     {
       "word": "hesitate",
-      "translation": "vacilar brevemente",
+      "translation": "vacilar",
       "example": "She hesitated before answering."
     },
     {
@@ -3083,7 +3083,7 @@
     },
     {
       "word": "humour",
-      "translation": "el humor cómico",
+      "translation": "el humor",
       "example": "His humour is very dry."
     },
     {
@@ -3163,7 +3163,7 @@
     },
     {
       "word": "imply",
-      "translation": "implicar sutilmente",
+      "translation": "implicar",
       "example": "His silence implied agreement."
     },
     {
@@ -3328,7 +3328,7 @@
     },
     {
       "word": "insight",
-      "translation": "la perspicacia aguda",
+      "translation": "la perspicacia",
       "example": "Her insight saved us weeks."
     },
     {
@@ -3363,7 +3363,7 @@
     },
     {
       "word": "instance",
-      "translation": "el caso concreto",
+      "translation": "el caso",
       "example": "This is one instance of it."
     },
     {
@@ -3728,7 +3728,7 @@
     },
     {
       "word": "lord",
-      "translation": "el señor feudal",
+      "translation": "el señor",
       "example": "The lord owned the whole valley."
     },
     {
@@ -4038,12 +4038,12 @@
     },
     {
       "word": "motor",
-      "translation": "el motor eléctrico",
+      "translation": "el motor",
       "example": "The motor burned out."
     },
     {
       "word": "mount",
-      "translation": "montar fijar",
+      "translation": "montar, fijar",
       "example": "They mounted the camera on a pole."
     },
     {
@@ -4198,7 +4198,7 @@
     },
     {
       "word": "objective",
-      "translation": "el objetivo fijado",
+      "translation": "el objetivo",
       "example": "Our objective is clear."
     },
     {
@@ -4363,7 +4363,7 @@
     },
     {
       "word": "outcome",
-      "translation": "el resultado final",
+      "translation": "el resultado",
       "example": "The outcome was never in doubt."
     },
     {
@@ -4413,7 +4413,7 @@
     },
     {
       "word": "owe",
-      "translation": "deber dinero",
+      "translation": "deber",
       "example": "He still owes me money."
     },
     {
@@ -4558,7 +4558,7 @@
     },
     {
       "word": "permit",
-      "translation": "permitir formalmente",
+      "translation": "permitir",
       "example": "The council will not permit it."
     },
     {
@@ -4618,12 +4618,12 @@
     },
     {
       "word": "plain",
-      "translation": "sencillo claro",
+      "translation": "sencillo, claro",
       "example": "The answer was plain enough."
     },
     {
       "word": "plausibility",
-      "translation": "la verosimilitud aparente",
+      "translation": "la verosimilitud",
       "example": "The plausibility of the story faded."
     },
     {
@@ -4738,7 +4738,7 @@
     },
     {
       "word": "prime",
-      "translation": "primordial principal",
+      "translation": "principal",
       "example": "That is the prime reason."
     },
     {
@@ -4748,7 +4748,7 @@
     },
     {
       "word": "principle",
-      "translation": "el principio moral",
+      "translation": "el principio",
       "example": "It is a matter of principle."
     },
     {
@@ -4843,7 +4843,7 @@
     },
     {
       "word": "prospect",
-      "translation": "la perspectiva futura",
+      "translation": "la perspectiva",
       "example": "The prospect of failure worried him."
     },
     {
@@ -4983,7 +4983,7 @@
     },
     {
       "word": "rapid",
-      "translation": "rápido veloz",
+      "translation": "rápido, veloz",
       "example": "The change was rapid."
     },
     {
@@ -5163,7 +5163,7 @@
     },
     {
       "word": "remark",
-      "translation": "el comentario dicho",
+      "translation": "el comentario",
       "example": "His remark upset her."
     },
     {
@@ -5298,7 +5298,7 @@
     },
     {
       "word": "rhythm",
-      "translation": "el ritmo musical",
+      "translation": "el ritmo",
       "example": "The rhythm is hard to follow."
     },
     {
@@ -5433,7 +5433,7 @@
     },
     {
       "word": "scheme",
-      "translation": "el plan organizado",
+      "translation": "el plan",
       "example": "The scheme ran for two years."
     },
     {
@@ -5468,12 +5468,12 @@
     },
     {
       "word": "secure",
-      "translation": "seguro firme",
+      "translation": "seguro, firme",
       "example": "The lock is not secure."
     },
     {
       "word": "seek",
-      "translation": "buscar consejo",
+      "translation": "buscar",
       "example": "They sought advice early."
     },
     {
@@ -5523,7 +5523,7 @@
     },
     {
       "word": "settle",
-      "translation": "resolver zanjar",
+      "translation": "resolver, zanjar",
       "example": "They settled the matter quietly."
     },
     {
@@ -5553,7 +5553,7 @@
     },
     {
       "word": "shadow",
-      "translation": "la sombra proyectada",
+      "translation": "la sombra",
       "example": "His shadow fell across the door."
     },
     {
@@ -5728,7 +5728,7 @@
     },
     {
       "word": "somewhat",
-      "translation": "algo un tanto",
+      "translation": "algo, un tanto",
       "example": "The room is somewhat smaller."
     },
     {
@@ -5883,7 +5883,7 @@
     },
     {
       "word": "steady",
-      "translation": "constante sostenido",
+      "translation": "constante, estable",
       "example": "The improvement was steady."
     },
     {
@@ -6298,12 +6298,12 @@
     },
     {
       "word": "tonne",
-      "translation": "la tonelada métrica",
+      "translation": "la tonelada",
       "example": "A tonne is a thousand kilograms."
     },
     {
       "word": "tough",
-      "translation": "duro difícil",
+      "translation": "duro, difícil",
       "example": "It was a tough decision."
     },
     {
@@ -6413,7 +6413,7 @@
     },
     {
       "word": "trust",
-      "translation": "confiar plenamente",
+      "translation": "confiar",
       "example": "I trust her completely."
     },
     {
