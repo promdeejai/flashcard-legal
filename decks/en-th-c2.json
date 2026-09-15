@@ -4,11 +4,11 @@
   "learn": "en",
   "native": "th",
   "level": "C2",
-  "version": 13,
+  "version": 14,
   "items": [
     {
       "word": "abate",
-      "translation": "บรรเทาลดลง",
+      "translation": "บรรเทา, ลดลง",
       "example": "The wind abated after midnight."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "word": "abet",
-      "translation": "ช่วยเหลือสนับสนุนในการทำผิด",
+      "translation": "ช่วยเหลือ, สนับสนุนในการทำผิด",
       "example": "He was charged with abetting the theft."
     },
     {
@@ -48,17 +48,17 @@
     },
     {
       "word": "abjure",
-      "translation": "สละละทิ้งอย่างเป็นทางการ",
+      "translation": "สละ, ละทิ้งอย่างเป็นทางการ",
       "example": "He abjured his earlier claims."
     },
     {
       "word": "abrogate",
-      "translation": "ยกเลิกเพิกถอน",
+      "translation": "ยกเลิก, เพิกถอน",
       "example": "The treaty was abrogated without warning."
     },
     {
       "word": "abrogation",
-      "translation": "การยกเลิกเพิกถอน",
+      "translation": "การยกเลิก, เพิกถอน",
       "example": "The abrogation of the treaty shocked everyone."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "word": "abstain",
-      "translation": "งดออกเสียงละเว้น",
+      "translation": "งดออกเสียง, ละเว้น",
       "example": "Three members abstained."
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "word": "abstruse",
-      "translation": "ที่เข้าใจยากลึกลับ",
+      "translation": "ที่เข้าใจยาก, ลึกลับ",
       "example": "The argument is needlessly abstruse."
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "word": "accede",
-      "translation": "ยินยอมตกลงตาม",
+      "translation": "ยินยอม, ตกลงตาม",
       "example": "She acceded to the request."
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "word": "accession",
-      "translation": "การขึ้นครองการเข้าร่วม",
+      "translation": "การขึ้นครอง, การเข้าร่วม",
       "example": "Her accession to the throne was quick."
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "word": "accolade",
-      "translation": "เกียรติยศคำยกย่อง",
+      "translation": "เกียรติยศ, คำยกย่อง",
       "example": "The prize is the highest accolade in the field."
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "word": "accrue",
-      "translation": "สะสมเพิ่มพูนขึ้น",
+      "translation": "สะสม, เพิ่มพูนขึ้น",
       "example": "Interest accrues from the first day."
     },
     {
       "word": "acerbic",
-      "translation": "ที่เผ็ดร้อนแสบสัน",
+      "translation": "ที่เผ็ดร้อน, แสบสัน",
       "example": "His acerbic reply ended the talk."
     },
     {
@@ -173,17 +173,17 @@
     },
     {
       "word": "acrimonious",
-      "translation": "ที่ขมขื่นดุเดือด",
+      "translation": "ที่ขมขื่น, ดุเดือด",
       "example": "The dispute became acrimonious."
     },
     {
       "word": "acrimony",
-      "translation": "ความขมขื่นบาดหมาง",
+      "translation": "ความขมขื่น, บาดหมาง",
       "example": "The meeting ended in acrimony."
     },
     {
       "word": "acuity",
-      "translation": "ความคมชัดความเฉียบแหลม",
+      "translation": "ความคมชัด, ความเฉียบแหลม",
       "example": "Her visual acuity is excellent."
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "word": "adage",
-      "translation": "ภาษิตคำพังเพย",
+      "translation": "ภาษิต, คำพังเพย",
       "example": "The old adage proved right."
     },
     {
@@ -203,12 +203,12 @@
     },
     {
       "word": "adherence",
-      "translation": "การยึดถือปฏิบัติตาม",
+      "translation": "การยึดถือ, ปฏิบัติตาม",
       "example": "Adherence to the rules is expected."
     },
     {
       "word": "adherent",
-      "translation": "ผู้ยึดถือผู้สนับสนุน",
+      "translation": "ผู้ยึดถือ, ผู้สนับสนุน",
       "example": "The theory has few adherents now."
     },
     {
@@ -228,17 +228,17 @@
     },
     {
       "word": "adroit",
-      "translation": "ที่ชำนาญคล่องแคล่ว",
+      "translation": "ที่ชำนาญ, คล่องแคล่ว",
       "example": "She is adroit at handling questions."
     },
     {
       "word": "adulation",
-      "translation": "การยกย่องสรรเสริญเกินไป",
+      "translation": "การยกย่อง, สรรเสริญเกินไป",
       "example": "The adulation did not last."
     },
     {
       "word": "advent",
-      "translation": "การมาถึงการเริ่มต้น",
+      "translation": "การมาถึง, การเริ่มต้น",
       "example": "The advent of the railway changed the town."
     },
     {
@@ -253,12 +253,12 @@
     },
     {
       "word": "aegis",
-      "translation": "การอุปถัมภ์คุ้มครอง",
+      "translation": "การอุปถัมภ์, คุ้มครอง",
       "example": "The work continued under the aegis of the trust."
     },
     {
       "word": "affable",
-      "translation": "ที่เป็นมิตรน่าคบ",
+      "translation": "ที่เป็นมิตร, น่าคบ",
       "example": "The landlord was affable."
     },
     {
@@ -273,17 +273,17 @@
     },
     {
       "word": "affinity",
-      "translation": "ความรู้สึกผูกพันความคล้ายคลึง",
+      "translation": "ความรู้สึกผูกพัน, ความคล้ายคลึง",
       "example": "She has an affinity with old buildings."
     },
     {
       "word": "affliction",
-      "translation": "ความทุกข์ทรมานโรคภัย",
+      "translation": "ความทุกข์ทรมาน, โรคภัย",
       "example": "Deafness was his one affliction."
     },
     {
       "word": "alacrity",
-      "translation": "ความกระตือรือร้นฉับไว",
+      "translation": "ความกระตือรือร้น, ฉับไว",
       "example": "He accepted with surprising alacrity."
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "word": "altercation",
-      "translation": "การโต้เถียงวิวาท",
+      "translation": "การโต้เถียง, วิวาท",
       "example": "There was a brief altercation outside."
     },
     {
@@ -343,12 +343,12 @@
     },
     {
       "word": "ameliorate",
-      "translation": "ทำให้ดีขึ้นบรรเทา",
+      "translation": "ทำให้ดีขึ้น, บรรเทา",
       "example": "The grant ameliorated the worst of it."
     },
     {
       "word": "amenable",
-      "translation": "ที่ยินยอมพร้อมรับฟัง",
+      "translation": "ที่ยินยอม, พร้อมรับฟัง",
       "example": "She is amenable to a later date."
     },
     {
@@ -368,7 +368,7 @@
     },
     {
       "word": "anarchy",
-      "translation": "ความไร้ระเบียบอนาธิปไตย",
+      "translation": "ความไร้ระเบียบ, อนาธิปไตย",
       "example": "The strike brought near anarchy."
     },
     {
@@ -403,17 +403,17 @@
     },
     {
       "word": "antagonize",
-      "translation": "ทำให้เป็นศัตรูยั่วโมโห",
+      "translation": "ทำให้เป็นศัตรู, ยั่วโมโห",
       "example": "He antagonized the whole committee."
     },
     {
       "word": "antecedent",
-      "translation": "สิ่งที่มาก่อนต้นตอ",
+      "translation": "สิ่งที่มาก่อน, ต้นตอ",
       "example": "The custom has a medieval antecedent."
     },
     {
       "word": "antidote",
-      "translation": "ยาแก้พิษสิ่งแก้",
+      "translation": "ยาแก้พิษ, สิ่งแก้",
       "example": "Music was her antidote to the week."
     },
     {
@@ -438,12 +438,12 @@
     },
     {
       "word": "apathetic",
-      "translation": "ที่เฉยเมยไม่ใส่ใจ",
+      "translation": "ที่เฉยเมย, ไม่ใส่ใจ",
       "example": "The public was apathetic about the vote."
     },
     {
       "word": "aperture",
-      "translation": "ช่องรับแสงรูเปิด",
+      "translation": "ช่องรับแสง, รูเปิด",
       "example": "Widen the aperture in low light."
     },
     {
@@ -453,7 +453,7 @@
     },
     {
       "word": "aplomb",
-      "translation": "ความสุขุมมั่นใจ",
+      "translation": "ความสุขุม, มั่นใจ",
       "example": "He handled the question with aplomb."
     },
     {
@@ -468,7 +468,7 @@
     },
     {
       "word": "apparition",
-      "translation": "ภูตผีสิ่งที่ปรากฏ",
+      "translation": "ภูตผี, สิ่งที่ปรากฏ",
       "example": "The story turns on an apparition."
     },
     {
@@ -483,7 +483,7 @@
     },
     {
       "word": "apprehension",
-      "translation": "ความกังวลหวั่นใจ",
+      "translation": "ความกังวล, หวั่นใจ",
       "example": "She waited with some apprehension."
     },
     {
@@ -493,7 +493,7 @@
     },
     {
       "word": "aptitude",
-      "translation": "ความถนัดความสามารถพิเศษ",
+      "translation": "ความถนัด, ความสามารถพิเศษ",
       "example": "She has an aptitude for languages."
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "word": "artifice",
-      "translation": "กลอุบายเล่ห์เหลี่ยม",
+      "translation": "กลอุบาย, เล่ห์เหลี่ยม",
       "example": "The simple style is pure artifice."
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "word": "atone",
-      "translation": "ชดใช้ไถ่โทษ",
+      "translation": "ชดใช้, ไถ่โทษ",
       "example": "He wanted to atone for the delay."
     },
     {
@@ -593,12 +593,12 @@
     },
     {
       "word": "auspicious",
-      "translation": "ที่เป็นมงคลนิมิตดี",
+      "translation": "ที่เป็นมงคล, นิมิตดี",
       "example": "It was an auspicious start."
     },
     {
       "word": "austere",
-      "translation": "ที่เคร่งครัดเรียบง่าย",
+      "translation": "ที่เคร่งครัด, เรียบง่าย",
       "example": "The room was austere but warm."
     },
     {
@@ -623,12 +623,12 @@
     },
     {
       "word": "aversion",
-      "translation": "ความรังเกียจไม่ชอบ",
+      "translation": "ความรังเกียจ, ไม่ชอบ",
       "example": "She has an aversion to crowds."
     },
     {
       "word": "axiom",
-      "translation": "สัจพจน์หลักที่ยอมรับกัน",
+      "translation": "สัจพจน์, หลักที่ยอมรับกัน",
       "example": "It is an axiom of the trade."
     },
     {
@@ -638,12 +638,12 @@
     },
     {
       "word": "baleful",
-      "translation": "ที่มุ่งร้ายชั่วร้าย",
+      "translation": "ที่มุ่งร้าย, ชั่วร้าย",
       "example": "He gave the dog a baleful look."
     },
     {
       "word": "balk",
-      "translation": "ชะงักไม่ยอมทำ",
+      "translation": "ชะงัก, ไม่ยอมทำ",
       "example": "The horse balked at the ditch."
     },
     {
@@ -653,12 +653,12 @@
     },
     {
       "word": "balm",
-      "translation": "สิ่งบรรเทายาทา",
+      "translation": "สิ่งบรรเทา, ยาทา",
       "example": "The evening air was a balm."
     },
     {
       "word": "banal",
-      "translation": "ที่จืดชืดซ้ำซาก",
+      "translation": "ที่จืดชืด, ซ้ำซาก",
       "example": "The lyrics are banal."
     },
     {
@@ -673,22 +673,22 @@
     },
     {
       "word": "bastion",
-      "translation": "ป้อมปราการที่มั่น",
+      "translation": "ป้อมปราการ, ที่มั่น",
       "example": "The library is a bastion of quiet."
     },
     {
       "word": "bear up",
-      "translation": "อดทนต้านทานไว้ได้",
+      "translation": "อดทน, ต้านทานไว้ได้",
       "example": "She bore up well under the strain."
     },
     {
       "word": "bedlam",
-      "translation": "ความโกลาหลอลหม่าน",
+      "translation": "ความโกลาหล, อลหม่าน",
       "example": "The hall was bedlam by four."
     },
     {
       "word": "beguile",
-      "translation": "ทำให้เพลิดเพลินหลงใหล",
+      "translation": "ทำให้เพลิดเพลิน, หลงใหล",
       "example": "The music beguiled the whole room."
     },
     {
@@ -698,12 +698,12 @@
     },
     {
       "word": "beleaguer",
-      "translation": "รุมเร้าล้อมกดดัน",
+      "translation": "รุมเร้า, ล้อมกดดัน",
       "example": "The beleaguered manager resigned."
     },
     {
       "word": "belie",
-      "translation": "ปิดบังทำให้เข้าใจผิด",
+      "translation": "ปิดบัง, ทำให้เข้าใจผิด",
       "example": "Her calm voice belied her nerves."
     },
     {
@@ -713,7 +713,7 @@
     },
     {
       "word": "belligerent",
-      "translation": "ที่ก้าวร้าวชอบทะเลาะ",
+      "translation": "ที่ก้าวร้าว, ชอบทะเลาะ",
       "example": "He became belligerent after the loss."
     },
     {
@@ -723,7 +723,7 @@
     },
     {
       "word": "bemoan",
-      "translation": "คร่ำครวญบ่นเสียดาย",
+      "translation": "คร่ำครวญ, บ่นเสียดาย",
       "example": "They bemoaned the loss of the ferry."
     },
     {
@@ -753,7 +753,7 @@
     },
     {
       "word": "berate",
-      "translation": "ดุด่าตำหนิอย่างรุนแรง",
+      "translation": "ดุด่า, ตำหนิอย่างรุนแรง",
       "example": "He berated them for the delay."
     },
     {
@@ -763,17 +763,17 @@
     },
     {
       "word": "bereft",
-      "translation": "ที่ปราศจากขาดไร้",
+      "translation": "ที่ปราศจาก, ขาดไร้",
       "example": "He was bereft of ideas."
     },
     {
       "word": "beseech",
-      "translation": "อ้อนวอนวิงวอน",
+      "translation": "อ้อนวอน, วิงวอน",
       "example": "She beseeched them to wait."
     },
     {
       "word": "beset",
-      "translation": "รุมเร้าประดังเข้ามา",
+      "translation": "รุมเร้า, ประดังเข้ามา",
       "example": "The project was beset by delays."
     },
     {
@@ -783,7 +783,7 @@
     },
     {
       "word": "bestow",
-      "translation": "มอบให้ประสาทให้",
+      "translation": "มอบให้, ประสาทให้",
       "example": "The town bestowed an honour on her."
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "word": "bigotry",
-      "translation": "ความคิดคับแคบมีอคติ",
+      "translation": "ความคิดคับแคบ, มีอคติ",
       "example": "The letter is plain bigotry."
     },
     {
@@ -818,7 +818,7 @@
     },
     {
       "word": "blithe",
-      "translation": "ที่ไม่ใส่ใจร่าเริงเฉยเมย",
+      "translation": "ที่ไม่ใส่ใจ, ร่าเริง, เฉยเมย",
       "example": "She showed a blithe disregard for the cost."
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "word": "bombastic",
-      "translation": "ที่โอ้อวดคุยโว",
+      "translation": "ที่โอ้อวด, คุยโว",
       "example": "His speech was bombastic."
     },
     {
@@ -838,12 +838,12 @@
     },
     {
       "word": "boorish",
-      "translation": "ที่หยาบคายไร้มารยาท",
+      "translation": "ที่หยาบคาย, ไร้มารยาท",
       "example": "His boorish manner emptied the room."
     },
     {
       "word": "bounty",
-      "translation": "ความอุดมสมบูรณ์รางวัล",
+      "translation": "ความอุดมสมบูรณ์, รางวัล",
       "example": "The garden gave a summer bounty."
     },
     {
@@ -888,12 +888,12 @@
     },
     {
       "word": "burgeon",
-      "translation": "เติบโตขยายตัวอย่างรวดเร็ว",
+      "translation": "เติบโต, ขยายตัวอย่างรวดเร็ว",
       "example": "The town burgeoned after the mill opened."
     },
     {
       "word": "buttress",
-      "translation": "ค้ำจุนเสริมความแข็งแกร่ง",
+      "translation": "ค้ำจุน, เสริมความแข็งแกร่ง",
       "example": "The figures buttress her argument."
     },
     {
@@ -908,7 +908,7 @@
     },
     {
       "word": "cache",
-      "translation": "ที่ซ่อนของสะสมที่ซ่อนไว้",
+      "translation": "ที่ซ่อนของ, สะสมที่ซ่อนไว้",
       "example": "They found a cache of old letters."
     },
     {
@@ -918,17 +918,17 @@
     },
     {
       "word": "cadence",
-      "translation": "จังหวะทำนองเสียง",
+      "translation": "จังหวะ, ทำนองเสียง",
       "example": "The cadence of her speech is unusual."
     },
     {
       "word": "cajole",
-      "translation": "หว่านล้อมชักจูง",
+      "translation": "หว่านล้อม, ชักจูง",
       "example": "He cajoled them into staying."
     },
     {
       "word": "calibre",
-      "translation": "คุณภาพระดับความสามารถ",
+      "translation": "คุณภาพ, ระดับความสามารถ",
       "example": "The team is of a high calibre."
     },
     {
@@ -953,7 +953,7 @@
     },
     {
       "word": "cantankerous",
-      "translation": "ที่ขี้บ่นงอแง",
+      "translation": "ที่ขี้บ่น, งอแง",
       "example": "The old gate is cantankerous."
     },
     {
@@ -988,7 +988,7 @@
     },
     {
       "word": "cataclysm",
-      "translation": "มหันตภัยความหายนะ",
+      "translation": "มหันตภัย, ความหายนะ",
       "example": "The flood was a cataclysm."
     },
     {
@@ -998,7 +998,7 @@
     },
     {
       "word": "caustic",
-      "translation": "ที่แสบสันกัดกร่อน",
+      "translation": "ที่แสบสัน, กัดกร่อน",
       "example": "Her caustic review ended the run."
     },
     {
@@ -1018,12 +1018,12 @@
     },
     {
       "word": "cessation",
-      "translation": "การหยุดยุติ",
+      "translation": "การหยุด, ยุติ",
       "example": "The cessation of work came at noon."
     },
     {
       "word": "chagrin",
-      "translation": "ความขุ่นเคืองผิดหวัง",
+      "translation": "ความขุ่นเคือง, ผิดหวัง",
       "example": "To her chagrin, the shop had shut."
     },
     {
@@ -1033,12 +1033,12 @@
     },
     {
       "word": "chasm",
-      "translation": "ช่องว่างเหวลึก",
+      "translation": "ช่องว่าง, เหวลึก",
       "example": "There is a chasm between the two views."
     },
     {
       "word": "chastise",
-      "translation": "ดุว่าลงโทษ",
+      "translation": "ดุว่า, ลงโทษ",
       "example": "He chastised them for the mess."
     },
     {
@@ -1048,7 +1048,7 @@
     },
     {
       "word": "chicanery",
-      "translation": "เล่ห์เพทุบายการหลอกลวง",
+      "translation": "เล่ห์เพทุบาย, การหลอกลวง",
       "example": "The deal involved some chicanery."
     },
     {
@@ -1063,7 +1063,7 @@
     },
     {
       "word": "churlish",
-      "translation": "ที่หยาบคายไร้น้ำใจ",
+      "translation": "ที่หยาบคาย, ไร้น้ำใจ",
       "example": "It would be churlish to refuse."
     },
     {
@@ -1088,12 +1088,12 @@
     },
     {
       "word": "cleave",
-      "translation": "ผ่าแยกออก",
+      "translation": "ผ่า, แยกออก",
       "example": "The axe cleaved the log in two."
     },
     {
       "word": "clemency",
-      "translation": "ความเมตตาผ่อนโทษ",
+      "translation": "ความเมตตา, ผ่อนโทษ",
       "example": "The court showed clemency."
     },
     {
@@ -1108,12 +1108,12 @@
     },
     {
       "word": "cloistered",
-      "translation": "ที่สันโดษปลีกตัว",
+      "translation": "ที่สันโดษ, ปลีกตัว",
       "example": "She led a cloistered life."
     },
     {
       "word": "clout",
-      "translation": "อิทธิพลอำนาจ",
+      "translation": "อิทธิพล, อำนาจ",
       "example": "The committee has real clout."
     },
     {
@@ -1148,12 +1148,12 @@
     },
     {
       "word": "colossal",
-      "translation": "ที่มหึมามโหฬาร",
+      "translation": "ที่มหึมา, มโหฬาร",
       "example": "The cost was colossal."
     },
     {
       "word": "colossus",
-      "translation": "ผู้ยิ่งใหญ่รูปปั้นมหึมา",
+      "translation": "ผู้ยิ่งใหญ่, รูปปั้นมหึมา",
       "example": "He was a colossus in his field."
     },
     {
@@ -1163,7 +1163,7 @@
     },
     {
       "word": "commiserate",
-      "translation": "แสดงความเห็นใจร่วมทุกข์",
+      "translation": "แสดงความเห็นใจ, ร่วมทุกข์",
       "example": "We commiserated over the result."
     },
     {
@@ -1213,7 +1213,7 @@
     },
     {
       "word": "concordance",
-      "translation": "ดัชนีคำความสอดคล้อง",
+      "translation": "ดัชนีคำ, ความสอดคล้อง",
       "example": "The concordance lists every use."
     },
     {
@@ -1223,12 +1223,12 @@
     },
     {
       "word": "condone",
-      "translation": "ยอมให้ผ่านมองข้ามความผิด",
+      "translation": "ยอมให้ผ่าน, มองข้ามความผิด",
       "example": "The school does not condone lateness."
     },
     {
       "word": "confiscate",
-      "translation": "ยึดริบ",
+      "translation": "ยึด, ริบ",
       "example": "The guard confiscated the knife."
     },
     {
@@ -1243,12 +1243,12 @@
     },
     {
       "word": "confound",
-      "translation": "ทำให้งุนงงหักล้าง",
+      "translation": "ทำให้งุนงง, หักล้าง",
       "example": "The result confounded the experts."
     },
     {
       "word": "conjure",
-      "translation": "เสกให้เกิดขึ้นทำให้นึกถึง",
+      "translation": "เสกให้เกิดขึ้น, ทำให้นึกถึง",
       "example": "The smell conjures a whole summer."
     },
     {
@@ -1278,7 +1278,7 @@
     },
     {
       "word": "consternation",
-      "translation": "ความตกใจวิตก",
+      "translation": "ความตกใจ, วิตก",
       "example": "The news caused consternation."
     },
     {
@@ -1308,7 +1308,7 @@
     },
     {
       "word": "contravene",
-      "translation": "ฝ่าฝืนละเมิด",
+      "translation": "ฝ่าฝืน, ละเมิด",
       "example": "The sign contravenes the local rule."
     },
     {
@@ -1323,7 +1323,7 @@
     },
     {
       "word": "convene",
-      "translation": "เรียกประชุมมาประชุมกัน",
+      "translation": "เรียกประชุม, มาประชุมกัน",
       "example": "The panel convened in March."
     },
     {
@@ -1333,27 +1333,27 @@
     },
     {
       "word": "convivial",
-      "translation": "ที่รื่นเริงเป็นกันเอง",
+      "translation": "ที่รื่นเริง, เป็นกันเอง",
       "example": "The evening was convivial."
     },
     {
       "word": "convoluted",
-      "translation": "ที่ซับซ้อนวกวน",
+      "translation": "ที่ซับซ้อน, วกวน",
       "example": "The plot is convoluted."
     },
     {
       "word": "copious",
-      "translation": "ที่มากมายอุดม",
+      "translation": "ที่มากมาย, อุดม",
       "example": "She took copious notes."
     },
     {
       "word": "coquettish",
-      "translation": "ที่ยั่วเย้าเจ้าชู้",
+      "translation": "ที่ยั่วเย้า, เจ้าชู้",
       "example": "Her coquettish smile gave nothing away."
     },
     {
       "word": "cordial",
-      "translation": "ที่อบอุ่นจริงใจ",
+      "translation": "ที่อบอุ่น, จริงใจ",
       "example": "The welcome was cordial."
     },
     {
@@ -1368,7 +1368,7 @@
     },
     {
       "word": "corroborate",
-      "translation": "ยืนยันสนับสนุนหลักฐาน",
+      "translation": "ยืนยัน, สนับสนุนหลักฐาน",
       "example": "A second witness corroborated her account."
     },
     {
@@ -1388,12 +1388,12 @@
     },
     {
       "word": "countenance",
-      "translation": "ยินยอมเห็นชอบสีหน้า",
+      "translation": "ยินยอมเห็นชอบ, สีหน้า",
       "example": "She would not countenance a delay."
     },
     {
       "word": "covet",
-      "translation": "โลภอยากได้",
+      "translation": "โลภ, อยากได้",
       "example": "He coveted his neighbour's garden."
     },
     {
@@ -1418,7 +1418,7 @@
     },
     {
       "word": "crucible",
-      "translation": "เบ้าหลอมบททดสอบอันหนัก",
+      "translation": "เบ้าหลอม, บททดสอบอันหนัก",
       "example": "The year was a crucible for the team."
     },
     {
@@ -1433,17 +1433,17 @@
     },
     {
       "word": "culpable",
-      "translation": "ที่ควรถูกตำหนิมีความผิด",
+      "translation": "ที่ควรถูกตำหนิ, มีความผิด",
       "example": "The report found the firm culpable."
     },
     {
       "word": "culprit",
-      "translation": "ตัวการผู้กระทำผิด",
+      "translation": "ตัวการ, ผู้กระทำผิด",
       "example": "Damp was the culprit."
     },
     {
       "word": "cunning",
-      "translation": "ความเจ้าเล่ห์ฉลาดแกมโกง",
+      "translation": "ความเจ้าเล่ห์, ฉลาดแกมโกง",
       "example": "The plan showed real cunning."
     },
     {
@@ -1453,12 +1453,12 @@
     },
     {
       "word": "curmudgeon",
-      "translation": "คนขี้บ่นอารมณ์เสีย",
+      "translation": "คนขี้บ่น, อารมณ์เสีย",
       "example": "He plays the curmudgeon but he is kind."
     },
     {
       "word": "daft",
-      "translation": "ที่โง่เขลาบ้าๆ",
+      "translation": "ที่โง่เขลา, บ้าๆ",
       "example": "It was a daft idea."
     },
     {
@@ -1473,7 +1473,7 @@
     },
     {
       "word": "dawdle",
-      "translation": "เอ้อระเหยเดินอืดอาด",
+      "translation": "เอ้อระเหย, เดินอืดอาด",
       "example": "Do not dawdle on the way home."
     },
     {
@@ -1493,7 +1493,7 @@
     },
     {
       "word": "debonair",
-      "translation": "ที่สง่างามร่าเริง",
+      "translation": "ที่สง่างาม, ร่าเริง",
       "example": "He had a debonair manner."
     },
     {
@@ -1518,27 +1518,27 @@
     },
     {
       "word": "decorous",
-      "translation": "ที่สุภาพเรียบร้อยเหมาะสม",
+      "translation": "ที่สุภาพเรียบร้อย, เหมาะสม",
       "example": "Her behaviour was entirely decorous."
     },
     {
       "word": "decorum",
-      "translation": "ความสำรวมเหมาะสม",
+      "translation": "ความสำรวม, เหมาะสม",
       "example": "He kept his decorum throughout."
     },
     {
       "word": "decree",
-      "translation": "กฤษฎีกาคำสั่ง",
+      "translation": "กฤษฎีกา, คำสั่ง",
       "example": "The council issued a decree."
     },
     {
       "word": "decrepit",
-      "translation": "ที่ทรุดโทรมเก่าคร่ำครึ",
+      "translation": "ที่ทรุดโทรม, เก่าคร่ำครึ",
       "example": "The shed is decrepit."
     },
     {
       "word": "decry",
-      "translation": "ประณามตำหนิ",
+      "translation": "ประณาม, ตำหนิ",
       "example": "Critics decried the change."
     },
     {
@@ -1548,12 +1548,12 @@
     },
     {
       "word": "deference",
-      "translation": "ความเคารพนอบน้อม",
+      "translation": "ความเคารพ, นอบน้อม",
       "example": "She spoke with deference to her teacher."
     },
     {
       "word": "deflate",
-      "translation": "ทำให้แฟบทำให้หมดกำลังใจ",
+      "translation": "ทำให้แฟบ, ทำให้หมดกำลังใจ",
       "example": "The news deflated the whole room."
     },
     {
@@ -1563,7 +1563,7 @@
     },
     {
       "word": "dehort",
-      "translation": "ห้ามปรามชักชวนให้เลิก",
+      "translation": "ห้ามปราม, ชักชวนให้เลิก",
       "example": "The letter dehorts them from selling."
     },
     {
@@ -1578,7 +1578,7 @@
     },
     {
       "word": "deleterious",
-      "translation": "ที่เป็นอันตรายเป็นผลร้าย",
+      "translation": "ที่เป็นอันตราย, เป็นผลร้าย",
       "example": "The delay had a deleterious effect."
     },
     {
@@ -1598,12 +1598,12 @@
     },
     {
       "word": "deliverance",
-      "translation": "การปลดปล่อยการรอดพ้น",
+      "translation": "การปลดปล่อย, การรอดพ้น",
       "example": "The rain was a deliverance."
     },
     {
       "word": "deluge",
-      "translation": "ฝนห่าใหญ่น้ำท่วม",
+      "translation": "ฝนห่าใหญ่, น้ำท่วม",
       "example": "A deluge closed the road."
     },
     {
@@ -1613,32 +1613,32 @@
     },
     {
       "word": "demarcation",
-      "translation": "การแบ่งเขตกำหนดขอบเขต",
+      "translation": "การแบ่งเขต, กำหนดขอบเขต",
       "example": "The demarcation of duties is unclear."
     },
     {
       "word": "demean",
-      "translation": "ลดคุณค่าทำให้เสียศักดิ์ศรี",
+      "translation": "ลดคุณค่า, ทำให้เสียศักดิ์ศรี",
       "example": "He would not demean himself by asking."
     },
     {
       "word": "demeanour",
-      "translation": "ท่าทางกิริยา",
+      "translation": "ท่าทาง, กิริยา",
       "example": "Her demeanour was calm."
     },
     {
       "word": "demise",
-      "translation": "การสิ้นสุดการล่มสลาย",
+      "translation": "การสิ้นสุด, การล่มสลาย",
       "example": "The demise of the paper surprised nobody."
     },
     {
       "word": "demur",
-      "translation": "การคัดค้านโต้แย้ง",
+      "translation": "การคัดค้าน, โต้แย้ง",
       "example": "She agreed without demur."
     },
     {
       "word": "demure",
-      "translation": "ที่เรียบร้อยสงบเสงี่ยม",
+      "translation": "ที่เรียบร้อย, สงบเสงี่ยม",
       "example": "She gave a demure smile."
     },
     {
@@ -1653,22 +1653,22 @@
     },
     {
       "word": "deplete",
-      "translation": "ทำให้ร่อยหรอลดลง",
+      "translation": "ทำให้ร่อยหรอ, ลดลง",
       "example": "The winter depleted our stores."
     },
     {
       "word": "deplorable",
-      "translation": "ที่น่าเสียใจแย่มาก",
+      "translation": "ที่น่าเสียใจ, แย่มาก",
       "example": "The state of the road is deplorable."
     },
     {
       "word": "deplore",
-      "translation": "ประณามเสียใจอย่างยิ่ง",
+      "translation": "ประณาม, เสียใจอย่างยิ่ง",
       "example": "The council deplored the damage."
     },
     {
       "word": "depravity",
-      "translation": "ความชั่วช้าเสื่อมทราม",
+      "translation": "ความชั่วช้า, เสื่อมทราม",
       "example": "The novel studies human depravity."
     },
     {
@@ -1678,7 +1678,7 @@
     },
     {
       "word": "deride",
-      "translation": "เยาะเย้ยถากถาง",
+      "translation": "เยาะเย้ย, ถากถาง",
       "example": "Critics derided the design."
     },
     {
@@ -1688,7 +1688,7 @@
     },
     {
       "word": "derogatory",
-      "translation": "ที่ดูถูกเหยียดหยาม",
+      "translation": "ที่ดูถูก, เหยียดหยาม",
       "example": "The remark was derogatory."
     },
     {
@@ -1698,37 +1698,37 @@
     },
     {
       "word": "desolation",
-      "translation": "ความเวิ้งว้างรกร้าง",
+      "translation": "ความเวิ้งว้าง, รกร้าง",
       "example": "The desolation of the moor is its charm."
     },
     {
       "word": "despondency",
-      "translation": "ความหดหู่ท้อแท้",
+      "translation": "ความหดหู่, ท้อแท้",
       "example": "A mood of despondency settled on them."
     },
     {
       "word": "despondent",
-      "translation": "ที่หดหู่ท้อแท้",
+      "translation": "ที่หดหู่, ท้อแท้",
       "example": "He grew despondent about the result."
     },
     {
       "word": "destitute",
-      "translation": "ที่ยากไร้สิ้นเนื้อประดาตัว",
+      "translation": "ที่ยากไร้, สิ้นเนื้อประดาตัว",
       "example": "The fire left them destitute."
     },
     {
       "word": "desultory",
-      "translation": "ที่ไม่เป็นระบบเรื่อยเปื่อย",
+      "translation": "ที่ไม่เป็นระบบ, เรื่อยเปื่อย",
       "example": "They had a desultory conversation."
     },
     {
       "word": "detachment",
-      "translation": "ความไม่ผูกพันวางเฉย",
+      "translation": "ความไม่ผูกพัน, วางเฉย",
       "example": "She watched with cool detachment."
     },
     {
       "word": "deter",
-      "translation": "ยับยั้งขู่ให้กลัว",
+      "translation": "ยับยั้ง, ขู่ให้กลัว",
       "example": "The lock deters most thieves."
     },
     {
@@ -1738,7 +1738,7 @@
     },
     {
       "word": "detriment",
-      "translation": "ความเสียหายผลเสีย",
+      "translation": "ความเสียหาย, ผลเสีย",
       "example": "He worked late, to the detriment of his health."
     },
     {
@@ -1753,7 +1753,7 @@
     },
     {
       "word": "devious",
-      "translation": "ที่คดเคี้ยวเจ้าเล่ห์",
+      "translation": "ที่คดเคี้ยว, เจ้าเล่ห์",
       "example": "He took a devious route."
     },
     {
@@ -1763,12 +1763,12 @@
     },
     {
       "word": "dexterity",
-      "translation": "ความคล่องแคล่วชำนาญมือ",
+      "translation": "ความคล่องแคล่ว, ชำนาญมือ",
       "example": "The work needs real dexterity."
     },
     {
       "word": "dexterous",
-      "translation": "ที่คล่องแคล่วชำนาญ",
+      "translation": "ที่คล่องแคล่ว, ชำนาญ",
       "example": "She is dexterous with a needle."
     },
     {
@@ -1803,12 +1803,12 @@
     },
     {
       "word": "diffident",
-      "translation": "ที่ขี้อายไม่มั่นใจ",
+      "translation": "ที่ขี้อาย, ไม่มั่นใจ",
       "example": "She was diffident about her own work."
     },
     {
       "word": "dilatory",
-      "translation": "ที่ล่าช้าชักช้า",
+      "translation": "ที่ล่าช้า, ชักช้า",
       "example": "The reply was dilatory."
     },
     {
@@ -1828,7 +1828,7 @@
     },
     {
       "word": "dingy",
-      "translation": "ที่มืดสลัวมอมแมม",
+      "translation": "ที่มืดสลัว, มอมแมม",
       "example": "The corridor is dingy."
     },
     {
@@ -1843,7 +1843,7 @@
     },
     {
       "word": "disaffection",
-      "translation": "ความไม่พอใจเหินห่าง",
+      "translation": "ความไม่พอใจ, เหินห่าง",
       "example": "There is growing disaffection among staff."
     },
     {
@@ -1853,7 +1853,7 @@
     },
     {
       "word": "disciple",
-      "translation": "ศิษย์ผู้ติดตาม",
+      "translation": "ศิษย์, ผู้ติดตาม",
       "example": "He was a disciple of the older painter."
     },
     {
@@ -1873,22 +1873,22 @@
     },
     {
       "word": "dishevelled",
-      "translation": "ที่ยุ่งเหยิงไม่เป็นระเบียบ",
+      "translation": "ที่ยุ่งเหยิง, ไม่เป็นระเบียบ",
       "example": "He arrived dishevelled and late."
     },
     {
       "word": "disillusionment",
-      "translation": "ความผิดหวังสูญสิ้นศรัทธา",
+      "translation": "ความผิดหวัง, สูญสิ้นศรัทธา",
       "example": "Disillusionment set in after a year."
     },
     {
       "word": "disingenuous",
-      "translation": "ที่ไม่จริงใจตีสองหน้า",
+      "translation": "ที่ไม่จริงใจ, ตีสองหน้า",
       "example": "The answer was disingenuous."
     },
     {
       "word": "disinterested",
-      "translation": "ที่เป็นกลางไม่มีส่วนได้เสีย",
+      "translation": "ที่เป็นกลาง, ไม่มีส่วนได้เสีย",
       "example": "We need a disinterested opinion."
     },
     {
@@ -1898,32 +1898,32 @@
     },
     {
       "word": "dismay",
-      "translation": "ความตกใจผิดหวัง",
+      "translation": "ความตกใจ, ผิดหวัง",
       "example": "To our dismay, the shop had closed."
     },
     {
       "word": "disparage",
-      "translation": "ดูถูกลดค่า",
+      "translation": "ดูถูก, ลดค่า",
       "example": "Do not disparage her effort."
     },
     {
       "word": "dispassionate",
-      "translation": "ที่ปราศจากอคติเยือกเย็น",
+      "translation": "ที่ปราศจากอคติ, เยือกเย็น",
       "example": "The report is dispassionate."
     },
     {
       "word": "dispensation",
-      "translation": "การผ่อนผันยกเว้น",
+      "translation": "การผ่อนผัน, ยกเว้น",
       "example": "They received a special dispensation."
     },
     {
       "word": "dispense",
-      "translation": "จ่ายแจกจ่าย",
+      "translation": "จ่าย, แจกจ่าย",
       "example": "The machine dispenses tickets."
     },
     {
       "word": "disposition",
-      "translation": "นิสัยอุปนิสัย",
+      "translation": "นิสัย, อุปนิสัย",
       "example": "She has a cheerful disposition."
     },
     {
@@ -1933,12 +1933,12 @@
     },
     {
       "word": "disseminate",
-      "translation": "เผยแพร่กระจายออกไป",
+      "translation": "เผยแพร่, กระจายออกไป",
       "example": "They disseminate the results widely."
     },
     {
       "word": "dissension",
-      "translation": "ความขัดแย้งแตกแยก",
+      "translation": "ความขัดแย้ง, แตกแยก",
       "example": "Dissension split the committee."
     },
     {
@@ -1958,7 +1958,7 @@
     },
     {
       "word": "dissipate",
-      "translation": "จางหายไปสลายไป",
+      "translation": "จางหายไป, สลายไป",
       "example": "The mist dissipated by nine."
     },
     {
@@ -1973,7 +1973,7 @@
     },
     {
       "word": "divination",
-      "translation": "การทำนายทายทัก",
+      "translation": "การทำนาย, ทายทัก",
       "example": "The chapter covers early divination."
     },
     {
@@ -1983,7 +1983,7 @@
     },
     {
       "word": "dogged",
-      "translation": "ที่ดื้อรั้นไม่ยอมแพ้",
+      "translation": "ที่ดื้อรั้น, ไม่ยอมแพ้",
       "example": "His dogged effort paid off."
     },
     {
@@ -1998,7 +1998,7 @@
     },
     {
       "word": "doldrums",
-      "translation": "ภาวะซบเซาชะงักงัน",
+      "translation": "ภาวะซบเซา, ชะงักงัน",
       "example": "Sales are in the doldrums."
     },
     {
@@ -2008,12 +2008,12 @@
     },
     {
       "word": "dominion",
-      "translation": "อำนาจปกครองอาณาเขต",
+      "translation": "อำนาจปกครอง, อาณาเขต",
       "example": "The company held dominion over the port."
     },
     {
       "word": "dormant",
-      "translation": "ที่สงบนิ่งไม่ทำงาน",
+      "translation": "ที่สงบนิ่ง, ไม่ทำงาน",
       "example": "The account has been dormant for years."
     },
     {
@@ -2028,12 +2028,12 @@
     },
     {
       "word": "drudgery",
-      "translation": "งานหนักน่าเบื่อ",
+      "translation": "งานหนัก, น่าเบื่อ",
       "example": "The job is mostly drudgery."
     },
     {
       "word": "dubious",
-      "translation": "ที่น่าสงสัยคลุมเครือ",
+      "translation": "ที่น่าสงสัย, คลุมเครือ",
       "example": "The claim is dubious."
     },
     {
@@ -2043,7 +2043,7 @@
     },
     {
       "word": "duress",
-      "translation": "การบังคับข่มขู่",
+      "translation": "การบังคับ, ข่มขู่",
       "example": "The signature was given under duress."
     },
     {
@@ -2058,12 +2058,12 @@
     },
     {
       "word": "ebullience",
-      "translation": "ความร่าเริงกระตือรือร้น",
+      "translation": "ความร่าเริง, กระตือรือร้น",
       "example": "Her ebullience carried the evening."
     },
     {
       "word": "ebullient",
-      "translation": "ที่ร่าเริงคึกคัก",
+      "translation": "ที่ร่าเริง, คึกคัก",
       "example": "He was ebullient after the win."
     },
     {
@@ -2088,7 +2088,7 @@
     },
     {
       "word": "edification",
-      "translation": "การให้ความรู้ขัดเกลาจิตใจ",
+      "translation": "การให้ความรู้, ขัดเกลาจิตใจ",
       "example": "The tour is for our edification."
     },
     {
@@ -2098,12 +2098,12 @@
     },
     {
       "word": "efficacious",
-      "translation": "ที่ได้ผลมีสรรพคุณ",
+      "translation": "ที่ได้ผล, มีสรรพคุณ",
       "example": "The remedy proved efficacious."
     },
     {
       "word": "effigy",
-      "translation": "หุ่นจำลองรูปปั้น",
+      "translation": "หุ่นจำลอง, รูปปั้น",
       "example": "An effigy stood by the gate."
     },
     {
@@ -2118,7 +2118,7 @@
     },
     {
       "word": "effusive",
-      "translation": "ที่ล้นเหลือแสดงออกมาก",
+      "translation": "ที่ล้นเหลือ, แสดงออกมาก",
       "example": "Her thanks were effusive."
     },
     {
@@ -2133,17 +2133,17 @@
     },
     {
       "word": "elation",
-      "translation": "ความปลื้มปีติยินดี",
+      "translation": "ความปลื้มปีติ, ยินดี",
       "example": "His elation lasted a week."
     },
     {
       "word": "elicit",
-      "translation": "ล้วงเอาออกมาทำให้เกิด",
+      "translation": "ล้วงเอาออกมา, ทำให้เกิด",
       "example": "The question elicited a long answer."
     },
     {
       "word": "eloquent",
-      "translation": "ที่สื่อความหมายได้ดีพูดจาไพเราะ",
+      "translation": "ที่สื่อความหมายได้ดี, พูดจาไพเราะ",
       "example": "Her silence was eloquent."
     },
     {
@@ -2158,7 +2158,7 @@
     },
     {
       "word": "emanate",
-      "translation": "แผ่ออกมาส่งออกมา",
+      "translation": "แผ่ออกมา, ส่งออกมา",
       "example": "A low hum emanated from the wall."
     },
     {
@@ -2188,7 +2188,7 @@
     },
     {
       "word": "emblem",
-      "translation": "สัญลักษณ์ตราสัญลักษณ์",
+      "translation": "สัญลักษณ์, ตราสัญลักษณ์",
       "example": "The oak is the club's emblem."
     },
     {
@@ -2198,12 +2198,12 @@
     },
     {
       "word": "emissary",
-      "translation": "ผู้แทนทูต",
+      "translation": "ผู้แทน, ทูต",
       "example": "An emissary carried the letter."
     },
     {
       "word": "emulate",
-      "translation": "เอาอย่างทำตามให้เท่าเทียม",
+      "translation": "เอาอย่าง, ทำตามให้เท่าเทียม",
       "example": "Younger players try to emulate her."
     },
     {
@@ -2223,12 +2223,12 @@
     },
     {
       "word": "endow",
-      "translation": "บริจาคให้เป็นทุนประสาทให้",
+      "translation": "บริจาคให้เป็นทุน, ประสาทให้",
       "example": "A benefactor endowed the library."
     },
     {
       "word": "enervate",
-      "translation": "ทำให้อ่อนเปลี้ยหมดแรง",
+      "translation": "ทำให้อ่อนเปลี้ย, หมดแรง",
       "example": "The heat enervated everyone."
     },
     {
@@ -2238,12 +2238,12 @@
     },
     {
       "word": "enigma",
-      "translation": "ปริศนาสิ่งลึกลับ",
+      "translation": "ปริศนา, สิ่งลึกลับ",
       "example": "The letter remains an enigma."
     },
     {
       "word": "enigmatic",
-      "translation": "ที่เป็นปริศนาลึกลับ",
+      "translation": "ที่เป็นปริศนา, ลึกลับ",
       "example": "Her reply was enigmatic."
     },
     {
@@ -2253,22 +2253,22 @@
     },
     {
       "word": "ennui",
-      "translation": "ความเบื่อหน่ายเซ็ง",
+      "translation": "ความเบื่อหน่าย, เซ็ง",
       "example": "A general ennui settled over the office."
     },
     {
       "word": "enormity",
-      "translation": "ความใหญ่หลวงความร้ายแรง",
+      "translation": "ความใหญ่หลวง, ความร้ายแรง",
       "example": "Nobody grasped the enormity of the loss."
     },
     {
       "word": "enthrall",
-      "translation": "ทำให้หลงใหลตรึงใจ",
+      "translation": "ทำให้หลงใหล, ตรึงใจ",
       "example": "The story enthralled the whole class."
     },
     {
       "word": "enticing",
-      "translation": "ที่ล่อใจน่าดึงดูด",
+      "translation": "ที่ล่อใจ, น่าดึงดูด",
       "example": "The offer is enticing."
     },
     {
@@ -2278,7 +2278,7 @@
     },
     {
       "word": "entreat",
-      "translation": "อ้อนวอนวิงวอน",
+      "translation": "อ้อนวอน, วิงวอน",
       "example": "She entreated them to reconsider."
     },
     {
@@ -2288,7 +2288,7 @@
     },
     {
       "word": "entropy",
-      "translation": "เอนโทรปีความไร้ระเบียบ",
+      "translation": "เอนโทรปี, ความไร้ระเบียบ",
       "example": "The essay uses entropy as a metaphor."
     },
     {
@@ -2298,7 +2298,7 @@
     },
     {
       "word": "envoy",
-      "translation": "ทูตผู้แทน",
+      "translation": "ทูต, ผู้แทน",
       "example": "The envoy arrived on Thursday."
     },
     {
@@ -2338,7 +2338,7 @@
     },
     {
       "word": "epitome",
-      "translation": "แบบฉบับตัวอย่างที่ดีที่สุด",
+      "translation": "แบบฉบับ, ตัวอย่างที่ดีที่สุด",
       "example": "She is the epitome of patience."
     },
     {
@@ -2348,22 +2348,22 @@
     },
     {
       "word": "epoch",
-      "translation": "ยุคสมัยศักราช",
+      "translation": "ยุคสมัย, ศักราช",
       "example": "The invention began a new epoch."
     },
     {
       "word": "equanimity",
-      "translation": "ความสงบใจไม่หวั่นไหว",
+      "translation": "ความสงบใจ, ไม่หวั่นไหว",
       "example": "She took the news with equanimity."
     },
     {
       "word": "equivocal",
-      "translation": "ที่กำกวมคลุมเครือ",
+      "translation": "ที่กำกวม, คลุมเครือ",
       "example": "The result was equivocal."
     },
     {
       "word": "equivocation",
-      "translation": "การพูดกำกวมเลี่ยงตอบ",
+      "translation": "การพูดกำกวม, เลี่ยงตอบ",
       "example": "The answer was pure equivocation."
     },
     {
@@ -2383,17 +2383,17 @@
     },
     {
       "word": "erudite",
-      "translation": "ที่คงแก่เรียนรอบรู้",
+      "translation": "ที่คงแก่เรียน, รอบรู้",
       "example": "The introduction is erudite."
     },
     {
       "word": "erudition",
-      "translation": "ความรอบรู้แตกฉาน",
+      "translation": "ความรอบรู้, แตกฉาน",
       "example": "His erudition never showed off."
     },
     {
       "word": "escapade",
-      "translation": "การผจญภัยซุกซน",
+      "translation": "การผจญภัย, ซุกซน",
       "example": "The trip became quite an escapade."
     },
     {
@@ -2403,17 +2403,17 @@
     },
     {
       "word": "eschew",
-      "translation": "หลีกเลี่ยงไม่ข้องแวะ",
+      "translation": "หลีกเลี่ยง, ไม่ข้องแวะ",
       "example": "He eschews all forms of publicity."
     },
     {
       "word": "esoteric",
-      "translation": "ที่รู้กันเฉพาะกลุ่มลึกลับ",
+      "translation": "ที่รู้กันเฉพาะกลุ่ม, ลึกลับ",
       "example": "The subject is esoteric."
     },
     {
       "word": "espouse",
-      "translation": "สนับสนุนยึดถือ",
+      "translation": "สนับสนุน, ยึดถือ",
       "example": "She espoused the cause early."
     },
     {
@@ -2423,17 +2423,17 @@
     },
     {
       "word": "ethereal",
-      "translation": "ที่บางเบาเหนือโลก",
+      "translation": "ที่บางเบา, เหนือโลก",
       "example": "The light was ethereal."
     },
     {
       "word": "ethos",
-      "translation": "จิตวิญญาณค่านิยมหลัก",
+      "translation": "จิตวิญญาณ, ค่านิยมหลัก",
       "example": "The ethos of the school is simple."
     },
     {
       "word": "etymology",
-      "translation": "นิรุกติศาสตร์ที่มาของคำ",
+      "translation": "นิรุกติศาสตร์, ที่มาของคำ",
       "example": "The etymology of the word is unclear."
     },
     {
@@ -2463,17 +2463,17 @@
     },
     {
       "word": "exalt",
-      "translation": "ยกย่องเชิดชู",
+      "translation": "ยกย่อง, เชิดชู",
       "example": "The review exalted her early work."
     },
     {
       "word": "exaltation",
-      "translation": "ความปลื้มปีติการยกย่อง",
+      "translation": "ความปลื้มปีติ, การยกย่อง",
       "example": "There was a note of exaltation in the letter."
     },
     {
       "word": "exchequer",
-      "translation": "คลังหลวงกระทรวงการคลัง",
+      "translation": "คลังหลวง, กระทรวงการคลัง",
       "example": "The exchequer met the cost."
     },
     {
@@ -2498,12 +2498,12 @@
     },
     {
       "word": "exhort",
-      "translation": "กระตุ้นเร่งเร้า",
+      "translation": "กระตุ้น, เร่งเร้า",
       "example": "She exhorted them to keep going."
     },
     {
       "word": "exhortation",
-      "translation": "การตักเตือนกระตุ้น",
+      "translation": "การตักเตือน, กระตุ้น",
       "example": "His exhortation to be patient helped."
     },
     {
@@ -2513,7 +2513,7 @@
     },
     {
       "word": "exigent",
-      "translation": "ที่เร่งด่วนเรียกร้องมาก",
+      "translation": "ที่เร่งด่วน, เรียกร้องมาก",
       "example": "The situation was exigent."
     },
     {
@@ -2548,12 +2548,12 @@
     },
     {
       "word": "exponent",
-      "translation": "ผู้เผยแพร่ผู้เชี่ยวชาญ",
+      "translation": "ผู้เผยแพร่, ผู้เชี่ยวชาญ",
       "example": "She is a leading exponent of the style."
     },
     {
       "word": "exposition",
-      "translation": "การอธิบายนิทรรศการ",
+      "translation": "การอธิบาย, นิทรรศการ",
       "example": "The exposition takes two chapters."
     },
     {
@@ -2563,32 +2563,32 @@
     },
     {
       "word": "expunge",
-      "translation": "ลบล้างขจัดออก",
+      "translation": "ลบล้าง, ขจัดออก",
       "example": "The record was expunged."
     },
     {
       "word": "exquisite",
-      "translation": "ที่ประณีตงดงาม",
+      "translation": "ที่ประณีต, งดงาม",
       "example": "The stitching is exquisite."
     },
     {
       "word": "extol",
-      "translation": "สรรเสริญยกย่อง",
+      "translation": "สรรเสริญ, ยกย่อง",
       "example": "Reviewers extolled the design."
     },
     {
       "word": "extraneous",
-      "translation": "ที่ไม่เกี่ยวข้องเกินความจำเป็น",
+      "translation": "ที่ไม่เกี่ยวข้อง, เกินความจำเป็น",
       "example": "Cut the extraneous detail."
     },
     {
       "word": "extrapolate",
-      "translation": "อนุมานคาดการณ์",
+      "translation": "อนุมาน, คาดการณ์",
       "example": "It is risky to extrapolate from one case."
     },
     {
       "word": "extricate",
-      "translation": "ถอนตัวออกจากปลดเปลื้อง",
+      "translation": "ถอนตัวออกจาก, ปลดเปลื้อง",
       "example": "He extricated himself from the deal."
     },
     {
@@ -2598,7 +2598,7 @@
     },
     {
       "word": "exude",
-      "translation": "แผ่ออกมาส่งออกมา",
+      "translation": "แผ่ออกมา, ส่งออกมา",
       "example": "He exudes calm."
     },
     {
@@ -2608,7 +2608,7 @@
     },
     {
       "word": "fabricate",
-      "translation": "กุเรื่องขึ้นประดิษฐ์",
+      "translation": "กุเรื่องขึ้น, ประดิษฐ์",
       "example": "He fabricated the whole account."
     },
     {
@@ -2618,12 +2618,12 @@
     },
     {
       "word": "façade",
-      "translation": "ด้านหน้าอาคารภาพลักษณ์ภายนอก",
+      "translation": "ด้านหน้าอาคาร, ภาพลักษณ์ภายนอก",
       "example": "The façade dates from 1730."
     },
     {
       "word": "facet",
-      "translation": "แง่มุมด้าน",
+      "translation": "แง่มุม, ด้าน",
       "example": "That is only one facet of the case."
     },
     {
@@ -2633,7 +2633,7 @@
     },
     {
       "word": "facile",
-      "translation": "ที่ง่ายเกินไปตื้นเขิน",
+      "translation": "ที่ง่ายเกินไป, ตื้นเขิน",
       "example": "The explanation is facile."
     },
     {
@@ -2643,7 +2643,7 @@
     },
     {
       "word": "fallacious",
-      "translation": "ที่ผิดพลาดลวงตา",
+      "translation": "ที่ผิดพลาด, ลวงตา",
       "example": "The argument is fallacious."
     },
     {
@@ -2653,7 +2653,7 @@
     },
     {
       "word": "famine",
-      "translation": "ทุพภิกขภัยความอดอยาก",
+      "translation": "ทุพภิกขภัย, ความอดอยาก",
       "example": "The famine lasted two winters."
     },
     {
@@ -2663,17 +2663,17 @@
     },
     {
       "word": "farce",
-      "translation": "เรื่องตลกขบขันไร้สาระ",
+      "translation": "เรื่องตลกขบขัน, ไร้สาระ",
       "example": "The meeting became a farce."
     },
     {
       "word": "farcical",
-      "translation": "ที่น่าขบขันไร้สาระ",
+      "translation": "ที่น่าขบขัน, ไร้สาระ",
       "example": "The whole process was farcical."
     },
     {
       "word": "fastidious",
-      "translation": "ที่จู้จี้พิถีพิถัน",
+      "translation": "ที่จู้จี้, พิถีพิถัน",
       "example": "He is fastidious about detail."
     },
     {
@@ -2683,12 +2683,12 @@
     },
     {
       "word": "fathom",
-      "translation": "หยั่งรู้เข้าใจถ่องแท้",
+      "translation": "หยั่งรู้, เข้าใจถ่องแท้",
       "example": "I cannot fathom his reasoning."
     },
     {
       "word": "fatuous",
-      "translation": "ที่โง่เขลาไร้สาระ",
+      "translation": "ที่โง่เขลา, ไร้สาระ",
       "example": "It was a fatuous suggestion."
     },
     {
@@ -2713,7 +2713,7 @@
     },
     {
       "word": "feisty",
-      "translation": "ที่ห้าวหาญดุดัน",
+      "translation": "ที่ห้าวหาญ, ดุดัน",
       "example": "The little dog is feisty."
     },
     {
@@ -2723,7 +2723,7 @@
     },
     {
       "word": "ferocious",
-      "translation": "ที่ดุร้ายรุนแรง",
+      "translation": "ที่ดุร้าย, รุนแรง",
       "example": "The wind was ferocious."
     },
     {
@@ -2733,17 +2733,17 @@
     },
     {
       "word": "fervent",
-      "translation": "ที่เร่าร้อนแรงกล้า",
+      "translation": "ที่เร่าร้อน, แรงกล้า",
       "example": "He is a fervent supporter."
     },
     {
       "word": "fervid",
-      "translation": "ที่เร่าร้อนรุนแรง",
+      "translation": "ที่เร่าร้อน, รุนแรง",
       "example": "Her fervid defence surprised us."
     },
     {
       "word": "fervour",
-      "translation": "ความเร่าร้อนกระตือรือร้น",
+      "translation": "ความเร่าร้อน, กระตือรือร้น",
       "example": "The fervour of the crowd was startling."
     },
     {
@@ -2758,12 +2758,12 @@
     },
     {
       "word": "fickle",
-      "translation": "ที่เปลี่ยนแปลงง่ายโลเล",
+      "translation": "ที่เปลี่ยนแปลงง่าย, โลเล",
       "example": "The weather is fickle in April."
     },
     {
       "word": "fidelity",
-      "translation": "ความเที่ยงตรงความซื่อสัตย์",
+      "translation": "ความเที่ยงตรง, ความซื่อสัตย์",
       "example": "The recording has high fidelity."
     },
     {
@@ -2783,22 +2783,22 @@
     },
     {
       "word": "finesse",
-      "translation": "ความละเอียดอ่อนชั้นเชิง",
+      "translation": "ความละเอียดอ่อน, ชั้นเชิง",
       "example": "She handled it with finesse."
     },
     {
       "word": "fissure",
-      "translation": "รอยแยกรอยแตก",
+      "translation": "รอยแยก, รอยแตก",
       "example": "A fissure opened in the rock."
     },
     {
       "word": "flagrant",
-      "translation": "ที่โจ่งแจ้งชัดแจ้ง",
+      "translation": "ที่โจ่งแจ้ง, ชัดแจ้ง",
       "example": "It was a flagrant breach of the rule."
     },
     {
       "word": "flaunt",
-      "translation": "อวดโอ้อวด",
+      "translation": "อวด, โอ้อวด",
       "example": "He flaunts his knowledge."
     },
     {
@@ -2808,7 +2808,7 @@
     },
     {
       "word": "flimsy",
-      "translation": "ที่บอบบางอ่อนแอ",
+      "translation": "ที่บอบบาง, อ่อนแอ",
       "example": "The excuse was flimsy."
     },
     {
@@ -2848,7 +2848,7 @@
     },
     {
       "word": "foment",
-      "translation": "ปลุกปั่นยุยง",
+      "translation": "ปลุกปั่น, ยุยง",
       "example": "The article fomented the dispute."
     },
     {
@@ -2858,7 +2858,7 @@
     },
     {
       "word": "foray",
-      "translation": "การรุกลองก้าวเข้าไป",
+      "translation": "การรุกลอง, ก้าวเข้าไป",
       "example": "This is her first foray into fiction."
     },
     {
@@ -2868,42 +2868,42 @@
     },
     {
       "word": "forerunner",
-      "translation": "สิ่งที่มาก่อนต้นแบบ",
+      "translation": "สิ่งที่มาก่อน, ต้นแบบ",
       "example": "The device was a forerunner of the modern one."
     },
     {
       "word": "forestall",
-      "translation": "ป้องกันไว้ก่อนชิงลงมือ",
+      "translation": "ป้องกันไว้ก่อน, ชิงลงมือ",
       "example": "They acted early to forestall trouble."
     },
     {
       "word": "forfeiture",
-      "translation": "การริบการสูญเสียสิทธิ์",
+      "translation": "การริบ, การสูญเสียสิทธิ์",
       "example": "The forfeiture of the deposit was harsh."
     },
     {
       "word": "forgo",
-      "translation": "ยอมสละเลิกล้ม",
+      "translation": "ยอมสละ, เลิกล้ม",
       "example": "We had to forgo the holiday."
     },
     {
       "word": "forlorn",
-      "translation": "ที่เปล่าเปลี่ยวสิ้นหวัง",
+      "translation": "ที่เปล่าเปลี่ยว, สิ้นหวัง",
       "example": "The house looked forlorn."
     },
     {
       "word": "forsake",
-      "translation": "ละทิ้งทอดทิ้ง",
+      "translation": "ละทิ้ง, ทอดทิ้ง",
       "example": "She would not forsake her friends."
     },
     {
       "word": "forte",
-      "translation": "จุดแข็งความถนัด",
+      "translation": "จุดแข็ง, ความถนัด",
       "example": "Patience is not his forte."
     },
     {
       "word": "fortitude",
-      "translation": "ความอดทนเข้มแข็ง",
+      "translation": "ความอดทน, เข้มแข็ง",
       "example": "She bore it with fortitude."
     },
     {
@@ -2913,7 +2913,7 @@
     },
     {
       "word": "fractious",
-      "translation": "ที่ขี้โมโหชอบทะเลาะ",
+      "translation": "ที่ขี้โมโห, ชอบทะเลาะ",
       "example": "The committee was fractious."
     },
     {
@@ -2928,12 +2928,12 @@
     },
     {
       "word": "frenetic",
-      "translation": "ที่วุ่นวายบ้าคลั่ง",
+      "translation": "ที่วุ่นวาย, บ้าคลั่ง",
       "example": "The pace was frenetic."
     },
     {
       "word": "frenzy",
-      "translation": "ความคลั่งความบ้าคลั่ง",
+      "translation": "ความคลั่ง, ความบ้าคลั่ง",
       "example": "The sale caused a frenzy."
     },
     {
@@ -2943,17 +2943,17 @@
     },
     {
       "word": "fretful",
-      "translation": "ที่งอแงกระวนกระวาย",
+      "translation": "ที่งอแง, กระวนกระวาย",
       "example": "The baby was fretful all night."
     },
     {
       "word": "frivolous",
-      "translation": "ที่ไร้สาระเหลวไหล",
+      "translation": "ที่ไร้สาระ, เหลวไหล",
       "example": "It was a frivolous complaint."
     },
     {
       "word": "frugal",
-      "translation": "ที่ประหยัดมัธยัสถ์",
+      "translation": "ที่ประหยัด, มัธยัสถ์",
       "example": "They live a frugal life."
     },
     {
@@ -2963,7 +2963,7 @@
     },
     {
       "word": "fulcrum",
-      "translation": "จุดหมุนจุดค้ำ",
+      "translation": "จุดหมุน, จุดค้ำ",
       "example": "The bar turns on a fulcrum."
     },
     {
@@ -2973,12 +2973,12 @@
     },
     {
       "word": "furor",
-      "translation": "ความโกลาหลเกรียวกราว",
+      "translation": "ความโกลาหล, เกรียวกราว",
       "example": "The article caused a furor."
     },
     {
       "word": "furtive",
-      "translation": "ที่แอบซ่อนลับๆ ล่อๆ",
+      "translation": "ที่แอบซ่อน, ลับๆ ล่อๆ",
       "example": "He took a furtive look at the clock."
     },
     {
@@ -3008,12 +3008,12 @@
     },
     {
       "word": "garish",
-      "translation": "ที่ฉูดฉาดบาดตา",
+      "translation": "ที่ฉูดฉาด, บาดตา",
       "example": "The colours are garish."
     },
     {
       "word": "garner",
-      "translation": "รวบรวมได้รับมา",
+      "translation": "รวบรวม, ได้รับมา",
       "example": "The film garnered good reviews."
     },
     {
@@ -3028,12 +3028,12 @@
     },
     {
       "word": "gauche",
-      "translation": "ที่เก้งก้างขาดมารยาท",
+      "translation": "ที่เก้งก้าง, ขาดมารยาท",
       "example": "His manner is gauche but honest."
     },
     {
       "word": "gauntlet",
-      "translation": "ถุงมือเหล็กการท้าทาย",
+      "translation": "ถุงมือเหล็ก, การท้าทาย",
       "example": "She threw down the gauntlet."
     },
     {
@@ -3048,7 +3048,7 @@
     },
     {
       "word": "genial",
-      "translation": "ที่ใจดีเป็นมิตร",
+      "translation": "ที่ใจดี, เป็นมิตร",
       "example": "He is a genial host."
     },
     {
@@ -3063,7 +3063,7 @@
     },
     {
       "word": "gestation",
-      "translation": "ระยะฟักตัวการตั้งครรภ์",
+      "translation": "ระยะฟักตัว, การตั้งครรภ์",
       "example": "The gestation of the book took years."
     },
     {
@@ -3098,12 +3098,12 @@
     },
     {
       "word": "grandeur",
-      "translation": "ความโอ่อ่าสง่างาม",
+      "translation": "ความโอ่อ่า, สง่างาม",
       "example": "The hall has a faded grandeur."
     },
     {
       "word": "gratification",
-      "translation": "ความพึงพอใจการสนองความต้องการ",
+      "translation": "ความพึงพอใจ, การสนองความต้องการ",
       "example": "He wants instant gratification."
     },
     {
@@ -3113,7 +3113,7 @@
     },
     {
       "word": "gravitas",
-      "translation": "ความน่าเกรงขามสุขุม",
+      "translation": "ความน่าเกรงขาม, สุขุม",
       "example": "She spoke with real gravitas."
     },
     {
@@ -3128,7 +3128,7 @@
     },
     {
       "word": "grovel",
-      "translation": "ประจบหมอบกราบ",
+      "translation": "ประจบ, หมอบกราบ",
       "example": "He refused to grovel for the job."
     },
     {
@@ -3138,7 +3138,7 @@
     },
     {
       "word": "guile",
-      "translation": "เล่ห์กลความเจ้าเล่ห์",
+      "translation": "เล่ห์กล, ความเจ้าเล่ห์",
       "example": "She got in by pure guile."
     },
     {
@@ -3153,7 +3153,7 @@
     },
     {
       "word": "halcyon",
-      "translation": "ที่สงบสุขรุ่งเรือง",
+      "translation": "ที่สงบสุข, รุ่งเรือง",
       "example": "She remembers the halcyon days."
     },
     {
@@ -3163,12 +3163,12 @@
     },
     {
       "word": "halo",
-      "translation": "รัศมีวงแสง",
+      "translation": "รัศมี, วงแสง",
       "example": "A halo of light hung round the lamp."
     },
     {
       "word": "haphazard",
-      "translation": "ที่ไร้ระเบียบสุ่มสี่สุ่มห้า",
+      "translation": "ที่ไร้ระเบียบ, สุ่มสี่สุ่มห้า",
       "example": "The filing is haphazard."
     },
     {
@@ -3178,7 +3178,7 @@
     },
     {
       "word": "harangue",
-      "translation": "การพูดยืดยาวดุดัน",
+      "translation": "การพูดยืดยาว, ดุดัน",
       "example": "His harangue emptied the hall."
     },
     {
@@ -3188,7 +3188,7 @@
     },
     {
       "word": "harness",
-      "translation": "ใช้ประโยชน์ควบคุมพลัง",
+      "translation": "ใช้ประโยชน์, ควบคุมพลัง",
       "example": "They harness the river for power."
     },
     {
@@ -3203,12 +3203,12 @@
     },
     {
       "word": "havoc",
-      "translation": "ความเสียหายวุ่นวาย",
+      "translation": "ความเสียหาย, วุ่นวาย",
       "example": "The storm played havoc with the timetable."
     },
     {
       "word": "hearsay",
-      "translation": "คำบอกเล่าเลื่องลือ",
+      "translation": "คำบอกเล่า, เลื่องลือ",
       "example": "That is hearsay, not evidence."
     },
     {
@@ -3218,7 +3218,7 @@
     },
     {
       "word": "heed",
-      "translation": "ความเอาใจใส่ระวัง",
+      "translation": "ความเอาใจใส่, ระวัง",
       "example": "Take heed of the warning."
     },
     {
@@ -3228,7 +3228,7 @@
     },
     {
       "word": "heinous",
-      "translation": "ที่ชั่วร้ายน่ารังเกียจ",
+      "translation": "ที่ชั่วร้าย, น่ารังเกียจ",
       "example": "The charge was heinous."
     },
     {
@@ -3243,7 +3243,7 @@
     },
     {
       "word": "henchman",
-      "translation": "ลูกน้องคนสนิท",
+      "translation": "ลูกน้อง, คนสนิท",
       "example": "The villain has one loyal henchman."
     },
     {
@@ -3268,7 +3268,7 @@
     },
     {
       "word": "hiatus",
-      "translation": "ช่วงหยุดพักช่องว่าง",
+      "translation": "ช่วงหยุดพัก, ช่องว่าง",
       "example": "There was a two-year hiatus."
     },
     {
@@ -3293,12 +3293,12 @@
     },
     {
       "word": "hoard",
-      "translation": "สะสมกักตุน",
+      "translation": "สะสม, กักตุน",
       "example": "She hoards old newspapers."
     },
     {
       "word": "homage",
-      "translation": "การแสดงความเคารพยกย่อง",
+      "translation": "การแสดงความเคารพ, ยกย่อง",
       "example": "The film pays homage to the original."
     },
     {
@@ -3308,7 +3308,7 @@
     },
     {
       "word": "hone",
-      "translation": "ลับให้คมฝึกฝนให้ดีขึ้น",
+      "translation": "ลับให้คม, ฝึกฝนให้ดีขึ้น",
       "example": "She honed the argument for weeks."
     },
     {
@@ -3378,7 +3378,7 @@
     },
     {
       "word": "idyllic",
-      "translation": "ที่สวยงามสงบสุข",
+      "translation": "ที่สวยงาม, สงบสุข",
       "example": "The valley is idyllic in May."
     },
     {
@@ -3393,7 +3393,7 @@
     },
     {
       "word": "ill-advised",
-      "translation": "ที่ไม่ฉลาดไม่รอบคอบ",
+      "translation": "ที่ไม่ฉลาด, ไม่รอบคอบ",
       "example": "The remark was ill-advised."
     },
     {
@@ -3403,7 +3403,7 @@
     },
     {
       "word": "imbroglio",
-      "translation": "เรื่องยุ่งเหยิงซับซ้อน",
+      "translation": "เรื่องยุ่งเหยิง, ซับซ้อน",
       "example": "The whole imbroglio lasted a year."
     },
     {
@@ -3413,7 +3413,7 @@
     },
     {
       "word": "immaculate",
-      "translation": "ที่สะอาดหมดจดไร้ที่ติ",
+      "translation": "ที่สะอาดหมดจด, ไร้ที่ติ",
       "example": "The kitchen was immaculate."
     },
     {
@@ -3438,12 +3438,12 @@
     },
     {
       "word": "impair",
-      "translation": "ทำให้เสื่อมลงบั่นทอน",
+      "translation": "ทำให้เสื่อมลง, บั่นทอน",
       "example": "Fatigue impairs judgement."
     },
     {
       "word": "impartial",
-      "translation": "ที่เป็นกลางไม่ลำเอียง",
+      "translation": "ที่เป็นกลาง, ไม่ลำเอียง",
       "example": "We need an impartial judge."
     },
     {
@@ -3453,7 +3453,7 @@
     },
     {
       "word": "impassive",
-      "translation": "ที่ไร้อารมณ์เฉยเมย",
+      "translation": "ที่ไร้อารมณ์, เฉยเมย",
       "example": "His face stayed impassive."
     },
     {
@@ -3468,7 +3468,7 @@
     },
     {
       "word": "impediment",
-      "translation": "อุปสรรคเครื่องกีดขวาง",
+      "translation": "อุปสรรค, เครื่องกีดขวาง",
       "example": "Cost is the main impediment."
     },
     {
@@ -3493,22 +3493,22 @@
     },
     {
       "word": "imperious",
-      "translation": "ที่วางอำนาจบงการ",
+      "translation": "ที่วางอำนาจ, บงการ",
       "example": "Her imperious tone silenced them."
     },
     {
       "word": "impertinent",
-      "translation": "ที่ไม่สุภาพเสือก",
+      "translation": "ที่ไม่สุภาพ, เสือก",
       "example": "The question was impertinent."
     },
     {
       "word": "imperturbable",
-      "translation": "ที่สงบนิ่งไม่หวั่นไหว",
+      "translation": "ที่สงบนิ่ง, ไม่หวั่นไหว",
       "example": "He is imperturbable in a crisis."
     },
     {
       "word": "impervious",
-      "translation": "ที่ไม่ซึมผ่านไม่หวั่นไหว",
+      "translation": "ที่ไม่ซึมผ่าน, ไม่หวั่นไหว",
       "example": "The coat is impervious to rain."
     },
     {
@@ -3553,12 +3553,12 @@
     },
     {
       "word": "impudence",
-      "translation": "ความทะลึ่งอวดดี",
+      "translation": "ความทะลึ่ง, อวดดี",
       "example": "His impudence astonished her."
     },
     {
       "word": "impugn",
-      "translation": "ตั้งข้อสงสัยโจมตี",
+      "translation": "ตั้งข้อสงสัย, โจมตี",
       "example": "Nobody impugned her honesty."
     },
     {
@@ -3578,7 +3578,7 @@
     },
     {
       "word": "inane",
-      "translation": "ที่ไร้สาระโง่เขลา",
+      "translation": "ที่ไร้สาระ, โง่เขลา",
       "example": "The comment was inane."
     },
     {
@@ -3588,7 +3588,7 @@
     },
     {
       "word": "incarnation",
-      "translation": "ร่างอวตารรูปแบบก่อนหน้า",
+      "translation": "ร่างอวตาร, รูปแบบก่อนหน้า",
       "example": "In an earlier incarnation the hall was a barn."
     },
     {
@@ -3603,7 +3603,7 @@
     },
     {
       "word": "inception",
-      "translation": "การเริ่มต้นก่อตั้ง",
+      "translation": "การเริ่มต้น, ก่อตั้ง",
       "example": "The club has met here since its inception."
     },
     {
@@ -3613,27 +3613,27 @@
     },
     {
       "word": "incisive",
-      "translation": "ที่เฉียบคมตรงประเด็น",
+      "translation": "ที่เฉียบคม, ตรงประเด็น",
       "example": "Her incisive question ended the debate."
     },
     {
       "word": "incite",
-      "translation": "ยุยงปลุกปั่น",
+      "translation": "ยุยง, ปลุกปั่น",
       "example": "The article incited the protest."
     },
     {
       "word": "inclement",
-      "translation": "ที่เลวร้ายรุนแรง",
+      "translation": "ที่เลวร้าย, รุนแรง",
       "example": "The walk was cancelled for inclement weather."
     },
     {
       "word": "inclination",
-      "translation": "ความโน้มเอียงความชอบ",
+      "translation": "ความโน้มเอียง, ความชอบ",
       "example": "My inclination is to wait."
     },
     {
       "word": "inclusive",
-      "translation": "ที่รวมทุกอย่างครอบคลุม",
+      "translation": "ที่รวมทุกอย่าง, ครอบคลุม",
       "example": "The price is inclusive of tax."
     },
     {
@@ -3643,7 +3643,7 @@
     },
     {
       "word": "inconceivable",
-      "translation": "ที่นึกไม่ถึงเป็นไปไม่ได้",
+      "translation": "ที่นึกไม่ถึง, เป็นไปไม่ได้",
       "example": "It is inconceivable that she forgot."
     },
     {
@@ -3663,7 +3663,7 @@
     },
     {
       "word": "incorrigible",
-      "translation": "ที่แก้ไขไม่ได้ดื้อรั้น",
+      "translation": "ที่แก้ไขไม่ได้, ดื้อรั้น",
       "example": "He is an incorrigible optimist."
     },
     {
@@ -3673,7 +3673,7 @@
     },
     {
       "word": "incredulous",
-      "translation": "ที่ไม่เชื่อสงสัย",
+      "translation": "ที่ไม่เชื่อ, สงสัย",
       "example": "He gave an incredulous laugh."
     },
     {
@@ -3688,7 +3688,7 @@
     },
     {
       "word": "incursion",
-      "translation": "การบุกรุกล้ำ",
+      "translation": "การบุกรุก, ล้ำ",
       "example": "The incursion lasted a single night."
     },
     {
@@ -3708,17 +3708,17 @@
     },
     {
       "word": "indifference",
-      "translation": "ความเฉยเมยไม่ใส่ใจ",
+      "translation": "ความเฉยเมย, ไม่ใส่ใจ",
       "example": "Her indifference was the worst part."
     },
     {
       "word": "indifferent",
-      "translation": "ที่เฉยเมยไม่สนใจ",
+      "translation": "ที่เฉยเมย, ไม่สนใจ",
       "example": "He was indifferent to the result."
     },
     {
       "word": "indignant",
-      "translation": "ที่ขุ่นเคืองไม่พอใจ",
+      "translation": "ที่ขุ่นเคือง, ไม่พอใจ",
       "example": "She was indignant at the suggestion."
     },
     {
@@ -3738,7 +3738,7 @@
     },
     {
       "word": "indolent",
-      "translation": "ที่เกียจคร้านเฉื่อยชา",
+      "translation": "ที่เกียจคร้าน, เฉื่อยชา",
       "example": "The afternoon was indolent and warm."
     },
     {
@@ -3753,12 +3753,12 @@
     },
     {
       "word": "induction",
-      "translation": "การปฐมนิเทศการเหนี่ยวนำ",
+      "translation": "การปฐมนิเทศ, การเหนี่ยวนำ",
       "example": "The induction takes a whole morning."
     },
     {
       "word": "indulgent",
-      "translation": "ที่ตามใจโอนอ่อน",
+      "translation": "ที่ตามใจ, โอนอ่อน",
       "example": "Her parents were indulgent."
     },
     {
@@ -3773,7 +3773,7 @@
     },
     {
       "word": "inept",
-      "translation": "ที่ไม่ชำนาญเงอะงะ",
+      "translation": "ที่ไม่ชำนาญ, เงอะงะ",
       "example": "The handling of it was inept."
     },
     {
@@ -3788,7 +3788,7 @@
     },
     {
       "word": "inertia",
-      "translation": "ความเฉื่อยความอืดอาด",
+      "translation": "ความเฉื่อย, ความอืดอาด",
       "example": "Institutional inertia delayed it."
     },
     {
@@ -3818,7 +3818,7 @@
     },
     {
       "word": "inferno",
-      "translation": "กองเพลิงนรก",
+      "translation": "กองเพลิง, นรก",
       "example": "The building became an inferno."
     },
     {
@@ -3843,17 +3843,17 @@
     },
     {
       "word": "ingenious",
-      "translation": "ที่ชาญฉลาดแยบยล",
+      "translation": "ที่ชาญฉลาด, แยบยล",
       "example": "The catch is ingenious."
     },
     {
       "word": "ingenuity",
-      "translation": "ความช่างคิดประดิษฐ์",
+      "translation": "ความช่างคิด, ประดิษฐ์",
       "example": "The repair took some ingenuity."
     },
     {
       "word": "ingenuous",
-      "translation": "ที่ซื่อบริสุทธิ์ไร้เล่ห์",
+      "translation": "ที่ซื่อบริสุทธิ์, ไร้เล่ห์",
       "example": "Her question was ingenuous."
     },
     {
@@ -3863,7 +3863,7 @@
     },
     {
       "word": "inhospitable",
-      "translation": "ที่ไม่เอื้ออำนวยไม่ต้อนรับ",
+      "translation": "ที่ไม่เอื้ออำนวย, ไม่ต้อนรับ",
       "example": "The coast is inhospitable in winter."
     },
     {
@@ -3873,12 +3873,12 @@
     },
     {
       "word": "inimical",
-      "translation": "ที่เป็นปฏิปักษ์ไม่เอื้อ",
+      "translation": "ที่เป็นปฏิปักษ์, ไม่เอื้อ",
       "example": "The climate is inimical to the plant."
     },
     {
       "word": "iniquitous",
-      "translation": "ที่ไม่เป็นธรรมชั่วร้าย",
+      "translation": "ที่ไม่เป็นธรรม, ชั่วร้าย",
       "example": "The old law was iniquitous."
     },
     {
@@ -3888,7 +3888,7 @@
     },
     {
       "word": "inkling",
-      "translation": "ความรู้สึกเลาๆ ลางสังหรณ์",
+      "translation": "ความรู้สึกเลาๆ, ลางสังหรณ์",
       "example": "I had no inkling of the plan."
     },
     {
@@ -3898,7 +3898,7 @@
     },
     {
       "word": "innuendo",
-      "translation": "การพูดเป็นนัยเสียดสี",
+      "translation": "การพูดเป็นนัย, เสียดสี",
       "example": "The article is full of innuendo."
     },
     {
@@ -3918,22 +3918,22 @@
     },
     {
       "word": "inscrutable",
-      "translation": "ที่หยั่งไม่ถึงอ่านไม่ออก",
+      "translation": "ที่หยั่งไม่ถึง, อ่านไม่ออก",
       "example": "Her expression was inscrutable."
     },
     {
       "word": "insipid",
-      "translation": "ที่จืดชืดไร้รสชาติ",
+      "translation": "ที่จืดชืด, ไร้รสชาติ",
       "example": "The soup was insipid."
     },
     {
       "word": "insolent",
-      "translation": "ที่ทะลึ่งไร้มารยาท",
+      "translation": "ที่ทะลึ่ง, ไร้มารยาท",
       "example": "His tone was insolent."
     },
     {
       "word": "insoluble",
-      "translation": "ที่แก้ไม่ตกละลายไม่ได้",
+      "translation": "ที่แก้ไม่ตก, ละลายไม่ได้",
       "example": "The problem seemed insoluble."
     },
     {
@@ -3943,7 +3943,7 @@
     },
     {
       "word": "instigate",
-      "translation": "ริเริ่มยุยงให้เกิด",
+      "translation": "ริเริ่ม, ยุยงให้เกิด",
       "example": "She instigated the review."
     },
     {
@@ -4008,7 +4008,7 @@
     },
     {
       "word": "intrepid",
-      "translation": "ที่กล้าหาญไม่กลัว",
+      "translation": "ที่กล้าหาญ, ไม่กลัว",
       "example": "The intrepid crew went on."
     },
     {
@@ -4023,22 +4023,22 @@
     },
     {
       "word": "intrusive",
-      "translation": "ที่ล่วงล้ำก้าวก่าย",
+      "translation": "ที่ล่วงล้ำ, ก้าวก่าย",
       "example": "The questions felt intrusive."
     },
     {
       "word": "intuition",
-      "translation": "สัญชาตญาณหยั่งรู้",
+      "translation": "สัญชาตญาณ, หยั่งรู้",
       "example": "Her intuition proved right."
     },
     {
       "word": "inundate",
-      "translation": "ท่วมท้นหลั่งไหลเข้ามา",
+      "translation": "ท่วมท้น, หลั่งไหลเข้ามา",
       "example": "Letters inundated the office."
     },
     {
       "word": "invasive",
-      "translation": "ที่รุกรานแพร่กระจาย",
+      "translation": "ที่รุกราน, แพร่กระจาย",
       "example": "The plant is invasive here."
     },
     {
@@ -4048,17 +4048,17 @@
     },
     {
       "word": "inveterate",
-      "translation": "ที่ติดเป็นนิสัยฝังแน่น",
+      "translation": "ที่ติดเป็นนิสัย, ฝังแน่น",
       "example": "He is an inveterate traveller."
     },
     {
       "word": "invidious",
-      "translation": "ที่น่าอึดอัดสร้างความไม่พอใจ",
+      "translation": "ที่น่าอึดอัด, สร้างความไม่พอใจ",
       "example": "She was put in an invidious position."
     },
     {
       "word": "invocation",
-      "translation": "การอ้างถึงเรียกใช้",
+      "translation": "การอ้างถึง, เรียกใช้",
       "example": "The invocation of the old rule surprised us."
     },
     {
@@ -4083,7 +4083,7 @@
     },
     {
       "word": "irreproachable",
-      "translation": "ที่ไร้ที่ติตำหนิไม่ได้",
+      "translation": "ที่ไร้ที่ติ, ตำหนิไม่ได้",
       "example": "Her conduct was irreproachable."
     },
     {
@@ -4103,7 +4103,7 @@
     },
     {
       "word": "jaded",
-      "translation": "ที่เบื่อหน่ายอ่อนล้า",
+      "translation": "ที่เบื่อหน่าย, อ่อนล้า",
       "example": "After ten years she felt jaded."
     },
     {
@@ -4118,7 +4118,7 @@
     },
     {
       "word": "jaundiced",
-      "translation": "ที่มองในแง่ร้ายมีอคติ",
+      "translation": "ที่มองในแง่ร้าย, มีอคติ",
       "example": "He takes a jaundiced view of reform."
     },
     {
@@ -4138,12 +4138,12 @@
     },
     {
       "word": "jocular",
-      "translation": "ที่ชอบล้อเล่นอารมณ์ดี",
+      "translation": "ที่ชอบล้อเล่น, อารมณ์ดี",
       "example": "His jocular manner put us at ease."
     },
     {
       "word": "jocularity",
-      "translation": "ความขบขันการล้อเล่น",
+      "translation": "ความขบขัน, การล้อเล่น",
       "example": "The jocularity hid real worry."
     },
     {
@@ -4153,7 +4153,7 @@
     },
     {
       "word": "joust",
-      "translation": "ประลองโต้คารม",
+      "translation": "ประลอง, โต้คารม",
       "example": "The two writers jousted in the letters page."
     },
     {
@@ -4173,7 +4173,7 @@
     },
     {
       "word": "juggernaut",
-      "translation": "สิ่งที่ใหญ่โตหยุดยั้งไม่ได้",
+      "translation": "สิ่งที่ใหญ่โต, หยุดยั้งไม่ได้",
       "example": "The company became a juggernaut."
     },
     {
@@ -4213,7 +4213,7 @@
     },
     {
       "word": "kernel",
-      "translation": "แก่นเมล็ดใน",
+      "translation": "แก่น, เมล็ดใน",
       "example": "There is a kernel of truth in it."
     },
     {
@@ -4223,17 +4223,17 @@
     },
     {
       "word": "kindle",
-      "translation": "จุดประกายก่อไฟ",
+      "translation": "จุดประกาย, ก่อไฟ",
       "example": "The story kindled her interest."
     },
     {
       "word": "kindred",
-      "translation": "ที่คล้ายคลึงกันเป็นญาติ",
+      "translation": "ที่คล้ายคลึงกัน, เป็นญาติ",
       "example": "They are kindred spirits."
     },
     {
       "word": "kinship",
-      "translation": "ความรู้สึกผูกพันเครือญาติ",
+      "translation": "ความรู้สึกผูกพัน, เครือญาติ",
       "example": "She felt a kinship with the place."
     },
     {
@@ -4243,7 +4243,7 @@
     },
     {
       "word": "kudos",
-      "translation": "คำชมเชยเกียรติยศ",
+      "translation": "คำชมเชย, เกียรติยศ",
       "example": "She got the kudos for the design."
     },
     {
@@ -4253,12 +4253,12 @@
     },
     {
       "word": "lackadaisical",
-      "translation": "ที่เฉื่อยชาไม่กระตือรือร้น",
+      "translation": "ที่เฉื่อยชา, ไม่กระตือรือร้น",
       "example": "His lackadaisical manner annoyed her."
     },
     {
       "word": "lacklustre",
-      "translation": "ที่ไร้ชีวิตชีวาจืดชืด",
+      "translation": "ที่ไร้ชีวิตชีวา, จืดชืด",
       "example": "The performance was lacklustre."
     },
     {
@@ -4278,32 +4278,32 @@
     },
     {
       "word": "lament",
-      "translation": "คร่ำครวญเสียใจ",
+      "translation": "คร่ำครวญ, เสียใจ",
       "example": "She lamented the loss of the trees."
     },
     {
       "word": "lamentable",
-      "translation": "ที่น่าเสียใจน่าเวทนา",
+      "translation": "ที่น่าเสียใจ, น่าเวทนา",
       "example": "The state of the record is lamentable."
     },
     {
       "word": "lampoon",
-      "translation": "เสียดสีล้อเลียน",
+      "translation": "เสียดสี, ล้อเลียน",
       "example": "The cartoon lampooned the mayor."
     },
     {
       "word": "languid",
-      "translation": "ที่เนือยเชื่องช้า",
+      "translation": "ที่เนือย, เชื่องช้า",
       "example": "The afternoon was warm and languid."
     },
     {
       "word": "languish",
-      "translation": "ทรุดโทรมถูกทอดทิ้ง",
+      "translation": "ทรุดโทรม, ถูกทอดทิ้ง",
       "example": "The plan languished for two years."
     },
     {
       "word": "lapse",
-      "translation": "ช่วงเว้นการพลั้งเผลอ",
+      "translation": "ช่วงเว้น, การพลั้งเผลอ",
       "example": "There was a lapse of three years."
     },
     {
@@ -4313,17 +4313,17 @@
     },
     {
       "word": "largesse",
-      "translation": "ความเอื้อเฟื้อใจกว้าง",
+      "translation": "ความเอื้อเฟื้อ, ใจกว้าง",
       "example": "The museum survives on private largesse."
     },
     {
       "word": "latitude",
-      "translation": "ความยืดหยุ่นเส้นรุ้ง",
+      "translation": "ความยืดหยุ่น, เส้นรุ้ง",
       "example": "She was given some latitude on the deadline."
     },
     {
       "word": "laud",
-      "translation": "สรรเสริญยกย่อง",
+      "translation": "สรรเสริญ, ยกย่อง",
       "example": "Reviewers lauded the translation."
     },
     {
@@ -4343,7 +4343,7 @@
     },
     {
       "word": "leery of",
-      "translation": "ที่ระแวงไม่ไว้ใจ",
+      "translation": "ที่ระแวง, ไม่ไว้ใจ",
       "example": "I am leery of quick promises."
     },
     {
@@ -4353,32 +4353,32 @@
     },
     {
       "word": "lenient",
-      "translation": "ที่ผ่อนปรนไม่เข้มงวด",
+      "translation": "ที่ผ่อนปรน, ไม่เข้มงวด",
       "example": "The judge was lenient."
     },
     {
       "word": "lethargic",
-      "translation": "ที่เฉื่อยชาซึมเซา",
+      "translation": "ที่เฉื่อยชา, ซึมเซา",
       "example": "The heat made everyone lethargic."
     },
     {
       "word": "lethargy",
-      "translation": "ความเฉื่อยชาซึมเซา",
+      "translation": "ความเฉื่อยชา, ซึมเซา",
       "example": "A general lethargy settled on the office."
     },
     {
       "word": "level-headed",
-      "translation": "ที่มีสติสุขุม",
+      "translation": "ที่มีสติ, สุขุม",
       "example": "She stayed level-headed throughout."
     },
     {
       "word": "levity",
-      "translation": "ความขบขันเบาสมอง",
+      "translation": "ความขบขัน, เบาสมอง",
       "example": "A note of levity broke the tension."
     },
     {
       "word": "levy",
-      "translation": "การเก็บภาษีเงินที่เรียกเก็บ",
+      "translation": "การเก็บภาษี, เงินที่เรียกเก็บ",
       "example": "The council imposed a small levy."
     },
     {
@@ -4388,17 +4388,17 @@
     },
     {
       "word": "liaison",
-      "translation": "ผู้ประสานงานการติดต่อ",
+      "translation": "ผู้ประสานงาน, การติดต่อ",
       "example": "She acts as liaison between the two teams."
     },
     {
       "word": "limbo",
-      "translation": "ภาวะค้างคาไม่แน่นอน",
+      "translation": "ภาวะค้างคา, ไม่แน่นอน",
       "example": "The project is in limbo."
     },
     {
       "word": "lineage",
-      "translation": "เชื้อสายวงศ์ตระกูล",
+      "translation": "เชื้อสาย, วงศ์ตระกูล",
       "example": "The family traces its lineage to 1600."
     },
     {
@@ -4408,7 +4408,7 @@
     },
     {
       "word": "liquidate",
-      "translation": "ชำระบัญชีเลิกกิจการ",
+      "translation": "ชำระบัญชี, เลิกกิจการ",
       "example": "They liquidated the company in June."
     },
     {
@@ -4443,7 +4443,7 @@
     },
     {
       "word": "longevity",
-      "translation": "ความยืนยาวอายุยืน",
+      "translation": "ความยืนยาว, อายุยืน",
       "example": "The longevity of the design is remarkable."
     },
     {
@@ -4458,32 +4458,32 @@
     },
     {
       "word": "lore",
-      "translation": "ตำนานความรู้ที่เล่าต่อกันมา",
+      "translation": "ตำนาน, ความรู้ที่เล่าต่อกันมา",
       "example": "Local lore says a spring runs beneath."
     },
     {
       "word": "lout",
-      "translation": "คนหยาบคายเกเร",
+      "translation": "คนหยาบคาย, เกเร",
       "example": "One lout spoiled the evening."
     },
     {
       "word": "lucid",
-      "translation": "ที่ชัดเจนแจ่มแจ้ง",
+      "translation": "ที่ชัดเจน, แจ่มแจ้ง",
       "example": "Her account was lucid."
     },
     {
       "word": "ludicrous",
-      "translation": "ที่น่าขันไร้สาระ",
+      "translation": "ที่น่าขัน, ไร้สาระ",
       "example": "The price is ludicrous."
     },
     {
       "word": "lugubrious",
-      "translation": "ที่เศร้าหมองหม่น",
+      "translation": "ที่เศร้าหมอง, หม่น",
       "example": "He has a lugubrious manner."
     },
     {
       "word": "lukewarm",
-      "translation": "ที่ไม่กระตือรือร้นอุ่นๆ",
+      "translation": "ที่ไม่กระตือรือร้น, อุ่นๆ",
       "example": "The response was lukewarm."
     },
     {
@@ -4503,12 +4503,12 @@
     },
     {
       "word": "luxuriant",
-      "translation": "ที่งอกงามหนาแน่น",
+      "translation": "ที่งอกงาม, หนาแน่น",
       "example": "The growth is luxuriant after rain."
     },
     {
       "word": "machination",
-      "translation": "การวางแผนลับเล่ห์กล",
+      "translation": "การวางแผนลับ, เล่ห์กล",
       "example": "The machinations behind it took months."
     },
     {
@@ -4518,17 +4518,17 @@
     },
     {
       "word": "macrocosm",
-      "translation": "ภาพรวมใหญ่จักรวาลใหญ่",
+      "translation": "ภาพรวมใหญ่, จักรวาลใหญ่",
       "example": "The village is a macrocosm of the country."
     },
     {
       "word": "madcap",
-      "translation": "ที่บ้าบิ่นเพี้ยน",
+      "translation": "ที่บ้าบิ่น, เพี้ยน",
       "example": "It was a madcap scheme."
     },
     {
       "word": "maelstrom",
-      "translation": "ความปั่นป่วนวุ่นวาย",
+      "translation": "ความปั่นป่วน, วุ่นวาย",
       "example": "The week was a maelstrom."
     },
     {
@@ -4538,7 +4538,7 @@
     },
     {
       "word": "magnanimous",
-      "translation": "ที่ใจกว้างมีน้ำใจ",
+      "translation": "ที่ใจกว้าง, มีน้ำใจ",
       "example": "She was magnanimous in defeat."
     },
     {
@@ -4548,12 +4548,12 @@
     },
     {
       "word": "mainstay",
-      "translation": "เสาหลักสิ่งค้ำจุนหลัก",
+      "translation": "เสาหลัก, สิ่งค้ำจุนหลัก",
       "example": "Tourism is the mainstay of the town."
     },
     {
       "word": "malady",
-      "translation": "โรคความบกพร่อง",
+      "translation": "โรค, ความบกพร่อง",
       "example": "The delay is a malady of the system."
     },
     {
@@ -4588,7 +4588,7 @@
     },
     {
       "word": "malleable",
-      "translation": "ที่อ่อนตัวดัดได้",
+      "translation": "ที่อ่อนตัว, ดัดได้",
       "example": "Warm wax is malleable."
     },
     {
@@ -4598,7 +4598,7 @@
     },
     {
       "word": "manifestation",
-      "translation": "การแสดงออกอาการที่ปรากฏ",
+      "translation": "การแสดงออก, อาการที่ปรากฏ",
       "example": "The rash is a manifestation of the illness."
     },
     {
@@ -4633,7 +4633,7 @@
     },
     {
       "word": "masquerade",
-      "translation": "การปลอมแปลงงานสวมหน้ากาก",
+      "translation": "การปลอมแปลง, งานสวมหน้ากาก",
       "example": "The scheme was a masquerade."
     },
     {
@@ -4648,7 +4648,7 @@
     },
     {
       "word": "maudlin",
-      "translation": "ที่เศร้าซึมเจ้าน้ำตา",
+      "translation": "ที่เศร้าซึม, เจ้าน้ำตา",
       "example": "He became maudlin after the toast."
     },
     {
@@ -4663,17 +4663,17 @@
     },
     {
       "word": "mayhem",
-      "translation": "ความโกลาหลวุ่นวาย",
+      "translation": "ความโกลาหล, วุ่นวาย",
       "example": "The storm caused mayhem."
     },
     {
       "word": "meagre",
-      "translation": "ที่น้อยนิดไม่เพียงพอ",
+      "translation": "ที่น้อยนิด, ไม่เพียงพอ",
       "example": "The portions were meagre."
     },
     {
       "word": "mediator",
-      "translation": "คนกลางผู้ไกล่เกลี่ย",
+      "translation": "คนกลาง, ผู้ไกล่เกลี่ย",
       "example": "A mediator settled the dispute."
     },
     {
@@ -4693,7 +4693,7 @@
     },
     {
       "word": "melee",
-      "translation": "การชุลมุนวุ่นวาย",
+      "translation": "การชุลมุน, วุ่นวาย",
       "example": "The melee lasted a minute."
     },
     {
@@ -4708,12 +4708,12 @@
     },
     {
       "word": "menacing",
-      "translation": "ที่น่ากลัวคุกคาม",
+      "translation": "ที่น่ากลัว, คุกคาม",
       "example": "The sky looked menacing."
     },
     {
       "word": "mendacious",
-      "translation": "ที่โกหกบิดเบือน",
+      "translation": "ที่โกหก, บิดเบือน",
       "example": "The account was wholly mendacious."
     },
     {
@@ -4738,7 +4738,7 @@
     },
     {
       "word": "mettle",
-      "translation": "ความกล้าหาญอดทน",
+      "translation": "ความกล้าหาญ, อดทน",
       "example": "The week tested her mettle."
     },
     {
@@ -4748,7 +4748,7 @@
     },
     {
       "word": "minion",
-      "translation": "ลูกน้องผู้รับใช้",
+      "translation": "ลูกน้อง, ผู้รับใช้",
       "example": "He sent a minion with the letter."
     },
     {
@@ -4763,7 +4763,7 @@
     },
     {
       "word": "mire",
-      "translation": "หล่มโคลนสภาพติดขัด",
+      "translation": "หล่มโคลน, สภาพติดขัด",
       "example": "The project sank into a mire of delay."
     },
     {
@@ -4773,12 +4773,12 @@
     },
     {
       "word": "mischievous",
-      "translation": "ที่ซุกซนชอบแกล้ง",
+      "translation": "ที่ซุกซน, ชอบแกล้ง",
       "example": "The kitten is mischievous."
     },
     {
       "word": "misgiving",
-      "translation": "ความรู้สึกไม่สบายใจกังขา",
+      "translation": "ความรู้สึกไม่สบายใจ, กังขา",
       "example": "She had misgivings about the date."
     },
     {
@@ -4803,12 +4803,12 @@
     },
     {
       "word": "mollify",
-      "translation": "ทำให้ใจอ่อนลงระงับความโกรธ",
+      "translation": "ทำให้ใจอ่อนลง, ระงับความโกรธ",
       "example": "Nothing would mollify him."
     },
     {
       "word": "moniker",
-      "translation": "ฉายาชื่อเล่น",
+      "translation": "ฉายา, ชื่อเล่น",
       "example": "The nickname became his usual moniker."
     },
     {
@@ -4828,12 +4828,12 @@
     },
     {
       "word": "moratorium",
-      "translation": "การพักการระงับชั่วคราว",
+      "translation": "การพัก, การระงับชั่วคราว",
       "example": "There is a moratorium on new building."
     },
     {
       "word": "mordant",
-      "translation": "ที่เสียดสีแสบสัน",
+      "translation": "ที่เสียดสี, แสบสัน",
       "example": "Her mordant wit is famous."
     },
     {
@@ -4843,17 +4843,17 @@
     },
     {
       "word": "moribund",
-      "translation": "ที่ใกล้จะสิ้นสุดร่อแร่",
+      "translation": "ที่ใกล้จะสิ้นสุด, ร่อแร่",
       "example": "The industry was moribund by 1980."
     },
     {
       "word": "morose",
-      "translation": "ที่หม่นหมองบูดบึ้ง",
+      "translation": "ที่หม่นหมอง, บูดบึ้ง",
       "example": "He grew morose in the winter."
     },
     {
       "word": "mortal",
-      "translation": "ที่ถึงตายร้ายแรง",
+      "translation": "ที่ถึงตาย, ร้ายแรง",
       "example": "It was a mortal blow to the plan."
     },
     {
@@ -4868,7 +4868,7 @@
     },
     {
       "word": "muffle",
-      "translation": "ทำให้เสียงเบาลงอุดกลบ",
+      "translation": "ทำให้เสียงเบาลง, อุดกลบ",
       "example": "Snow muffled every sound."
     },
     {
@@ -4903,17 +4903,17 @@
     },
     {
       "word": "myopic",
-      "translation": "ที่มองการณ์ใกล้สายตาสั้น",
+      "translation": "ที่มองการณ์ใกล้, สายตาสั้น",
       "example": "The policy was myopic."
     },
     {
       "word": "myriad",
-      "translation": "จำนวนมากมายมหาศาล",
+      "translation": "จำนวนมากมาย, มหาศาล",
       "example": "A myriad of small faults added up."
     },
     {
       "word": "mystique",
-      "translation": "ความลึกลับน่าพิศวง",
+      "translation": "ความลึกลับ, น่าพิศวง",
       "example": "The place has a certain mystique."
     },
     {
@@ -4923,7 +4923,7 @@
     },
     {
       "word": "nag",
-      "translation": "จู้จี้รบกวนใจ",
+      "translation": "จู้จี้, รบกวนใจ",
       "example": "The doubt nagged at her all week."
     },
     {
@@ -4948,7 +4948,7 @@
     },
     {
       "word": "nebulous",
-      "translation": "ที่คลุมเครือไม่ชัดเจน",
+      "translation": "ที่คลุมเครือ, ไม่ชัดเจน",
       "example": "The plan is still nebulous."
     },
     {
@@ -4963,7 +4963,7 @@
     },
     {
       "word": "nemesis",
-      "translation": "ศัตรูคู่อาฆาตผู้ล้างแค้น",
+      "translation": "ศัตรูคู่อาฆาต, ผู้ล้างแค้น",
       "example": "The old rival became his nemesis."
     },
     {
@@ -4978,7 +4978,7 @@
     },
     {
       "word": "nexus",
-      "translation": "จุดเชื่อมโยงศูนย์กลาง",
+      "translation": "จุดเชื่อมโยง, ศูนย์กลาง",
       "example": "The port is the nexus of the trade."
     },
     {
@@ -4988,7 +4988,7 @@
     },
     {
       "word": "nirvana",
-      "translation": "ความสงบสูงสุดนิพพาน",
+      "translation": "ความสงบสูงสุด, นิพพาน",
       "example": "For him a quiet Sunday is nirvana."
     },
     {
@@ -4998,12 +4998,12 @@
     },
     {
       "word": "nonchalance",
-      "translation": "ความไม่ใส่ใจเฉยเมย",
+      "translation": "ความไม่ใส่ใจ, เฉยเมย",
       "example": "He answered with studied nonchalance."
     },
     {
       "word": "nonchalant",
-      "translation": "ที่เฉยเมยไม่ยี่หระ",
+      "translation": "ที่เฉยเมย, ไม่ยี่หระ",
       "example": "Her nonchalant reply annoyed him."
     },
     {
@@ -5018,32 +5018,32 @@
     },
     {
       "word": "novice",
-      "translation": "ผู้เริ่มหัดมือใหม่",
+      "translation": "ผู้เริ่มหัด, มือใหม่",
       "example": "As a novice she made few mistakes."
     },
     {
       "word": "noxious",
-      "translation": "ที่เป็นพิษเป็นอันตราย",
+      "translation": "ที่เป็นพิษ, เป็นอันตราย",
       "example": "The fumes are noxious."
     },
     {
       "word": "oaf",
-      "translation": "คนซุ่มซ่ามเซ่อซ่า",
+      "translation": "คนซุ่มซ่าม, เซ่อซ่า",
       "example": "The clumsy oaf broke the vase."
     },
     {
       "word": "oasis",
-      "translation": "โอเอซิสที่พักพิงอันร่มรื่น",
+      "translation": "โอเอซิส, ที่พักพิงอันร่มรื่น",
       "example": "The garden is an oasis in the town."
     },
     {
       "word": "obdurate",
-      "translation": "ที่ดื้อดึงไม่เปลี่ยนใจ",
+      "translation": "ที่ดื้อดึง, ไม่เปลี่ยนใจ",
       "example": "He was obdurate to the last."
     },
     {
       "word": "obfuscate",
-      "translation": "ทำให้สับสนคลุมเครือ",
+      "translation": "ทำให้สับสน, คลุมเครือ",
       "example": "The wording obfuscates the real cost."
     },
     {
@@ -5058,7 +5058,7 @@
     },
     {
       "word": "obliterate",
-      "translation": "ลบล้างทำลายสิ้น",
+      "translation": "ลบล้าง, ทำลายสิ้น",
       "example": "The flood obliterated the path."
     },
     {
@@ -5068,12 +5068,12 @@
     },
     {
       "word": "obscure",
-      "translation": "ที่คลุมเครือไม่เป็นที่รู้จัก",
+      "translation": "ที่คลุมเครือ, ไม่เป็นที่รู้จัก",
       "example": "The reference is obscure."
     },
     {
       "word": "obscurity",
-      "translation": "ความไม่มีชื่อเสียงความคลุมเครือ",
+      "translation": "ความไม่มีชื่อเสียง, ความคลุมเครือ",
       "example": "She wrote in obscurity for years."
     },
     {
@@ -5083,7 +5083,7 @@
     },
     {
       "word": "observance",
-      "translation": "การปฏิบัติตามการถือปฏิบัติ",
+      "translation": "การปฏิบัติตาม, การถือปฏิบัติ",
       "example": "The observance of the rule is patchy."
     },
     {
@@ -5093,7 +5093,7 @@
     },
     {
       "word": "obsolete",
-      "translation": "ที่ล้าสมัยเลิกใช้แล้ว",
+      "translation": "ที่ล้าสมัย, เลิกใช้แล้ว",
       "example": "The format is obsolete."
     },
     {
@@ -5103,12 +5103,12 @@
     },
     {
       "word": "obstreperous",
-      "translation": "ที่เสียงดังควบคุมยาก",
+      "translation": "ที่เสียงดัง, ควบคุมยาก",
       "example": "The crowd grew obstreperous."
     },
     {
       "word": "obtuse",
-      "translation": "ที่ทึบหัวช้า",
+      "translation": "ที่ทึบ, หัวช้า",
       "example": "He is being deliberately obtuse."
     },
     {
@@ -5128,7 +5128,7 @@
     },
     {
       "word": "officious",
-      "translation": "ที่ชอบยุ่งเรื่องคนอื่นเจ้ากี้เจ้าการ",
+      "translation": "ที่ชอบยุ่งเรื่องคนอื่น, เจ้ากี้เจ้าการ",
       "example": "The clerk was officious."
     },
     {
@@ -5148,7 +5148,7 @@
     },
     {
       "word": "omission",
-      "translation": "การละเว้นการตกหล่น",
+      "translation": "การละเว้น, การตกหล่น",
       "example": "The omission was accidental."
     },
     {
@@ -5178,12 +5178,12 @@
     },
     {
       "word": "onus",
-      "translation": "ภาระหน้าที่รับผิดชอบ",
+      "translation": "ภาระหน้าที่, รับผิดชอบ",
       "example": "The onus is on the seller."
     },
     {
       "word": "opacity",
-      "translation": "ความทึบความไม่โปร่งใส",
+      "translation": "ความทึบ, ความไม่โปร่งใส",
       "example": "The opacity of the rules is a problem."
     },
     {
@@ -5193,17 +5193,17 @@
     },
     {
       "word": "opulence",
-      "translation": "ความหรูหราโอ่อ่า",
+      "translation": "ความหรูหรา, โอ่อ่า",
       "example": "The hall is famous for its opulence."
     },
     {
       "word": "opulent",
-      "translation": "ที่หรูหราฟุ่มเฟือย",
+      "translation": "ที่หรูหรา, ฟุ่มเฟือย",
       "example": "The room is opulent."
     },
     {
       "word": "oracle",
-      "translation": "ผู้รู้ที่ปรึกษาผู้พยากรณ์",
+      "translation": "ผู้รู้ที่ปรึกษา, ผู้พยากรณ์",
       "example": "She is the oracle on local history."
     },
     {
@@ -5283,12 +5283,12 @@
     },
     {
       "word": "oversight",
-      "translation": "ความพลั้งเผลอการกำกับดูแล",
+      "translation": "ความพลั้งเผลอ, การกำกับดูแล",
       "example": "The gap was an oversight."
     },
     {
       "word": "overweening",
-      "translation": "ที่มั่นใจเกินตัวหยิ่งผยอง",
+      "translation": "ที่มั่นใจเกินตัว, หยิ่งผยอง",
       "example": "His overweening confidence undid him."
     },
     {
@@ -5308,7 +5308,7 @@
     },
     {
       "word": "pageant",
-      "translation": "ขบวนแห่การแสดงประวัติศาสตร์",
+      "translation": "ขบวนแห่, การแสดงประวัติศาสตร์",
       "example": "The village pageant is in June."
     },
     {
@@ -5318,12 +5318,12 @@
     },
     {
       "word": "painstaking",
-      "translation": "ที่พิถีพิถันประณีต",
+      "translation": "ที่พิถีพิถัน, ประณีต",
       "example": "The repair was painstaking."
     },
     {
       "word": "palatable",
-      "translation": "ที่ยอมรับได้อร่อยพอกิน",
+      "translation": "ที่ยอมรับได้, อร่อยพอกิน",
       "example": "The compromise was barely palatable."
     },
     {
@@ -5363,12 +5363,12 @@
     },
     {
       "word": "paltry",
-      "translation": "ที่น้อยนิดไร้ค่า",
+      "translation": "ที่น้อยนิด, ไร้ค่า",
       "example": "The offer was paltry."
     },
     {
       "word": "pamper",
-      "translation": "ตามใจปรนเปรอ",
+      "translation": "ตามใจ, ปรนเปรอ",
       "example": "They pamper the dog."
     },
     {
@@ -5383,7 +5383,7 @@
     },
     {
       "word": "pandemonium",
-      "translation": "ความโกลาหลอลหม่าน",
+      "translation": "ความโกลาหล, อลหม่าน",
       "example": "There was pandemonium at the gate."
     },
     {
@@ -5433,7 +5433,7 @@
     },
     {
       "word": "parochial",
-      "translation": "ที่คับแคบเฉพาะถิ่น",
+      "translation": "ที่คับแคบ, เฉพาะถิ่น",
       "example": "The view is parochial."
     },
     {
@@ -5443,12 +5443,12 @@
     },
     {
       "word": "parsimonious",
-      "translation": "ที่ตระหนี่ขี้เหนียว",
+      "translation": "ที่ตระหนี่, ขี้เหนียว",
       "example": "He is parsimonious with praise."
     },
     {
       "word": "parsimony",
-      "translation": "ความประหยัดมัธยัสถ์",
+      "translation": "ความประหยัด, มัธยัสถ์",
       "example": "Her parsimony kept the trust alive."
     },
     {
@@ -5493,7 +5493,7 @@
     },
     {
       "word": "pavilion",
-      "translation": "ศาลาพลับพลา",
+      "translation": "ศาลา, พลับพลา",
       "example": "The pavilion was rebuilt in 1930."
     },
     {
@@ -5518,17 +5518,17 @@
     },
     {
       "word": "pedestal",
-      "translation": "แท่นฐานตั้ง",
+      "translation": "แท่น, ฐานตั้ง",
       "example": "She put her teacher on a pedestal."
     },
     {
       "word": "pedigree",
-      "translation": "ที่มาสายพันธุ์",
+      "translation": "ที่มา, สายพันธุ์",
       "example": "The design has a long pedigree."
     },
     {
       "word": "peevish",
-      "translation": "ที่หงุดหงิดงอแง",
+      "translation": "ที่หงุดหงิด, งอแง",
       "example": "He was peevish all morning."
     },
     {
@@ -5538,7 +5538,7 @@
     },
     {
       "word": "pellucid",
-      "translation": "ที่ใสกระจ่างชัดเจน",
+      "translation": "ที่ใส, กระจ่างชัดเจน",
       "example": "Her prose is pellucid."
     },
     {
@@ -5568,7 +5568,7 @@
     },
     {
       "word": "pensive",
-      "translation": "ที่ครุ่นคิดใจลอย",
+      "translation": "ที่ครุ่นคิด, ใจลอย",
       "example": "She grew pensive by the window."
     },
     {
@@ -5583,17 +5583,17 @@
     },
     {
       "word": "perennial",
-      "translation": "ที่เกิดขึ้นเป็นประจำยืนต้น",
+      "translation": "ที่เกิดขึ้นเป็นประจำ, ยืนต้น",
       "example": "Parking is a perennial problem."
     },
     {
       "word": "perfidious",
-      "translation": "ที่ทรยศคดโกง",
+      "translation": "ที่ทรยศ, คดโกง",
       "example": "The ally proved perfidious."
     },
     {
       "word": "perfidy",
-      "translation": "ความทรยศคดโกง",
+      "translation": "ความทรยศ, คดโกง",
       "example": "The perfidy of his closest ally stunned him."
     },
     {
@@ -5613,12 +5613,12 @@
     },
     {
       "word": "perimeter",
-      "translation": "เส้นรอบเขตแนวรอบ",
+      "translation": "เส้นรอบเขต, แนวรอบ",
       "example": "A fence runs round the perimeter."
     },
     {
       "word": "periphery",
-      "translation": "ชายขอบรอบนอก",
+      "translation": "ชายขอบ, รอบนอก",
       "example": "The estate lies on the periphery."
     },
     {
@@ -5638,7 +5638,7 @@
     },
     {
       "word": "permeate",
-      "translation": "ซึมผ่านแทรกซึม",
+      "translation": "ซึมผ่าน, แทรกซึม",
       "example": "Damp permeated the whole wall."
     },
     {
@@ -5668,12 +5668,12 @@
     },
     {
       "word": "perplexity",
-      "translation": "ความงุนงงสับสน",
+      "translation": "ความงุนงง, สับสน",
       "example": "She looked at the form in perplexity."
     },
     {
       "word": "persecute",
-      "translation": "ข่มเหงรังแก",
+      "translation": "ข่มเหง, รังแก",
       "example": "The group was persecuted for years."
     },
     {
@@ -5688,7 +5688,7 @@
     },
     {
       "word": "perturbed",
-      "translation": "ที่กังวลไม่สบายใจ",
+      "translation": "ที่กังวล, ไม่สบายใจ",
       "example": "He seemed perturbed by the news."
     },
     {
@@ -5708,7 +5708,7 @@
     },
     {
       "word": "petulant",
-      "translation": "ที่งอแงหงุดหงิด",
+      "translation": "ที่งอแง, หงุดหงิด",
       "example": "His reply was petulant."
     },
     {
@@ -5728,17 +5728,17 @@
     },
     {
       "word": "phlegmatic",
-      "translation": "ที่เยือกเย็นไม่หวั่นไหว",
+      "translation": "ที่เยือกเย็น, ไม่หวั่นไหว",
       "example": "She stayed phlegmatic throughout."
     },
     {
       "word": "phoenix",
-      "translation": "นกฟีนิกซ์สัญลักษณ์การฟื้นคืน",
+      "translation": "นกฟีนิกซ์, สัญลักษณ์การฟื้นคืน",
       "example": "The town rose like a phoenix."
     },
     {
       "word": "piety",
-      "translation": "ความเลื่อมใสศรัทธา",
+      "translation": "ความเลื่อมใส, ศรัทธา",
       "example": "Her piety was quiet and private."
     },
     {
@@ -5773,7 +5773,7 @@
     },
     {
       "word": "pitfall",
-      "translation": "หลุมพรางข้อผิดพลาดที่มองไม่เห็น",
+      "translation": "หลุมพราง, ข้อผิดพลาดที่มองไม่เห็น",
       "example": "The scheme has one obvious pitfall."
     },
     {
@@ -5818,7 +5818,7 @@
     },
     {
       "word": "platitude",
-      "translation": "คำพูดซ้ำซากไร้สาระ",
+      "translation": "คำพูดซ้ำซาก, ไร้สาระ",
       "example": "The speech was a string of platitudes."
     },
     {
@@ -5858,7 +5858,7 @@
     },
     {
       "word": "poignancy",
-      "translation": "ความซาบซึ้งสะเทือนใจ",
+      "translation": "ความซาบซึ้ง, สะเทือนใจ",
       "example": "The letter has a real poignancy."
     },
     {
@@ -5868,7 +5868,7 @@
     },
     {
       "word": "poise",
-      "translation": "ความสุขุมมั่นคง",
+      "translation": "ความสุขุม, มั่นคง",
       "example": "She kept her poise throughout."
     },
     {
@@ -5883,7 +5883,7 @@
     },
     {
       "word": "pomp",
-      "translation": "ความโอ่อ่าหรูหราของพิธี",
+      "translation": "ความโอ่อ่า, หรูหราของพิธี",
       "example": "The ceremony was full of pomp."
     },
     {
@@ -5893,12 +5893,12 @@
     },
     {
       "word": "ponder",
-      "translation": "ครุ่นคิดใคร่ครวญ",
+      "translation": "ครุ่นคิด, ใคร่ครวญ",
       "example": "She pondered the offer for a week."
     },
     {
       "word": "ponderous",
-      "translation": "ที่หนักอึ้งเชื่องช้า",
+      "translation": "ที่หนักอึ้ง, เชื่องช้า",
       "example": "The prose is ponderous."
     },
     {
@@ -5928,7 +5928,7 @@
     },
     {
       "word": "portentous",
-      "translation": "ที่เป็นลางร้ายวางท่าขรึม",
+      "translation": "ที่เป็นลางร้าย, วางท่าขรึม",
       "example": "The music is portentous."
     },
     {
@@ -5968,7 +5968,7 @@
     },
     {
       "word": "precarious",
-      "translation": "ที่ล่อแหลมไม่มั่นคง",
+      "translation": "ที่ล่อแหลม, ไม่มั่นคง",
       "example": "Their position is precarious."
     },
     {
@@ -5988,12 +5988,12 @@
     },
     {
       "word": "precipitous",
-      "translation": "ที่ชันมากรวดเร็ว",
+      "translation": "ที่ชันมาก, รวดเร็ว",
       "example": "The drop is precipitous."
     },
     {
       "word": "precocious",
-      "translation": "ที่แก่เกินวัยพัฒนาเร็ว",
+      "translation": "ที่แก่เกินวัย, พัฒนาเร็ว",
       "example": "She was a precocious reader."
     },
     {
@@ -6023,7 +6023,7 @@
     },
     {
       "word": "prelude",
-      "translation": "บทนำสิ่งที่นำมาก่อน",
+      "translation": "บทนำ, สิ่งที่นำมาก่อน",
       "example": "The visit was a prelude to the move."
     },
     {
@@ -6038,7 +6038,7 @@
     },
     {
       "word": "preposterous",
-      "translation": "ที่ไร้สาระน่าขัน",
+      "translation": "ที่ไร้สาระ, น่าขัน",
       "example": "The suggestion is preposterous."
     },
     {
@@ -6078,12 +6078,12 @@
     },
     {
       "word": "prevalent",
-      "translation": "ที่แพร่หลายพบได้ทั่วไป",
+      "translation": "ที่แพร่หลาย, พบได้ทั่วไป",
       "example": "The habit is prevalent here."
     },
     {
       "word": "prevaricate",
-      "translation": "พูดบ่ายเบี่ยงเลี่ยงความจริง",
+      "translation": "พูดบ่ายเบี่ยง, เลี่ยงความจริง",
       "example": "He prevaricated when asked directly."
     },
     {
@@ -6098,12 +6098,12 @@
     },
     {
       "word": "pristine",
-      "translation": "ที่บริสุทธิ์สมบูรณ์ดังเดิม",
+      "translation": "ที่บริสุทธิ์, สมบูรณ์ดังเดิม",
       "example": "The car is in pristine condition."
     },
     {
       "word": "privation",
-      "translation": "ความขาดแคลนลำบาก",
+      "translation": "ความขาดแคลน, ลำบาก",
       "example": "The winter brought real privation."
     },
     {
@@ -6118,7 +6118,7 @@
     },
     {
       "word": "proclivity",
-      "translation": "ความโน้มเอียงชอบ",
+      "translation": "ความโน้มเอียง, ชอบ",
       "example": "He has a proclivity for long walks."
     },
     {
@@ -6128,27 +6128,27 @@
     },
     {
       "word": "procure",
-      "translation": "จัดหาได้มา",
+      "translation": "จัดหา, ได้มา",
       "example": "They procured the parts abroad."
     },
     {
       "word": "procurement",
-      "translation": "การจัดซื้อจัดหา",
+      "translation": "การจัดซื้อ, จัดหา",
       "example": "Procurement takes three months."
     },
     {
       "word": "prodigal",
-      "translation": "ที่ฟุ่มเฟือยสุรุ่ยสุร่าย",
+      "translation": "ที่ฟุ่มเฟือย, สุรุ่ยสุร่าย",
       "example": "The prodigal spending ended in debt."
     },
     {
       "word": "prodigious",
-      "translation": "ที่มหาศาลน่าอัศจรรย์",
+      "translation": "ที่มหาศาล, น่าอัศจรรย์",
       "example": "The output was prodigious."
     },
     {
       "word": "prodigy",
-      "translation": "อัจฉริยะเด็กมหัศจรรย์",
+      "translation": "อัจฉริยะ, เด็กมหัศจรรย์",
       "example": "She was a musical prodigy."
     },
     {
@@ -6158,32 +6158,32 @@
     },
     {
       "word": "profess",
-      "translation": "แสดงออกว่าอ้างว่า",
+      "translation": "แสดงออกว่า, อ้างว่า",
       "example": "He professes no interest in prizes."
     },
     {
       "word": "proffer",
-      "translation": "ยื่นให้เสนอให้",
+      "translation": "ยื่นให้, เสนอให้",
       "example": "She proffered a hand."
     },
     {
       "word": "proficiency",
-      "translation": "ความชำนาญความสามารถ",
+      "translation": "ความชำนาญ, ความสามารถ",
       "example": "The test measures proficiency."
     },
     {
       "word": "profligate",
-      "translation": "ที่ฟุ่มเฟือยสุรุ่ยสุร่าย",
+      "translation": "ที่ฟุ่มเฟือย, สุรุ่ยสุร่าย",
       "example": "The spending was profligate."
     },
     {
       "word": "profusion",
-      "translation": "ความมากมายอุดม",
+      "translation": "ความมากมาย, อุดม",
       "example": "Roses grew in profusion."
     },
     {
       "word": "progeny",
-      "translation": "ลูกหลานผลผลิต",
+      "translation": "ลูกหลาน, ผลผลิต",
       "example": "The pair and their progeny filled the field."
     },
     {
@@ -6208,7 +6208,7 @@
     },
     {
       "word": "prologue",
-      "translation": "อารัมภบทบทนำ",
+      "translation": "อารัมภบท, บทนำ",
       "example": "The prologue sets the scene."
     },
     {
@@ -6238,7 +6238,7 @@
     },
     {
       "word": "propitious",
-      "translation": "ที่เป็นมงคลเหมาะเจาะ",
+      "translation": "ที่เป็นมงคล, เหมาะเจาะ",
       "example": "The moment was propitious."
     },
     {
@@ -6248,12 +6248,12 @@
     },
     {
       "word": "propriety",
-      "translation": "ความเหมาะสมถูกทำนองคลองธรรม",
+      "translation": "ความเหมาะสม, ถูกทำนองคลองธรรม",
       "example": "She questioned the propriety of the gift."
     },
     {
       "word": "prosaic",
-      "translation": "ที่ธรรมดาน่าเบื่อ",
+      "translation": "ที่ธรรมดา, น่าเบื่อ",
       "example": "The reason is prosaic."
     },
     {
@@ -6268,7 +6268,7 @@
     },
     {
       "word": "protégé",
-      "translation": "ผู้ที่ได้รับการอุปถัมภ์สั่งสอน",
+      "translation": "ผู้ที่ได้รับการอุปถัมภ์, สั่งสอน",
       "example": "He was her protégé for a decade."
     },
     {
@@ -6278,12 +6278,12 @@
     },
     {
       "word": "protract",
-      "translation": "ยืดเยื้อทำให้ยาวนาน",
+      "translation": "ยืดเยื้อ, ทำให้ยาวนาน",
       "example": "Do not protract the meeting."
     },
     {
       "word": "provenance",
-      "translation": "แหล่งที่มาประวัติความเป็นมา",
+      "translation": "แหล่งที่มา, ประวัติความเป็นมา",
       "example": "The provenance of the bowl is uncertain."
     },
     {
@@ -6298,7 +6298,7 @@
     },
     {
       "word": "proviso",
-      "translation": "ข้อแม้เงื่อนไข",
+      "translation": "ข้อแม้, เงื่อนไข",
       "example": "She agreed, with one proviso."
     },
     {
@@ -6313,7 +6313,7 @@
     },
     {
       "word": "proxy",
-      "translation": "การมอบฉันทะตัวแทน",
+      "translation": "การมอบฉันทะ, ตัวแทน",
       "example": "She voted by proxy."
     },
     {
@@ -6328,7 +6328,7 @@
     },
     {
       "word": "psyche",
-      "translation": "จิตใจจิตวิญญาณ",
+      "translation": "จิตใจ, จิตวิญญาณ",
       "example": "The book explores the national psyche."
     },
     {
@@ -6338,7 +6338,7 @@
     },
     {
       "word": "pugnacious",
-      "translation": "ที่ชอบต่อสู้ก้าวร้าว",
+      "translation": "ที่ชอบต่อสู้, ก้าวร้าว",
       "example": "He is pugnacious in debate."
     },
     {
@@ -6348,7 +6348,7 @@
     },
     {
       "word": "punctilious",
-      "translation": "ที่พิถีพิถันเคร่งครัดในระเบียบ",
+      "translation": "ที่พิถีพิถัน, เคร่งครัดในระเบียบ",
       "example": "She is punctilious about detail."
     },
     {
@@ -6368,7 +6368,7 @@
     },
     {
       "word": "purge",
-      "translation": "กวาดล้างชำระออก",
+      "translation": "กวาดล้าง, ชำระออก",
       "example": "They purged the old files."
     },
     {
@@ -6383,17 +6383,17 @@
     },
     {
       "word": "purveyor",
-      "translation": "ผู้จัดหาจำหน่าย",
+      "translation": "ผู้จัดหา, จำหน่าย",
       "example": "They are purveyors of fine cheese."
     },
     {
       "word": "pusillanimous",
-      "translation": "ที่ขี้ขลาดใจเสาะ",
+      "translation": "ที่ขี้ขลาด, ใจเสาะ",
       "example": "The reply was pusillanimous."
     },
     {
       "word": "quack",
-      "translation": "หมอเถื่อนคนหลอกลวง",
+      "translation": "หมอเถื่อน, คนหลอกลวง",
       "example": "The so-called doctor was a quack."
     },
     {
@@ -6403,7 +6403,7 @@
     },
     {
       "word": "quagmire",
-      "translation": "หล่มปลักสภาพติดหล่ม",
+      "translation": "หล่มปลัก, สภาพติดหล่ม",
       "example": "The talks became a quagmire."
     },
     {
@@ -6413,7 +6413,7 @@
     },
     {
       "word": "qualm",
-      "translation": "ความรู้สึกลังเลไม่สบายใจ",
+      "translation": "ความรู้สึกลังเล, ไม่สบายใจ",
       "example": "She had no qualms about refusing."
     },
     {
@@ -6438,7 +6438,7 @@
     },
     {
       "word": "quash",
-      "translation": "เพิกถอนยกเลิก",
+      "translation": "เพิกถอน, ยกเลิก",
       "example": "The court quashed the fine."
     },
     {
@@ -6448,12 +6448,12 @@
     },
     {
       "word": "quell",
-      "translation": "ปราบระงับ",
+      "translation": "ปราบ, ระงับ",
       "example": "The rain quelled the fire."
     },
     {
       "word": "querulous",
-      "translation": "ที่ขี้บ่นชอบต่อว่า",
+      "translation": "ที่ขี้บ่น, ชอบต่อว่า",
       "example": "He grew querulous with age."
     },
     {
@@ -6468,7 +6468,7 @@
     },
     {
       "word": "quiescent",
-      "translation": "ที่สงบนิ่งไม่เคลื่อนไหว",
+      "translation": "ที่สงบนิ่ง, ไม่เคลื่อนไหว",
       "example": "The volcano is quiescent."
     },
     {
@@ -6488,7 +6488,7 @@
     },
     {
       "word": "quip",
-      "translation": "คำพูดคมคายขบขัน",
+      "translation": "คำพูดคมคาย, ขบขัน",
       "example": "She ended with a quip."
     },
     {
@@ -6498,7 +6498,7 @@
     },
     {
       "word": "quixotic",
-      "translation": "ที่เพ้อฝันไม่สมจริง",
+      "translation": "ที่เพ้อฝัน, ไม่สมจริง",
       "example": "It was a quixotic attempt at reform."
     },
     {
@@ -6513,7 +6513,7 @@
     },
     {
       "word": "radiance",
-      "translation": "ความเปล่งปลั่งสุกใส",
+      "translation": "ความเปล่งปลั่ง, สุกใส",
       "example": "The radiance of the morning surprised us."
     },
     {
@@ -6523,12 +6523,12 @@
     },
     {
       "word": "rambunctious",
-      "translation": "ที่ซุกซนวุ่นวาย",
+      "translation": "ที่ซุกซน, วุ่นวาย",
       "example": "The class was rambunctious."
     },
     {
       "word": "ramification",
-      "translation": "ผลที่ตามมาแตกแขนง",
+      "translation": "ผลที่ตามมา, แตกแขนง",
       "example": "The change has one awkward ramification."
     },
     {
@@ -6543,7 +6543,7 @@
     },
     {
       "word": "rapacious",
-      "translation": "ที่ตะกละโลภมาก",
+      "translation": "ที่ตะกละ, โลภมาก",
       "example": "The firm has a rapacious reputation."
     },
     {
@@ -6568,12 +6568,12 @@
     },
     {
       "word": "rascal",
-      "translation": "เจ้าตัวแสบคนซุกซน",
+      "translation": "เจ้าตัวแสบ, คนซุกซน",
       "example": "The little rascal hid the keys."
     },
     {
       "word": "rashness",
-      "translation": "ความหุนหันไม่ยั้งคิด",
+      "translation": "ความหุนหัน, ไม่ยั้งคิด",
       "example": "His rashness cost them the match."
     },
     {
@@ -6583,7 +6583,7 @@
     },
     {
       "word": "ratify",
-      "translation": "ให้สัตยาบันรับรอง",
+      "translation": "ให้สัตยาบัน, รับรอง",
       "example": "Parliament ratified the treaty."
     },
     {
@@ -6628,7 +6628,7 @@
     },
     {
       "word": "recant",
-      "translation": "ถอนคำพูดกลับคำ",
+      "translation": "ถอนคำพูด, กลับคำ",
       "example": "He recanted the claim in print."
     },
     {
@@ -6653,12 +6653,12 @@
     },
     {
       "word": "recklessness",
-      "translation": "ความประมาทไม่ยั้งคิด",
+      "translation": "ความประมาท, ไม่ยั้งคิด",
       "example": "His recklessness worried the crew."
     },
     {
       "word": "reclamation",
-      "translation": "การถมที่การนำกลับมาใช้",
+      "translation": "การถมที่, การนำกลับมาใช้",
       "example": "The reclamation of the marsh took years."
     },
     {
@@ -6668,22 +6668,22 @@
     },
     {
       "word": "reclusive",
-      "translation": "ที่สันโดษปลีกตัว",
+      "translation": "ที่สันโดษ, ปลีกตัว",
       "example": "She led a reclusive life."
     },
     {
       "word": "recondite",
-      "translation": "ที่ลึกซึ้งเข้าใจยาก",
+      "translation": "ที่ลึกซึ้ง, เข้าใจยาก",
       "example": "The subject is recondite."
     },
     {
       "word": "reconnaissance",
-      "translation": "การลาดตระเวนสำรวจ",
+      "translation": "การลาดตระเวน, สำรวจ",
       "example": "They flew a reconnaissance over the valley."
     },
     {
       "word": "recourse",
-      "translation": "ทางออกที่พึ่ง",
+      "translation": "ทางออก, ที่พึ่ง",
       "example": "We had no recourse but to wait."
     },
     {
@@ -6703,17 +6703,17 @@
     },
     {
       "word": "rectitude",
-      "translation": "ความเที่ยงตรงถูกต้อง",
+      "translation": "ความเที่ยงตรง, ถูกต้อง",
       "example": "His rectitude was never doubted."
     },
     {
       "word": "redeem",
-      "translation": "ไถ่ถอนกอบกู้",
+      "translation": "ไถ่ถอน, กอบกู้",
       "example": "One good chapter redeems the book."
     },
     {
       "word": "redemption",
-      "translation": "การไถ่บาปการกอบกู้",
+      "translation": "การไถ่บาป, การกอบกู้",
       "example": "The story is about redemption."
     },
     {
@@ -6723,7 +6723,7 @@
     },
     {
       "word": "redress",
-      "translation": "การชดเชยแก้ไขความไม่เป็นธรรม",
+      "translation": "การชดเชย, แก้ไขความไม่เป็นธรรม",
       "example": "She sought redress through the court."
     },
     {
@@ -6733,12 +6733,12 @@
     },
     {
       "word": "reformation",
-      "translation": "การปฏิรูปเปลี่ยนแปลง",
+      "translation": "การปฏิรูป, เปลี่ยนแปลง",
       "example": "The reformation of the system took a decade."
     },
     {
       "word": "refractory",
-      "translation": "ที่ทนไฟดื้อรั้น",
+      "translation": "ที่ทนไฟ, ดื้อรั้น",
       "example": "The metal is refractory."
     },
     {
@@ -6748,7 +6748,7 @@
     },
     {
       "word": "refute",
-      "translation": "หักล้างพิสูจน์ว่าผิด",
+      "translation": "หักล้าง, พิสูจน์ว่าผิด",
       "example": "He refuted every claim."
     },
     {
@@ -6783,7 +6783,7 @@
     },
     {
       "word": "relegate",
-      "translation": "ลดชั้นผลักไปอยู่ที่ต่ำกว่า",
+      "translation": "ลดชั้น, ผลักไปอยู่ที่ต่ำกว่า",
       "example": "The letter was relegated to a footnote."
     },
     {
@@ -6793,12 +6793,12 @@
     },
     {
       "word": "relic",
-      "translation": "สิ่งที่หลงเหลือวัตถุโบราณ",
+      "translation": "สิ่งที่หลงเหลือ, วัตถุโบราณ",
       "example": "The bowl is a relic of the old mill."
     },
     {
       "word": "relish",
-      "translation": "ความเอร็ดอร่อยความเพลิดเพลิน",
+      "translation": "ความเอร็ดอร่อย, ความเพลิดเพลิน",
       "example": "She read the letter with relish."
     },
     {
@@ -6818,17 +6818,17 @@
     },
     {
       "word": "remiss",
-      "translation": "ที่ละเลยบกพร่อง",
+      "translation": "ที่ละเลย, บกพร่อง",
       "example": "It was remiss of me not to write."
     },
     {
       "word": "remission",
-      "translation": "ระยะโรคสงบการยกโทษ",
+      "translation": "ระยะโรคสงบ, การยกโทษ",
       "example": "The illness went into remission."
     },
     {
       "word": "remit",
-      "translation": "ขอบเขตอำนาจหน้าที่",
+      "translation": "ขอบเขตอำนาจ, หน้าที่",
       "example": "That is outside our remit."
     },
     {
@@ -6838,7 +6838,7 @@
     },
     {
       "word": "remorse",
-      "translation": "ความสำนึกผิดเสียใจ",
+      "translation": "ความสำนึกผิด, เสียใจ",
       "example": "He showed genuine remorse."
     },
     {
@@ -6853,12 +6853,12 @@
     },
     {
       "word": "rendition",
-      "translation": "การขับร้องการตีความแสดง",
+      "translation": "การขับร้อง, การตีความแสดง",
       "example": "Her rendition of the song was superb."
     },
     {
       "word": "renegade",
-      "translation": "ผู้ทรยศแปรพักตร์",
+      "translation": "ผู้ทรยศ, แปรพักตร์",
       "example": "The renegade set up a rival firm."
     },
     {
@@ -6868,12 +6868,12 @@
     },
     {
       "word": "renounce",
-      "translation": "สละละทิ้ง",
+      "translation": "สละ, ละทิ้ง",
       "example": "She renounced the claim in writing."
     },
     {
       "word": "renown",
-      "translation": "ชื่อเสียงเกียรติคุณ",
+      "translation": "ชื่อเสียง, เกียรติคุณ",
       "example": "The maker has real renown."
     },
     {
@@ -6893,7 +6893,7 @@
     },
     {
       "word": "repentance",
-      "translation": "ความสำนึกผิดกลับใจ",
+      "translation": "ความสำนึกผิด, กลับใจ",
       "example": "His repentance came too late."
     },
     {
@@ -6913,12 +6913,12 @@
     },
     {
       "word": "replete",
-      "translation": "ที่เต็มไปด้วยอิ่มเอม",
+      "translation": "ที่เต็มไปด้วย, อิ่มเอม",
       "example": "The book is replete with detail."
     },
     {
       "word": "repository",
-      "translation": "แหล่งเก็บรวบรวม",
+      "translation": "แหล่งเก็บ, รวบรวม",
       "example": "The archive is a repository of local memory."
     },
     {
@@ -6928,12 +6928,12 @@
     },
     {
       "word": "repression",
-      "translation": "การกดขี่ปราบปราม",
+      "translation": "การกดขี่, ปราบปราม",
       "example": "The chapter documents political repression."
     },
     {
       "word": "reprieve",
-      "translation": "การผ่อนผันชะลอโทษ",
+      "translation": "การผ่อนผัน, ชะลอโทษ",
       "example": "The building won a reprieve."
     },
     {
@@ -6943,22 +6943,22 @@
     },
     {
       "word": "reprisal",
-      "translation": "การตอบโต้แก้แค้น",
+      "translation": "การตอบโต้, แก้แค้น",
       "example": "They feared reprisal."
     },
     {
       "word": "reproach",
-      "translation": "การตำหนิต่อว่า",
+      "translation": "การตำหนิ, ต่อว่า",
       "example": "There was no reproach in her voice."
     },
     {
       "word": "repudiate",
-      "translation": "ปฏิเสธไม่ยอมรับ",
+      "translation": "ปฏิเสธ, ไม่ยอมรับ",
       "example": "He repudiated the agreement entirely."
     },
     {
       "word": "repudiation",
-      "translation": "การปฏิเสธไม่ยอมรับ",
+      "translation": "การปฏิเสธ, ไม่ยอมรับ",
       "example": "The repudiation of the debt shocked the market."
     },
     {
@@ -6983,12 +6983,12 @@
     },
     {
       "word": "requisition",
-      "translation": "การเรียกเกณฑ์ใบเบิก",
+      "translation": "การเรียกเกณฑ์, ใบเบิก",
       "example": "The army issued a requisition for the barn."
     },
     {
       "word": "rescind",
-      "translation": "เพิกถอนยกเลิก",
+      "translation": "เพิกถอน, ยกเลิก",
       "example": "The board rescinded the order."
     },
     {
@@ -6998,12 +6998,12 @@
     },
     {
       "word": "resilience",
-      "translation": "ความยืดหยุ่นฟื้นตัวได้",
+      "translation": "ความยืดหยุ่น, ฟื้นตัวได้",
       "example": "The town showed real resilience."
     },
     {
       "word": "resolute",
-      "translation": "ที่แน่วแน่เด็ดเดี่ยว",
+      "translation": "ที่แน่วแน่, เด็ดเดี่ยว",
       "example": "She was resolute about leaving."
     },
     {
@@ -7013,27 +7013,27 @@
     },
     {
       "word": "resonance",
-      "translation": "การสะท้อนความรู้สึกร่วมเสียงก้อง",
+      "translation": "การสะท้อนความรู้สึกร่วม, เสียงก้อง",
       "example": "The word has a particular resonance here."
     },
     {
       "word": "respite",
-      "translation": "ช่วงพักผ่อนคลาย",
+      "translation": "ช่วงพัก, ผ่อนคลาย",
       "example": "The rain gave no respite."
     },
     {
       "word": "resplendent",
-      "translation": "ที่งดงามโอ่อ่า",
+      "translation": "ที่งดงาม, โอ่อ่า",
       "example": "The hall was resplendent."
     },
     {
       "word": "restitution",
-      "translation": "การคืนทรัพย์ชดใช้",
+      "translation": "การคืนทรัพย์, ชดใช้",
       "example": "The court ordered restitution."
     },
     {
       "word": "restive",
-      "translation": "ที่กระวนกระวายอยู่ไม่สุข",
+      "translation": "ที่กระวนกระวาย, อยู่ไม่สุข",
       "example": "The audience grew restive."
     },
     {
@@ -7043,17 +7043,17 @@
     },
     {
       "word": "retaliate",
-      "translation": "ตอบโต้แก้เผ็ด",
+      "translation": "ตอบโต้, แก้เผ็ด",
       "example": "They retaliated with a price cut."
     },
     {
       "word": "reticence",
-      "translation": "ความเงียบขรึมไม่ค่อยพูด",
+      "translation": "ความเงียบขรึม, ไม่ค่อยพูด",
       "example": "Her reticence was unusual."
     },
     {
       "word": "reticent",
-      "translation": "ที่ไม่ค่อยพูดสงวนท่าที",
+      "translation": "ที่ไม่ค่อยพูด, สงวนท่าที",
       "example": "He was reticent about the cost."
     },
     {
@@ -7088,12 +7088,12 @@
     },
     {
       "word": "reverberation",
-      "translation": "เสียงก้องสะท้อน",
+      "translation": "เสียงก้อง, สะท้อน",
       "example": "The reverberation filled the hall."
     },
     {
       "word": "revere",
-      "translation": "เคารพนับถืออย่างสูง",
+      "translation": "เคารพ, นับถืออย่างสูง",
       "example": "Students revere her."
     },
     {
@@ -7103,12 +7103,12 @@
     },
     {
       "word": "reverential",
-      "translation": "ที่แสดงความเคารพนับถือ",
+      "translation": "ที่แสดงความเคารพ, นับถือ",
       "example": "She spoke in a reverential tone."
     },
     {
       "word": "reverie",
-      "translation": "การเหม่อลอยฝันกลางวัน",
+      "translation": "การเหม่อลอย, ฝันกลางวัน",
       "example": "He fell into a long reverie."
     },
     {
@@ -7123,27 +7123,27 @@
     },
     {
       "word": "revoke",
-      "translation": "เพิกถอนยกเลิก",
+      "translation": "เพิกถอน, ยกเลิก",
       "example": "They revoked his pass."
     },
     {
       "word": "rift",
-      "translation": "รอยร้าวความแตกแยก",
+      "translation": "รอยร้าว, ความแตกแยก",
       "example": "A rift opened between the two branches."
     },
     {
       "word": "righteousness",
-      "translation": "ความชอบธรรมการถือตนว่าถูก",
+      "translation": "ความชอบธรรม, การถือตนว่าถูก",
       "example": "His righteousness wearied everyone."
     },
     {
       "word": "rigmarole",
-      "translation": "ขั้นตอนยุ่งยากน่าเบื่อ",
+      "translation": "ขั้นตอนยุ่งยาก, น่าเบื่อ",
       "example": "The whole rigmarole took an hour."
     },
     {
       "word": "rigour",
-      "translation": "ความเข้มงวดรัดกุม",
+      "translation": "ความเข้มงวด, รัดกุม",
       "example": "The study was done with rigour."
     },
     {
@@ -7158,7 +7158,7 @@
     },
     {
       "word": "rogue",
-      "translation": "ที่นอกคอกเกเร",
+      "translation": "ที่นอกคอก, เกเร",
       "example": "One rogue trader caused it all."
     },
     {
@@ -7173,27 +7173,27 @@
     },
     {
       "word": "rubric",
-      "translation": "ข้อกำหนดหัวข้อแนะนำ",
+      "translation": "ข้อกำหนด, หัวข้อแนะนำ",
       "example": "The answer must follow the rubric."
     },
     {
       "word": "ruckus",
-      "translation": "เสียงเอะอะโวยวาย",
+      "translation": "เสียงเอะอะ, โวยวาย",
       "example": "The ruckus woke the whole street."
     },
     {
       "word": "rudiment",
-      "translation": "ความรู้พื้นฐานเบื้องต้น",
+      "translation": "ความรู้พื้นฐาน, เบื้องต้น",
       "example": "He learned the rudiments of Thai."
     },
     {
       "word": "ruination",
-      "translation": "ความหายนะความพินาศ",
+      "translation": "ความหายนะ, ความพินาศ",
       "example": "The flood was the ruination of the crop."
     },
     {
       "word": "ruminate",
-      "translation": "ครุ่นคิดใคร่ครวญ",
+      "translation": "ครุ่นคิด, ใคร่ครวญ",
       "example": "She ruminated on the offer all week."
     },
     {
@@ -7203,7 +7203,7 @@
     },
     {
       "word": "rupture",
-      "translation": "การแตกหักการฉีกขาด",
+      "translation": "การแตกหัก, การฉีกขาด",
       "example": "The rupture between them lasted years."
     },
     {
@@ -7213,7 +7213,7 @@
     },
     {
       "word": "sabotage",
-      "translation": "การก่อวินาศกรรมการบ่อนทำลาย",
+      "translation": "การก่อวินาศกรรม, การบ่อนทำลาย",
       "example": "Someone tried to sabotage the meeting."
     },
     {
@@ -7238,12 +7238,12 @@
     },
     {
       "word": "sagacious",
-      "translation": "ที่เฉลียวฉลาดรอบรู้",
+      "translation": "ที่เฉลียวฉลาด, รอบรู้",
       "example": "Her sagacious advice saved us."
     },
     {
       "word": "sage",
-      "translation": "ปราชญ์ผู้รอบรู้",
+      "translation": "ปราชญ์, ผู้รอบรู้",
       "example": "The old sage said little."
     },
     {
@@ -7253,7 +7253,7 @@
     },
     {
       "word": "salubrious",
-      "translation": "ที่ถูกสุขลักษณะน่าอยู่",
+      "translation": "ที่ถูกสุขลักษณะ, น่าอยู่",
       "example": "The area is not salubrious."
     },
     {
@@ -7263,7 +7263,7 @@
     },
     {
       "word": "salvation",
-      "translation": "ความรอดการช่วยให้พ้นภัย",
+      "translation": "ความรอด, การช่วยให้พ้นภัย",
       "example": "The rain was the salvation of the harvest."
     },
     {
@@ -7278,7 +7278,7 @@
     },
     {
       "word": "sanctuary",
-      "translation": "เขตอนุรักษ์ที่พักพิง",
+      "translation": "เขตอนุรักษ์, ที่พักพิง",
       "example": "The wood is a bird sanctuary."
     },
     {
@@ -7293,7 +7293,7 @@
     },
     {
       "word": "sardonic",
-      "translation": "ที่เย้ยหยันเหน็บแนม",
+      "translation": "ที่เย้ยหยัน, เหน็บแนม",
       "example": "She gave a sardonic smile."
     },
     {
@@ -7313,12 +7313,12 @@
     },
     {
       "word": "savagery",
-      "translation": "ความรุนแรงป่าเถื่อน",
+      "translation": "ความรุนแรง, ป่าเถื่อน",
       "example": "The storm struck with savagery."
     },
     {
       "word": "savant",
-      "translation": "ผู้คงแก่เรียนผู้รอบรู้",
+      "translation": "ผู้คงแก่เรียน, ผู้รอบรู้",
       "example": "He was a quiet savant of local birds."
     },
     {
@@ -7348,22 +7348,22 @@
     },
     {
       "word": "scion",
-      "translation": "ทายาทหน่อเนื้อเชื้อไข",
+      "translation": "ทายาท, หน่อเนื้อเชื้อไข",
       "example": "He is a scion of the old family."
     },
     {
       "word": "scorn",
-      "translation": "ความดูถูกเหยียดหยาม",
+      "translation": "ความดูถูก, เหยียดหยาม",
       "example": "She poured scorn on the idea."
     },
     {
       "word": "scoundrel",
-      "translation": "คนพาลคนเลว",
+      "translation": "คนพาล, คนเลว",
       "example": "The scoundrel took the money and left."
     },
     {
       "word": "scourge",
-      "translation": "ภัยร้ายสิ่งที่ก่อความเดือดร้อน",
+      "translation": "ภัยร้าย, สิ่งที่ก่อความเดือดร้อน",
       "example": "Damp is the scourge of old houses."
     },
     {
@@ -7373,7 +7373,7 @@
     },
     {
       "word": "scrupulous",
-      "translation": "ที่ละเอียดรอบคอบซื่อตรง",
+      "translation": "ที่ละเอียดรอบคอบ, ซื่อตรง",
       "example": "She is scrupulous about detail."
     },
     {
@@ -7383,7 +7383,7 @@
     },
     {
       "word": "scurrilous",
-      "translation": "ที่ใส่ร้ายหยาบคาย",
+      "translation": "ที่ใส่ร้าย, หยาบคาย",
       "example": "The pamphlet was scurrilous."
     },
     {
@@ -7393,7 +7393,7 @@
     },
     {
       "word": "seclusion",
-      "translation": "ความสันโดษปลีกวิเวก",
+      "translation": "ความสันโดษ, ปลีกวิเวก",
       "example": "She wrote in seclusion."
     },
     {
@@ -7418,12 +7418,12 @@
     },
     {
       "word": "sedulous",
-      "translation": "ที่ขยันขันแข็งเอาใจใส่",
+      "translation": "ที่ขยันขันแข็ง, เอาใจใส่",
       "example": "Her sedulous work filled the archive."
     },
     {
       "word": "seer",
-      "translation": "ผู้หยั่งรู้ผู้ทำนาย",
+      "translation": "ผู้หยั่งรู้, ผู้ทำนาย",
       "example": "The seer was consulted first."
     },
     {
@@ -7433,17 +7433,17 @@
     },
     {
       "word": "seizure",
-      "translation": "การยึดอาการชัก",
+      "translation": "การยึด, อาการชัก",
       "example": "The seizure of the goods was legal."
     },
     {
       "word": "semantics",
-      "translation": "อรรถศาสตร์ความหมายของคำ",
+      "translation": "อรรถศาสตร์, ความหมายของคำ",
       "example": "That is a question of semantics."
     },
     {
       "word": "semblance",
-      "translation": "ลักษณะภายนอกเค้าโครง",
+      "translation": "ลักษณะภายนอก, เค้าโครง",
       "example": "There was some semblance of order."
     },
     {
@@ -7483,12 +7483,12 @@
     },
     {
       "word": "servile",
-      "translation": "ที่ประจบยอมสยบ",
+      "translation": "ที่ประจบ, ยอมสยบ",
       "example": "His servile manner was painful."
     },
     {
       "word": "servility",
-      "translation": "ความยอมสยบประจบ",
+      "translation": "ความยอมสยบ, ประจบ",
       "example": "The servility of the reply surprised her."
     },
     {
@@ -7498,7 +7498,7 @@
     },
     {
       "word": "severance",
-      "translation": "การเลิกจ้างการตัดขาด",
+      "translation": "การเลิกจ้าง, การตัดขาด",
       "example": "She received a severance payment."
     },
     {
@@ -7508,12 +7508,12 @@
     },
     {
       "word": "shackle",
-      "translation": "ล่ามโซ่พันธนาการ",
+      "translation": "ล่ามโซ่, พันธนาการ",
       "example": "Old rules shackle the trade."
     },
     {
       "word": "shambles",
-      "translation": "สภาพยุ่งเหยิงวุ่นวาย",
+      "translation": "สภาพยุ่งเหยิง, วุ่นวาย",
       "example": "The office was a shambles."
     },
     {
@@ -7533,7 +7533,7 @@
     },
     {
       "word": "shoddy",
-      "translation": "ที่ทำอย่างหยาบคุณภาพต่ำ",
+      "translation": "ที่ทำอย่างหยาบ, คุณภาพต่ำ",
       "example": "The work was shoddy."
     },
     {
@@ -7543,22 +7543,22 @@
     },
     {
       "word": "shrine",
-      "translation": "ศาลเจ้าสถานที่ศักดิ์สิทธิ์",
+      "translation": "ศาลเจ้า, สถานที่ศักดิ์สิทธิ์",
       "example": "The shrine is on the hill."
     },
     {
       "word": "shroud",
-      "translation": "ปกคลุมห่อหุ้ม",
+      "translation": "ปกคลุม, ห่อหุ้ม",
       "example": "Mist shrouded the valley."
     },
     {
       "word": "shrouded",
-      "translation": "ที่ถูกปกคลุมปิดบัง",
+      "translation": "ที่ถูกปกคลุม, ปิดบัง",
       "example": "The plan is shrouded in secrecy."
     },
     {
       "word": "shun",
-      "translation": "หลีกเลี่ยงตีตัวออกห่าง",
+      "translation": "หลีกเลี่ยง, ตีตัวออกห่าง",
       "example": "The village shunned him for a year."
     },
     {
@@ -7568,7 +7568,7 @@
     },
     {
       "word": "silhouette",
-      "translation": "ภาพเงาดำโครงร่าง",
+      "translation": "ภาพเงาดำ, โครงร่าง",
       "example": "The tower stood in silhouette."
     },
     {
@@ -7588,7 +7588,7 @@
     },
     {
       "word": "singular",
-      "translation": "ที่แปลกประหลาดไม่ธรรมดา",
+      "translation": "ที่แปลกประหลาด, ไม่ธรรมดา",
       "example": "The result was singular."
     },
     {
@@ -7598,7 +7598,7 @@
     },
     {
       "word": "siren",
-      "translation": "ไซเรนเสียงหวอ",
+      "translation": "ไซเรน, เสียงหวอ",
       "example": "A siren sounded across the yard."
     },
     {
@@ -7608,7 +7608,7 @@
     },
     {
       "word": "skullduggery",
-      "translation": "การเล่นไม่ซื่อเล่ห์กล",
+      "translation": "การเล่นไม่ซื่อ, เล่ห์กล",
       "example": "The election involved some skullduggery."
     },
     {
@@ -7633,22 +7633,22 @@
     },
     {
       "word": "snare",
-      "translation": "บ่วงกับดัก",
+      "translation": "บ่วง, กับดัก",
       "example": "The rabbit escaped the snare."
     },
     {
       "word": "snooty",
-      "translation": "ที่หยิ่งวางท่า",
+      "translation": "ที่หยิ่ง, วางท่า",
       "example": "The service was snooty."
     },
     {
       "word": "snub",
-      "translation": "การเมินเฉยตัดหน้า",
+      "translation": "การเมินเฉย, ตัดหน้า",
       "example": "The omission felt like a snub."
     },
     {
       "word": "sobriety",
-      "translation": "ความสุขุมจริงจัง",
+      "translation": "ความสุขุม, จริงจัง",
       "example": "The sobriety of the report is welcome."
     },
     {
@@ -7668,17 +7668,17 @@
     },
     {
       "word": "solemn",
-      "translation": "ที่ขรึมจริงจัง",
+      "translation": "ที่ขรึม, จริงจัง",
       "example": "The occasion was solemn."
     },
     {
       "word": "solemnity",
-      "translation": "ความขรึมสง่า",
+      "translation": "ความขรึม, สง่า",
       "example": "The solemnity of the room silenced us."
     },
     {
       "word": "solicitous",
-      "translation": "ที่ห่วงใยเอาใจใส่",
+      "translation": "ที่ห่วงใย, เอาใจใส่",
       "example": "He was solicitous about her journey."
     },
     {
@@ -7688,7 +7688,7 @@
     },
     {
       "word": "solitary",
-      "translation": "ที่โดดเดี่ยวลำพัง",
+      "translation": "ที่โดดเดี่ยว, ลำพัง",
       "example": "He took a solitary walk."
     },
     {
@@ -7703,7 +7703,7 @@
     },
     {
       "word": "sombre",
-      "translation": "ที่หม่นหมองเคร่งขรึม",
+      "translation": "ที่หม่นหมอง, เคร่งขรึม",
       "example": "The mood was sombre."
     },
     {
@@ -7723,7 +7723,7 @@
     },
     {
       "word": "sordid",
-      "translation": "ที่สกปรกน่ารังเกียจ",
+      "translation": "ที่สกปรก, น่ารังเกียจ",
       "example": "The details are sordid."
     },
     {
@@ -7738,7 +7738,7 @@
     },
     {
       "word": "spasm",
-      "translation": "อาการเกร็งกระตุก",
+      "translation": "อาการเกร็ง, กระตุก",
       "example": "A spasm caught his back."
     },
     {
@@ -7758,7 +7758,7 @@
     },
     {
       "word": "spectre",
-      "translation": "ภาพหลอนสิ่งที่น่าหวาดกลัว",
+      "translation": "ภาพหลอน, สิ่งที่น่าหวาดกลัว",
       "example": "The spectre of closure hung over them."
     },
     {
@@ -7773,12 +7773,12 @@
     },
     {
       "word": "splendour",
-      "translation": "ความโอ่อ่าตระการตา",
+      "translation": "ความโอ่อ่า, ตระการตา",
       "example": "The splendour of the hall surprised them."
     },
     {
       "word": "spontaneity",
-      "translation": "ความเป็นธรรมชาติไม่ได้เตรียม",
+      "translation": "ความเป็นธรรมชาติ, ไม่ได้เตรียม",
       "example": "The evening lost its spontaneity."
     },
     {
@@ -7793,7 +7793,7 @@
     },
     {
       "word": "spurious",
-      "translation": "ที่ปลอมไม่จริง",
+      "translation": "ที่ปลอม, ไม่จริง",
       "example": "The claim is spurious."
     },
     {
@@ -7803,17 +7803,17 @@
     },
     {
       "word": "squadron",
-      "translation": "ฝูงบินกองพัน",
+      "translation": "ฝูงบิน, กองพัน",
       "example": "The squadron flew at dawn."
     },
     {
       "word": "squalid",
-      "translation": "ที่สกปรกโสโครก",
+      "translation": "ที่สกปรก, โสโครก",
       "example": "The room was squalid."
     },
     {
       "word": "squalor",
-      "translation": "ความสกปรกแร้นแค้น",
+      "translation": "ความสกปรก, แร้นแค้น",
       "example": "They lived in squalor for a winter."
     },
     {
@@ -7823,27 +7823,27 @@
     },
     {
       "word": "stagnant",
-      "translation": "ที่นิ่งไม่ไหลซบเซา",
+      "translation": "ที่นิ่งไม่ไหล, ซบเซา",
       "example": "The pool is stagnant."
     },
     {
       "word": "staid",
-      "translation": "ที่เคร่งขรึมเรียบร้อยเชย",
+      "translation": "ที่เคร่งขรึม, เรียบร้อย, เชย",
       "example": "The club is staid."
     },
     {
       "word": "stalwart",
-      "translation": "ผู้ที่ซื่อสัตย์มั่นคง",
+      "translation": "ผู้ที่ซื่อสัตย์, มั่นคง",
       "example": "She is a stalwart of the choir."
     },
     {
       "word": "stamina",
-      "translation": "ความอดทนกำลังวังชา",
+      "translation": "ความอดทน, กำลังวังชา",
       "example": "The climb needs stamina."
     },
     {
       "word": "stampede",
-      "translation": "การแตกตื่นวิ่งกรูกัน",
+      "translation": "การแตกตื่น, วิ่งกรูกัน",
       "example": "The sale caused a stampede."
     },
     {
@@ -7868,7 +7868,7 @@
     },
     {
       "word": "stately",
-      "translation": "ที่สง่างามโอ่อ่า",
+      "translation": "ที่สง่างาม, โอ่อ่า",
       "example": "The house is stately."
     },
     {
@@ -7883,17 +7883,17 @@
     },
     {
       "word": "staunch",
-      "translation": "ที่มั่นคงเหนียวแน่น",
+      "translation": "ที่มั่นคง, เหนียวแน่น",
       "example": "She is a staunch supporter."
     },
     {
       "word": "steadfastness",
-      "translation": "ความมั่นคงแน่วแน่",
+      "translation": "ความมั่นคง, แน่วแน่",
       "example": "His steadfastness held the team together."
     },
     {
       "word": "stealth",
-      "translation": "ความลับการย่องเบา",
+      "translation": "ความลับ, การย่องเบา",
       "example": "They moved with stealth."
     },
     {
@@ -7903,7 +7903,7 @@
     },
     {
       "word": "steward",
-      "translation": "ผู้ดูแลจัดการ",
+      "translation": "ผู้ดูแล, จัดการ",
       "example": "The steward showed us the cellar."
     },
     {
@@ -7918,7 +7918,7 @@
     },
     {
       "word": "stifle",
-      "translation": "ทำให้อึดอัดกดไว้",
+      "translation": "ทำให้อึดอัด, กดไว้",
       "example": "The heat stifled the whole room."
     },
     {
@@ -7958,7 +7958,7 @@
     },
     {
       "word": "stratagem",
-      "translation": "กลอุบายแผนการ",
+      "translation": "กลอุบาย, แผนการ",
       "example": "The delay was a stratagem."
     },
     {
@@ -7973,27 +7973,27 @@
     },
     {
       "word": "stratum",
-      "translation": "ชั้นชั้นทางสังคม",
+      "translation": "ชั้น, ชั้นทางสังคม",
       "example": "The lowest stratum is clay."
     },
     {
       "word": "stricture",
-      "translation": "ข้อจำกัดคำวิจารณ์รุนแรง",
+      "translation": "ข้อจำกัด, คำวิจารณ์รุนแรง",
       "example": "The strictures on spending are new."
     },
     {
       "word": "strident",
-      "translation": "ที่เสียงแหลมดังก้าวร้าว",
+      "translation": "ที่เสียงแหลมดัง, ก้าวร้าว",
       "example": "The tone became strident."
     },
     {
       "word": "strife",
-      "translation": "ความขัดแย้งวุ่นวาย",
+      "translation": "ความขัดแย้ง, วุ่นวาย",
       "example": "Years of strife emptied the village."
     },
     {
       "word": "stringency",
-      "translation": "ความเข้มงวดรัดกุม",
+      "translation": "ความเข้มงวด, รัดกุม",
       "example": "The stringency of the rules surprised us."
     },
     {
@@ -8003,12 +8003,12 @@
     },
     {
       "word": "stronghold",
-      "translation": "ที่มั่นฐานที่มั่นคง",
+      "translation": "ที่มั่น, ฐานที่มั่นคง",
       "example": "The valley was a stronghold of the trade."
     },
     {
       "word": "stupor",
-      "translation": "ภาวะมึนงงไร้สติ",
+      "translation": "ภาวะมึนงง, ไร้สติ",
       "example": "He sat in a stupor."
     },
     {
@@ -8018,7 +8018,7 @@
     },
     {
       "word": "subdue",
-      "translation": "ปราบทำให้สงบลง",
+      "translation": "ปราบ, ทำให้สงบลง",
       "example": "They subdued the fire by dawn."
     },
     {
@@ -8028,7 +8028,7 @@
     },
     {
       "word": "sublime",
-      "translation": "ที่ประเสริฐงดงามเหนือคำบรรยาย",
+      "translation": "ที่ประเสริฐ, งดงามเหนือคำบรรยาย",
       "example": "The view from the ridge is sublime."
     },
     {
@@ -8058,17 +8058,17 @@
     },
     {
       "word": "substantiation",
-      "translation": "การพิสูจน์ยืนยันด้วยหลักฐาน",
+      "translation": "การพิสูจน์, ยืนยันด้วยหลักฐาน",
       "example": "The claim lacks substantiation."
     },
     {
       "word": "subterfuge",
-      "translation": "อุบายหลอกลวง",
+      "translation": "อุบาย, หลอกลวง",
       "example": "They obtained it by subterfuge."
     },
     {
       "word": "subtlety",
-      "translation": "ความละเอียดอ่อนแยบยล",
+      "translation": "ความละเอียดอ่อน, แยบยล",
       "example": "The subtlety of the joke was lost."
     },
     {
@@ -8078,12 +8078,12 @@
     },
     {
       "word": "subversive",
-      "translation": "ที่บ่อนทำลายท้าทายอำนาจ",
+      "translation": "ที่บ่อนทำลาย, ท้าทายอำนาจ",
       "example": "The novel is quietly subversive."
     },
     {
       "word": "subvert",
-      "translation": "บ่อนทำลายพลิกกลับ",
+      "translation": "บ่อนทำลาย, พลิกกลับ",
       "example": "The change subverted the whole design."
     },
     {
@@ -8093,7 +8093,7 @@
     },
     {
       "word": "succumb",
-      "translation": "ยอมแพ้พ่ายแพ้ต่อ",
+      "translation": "ยอมแพ้, พ่ายแพ้ต่อ",
       "example": "The plant succumbed to the frost."
     },
     {
@@ -8113,7 +8113,7 @@
     },
     {
       "word": "sullen",
-      "translation": "ที่บึ้งตึงไม่พูด",
+      "translation": "ที่บึ้งตึง, ไม่พูด",
       "example": "The boy stayed sullen all afternoon."
     },
     {
@@ -8128,7 +8128,7 @@
     },
     {
       "word": "sumptuous",
-      "translation": "ที่หรูหราฟุ่มเฟือย",
+      "translation": "ที่หรูหรา, ฟุ่มเฟือย",
       "example": "The meal was sumptuous."
     },
     {
@@ -8148,7 +8148,7 @@
     },
     {
       "word": "supine",
-      "translation": "ที่นอนหงายเฉื่อยชา",
+      "translation": "ที่นอนหงาย, เฉื่อยชา",
       "example": "He lay supine on the grass."
     },
     {
@@ -8158,7 +8158,7 @@
     },
     {
       "word": "supple",
-      "translation": "ที่อ่อนนุ่มดัดง่าย",
+      "translation": "ที่อ่อนนุ่ม, ดัดง่าย",
       "example": "The leather is still supple."
     },
     {
@@ -8178,17 +8178,17 @@
     },
     {
       "word": "surmise",
-      "translation": "คาดเดาสันนิษฐาน",
+      "translation": "คาดเดา, สันนิษฐาน",
       "example": "We can only surmise the reason."
     },
     {
       "word": "surmount",
-      "translation": "เอาชนะข้ามพ้น",
+      "translation": "เอาชนะ, ข้ามพ้น",
       "example": "She surmounted every obstacle."
     },
     {
       "word": "surpass",
-      "translation": "เหนือกว่าดีเกินกว่า",
+      "translation": "เหนือกว่า, ดีเกินกว่า",
       "example": "The result surpassed all hope."
     },
     {
@@ -8208,12 +8208,12 @@
     },
     {
       "word": "susceptible",
-      "translation": "ที่อ่อนไหวได้รับผลกระทบง่าย",
+      "translation": "ที่อ่อนไหว, ได้รับผลกระทบง่าย",
       "example": "The wood is susceptible to damp."
     },
     {
       "word": "sustenance",
-      "translation": "อาหารสิ่งที่ช่วยประทังชีวิต",
+      "translation": "อาหาร, สิ่งที่ช่วยประทังชีวิต",
       "example": "The soup was their only sustenance."
     },
     {
@@ -8223,7 +8223,7 @@
     },
     {
       "word": "swindle",
-      "translation": "การฉ้อโกงหลอกลวง",
+      "translation": "การฉ้อโกง, หลอกลวง",
       "example": "The whole scheme was a swindle."
     },
     {
@@ -8253,7 +8253,7 @@
     },
     {
       "word": "symbolism",
-      "translation": "สัญลักษณ์นิยมการใช้สัญลักษณ์",
+      "translation": "สัญลักษณ์นิยม, การใช้สัญลักษณ์",
       "example": "The symbolism is heavy-handed."
     },
     {
@@ -8278,7 +8278,7 @@
     },
     {
       "word": "tableau",
-      "translation": "ภาพนิ่งฉากจัดวาง",
+      "translation": "ภาพนิ่ง, ฉากจัดวาง",
       "example": "The scene forms a tableau."
     },
     {
@@ -8298,7 +8298,7 @@
     },
     {
       "word": "taciturn",
-      "translation": "ที่พูดน้อยเงียบขรึม",
+      "translation": "ที่พูดน้อย, เงียบขรึม",
       "example": "Their guide was taciturn but kind."
     },
     {
@@ -8313,22 +8313,22 @@
     },
     {
       "word": "taint",
-      "translation": "ทำให้มัวหมองแปดเปื้อน",
+      "translation": "ทำให้มัวหมอง, แปดเปื้อน",
       "example": "The scandal tainted the whole board."
     },
     {
       "word": "talisman",
-      "translation": "เครื่องรางของขลัง",
+      "translation": "เครื่องราง, ของขลัง",
       "example": "She kept the coin as a talisman."
     },
     {
       "word": "tangential",
-      "translation": "ที่ออกนอกเรื่องเกี่ยวข้องห่างๆ",
+      "translation": "ที่ออกนอกเรื่อง, เกี่ยวข้องห่างๆ",
       "example": "That point is tangential."
     },
     {
       "word": "tangible",
-      "translation": "ที่จับต้องได้เป็นรูปธรรม",
+      "translation": "ที่จับต้องได้, เป็นรูปธรรม",
       "example": "There is no tangible benefit yet."
     },
     {
@@ -8338,12 +8338,12 @@
     },
     {
       "word": "tantrum",
-      "translation": "การอาละวาดโวยวาย",
+      "translation": "การอาละวาด, โวยวาย",
       "example": "The child had a tantrum."
     },
     {
       "word": "tariff",
-      "translation": "ภาษีศุลกากรอัตราค่าบริการ",
+      "translation": "ภาษีศุลกากร, อัตราค่าบริการ",
       "example": "The tariff on steel rose again."
     },
     {
@@ -8363,7 +8363,7 @@
     },
     {
       "word": "tawdry",
-      "translation": "ที่ฉูดฉาดราคาถูก",
+      "translation": "ที่ฉูดฉาด, ราคาถูก",
       "example": "The decoration is tawdry."
     },
     {
@@ -8383,32 +8383,32 @@
     },
     {
       "word": "temerity",
-      "translation": "ความบังอาจกล้า",
+      "translation": "ความบังอาจ, กล้า",
       "example": "She had the temerity to ask again."
     },
     {
       "word": "temperament",
-      "translation": "อุปนิสัยพื้นอารมณ์",
+      "translation": "อุปนิสัย, พื้นอารมณ์",
       "example": "She has a calm temperament."
     },
     {
       "word": "temperance",
-      "translation": "ความพอประมาณการงดสุรา",
+      "translation": "ความพอประมาณ, การงดสุรา",
       "example": "The society preached temperance."
     },
     {
       "word": "tempestuous",
-      "translation": "ที่ปั่นป่วนวุ่นวาย",
+      "translation": "ที่ปั่นป่วน, วุ่นวาย",
       "example": "Their partnership was tempestuous."
     },
     {
       "word": "tempo",
-      "translation": "จังหวะความเร็ว",
+      "translation": "จังหวะ, ความเร็ว",
       "example": "The tempo of the second half was slower."
     },
     {
       "word": "temporal",
-      "translation": "ที่เกี่ยวกับทางโลกกาลเวลา",
+      "translation": "ที่เกี่ยวกับทางโลก, กาลเวลา",
       "example": "The book separates temporal and spiritual power."
     },
     {
@@ -8433,12 +8433,12 @@
     },
     {
       "word": "tenor",
-      "translation": "ท่วงทำนองแนวโน้มโดยรวม",
+      "translation": "ท่วงทำนอง, แนวโน้มโดยรวม",
       "example": "The tenor of the letter was warm."
     },
     {
       "word": "termination",
-      "translation": "การสิ้นสุดยกเลิก",
+      "translation": "การสิ้นสุด, ยกเลิก",
       "example": "The termination of the lease was sudden."
     },
     {
@@ -8458,22 +8458,22 @@
     },
     {
       "word": "testament",
-      "translation": "เครื่องพิสูจน์พินัยกรรม",
+      "translation": "เครื่องพิสูจน์, พินัยกรรม",
       "example": "The garden is a testament to her patience."
     },
     {
       "word": "testimonial",
-      "translation": "หนังสือรับรองคำยกย่อง",
+      "translation": "หนังสือรับรอง, คำยกย่อง",
       "example": "She wrote a testimonial for him."
     },
     {
       "word": "tether",
-      "translation": "เชือกผูกล่าม",
+      "translation": "เชือกผูก, ล่าม",
       "example": "The goat is on a long tether."
     },
     {
       "word": "theatricality",
-      "translation": "ความเป็นละครการแสดงเกินจริง",
+      "translation": "ความเป็นละคร, การแสดงเกินจริง",
       "example": "The theatricality of it made us smile."
     },
     {
@@ -8488,7 +8488,7 @@
     },
     {
       "word": "thesaurus",
-      "translation": "อรรถาภิธานพจนานุกรมคำพ้อง",
+      "translation": "อรรถาภิธาน, พจนานุกรมคำพ้อง",
       "example": "She reached for the thesaurus."
     },
     {
@@ -8518,7 +8518,7 @@
     },
     {
       "word": "thwart",
-      "translation": "ขัดขวางทำให้ล้มเหลว",
+      "translation": "ขัดขวาง, ทำให้ล้มเหลว",
       "example": "Rain thwarted the whole plan."
     },
     {
@@ -8528,12 +8528,12 @@
     },
     {
       "word": "timidity",
-      "translation": "ความขี้ขลาดขี้อาย",
+      "translation": "ความขี้ขลาด, ขี้อาย",
       "example": "His timidity cost him the job."
     },
     {
       "word": "timorous",
-      "translation": "ที่ขี้ขลาดหวาดกลัว",
+      "translation": "ที่ขี้ขลาด, หวาดกลัว",
       "example": "She gave a timorous knock."
     },
     {
@@ -8558,7 +8558,7 @@
     },
     {
       "word": "token",
-      "translation": "สัญลักษณ์เครื่องหมายแทน",
+      "translation": "สัญลักษณ์, เครื่องหมายแทน",
       "example": "She kept it as a token of thanks."
     },
     {
@@ -8598,12 +8598,12 @@
     },
     {
       "word": "torpid",
-      "translation": "ที่เฉื่อยชาเชื่องช้า",
+      "translation": "ที่เฉื่อยชา, เชื่องช้า",
       "example": "The heat left everyone torpid."
     },
     {
       "word": "torpor",
-      "translation": "ความเฉื่อยชาซบเซา",
+      "translation": "ความเฉื่อยชา, ซบเซา",
       "example": "A summer torpor settled on the office."
     },
     {
@@ -8618,12 +8618,12 @@
     },
     {
       "word": "torrid",
-      "translation": "ที่ร้อนจัดเร่าร้อน",
+      "translation": "ที่ร้อนจัด, เร่าร้อน",
       "example": "The afternoon was torrid."
     },
     {
       "word": "tortuous",
-      "translation": "ที่คดเคี้ยวซับซ้อน",
+      "translation": "ที่คดเคี้ยว, ซับซ้อน",
       "example": "The route is tortuous."
     },
     {
@@ -8648,7 +8648,7 @@
     },
     {
       "word": "tract",
-      "translation": "ผืนที่ดินกว้างใบปลิว",
+      "translation": "ผืนที่ดินกว้าง, ใบปลิว",
       "example": "A tract of moorland lies beyond."
     },
     {
@@ -8658,7 +8658,7 @@
     },
     {
       "word": "tradesman",
-      "translation": "ช่างพ่อค้ารายย่อย",
+      "translation": "ช่าง, พ่อค้ารายย่อย",
       "example": "A tradesman called about the roof."
     },
     {
@@ -8698,7 +8698,7 @@
     },
     {
       "word": "transcend",
-      "translation": "ก้าวข้ามเหนือกว่า",
+      "translation": "ก้าวข้าม, เหนือกว่า",
       "example": "The book transcends its subject."
     },
     {
@@ -8708,12 +8708,12 @@
     },
     {
       "word": "transcribe",
-      "translation": "ถอดความคัดลอก",
+      "translation": "ถอดความ, คัดลอก",
       "example": "She transcribed the interview."
     },
     {
       "word": "transgress",
-      "translation": "ละเมิดล่วงเกิน",
+      "translation": "ละเมิด, ล่วงเกิน",
       "example": "He transgressed the club's one rule."
     },
     {
@@ -8723,7 +8723,7 @@
     },
     {
       "word": "transient",
-      "translation": "ที่ชั่วคราวผ่านไปเร็ว",
+      "translation": "ที่ชั่วคราว, ผ่านไปเร็ว",
       "example": "The population is transient."
     },
     {
@@ -8733,17 +8733,17 @@
     },
     {
       "word": "travesty",
-      "translation": "การบิดเบือนล้อเลียนอย่างเลวร้าย",
+      "translation": "การบิดเบือน, ล้อเลียนอย่างเลวร้าย",
       "example": "The trial was a travesty."
     },
     {
       "word": "treacherous",
-      "translation": "ที่อันตรายทรยศ",
+      "translation": "ที่อันตราย, ทรยศ",
       "example": "The path is treacherous in ice."
     },
     {
       "word": "treachery",
-      "translation": "การทรยศหักหลัง",
+      "translation": "การทรยศ, หักหลัง",
       "example": "The letter reveals treachery."
     },
     {
@@ -8763,7 +8763,7 @@
     },
     {
       "word": "trenchant",
-      "translation": "ที่คมคายตรงจุด",
+      "translation": "ที่คมคาย, ตรงจุด",
       "example": "He offered a trenchant critique."
     },
     {
@@ -8793,12 +8793,12 @@
     },
     {
       "word": "trickery",
-      "translation": "การหลอกลวงเล่ห์กล",
+      "translation": "การหลอกลวง, เล่ห์กล",
       "example": "The deal involved trickery."
     },
     {
       "word": "trickster",
-      "translation": "คนเจ้าเล่ห์หลอกลวง",
+      "translation": "คนเจ้าเล่ห์, หลอกลวง",
       "example": "The trickster fools everyone in the tale."
     },
     {
@@ -8818,7 +8818,7 @@
     },
     {
       "word": "trite",
-      "translation": "ที่ซ้ำซากจำเจ",
+      "translation": "ที่ซ้ำซาก, จำเจ",
       "example": "The ending is trite."
     },
     {
@@ -8828,7 +8828,7 @@
     },
     {
       "word": "truculent",
-      "translation": "ที่ก้าวร้าวหาเรื่อง",
+      "translation": "ที่ก้าวร้าว, หาเรื่อง",
       "example": "The crowd grew truculent."
     },
     {
@@ -8853,7 +8853,7 @@
     },
     {
       "word": "tumult",
-      "translation": "ความอึกทึกวุ่นวาย",
+      "translation": "ความอึกทึก, วุ่นวาย",
       "example": "The tumult died down by ten."
     },
     {
@@ -8873,12 +8873,12 @@
     },
     {
       "word": "turbulent",
-      "translation": "ที่ปั่นป่วนวุ่นวาย",
+      "translation": "ที่ปั่นป่วน, วุ่นวาย",
       "example": "It was a turbulent decade."
     },
     {
       "word": "turmoil",
-      "translation": "ความวุ่นวายสับสน",
+      "translation": "ความวุ่นวาย, สับสน",
       "example": "The office was in turmoil."
     },
     {
@@ -8893,17 +8893,17 @@
     },
     {
       "word": "tutelage",
-      "translation": "การอบรมสั่งสอนดูแล",
+      "translation": "การอบรมสั่งสอน, ดูแล",
       "example": "She trained under his tutelage."
     },
     {
       "word": "twilight",
-      "translation": "สนธยาแสงสลัวยามเย็น",
+      "translation": "สนธยา, แสงสลัวยามเย็น",
       "example": "We walked home in the twilight."
     },
     {
       "word": "tycoon",
-      "translation": "เจ้าสัวมหาเศรษฐี",
+      "translation": "เจ้าสัว, มหาเศรษฐี",
       "example": "A tycoon bought the paper."
     },
     {
@@ -8913,12 +8913,12 @@
     },
     {
       "word": "tyranny",
-      "translation": "ความกดขี่ทรราช",
+      "translation": "ความกดขี่, ทรราช",
       "example": "The essay is about the tyranny of habit."
     },
     {
       "word": "tyrant",
-      "translation": "ทรราชผู้กดขี่",
+      "translation": "ทรราช, ผู้กดขี่",
       "example": "The manager was a small tyrant."
     },
     {
@@ -8943,7 +8943,7 @@
     },
     {
       "word": "umpire",
-      "translation": "กรรมการผู้ตัดสิน",
+      "translation": "กรรมการ, ผู้ตัดสิน",
       "example": "The umpire stopped play."
     },
     {
@@ -8978,7 +8978,7 @@
     },
     {
       "word": "underling",
-      "translation": "ลูกน้องผู้ใต้บังคับบัญชา",
+      "translation": "ลูกน้อง, ผู้ใต้บังคับบัญชา",
       "example": "He sent an underling to the meeting."
     },
     {
@@ -8998,22 +8998,22 @@
     },
     {
       "word": "undertaker",
-      "translation": "สัปเหร่อผู้จัดงานศพ",
+      "translation": "สัปเหร่อ, ผู้จัดงานศพ",
       "example": "The undertaker arranged everything."
     },
     {
       "word": "undertaking",
-      "translation": "งานที่รับทำภารกิจ",
+      "translation": "งานที่รับทำ, ภารกิจ",
       "example": "The move was a large undertaking."
     },
     {
       "word": "undertone",
-      "translation": "น้ำเสียงแฝงความรู้สึกแฝง",
+      "translation": "น้ำเสียงแฝง, ความรู้สึกแฝง",
       "example": "There was an undertone of impatience."
     },
     {
       "word": "underworld",
-      "translation": "โลกใต้ดินโลกอาชญากรรม",
+      "translation": "โลกใต้ดิน, โลกอาชญากรรม",
       "example": "The novel is set in the criminal underworld."
     },
     {
@@ -9033,17 +9033,17 @@
     },
     {
       "word": "unenviable",
-      "translation": "ที่ไม่น่าอิจฉาน่าลำบากใจ",
+      "translation": "ที่ไม่น่าอิจฉา, น่าลำบากใจ",
       "example": "She had the unenviable task of telling him."
     },
     {
       "word": "unequivocal",
-      "translation": "ที่ชัดเจนไม่กำกวม",
+      "translation": "ที่ชัดเจน, ไม่กำกวม",
       "example": "The answer was unequivocal."
     },
     {
       "word": "unfathomable",
-      "translation": "ที่หยั่งไม่ถึงเข้าใจไม่ได้",
+      "translation": "ที่หยั่งไม่ถึง, เข้าใจไม่ได้",
       "example": "His reasoning is unfathomable."
     },
     {
@@ -9053,7 +9053,7 @@
     },
     {
       "word": "uniformity",
-      "translation": "ความสม่ำเสมอเหมือนกัน",
+      "translation": "ความสม่ำเสมอ, เหมือนกัน",
       "example": "The uniformity of the rows is pleasing."
     },
     {
@@ -9068,17 +9068,17 @@
     },
     {
       "word": "unpalatable",
-      "translation": "ที่ยากจะยอมรับไม่น่ากิน",
+      "translation": "ที่ยากจะยอมรับ, ไม่น่ากิน",
       "example": "The truth was unpalatable."
     },
     {
       "word": "unpretentious",
-      "translation": "ที่เรียบง่ายไม่โอ้อวด",
+      "translation": "ที่เรียบง่าย, ไม่โอ้อวด",
       "example": "The restaurant is unpretentious."
     },
     {
       "word": "unremitting",
-      "translation": "ที่ไม่ลดละต่อเนื่อง",
+      "translation": "ที่ไม่ลดละ, ต่อเนื่อง",
       "example": "Her unremitting effort finished it."
     },
     {
@@ -9088,7 +9088,7 @@
     },
     {
       "word": "unruly",
-      "translation": "ที่ควบคุมยากเกเร",
+      "translation": "ที่ควบคุมยาก, เกเร",
       "example": "The class was unruly."
     },
     {
@@ -9103,7 +9103,7 @@
     },
     {
       "word": "unthinkable",
-      "translation": "ที่นึกไม่ถึงเป็นไปไม่ได้",
+      "translation": "ที่นึกไม่ถึง, เป็นไปไม่ได้",
       "example": "A year ago it was unthinkable."
     },
     {
@@ -9113,17 +9113,17 @@
     },
     {
       "word": "unwieldy",
-      "translation": "ที่เทอะทะจัดการยาก",
+      "translation": "ที่เทอะทะ, จัดการยาก",
       "example": "The parcel is unwieldy."
     },
     {
       "word": "unwitting",
-      "translation": "ที่ไม่รู้ตัวไม่ได้ตั้งใจ",
+      "translation": "ที่ไม่รู้ตัว, ไม่ได้ตั้งใจ",
       "example": "She was an unwitting witness."
     },
     {
       "word": "upbraid",
-      "translation": "ตำหนิดุว่า",
+      "translation": "ตำหนิ, ดุว่า",
       "example": "He upbraided them for the delay."
     },
     {
@@ -9138,12 +9138,12 @@
     },
     {
       "word": "uproar",
-      "translation": "ความโกลาหลเสียงโวยวาย",
+      "translation": "ความโกลาหล, เสียงโวยวาย",
       "example": "The decision caused an uproar."
     },
     {
       "word": "uproarious",
-      "translation": "ที่อึกทึกขบขันมาก",
+      "translation": "ที่อึกทึก, ขบขันมาก",
       "example": "The evening was uproarious."
     },
     {
@@ -9163,7 +9163,7 @@
     },
     {
       "word": "urbane",
-      "translation": "ที่สุภาพมีการศึกษาดี",
+      "translation": "ที่สุภาพ, มีการศึกษาดี",
       "example": "He is urbane and quick."
     },
     {
@@ -9178,7 +9178,7 @@
     },
     {
       "word": "usurp",
-      "translation": "ช่วงชิงแย่งอำนาจ",
+      "translation": "ช่วงชิง, แย่งอำนาจ",
       "example": "He usurped the role of chairman."
     },
     {
@@ -9188,7 +9188,7 @@
     },
     {
       "word": "utensil",
-      "translation": "เครื่องครัวภาชนะ",
+      "translation": "เครื่องครัว, ภาชนะ",
       "example": "Every utensil is washed by hand."
     },
     {
@@ -9198,7 +9198,7 @@
     },
     {
       "word": "utmost",
-      "translation": "ที่มากที่สุดเต็มความสามารถ",
+      "translation": "ที่มากที่สุด, เต็มความสามารถ",
       "example": "She did her utmost."
     },
     {
@@ -9233,7 +9233,7 @@
     },
     {
       "word": "vacuous",
-      "translation": "ที่ว่างเปล่าไร้สาระ",
+      "translation": "ที่ว่างเปล่า, ไร้สาระ",
       "example": "The reply was vacuous."
     },
     {
@@ -9248,12 +9248,12 @@
     },
     {
       "word": "vain",
-      "translation": "ที่ไร้ผลหลงตัวเอง",
+      "translation": "ที่ไร้ผล, หลงตัวเอง",
       "example": "It was a vain attempt."
     },
     {
       "word": "validate",
-      "translation": "ยืนยันรับรองความถูกต้อง",
+      "translation": "ยืนยัน, รับรองความถูกต้อง",
       "example": "The result validates the method."
     },
     {
@@ -9278,17 +9278,17 @@
     },
     {
       "word": "vanguard",
-      "translation": "แนวหน้ากองหน้า",
+      "translation": "แนวหน้า, กองหน้า",
       "example": "The firm is in the vanguard of the trade."
     },
     {
       "word": "vanity",
-      "translation": "ความหลงตัวเองความไร้สาระ",
+      "translation": "ความหลงตัวเอง, ความไร้สาระ",
       "example": "A little vanity is forgivable."
     },
     {
       "word": "vanquish",
-      "translation": "พิชิตเอาชนะ",
+      "translation": "พิชิต, เอาชนะ",
       "example": "They vanquished the old champion."
     },
     {
@@ -9298,12 +9298,12 @@
     },
     {
       "word": "vapid",
-      "translation": "ที่จืดชืดไร้สาระ",
+      "translation": "ที่จืดชืด, ไร้สาระ",
       "example": "The conversation was vapid."
     },
     {
       "word": "variance",
-      "translation": "ความแตกต่างขัดแย้ง",
+      "translation": "ความแตกต่าง, ขัดแย้ง",
       "example": "The result is at variance with the theory."
     },
     {
@@ -9318,17 +9318,17 @@
     },
     {
       "word": "vault",
-      "translation": "ห้องนิรภัยเพดานโค้ง",
+      "translation": "ห้องนิรภัย, เพดานโค้ง",
       "example": "The vault is under the church."
     },
     {
       "word": "vehemence",
-      "translation": "ความรุนแรงเร่าร้อน",
+      "translation": "ความรุนแรง, เร่าร้อน",
       "example": "The vehemence of her reply surprised him."
     },
     {
       "word": "vehemently",
-      "translation": "อย่างรุนแรงเด็ดขาด",
+      "translation": "อย่างรุนแรง, เด็ดขาด",
       "example": "He vehemently denied it."
     },
     {
@@ -9353,12 +9353,12 @@
     },
     {
       "word": "veneer",
-      "translation": "ผิวหน้าเปลือกนอกที่ฉาบไว้",
+      "translation": "ผิวหน้า, เปลือกนอกที่ฉาบไว้",
       "example": "The veneer of calm did not last."
     },
     {
       "word": "venerable",
-      "translation": "ที่น่าเคารพเก่าแก่",
+      "translation": "ที่น่าเคารพ, เก่าแก่",
       "example": "The venerable oak fell last winter."
     },
     {
@@ -9373,7 +9373,7 @@
     },
     {
       "word": "venom",
-      "translation": "พิษความมุ่งร้าย",
+      "translation": "พิษ, ความมุ่งร้าย",
       "example": "There was venom in his voice."
     },
     {
@@ -9403,12 +9403,12 @@
     },
     {
       "word": "verge",
-      "translation": "ขอบใกล้จะถึง",
+      "translation": "ขอบ, ใกล้จะถึง",
       "example": "We are on the verge of a decision."
     },
     {
       "word": "verification",
-      "translation": "การตรวจสอบยืนยัน",
+      "translation": "การตรวจสอบ, ยืนยัน",
       "example": "Verification takes two days."
     },
     {
@@ -9418,12 +9418,12 @@
     },
     {
       "word": "vermin",
-      "translation": "สัตว์รบกวนศัตรูพืช",
+      "translation": "สัตว์รบกวน, ศัตรูพืช",
       "example": "The barn was full of vermin."
     },
     {
       "word": "vernacular",
-      "translation": "ภาษาถิ่นภาษาพูดของท้องถิ่น",
+      "translation": "ภาษาถิ่น, ภาษาพูดของท้องถิ่น",
       "example": "She wrote in the vernacular."
     },
     {
@@ -9438,12 +9438,12 @@
     },
     {
       "word": "vertigo",
-      "translation": "อาการเวียนศีรษะบ้านหมุน",
+      "translation": "อาการเวียนศีรษะ, บ้านหมุน",
       "example": "She gets vertigo on ladders."
     },
     {
       "word": "verve",
-      "translation": "ความมีชีวิตชีวากระตือรือร้น",
+      "translation": "ความมีชีวิตชีวา, กระตือรือร้น",
       "example": "She plays with verve."
     },
     {
@@ -9453,12 +9453,12 @@
     },
     {
       "word": "vexation",
-      "translation": "ความรำคาญขุ่นเคือง",
+      "translation": "ความรำคาญ, ขุ่นเคือง",
       "example": "His vexation was plain."
     },
     {
       "word": "vexatious",
-      "translation": "ที่ก่อความรำคาญกลั่นแกล้ง",
+      "translation": "ที่ก่อความรำคาญ, กลั่นแกล้ง",
       "example": "The claim was vexatious."
     },
     {
@@ -9488,12 +9488,12 @@
     },
     {
       "word": "vigil",
-      "translation": "การเฝ้ายามการอยู่เป็นเพื่อน",
+      "translation": "การเฝ้ายาม, การอยู่เป็นเพื่อน",
       "example": "They kept a vigil through the night."
     },
     {
       "word": "vigilance",
-      "translation": "ความระมัดระวังเฝ้าระวัง",
+      "translation": "ความระมัดระวัง, เฝ้าระวัง",
       "example": "Constant vigilance is needed."
     },
     {
@@ -9503,12 +9503,12 @@
     },
     {
       "word": "vigour",
-      "translation": "ความแข็งขันกระฉับกระเฉง",
+      "translation": "ความแข็งขัน, กระฉับกระเฉง",
       "example": "She set to work with vigour."
     },
     {
       "word": "vile",
-      "translation": "ที่เลวร้ายน่ารังเกียจ",
+      "translation": "ที่เลวร้าย, น่ารังเกียจ",
       "example": "The smell was vile."
     },
     {
@@ -9553,7 +9553,7 @@
     },
     {
       "word": "vintage",
-      "translation": "ที่เป็นปีดีเยี่ยมรุ่นเก่าคุณภาพดี",
+      "translation": "ที่เป็นปีดีเยี่ยม, รุ่นเก่าคุณภาพดี",
       "example": "It was a vintage year."
     },
     {
@@ -9573,17 +9573,17 @@
     },
     {
       "word": "virulence",
-      "translation": "ความรุนแรงความร้ายแรงของเชื้อ",
+      "translation": "ความรุนแรง, ความร้ายแรงของเชื้อ",
       "example": "The virulence of the attack shocked us."
     },
     {
       "word": "virulent",
-      "translation": "ที่รุนแรงร้ายแรง",
+      "translation": "ที่รุนแรง, ร้ายแรง",
       "example": "The criticism was virulent."
     },
     {
       "word": "visage",
-      "translation": "ใบหน้าสีหน้า",
+      "translation": "ใบหน้า, สีหน้า",
       "example": "His visage was calm."
     },
     {
@@ -9608,7 +9608,7 @@
     },
     {
       "word": "vitriolic",
-      "translation": "ที่เผ็ดร้อนรุนแรง",
+      "translation": "ที่เผ็ดร้อน, รุนแรง",
       "example": "The review was vitriolic."
     },
     {
@@ -9618,12 +9618,12 @@
     },
     {
       "word": "vivacious",
-      "translation": "ที่ร่าเริงมีชีวิตชีวา",
+      "translation": "ที่ร่าเริง, มีชีวิตชีวา",
       "example": "She is vivacious company."
     },
     {
       "word": "vivacity",
-      "translation": "ความร่าเริงมีชีวิตชีวา",
+      "translation": "ความร่าเริง, มีชีวิตชีวา",
       "example": "Her vivacity filled the room."
     },
     {
@@ -9638,17 +9638,17 @@
     },
     {
       "word": "vogue",
-      "translation": "ความนิยมแฟชั่น",
+      "translation": "ความนิยม, แฟชั่น",
       "example": "Short sleeves are in vogue."
     },
     {
       "word": "void",
-      "translation": "ที่เป็นโมฆะความว่างเปล่า",
+      "translation": "ที่เป็นโมฆะ, ความว่างเปล่า",
       "example": "The contract is void."
     },
     {
       "word": "volatile",
-      "translation": "ที่ผันผวนระเหยง่าย",
+      "translation": "ที่ผันผวน, ระเหยง่าย",
       "example": "The market is volatile."
     },
     {
@@ -9658,7 +9658,7 @@
     },
     {
       "word": "volition",
-      "translation": "ความสมัครใจเจตจำนง",
+      "translation": "ความสมัครใจ, เจตจำนง",
       "example": "She left of her own volition."
     },
     {
@@ -9668,12 +9668,12 @@
     },
     {
       "word": "voracious",
-      "translation": "ที่ตะกละกระหายไม่รู้จักพอ",
+      "translation": "ที่ตะกละ, กระหายไม่รู้จักพอ",
       "example": "He is a voracious reader."
     },
     {
       "word": "vortex",
-      "translation": "วังวนกระแสน้ำวน",
+      "translation": "วังวน, กระแสน้ำวน",
       "example": "The town was caught in a vortex of change."
     },
     {
@@ -9683,7 +9683,7 @@
     },
     {
       "word": "wager",
-      "translation": "การพนันเดิมพัน",
+      "translation": "การพนัน, เดิมพัน",
       "example": "He made a small wager."
     },
     {
@@ -9693,22 +9693,22 @@
     },
     {
       "word": "walkout",
-      "translation": "การประท้วงหยุดงาน",
+      "translation": "การประท้วง, หยุดงาน",
       "example": "The walkout lasted two days."
     },
     {
       "word": "wanton",
-      "translation": "ที่ทำโดยไร้เหตุผลมุ่งร้าย",
+      "translation": "ที่ทำโดยไร้เหตุผล, มุ่งร้าย",
       "example": "It was wanton damage."
     },
     {
       "word": "wantonness",
-      "translation": "การกระทำที่ไร้เหตุผลมุ่งร้าย",
+      "translation": "การกระทำที่ไร้เหตุผล, มุ่งร้าย",
       "example": "The wantonness of the destruction appalled us."
     },
     {
       "word": "warden",
-      "translation": "ผู้ดูแลพัศดี",
+      "translation": "ผู้ดูแล, พัศดี",
       "example": "The warden locks the gate at ten."
     },
     {
@@ -9723,7 +9723,7 @@
     },
     {
       "word": "wasteland",
-      "translation": "ที่รกร้างว่างเปล่า",
+      "translation": "ที่รกร้าง, ว่างเปล่า",
       "example": "The site is a wasteland now."
     },
     {
@@ -9733,22 +9733,22 @@
     },
     {
       "word": "watchword",
-      "translation": "คำขวัญคติประจำ",
+      "translation": "คำขวัญ, คติประจำ",
       "example": "Patience is the watchword here."
     },
     {
       "word": "waver",
-      "translation": "ลังเลหวั่นไหว",
+      "translation": "ลังเล, หวั่นไหว",
       "example": "She never wavered."
     },
     {
       "word": "wayward",
-      "translation": "ที่เอาแน่ไม่ได้ดื้อรั้น",
+      "translation": "ที่เอาแน่ไม่ได้, ดื้อรั้น",
       "example": "The plot is wayward but charming."
     },
     {
       "word": "waywardness",
-      "translation": "ความดื้อรั้นเอาแน่ไม่ได้",
+      "translation": "ความดื้อรั้น, เอาแน่ไม่ได้",
       "example": "His waywardness worried his family."
     },
     {
@@ -9758,7 +9758,7 @@
     },
     {
       "word": "weariness",
-      "translation": "ความอ่อนล้าเหนื่อยหน่าย",
+      "translation": "ความอ่อนล้า, เหนื่อยหน่าย",
       "example": "A great weariness came over her."
     },
     {
@@ -9773,12 +9773,12 @@
     },
     {
       "word": "wheedling",
-      "translation": "การพูดหว่านล้อมประจบ",
+      "translation": "การพูดหว่านล้อม, ประจบ",
       "example": "His wheedling tone got him nowhere."
     },
     {
       "word": "wherewithal",
-      "translation": "ปัจจัยทรัพยากรที่จำเป็น",
+      "translation": "ปัจจัย, ทรัพยากรที่จำเป็น",
       "example": "They lack the wherewithal to rebuild."
     },
     {
@@ -9793,7 +9793,7 @@
     },
     {
       "word": "whimsy",
-      "translation": "ความคิดแปลกๆ ขี้เล่น",
+      "translation": "ความคิดแปลกๆ, ขี้เล่น",
       "example": "The book has a gentle whimsy."
     },
     {
@@ -9803,7 +9803,7 @@
     },
     {
       "word": "whirlwind",
-      "translation": "ลมหมุนช่วงเวลาที่วุ่นวายเร็ว",
+      "translation": "ลมหมุน, ช่วงเวลาที่วุ่นวายเร็ว",
       "example": "The week was a whirlwind."
     },
     {
@@ -9823,12 +9823,12 @@
     },
     {
       "word": "wield",
-      "translation": "ใช้อำนาจถืออาวุธ",
+      "translation": "ใช้อำนาจ, ถืออาวุธ",
       "example": "She wields real influence."
     },
     {
       "word": "wilderness",
-      "translation": "ถิ่นทุรกันดารป่าเปลี่ยว",
+      "translation": "ถิ่นทุรกันดาร, ป่าเปลี่ยว",
       "example": "The path ends in wilderness."
     },
     {
@@ -9838,7 +9838,7 @@
     },
     {
       "word": "willfulness",
-      "translation": "ความดื้อรั้นเอาแต่ใจ",
+      "translation": "ความดื้อรั้น, เอาแต่ใจ",
       "example": "His willfulness made him hard to teach."
     },
     {
@@ -9863,17 +9863,17 @@
     },
     {
       "word": "witchcraft",
-      "translation": "ไสยศาสตร์เวทมนตร์",
+      "translation": "ไสยศาสตร์, เวทมนตร์",
       "example": "The trial records mention witchcraft."
     },
     {
       "word": "withstand",
-      "translation": "ทนต้านทานได้",
+      "translation": "ทน, ต้านทานได้",
       "example": "The wall withstood the flood."
     },
     {
       "word": "witticism",
-      "translation": "คำพูดคมคายขบขัน",
+      "translation": "คำพูดคมคาย, ขบขัน",
       "example": "His witticism saved the evening."
     },
     {
@@ -9888,7 +9888,7 @@
     },
     {
       "word": "woe",
-      "translation": "ความทุกข์โศก",
+      "translation": "ความทุกข์, โศก",
       "example": "She listed her woes in order."
     },
     {
@@ -9913,7 +9913,7 @@
     },
     {
       "word": "wretched",
-      "translation": "ที่น่าสังเวชแย่มาก",
+      "translation": "ที่น่าสังเวช, แย่มาก",
       "example": "The weather was wretched."
     },
     {
@@ -9943,17 +9943,17 @@
     },
     {
       "word": "yarn",
-      "translation": "เรื่องเล่ายืดยาวเส้นด้าย",
+      "translation": "เรื่องเล่ายืดยาว, เส้นด้าย",
       "example": "He told us a long yarn."
     },
     {
       "word": "yearning",
-      "translation": "ความโหยหาปรารถนา",
+      "translation": "ความโหยหา, ปรารถนา",
       "example": "There is a yearning for the old routine."
     },
     {
       "word": "yoke",
-      "translation": "แอกภาระที่กดขี่",
+      "translation": "แอก, ภาระที่กดขี่",
       "example": "The village threw off the yoke of the mill."
     },
     {
@@ -9963,7 +9963,7 @@
     },
     {
       "word": "zeal",
-      "translation": "ความกระตือรือร้นแรงกล้า",
+      "translation": "ความกระตือรือร้น, แรงกล้า",
       "example": "She works with real zeal."
     },
     {
@@ -9993,7 +9993,7 @@
     },
     {
       "word": "zest",
-      "translation": "ความกระตือรือร้นรสชาติ",
+      "translation": "ความกระตือรือร้น, รสชาติ",
       "example": "She has a zest for the work."
     },
     {
