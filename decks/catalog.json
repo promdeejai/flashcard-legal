@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "decks": [
     {
       "id": "en-th-a1",
@@ -331,26 +331,6 @@
       "words": 2001,
       "version": 11,
       "file": "en-ja-c2.json"
-    },
-    {
-      "id": "en-th-everyday-30",
-      "name": "Everyday English 30",
-      "description": "สามสิบคำที่ใช้ทุกวัน พร้อมประโยคตัวอย่าง",
-      "learn": "en",
-      "native": "th",
-      "words": 30,
-      "version": 11,
-      "file": "en-th-everyday-30.json"
-    },
-    {
-      "id": "en-es-everyday-30",
-      "name": "Everyday English 30",
-      "description": "Thirty words that come up every single day, with a sentence for each.",
-      "learn": "en",
-      "native": "es",
-      "words": 30,
-      "version": 11,
-      "file": "en-es-everyday-30.json"
     }
   ]
 }
