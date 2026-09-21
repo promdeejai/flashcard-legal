@@ -1,0 +1,3481 @@
+{
+  "id": "ja-th-n5",
+  "name": "Japanese N5",
+  "learn": "ja",
+  "native": "th",
+  "level": "N5",
+  "version": 18,
+  "examples": false,
+  "items": [
+    {
+      "word": "アイスクリーム",
+      "translation": "ไอศกรีม",
+      "example": ""
+    },
+    {
+      "word": "間",
+      "translation": "あいだ: ระหว่าง",
+      "example": ""
+    },
+    {
+      "word": "会います",
+      "translation": "あいます: พบ, เจอ",
+      "example": ""
+    },
+    {
+      "word": "青",
+      "translation": "あお: สีฟ้า",
+      "example": ""
+    },
+    {
+      "word": "青い",
+      "translation": "あおい: (สี) ฟ้า",
+      "example": ""
+    },
+    {
+      "word": "赤",
+      "translation": "あか: สีแดง",
+      "example": ""
+    },
+    {
+      "word": "赤い",
+      "translation": "あかい: (สี) แดง",
+      "example": ""
+    },
+    {
+      "word": "（性格が）明るい",
+      "translation": "（せいかくが）あかるい: (นิสัย) ร่าเริง, สดใส",
+      "example": ""
+    },
+    {
+      "word": "開けます",
+      "translation": "あけます: เปิด...",
+      "example": ""
+    },
+    {
+      "word": "あげます",
+      "translation": "ให้",
+      "example": ""
+    },
+    {
+      "word": "朝",
+      "translation": "あさ: ตอนเช้า",
+      "example": ""
+    },
+    {
+      "word": "あさって",
+      "translation": "มะรืน",
+      "example": ""
+    },
+    {
+      "word": "足",
+      "translation": "あし: เท้า, ขา",
+      "example": ""
+    },
+    {
+      "word": "明日",
+      "translation": "あした: พรุ่งนี้",
+      "example": ""
+    },
+    {
+      "word": "あそこ",
+      "translation": "ตรงโน้น",
+      "example": ""
+    },
+    {
+      "word": "あそびます",
+      "translation": "เที่ยว, เล่น",
+      "example": ""
+    },
+    {
+      "word": "あたたかい",
+      "translation": "อบอุ่น",
+      "example": ""
+    },
+    {
+      "word": "新しい",
+      "translation": "あたらしい: ใหม่",
+      "example": ""
+    },
+    {
+      "word": "あちら",
+      "translation": "ทางโน้น, ตรงโน้น",
+      "example": ""
+    },
+    {
+      "word": "暑い",
+      "translation": "あつい: (อากาศ) ร้อน",
+      "example": ""
+    },
+    {
+      "word": "あっち",
+      "translation": "ทางโน้น, ตรงโน้น (รูปกันเองของ あちら)",
+      "example": ""
+    },
+    {
+      "word": "あと～",
+      "translation": "หลังจาก",
+      "example": ""
+    },
+    {
+      "word": "兄",
+      "translation": "あに: พี่ชาย (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "姉",
+      "translation": "あね: พี่สาว (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "あの",
+      "translation": "โน่น, โน้น (สรรพนามชี้ตำแหน่ง : ไกลจากทั้งผู้พูดและผู้ฟัง)",
+      "example": ""
+    },
+    {
+      "word": "（シャワーを）あびます",
+      "translation": "อาบน้ำ (ฝักบัว)",
+      "example": ""
+    },
+    {
+      "word": "あぶない",
+      "translation": "อันตราย",
+      "example": ""
+    },
+    {
+      "word": "あまり～ない",
+      "translation": "ไม่ค่อย",
+      "example": ""
+    },
+    {
+      "word": "雨",
+      "translation": "あめ: ฝน",
+      "example": ""
+    },
+    {
+      "word": "アメリカ人",
+      "translation": "アメリカじん: ชาวอเมริกัน",
+      "example": ""
+    },
+    {
+      "word": "洗います",
+      "translation": "あらいます: ซัก, ล้าง",
+      "example": ""
+    },
+    {
+      "word": "あります",
+      "translation": "มี, อยู่ (สิ่งไม่มีชีวิต)",
+      "example": ""
+    },
+    {
+      "word": "歩いてきます",
+      "translation": "あるいてきます: เดินมา",
+      "example": ""
+    },
+    {
+      "word": "歩きます",
+      "translation": "あるきます: เดิน",
+      "example": ""
+    },
+    {
+      "word": "アルバイト",
+      "translation": "งานพาร์ตไทม์, งานพิเศษ",
+      "example": ""
+    },
+    {
+      "word": "あれ",
+      "translation": "ที่โน่น, ตรงโน้น (สรรพนาม : ไกลจากทั้งผู้พูดและผู้ฟัง)",
+      "example": ""
+    },
+    {
+      "word": "いい",
+      "translation": "ดี",
+      "example": ""
+    },
+    {
+      "word": "いいえ",
+      "translation": "ไม่ใช่, เปล่า",
+      "example": ""
+    },
+    {
+      "word": "言います",
+      "translation": "いいます: พูด, บอก",
+      "example": ""
+    },
+    {
+      "word": "家",
+      "translation": "いえ: บ้าน",
+      "example": ""
+    },
+    {
+      "word": "いかが",
+      "translation": "อย่างไร (รูปสุภาพของ どう)",
+      "example": ""
+    },
+    {
+      "word": "行きます",
+      "translation": "いきます: ไป",
+      "example": ""
+    },
+    {
+      "word": "いくつ",
+      "translation": "(อายุ) เท่าไร, (จำนวน) เท่าไร",
+      "example": ""
+    },
+    {
+      "word": "いくら",
+      "translation": "(ราคา) เท่าไร",
+      "example": ""
+    },
+    {
+      "word": "医者",
+      "translation": "いしゃ: แพทย์, หมอ",
+      "example": ""
+    },
+    {
+      "word": "いす",
+      "translation": "เก้าอี้",
+      "example": ""
+    },
+    {
+      "word": "いそがしい",
+      "translation": "ยุ่ง",
+      "example": ""
+    },
+    {
+      "word": "急ぎます",
+      "translation": "いそぎます: รีบ",
+      "example": ""
+    },
+    {
+      "word": "いたい",
+      "translation": "เจ็บ, ปวด",
+      "example": ""
+    },
+    {
+      "word": "イタリア",
+      "translation": "ประเทศอิตาลี",
+      "example": ""
+    },
+    {
+      "word": "いちばん",
+      "translation": "ที่สุด",
+      "example": ""
+    },
+    {
+      "word": "いつ",
+      "translation": "เมื่อไร",
+      "example": ""
+    },
+    {
+      "word": "いっしょに",
+      "translation": "ด้วยกัน",
+      "example": ""
+    },
+    {
+      "word": "いつも",
+      "translation": "เสมอ ๆ",
+      "example": ""
+    },
+    {
+      "word": "犬",
+      "translation": "いぬ: สุนัข",
+      "example": ""
+    },
+    {
+      "word": "今",
+      "translation": "いま: ตอนนี้",
+      "example": ""
+    },
+    {
+      "word": "今から",
+      "translation": "いまから: หลังจากนี้",
+      "example": ""
+    },
+    {
+      "word": "います",
+      "translation": "มี, อยู่ (สิ่งมีชีวิต)",
+      "example": ""
+    },
+    {
+      "word": "妹",
+      "translation": "いもうと: น้องสาว (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "妹さん",
+      "translation": "いもうとさん: น้องสาว (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "入り口",
+      "translation": "いりぐち: ทางเข้า",
+      "example": ""
+    },
+    {
+      "word": "いります",
+      "translation": "ต้องการ",
+      "example": ""
+    },
+    {
+      "word": "入れます",
+      "translation": "いれます: ใส่, บรรจุ",
+      "example": ""
+    },
+    {
+      "word": "いろいろ",
+      "translation": "ต่าง ๆ นานา",
+      "example": ""
+    },
+    {
+      "word": "インターネット",
+      "translation": "อินเทอร์เน็ต",
+      "example": ""
+    },
+    {
+      "word": "インターネット（を）します",
+      "translation": "เล่นอินเทอร์เน็ต",
+      "example": ""
+    },
+    {
+      "word": "上",
+      "translation": "うえ: บน, ข้างบน",
+      "example": ""
+    },
+    {
+      "word": "うしろ",
+      "translation": "ข้างหลัง",
+      "example": ""
+    },
+    {
+      "word": "歌",
+      "translation": "うた: เพลง",
+      "example": ""
+    },
+    {
+      "word": "歌います",
+      "translation": "うたいます: ร้องเพลง",
+      "example": ""
+    },
+    {
+      "word": "うち",
+      "translation": "บ้าน",
+      "example": ""
+    },
+    {
+      "word": "生まれます",
+      "translation": "うまれます: เกิด, สร้างขึ้น",
+      "example": ""
+    },
+    {
+      "word": "海",
+      "translation": "うみ: ทะเล, มหาสมุทร",
+      "example": ""
+    },
+    {
+      "word": "うら",
+      "translation": "ด้านหลัง",
+      "example": ""
+    },
+    {
+      "word": "売ります",
+      "translation": "うります: ขาย",
+      "example": ""
+    },
+    {
+      "word": "うるさい",
+      "translation": "เสียงดัง, หนวกหู",
+      "example": ""
+    },
+    {
+      "word": "うれしい",
+      "translation": "ดีใจ, ยินดี",
+      "example": ""
+    },
+    {
+      "word": "うん",
+      "translation": "อือ (รูปกันเองของ はい)",
+      "example": ""
+    },
+    {
+      "word": "え",
+      "translation": "รูปวาด",
+      "example": ""
+    },
+    {
+      "word": "映画",
+      "translation": "えいが: ภาพยนตร์",
+      "example": ""
+    },
+    {
+      "word": "映画館",
+      "translation": "えいがかん: โรงภาพยนตร์",
+      "example": ""
+    },
+    {
+      "word": "英語",
+      "translation": "えいご: ภาษาอังกฤษ",
+      "example": ""
+    },
+    {
+      "word": "ええ（＝はい）",
+      "translation": "ค่ะ/ครับ",
+      "example": ""
+    },
+    {
+      "word": "駅",
+      "translation": "えき: สถานีรถไฟ",
+      "example": ""
+    },
+    {
+      "word": "駅前",
+      "translation": "えきまえ: หน้าสถานีรถไฟ",
+      "example": ""
+    },
+    {
+      "word": "えんぴつ",
+      "translation": "ดินสอ",
+      "example": ""
+    },
+    {
+      "word": "おいしい",
+      "translation": "อร่อย",
+      "example": ""
+    },
+    {
+      "word": "多い",
+      "translation": "おおい: เยอะ, มาก",
+      "example": ""
+    },
+    {
+      "word": "大きい",
+      "translation": "おおきい: ใหญ่",
+      "example": ""
+    },
+    {
+      "word": "おおぜい",
+      "translation": "(คน) เยอะ, จำนวนมาก",
+      "example": ""
+    },
+    {
+      "word": "お母さん",
+      "translation": "おかあさん: คุณแม่ (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "おかし",
+      "translation": "ขนม",
+      "example": ""
+    },
+    {
+      "word": "お金",
+      "translation": "おかね: เงิน",
+      "example": ""
+    },
+    {
+      "word": "起きます",
+      "translation": "おきます: ตื่น",
+      "example": ""
+    },
+    {
+      "word": "（物を）おきます",
+      "translation": "（ものを）おきます: วาง (สิ่งของ)",
+      "example": ""
+    },
+    {
+      "word": "お客さん",
+      "translation": "おきゃくさん: แขก, ลูกค้า (รูปสุภาพของ 客)",
+      "example": ""
+    },
+    {
+      "word": "奥さん",
+      "translation": "おくさん: ภรรยา (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "お薬",
+      "translation": "おくすり: ยา (รูปสุภาพของ 薬)",
+      "example": ""
+    },
+    {
+      "word": "送ります",
+      "translation": "おくります: ส่ง",
+      "example": ""
+    },
+    {
+      "word": "お酒",
+      "translation": "おさけ: เหล้า",
+      "example": ""
+    },
+    {
+      "word": "おじいさん",
+      "translation": "คุณปู่, คุณตา (ของผู้อื่น), คุณลุง (เรียกผู้ชายที่อายุมาก)",
+      "example": ""
+    },
+    {
+      "word": "お時間",
+      "translation": "おじかん: เวลา (รูปสุภาพของ 時間)",
+      "example": ""
+    },
+    {
+      "word": "お好きなもの",
+      "translation": "おすきなもの: ของที่ชอบ (รูปสุภาพของ 好きなもの)",
+      "example": ""
+    },
+    {
+      "word": "おそい",
+      "translation": "ช้า, สาย, ดึก",
+      "example": ""
+    },
+    {
+      "word": "おそくまで",
+      "translation": "จนดึก",
+      "example": ""
+    },
+    {
+      "word": "お茶",
+      "translation": "おちゃ: น้ำชา",
+      "example": ""
+    },
+    {
+      "word": "夫",
+      "translation": "おっと: สามี",
+      "example": ""
+    },
+    {
+      "word": "おてら",
+      "translation": "วัด",
+      "example": ""
+    },
+    {
+      "word": "お父さん",
+      "translation": "おとうさん: คุณพ่อ (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "弟",
+      "translation": "おとうと: น้องชาย (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "弟さん",
+      "translation": "おとうとさん: น้องชาย (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "男の子",
+      "translation": "おとこのこ: เด็กผู้ชาย",
+      "example": ""
+    },
+    {
+      "word": "男の人",
+      "translation": "おとこのひと: (คน) ผู้ชาย",
+      "example": ""
+    },
+    {
+      "word": "おととい",
+      "translation": "เมื่อวานซืน",
+      "example": ""
+    },
+    {
+      "word": "おなか",
+      "translation": "ท้อง",
+      "example": ""
+    },
+    {
+      "word": "お兄さん",
+      "translation": "おにいさん: พี่ชาย (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "お姉さん",
+      "translation": "おねえさん: พี่สาว (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "おばあさん",
+      "translation": "คุณย่า, คุณยาย (ของผู้อื่น), คุณป้า (เรียกผู้หญิงที่อายุมาก)",
+      "example": ""
+    },
+    {
+      "word": "おふろ",
+      "translation": "อ่างอาบน้ำ",
+      "example": ""
+    },
+    {
+      "word": "お弁当",
+      "translation": "おべんとう: ข้าวกล่อง (รูปสุภาพของ 弁当)",
+      "example": ""
+    },
+    {
+      "word": "おぼえます",
+      "translation": "จำ, จำได้",
+      "example": ""
+    },
+    {
+      "word": "おみやげ",
+      "translation": "ของฝาก",
+      "example": ""
+    },
+    {
+      "word": "重い",
+      "translation": "おもい: หนัก",
+      "example": ""
+    },
+    {
+      "word": "思います",
+      "translation": "おもいます: คิด",
+      "example": ""
+    },
+    {
+      "word": "おもしろい",
+      "translation": "สนุก, น่าสนใจ",
+      "example": ""
+    },
+    {
+      "word": "泳ぎます",
+      "translation": "およぎます: ว่ายน้ำ",
+      "example": ""
+    },
+    {
+      "word": "降ります",
+      "translation": "おります: ลง (จากพาหนะ เช่น รถประจำทาง รถไฟ)",
+      "example": ""
+    },
+    {
+      "word": "終わります",
+      "translation": "おわります: เสร็จ, จบ",
+      "example": ""
+    },
+    {
+      "word": "音楽",
+      "translation": "おんがく: เพลง, ดนตรี",
+      "example": ""
+    },
+    {
+      "word": "おんせん",
+      "translation": "บ่อน้ำร้อน",
+      "example": ""
+    },
+    {
+      "word": "女の人",
+      "translation": "おんなのひと: (คน) ผู้หญิง",
+      "example": ""
+    },
+    {
+      "word": "お飲み物",
+      "translation": "おのみもの: เครื่องดื่ม (รูปสุภาพของ 飲み物)",
+      "example": ""
+    },
+    {
+      "word": "お話",
+      "translation": "おはなし: เรื่องเล่า, คำพูด (รูปสุภาพของ 話)",
+      "example": ""
+    },
+    {
+      "word": "火（＝火曜日）",
+      "translation": "か（＝かようび）: ตัวย่อของวันอังคาร",
+      "example": ""
+    },
+    {
+      "word": "会議",
+      "translation": "かいぎ: การประชุม",
+      "example": ""
+    },
+    {
+      "word": "会議（を）します",
+      "translation": "かいぎ（を）します: ประชุม",
+      "example": ""
+    },
+    {
+      "word": "会議室",
+      "translation": "かいぎしつ: ห้องประชุม",
+      "example": ""
+    },
+    {
+      "word": "外国",
+      "translation": "がいこく: ต่างประเทศ",
+      "example": ""
+    },
+    {
+      "word": "会社",
+      "translation": "かいしゃ: บริษัท",
+      "example": ""
+    },
+    {
+      "word": "会場",
+      "translation": "かいじょう: หอประชุม, สถานที่จัดงาน, บริเวณที่จัดงาน",
+      "example": ""
+    },
+    {
+      "word": "買います",
+      "translation": "かいます: ซื้อ",
+      "example": ""
+    },
+    {
+      "word": "買い物",
+      "translation": "かいもの: การซื้อของ",
+      "example": ""
+    },
+    {
+      "word": "買い物（を）します",
+      "translation": "かいもの（を）します: ซื้อของ",
+      "example": ""
+    },
+    {
+      "word": "帰ってきます",
+      "translation": "かえってきます: กลับมา",
+      "example": ""
+    },
+    {
+      "word": "帰ります",
+      "translation": "かえります: กลับ",
+      "example": ""
+    },
+    {
+      "word": "顔",
+      "translation": "かお: หน้า",
+      "example": ""
+    },
+    {
+      "word": "（お金が）かかります",
+      "translation": "（おかねが）かかります: ใช้ (เงิน)",
+      "example": ""
+    },
+    {
+      "word": "（時間が）かかります",
+      "translation": "（じかんが）かかります: ใช้ (เวลา)",
+      "example": ""
+    },
+    {
+      "word": "かぎ",
+      "translation": "กุญแจ",
+      "example": ""
+    },
+    {
+      "word": "書きます",
+      "translation": "かきます: เขียน",
+      "example": ""
+    },
+    {
+      "word": "（えを）かきます",
+      "translation": "วาด (รูป)",
+      "example": ""
+    },
+    {
+      "word": "学生",
+      "translation": "がくせい: นักเรียน",
+      "example": ""
+    },
+    {
+      "word": "（電話を）かけます",
+      "translation": "（でんわを）かけます: หมุน (โทรศัพท์)",
+      "example": ""
+    },
+    {
+      "word": "かさ",
+      "translation": "ร่ม",
+      "example": ""
+    },
+    {
+      "word": "かします",
+      "translation": "ให้ยืม",
+      "example": ""
+    },
+    {
+      "word": "家族",
+      "translation": "かぞく: ครอบครัว",
+      "example": ""
+    },
+    {
+      "word": "方",
+      "translation": "かた: คน (รูปสุภาพของ 人)",
+      "example": ""
+    },
+    {
+      "word": "～方",
+      "translation": "～がた: พวก..., เหล่า... (รูปสุภาพของ ～たち)",
+      "example": ""
+    },
+    {
+      "word": "形",
+      "translation": "かたち: รูปร่าง",
+      "example": ""
+    },
+    {
+      "word": "学校",
+      "translation": "がっこう: โรงเรียน",
+      "example": ""
+    },
+    {
+      "word": "買ってきます",
+      "translation": "かってきます: ซื้อมา",
+      "example": ""
+    },
+    {
+      "word": "かばん",
+      "translation": "กระเป๋า",
+      "example": ""
+    },
+    {
+      "word": "（ぼうしを）かぶります",
+      "translation": "ใส่, สวม (ของประดับศีรษะ เช่น หมวก หมวกกันน็อก)",
+      "example": ""
+    },
+    {
+      "word": "紙",
+      "translation": "かみ: กระดาษ",
+      "example": ""
+    },
+    {
+      "word": "紙しばい",
+      "translation": "かみしばい: การเล่านิทานประกอบภาพ",
+      "example": ""
+    },
+    {
+      "word": "カメラ",
+      "translation": "กล้อง",
+      "example": ""
+    },
+    {
+      "word": "～から",
+      "translation": "จาก...",
+      "example": ""
+    },
+    {
+      "word": "からい",
+      "translation": "เผ็ด",
+      "example": ""
+    },
+    {
+      "word": "カラオケ",
+      "translation": "คาราโอเกะ",
+      "example": ""
+    },
+    {
+      "word": "カラオケ（を）する",
+      "translation": "ร้องคาราโอเกะ",
+      "example": ""
+    },
+    {
+      "word": "体",
+      "translation": "からだ: ร่างกาย",
+      "example": ""
+    },
+    {
+      "word": "借ります",
+      "translation": "かります: ขอยืม, เช่า",
+      "example": ""
+    },
+    {
+      "word": "軽い",
+      "translation": "かるい: เบา",
+      "example": ""
+    },
+    {
+      "word": "カレー",
+      "translation": "แกงกะหรี่",
+      "example": ""
+    },
+    {
+      "word": "カレンダー",
+      "translation": "ปฏิทิน",
+      "example": ""
+    },
+    {
+      "word": "川",
+      "translation": "かわ: แม่น้ำ",
+      "example": ""
+    },
+    {
+      "word": "かんがえます",
+      "translation": "คิด, พิจารณา",
+      "example": ""
+    },
+    {
+      "word": "韓国",
+      "translation": "かんこく: ประเทศเกาหลีใต้",
+      "example": ""
+    },
+    {
+      "word": "漢字",
+      "translation": "かんじ: อักษรคันจิ",
+      "example": ""
+    },
+    {
+      "word": "かんたん",
+      "translation": "ง่าย",
+      "example": ""
+    },
+    {
+      "word": "木",
+      "translation": "き: ต้นไม้",
+      "example": ""
+    },
+    {
+      "word": "（音楽を）聞きます",
+      "translation": "（おんがくを）ききます: ฟัง (เพลง)",
+      "example": ""
+    },
+    {
+      "word": "（友だちに／先生に）聞きます",
+      "translation": "（ともだちに／せんせいに）ききます: ถาม (เพื่อน, ครู)",
+      "example": ""
+    },
+    {
+      "word": "北",
+      "translation": "きた: ทิศเหนือ",
+      "example": ""
+    },
+    {
+      "word": "ギター",
+      "translation": "กีตาร์",
+      "example": ""
+    },
+    {
+      "word": "きたない",
+      "translation": "สกปรก",
+      "example": ""
+    },
+    {
+      "word": "きっさ店",
+      "translation": "きっさてん: ร้านกาแฟ",
+      "example": ""
+    },
+    {
+      "word": "きっぷ",
+      "translation": "ตั๋ว (รถโดยสารสาธารณะ)",
+      "example": ""
+    },
+    {
+      "word": "きのう",
+      "translation": "เมื่อวาน",
+      "example": ""
+    },
+    {
+      "word": "（性格が）きびしい",
+      "translation": "（せいかくが）きびしい: (นิสัย) เข้มงวด",
+      "example": ""
+    },
+    {
+      "word": "来ます",
+      "translation": "きます: มา",
+      "example": ""
+    },
+    {
+      "word": "（服を）着ます",
+      "translation": "（ふくを）きます: ใส่ (เสื้อผ้า)",
+      "example": ""
+    },
+    {
+      "word": "決まります",
+      "translation": "きまります: ตกลง",
+      "example": ""
+    },
+    {
+      "word": "決めます",
+      "translation": "きめます: ตัดสินใจ",
+      "example": ""
+    },
+    {
+      "word": "気持ちがいい",
+      "translation": "きもちがいい: รู้สึกดี, รู้สึกสบาย",
+      "example": ""
+    },
+    {
+      "word": "客",
+      "translation": "きゃく: แขก, ลูกค้า",
+      "example": ""
+    },
+    {
+      "word": "牛乳",
+      "translation": "ぎゅうにゅう: นม",
+      "example": ""
+    },
+    {
+      "word": "今日",
+      "translation": "きょう: วันนี้",
+      "example": ""
+    },
+    {
+      "word": "教室",
+      "translation": "きょうしつ: ห้องเรียน",
+      "example": ""
+    },
+    {
+      "word": "兄弟",
+      "translation": "きょうだい: พี่น้อง",
+      "example": ""
+    },
+    {
+      "word": "去年",
+      "translation": "きょねん: ปีที่แล้ว",
+      "example": ""
+    },
+    {
+      "word": "きらい",
+      "translation": "ไม่ชอบ, เกลียด",
+      "example": ""
+    },
+    {
+      "word": "切ります",
+      "translation": "きります: ตัด",
+      "example": ""
+    },
+    {
+      "word": "（部屋が）きれい",
+      "translation": "（へやが）きれい: (ห้อง) สะอาด",
+      "example": ""
+    },
+    {
+      "word": "（けしきが）きれい",
+      "translation": "(ทิวทัศน์) สวยงาม",
+      "example": ""
+    },
+    {
+      "word": "きれいに",
+      "translation": "อย่างสะอาด, อย่างเรียบร้อย",
+      "example": ""
+    },
+    {
+      "word": "金（＝金曜日）",
+      "translation": "きん（＝きんようび）: ตัวย่อของวันศุกร์",
+      "example": ""
+    },
+    {
+      "word": "銀行",
+      "translation": "ぎんこう: ธนาคาร",
+      "example": ""
+    },
+    {
+      "word": "空港",
+      "translation": "くうこう: สนามบิน",
+      "example": ""
+    },
+    {
+      "word": "薬",
+      "translation": "くすり: ยา",
+      "example": ""
+    },
+    {
+      "word": "ください",
+      "translation": "กรุณา",
+      "example": ""
+    },
+    {
+      "word": "くだもの",
+      "translation": "ผลไม้",
+      "example": ""
+    },
+    {
+      "word": "くつ",
+      "translation": "รองเท้า",
+      "example": ""
+    },
+    {
+      "word": "国",
+      "translation": "くに: ประเทศ",
+      "example": ""
+    },
+    {
+      "word": "～くらい",
+      "translation": "ประมาณ, ราว ๆ",
+      "example": ""
+    },
+    {
+      "word": "車",
+      "translation": "くるま: รถยนต์",
+      "example": ""
+    },
+    {
+      "word": "黒い",
+      "translation": "くろい: (สี) ดำ",
+      "example": ""
+    },
+    {
+      "word": "けいたい電話",
+      "translation": "けいたいでんわ: โทรศัพท์เคลื่อนที่, โทรศัพท์มือถือ",
+      "example": ""
+    },
+    {
+      "word": "ケーキ",
+      "translation": "เค้ก",
+      "example": ""
+    },
+    {
+      "word": "ケース",
+      "translation": "กล่องเล็ก ๆ, กรณี",
+      "example": ""
+    },
+    {
+      "word": "ゲーム",
+      "translation": "เกม",
+      "example": ""
+    },
+    {
+      "word": "ゲーム（を）します",
+      "translation": "เล่นเกม",
+      "example": ""
+    },
+    {
+      "word": "今朝",
+      "translation": "けさ: เมื่อเช้า",
+      "example": ""
+    },
+    {
+      "word": "けしき",
+      "translation": "ทิวทัศน์",
+      "example": ""
+    },
+    {
+      "word": "けしゴム",
+      "translation": "ยางลบ",
+      "example": ""
+    },
+    {
+      "word": "けします",
+      "translation": "ลบ",
+      "example": ""
+    },
+    {
+      "word": "月（＝月曜日）",
+      "translation": "げつ（＝げつようび）: ตัวย่อของวันจันทร์",
+      "example": ""
+    },
+    {
+      "word": "けっこんします",
+      "translation": "แต่งงาน",
+      "example": ""
+    },
+    {
+      "word": "月曜日",
+      "translation": "げつようび: วันจันทร์",
+      "example": ""
+    },
+    {
+      "word": "見学",
+      "translation": "けんがく: ทัศนศึกษา, เยี่ยมชม (โรงงาน)",
+      "example": ""
+    },
+    {
+      "word": "元気",
+      "translation": "げんき: ร่าเริง, แข็งแรง",
+      "example": ""
+    },
+    {
+      "word": "元気がない",
+      "translation": "げんきがない: ไม่ร่าเริง, ไม่แข็งแรง",
+      "example": ""
+    },
+    {
+      "word": "公園",
+      "translation": "こうえん: สวนสาธารณะ",
+      "example": ""
+    },
+    {
+      "word": "こう茶",
+      "translation": "こうちゃ: ชาดำ",
+      "example": ""
+    },
+    {
+      "word": "こうばん",
+      "translation": "ป้อมตำรวจ",
+      "example": ""
+    },
+    {
+      "word": "コート",
+      "translation": "เสื้อโค้ท",
+      "example": ""
+    },
+    {
+      "word": "コーヒー",
+      "translation": "กาแฟ",
+      "example": ""
+    },
+    {
+      "word": "ご家族",
+      "translation": "ごかぞく: ครอบครัว (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "ご兄弟",
+      "translation": "ごきょうだい: พี่น้อง (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "ここ",
+      "translation": "ที่นี่",
+      "example": ""
+    },
+    {
+      "word": "午後",
+      "translation": "ごご: ช่วงบ่าย",
+      "example": ""
+    },
+    {
+      "word": "ございます",
+      "translation": "มี, อยู่ (รูปสุภาพของ あります)",
+      "example": ""
+    },
+    {
+      "word": "ごじゆうに",
+      "translation": "...ตามสบาย (รูปสุภาพของ じゆうに)",
+      "example": ""
+    },
+    {
+      "word": "ご主人",
+      "translation": "ごしゅじん: สามี (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "午前",
+      "translation": "ごぜん: ช่วงเช้า",
+      "example": ""
+    },
+    {
+      "word": "答え",
+      "translation": "こたえ: คำตอบ",
+      "example": ""
+    },
+    {
+      "word": "答えます",
+      "translation": "こたえます: ตอบ",
+      "example": ""
+    },
+    {
+      "word": "こちら",
+      "translation": "ทางโน้น, ตรงโน้น",
+      "example": ""
+    },
+    {
+      "word": "こっち",
+      "translation": "ทางโน้น, ตรงโน้น (รูปกันเองของ こちら)",
+      "example": ""
+    },
+    {
+      "word": "コップ",
+      "translation": "ถ้วย",
+      "example": ""
+    },
+    {
+      "word": "今年",
+      "translation": "ことし: ปีนี้",
+      "example": ""
+    },
+    {
+      "word": "ことば",
+      "translation": "คำศัพท์",
+      "example": ""
+    },
+    {
+      "word": "子ども",
+      "translation": "こども: เด็ก, ลูก",
+      "example": ""
+    },
+    {
+      "word": "子どもさん",
+      "translation": "こどもさん: เด็ก, ลูก (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "この～",
+      "translation": "...นี้",
+      "example": ""
+    },
+    {
+      "word": "このあと",
+      "translation": "หลังจากนี้",
+      "example": ""
+    },
+    {
+      "word": "このへん",
+      "translation": "แถวนี้",
+      "example": ""
+    },
+    {
+      "word": "ご飯",
+      "translation": "ごはん: ข้าว",
+      "example": ""
+    },
+    {
+      "word": "コピー",
+      "translation": "สำเนา, การคัดลอก",
+      "example": ""
+    },
+    {
+      "word": "コピー（を）します",
+      "translation": "ถ่ายสำเนา, คัดลอก",
+      "example": ""
+    },
+    {
+      "word": "ご両親",
+      "translation": "ごりょうしん: พ่อแม่ (ของผู้อื่น)",
+      "example": ""
+    },
+    {
+      "word": "これ",
+      "translation": "สิ่งนี้",
+      "example": ""
+    },
+    {
+      "word": "これから",
+      "translation": "จากนี้, หลังจากนี้",
+      "example": ""
+    },
+    {
+      "word": "～ごろ",
+      "translation": "ประมาณ..., ราว ๆ ...",
+      "example": ""
+    },
+    {
+      "word": "コンサート",
+      "translation": "คอนเสิร์ต",
+      "example": ""
+    },
+    {
+      "word": "今度",
+      "translation": "こんど: ครั้งนี้",
+      "example": ""
+    },
+    {
+      "word": "今晩",
+      "translation": "こんばん: คืนนี้",
+      "example": ""
+    },
+    {
+      "word": "コンビニ",
+      "translation": "ร้านสะดวกซื้อ",
+      "example": ""
+    },
+    {
+      "word": "コンピューター",
+      "translation": "คอมพิวเตอร์",
+      "example": ""
+    },
+    {
+      "word": "魚",
+      "translation": "さかな: ปลา",
+      "example": ""
+    },
+    {
+      "word": "先に",
+      "translation": "さきに: ก่อน (เวลา), (สถานที่) ข้างหน้า",
+      "example": ""
+    },
+    {
+      "word": "さきます",
+      "translation": "(ดอกไม้) บาน",
+      "example": ""
+    },
+    {
+      "word": "作文",
+      "translation": "さくぶん: เรียงความ",
+      "example": ""
+    },
+    {
+      "word": "さくら",
+      "translation": "ดอกซากุระ",
+      "example": ""
+    },
+    {
+      "word": "さしみ",
+      "translation": "ซาชิมิ, ปลาดิบ",
+      "example": ""
+    },
+    {
+      "word": "サッカー",
+      "translation": "ฟุตบอล",
+      "example": ""
+    },
+    {
+      "word": "さっき",
+      "translation": "ก่อนหน้านี้, เมื่อสักครู่",
+      "example": ""
+    },
+    {
+      "word": "ざっし",
+      "translation": "นิตยสาร",
+      "example": ""
+    },
+    {
+      "word": "寒い",
+      "translation": "さむい: หนาว",
+      "example": ""
+    },
+    {
+      "word": "～さん",
+      "translation": "คุณ... (คำเติมท้ายชื่อ เพื่อแสดงความสุภาพ)",
+      "example": ""
+    },
+    {
+      "word": "サンドイッチ",
+      "translation": "แซนด์วิช",
+      "example": ""
+    },
+    {
+      "word": "ざんねん",
+      "translation": "น่าเสียดาย",
+      "example": ""
+    },
+    {
+      "word": "さんぽ",
+      "translation": "การเดินเล่น",
+      "example": ""
+    },
+    {
+      "word": "さんぽ（を）します",
+      "translation": "เดินเล่น",
+      "example": ""
+    },
+    {
+      "word": "字",
+      "translation": "じ: อักษร, ตัวอักษร",
+      "example": ""
+    },
+    {
+      "word": "試合",
+      "translation": "しあい: เกม, การแข่งขัน (กีฬา)",
+      "example": ""
+    },
+    {
+      "word": "しかし",
+      "translation": "อย่างไรก็ตาม, แต่",
+      "example": ""
+    },
+    {
+      "word": "時間",
+      "translation": "じかん: เวลา",
+      "example": ""
+    },
+    {
+      "word": "試験",
+      "translation": "しけん: การสอบ",
+      "example": ""
+    },
+    {
+      "word": "仕事",
+      "translation": "しごと: งาน",
+      "example": ""
+    },
+    {
+      "word": "辞書",
+      "translation": "じしょ: พจนานุกรม",
+      "example": ""
+    },
+    {
+      "word": "しずか",
+      "translation": "เงียบ, สงบ",
+      "example": ""
+    },
+    {
+      "word": "下",
+      "translation": "した: ข้างใต้, ข้างล่าง",
+      "example": ""
+    },
+    {
+      "word": "知っています",
+      "translation": "しっています: รู้, รู้จัก",
+      "example": ""
+    },
+    {
+      "word": "質問",
+      "translation": "しつもん: คำถาม",
+      "example": ""
+    },
+    {
+      "word": "自転車",
+      "translation": "じてんしゃ: จักรยาน",
+      "example": ""
+    },
+    {
+      "word": "しにます",
+      "translation": "ตาย",
+      "example": ""
+    },
+    {
+      "word": "します",
+      "translation": "ทำ",
+      "example": ""
+    },
+    {
+      "word": "じむ室",
+      "translation": "じむしつ: สำนักงาน, ออฟฟิศ",
+      "example": ""
+    },
+    {
+      "word": "じゃ（＝じゃあ）",
+      "translation": "งั้น, ถ้างั้น (รูปกันเองของ では)",
+      "example": ""
+    },
+    {
+      "word": "じゃあ（＝じゃ）",
+      "translation": "งั้น, ถ้างั้น (รูปกันเองของ では)",
+      "example": ""
+    },
+    {
+      "word": "写真",
+      "translation": "しゃしん: รูปถ่าย",
+      "example": ""
+    },
+    {
+      "word": "シャツ",
+      "translation": "เสื้อเชิ้ต",
+      "example": ""
+    },
+    {
+      "word": "シャワー",
+      "translation": "การอาบน้ำฝักบัว",
+      "example": ""
+    },
+    {
+      "word": "住所",
+      "translation": "じゅうしょ: ที่อยู่",
+      "example": ""
+    },
+    {
+      "word": "ジュース",
+      "translation": "น้ำผลไม้",
+      "example": ""
+    },
+    {
+      "word": "授業",
+      "translation": "じゅぎょう: ชั้นเรียน, คาบเรียน",
+      "example": ""
+    },
+    {
+      "word": "宿題",
+      "translation": "しゅくだい: การบ้าน",
+      "example": ""
+    },
+    {
+      "word": "宿題（を）します",
+      "translation": "しゅくだい（を）します: ทำการบ้าน",
+      "example": ""
+    },
+    {
+      "word": "しゅみ",
+      "translation": "งานอดิเรก",
+      "example": ""
+    },
+    {
+      "word": "しゅるい",
+      "translation": "ชนิด, ประเภท",
+      "example": ""
+    },
+    {
+      "word": "じゅんばん",
+      "translation": "ลำดับ (ตัวเลข, ตัวอักษร ฯลฯ)",
+      "example": ""
+    },
+    {
+      "word": "上手",
+      "translation": "じょうず: เก่ง",
+      "example": ""
+    },
+    {
+      "word": "じょうぶ",
+      "translation": "แข็งแรง, ทนทาน",
+      "example": ""
+    },
+    {
+      "word": "食事",
+      "translation": "しょくじ: การรับประทานอาหาร",
+      "example": ""
+    },
+    {
+      "word": "食事（を）します",
+      "translation": "しょくじ（を）します: รับประทานอาหาร",
+      "example": ""
+    },
+    {
+      "word": "食堂",
+      "translation": "しょくどう: โรงอาหาร",
+      "example": ""
+    },
+    {
+      "word": "しらべます",
+      "translation": "ตรวจสอบ",
+      "example": ""
+    },
+    {
+      "word": "資料",
+      "translation": "しりょう: เอกสาร, ข้อมูล",
+      "example": ""
+    },
+    {
+      "word": "白",
+      "translation": "しろ: สีขาว",
+      "example": ""
+    },
+    {
+      "word": "白い",
+      "translation": "しろい: (สี) ขาว",
+      "example": ""
+    },
+    {
+      "word": "しんかんせん",
+      "translation": "รถไฟชิงกันเซน",
+      "example": ""
+    },
+    {
+      "word": "親切",
+      "translation": "しんせつ: ใจดี",
+      "example": ""
+    },
+    {
+      "word": "心配",
+      "translation": "しんぱい: ความกังวล, ความเป็นห่วง",
+      "example": ""
+    },
+    {
+      "word": "心配します",
+      "translation": "しんぱいします: กังวล, ห่วง",
+      "example": ""
+    },
+    {
+      "word": "新聞",
+      "translation": "しんぶん: หนังสือพิมพ์",
+      "example": ""
+    },
+    {
+      "word": "水（＝水曜日）",
+      "translation": "すい（＝すいようび）: ตัวย่อของวันพุธ",
+      "example": ""
+    },
+    {
+      "word": "水泳",
+      "translation": "すいえい: การว่ายน้ำ",
+      "example": ""
+    },
+    {
+      "word": "（タバコを）すいます",
+      "translation": "สูบ (บุหรี่)",
+      "example": ""
+    },
+    {
+      "word": "水曜日",
+      "translation": "すいようび: วันพุธ",
+      "example": ""
+    },
+    {
+      "word": "スーツ",
+      "translation": "สูท",
+      "example": ""
+    },
+    {
+      "word": "スーパー",
+      "translation": "ซูเปอร์มาร์เกต",
+      "example": ""
+    },
+    {
+      "word": "好き",
+      "translation": "すき: ชอบ",
+      "example": ""
+    },
+    {
+      "word": "～すぎ",
+      "translation": "เลย, ผ่าน",
+      "example": ""
+    },
+    {
+      "word": "スキー",
+      "translation": "สกี",
+      "example": ""
+    },
+    {
+      "word": "好きなもの",
+      "translation": "すきなもの: ของที่ชอบ, ของโปรด",
+      "example": ""
+    },
+    {
+      "word": "（おなかが）すきます",
+      "translation": "หิว",
+      "example": ""
+    },
+    {
+      "word": "すぐ（＝すぐに）",
+      "translation": "ทันที",
+      "example": ""
+    },
+    {
+      "word": "すぐに（＝すぐ）",
+      "translation": "ทันที",
+      "example": ""
+    },
+    {
+      "word": "スケート",
+      "translation": "สเกต",
+      "example": ""
+    },
+    {
+      "word": "少し",
+      "translation": "すこし: นิดหน่อย, เล็กน้อย",
+      "example": ""
+    },
+    {
+      "word": "すずしい",
+      "translation": "(อากาศ) เย็น",
+      "example": ""
+    },
+    {
+      "word": "～ずつ",
+      "translation": "แต่ละ, ครั้งละ, อย่างละ",
+      "example": ""
+    },
+    {
+      "word": "ストーブ",
+      "translation": "เครื่องทำความร้อน, เตาผิง",
+      "example": ""
+    },
+    {
+      "word": "スプーン",
+      "translation": "ช้อน",
+      "example": ""
+    },
+    {
+      "word": "スポーツ",
+      "translation": "กีฬา",
+      "example": ""
+    },
+    {
+      "word": "ズボン",
+      "translation": "กางเกง",
+      "example": ""
+    },
+    {
+      "word": "住みます",
+      "translation": "すみます: อาศัย",
+      "example": ""
+    },
+    {
+      "word": "すわります",
+      "translation": "นั่ง",
+      "example": ""
+    },
+    {
+      "word": "せ",
+      "translation": "ส่วนสูง (ของคน)",
+      "example": ""
+    },
+    {
+      "word": "せいかつ",
+      "translation": "การใช้ชีวิต, วิถีชีวิต",
+      "example": ""
+    },
+    {
+      "word": "セーター",
+      "translation": "สเวตเตอร์",
+      "example": ""
+    },
+    {
+      "word": "ぜひ",
+      "translation": "อย่างแน่นอน",
+      "example": ""
+    },
+    {
+      "word": "せまい",
+      "translation": "แคบ",
+      "example": ""
+    },
+    {
+      "word": "先週",
+      "translation": "せんしゅう: สัปดาห์ที่แล้ว",
+      "example": ""
+    },
+    {
+      "word": "先生",
+      "translation": "せんせい: ครู, อาจารย์",
+      "example": ""
+    },
+    {
+      "word": "ぜんぜん～ない",
+      "translation": "ไม่...เลย",
+      "example": ""
+    },
+    {
+      "word": "洗たく（を）します",
+      "translation": "せんたく（を）します: ซักผ้า",
+      "example": ""
+    },
+    {
+      "word": "全部",
+      "translation": "ぜんぶ: ทั้งหมด, ทั้งสิ้น",
+      "example": ""
+    },
+    {
+      "word": "全部で",
+      "translation": "ぜんぶで: รวมทั้งหมด",
+      "example": ""
+    },
+    {
+      "word": "ゾウ",
+      "translation": "ช้าง",
+      "example": ""
+    },
+    {
+      "word": "そうじ",
+      "translation": "การทำความสะอาด",
+      "example": ""
+    },
+    {
+      "word": "そうじ（を）します",
+      "translation": "ทำความสะอาด",
+      "example": ""
+    },
+    {
+      "word": "そこ",
+      "translation": "ที่นั่น",
+      "example": ""
+    },
+    {
+      "word": "そして",
+      "translation": "และ, แล้วก็",
+      "example": ""
+    },
+    {
+      "word": "そちら",
+      "translation": "ทางคุณ (คู่สนทนา), ที่นั่น, ตรงนั้น (ที่ที่ผู้ฟังอยู่)",
+      "example": ""
+    },
+    {
+      "word": "そっち",
+      "translation": "ที่นั่น (รูปกันเองของ そちら)",
+      "example": ""
+    },
+    {
+      "word": "外",
+      "translation": "そと: ข้างนอก",
+      "example": ""
+    },
+    {
+      "word": "その",
+      "translation": "นั่น, นั้น (สรรพนามชี้ตำแหน่ง : ใกล้กับผู้ฟัง)",
+      "example": ""
+    },
+    {
+      "word": "そば",
+      "translation": "ใกล้",
+      "example": ""
+    },
+    {
+      "word": "祖父",
+      "translation": "そふ: ปู่, ตา (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "祖母",
+      "translation": "そぼ: ย่า, ยาย (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "空",
+      "translation": "そら: ท้องฟ้า",
+      "example": ""
+    },
+    {
+      "word": "それ",
+      "translation": "ที่นั่น, ตรงนั้น (สรรพนาม : ใกล้กับผู้ฟัง)",
+      "example": ""
+    },
+    {
+      "word": "それから",
+      "translation": "จากนั้น",
+      "example": ""
+    },
+    {
+      "word": "それでは",
+      "translation": "ถ้าอย่างนั้น",
+      "example": ""
+    },
+    {
+      "word": "大学",
+      "translation": "だいがく: มหาวิทยาลัย",
+      "example": ""
+    },
+    {
+      "word": "大学1年生",
+      "translation": "だいがくいちねんせい: นักศึกษา (มหาวิทยาลัย) ปี 1",
+      "example": ""
+    },
+    {
+      "word": "だいじょうぶ",
+      "translation": "ไม่มีปัญหา, ไม่เป็นไร",
+      "example": ""
+    },
+    {
+      "word": "大好き",
+      "translation": "だいすき: ชอบมาก",
+      "example": ""
+    },
+    {
+      "word": "大切",
+      "translation": "たいせつ: สำคัญ",
+      "example": ""
+    },
+    {
+      "word": "たいてい",
+      "translation": "ปกติ",
+      "example": ""
+    },
+    {
+      "word": "たいへん",
+      "translation": "อย่างมาก",
+      "example": ""
+    },
+    {
+      "word": "大変",
+      "translation": "たいへん: ลำบาก, ยากเย็น",
+      "example": ""
+    },
+    {
+      "word": "台湾",
+      "translation": "たいわん: ไต้หวัน",
+      "example": ""
+    },
+    {
+      "word": "（せが）高い",
+      "translation": "（せが）たかい: (ตัว) สูง",
+      "example": ""
+    },
+    {
+      "word": "（ねだんが）高い",
+      "translation": "（ねだんが）たかい: (ราคา) สูง, แพง",
+      "example": ""
+    },
+    {
+      "word": "たくさん",
+      "translation": "มาก, เยอะ",
+      "example": ""
+    },
+    {
+      "word": "タクシー",
+      "translation": "แท็กซี่",
+      "example": ""
+    },
+    {
+      "word": "～だけ",
+      "translation": "...เท่านั้น, เพียง..., แค่...",
+      "example": ""
+    },
+    {
+      "word": "（手紙を）出します",
+      "translation": "（てがみを）だします: ส่ง (จดหมาย)",
+      "example": ""
+    },
+    {
+      "word": "（レポートを）出します",
+      "translation": "（レポートを）だします: ส่ง (รายงาน)",
+      "example": ""
+    },
+    {
+      "word": "正しい",
+      "translation": "ただしい: ถูกต้อง",
+      "example": ""
+    },
+    {
+      "word": "～たち",
+      "translation": "คำเติมท้ายให้เป็นรูปพหูพจน์ (ใช้กับคน)",
+      "example": ""
+    },
+    {
+      "word": "立ちます",
+      "translation": "たちます: ยืน",
+      "example": ""
+    },
+    {
+      "word": "建物",
+      "translation": "たてもの: ตึก, อาคาร",
+      "example": ""
+    },
+    {
+      "word": "たな",
+      "translation": "ชั้นวางของ, หิ้ง",
+      "example": ""
+    },
+    {
+      "word": "楽しい",
+      "translation": "たのしい: สนุก",
+      "example": ""
+    },
+    {
+      "word": "楽しみ",
+      "translation": "たのしみ: ความสนุก",
+      "example": ""
+    },
+    {
+      "word": "たぶん",
+      "translation": "อาจจะ, บางที",
+      "example": ""
+    },
+    {
+      "word": "食べます",
+      "translation": "たべます: กิน",
+      "example": ""
+    },
+    {
+      "word": "食べ物",
+      "translation": "たべもの: อาหาร, ของกิน",
+      "example": ""
+    },
+    {
+      "word": "たまご",
+      "translation": "ไข่",
+      "example": ""
+    },
+    {
+      "word": "だめ",
+      "translation": "อย่า, ห้าม, ไม่ได้",
+      "example": ""
+    },
+    {
+      "word": "だれ",
+      "translation": "ใคร",
+      "example": ""
+    },
+    {
+      "word": "だれか",
+      "translation": "ใครสักคน",
+      "example": ""
+    },
+    {
+      "word": "だれとも",
+      "translation": "กับใครก็ตาม (ใช้กับคำกริยารูปปฏิเสธ)",
+      "example": ""
+    },
+    {
+      "word": "だれにも",
+      "translation": "ใครก็ตาม (ใช้กับคำกริยารูปปฏิเสธ)",
+      "example": ""
+    },
+    {
+      "word": "だれも",
+      "translation": "ใครก็ตาม (ใช้กับคำกริยารูปปฏิเสธ)",
+      "example": ""
+    },
+    {
+      "word": "たんじょう日",
+      "translation": "たんじょうび: วันเกิด",
+      "example": ""
+    },
+    {
+      "word": "ダンス",
+      "translation": "การเต้น",
+      "example": ""
+    },
+    {
+      "word": "小さい",
+      "translation": "ちいさい: เล็ก",
+      "example": ""
+    },
+    {
+      "word": "チェックインします",
+      "translation": "เช็กอิน",
+      "example": ""
+    },
+    {
+      "word": "近い",
+      "translation": "ちかい: ใกล้",
+      "example": ""
+    },
+    {
+      "word": "ちがいます",
+      "translation": "แตกต่าง, ผิด",
+      "example": ""
+    },
+    {
+      "word": "近く",
+      "translation": "ちかく: ความใกล้เคียง",
+      "example": ""
+    },
+    {
+      "word": "地下鉄",
+      "translation": "ちかてつ: รถไฟใต้ดิน",
+      "example": ""
+    },
+    {
+      "word": "チケット",
+      "translation": "ตั๋ว",
+      "example": ""
+    },
+    {
+      "word": "父",
+      "translation": "ちち: พ่อ (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "中国語",
+      "translation": "ちゅうごくご: ภาษาจีน",
+      "example": ""
+    },
+    {
+      "word": "中国人",
+      "translation": "ちゅうごくじん: ชาวจีน",
+      "example": ""
+    },
+    {
+      "word": "注文します",
+      "translation": "ちゅうもんします: สั่ง (อาหาร, ของทางออนไลน์ ฯลฯ)",
+      "example": ""
+    },
+    {
+      "word": "ちょうど",
+      "translation": "พอดี",
+      "example": ""
+    },
+    {
+      "word": "ちょっと",
+      "translation": "เล็กน้อย, หน่อย, นิดหนึ่ง (รูปกันเองของ 少し)",
+      "example": ""
+    },
+    {
+      "word": "使います",
+      "translation": "つかいます: ใช้",
+      "example": ""
+    },
+    {
+      "word": "つかれます",
+      "translation": "เหนื่อย",
+      "example": ""
+    },
+    {
+      "word": "着きます",
+      "translation": "つきます: มาถึง",
+      "example": ""
+    },
+    {
+      "word": "つくえ",
+      "translation": "โต๊ะ",
+      "example": ""
+    },
+    {
+      "word": "作ります",
+      "translation": "つくります: ทำ, สร้าง",
+      "example": ""
+    },
+    {
+      "word": "（ストーブを）つけます",
+      "translation": "เปิด (เครื่องทำความร้อน)",
+      "example": ""
+    },
+    {
+      "word": "妻",
+      "translation": "つま: ภรรยา (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "（飲み物が）つめたい",
+      "translation": "（のみものが）つめたい: (เครื่องดื่ม) เย็น",
+      "example": ""
+    },
+    {
+      "word": "手",
+      "translation": "て: มือ",
+      "example": ""
+    },
+    {
+      "word": "Tシャツ",
+      "translation": "ティーシャツ: เสื้อยืด",
+      "example": ""
+    },
+    {
+      "word": "ディズニーランド",
+      "translation": "ดิสนีย์แลนด์",
+      "example": ""
+    },
+    {
+      "word": "テーブル",
+      "translation": "โต๊ะ",
+      "example": ""
+    },
+    {
+      "word": "出かけます",
+      "translation": "でかけます: ออกไปข้างนอก",
+      "example": ""
+    },
+    {
+      "word": "手紙",
+      "translation": "てがみ: จดหมาย",
+      "example": ""
+    },
+    {
+      "word": "できます",
+      "translation": "สามารถ",
+      "example": ""
+    },
+    {
+      "word": "（地下鉄が）できます",
+      "translation": "（ちかてつが）できます: (รถไฟใต้ดิน) เสร็จเรียบร้อย",
+      "example": ""
+    },
+    {
+      "word": "テスト",
+      "translation": "การสอบ, การทดสอบ",
+      "example": ""
+    },
+    {
+      "word": "手伝います",
+      "translation": "てつだいます: ช่วย",
+      "example": ""
+    },
+    {
+      "word": "テニス",
+      "translation": "เทนนิส",
+      "example": ""
+    },
+    {
+      "word": "では（＝それでは）",
+      "translation": "ถ้าอย่างนั้น",
+      "example": ""
+    },
+    {
+      "word": "デパート",
+      "translation": "ห้างสรรพสินค้า",
+      "example": ""
+    },
+    {
+      "word": "（家を）出ます",
+      "translation": "（いえを）でます: ออกจาก (บ้าน)",
+      "example": ""
+    },
+    {
+      "word": "（会議に／パーティーに）出ます",
+      "translation": "（かいぎに／パーティーに）でます: เข้าร่วม (ประชุม, ปาร์ตี้ ฯลฯ)",
+      "example": ""
+    },
+    {
+      "word": "（大学を）出ます",
+      "translation": "（だいがくを）でます: จบการศึกษา (จากมหาวิทยาลัย)",
+      "example": ""
+    },
+    {
+      "word": "でも",
+      "translation": "แต่",
+      "example": ""
+    },
+    {
+      "word": "テレビ",
+      "translation": "โทรทัศน์",
+      "example": ""
+    },
+    {
+      "word": "天気",
+      "translation": "てんき: อากาศ",
+      "example": ""
+    },
+    {
+      "word": "天気の日",
+      "translation": "てんきのひ: วันที่อากาศแจ่มใส",
+      "example": ""
+    },
+    {
+      "word": "電子辞書",
+      "translation": "でんしじしょ: พจนานุกรมอิเล็กทรอนิกส์",
+      "example": ""
+    },
+    {
+      "word": "てんらん会",
+      "translation": "てんらんかい: นิทรรศการ",
+      "example": ""
+    },
+    {
+      "word": "電話",
+      "translation": "でんわ: โทรศัพท์",
+      "example": ""
+    },
+    {
+      "word": "電話（を）します",
+      "translation": "でんわ（を）します: โทร, โทรศัพท์",
+      "example": ""
+    },
+    {
+      "word": "土（＝土曜日）",
+      "translation": "ど（＝どようび）: ตัวย่อของวันเสาร์",
+      "example": ""
+    },
+    {
+      "word": "ドア",
+      "translation": "ประตู",
+      "example": ""
+    },
+    {
+      "word": "どう",
+      "translation": "(ทำ) อย่างไร",
+      "example": ""
+    },
+    {
+      "word": "どうして",
+      "translation": "ทำไม",
+      "example": ""
+    },
+    {
+      "word": "動物",
+      "translation": "どうぶつ: สัตว์",
+      "example": ""
+    },
+    {
+      "word": "動物園",
+      "translation": "どうぶつえん: สวนสัตว์",
+      "example": ""
+    },
+    {
+      "word": "どうやって",
+      "translation": "ทำอย่างไร",
+      "example": ""
+    },
+    {
+      "word": "ときどき",
+      "translation": "บางครั้ง",
+      "example": ""
+    },
+    {
+      "word": "時計",
+      "translation": "とけい: นาฬิกา",
+      "example": ""
+    },
+    {
+      "word": "どこ",
+      "translation": "ที่ไหน",
+      "example": ""
+    },
+    {
+      "word": "どこ(へ)も",
+      "translation": "ที่ไหนก็ตาม (ใช้กับคำกริยารูปปฏิเสธ)",
+      "example": ""
+    },
+    {
+      "word": "どこか",
+      "translation": "ที่ไหนสักแห่ง",
+      "example": ""
+    },
+    {
+      "word": "ところ",
+      "translation": "สถานที่",
+      "example": ""
+    },
+    {
+      "word": "図書館",
+      "translation": "としょかん: ห้องสมุด, หอสมุด",
+      "example": ""
+    },
+    {
+      "word": "図書室",
+      "translation": "としょしつ: ห้องอ่านหนังสือ, ห้องสมุด",
+      "example": ""
+    },
+    {
+      "word": "どちら",
+      "translation": "อันไหน, สิ่งไหน",
+      "example": ""
+    },
+    {
+      "word": "どっち",
+      "translation": "อันไหน, สิ่งไหน (รูปกันเองของ どちら)",
+      "example": ""
+    },
+    {
+      "word": "とても",
+      "translation": "มาก",
+      "example": ""
+    },
+    {
+      "word": "とどきます",
+      "translation": "ถึง, ส่งถึง",
+      "example": ""
+    },
+    {
+      "word": "どなた",
+      "translation": "ใคร (รูปสุภาพของ だれ)",
+      "example": ""
+    },
+    {
+      "word": "となり",
+      "translation": "ข้าง ๆ",
+      "example": ""
+    },
+    {
+      "word": "どの～",
+      "translation": "...ไหน",
+      "example": ""
+    },
+    {
+      "word": "どのくらい（＝どれくらい）",
+      "translation": "(จำนวน) เท่าไร",
+      "example": ""
+    },
+    {
+      "word": "友だち",
+      "translation": "ともだち: เพื่อน",
+      "example": ""
+    },
+    {
+      "word": "土曜日",
+      "translation": "どようび: วันเสาร์",
+      "example": ""
+    },
+    {
+      "word": "鳥",
+      "translation": "とり: นก",
+      "example": ""
+    },
+    {
+      "word": "（写真を）とります",
+      "translation": "（しゃしんを）とります: ถ่าย (รูป)",
+      "example": ""
+    },
+    {
+      "word": "（物を）とります",
+      "translation": "（ものを）とります: หยิบ (สิ่งของ)",
+      "example": ""
+    },
+    {
+      "word": "どれ",
+      "translation": "สิ่งไหน",
+      "example": ""
+    },
+    {
+      "word": "どれか",
+      "translation": "สิ่งไหนบ้าง",
+      "example": ""
+    },
+    {
+      "word": "どれくらい（＝どのくらい）",
+      "translation": "(จำนวน) เท่าไร",
+      "example": ""
+    },
+    {
+      "word": "どれでも",
+      "translation": "สิ่งไหนก็ตาม",
+      "example": ""
+    },
+    {
+      "word": "どんな",
+      "translation": "อย่างไร, แบบไหน",
+      "example": ""
+    },
+    {
+      "word": "（お金が）ない",
+      "translation": "（おかねが）ない: ไม่มี (เงิน)",
+      "example": ""
+    },
+    {
+      "word": "ナイフ",
+      "translation": "มีด",
+      "example": ""
+    },
+    {
+      "word": "（病気が）なおります",
+      "translation": "（びょうきが）なおります: หาย (เจ็บป่วย)",
+      "example": ""
+    },
+    {
+      "word": "（建物の）中",
+      "translation": "（たてものの）なか: ข้างใน (อาคาร)",
+      "example": ""
+    },
+    {
+      "word": "中",
+      "translation": "なか: ในบรรดา",
+      "example": ""
+    },
+    {
+      "word": "長い",
+      "translation": "ながい: ยาว",
+      "example": ""
+    },
+    {
+      "word": "（物が）なくなります",
+      "translation": "（ものが）なくなります: (ของ) หาย",
+      "example": ""
+    },
+    {
+      "word": "なぜ（＝どうして）",
+      "translation": "ทำไม",
+      "example": ""
+    },
+    {
+      "word": "夏休み",
+      "translation": "なつやすみ: วันหยุดฤดูร้อน",
+      "example": ""
+    },
+    {
+      "word": "～など",
+      "translation": "...เป็นต้น",
+      "example": ""
+    },
+    {
+      "word": "何",
+      "translation": "なに: อะไร",
+      "example": ""
+    },
+    {
+      "word": "何か",
+      "translation": "なにか: อะไรบางอย่าง, บางสิ่งบางอย่าง",
+      "example": ""
+    },
+    {
+      "word": "何も",
+      "translation": "なにも: อะไรก็ตาม",
+      "example": ""
+    },
+    {
+      "word": "名前",
+      "translation": "なまえ: ชื่อ",
+      "example": ""
+    },
+    {
+      "word": "ならいます",
+      "translation": "เรียนรู้",
+      "example": ""
+    },
+    {
+      "word": "何時",
+      "translation": "なんじ: กี่โมง",
+      "example": ""
+    },
+    {
+      "word": "なんで（＝どうして）",
+      "translation": "อย่างไร",
+      "example": ""
+    },
+    {
+      "word": "なんでも",
+      "translation": "ไม่ว่าอะไรก็ตาม",
+      "example": ""
+    },
+    {
+      "word": "にぎやか",
+      "translation": "จอแจ, ครึกครื้น",
+      "example": ""
+    },
+    {
+      "word": "西",
+      "translation": "にし: ทิศตะวันตก",
+      "example": ""
+    },
+    {
+      "word": "日（＝日曜日）",
+      "translation": "にち（＝にちようび）: ตัวย่อของวันอาทิตย์",
+      "example": ""
+    },
+    {
+      "word": "日曜日",
+      "translation": "にちようび: วันอาทิตย์",
+      "example": ""
+    },
+    {
+      "word": "日本",
+      "translation": "にほん: ประเทศญี่ปุ่น",
+      "example": ""
+    },
+    {
+      "word": "日本語",
+      "translation": "にほんご: ภาษาญี่ปุ่น",
+      "example": ""
+    },
+    {
+      "word": "日本語学校",
+      "translation": "にほんごがっこう: โรงเรียนสอนภาษาญี่ปุ่น",
+      "example": ""
+    },
+    {
+      "word": "日本人",
+      "translation": "にほんじん: ชาวญี่ปุ่น",
+      "example": ""
+    },
+    {
+      "word": "日本料理",
+      "translation": "にほんりょうり: อาหารญี่ปุ่น",
+      "example": ""
+    },
+    {
+      "word": "荷物",
+      "translation": "にもつ: สัมภาระ, ข้าวของ",
+      "example": ""
+    },
+    {
+      "word": "ニューヨーク",
+      "translation": "นิวยอร์ก",
+      "example": ""
+    },
+    {
+      "word": "にわ",
+      "translation": "สวน",
+      "example": ""
+    },
+    {
+      "word": "ぬぎます",
+      "translation": "ถอด (เสื้อผ้า)",
+      "example": ""
+    },
+    {
+      "word": "ねこ",
+      "translation": "แมว",
+      "example": ""
+    },
+    {
+      "word": "ねます",
+      "translation": "นอน",
+      "example": ""
+    },
+    {
+      "word": "ノート",
+      "translation": "สมุดโน้ต",
+      "example": ""
+    },
+    {
+      "word": "（山に）のぼります",
+      "translation": "（やまに）のぼります: ปีน (ภูเขา)",
+      "example": ""
+    },
+    {
+      "word": "飲みます",
+      "translation": "のみます: ดื่ม",
+      "example": ""
+    },
+    {
+      "word": "飲み物",
+      "translation": "のみもの: เครื่องดื่ม",
+      "example": ""
+    },
+    {
+      "word": "乗ります",
+      "translation": "のります: ขึ้น (ยานพาหนะ), โดยสาร",
+      "example": ""
+    },
+    {
+      "word": "は",
+      "translation": "ฟัน",
+      "example": ""
+    },
+    {
+      "word": "パーティー",
+      "translation": "ปาร์ตี้, งานเลี้ยง",
+      "example": ""
+    },
+    {
+      "word": "はい",
+      "translation": "ใช่, ค่ะ/ครับ",
+      "example": ""
+    },
+    {
+      "word": "バイト（＝アルバイト）",
+      "translation": "งานพาร์ตไทม์, งานพิเศษ",
+      "example": ""
+    },
+    {
+      "word": "（おふろに）入ります",
+      "translation": "（おふろに）はいります: แช่ (อ่างอาบน้ำ)",
+      "example": ""
+    },
+    {
+      "word": "（部屋に）入ります",
+      "translation": "（へやに）はいります: เข้า (ห้อง)",
+      "example": ""
+    },
+    {
+      "word": "（くつ／ズボンを）はきます",
+      "translation": "ใส่ (รองเท้า, กางเกง)",
+      "example": ""
+    },
+    {
+      "word": "はこ",
+      "translation": "กล่อง",
+      "example": ""
+    },
+    {
+      "word": "はさみ",
+      "translation": "กรรไกร",
+      "example": ""
+    },
+    {
+      "word": "始まります",
+      "translation": "はじまります: เริ่มต้น",
+      "example": ""
+    },
+    {
+      "word": "はじめて",
+      "translation": "ครั้งแรก",
+      "example": ""
+    },
+    {
+      "word": "はじめに",
+      "translation": "คำนำ (หนังสือ), ก่อนอื่น",
+      "example": ""
+    },
+    {
+      "word": "場所",
+      "translation": "ばしょ: สถานที่",
+      "example": ""
+    },
+    {
+      "word": "走ります",
+      "translation": "はしります: วิ่ง",
+      "example": ""
+    },
+    {
+      "word": "バス",
+      "translation": "รถประจำทาง",
+      "example": ""
+    },
+    {
+      "word": "パスタ",
+      "translation": "พาสต้า",
+      "example": ""
+    },
+    {
+      "word": "パソコン",
+      "translation": "คอมพิวเตอร์",
+      "example": ""
+    },
+    {
+      "word": "働きます",
+      "translation": "はたらきます: ทำงาน",
+      "example": ""
+    },
+    {
+      "word": "花",
+      "translation": "はな: ดอกไม้",
+      "example": ""
+    },
+    {
+      "word": "はな",
+      "translation": "จมูก",
+      "example": ""
+    },
+    {
+      "word": "話",
+      "translation": "はなし: เรื่องเล่า, คำพูด",
+      "example": ""
+    },
+    {
+      "word": "話します",
+      "translation": "はなします: พูด, เล่า",
+      "example": ""
+    },
+    {
+      "word": "花屋",
+      "translation": "はなや: ร้านดอกไม้",
+      "example": ""
+    },
+    {
+      "word": "母",
+      "translation": "はは: แม่ (ของตน)",
+      "example": ""
+    },
+    {
+      "word": "早い",
+      "translation": "はやい: เช้า, เร็ว",
+      "example": ""
+    },
+    {
+      "word": "速い",
+      "translation": "はやい: เร็ว",
+      "example": ""
+    },
+    {
+      "word": "（お金を）はらいます",
+      "translation": "（おかねを）はらいます: จ่าย (เงิน)",
+      "example": ""
+    },
+    {
+      "word": "（写真を）はります",
+      "translation": "（しゃしんを）はります: ติด (รูป)",
+      "example": ""
+    },
+    {
+      "word": "春",
+      "translation": "はる: ฤดูใบไม้ผลิ",
+      "example": ""
+    },
+    {
+      "word": "晩",
+      "translation": "ばん: กลางคืน",
+      "example": ""
+    },
+    {
+      "word": "パン",
+      "translation": "ขนมปัง",
+      "example": ""
+    },
+    {
+      "word": "半（＝30分）",
+      "translation": "はん（＝さんじゅっぷん）: ครึ่งชั่วโมง, 30 นาที",
+      "example": ""
+    },
+    {
+      "word": "ハンカチ",
+      "translation": "ผ้าเช็ดหน้า",
+      "example": ""
+    },
+    {
+      "word": "晩ご飯",
+      "translation": "ばんごはん: อาหารเย็น",
+      "example": ""
+    },
+    {
+      "word": "パンダ",
+      "translation": "แพนด้า",
+      "example": ""
+    },
+    {
+      "word": "パン屋",
+      "translation": "パンや: ร้านขนมปัง",
+      "example": ""
+    },
+    {
+      "word": "ピアノ",
+      "translation": "เปียโน",
+      "example": ""
+    },
+    {
+      "word": "ビール",
+      "translation": "เบียร์",
+      "example": ""
+    },
+    {
+      "word": "東",
+      "translation": "ひがし: ทิศตะวันออก",
+      "example": ""
+    },
+    {
+      "word": "（ギター／ピアノを）ひきます",
+      "translation": "ดีด (กีตาร์ เปียโน หรือเครื่องดนตรีประเภทดีดอื่น ๆ)",
+      "example": ""
+    },
+    {
+      "word": "飛行機",
+      "translation": "ひこうき: เครื่องบิน",
+      "example": ""
+    },
+    {
+      "word": "びじゅつ館",
+      "translation": "びじゅつかん: หอศิลป์",
+      "example": ""
+    },
+    {
+      "word": "左",
+      "translation": "ひだり: ซ้าย",
+      "example": ""
+    },
+    {
+      "word": "左がわ",
+      "translation": "ひだりがわ: ทางซ้าย",
+      "example": ""
+    },
+    {
+      "word": "人",
+      "translation": "ひと: คน",
+      "example": ""
+    },
+    {
+      "word": "ひま",
+      "translation": "(เวลา) ว่าง",
+      "example": ""
+    },
+    {
+      "word": "病院",
+      "translation": "びょういん: โรงพยาบาล",
+      "example": ""
+    },
+    {
+      "word": "病気",
+      "translation": "びょうき: โรคภัยไข้เจ็บ, การเจ็บป่วย",
+      "example": ""
+    },
+    {
+      "word": "昼",
+      "translation": "ひる: กลางวัน, เที่ยงวัน",
+      "example": ""
+    },
+    {
+      "word": "ビル",
+      "translation": "ตึก, อาคาร",
+      "example": ""
+    },
+    {
+      "word": "昼ご飯",
+      "translation": "ひるごはん: อาหารกลางวัน",
+      "example": ""
+    },
+    {
+      "word": "昼休み",
+      "translation": "ひるやすみ: พักกลางวัน",
+      "example": ""
+    },
+    {
+      "word": "広い",
+      "translation": "ひろい: กว้าง",
+      "example": ""
+    },
+    {
+      "word": "プール",
+      "translation": "สระ",
+      "example": ""
+    },
+    {
+      "word": "ふくろ",
+      "translation": "ถุง",
+      "example": ""
+    },
+    {
+      "word": "富士山",
+      "translation": "ふじさん: ภูเขาฟูจิ",
+      "example": ""
+    },
+    {
+      "word": "ふね",
+      "translation": "เรือ",
+      "example": ""
+    },
+    {
+      "word": "ふみます",
+      "translation": "เหยียบ",
+      "example": ""
+    },
+    {
+      "word": "冬",
+      "translation": "ふゆ: ฤดูหนาว",
+      "example": ""
+    },
+    {
+      "word": "冬休み",
+      "translation": "ふゆやすみ: วันหยุดฤดูหนาว",
+      "example": ""
+    },
+    {
+      "word": "（雨が）降ります",
+      "translation": "（あめが）ふります: (ฝน) ตก",
+      "example": ""
+    },
+    {
+      "word": "古い",
+      "translation": "ふるい: เก่า",
+      "example": ""
+    },
+    {
+      "word": "プレゼント",
+      "translation": "ของขวัญ",
+      "example": ""
+    },
+    {
+      "word": "北京",
+      "translation": "ペキン: ปักกิ่ง",
+      "example": ""
+    },
+    {
+      "word": "へた",
+      "translation": "ไม่เก่ง",
+      "example": ""
+    },
+    {
+      "word": "ベトナム",
+      "translation": "ประเทศเวียดนาม",
+      "example": ""
+    },
+    {
+      "word": "部屋",
+      "translation": "へや: ห้อง",
+      "example": ""
+    },
+    {
+      "word": "変",
+      "translation": "へん: แปลก",
+      "example": ""
+    },
+    {
+      "word": "ペン",
+      "translation": "ปากกา",
+      "example": ""
+    },
+    {
+      "word": "勉強",
+      "translation": "べんきょう: การเรียน",
+      "example": ""
+    },
+    {
+      "word": "勉強（を）します",
+      "translation": "べんきょう（を）します: เรียน",
+      "example": ""
+    },
+    {
+      "word": "便利",
+      "translation": "べんり: สะดวก",
+      "example": ""
+    },
+    {
+      "word": "ぼうし",
+      "translation": "หมวก",
+      "example": ""
+    },
+    {
+      "word": "ボールペン",
+      "translation": "ปากกาลูกลื่น",
+      "example": ""
+    },
+    {
+      "word": "ほか",
+      "translation": "(สิ่ง) อื่น",
+      "example": ""
+    },
+    {
+      "word": "ほかの人",
+      "translation": "ほかのひと: คนอื่น",
+      "example": ""
+    },
+    {
+      "word": "ぼく",
+      "translation": "ผม (รูปกันเองของ 私 ผู้ชายใช้)",
+      "example": ""
+    },
+    {
+      "word": "ホテル",
+      "translation": "โรงแรม",
+      "example": ""
+    },
+    {
+      "word": "本",
+      "translation": "ほん: หนังสือ",
+      "example": ""
+    },
+    {
+      "word": "本当",
+      "translation": "ほんとう: จริง",
+      "example": ""
+    },
+    {
+      "word": "本当に",
+      "translation": "ほんとうに: อย่างแท้จริง, จริง ๆ",
+      "example": ""
+    },
+    {
+      "word": "毎朝",
+      "translation": "まいあさ: ทุกเช้า",
+      "example": ""
+    },
+    {
+      "word": "毎週",
+      "translation": "まいしゅう: ทุกสัปดาห์",
+      "example": ""
+    },
+    {
+      "word": "毎日",
+      "translation": "まいにち: ทุกวัน",
+      "example": ""
+    },
+    {
+      "word": "毎晩",
+      "translation": "まいばん: ทุกคืน",
+      "example": ""
+    },
+    {
+      "word": "前",
+      "translation": "まえ: ข้างหน้า",
+      "example": ""
+    },
+    {
+      "word": "～前",
+      "translation": "～まえ: ก่อน...",
+      "example": ""
+    },
+    {
+      "word": "また",
+      "translation": "อีกครั้ง",
+      "example": ""
+    },
+    {
+      "word": "町",
+      "translation": "まち: เมือง",
+      "example": ""
+    },
+    {
+      "word": "まちがえます",
+      "translation": "ทำผิด",
+      "example": ""
+    },
+    {
+      "word": "待ちます",
+      "translation": "まちます: รอ",
+      "example": ""
+    },
+    {
+      "word": "まっすぐ",
+      "translation": "ตรงไป",
+      "example": ""
+    },
+    {
+      "word": "～まで",
+      "translation": "จนกระทั่ง...",
+      "example": ""
+    },
+    {
+      "word": "マレーシア",
+      "translation": "ประเทศมาเลเซีย",
+      "example": ""
+    },
+    {
+      "word": "まんが",
+      "translation": "หนังสือการ์ตูน (ญี่ปุ่น)",
+      "example": ""
+    },
+    {
+      "word": "（はを）みがきます",
+      "translation": "แปรง (ฟัน), ขัด, ถู",
+      "example": ""
+    },
+    {
+      "word": "右",
+      "translation": "みぎ: ขวา",
+      "example": ""
+    },
+    {
+      "word": "右がわ",
+      "translation": "みぎがわ: ทางขวา",
+      "example": ""
+    },
+    {
+      "word": "みじかい",
+      "translation": "สั้น",
+      "example": ""
+    },
+    {
+      "word": "水",
+      "translation": "みず: น้ำ",
+      "example": ""
+    },
+    {
+      "word": "店",
+      "translation": "みせ: ร้านค้า",
+      "example": ""
+    },
+    {
+      "word": "見せます",
+      "translation": "みせます: ให้ดู, แสดง",
+      "example": ""
+    },
+    {
+      "word": "道",
+      "translation": "みち: ถนน",
+      "example": ""
+    },
+    {
+      "word": "みなさん",
+      "translation": "ทุกท่าน (ใช้เรียกกลุ่มคน)",
+      "example": ""
+    },
+    {
+      "word": "南",
+      "translation": "みなみ: ทิศใต้",
+      "example": ""
+    },
+    {
+      "word": "見ます",
+      "translation": "みます: ดู, มอง",
+      "example": ""
+    },
+    {
+      "word": "耳",
+      "translation": "みみ: หู",
+      "example": ""
+    },
+    {
+      "word": "みんな",
+      "translation": "ทุกคน",
+      "example": ""
+    },
+    {
+      "word": "向こう",
+      "translation": "むこう: อีกฟาก, ฝั่งตรงข้าม",
+      "example": ""
+    },
+    {
+      "word": "むずかしい",
+      "translation": "ยาก",
+      "example": ""
+    },
+    {
+      "word": "目",
+      "translation": "め: ดวงตา",
+      "example": ""
+    },
+    {
+      "word": "メール",
+      "translation": "เมล, อีเมล",
+      "example": ""
+    },
+    {
+      "word": "めがね",
+      "translation": "แว่นตา",
+      "example": ""
+    },
+    {
+      "word": "メロン",
+      "translation": "เมล่อน",
+      "example": ""
+    },
+    {
+      "word": "もういちど",
+      "translation": "อีกครั้ง",
+      "example": ""
+    },
+    {
+      "word": "もう少し",
+      "translation": "もうすこし: อีกนิดหน่อย",
+      "example": ""
+    },
+    {
+      "word": "木（＝木曜日）",
+      "translation": "もく（＝もくようび）: ตัวย่อของวันพฤหัสบดี",
+      "example": ""
+    },
+    {
+      "word": "木曜日",
+      "translation": "もくようび: วันพฤหัสบดี",
+      "example": ""
+    },
+    {
+      "word": "もしもし",
+      "translation": "ฮัลโหล (คำทักทายทางโทรศัพท์)",
+      "example": ""
+    },
+    {
+      "word": "持ちます",
+      "translation": "もちます: ถือ",
+      "example": ""
+    },
+    {
+      "word": "持っていきます",
+      "translation": "もっていきます: ถือไป",
+      "example": ""
+    },
+    {
+      "word": "持ってきます",
+      "translation": "もってきます: ถือมา",
+      "example": ""
+    },
+    {
+      "word": "もっと",
+      "translation": "อีก",
+      "example": ""
+    },
+    {
+      "word": "物",
+      "translation": "もの: สิ่งของ",
+      "example": ""
+    },
+    {
+      "word": "もらいます",
+      "translation": "ได้รับ",
+      "example": ""
+    },
+    {
+      "word": "八百屋",
+      "translation": "やおや: ร้านขายผัก",
+      "example": ""
+    },
+    {
+      "word": "野球",
+      "translation": "やきゅう: เบสบอล",
+      "example": ""
+    },
+    {
+      "word": "野菜",
+      "translation": "やさい: ผัก",
+      "example": ""
+    },
+    {
+      "word": "安い",
+      "translation": "やすい: (ราคา) ถูก",
+      "example": ""
+    },
+    {
+      "word": "休みます",
+      "translation": "やすみます: พักผ่อน, หยุดพัก",
+      "example": ""
+    },
+    {
+      "word": "山",
+      "translation": "やま: ภูเขา",
+      "example": ""
+    },
+    {
+      "word": "（映画を）やります",
+      "translation": "（えいがを）やります: ฉาย (ภาพยนตร์)",
+      "example": ""
+    },
+    {
+      "word": "（宿題／ゲームを）やります",
+      "translation": "（しゅくだい／ゲームを）やります: ทำ (การบ้าน), เล่น (เกม)",
+      "example": ""
+    },
+    {
+      "word": "夕方",
+      "translation": "ゆうがた: ตอนเย็น",
+      "example": ""
+    },
+    {
+      "word": "ゆうびんきょく",
+      "translation": "ที่ทำการไปรษณีย์",
+      "example": ""
+    },
+    {
+      "word": "有名",
+      "translation": "ゆうめい: มีชื่อเสียง",
+      "example": ""
+    },
+    {
+      "word": "雪",
+      "translation": "ゆき: หิมะ",
+      "example": ""
+    },
+    {
+      "word": "ゆっくり",
+      "translation": "ค่อย ๆ, ช้า ๆ",
+      "example": ""
+    },
+    {
+      "word": "洋服",
+      "translation": "ようふく: เสื้อผ้า (มักเป็นแบบสากล)",
+      "example": ""
+    },
+    {
+      "word": "よく",
+      "translation": "ดี, บ่อย",
+      "example": ""
+    },
+    {
+      "word": "よてい",
+      "translation": "แผนการ, กำหนดการ",
+      "example": ""
+    },
+    {
+      "word": "よびます",
+      "translation": "เรียก",
+      "example": ""
+    },
+    {
+      "word": "読みます",
+      "translation": "よみます: อ่าน",
+      "example": ""
+    },
+    {
+      "word": "よやくします",
+      "translation": "นัดหมาย, จอง",
+      "example": ""
+    },
+    {
+      "word": "夜",
+      "translation": "よる: กลางคืน",
+      "example": ""
+    },
+    {
+      "word": "ラーメン",
+      "translation": "ราเมน",
+      "example": ""
+    },
+    {
+      "word": "来月",
+      "translation": "らいげつ: เดือนหน้า",
+      "example": ""
+    },
+    {
+      "word": "来週",
+      "translation": "らいしゅう: สัปดาห์หน้า",
+      "example": ""
+    },
+    {
+      "word": "来年",
+      "translation": "らいねん: ปีหน้า",
+      "example": ""
+    },
+    {
+      "word": "りょう",
+      "translation": "หอพัก",
+      "example": ""
+    },
+    {
+      "word": "両親",
+      "translation": "りょうしん: พ่อแม่",
+      "example": ""
+    },
+    {
+      "word": "料理",
+      "translation": "りょうり: อาหาร",
+      "example": ""
+    },
+    {
+      "word": "料理（を）します",
+      "translation": "りょうり（を）します: ทำอาหาร",
+      "example": ""
+    },
+    {
+      "word": "旅行",
+      "translation": "りょこう: การท่องเที่ยว",
+      "example": ""
+    },
+    {
+      "word": "旅行（を）します",
+      "translation": "りょこう（を）します: เดินทางท่องเที่ยว",
+      "example": ""
+    },
+    {
+      "word": "リンゴ",
+      "translation": "แอปเปิล",
+      "example": ""
+    },
+    {
+      "word": "れいぞうこ",
+      "translation": "ตู้เย็น",
+      "example": ""
+    },
+    {
+      "word": "レジ",
+      "translation": "เครื่องคิดเงิน",
+      "example": ""
+    },
+    {
+      "word": "レストラン",
+      "translation": "ภัตตาคาร",
+      "example": ""
+    },
+    {
+      "word": "レポート",
+      "translation": "รายงาน",
+      "example": ""
+    },
+    {
+      "word": "練習（を）します",
+      "translation": "れんしゅう（を）します: ฝึกฝน",
+      "example": ""
+    },
+    {
+      "word": "ロビー",
+      "translation": "ล็อบบี้",
+      "example": ""
+    },
+    {
+      "word": "ワイン",
+      "translation": "ไวน์",
+      "example": ""
+    },
+    {
+      "word": "わかります",
+      "translation": "เข้าใจ, รู้",
+      "example": ""
+    },
+    {
+      "word": "わさび",
+      "translation": "วาซาบิ",
+      "example": ""
+    },
+    {
+      "word": "わすれます",
+      "translation": "ลืม",
+      "example": ""
+    },
+    {
+      "word": "私",
+      "translation": "わたし: ฉัน",
+      "example": ""
+    }
+  ]
+}
