@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "ja",
   "level": "C1",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "abolish",
@@ -47,21 +47,6 @@
       "example": "The plan accelerated after the vote."
     },
     {
-      "word": "acceptance",
-      "translation": "受け入れ",
-      "example": "Acceptance of the offer took a week."
-    },
-    {
-      "word": "accessible",
-      "translation": "利用しやすい",
-      "example": "The path is accessible by wheelchair."
-    },
-    {
-      "word": "accomplishment",
-      "translation": "業績",
-      "example": "Finishing the map was a real accomplishment."
-    },
-    {
       "word": "accordance",
       "translation": "一致",
       "example": "We acted in accordance with the rules."
@@ -77,34 +62,14 @@
       "example": "The reform is about accountability."
     },
     {
-      "word": "accountable",
-      "translation": "責任がある",
-      "example": "Managers are accountable for the budget."
-    },
-    {
       "word": "accumulation",
       "translation": "蓄積",
       "example": "The accumulation of dust ruined the film."
     },
     {
-      "word": "accusation",
-      "translation": "告発",
-      "example": "The accusation was never proved."
-    },
-    {
-      "word": "accused",
-      "translation": "被告",
-      "example": "The accused said nothing in court."
-    },
-    {
       "word": "acquisition",
       "translation": "取得",
       "example": "The acquisition cost forty million."
-    },
-    {
-      "word": "activation",
-      "translation": "起動",
-      "example": "Activation takes a few seconds."
     },
     {
       "word": "activist",
@@ -117,11 +82,6 @@
       "example": "There is an acute shortage of housing."
     },
     {
-      "word": "adaptation",
-      "translation": "適応",
-      "example": "The adaptation kept the ending."
-    },
-    {
       "word": "adhere",
       "translation": "従う, 付着する",
       "example": "Members must adhere to the code."
@@ -130,11 +90,6 @@
       "word": "adjacent",
       "translation": "隣接した",
       "example": "The office is adjacent to the library."
-    },
-    {
-      "word": "adjustment",
-      "translation": "調整",
-      "example": "One small adjustment fixed the sound."
     },
     {
       "word": "administer",
@@ -197,11 +152,6 @@
       "example": "The dog showed no aggression."
     },
     {
-      "word": "agricultural",
-      "translation": "農業の",
-      "example": "The valley is agricultural land."
-    },
-    {
       "word": "aide",
       "translation": "補佐官",
       "example": "An aide handed him the file."
@@ -222,19 +172,9 @@
       "example": "Align the edges before you glue them."
     },
     {
-      "word": "alignment",
-      "translation": "整列",
-      "example": "The wheels are out of alignment."
-    },
-    {
       "word": "alike",
       "translation": "同じように",
       "example": "The twins dress alike."
-    },
-    {
-      "word": "allegation",
-      "translation": "申し立て",
-      "example": "The allegation was denied."
     },
     {
       "word": "allege",
@@ -242,19 +182,9 @@
       "example": "They allege that the form was altered."
     },
     {
-      "word": "allegedly",
-      "translation": "伝えられるところでは",
-      "example": "He allegedly left before midnight."
-    },
-    {
       "word": "alleviate",
       "translation": "緩和する",
       "example": "The grant helped alleviate the shortage."
-    },
-    {
-      "word": "alliance",
-      "translation": "同盟",
-      "example": "The two parties formed an alliance."
     },
     {
       "word": "allocation",
@@ -297,11 +227,6 @@
       "example": "They amended the contract twice."
     },
     {
-      "word": "amendment",
-      "translation": "改正",
-      "example": "The amendment passed by two votes."
-    },
-    {
       "word": "amid",
       "translation": "の最中に",
       "example": "She resigned amid growing criticism."
@@ -337,11 +262,6 @@
       "example": "The shop sells outdoor apparel."
     },
     {
-      "word": "appealing",
-      "translation": "魅力的な",
-      "example": "The offer is appealing."
-    },
-    {
       "word": "appetite",
       "translation": "食欲",
       "example": "Walking gave me an appetite."
@@ -357,11 +277,6 @@
       "example": "The discount is not applicable here."
     },
     {
-      "word": "appoint",
-      "translation": "任命する",
-      "example": "They appointed a new head in June."
-    },
-    {
       "word": "appreciation",
       "translation": "感謝",
       "example": "She wrote a note of appreciation."
@@ -372,11 +287,6 @@
       "example": "The deadline seemed entirely arbitrary."
     },
     {
-      "word": "architectural",
-      "translation": "建築の",
-      "example": "The building has architectural value."
-    },
-    {
       "word": "archive",
       "translation": "保管記録",
       "example": "The archive holds every issue."
@@ -385,11 +295,6 @@
       "word": "arena",
       "translation": "競技場",
       "example": "The arena seats twelve thousand."
-    },
-    {
-      "word": "arguably",
-      "translation": "間違いなく",
-      "example": "This is arguably her best work."
     },
     {
       "word": "array",
@@ -405,11 +310,6 @@
       "word": "ash",
       "translation": "灰",
       "example": "Ash covered the garden furniture."
-    },
-    {
-      "word": "aspiration",
-      "translation": "願望",
-      "example": "Her aspiration was always to teach."
     },
     {
       "word": "aspire",
@@ -432,11 +332,6 @@
       "example": "The parts assemble in ten minutes."
     },
     {
-      "word": "assembly",
-      "translation": "集会, 組み立て",
-      "example": "The assembly meets in October."
-    },
-    {
       "word": "assert",
       "translation": "主張する",
       "example": "She asserted her right to speak."
@@ -445,11 +340,6 @@
       "word": "assertion",
       "translation": "主張",
       "example": "His assertion was not supported."
-    },
-    {
-      "word": "assurance",
-      "translation": "保証",
-      "example": "He gave an assurance that it was safe."
     },
     {
       "word": "astute",
@@ -472,11 +362,6 @@
       "example": "She attained the highest grade."
     },
     {
-      "word": "attendance",
-      "translation": "出席",
-      "example": "Attendance was low in December."
-    },
-    {
       "word": "attorney",
       "translation": "弁護士",
       "example": "Her attorney advised her to wait."
@@ -495,11 +380,6 @@
       "word": "authentic",
       "translation": "本物の",
       "example": "The signature is authentic."
-    },
-    {
-      "word": "authorize",
-      "translation": "許可する",
-      "example": "Only a manager can authorize a refund."
     },
     {
       "word": "auto",
@@ -525,11 +405,6 @@
       "word": "backdrop",
       "translation": "背景",
       "example": "The hills form a fine backdrop."
-    },
-    {
-      "word": "backing",
-      "translation": "支援",
-      "example": "The plan has the backing of the council."
     },
     {
       "word": "backlash",
@@ -597,11 +472,6 @@
       "example": "She spoke on behalf of the staff."
     },
     {
-      "word": "behavioural",
-      "translation": "行動の",
-      "example": "The study is behavioural, not medical."
-    },
-    {
       "word": "beloved",
       "translation": "最愛の",
       "example": "He read from his beloved atlas."
@@ -630,11 +500,6 @@
       "word": "betray",
       "translation": "裏切る",
       "example": "He would never betray a friend."
-    },
-    {
-      "word": "betrayal",
-      "translation": "裏切り",
-      "example": "The betrayal shaped the rest of the novel."
     },
     {
       "word": "beverage",
@@ -685,11 +550,6 @@
       "word": "bless",
       "translation": "祝福する",
       "example": "The priest blessed the boat."
-    },
-    {
-      "word": "blessing",
-      "translation": "祝福",
-      "example": "Rain in June was a blessing."
     },
     {
       "word": "boast",
@@ -775,11 +635,6 @@
       "word": "bureaucracy",
       "translation": "官僚制",
       "example": "The bureaucracy slowed everything down."
-    },
-    {
-      "word": "burial",
-      "translation": "埋葬",
-      "example": "The burial took place on Friday."
     },
     {
       "word": "cabinet",
@@ -882,16 +737,6 @@
       "example": "The strike caused chaos."
     },
     {
-      "word": "characterize",
-      "translation": "特徴づける",
-      "example": "Long summers characterize the region."
-    },
-    {
-      "word": "charm",
-      "translation": "魅力",
-      "example": "The village has real charm."
-    },
-    {
       "word": "charter",
       "translation": "憲章, チャーターする",
       "example": "The charter dates from 1420."
@@ -915,11 +760,6 @@
       "word": "circulation",
       "translation": "循環, 発行部数",
       "example": "The magazine has a small circulation."
-    },
-    {
-      "word": "citizenship",
-      "translation": "市民権",
-      "example": "She applied for citizenship."
     },
     {
       "word": "civic",
@@ -952,11 +792,6 @@
       "example": "The child clung to her arm."
     },
     {
-      "word": "clinical",
-      "translation": "臨床の",
-      "example": "The trial is at the clinical stage."
-    },
-    {
       "word": "closure",
       "translation": "閉鎖",
       "example": "The closure of the mill hit the town hard."
@@ -970,11 +805,6 @@
       "word": "coalition",
       "translation": "連立",
       "example": "The coalition lasted two years."
-    },
-    {
-      "word": "coastal",
-      "translation": "沿岸の",
-      "example": "The coastal path floods in winter."
     },
     {
       "word": "cocktail",
@@ -997,11 +827,6 @@
       "example": "He gave a coherent account of the evening."
     },
     {
-      "word": "coincide",
-      "translation": "同時に起こる",
-      "example": "The dates coincide, unfortunately."
-    },
-    {
       "word": "collaborate",
       "translation": "協力する",
       "example": "The two labs collaborate closely."
@@ -1020,11 +845,6 @@
       "word": "collision",
       "translation": "衝突",
       "example": "The collision damaged both cars."
-    },
-    {
-      "word": "colonial",
-      "translation": "植民地の",
-      "example": "The house is colonial in style."
     },
     {
       "word": "columnist",
@@ -1052,11 +872,6 @@
       "example": "The commentator apologised for the error."
     },
     {
-      "word": "commerce",
-      "translation": "商業",
-      "example": "The port lives on commerce."
-    },
-    {
       "word": "commissioner",
       "translation": "委員",
       "example": "The commissioner ordered an inquiry."
@@ -1077,11 +892,6 @@
       "example": "The dog was his only companion."
     },
     {
-      "word": "comparable",
-      "translation": "匹敵する",
-      "example": "The two houses are comparable in size."
-    },
-    {
       "word": "compassion",
       "translation": "思いやり",
       "example": "She treated them with compassion."
@@ -1090,11 +900,6 @@
       "word": "compel",
       "translation": "強いる",
       "example": "Nothing compels you to sign."
-    },
-    {
-      "word": "compelling",
-      "translation": "説得力のある",
-      "example": "The evidence was compelling."
     },
     {
       "word": "compensation",
@@ -1122,16 +927,6 @@
       "example": "The wine complements the dish."
     },
     {
-      "word": "complexity",
-      "translation": "複雑さ",
-      "example": "The complexity of the rules defeats me."
-    },
-    {
-      "word": "compliance",
-      "translation": "遵守",
-      "example": "Compliance with the code is checked yearly."
-    },
-    {
       "word": "complication",
       "translation": "合併症, 複雑化",
       "example": "There was one complication after surgery."
@@ -1145,11 +940,6 @@
       "word": "compromise",
       "translation": "妥協",
       "example": "They reached a compromise."
-    },
-    {
-      "word": "compute",
-      "translation": "計算する",
-      "example": "The program computes the total."
     },
     {
       "word": "conceal",
@@ -1197,19 +987,9 @@
       "example": "Keep the dog confined to the yard."
     },
     {
-      "word": "confirmation",
-      "translation": "確認",
-      "example": "We are waiting for confirmation."
-    },
-    {
       "word": "confront",
       "translation": "直面する",
       "example": "She confronted him about the bill."
-    },
-    {
-      "word": "confrontation",
-      "translation": "対立",
-      "example": "The meeting ended in confrontation."
     },
     {
       "word": "congratulate",
@@ -1247,11 +1027,6 @@
       "example": "His conscience troubled him."
     },
     {
-      "word": "consciously",
-      "translation": "意識的に",
-      "example": "She consciously slowed her speech."
-    },
-    {
       "word": "consciousness",
       "translation": "意識",
       "example": "He lost consciousness for a moment."
@@ -1265,11 +1040,6 @@
       "word": "consent",
       "translation": "同意",
       "example": "The patient gave written consent."
-    },
-    {
-      "word": "conserve",
-      "translation": "保存する",
-      "example": "We must conserve water in August."
     },
     {
       "word": "consistency",
@@ -1295,16 +1065,6 @@
       "word": "constitution",
       "translation": "憲法",
       "example": "The constitution was rewritten in 1994."
-    },
-    {
-      "word": "constitutional",
-      "translation": "憲法の",
-      "example": "The change was constitutional."
-    },
-    {
-      "word": "consultation",
-      "translation": "相談",
-      "example": "The consultation runs until May."
     },
     {
       "word": "contemplate",
@@ -1342,11 +1102,6 @@
       "example": "They had no contingency for a strike."
     },
     {
-      "word": "continually",
-      "translation": "絶えず",
-      "example": "The phone rang continually."
-    },
-    {
       "word": "contractor",
       "translation": "請負業者",
       "example": "The contractor finished a week late."
@@ -1380,11 +1135,6 @@
       "word": "cooperate",
       "translation": "協力する",
       "example": "The two firms agreed to cooperate."
-    },
-    {
-      "word": "cooperative",
-      "translation": "協同組合, 協力的な",
-      "example": "The farmers formed a cooperative."
     },
     {
       "word": "coordinate",
@@ -1432,24 +1182,9 @@
       "example": "The dates do not correspond."
     },
     {
-      "word": "correspondence",
-      "translation": "通信, 一致",
-      "example": "Their correspondence lasted forty years."
-    },
-    {
       "word": "correspondent",
       "translation": "通信員",
       "example": "Our correspondent reports from Rome."
-    },
-    {
-      "word": "corresponding",
-      "translation": "対応する",
-      "example": "Sales fell in the corresponding month."
-    },
-    {
-      "word": "correspondingly",
-      "translation": "それに応じて",
-      "example": "Costs rose and prices moved correspondingly."
     },
     {
       "word": "corrupt",
@@ -1460,11 +1195,6 @@
       "word": "corruption",
       "translation": "腐敗",
       "example": "The inquiry found no corruption."
-    },
-    {
-      "word": "costly",
-      "translation": "高くつく",
-      "example": "The repair proved costly."
     },
     {
       "word": "councillor",
@@ -1602,11 +1332,6 @@
       "example": "The dam holds back the whole valley."
     },
     {
-      "word": "damaging",
-      "translation": "損害を与える",
-      "example": "The report was damaging."
-    },
-    {
       "word": "dawn",
       "translation": "夜明け",
       "example": "We left at dawn."
@@ -1630,11 +1355,6 @@
       "word": "decisive",
       "translation": "決定的な",
       "example": "Her reply was decisive."
-    },
-    {
-      "word": "declaration",
-      "translation": "宣言",
-      "example": "The declaration was read aloud."
     },
     {
       "word": "dedicated",
@@ -1682,11 +1402,6 @@
       "example": "The deficit grew again this year."
     },
     {
-      "word": "definitive",
-      "translation": "決定的な",
-      "example": "This is the definitive edition."
-    },
-    {
       "word": "defy",
       "translation": "逆らう",
       "example": "The result defies explanation."
@@ -1717,11 +1432,6 @@
       "example": "The painting shows a small demon."
     },
     {
-      "word": "denial",
-      "translation": "否定",
-      "example": "His denial convinced nobody."
-    },
-    {
       "word": "denounce",
       "translation": "非難する",
       "example": "The paper denounced the decision."
@@ -1732,16 +1442,6 @@
       "example": "The fog was dense by six."
     },
     {
-      "word": "density",
-      "translation": "密度",
-      "example": "The density of housing is high here."
-    },
-    {
-      "word": "dependence",
-      "translation": "依存",
-      "example": "Their dependence on one buyer is risky."
-    },
-    {
       "word": "depict",
       "translation": "描写する",
       "example": "The mural depicts the harbour."
@@ -1750,11 +1450,6 @@
       "word": "deploy",
       "translation": "配備する",
       "example": "They deployed extra staff at once."
-    },
-    {
-      "word": "deployment",
-      "translation": "配備",
-      "example": "The deployment lasted six months."
     },
     {
       "word": "deprive",
@@ -1780,11 +1475,6 @@
       "word": "designate",
       "translation": "指定する",
       "example": "They designated the field a park."
-    },
-    {
-      "word": "desirable",
-      "translation": "望ましい",
-      "example": "A south garden is desirable."
     },
     {
       "word": "destructive",
@@ -1830,11 +1520,6 @@
       "word": "diagnose",
       "translation": "診断する",
       "example": "The doctor diagnosed a virus."
-    },
-    {
-      "word": "diagnosis",
-      "translation": "診断",
-      "example": "The diagnosis took three weeks."
     },
     {
       "word": "dictate",
@@ -1937,11 +1622,6 @@
       "example": "The law forbids discrimination."
     },
     {
-      "word": "dismissal",
-      "translation": "解雇",
-      "example": "The dismissal was later found unfair."
-    },
-    {
       "word": "disparate",
       "translation": "異質な",
       "example": "The team brought disparate skills."
@@ -1997,11 +1677,6 @@
       "example": "Dissolve the powder in warm water."
     },
     {
-      "word": "distinctive",
-      "translation": "独特な",
-      "example": "The building has a distinctive roof."
-    },
-    {
       "word": "distort",
       "translation": "歪める",
       "example": "The lens distorts the edges."
@@ -2010,11 +1685,6 @@
       "word": "distress",
       "translation": "苦悩",
       "example": "The delay caused real distress."
-    },
-    {
-      "word": "disturbing",
-      "translation": "動揺させる",
-      "example": "The photographs are disturbing."
     },
     {
       "word": "divert",
@@ -2030,11 +1700,6 @@
       "word": "doctrine",
       "translation": "教義",
       "example": "The doctrine has changed little."
-    },
-    {
-      "word": "documentation",
-      "translation": "文書化",
-      "example": "Bring the documentation to the desk."
     },
     {
       "word": "domain",
@@ -2097,11 +1762,6 @@
       "example": "The duo has played together for years."
     },
     {
-      "word": "earnings",
-      "translation": "収入",
-      "example": "Her earnings doubled in two years."
-    },
-    {
       "word": "ease",
       "translation": "容易さ, 和らげる",
       "example": "The machine works with surprising ease."
@@ -2140,11 +1800,6 @@
       "word": "elaborate",
       "translation": "精巧な, 詳しく述べる",
       "example": "The plan was elaborate and slow."
-    },
-    {
-      "word": "electoral",
-      "translation": "選挙の",
-      "example": "The electoral system was reformed."
     },
     {
       "word": "elevate",
@@ -2192,11 +1847,6 @@
       "example": "The design embodies their whole idea."
     },
     {
-      "word": "emergence",
-      "translation": "出現",
-      "example": "The emergence of the group surprised everyone."
-    },
-    {
       "word": "emphatic",
       "translation": "強調した",
       "example": "The answer was an emphatic no."
@@ -2222,16 +1872,6 @@
       "example": "The course encompasses four centuries."
     },
     {
-      "word": "encouragement",
-      "translation": "励まし",
-      "example": "A word of encouragement helped."
-    },
-    {
-      "word": "encouraging",
-      "translation": "励みになる",
-      "example": "The first figures are encouraging."
-    },
-    {
       "word": "endeavour",
       "translation": "努力, 試みる",
       "example": "The endeavour took ten years."
@@ -2247,11 +1887,6 @@
       "example": "Two doctors endorsed the method."
     },
     {
-      "word": "endorsement",
-      "translation": "支持",
-      "example": "The endorsement helped sales."
-    },
-    {
       "word": "endure",
       "translation": "耐える",
       "example": "The bridge endured the flood."
@@ -2260,26 +1895,6 @@
       "word": "enforce",
       "translation": "施行する",
       "example": "Nobody enforces the parking rule."
-    },
-    {
-      "word": "enforcement",
-      "translation": "施行",
-      "example": "Enforcement of the law is patchy."
-    },
-    {
-      "word": "engagement",
-      "translation": "婚約, 関与",
-      "example": "She has an engagement on Thursday."
-    },
-    {
-      "word": "engaging",
-      "translation": "魅力的な",
-      "example": "The speaker was engaging."
-    },
-    {
-      "word": "enquire",
-      "translation": "尋ねる",
-      "example": "I enquired about the times."
     },
     {
       "word": "enrich",
@@ -2332,11 +1947,6 @@
       "example": "The epidemic reached the coast in June."
     },
     {
-      "word": "equality",
-      "translation": "平等",
-      "example": "The campaign is about equality."
-    },
-    {
       "word": "equation",
       "translation": "方程式",
       "example": "Solve the equation for x."
@@ -2365,11 +1975,6 @@
       "word": "essence",
       "translation": "本質",
       "example": "The essence of the plan is simple."
-    },
-    {
-      "word": "establishment",
-      "translation": "設立, 施設",
-      "example": "The establishment of the fund took a year."
     },
     {
       "word": "eternal",
@@ -2427,11 +2032,6 @@
       "example": "The interview was exclusive."
     },
     {
-      "word": "exclusively",
-      "translation": "独占的に",
-      "example": "The room is used exclusively for storage."
-    },
-    {
       "word": "execute",
       "translation": "実行する, 処刑する",
       "example": "They executed the plan without delay."
@@ -2462,24 +2062,9 @@
       "example": "Expenditure rose sharply in May."
     },
     {
-      "word": "experimental",
-      "translation": "実験的な",
-      "example": "The treatment is still experimental."
-    },
-    {
       "word": "expire",
       "translation": "期限が切れる",
       "example": "My passport expires in June."
-    },
-    {
-      "word": "explicitly",
-      "translation": "明示的に",
-      "example": "The contract explicitly forbids it."
-    },
-    {
-      "word": "exploitation",
-      "translation": "搾取",
-      "example": "The report describes the exploitation of workers."
     },
     {
       "word": "explosive",
@@ -2525,11 +2110,6 @@
       "word": "fate",
       "translation": "運命",
       "example": "The fate of the building is undecided."
-    },
-    {
-      "word": "favourable",
-      "translation": "好意的な",
-      "example": "The review was favourable."
     },
     {
       "word": "feat",
@@ -2585,11 +2165,6 @@
       "word": "flaw",
       "translation": "欠点",
       "example": "There is one flaw in the argument."
-    },
-    {
-      "word": "flawed",
-      "translation": "欠陥のある",
-      "example": "The method is flawed."
     },
     {
       "word": "flee",
@@ -2702,11 +2277,6 @@
       "example": "He hid his frustration well."
     },
     {
-      "word": "functional",
-      "translation": "機能的な",
-      "example": "The kitchen is small but functional."
-    },
-    {
       "word": "fundraising",
       "translation": "資金調達",
       "example": "The fundraising took all autumn."
@@ -2715,11 +2285,6 @@
       "word": "gambling",
       "translation": "賭博",
       "example": "Gambling is banned in the club."
-    },
-    {
-      "word": "gathering",
-      "translation": "集会",
-      "example": "It was a small family gathering."
     },
     {
       "word": "gaze",
@@ -2752,19 +2317,9 @@
       "example": "I caught a glimpse of the sea."
     },
     {
-      "word": "glorious",
-      "translation": "輝かしい",
-      "example": "It was a glorious morning."
-    },
-    {
       "word": "glory",
       "translation": "栄光",
       "example": "The team had its day of glory."
-    },
-    {
-      "word": "governance",
-      "translation": "統治",
-      "example": "The report criticises weak governance."
     },
     {
       "word": "grace",
@@ -2817,16 +2372,6 @@
       "example": "The film follows a guerrilla group."
     },
     {
-      "word": "guidance",
-      "translation": "指導",
-      "example": "She asked her tutor for guidance."
-    },
-    {
-      "word": "guilt",
-      "translation": "罪悪感",
-      "example": "Guilt kept him awake."
-    },
-    {
       "word": "gut",
       "translation": "腸, 直感",
       "example": "His gut told him to wait."
@@ -2850,16 +2395,6 @@
       "word": "hamper",
       "translation": "妨げる",
       "example": "Bad weather hampered the search."
-    },
-    {
-      "word": "handful",
-      "translation": "一握り",
-      "example": "Only a handful of people came."
-    },
-    {
-      "word": "handling",
-      "translation": "取り扱い",
-      "example": "The handling of the complaint was poor."
     },
     {
       "word": "handy",
@@ -2937,11 +2472,6 @@
       "example": "He returned to his homeland in 1990."
     },
     {
-      "word": "hopeful",
-      "translation": "希望に満ちた",
-      "example": "She is hopeful about the result."
-    },
-    {
       "word": "horizon",
       "translation": "地平線",
       "example": "A ship appeared on the horizon."
@@ -2957,19 +2487,9 @@
       "example": "The reception was hostile."
     },
     {
-      "word": "hostility",
-      "translation": "敵意",
-      "example": "There was open hostility between them."
-    },
-    {
       "word": "humanitarian",
       "translation": "人道的な",
       "example": "The flight carried humanitarian supplies."
-    },
-    {
-      "word": "humanity",
-      "translation": "人類",
-      "example": "The story restores your faith in humanity."
     },
     {
       "word": "humble",
@@ -3002,11 +2522,6 @@
       "example": "His ignorance of the rules cost him."
     },
     {
-      "word": "imagery",
-      "translation": "映像, イメージ",
-      "example": "The poem is full of sea imagery."
-    },
-    {
       "word": "immense",
       "translation": "膨大な",
       "example": "The task is immense."
@@ -3027,19 +2542,9 @@
       "example": "The report gave fresh impetus to reform."
     },
     {
-      "word": "implementation",
-      "translation": "実施",
-      "example": "Implementation begins next month."
-    },
-    {
       "word": "imprison",
       "translation": "投獄する",
       "example": "The court imprisoned him for a year."
-    },
-    {
-      "word": "imprisonment",
-      "translation": "投獄",
-      "example": "He faced two years of imprisonment."
     },
     {
       "word": "inability",
@@ -3137,11 +2642,6 @@
       "example": "One machine infected the whole network."
     },
     {
-      "word": "inference",
-      "translation": "推論",
-      "example": "That is an inference, not a fact."
-    },
-    {
       "word": "inflict",
       "translation": "与える",
       "example": "The storm inflicted serious damage."
@@ -3160,11 +2660,6 @@
       "word": "inhibit",
       "translation": "抑制する",
       "example": "Cold weather inhibits growth."
-    },
-    {
-      "word": "initiate",
-      "translation": "開始する",
-      "example": "They initiated talks in June."
     },
     {
       "word": "inject",
@@ -3207,39 +2702,14 @@
       "example": "The damage was slow and insidious."
     },
     {
-      "word": "inspect",
-      "translation": "検査する",
-      "example": "An engineer inspected the roof."
-    },
-    {
       "word": "inspection",
       "translation": "検査",
       "example": "The inspection found nothing wrong."
     },
     {
-      "word": "inspiration",
-      "translation": "インスピレーション",
-      "example": "The coast was her inspiration."
-    },
-    {
       "word": "instinct",
       "translation": "本能",
       "example": "Her instinct was to say no."
-    },
-    {
-      "word": "institutional",
-      "translation": "制度的な",
-      "example": "The problem is institutional."
-    },
-    {
-      "word": "instruct",
-      "translation": "指示する",
-      "example": "She instructed us to wait outside."
-    },
-    {
-      "word": "instrumental",
-      "translation": "重要な役割を果たす",
-      "example": "He was instrumental in the merger."
     },
     {
       "word": "insufficient",
@@ -3267,11 +2737,6 @@
       "example": "Testing is integral to the process."
     },
     {
-      "word": "integrated",
-      "translation": "統合された",
-      "example": "The systems are fully integrated."
-    },
-    {
       "word": "integration",
       "translation": "統合",
       "example": "Integration took longer than planned."
@@ -3282,29 +2747,9 @@
       "example": "Her integrity was never questioned."
     },
     {
-      "word": "intensify",
-      "translation": "激化させる",
-      "example": "The rain intensified after dark."
-    },
-    {
-      "word": "intensity",
-      "translation": "強度",
-      "example": "The intensity of the light varies."
-    },
-    {
-      "word": "intensive",
-      "translation": "集中的な",
-      "example": "The course is intensive."
-    },
-    {
       "word": "intent",
       "translation": "意図",
       "example": "His intent was never in doubt."
-    },
-    {
-      "word": "interactive",
-      "translation": "双方向の",
-      "example": "The exhibition is interactive."
     },
     {
       "word": "interface",
@@ -3315,11 +2760,6 @@
       "word": "interfere",
       "translation": "干渉する",
       "example": "Do not interfere with the settings."
-    },
-    {
-      "word": "interference",
-      "translation": "干渉",
-      "example": "There was interference on the line."
     },
     {
       "word": "interim",
@@ -3390,21 +2830,6 @@
       "word": "invoke",
       "translation": "発動する",
       "example": "She invoked an old rule."
-    },
-    {
-      "word": "involvement",
-      "translation": "関与",
-      "example": "His involvement ended in May."
-    },
-    {
-      "word": "ironic",
-      "translation": "皮肉な",
-      "example": "It is ironic that the fire station burned."
-    },
-    {
-      "word": "ironically",
-      "translation": "皮肉なことに",
-      "example": "Ironically, the shortcut took longer."
     },
     {
       "word": "irony",
@@ -3522,11 +2947,6 @@
       "example": "The legislature meets in autumn."
     },
     {
-      "word": "lengthy",
-      "translation": "長々とした",
-      "example": "The report is lengthy but clear."
-    },
-    {
       "word": "lesbian",
       "translation": "レズビアン",
       "example": "The novel follows a lesbian couple."
@@ -3572,11 +2992,6 @@
       "example": "Reading was a lifelong habit."
     },
     {
-      "word": "likelihood",
-      "translation": "可能性",
-      "example": "There is little likelihood of snow."
-    },
-    {
       "word": "limb",
       "translation": "手足",
       "example": "A limb fell from the old tree."
@@ -3597,11 +3012,6 @@
       "example": "The smell lingered for days."
     },
     {
-      "word": "listing",
-      "translation": "一覧表",
-      "example": "The listing gives every price."
-    },
-    {
       "word": "literacy",
       "translation": "識字力",
       "example": "The programme raised adult literacy."
@@ -3610,11 +3020,6 @@
       "word": "lobby",
       "translation": "ロビー, 陳情する",
       "example": "We waited in the hotel lobby."
-    },
-    {
-      "word": "logic",
-      "translation": "論理",
-      "example": "I follow the logic of the argument."
     },
     {
       "word": "long-standing",
@@ -3640,16 +3045,6 @@
       "word": "loyalty",
       "translation": "忠誠",
       "example": "Her loyalty to the team was total."
-    },
-    {
-      "word": "machinery",
-      "translation": "機械",
-      "example": "The machinery is over forty years old."
-    },
-    {
-      "word": "magical",
-      "translation": "魔法の",
-      "example": "The evening had a magical quality."
     },
     {
       "word": "magistrate",
@@ -3685,11 +3080,6 @@
       "word": "mandate",
       "translation": "委任, 権限",
       "example": "The council has no mandate for this."
-    },
-    {
-      "word": "mandatory",
-      "translation": "義務的な",
-      "example": "A helmet is mandatory."
     },
     {
       "word": "manifest",
@@ -3742,11 +3132,6 @@
       "example": "We want to maximize the light."
     },
     {
-      "word": "meaningful",
-      "translation": "有意義な",
-      "example": "She wanted meaningful work."
-    },
-    {
       "word": "meantime",
       "translation": "その間",
       "example": "In the meantime, wait here."
@@ -3777,11 +3162,6 @@
       "example": "Her memoir covers the war years."
     },
     {
-      "word": "memorial",
-      "translation": "記念碑",
-      "example": "The memorial stands by the gate."
-    },
-    {
       "word": "mentor",
       "translation": "指導者",
       "example": "She found a mentor in her first job."
@@ -3800,11 +3180,6 @@
       "word": "mere",
       "translation": "ほんの",
       "example": "A mere three people applied."
-    },
-    {
-      "word": "merely",
-      "translation": "単に",
-      "example": "She merely nodded."
     },
     {
       "word": "merge",
@@ -3902,16 +3277,6 @@
       "example": "A small mob gathered outside."
     },
     {
-      "word": "mobility",
-      "translation": "流動性",
-      "example": "The injury limits her mobility."
-    },
-    {
-      "word": "mobilize",
-      "translation": "動員する",
-      "example": "The union mobilized its members."
-    },
-    {
       "word": "moderate",
       "translation": "穏健な",
       "example": "The climate here is moderate."
@@ -3940,16 +3305,6 @@
       "word": "monopoly",
       "translation": "独占",
       "example": "The firm had a local monopoly."
-    },
-    {
-      "word": "morality",
-      "translation": "道徳",
-      "example": "The play questions public morality."
-    },
-    {
-      "word": "motive",
-      "translation": "動機",
-      "example": "The motive was never established."
     },
     {
       "word": "motorist",
@@ -3995,11 +3350,6 @@
       "word": "negligible",
       "translation": "無視できる",
       "example": "The cost difference is negligible."
-    },
-    {
-      "word": "neighbouring",
-      "translation": "隣接する",
-      "example": "They come from a neighbouring village."
     },
     {
       "word": "newsletter",
@@ -4057,11 +3407,6 @@
       "example": "There was one notable exception."
     },
     {
-      "word": "notably",
-      "translation": "特に",
-      "example": "Prices rose, notably for fuel."
-    },
-    {
       "word": "notify",
       "translation": "通知する",
       "example": "Notify the office if you cannot come."
@@ -4087,11 +3432,6 @@
       "example": "She raised one objection."
     },
     {
-      "word": "oblige",
-      "translation": "義務づける",
-      "example": "The rules oblige us to keep records."
-    },
-    {
       "word": "obsess",
       "translation": "執着する",
       "example": "He obsesses about the weather."
@@ -4102,24 +3442,9 @@
       "example": "Her obsession with maps began early."
     },
     {
-      "word": "occasional",
-      "translation": "たまの",
-      "example": "She pays the occasional visit."
-    },
-    {
-      "word": "occurrence",
-      "translation": "出来事",
-      "example": "A frost in May is a rare occurrence."
-    },
-    {
       "word": "odds",
       "translation": "可能性, 勝算",
       "example": "The odds are against us."
-    },
-    {
-      "word": "offering",
-      "translation": "提供物",
-      "example": "The museum has a small offering for children."
     },
     {
       "word": "offspring",
@@ -4130,11 +3455,6 @@
       "word": "opaque",
       "translation": "不透明な",
       "example": "The wording is deliberately opaque."
-    },
-    {
-      "word": "operational",
-      "translation": "運用の",
-      "example": "The line is operational again."
     },
     {
       "word": "opt",
@@ -4150,11 +3470,6 @@
       "word": "oral",
       "translation": "口頭の",
       "example": "The exam includes an oral test."
-    },
-    {
-      "word": "organizational",
-      "translation": "組織の",
-      "example": "The problem is organizational."
     },
     {
       "word": "orientation",
@@ -4232,11 +3547,6 @@
       "example": "The response overwhelmed the small team."
     },
     {
-      "word": "overwhelming",
-      "translation": "圧倒的な",
-      "example": "The support was overwhelming."
-    },
-    {
       "word": "paradigm",
       "translation": "パラダイム",
       "example": "The discovery changed the whole paradigm."
@@ -4252,11 +3562,6 @@
       "example": "One parameter controls the speed."
     },
     {
-      "word": "parental",
-      "translation": "親の",
-      "example": "Parental consent is required."
-    },
-    {
       "word": "parish",
       "translation": "教区",
       "example": "The parish keeps its own records."
@@ -4265,21 +3570,6 @@
       "word": "parliamentary",
       "translation": "議会の",
       "example": "A parliamentary committee will report."
-    },
-    {
-      "word": "partial",
-      "translation": "部分的な",
-      "example": "We reached a partial agreement."
-    },
-    {
-      "word": "partially",
-      "translation": "部分的に",
-      "example": "The road is partially closed."
-    },
-    {
-      "word": "passing",
-      "translation": "一時的な, 合格",
-      "example": "With the passing of the years he forgot."
     },
     {
       "word": "passive",
@@ -4517,29 +3807,14 @@
       "example": "She will be down presently."
     },
     {
-      "word": "preservation",
-      "translation": "保存",
-      "example": "The preservation of the wall cost thousands."
-    },
-    {
       "word": "preside",
       "translation": "主宰する",
       "example": "She presided over the meeting."
     },
     {
-      "word": "presidency",
-      "translation": "大統領職",
-      "example": "His presidency lasted four years."
-    },
-    {
       "word": "prestigious",
       "translation": "名声のある",
       "example": "It is a prestigious award."
-    },
-    {
-      "word": "presumably",
-      "translation": "おそらく",
-      "example": "Presumably she missed the train."
     },
     {
       "word": "presume",
@@ -4572,11 +3847,6 @@
       "example": "The owl hunts small prey."
     },
     {
-      "word": "privatization",
-      "translation": "民営化",
-      "example": "The privatization was completed in 1994."
-    },
-    {
       "word": "privilege",
       "translation": "特権",
       "example": "It was a privilege to hear her."
@@ -4592,19 +3862,9 @@
       "example": "The timing is problematic."
     },
     {
-      "word": "proceedings",
-      "translation": "議事, 訴訟",
-      "example": "The proceedings lasted all day."
-    },
-    {
       "word": "proceeds",
       "translation": "収益",
       "example": "The proceeds go to the hospital."
-    },
-    {
-      "word": "processing",
-      "translation": "処理",
-      "example": "Processing takes five working days."
     },
     {
       "word": "processor",
@@ -4615,21 +3875,6 @@
       "word": "proclaim",
       "translation": "宣言する",
       "example": "They proclaimed the day a holiday."
-    },
-    {
-      "word": "productive",
-      "translation": "生産的な",
-      "example": "It was a productive morning."
-    },
-    {
-      "word": "productivity",
-      "translation": "生産性",
-      "example": "Productivity rose after the change."
-    },
-    {
-      "word": "profitable",
-      "translation": "収益性の高い",
-      "example": "The line is finally profitable."
     },
     {
       "word": "projection",
@@ -4677,19 +3922,9 @@
       "example": "The prosecutor summed up briefly."
     },
     {
-      "word": "prospective",
-      "translation": "将来の, 見込みの",
-      "example": "A prospective buyer visited twice."
-    },
-    {
       "word": "prosperity",
       "translation": "繁栄",
       "example": "The port brought prosperity."
-    },
-    {
-      "word": "protective",
-      "translation": "保護的な",
-      "example": "She is protective of her time."
     },
     {
       "word": "protocol",
@@ -4700,11 +3935,6 @@
       "word": "province",
       "translation": "州",
       "example": "The province has its own tax."
-    },
-    {
-      "word": "provincial",
-      "translation": "州の, 地方の",
-      "example": "The provincial capital is small."
     },
     {
       "word": "provision",
@@ -4767,11 +3997,6 @@
       "example": "The rally filled the square."
     },
     {
-      "word": "ranking",
-      "translation": "順位",
-      "example": "Her ranking rose after the win."
-    },
-    {
       "word": "ratio",
       "translation": "比率",
       "example": "The ratio is two to one."
@@ -4782,24 +4007,9 @@
       "example": "Try to make a rational choice."
     },
     {
-      "word": "rationale",
-      "translation": "理論的根拠",
-      "example": "Nobody explained the rationale."
-    },
-    {
       "word": "ray",
       "translation": "光線",
       "example": "A ray of sun crossed the table."
-    },
-    {
-      "word": "readily",
-      "translation": "たやすく",
-      "example": "The parts are readily available."
-    },
-    {
-      "word": "realization",
-      "translation": "実現, 認識",
-      "example": "The realization came too late."
     },
     {
       "word": "realm",
@@ -4810,11 +4020,6 @@
       "word": "rear",
       "translation": "後部",
       "example": "The garden is at the rear of the house."
-    },
-    {
-      "word": "reasoning",
-      "translation": "推論",
-      "example": "Her reasoning is hard to fault."
     },
     {
       "word": "reassure",
@@ -4877,16 +4082,6 @@
       "example": "The reform took ten years."
     },
     {
-      "word": "refuge",
-      "translation": "避難",
-      "example": "They took refuge in a barn."
-    },
-    {
-      "word": "refusal",
-      "translation": "拒否",
-      "example": "His refusal ended the talks."
-    },
-    {
       "word": "regain",
       "translation": "取り戻す",
       "example": "She regained her strength slowly."
@@ -4905,11 +4100,6 @@
       "word": "regulator",
       "translation": "規制機関",
       "example": "The regulator opened an inquiry."
-    },
-    {
-      "word": "regulatory",
-      "translation": "規制の",
-      "example": "The regulatory burden is heavy."
     },
     {
       "word": "rehabilitation",
@@ -4962,11 +4152,6 @@
       "example": "The card was a gentle reminder."
     },
     {
-      "word": "removal",
-      "translation": "除去",
-      "example": "The removal of the tree took a day."
-    },
-    {
       "word": "render",
       "translation": "~にする, 提供する",
       "example": "The rain rendered the path useless."
@@ -4980,26 +4165,6 @@
       "word": "renowned",
       "translation": "有名な",
       "example": "He is renowned for his patience."
-    },
-    {
-      "word": "rental",
-      "translation": "賃貸",
-      "example": "The rental costs forty a day."
-    },
-    {
-      "word": "replacement",
-      "translation": "交換",
-      "example": "The replacement arrived on Friday."
-    },
-    {
-      "word": "reportedly",
-      "translation": "報道によると",
-      "example": "She reportedly left in March."
-    },
-    {
-      "word": "representation",
-      "translation": "代表, 表現",
-      "example": "The group has no representation on the board."
     },
     {
       "word": "reproduce",
@@ -5027,24 +4192,9 @@
       "example": "She resides in the old rectory."
     },
     {
-      "word": "residence",
-      "translation": "居住地",
-      "example": "His residence is outside the city."
-    },
-    {
-      "word": "residential",
-      "translation": "住宅の",
-      "example": "The street is purely residential."
-    },
-    {
       "word": "residue",
       "translation": "残留物",
       "example": "A sticky residue was left on the glass."
-    },
-    {
-      "word": "resignation",
-      "translation": "辞任",
-      "example": "Her resignation took effect in June."
     },
     {
       "word": "resilient",
@@ -5052,24 +4202,9 @@
       "example": "The economy proved surprisingly resilient."
     },
     {
-      "word": "resistance",
-      "translation": "抵抗",
-      "example": "There was strong resistance to the plan."
-    },
-    {
       "word": "respective",
       "translation": "それぞれの",
       "example": "They returned to their respective homes."
-    },
-    {
-      "word": "respectively",
-      "translation": "それぞれ",
-      "example": "The prices are ten and twenty pounds respectively."
-    },
-    {
-      "word": "restoration",
-      "translation": "修復",
-      "example": "The restoration of the painting took months."
     },
     {
       "word": "restraint",
@@ -5110,11 +4245,6 @@
       "word": "reverse",
       "translation": "逆にする",
       "example": "Reverse the order of the last two."
-    },
-    {
-      "word": "revival",
-      "translation": "復活",
-      "example": "The revival of the festival was popular."
     },
     {
       "word": "revive",
@@ -5267,11 +4397,6 @@
       "example": "The school is secular."
     },
     {
-      "word": "seemingly",
-      "translation": "一見すると",
-      "example": "The delay was seemingly endless."
-    },
-    {
       "word": "segment",
       "translation": "部分",
       "example": "This segment of the market is growing."
@@ -5287,11 +4412,6 @@
       "example": "She seldom writes now."
     },
     {
-      "word": "selective",
-      "translation": "選択的な",
-      "example": "The school is highly selective."
-    },
-    {
       "word": "senator",
       "translation": "上院議員",
       "example": "The senator voted against it."
@@ -5300,11 +4420,6 @@
       "word": "sensation",
       "translation": "感覚, 大評判",
       "example": "There was a sensation of falling."
-    },
-    {
-      "word": "sensitivity",
-      "translation": "敏感さ",
-      "example": "The film has a high sensitivity to light."
     },
     {
       "word": "sentiment",
@@ -5322,19 +4437,9 @@
       "example": "The magazine ran the story as a serial."
     },
     {
-      "word": "settlement",
-      "translation": "和解, 入植地",
-      "example": "The settlement was reached out of court."
-    },
-    {
       "word": "setup",
       "translation": "準備, 仕組み",
       "example": "The setup takes about an hour."
-    },
-    {
-      "word": "sexuality",
-      "translation": "性",
-      "example": "The book discusses gender and sexuality."
     },
     {
       "word": "shareholder",
@@ -5355,11 +4460,6 @@
       "word": "sheer",
       "translation": "全くの",
       "example": "The sheer size of it surprised me."
-    },
-    {
-      "word": "shipping",
-      "translation": "出荷",
-      "example": "Shipping adds ten pounds."
     },
     {
       "word": "shrink",
@@ -5412,11 +4512,6 @@
       "example": "They slashed the price by half."
     },
     {
-      "word": "slavery",
-      "translation": "奴隷制",
-      "example": "The museum documents slavery."
-    },
-    {
       "word": "slot",
       "translation": "隙間, 枠",
       "example": "There is one slot left on Friday."
@@ -5452,11 +4547,6 @@
       "example": "She was the sole survivor of the crash."
     },
     {
-      "word": "solely",
-      "translation": "もっぱら",
-      "example": "The delay was solely our fault."
-    },
-    {
       "word": "solicitor",
       "translation": "事務弁護士",
       "example": "Her solicitor drafted the letter."
@@ -5485,16 +4575,6 @@
       "word": "spark",
       "translation": "火花, 引き起こす",
       "example": "The remark sparked a long debate."
-    },
-    {
-      "word": "specialized",
-      "translation": "専門化した",
-      "example": "This is specialized equipment."
-    },
-    {
-      "word": "specification",
-      "translation": "仕様",
-      "example": "The specification runs to twelve pages."
     },
     {
       "word": "specimen",
@@ -5572,19 +4652,9 @@
       "example": "The talks ended in stalemate."
     },
     {
-      "word": "standing",
-      "translation": "地位, 立っている",
-      "example": "She has long standing in the field."
-    },
-    {
       "word": "stark",
       "translation": "明白な, 厳しい",
       "example": "The contrast is stark."
-    },
-    {
-      "word": "statistical",
-      "translation": "統計的な",
-      "example": "The difference is not statistical."
     },
     {
       "word": "steer",
@@ -5662,19 +4732,9 @@
       "example": "They strive to keep the price low."
     },
     {
-      "word": "structural",
-      "translation": "構造的な",
-      "example": "The crack is structural."
-    },
-    {
       "word": "stumble",
       "translation": "つまずく",
       "example": "She stumbled on the top step."
-    },
-    {
-      "word": "stun",
-      "translation": "気絶させる, 唖然とさせる",
-      "example": "The news stunned everyone."
     },
     {
       "word": "submission",
@@ -5695,11 +4755,6 @@
       "word": "subsidy",
       "translation": "補助金",
       "example": "The farm receives a small subsidy."
-    },
-    {
-      "word": "substantially",
-      "translation": "かなり",
-      "example": "Costs fell substantially."
     },
     {
       "word": "substantiate",
@@ -5730,11 +4785,6 @@
       "word": "succession",
       "translation": "継承, 連続",
       "example": "There were three delays in succession."
-    },
-    {
-      "word": "successive",
-      "translation": "連続する",
-      "example": "It rained for four successive days."
     },
     {
       "word": "successor",
@@ -5800,16 +4850,6 @@
       "word": "supplement",
       "translation": "補足, サプリメント",
       "example": "She takes an iron supplement."
-    },
-    {
-      "word": "supportive",
-      "translation": "協力的な",
-      "example": "Her family was very supportive."
-    },
-    {
-      "word": "supposedly",
-      "translation": "おそらく",
-      "example": "The path is supposedly shorter."
     },
     {
       "word": "suppress",
@@ -5885,11 +4925,6 @@
       "word": "tactic",
       "translation": "戦術",
       "example": "The tactic worked well."
-    },
-    {
-      "word": "tactical",
-      "translation": "戦術的な",
-      "example": "It was a tactical retreat."
     },
     {
       "word": "taxpayer",
@@ -5987,11 +5022,6 @@
       "example": "The wall was raised, thereby blocking the view."
     },
     {
-      "word": "thoughtful",
-      "translation": "思慮深い",
-      "example": "It was a thoughtful gift."
-    },
-    {
       "word": "thought-provoking",
       "translation": "考えさせられる",
       "example": "The film is thought-provoking."
@@ -6030,11 +5060,6 @@
       "word": "timber",
       "translation": "木材",
       "example": "The roof is held by old timber."
-    },
-    {
-      "word": "timely",
-      "translation": "タイムリーな",
-      "example": "Her warning was timely."
     },
     {
       "word": "tobacco",
@@ -6097,11 +5122,6 @@
       "example": "She asked for a transcript of the call."
     },
     {
-      "word": "transformation",
-      "translation": "変革",
-      "example": "The transformation took two years."
-    },
-    {
       "word": "transit",
       "translation": "通過, 輸送",
       "example": "The parcel was damaged in transit."
@@ -6137,11 +5157,6 @@
       "example": "The response was tremendous."
     },
     {
-      "word": "tribal",
-      "translation": "部族の",
-      "example": "The museum holds tribal art."
-    },
-    {
       "word": "tribunal",
       "translation": "裁判所",
       "example": "The tribunal ruled in her favour."
@@ -6165,11 +5180,6 @@
       "word": "trophy",
       "translation": "トロフィー",
       "example": "The trophy sits in the hall."
-    },
-    {
-      "word": "troubled",
-      "translation": "問題を抱えた",
-      "example": "It was a troubled year for the firm."
     },
     {
       "word": "trustee",
@@ -6287,11 +5297,6 @@
       "example": "His answer was vague."
     },
     {
-      "word": "validity",
-      "translation": "妥当性",
-      "example": "The validity of the test is disputed."
-    },
-    {
       "word": "vanish",
       "translation": "消える",
       "example": "The path vanishes into the wood."
@@ -6300,11 +5305,6 @@
       "word": "variable",
       "translation": "変数, 変わりやすい",
       "example": "The weather here is very variable."
-    },
-    {
-      "word": "varied",
-      "translation": "多様な",
-      "example": "The work is varied and never dull."
     },
     {
       "word": "vein",
@@ -6487,11 +5487,6 @@
       "example": "Whip the cream until it thickens."
     },
     {
-      "word": "wholly",
-      "translation": "完全に",
-      "example": "The claim is wholly untrue."
-    },
-    {
       "word": "widen",
       "translation": "広げる",
       "example": "They widened the road last year."
@@ -6517,11 +5512,6 @@
       "example": "Her wit carried the evening."
     },
     {
-      "word": "withdrawal",
-      "translation": "撤退, 引き出し",
-      "example": "The withdrawal of the offer was sudden."
-    },
-    {
       "word": "workout",
       "translation": "運動",
       "example": "She does a short workout each morning."
@@ -6535,11 +5525,6 @@
       "word": "worthwhile",
       "translation": "価値がある",
       "example": "The trip was worthwhile."
-    },
-    {
-      "word": "worthy",
-      "translation": "ふさわしい",
-      "example": "It is a worthy cause."
     },
     {
       "word": "wrongdoing",

@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "ja",
   "level": "A2",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "ability",
@@ -47,11 +47,6 @@
       "example": "He acted quickly and saved the file."
     },
     {
-      "word": "active",
-      "translation": "活発な",
-      "example": "She stays active in winter."
-    },
-    {
       "word": "actually",
       "translation": "実は",
       "example": "It is actually much simpler."
@@ -70,16 +65,6 @@
       "word": "advertise",
       "translation": "宣伝する",
       "example": "They advertise on the radio."
-    },
-    {
-      "word": "advertisement",
-      "translation": "広告",
-      "example": "The advertisement was misleading."
-    },
-    {
-      "word": "advertising",
-      "translation": "広告",
-      "example": "Advertising pays for the site."
     },
     {
       "word": "affect",
@@ -187,11 +172,6 @@
       "example": "A light appeared in the window."
     },
     {
-      "word": "appearance",
-      "translation": "外見",
-      "example": "His appearance changed a lot."
-    },
-    {
       "word": "apply",
       "translation": "申し込む",
       "example": "She applied for the job on Monday."
@@ -212,11 +192,6 @@
       "example": "They argued about the price."
     },
     {
-      "word": "argument",
-      "translation": "議論、口論",
-      "example": "They had a short argument."
-    },
-    {
       "word": "army",
       "translation": "軍隊",
       "example": "His brother joined the army."
@@ -225,11 +200,6 @@
       "word": "arrange",
       "translation": "手配する",
       "example": "She arranged the meeting for Friday."
-    },
-    {
-      "word": "arrangement",
-      "translation": "手配",
-      "example": "We made an arrangement for Friday."
     },
     {
       "word": "asleep",
@@ -522,24 +492,9 @@
       "example": "They camped near the lake."
     },
     {
-      "word": "camping",
-      "translation": "キャンプ",
-      "example": "We went camping in June."
-    },
-    {
       "word": "care",
       "translation": "世話をする",
       "example": "She takes care of her father."
-    },
-    {
-      "word": "careful",
-      "translation": "注意深い",
-      "example": "Be careful on the wet floor."
-    },
-    {
-      "word": "carefully",
-      "translation": "注意深く",
-      "example": "Read the label carefully."
     },
     {
       "word": "carpet",
@@ -595,11 +550,6 @@
       "word": "certain",
       "translation": "確かな",
       "example": "I am not certain about the date."
-    },
-    {
-      "word": "certainly",
-      "translation": "確かに",
-      "example": "That is certainly possible."
     },
     {
       "word": "chance",
@@ -667,11 +617,6 @@
       "example": "The instructions were clear."
     },
     {
-      "word": "clearly",
-      "translation": "はっきりと",
-      "example": "He explained it very clearly."
-    },
-    {
       "word": "clever",
       "translation": "賢い",
       "example": "That was a clever solution."
@@ -680,16 +625,6 @@
       "word": "climate",
       "translation": "気候",
       "example": "The climate is changing fast."
-    },
-    {
-      "word": "closed",
-      "translation": "閉まっている",
-      "example": "The shop is closed on Sundays."
-    },
-    {
-      "word": "clothing",
-      "translation": "衣類",
-      "example": "Warm clothing is essential here."
     },
     {
       "word": "cloud",
@@ -767,11 +702,6 @@
       "example": "Several people complained about the noise."
     },
     {
-      "word": "completely",
-      "translation": "完全に",
-      "example": "The file was completely lost."
-    },
-    {
       "word": "condition",
       "translation": "状態",
       "example": "The car is in good condition."
@@ -785,11 +715,6 @@
       "word": "connect",
       "translation": "つなぐ",
       "example": "Connect the cable to the back."
-    },
-    {
-      "word": "connected",
-      "translation": "つながっている",
-      "example": "The two rooms are connected."
     },
     {
       "word": "consider",
@@ -837,11 +762,6 @@
       "example": "The shop is on the corner."
     },
     {
-      "word": "correctly",
-      "translation": "正しく",
-      "example": "He spelled my name correctly."
-    },
-    {
       "word": "count",
       "translation": "数える",
       "example": "Count the chairs again."
@@ -860,11 +780,6 @@
       "word": "crazy",
       "translation": "狂った",
       "example": "That was a crazy idea."
-    },
-    {
-      "word": "creative",
-      "translation": "創造的な",
-      "example": "She has a creative mind."
     },
     {
       "word": "credit",
@@ -890,11 +805,6 @@
       "word": "crowd",
       "translation": "群衆",
       "example": "A crowd gathered outside."
-    },
-    {
-      "word": "crowded",
-      "translation": "混雑した",
-      "example": "The train was very crowded."
     },
     {
       "word": "cry",
@@ -1027,11 +937,6 @@
       "example": "She writes in her diary nightly."
     },
     {
-      "word": "differently",
-      "translation": "異なって",
-      "example": "He sees it differently."
-    },
-    {
       "word": "digital",
       "translation": "デジタルの",
       "example": "The digital version is free."
@@ -1070,11 +975,6 @@
       "word": "discover",
       "translation": "発見する",
       "example": "They discovered the error late."
-    },
-    {
-      "word": "discovery",
-      "translation": "発見",
-      "example": "The discovery changed everything."
     },
     {
       "word": "discussion",
@@ -1117,19 +1017,9 @@
       "example": "She studied drama at college."
     },
     {
-      "word": "drawing",
-      "translation": "絵",
-      "example": "His drawing won a prize."
-    },
-    {
       "word": "dream",
       "translation": "夢",
       "example": "I had a strange dream."
-    },
-    {
-      "word": "driving",
-      "translation": "運転",
-      "example": "Driving here is stressful."
     },
     {
       "word": "drop",
@@ -1162,11 +1052,6 @@
       "example": "The earth was soft after rain."
     },
     {
-      "word": "easily",
-      "translation": "簡単に",
-      "example": "He easily won the race."
-    },
-    {
       "word": "education",
       "translation": "教育",
       "example": "Education is free until sixteen."
@@ -1180,16 +1065,6 @@
       "word": "electric",
       "translation": "電気の",
       "example": "It is an electric kettle."
-    },
-    {
-      "word": "electrical",
-      "translation": "電気の",
-      "example": "An electrical fault caused it."
-    },
-    {
-      "word": "electricity",
-      "translation": "電気",
-      "example": "The electricity failed at noon."
     },
     {
       "word": "electronic",
@@ -1292,11 +1167,6 @@
       "example": "I need the exact figure."
     },
     {
-      "word": "exactly",
-      "translation": "正確に",
-      "example": "That is exactly what I meant."
-    },
-    {
       "word": "excellent",
       "translation": "すばらしい",
       "example": "The food was excellent."
@@ -1352,11 +1222,6 @@
       "example": "The heat was extreme."
     },
     {
-      "word": "extremely",
-      "translation": "非常に",
-      "example": "It is extremely rare."
-    },
-    {
       "word": "factor",
       "translation": "要因",
       "example": "Cost was the deciding factor."
@@ -1380,11 +1245,6 @@
       "word": "fan",
       "translation": "ファン",
       "example": "He is a fan of old films."
-    },
-    {
-      "word": "farming",
-      "translation": "農業",
-      "example": "Farming is hard work here."
     },
     {
       "word": "fashion",
@@ -1432,11 +1292,6 @@
       "example": "The final figure surprised us."
     },
     {
-      "word": "finally",
-      "translation": "ついに",
-      "example": "He finally agreed."
-    },
-    {
       "word": "finger",
       "translation": "指",
       "example": "She cut her finger."
@@ -1445,11 +1300,6 @@
       "word": "firstly",
       "translation": "第一に",
       "example": "Firstly, check the date."
-    },
-    {
-      "word": "fishing",
-      "translation": "釣り",
-      "example": "They went fishing at dawn."
     },
     {
       "word": "fit",
@@ -1475,11 +1325,6 @@
       "word": "focus",
       "translation": "集中する",
       "example": "Focus on one task at a time."
-    },
-    {
-      "word": "following",
-      "translation": "次の",
-      "example": "The following day was quiet."
     },
     {
       "word": "foreign",
@@ -1647,11 +1492,6 @@
       "example": "The hall was full by seven."
     },
     {
-      "word": "happily",
-      "translation": "幸せに",
-      "example": "She happily agreed."
-    },
-    {
       "word": "headache",
       "translation": "頭痛",
       "example": "I have a bad headache."
@@ -1675,11 +1515,6 @@
       "word": "height",
       "translation": "高さ",
       "example": "The height of the shelf is wrong."
-    },
-    {
-      "word": "helpful",
-      "translation": "役立つ",
-      "example": "The staff were very helpful."
     },
     {
       "word": "hero",
@@ -1777,16 +1612,6 @@
       "example": "That is simply impossible."
     },
     {
-      "word": "included",
-      "translation": "含まれた",
-      "example": "Breakfast is included."
-    },
-    {
-      "word": "including",
-      "translation": "を含めて",
-      "example": "Ten people came, including me."
-    },
-    {
       "word": "increase",
       "translation": "増える",
       "example": "Sales increased by a third."
@@ -1880,11 +1705,6 @@
       "word": "invention",
       "translation": "発明",
       "example": "The invention changed farming."
-    },
-    {
-      "word": "invitation",
-      "translation": "招待",
-      "example": "The invitation arrived late."
     },
     {
       "word": "invite",
@@ -2022,11 +1842,6 @@
       "example": "The leader spoke first."
     },
     {
-      "word": "learning",
-      "translation": "学習",
-      "example": "Learning a language takes time."
-    },
-    {
       "word": "lecture",
       "translation": "講義",
       "example": "The lecture starts at nine."
@@ -2097,11 +1912,6 @@
       "example": "The music was too loud."
     },
     {
-      "word": "loudly",
-      "translation": "大声で",
-      "example": "He spoke loudly on purpose."
-    },
-    {
       "word": "lovely",
       "translation": "素敵な",
       "example": "It was a lovely afternoon."
@@ -2115,11 +1925,6 @@
       "word": "luck",
       "translation": "運",
       "example": "With any luck we will arrive first."
-    },
-    {
-      "word": "lucky",
-      "translation": "幸運な",
-      "example": "You were lucky to find it."
     },
     {
       "word": "luggage",
@@ -2160,11 +1965,6 @@
       "word": "mark",
       "translation": "印、点数",
       "example": "She marked the page."
-    },
-    {
-      "word": "marry",
-      "translation": "結婚する",
-      "example": "They married in autumn."
     },
     {
       "word": "mask",
@@ -2247,11 +2047,6 @@
       "example": "The mirror was cracked."
     },
     {
-      "word": "missing",
-      "translation": "行方不明の",
-      "example": "One page is missing."
-    },
-    {
       "word": "mobile",
       "translation": "携帯電話",
       "example": "My mobile has no signal."
@@ -2275,16 +2070,6 @@
       "word": "motorcycle",
       "translation": "オートバイ",
       "example": "He sold his motorcycle."
-    },
-    {
-      "word": "movement",
-      "translation": "動き",
-      "example": "A slight movement caught his eye."
-    },
-    {
-      "word": "musical",
-      "translation": "音楽の",
-      "example": "She has real musical talent."
     },
     {
       "word": "musician",
@@ -2342,19 +2127,9 @@
       "example": "The noise stopped at last."
     },
     {
-      "word": "noisy",
-      "translation": "うるさい",
-      "example": "The street outside is noisy at night."
-    },
-    {
       "word": "normal",
       "translation": "普通の",
       "example": "It is normal to feel tired."
-    },
-    {
-      "word": "normally",
-      "translation": "普通は",
-      "example": "I normally walk to work."
     },
     {
       "word": "notice",
@@ -2407,11 +2182,6 @@
       "example": "It was an ordinary Tuesday."
     },
     {
-      "word": "organization",
-      "translation": "組織",
-      "example": "The organization has ten staff."
-    },
-    {
       "word": "organize",
       "translation": "組織する",
       "example": "She organized the whole trip."
@@ -2455,11 +2225,6 @@
       "word": "pants",
       "translation": "パンツ",
       "example": "His pants were covered in mud."
-    },
-    {
-      "word": "parking",
-      "translation": "駐車",
-      "example": "Parking is free after six."
     },
     {
       "word": "particular",
@@ -2525,11 +2290,6 @@
       "word": "permission",
       "translation": "許可",
       "example": "You need written permission."
-    },
-    {
-      "word": "personality",
-      "translation": "性格",
-      "example": "She has a strong personality."
     },
     {
       "word": "pet",
@@ -2712,11 +2472,6 @@
       "example": "His profile photo is old."
     },
     {
-      "word": "program",
-      "translation": "プログラム",
-      "example": "The program runs every hour."
-    },
-    {
       "word": "progress",
       "translation": "進歩",
       "example": "We are making slow progress."
@@ -2787,11 +2542,6 @@
       "example": "The queen opened the bridge."
     },
     {
-      "word": "quietly",
-      "translation": "静かに",
-      "example": "She closed the door quietly."
-    },
-    {
       "word": "race",
       "translation": "競争",
       "example": "He won the race easily."
@@ -2847,11 +2597,6 @@
       "example": "The recent changes helped."
     },
     {
-      "word": "recently",
-      "translation": "最近",
-      "example": "He recently moved house."
-    },
-    {
       "word": "reception",
       "translation": "受付",
       "example": "Ask at reception."
@@ -2875,11 +2620,6 @@
       "word": "record",
       "translation": "記録する",
       "example": "They recorded the meeting."
-    },
-    {
-      "word": "recording",
-      "translation": "録音",
-      "example": "The recording was too quiet."
     },
     {
       "word": "recycle",
@@ -3042,11 +2782,6 @@
       "example": "They sailed at first light."
     },
     {
-      "word": "sailing",
-      "translation": "セーリング",
-      "example": "Sailing is his weekend hobby."
-    },
-    {
       "word": "salary",
       "translation": "給料",
       "example": "Her salary rose in April."
@@ -3065,11 +2800,6 @@
       "word": "save",
       "translation": "救う、貯める",
       "example": "Save the file before closing."
-    },
-    {
-      "word": "scared",
-      "translation": "怖がった",
-      "example": "The dog was scared of thunder."
     },
     {
       "word": "scarf",
@@ -3232,11 +2962,6 @@
       "example": "I have not seen her since June."
     },
     {
-      "word": "singing",
-      "translation": "歌うこと",
-      "example": "Her singing filled the hall."
-    },
-    {
       "word": "single",
       "translation": "独身の",
       "example": "Not a single person came."
@@ -3277,11 +3002,6 @@
       "example": "The sky cleared by noon."
     },
     {
-      "word": "slowly",
-      "translation": "ゆっくりと",
-      "example": "Drive slowly through the village."
-    },
-    {
       "word": "smartphone",
       "translation": "スマートフォン",
       "example": "Her smartphone battery died."
@@ -3300,11 +3020,6 @@
       "word": "smoke",
       "translation": "煙、たばこを吸う",
       "example": "Smoke filled the corridor."
-    },
-    {
-      "word": "smoking",
-      "translation": "喫煙",
-      "example": "Smoking is banned inside."
     },
     {
       "word": "soap",
@@ -3497,11 +3212,6 @@
       "example": "She succeeded on her second try."
     },
     {
-      "word": "successful",
-      "translation": "成功した",
-      "example": "The evening was very successful."
-    },
-    {
       "word": "suddenly",
       "translation": "突然",
       "example": "Suddenly the lights went out."
@@ -3535,16 +3245,6 @@
       "word": "surprise",
       "translation": "驚き",
       "example": "The result was a surprise."
-    },
-    {
-      "word": "surprised",
-      "translation": "驚いた",
-      "example": "She looked surprised."
-    },
-    {
-      "word": "surprising",
-      "translation": "驚くべき",
-      "example": "The result was surprising."
     },
     {
       "word": "survey",
@@ -3592,19 +3292,9 @@
       "example": "The soup has no taste."
     },
     {
-      "word": "teaching",
-      "translation": "教えること",
-      "example": "Teaching suits her well."
-    },
-    {
       "word": "technology",
       "translation": "技術",
       "example": "Technology changed the job completely."
-    },
-    {
-      "word": "teenage",
-      "translation": "十代の",
-      "example": "They have two teenage sons."
     },
     {
       "word": "temperature",
@@ -3630,11 +3320,6 @@
       "word": "thin",
       "translation": "薄い",
       "example": "The ice was too thin."
-    },
-    {
-      "word": "thinking",
-      "translation": "考えること",
-      "example": "His thinking has changed."
     },
     {
       "word": "thought",
@@ -3722,11 +3407,6 @@
       "example": "It is an old family tradition."
     },
     {
-      "word": "traditional",
-      "translation": "伝統的な",
-      "example": "The dish is traditional here."
-    },
-    {
       "word": "trainer",
       "translation": "トレーナー",
       "example": "His trainer changed the plan."
@@ -3735,11 +3415,6 @@
       "word": "trainers",
       "translation": "スニーカー",
       "example": "He runs in old trainers."
-    },
-    {
-      "word": "training",
-      "translation": "訓練",
-      "example": "The training lasts six weeks."
     },
     {
       "word": "transport",
@@ -3777,11 +3452,6 @@
       "example": "The underground closes at midnight."
     },
     {
-      "word": "understanding",
-      "translation": "理解",
-      "example": "Her understanding of it is deep."
-    },
-    {
       "word": "unfortunately",
       "translation": "残念ながら",
       "example": "Unfortunately the shop was closed."
@@ -3800,11 +3470,6 @@
       "word": "unit",
       "translation": "単位",
       "example": "Each unit costs ten euros."
-    },
-    {
-      "word": "united",
-      "translation": "団結した",
-      "example": "The team stayed united."
     },
     {
       "word": "unusual",
@@ -3865,11 +3530,6 @@
       "word": "war",
       "translation": "戦争",
       "example": "The war lasted four years."
-    },
-    {
-      "word": "washing",
-      "translation": "洗濯",
-      "example": "The washing is still wet."
     },
     {
       "word": "wave",
@@ -3945,16 +3605,6 @@
       "word": "wooden",
       "translation": "木製の",
       "example": "A wooden bridge crosses it."
-    },
-    {
-      "word": "working",
-      "translation": "働くこと",
-      "example": "The lift is not working."
-    },
-    {
-      "word": "worried",
-      "translation": "心配している",
-      "example": "She looked worried."
     },
     {
       "word": "worry",

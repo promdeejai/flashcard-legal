@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "de",
   "level": "A2",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "ability",
@@ -47,11 +47,6 @@
       "example": "He acted quickly and saved the file."
     },
     {
-      "word": "active",
-      "translation": "aktiv",
-      "example": "She stays active in winter."
-    },
-    {
       "word": "actually",
       "translation": "eigentlich",
       "example": "It is actually much simpler."
@@ -70,16 +65,6 @@
       "word": "advertise",
       "translation": "werben",
       "example": "They advertise on the radio."
-    },
-    {
-      "word": "advertisement",
-      "translation": "die Werbung",
-      "example": "The advertisement was misleading."
-    },
-    {
-      "word": "advertising",
-      "translation": "die Werbung",
-      "example": "Advertising pays for the site."
     },
     {
       "word": "affect",
@@ -187,11 +172,6 @@
       "example": "A light appeared in the window."
     },
     {
-      "word": "appearance",
-      "translation": "das Aussehen",
-      "example": "His appearance changed a lot."
-    },
-    {
       "word": "apply",
       "translation": "sich bewerben",
       "example": "She applied for the job on Monday."
@@ -212,11 +192,6 @@
       "example": "They argued about the price."
     },
     {
-      "word": "argument",
-      "translation": "der Streit",
-      "example": "They had a short argument."
-    },
-    {
       "word": "army",
       "translation": "die Armee",
       "example": "His brother joined the army."
@@ -225,11 +200,6 @@
       "word": "arrange",
       "translation": "organisieren",
       "example": "She arranged the meeting for Friday."
-    },
-    {
-      "word": "arrangement",
-      "translation": "die Vereinbarung",
-      "example": "We made an arrangement for Friday."
     },
     {
       "word": "asleep",
@@ -522,24 +492,9 @@
       "example": "They camped near the lake."
     },
     {
-      "word": "camping",
-      "translation": "das Camping",
-      "example": "We went camping in June."
-    },
-    {
       "word": "care",
       "translation": "sich kümmern",
       "example": "She takes care of her father."
-    },
-    {
-      "word": "careful",
-      "translation": "vorsichtig",
-      "example": "Be careful on the wet floor."
-    },
-    {
-      "word": "carefully",
-      "translation": "sorgfältig",
-      "example": "Read the label carefully."
     },
     {
       "word": "carpet",
@@ -595,11 +550,6 @@
       "word": "certain",
       "translation": "sicher",
       "example": "I am not certain about the date."
-    },
-    {
-      "word": "certainly",
-      "translation": "sicherlich",
-      "example": "That is certainly possible."
     },
     {
       "word": "chance",
@@ -667,11 +617,6 @@
       "example": "The instructions were clear."
     },
     {
-      "word": "clearly",
-      "translation": "deutlich",
-      "example": "He explained it very clearly."
-    },
-    {
       "word": "clever",
       "translation": "klug",
       "example": "That was a clever solution."
@@ -680,16 +625,6 @@
       "word": "climate",
       "translation": "das Klima",
       "example": "The climate is changing fast."
-    },
-    {
-      "word": "closed",
-      "translation": "geschlossen",
-      "example": "The shop is closed on Sundays."
-    },
-    {
-      "word": "clothing",
-      "translation": "die Kleidung",
-      "example": "Warm clothing is essential here."
     },
     {
       "word": "cloud",
@@ -767,11 +702,6 @@
       "example": "Several people complained about the noise."
     },
     {
-      "word": "completely",
-      "translation": "völlig",
-      "example": "The file was completely lost."
-    },
-    {
       "word": "condition",
       "translation": "der Zustand",
       "example": "The car is in good condition."
@@ -785,11 +715,6 @@
       "word": "connect",
       "translation": "verbinden",
       "example": "Connect the cable to the back."
-    },
-    {
-      "word": "connected",
-      "translation": "verbunden",
-      "example": "The two rooms are connected."
     },
     {
       "word": "consider",
@@ -837,11 +762,6 @@
       "example": "The shop is on the corner."
     },
     {
-      "word": "correctly",
-      "translation": "richtig",
-      "example": "He spelled my name correctly."
-    },
-    {
       "word": "count",
       "translation": "zählen",
       "example": "Count the chairs again."
@@ -860,11 +780,6 @@
       "word": "crazy",
       "translation": "verrückt",
       "example": "That was a crazy idea."
-    },
-    {
-      "word": "creative",
-      "translation": "kreativ",
-      "example": "She has a creative mind."
     },
     {
       "word": "credit",
@@ -890,11 +805,6 @@
       "word": "crowd",
       "translation": "die Menge",
       "example": "A crowd gathered outside."
-    },
-    {
-      "word": "crowded",
-      "translation": "überfüllt",
-      "example": "The train was very crowded."
     },
     {
       "word": "cry",
@@ -1027,11 +937,6 @@
       "example": "She writes in her diary nightly."
     },
     {
-      "word": "differently",
-      "translation": "anders",
-      "example": "He sees it differently."
-    },
-    {
       "word": "digital",
       "translation": "digital",
       "example": "The digital version is free."
@@ -1070,11 +975,6 @@
       "word": "discover",
       "translation": "entdecken",
       "example": "They discovered the error late."
-    },
-    {
-      "word": "discovery",
-      "translation": "die Entdeckung",
-      "example": "The discovery changed everything."
     },
     {
       "word": "discussion",
@@ -1117,19 +1017,9 @@
       "example": "She studied drama at college."
     },
     {
-      "word": "drawing",
-      "translation": "die Zeichnung",
-      "example": "His drawing won a prize."
-    },
-    {
       "word": "dream",
       "translation": "der Traum",
       "example": "I had a strange dream."
-    },
-    {
-      "word": "driving",
-      "translation": "das Fahren",
-      "example": "Driving here is stressful."
     },
     {
       "word": "drop",
@@ -1162,11 +1052,6 @@
       "example": "The earth was soft after rain."
     },
     {
-      "word": "easily",
-      "translation": "leicht",
-      "example": "He easily won the race."
-    },
-    {
       "word": "education",
       "translation": "die Bildung",
       "example": "Education is free until sixteen."
@@ -1180,16 +1065,6 @@
       "word": "electric",
       "translation": "elektrisch",
       "example": "It is an electric kettle."
-    },
-    {
-      "word": "electrical",
-      "translation": "elektrisch",
-      "example": "An electrical fault caused it."
-    },
-    {
-      "word": "electricity",
-      "translation": "die Elektrizität",
-      "example": "The electricity failed at noon."
     },
     {
       "word": "electronic",
@@ -1292,11 +1167,6 @@
       "example": "I need the exact figure."
     },
     {
-      "word": "exactly",
-      "translation": "genau",
-      "example": "That is exactly what I meant."
-    },
-    {
       "word": "excellent",
       "translation": "ausgezeichnet",
       "example": "The food was excellent."
@@ -1352,11 +1222,6 @@
       "example": "The heat was extreme."
     },
     {
-      "word": "extremely",
-      "translation": "äußerst",
-      "example": "It is extremely rare."
-    },
-    {
       "word": "factor",
       "translation": "der Faktor",
       "example": "Cost was the deciding factor."
@@ -1380,11 +1245,6 @@
       "word": "fan",
       "translation": "der Fan",
       "example": "He is a fan of old films."
-    },
-    {
-      "word": "farming",
-      "translation": "die Landwirtschaft",
-      "example": "Farming is hard work here."
     },
     {
       "word": "fashion",
@@ -1432,11 +1292,6 @@
       "example": "The final figure surprised us."
     },
     {
-      "word": "finally",
-      "translation": "schließlich",
-      "example": "He finally agreed."
-    },
-    {
       "word": "finger",
       "translation": "der Finger",
       "example": "She cut her finger."
@@ -1445,11 +1300,6 @@
       "word": "firstly",
       "translation": "erstens",
       "example": "Firstly, check the date."
-    },
-    {
-      "word": "fishing",
-      "translation": "das Angeln",
-      "example": "They went fishing at dawn."
     },
     {
       "word": "fit",
@@ -1475,11 +1325,6 @@
       "word": "focus",
       "translation": "sich konzentrieren",
       "example": "Focus on one task at a time."
-    },
-    {
-      "word": "following",
-      "translation": "folgend",
-      "example": "The following day was quiet."
     },
     {
       "word": "foreign",
@@ -1647,11 +1492,6 @@
       "example": "The hall was full by seven."
     },
     {
-      "word": "happily",
-      "translation": "glücklich",
-      "example": "She happily agreed."
-    },
-    {
       "word": "headache",
       "translation": "die Kopfschmerzen",
       "example": "I have a bad headache."
@@ -1675,11 +1515,6 @@
       "word": "height",
       "translation": "die Höhe",
       "example": "The height of the shelf is wrong."
-    },
-    {
-      "word": "helpful",
-      "translation": "hilfreich",
-      "example": "The staff were very helpful."
     },
     {
       "word": "hero",
@@ -1777,16 +1612,6 @@
       "example": "That is simply impossible."
     },
     {
-      "word": "included",
-      "translation": "enthalten",
-      "example": "Breakfast is included."
-    },
-    {
-      "word": "including",
-      "translation": "einschließlich",
-      "example": "Ten people came, including me."
-    },
-    {
       "word": "increase",
       "translation": "erhöhen",
       "example": "Sales increased by a third."
@@ -1880,11 +1705,6 @@
       "word": "invention",
       "translation": "die Erfindung",
       "example": "The invention changed farming."
-    },
-    {
-      "word": "invitation",
-      "translation": "die Einladung",
-      "example": "The invitation arrived late."
     },
     {
       "word": "invite",
@@ -2022,11 +1842,6 @@
       "example": "The leader spoke first."
     },
     {
-      "word": "learning",
-      "translation": "das Lernen",
-      "example": "Learning a language takes time."
-    },
-    {
       "word": "lecture",
       "translation": "die Vorlesung",
       "example": "The lecture starts at nine."
@@ -2097,11 +1912,6 @@
       "example": "The music was too loud."
     },
     {
-      "word": "loudly",
-      "translation": "laut",
-      "example": "He spoke loudly on purpose."
-    },
-    {
       "word": "lovely",
       "translation": "schön",
       "example": "It was a lovely afternoon."
@@ -2115,11 +1925,6 @@
       "word": "luck",
       "translation": "das Glück",
       "example": "With any luck we will arrive first."
-    },
-    {
-      "word": "lucky",
-      "translation": "glücklich",
-      "example": "You were lucky to find it."
     },
     {
       "word": "luggage",
@@ -2160,11 +1965,6 @@
       "word": "mark",
       "translation": "die Note",
       "example": "She marked the page."
-    },
-    {
-      "word": "marry",
-      "translation": "heiraten",
-      "example": "They married in autumn."
     },
     {
       "word": "mask",
@@ -2247,11 +2047,6 @@
       "example": "The mirror was cracked."
     },
     {
-      "word": "missing",
-      "translation": "fehlend",
-      "example": "One page is missing."
-    },
-    {
       "word": "mobile",
       "translation": "das Handy",
       "example": "My mobile has no signal."
@@ -2275,16 +2070,6 @@
       "word": "motorcycle",
       "translation": "das Motorrad",
       "example": "He sold his motorcycle."
-    },
-    {
-      "word": "movement",
-      "translation": "die Bewegung",
-      "example": "A slight movement caught his eye."
-    },
-    {
-      "word": "musical",
-      "translation": "musikalisch",
-      "example": "She has real musical talent."
     },
     {
       "word": "musician",
@@ -2342,19 +2127,9 @@
       "example": "The noise stopped at last."
     },
     {
-      "word": "noisy",
-      "translation": "laut",
-      "example": "The street outside is noisy at night."
-    },
-    {
       "word": "normal",
       "translation": "normal",
       "example": "It is normal to feel tired."
-    },
-    {
-      "word": "normally",
-      "translation": "normalerweise",
-      "example": "I normally walk to work."
     },
     {
       "word": "notice",
@@ -2407,11 +2182,6 @@
       "example": "It was an ordinary Tuesday."
     },
     {
-      "word": "organization",
-      "translation": "die Organisation",
-      "example": "The organization has ten staff."
-    },
-    {
       "word": "organize",
       "translation": "organisieren",
       "example": "She organized the whole trip."
@@ -2455,11 +2225,6 @@
       "word": "pants",
       "translation": "die Unterhose",
       "example": "His pants were covered in mud."
-    },
-    {
-      "word": "parking",
-      "translation": "das Parken",
-      "example": "Parking is free after six."
     },
     {
       "word": "particular",
@@ -2525,11 +2290,6 @@
       "word": "permission",
       "translation": "die Erlaubnis",
       "example": "You need written permission."
-    },
-    {
-      "word": "personality",
-      "translation": "die Persönlichkeit",
-      "example": "She has a strong personality."
     },
     {
       "word": "pet",
@@ -2712,11 +2472,6 @@
       "example": "His profile photo is old."
     },
     {
-      "word": "program",
-      "translation": "das Programm",
-      "example": "The program runs every hour."
-    },
-    {
       "word": "progress",
       "translation": "der Fortschritt",
       "example": "We are making slow progress."
@@ -2787,11 +2542,6 @@
       "example": "The queen opened the bridge."
     },
     {
-      "word": "quietly",
-      "translation": "leise",
-      "example": "She closed the door quietly."
-    },
-    {
       "word": "race",
       "translation": "das Rennen",
       "example": "He won the race easily."
@@ -2847,11 +2597,6 @@
       "example": "The recent changes helped."
     },
     {
-      "word": "recently",
-      "translation": "kürzlich",
-      "example": "He recently moved house."
-    },
-    {
       "word": "reception",
       "translation": "der Empfang",
       "example": "Ask at reception."
@@ -2875,11 +2620,6 @@
       "word": "record",
       "translation": "die Aufnahme, aufnehmen",
       "example": "They recorded the meeting."
-    },
-    {
-      "word": "recording",
-      "translation": "die Aufnahme",
-      "example": "The recording was too quiet."
     },
     {
       "word": "recycle",
@@ -3042,11 +2782,6 @@
       "example": "They sailed at first light."
     },
     {
-      "word": "sailing",
-      "translation": "das Segeln",
-      "example": "Sailing is his weekend hobby."
-    },
-    {
       "word": "salary",
       "translation": "das Gehalt",
       "example": "Her salary rose in April."
@@ -3065,11 +2800,6 @@
       "word": "save",
       "translation": "retten, sparen",
       "example": "Save the file before closing."
-    },
-    {
-      "word": "scared",
-      "translation": "verängstigt",
-      "example": "The dog was scared of thunder."
     },
     {
       "word": "scarf",
@@ -3232,11 +2962,6 @@
       "example": "I have not seen her since June."
     },
     {
-      "word": "singing",
-      "translation": "das Singen",
-      "example": "Her singing filled the hall."
-    },
-    {
       "word": "single",
       "translation": "ledig, einzeln",
       "example": "Not a single person came."
@@ -3277,11 +3002,6 @@
       "example": "The sky cleared by noon."
     },
     {
-      "word": "slowly",
-      "translation": "langsam",
-      "example": "Drive slowly through the village."
-    },
-    {
       "word": "smartphone",
       "translation": "das Smartphone",
       "example": "Her smartphone battery died."
@@ -3300,11 +3020,6 @@
       "word": "smoke",
       "translation": "der Rauch, rauchen",
       "example": "Smoke filled the corridor."
-    },
-    {
-      "word": "smoking",
-      "translation": "das Rauchen",
-      "example": "Smoking is banned inside."
     },
     {
       "word": "soap",
@@ -3497,11 +3212,6 @@
       "example": "She succeeded on her second try."
     },
     {
-      "word": "successful",
-      "translation": "erfolgreich",
-      "example": "The evening was very successful."
-    },
-    {
       "word": "suddenly",
       "translation": "plötzlich",
       "example": "Suddenly the lights went out."
@@ -3535,16 +3245,6 @@
       "word": "surprise",
       "translation": "die Überraschung",
       "example": "The result was a surprise."
-    },
-    {
-      "word": "surprised",
-      "translation": "überrascht",
-      "example": "She looked surprised."
-    },
-    {
-      "word": "surprising",
-      "translation": "überraschend",
-      "example": "The result was surprising."
     },
     {
       "word": "survey",
@@ -3592,19 +3292,9 @@
       "example": "The soup has no taste."
     },
     {
-      "word": "teaching",
-      "translation": "das Unterrichten",
-      "example": "Teaching suits her well."
-    },
-    {
       "word": "technology",
       "translation": "die Technologie",
       "example": "Technology changed the job completely."
-    },
-    {
-      "word": "teenage",
-      "translation": "jugendlich",
-      "example": "They have two teenage sons."
     },
     {
       "word": "temperature",
@@ -3630,11 +3320,6 @@
       "word": "thin",
       "translation": "dünn",
       "example": "The ice was too thin."
-    },
-    {
-      "word": "thinking",
-      "translation": "das Denken",
-      "example": "His thinking has changed."
     },
     {
       "word": "thought",
@@ -3722,11 +3407,6 @@
       "example": "It is an old family tradition."
     },
     {
-      "word": "traditional",
-      "translation": "traditionell",
-      "example": "The dish is traditional here."
-    },
-    {
       "word": "trainer",
       "translation": "der Trainer",
       "example": "His trainer changed the plan."
@@ -3735,11 +3415,6 @@
       "word": "trainers",
       "translation": "die Turnschuhe",
       "example": "He runs in old trainers."
-    },
-    {
-      "word": "training",
-      "translation": "das Training",
-      "example": "The training lasts six weeks."
     },
     {
       "word": "transport",
@@ -3777,11 +3452,6 @@
       "example": "The underground closes at midnight."
     },
     {
-      "word": "understanding",
-      "translation": "das Verständnis",
-      "example": "Her understanding of it is deep."
-    },
-    {
       "word": "unfortunately",
       "translation": "leider",
       "example": "Unfortunately the shop was closed."
@@ -3800,11 +3470,6 @@
       "word": "unit",
       "translation": "die Einheit",
       "example": "Each unit costs ten euros."
-    },
-    {
-      "word": "united",
-      "translation": "vereint",
-      "example": "The team stayed united."
     },
     {
       "word": "unusual",
@@ -3865,11 +3530,6 @@
       "word": "war",
       "translation": "der Krieg",
       "example": "The war lasted four years."
-    },
-    {
-      "word": "washing",
-      "translation": "das Waschen",
-      "example": "The washing is still wet."
     },
     {
       "word": "wave",
@@ -3945,16 +3605,6 @@
       "word": "wooden",
       "translation": "hölzern",
       "example": "A wooden bridge crosses it."
-    },
-    {
-      "word": "working",
-      "translation": "arbeitend",
-      "example": "The lift is not working."
-    },
-    {
-      "word": "worried",
-      "translation": "besorgt",
-      "example": "She looked worried."
     },
     {
       "word": "worry",

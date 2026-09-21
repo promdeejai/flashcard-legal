@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "fr",
   "level": "C2",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "abate",
@@ -142,11 +142,6 @@
       "example": "The board accredited the course last year."
     },
     {
-      "word": "accreditation",
-      "translation": "accréditation",
-      "example": "Accreditation lasts five years."
-    },
-    {
       "word": "accrue",
       "translation": "s'accumuler",
       "example": "Interest accrues from the first day."
@@ -162,19 +157,9 @@
       "example": "She acquiesced without argument."
     },
     {
-      "word": "acquiescence",
-      "translation": "acquiescement",
-      "example": "Silence was taken as acquiescence."
-    },
-    {
       "word": "acquit",
       "translation": "acquitter",
       "example": "The jury acquitted him."
-    },
-    {
-      "word": "acrimonious",
-      "translation": "acrimonieux",
-      "example": "The dispute became acrimonious."
     },
     {
       "word": "acrimony",
@@ -202,11 +187,6 @@
       "example": "She was adamant about the date."
     },
     {
-      "word": "adherence",
-      "translation": "adhésion",
-      "example": "Adherence to the rules is expected."
-    },
-    {
       "word": "adherent",
       "translation": "adhérent",
       "example": "The theory has few adherents now."
@@ -215,11 +195,6 @@
       "word": "adjuration",
       "translation": "adjuration",
       "example": "His adjuration to stay calm worked."
-    },
-    {
-      "word": "admittance",
-      "translation": "entrée",
-      "example": "Admittance is by ticket only."
     },
     {
       "word": "admonish",
@@ -245,11 +220,6 @@
       "word": "adversary",
       "translation": "adversaire",
       "example": "He respected his old adversary."
-    },
-    {
-      "word": "adversity",
-      "translation": "adversité",
-      "example": "She kept her humour in adversity."
     },
     {
       "word": "aegis",
@@ -600,11 +570,6 @@
       "word": "austere",
       "translation": "austère",
       "example": "The room was austere but warm."
-    },
-    {
-      "word": "austerity",
-      "translation": "austérité",
-      "example": "Years of austerity followed the crisis."
     },
     {
       "word": "autocracy",
@@ -1107,11 +1072,6 @@
       "example": "The cloister runs round the garden."
     },
     {
-      "word": "cloistered",
-      "translation": "cloîtré",
-      "example": "She led a cloistered life."
-    },
-    {
       "word": "clout",
       "translation": "influence",
       "example": "The committee has real clout."
@@ -1295,11 +1255,6 @@
       "word": "contagion",
       "translation": "contagion",
       "example": "The panic spread like contagion."
-    },
-    {
-      "word": "contemptible",
-      "translation": "méprisable",
-      "example": "The excuse was contemptible."
     },
     {
       "word": "continuum",
@@ -1657,11 +1612,6 @@
       "example": "The winter depleted our stores."
     },
     {
-      "word": "deplorable",
-      "translation": "déplorable",
-      "example": "The state of the road is deplorable."
-    },
-    {
       "word": "deplore",
       "translation": "déplorer",
       "example": "The council deplored the damage."
@@ -1740,11 +1690,6 @@
       "word": "detriment",
       "translation": "détriment",
       "example": "He worked late, to the detriment of his health."
-    },
-    {
-      "word": "detrimental",
-      "translation": "préjudiciable",
-      "example": "The damp is detrimental to the books."
     },
     {
       "word": "deviation",
@@ -1847,11 +1792,6 @@
       "example": "There is growing disaffection among staff."
     },
     {
-      "word": "discernment",
-      "translation": "discernement",
-      "example": "Her discernment saved us a mistake."
-    },
-    {
       "word": "disciple",
       "translation": "disciple",
       "example": "He was a disciple of the older painter."
@@ -1912,11 +1852,6 @@
       "example": "The report is dispassionate."
     },
     {
-      "word": "dispensation",
-      "translation": "dispense",
-      "example": "They received a special dispensation."
-    },
-    {
       "word": "dispense",
       "translation": "dispenser",
       "example": "The machine dispenses tickets."
@@ -1970,11 +1905,6 @@
       "word": "dissonance",
       "translation": "dissonance",
       "example": "There is a dissonance between word and act."
-    },
-    {
-      "word": "divination",
-      "translation": "divination",
-      "example": "The chapter covers early divination."
     },
     {
       "word": "divulge",
@@ -2085,11 +2015,6 @@
       "word": "edict",
       "translation": "édit",
       "example": "The edict was read in the square."
-    },
-    {
-      "word": "edification",
-      "translation": "édification",
-      "example": "The tour is for our edification."
     },
     {
       "word": "edifice",
@@ -2342,11 +2267,6 @@
       "example": "She is the epitome of patience."
     },
     {
-      "word": "epitomize",
-      "translation": "incarner",
-      "example": "The building epitomizes the period."
-    },
-    {
       "word": "epoch",
       "translation": "époque",
       "example": "The invention began a new epoch."
@@ -2467,11 +2387,6 @@
       "example": "The review exalted her early work."
     },
     {
-      "word": "exaltation",
-      "translation": "exaltation",
-      "example": "There was a note of exaltation in the letter."
-    },
-    {
       "word": "exchequer",
       "translation": "trésor public",
       "example": "The exchequer met the cost."
@@ -2500,11 +2415,6 @@
       "word": "exhort",
       "translation": "exhorter",
       "example": "She exhorted them to keep going."
-    },
-    {
-      "word": "exhortation",
-      "translation": "exhortation",
-      "example": "His exhortation to be patient helped."
     },
     {
       "word": "exigency",
@@ -2640,11 +2550,6 @@
       "word": "facsimile",
       "translation": "fac-similé",
       "example": "The book is a facsimile of the original."
-    },
-    {
-      "word": "fallacious",
-      "translation": "fallacieux",
-      "example": "The argument is fallacious."
     },
     {
       "word": "fallibility",
@@ -2985,11 +2890,6 @@
       "word": "futile",
       "translation": "futile",
       "example": "Further argument was futile."
-    },
-    {
-      "word": "futility",
-      "translation": "futilité",
-      "example": "The futility of it struck her at once."
     },
     {
       "word": "gaffe",
@@ -3382,11 +3282,6 @@
       "example": "The valley is idyllic in May."
     },
     {
-      "word": "ignominious",
-      "translation": "ignominieux",
-      "example": "The team suffered an ignominious defeat."
-    },
-    {
       "word": "ignominy",
       "translation": "ignominie",
       "example": "He could not bear the ignominy."
@@ -3420,11 +3315,6 @@
       "word": "immeasurably",
       "translation": "incommensurablement",
       "example": "The view improved immeasurably."
-    },
-    {
-      "word": "immensity",
-      "translation": "immensité",
-      "example": "The immensity of the plain surprised her."
     },
     {
       "word": "immortal",
@@ -3465,11 +3355,6 @@
       "word": "impeccable",
       "translation": "impeccable",
       "example": "Her timing was impeccable."
-    },
-    {
-      "word": "impediment",
-      "translation": "obstacle",
-      "example": "Cost is the main impediment."
     },
     {
       "word": "imperative",
@@ -3745,11 +3630,6 @@
       "word": "indomitable",
       "translation": "indomptable",
       "example": "Her spirit was indomitable."
-    },
-    {
-      "word": "inducement",
-      "translation": "incitation",
-      "example": "The bonus was an inducement to stay."
     },
     {
       "word": "induction",
@@ -4142,11 +4022,6 @@
       "example": "His jocular manner put us at ease."
     },
     {
-      "word": "jocularity",
-      "translation": "jovialité",
-      "example": "The jocularity hid real worry."
-    },
-    {
       "word": "journeyman",
       "translation": "compagnon",
       "example": "He was a journeyman carpenter."
@@ -4282,11 +4157,6 @@
       "example": "She lamented the loss of the trees."
     },
     {
-      "word": "lamentable",
-      "translation": "lamentable",
-      "example": "The state of the record is lamentable."
-    },
-    {
       "word": "lampoon",
       "translation": "pamphlet",
       "example": "The cartoon lampooned the mayor."
@@ -4325,11 +4195,6 @@
       "word": "laud",
       "translation": "louer",
       "example": "Reviewers lauded the translation."
-    },
-    {
-      "word": "laudable",
-      "translation": "louable",
-      "example": "The aim is laudable."
     },
     {
       "word": "laureate",
@@ -4595,11 +4460,6 @@
       "word": "malodorous",
       "translation": "malodorant",
       "example": "The drain was malodorous."
-    },
-    {
-      "word": "manifestation",
-      "translation": "manifestation",
-      "example": "The rash is a manifestation of the illness."
     },
     {
       "word": "mannerism",
@@ -5072,19 +4932,9 @@
       "example": "The reference is obscure."
     },
     {
-      "word": "obscurity",
-      "translation": "obscurité",
-      "example": "She wrote in obscurity for years."
-    },
-    {
       "word": "obsequious",
       "translation": "obséquieux",
       "example": "His obsequious manner made us uneasy."
-    },
-    {
-      "word": "observance",
-      "translation": "observance",
-      "example": "The observance of the rule is patchy."
     },
     {
       "word": "obsolescence",
@@ -5210,11 +5060,6 @@
       "word": "orator",
       "translation": "orateur",
       "example": "He was a fine orator."
-    },
-    {
-      "word": "oratory",
-      "translation": "art oratoire",
-      "example": "Her oratory filled the hall."
     },
     {
       "word": "ordeal",
@@ -5442,11 +5287,6 @@
       "example": "The sketch is a parody of the news."
     },
     {
-      "word": "parsimonious",
-      "translation": "parcimonieux",
-      "example": "He is parsimonious with praise."
-    },
-    {
       "word": "parsimony",
       "translation": "parcimonie",
       "example": "Her parsimony kept the trust alive."
@@ -5455,11 +5295,6 @@
       "word": "partisan",
       "translation": "partisan",
       "example": "The report is partisan."
-    },
-    {
-      "word": "partisanship",
-      "translation": "partisanerie",
-      "example": "Partisanship ruined the debate."
     },
     {
       "word": "pastiche",
@@ -5587,11 +5422,6 @@
       "example": "Parking is a perennial problem."
     },
     {
-      "word": "perfidious",
-      "translation": "perfide",
-      "example": "The ally proved perfidious."
-    },
-    {
       "word": "perfidy",
       "translation": "perfidie",
       "example": "The perfidy of his closest ally stunned him."
@@ -5605,11 +5435,6 @@
       "word": "peril",
       "translation": "péril",
       "example": "The crossing is full of peril."
-    },
-    {
-      "word": "perilous",
-      "translation": "périlleux",
-      "example": "The descent is perilous."
     },
     {
       "word": "perimeter",
@@ -5752,11 +5577,6 @@
       "example": "She reached the pinnacle of the profession."
     },
     {
-      "word": "pioneering",
-      "translation": "pionnier",
-      "example": "The work was pioneering."
-    },
-    {
       "word": "pious",
       "translation": "pieux",
       "example": "He was a pious and gentle man."
@@ -5887,11 +5707,6 @@
       "example": "The ceremony was full of pomp."
     },
     {
-      "word": "pompous",
-      "translation": "pompeux",
-      "example": "His manner is pompous."
-    },
-    {
       "word": "ponder",
       "translation": "méditer",
       "example": "She pondered the offer for a week."
@@ -5925,11 +5740,6 @@
       "word": "portent",
       "translation": "présage",
       "example": "The silence felt like a portent."
-    },
-    {
-      "word": "portentous",
-      "translation": "de mauvais augure",
-      "example": "The music is portentous."
     },
     {
       "word": "posterity",
@@ -5970,11 +5780,6 @@
       "word": "precarious",
       "translation": "précaire",
       "example": "Their position is precarious."
-    },
-    {
-      "word": "precedence",
-      "translation": "préséance",
-      "example": "Safety takes precedence."
     },
     {
       "word": "precipice",
@@ -6132,19 +5937,9 @@
       "example": "They procured the parts abroad."
     },
     {
-      "word": "procurement",
-      "translation": "approvisionnement",
-      "example": "Procurement takes three months."
-    },
-    {
       "word": "prodigal",
       "translation": "prodigue",
       "example": "The prodigal spending ended in debt."
-    },
-    {
-      "word": "prodigious",
-      "translation": "prodigieux",
-      "example": "The output was prodigious."
     },
     {
       "word": "prodigy",
@@ -6667,11 +6462,6 @@
       "example": "The old painter became a recluse."
     },
     {
-      "word": "reclusive",
-      "translation": "reclus",
-      "example": "She led a reclusive life."
-    },
-    {
       "word": "recondite",
       "translation": "obscur",
       "example": "The subject is recondite."
@@ -6732,19 +6522,9 @@
       "example": "The refinery closed in 1998."
     },
     {
-      "word": "reformation",
-      "translation": "réforme",
-      "example": "The reformation of the system took a decade."
-    },
-    {
       "word": "refractory",
       "translation": "réfractaire",
       "example": "The metal is refractory."
-    },
-    {
-      "word": "refutation",
-      "translation": "réfutation",
-      "example": "Her refutation was point by point."
     },
     {
       "word": "refute",
@@ -6872,11 +6652,6 @@
       "example": "She renounced the claim in writing."
     },
     {
-      "word": "renown",
-      "translation": "renommée",
-      "example": "The maker has real renown."
-    },
-    {
       "word": "reparation",
       "translation": "réparation",
       "example": "The treaty required reparation."
@@ -6972,11 +6747,6 @@
       "example": "The idea is repugnant to him."
     },
     {
-      "word": "repute",
-      "translation": "réputation",
-      "example": "The maker is of good repute."
-    },
-    {
       "word": "requisite",
       "translation": "requis",
       "example": "She has the requisite experience."
@@ -6992,11 +6762,6 @@
       "example": "The board rescinded the order."
     },
     {
-      "word": "residual",
-      "translation": "résiduel",
-      "example": "There is a residual doubt."
-    },
-    {
       "word": "resilience",
       "translation": "résilience",
       "example": "The town showed real resilience."
@@ -7005,11 +6770,6 @@
       "word": "resolute",
       "translation": "résolu",
       "example": "She was resolute about leaving."
-    },
-    {
-      "word": "resolutely",
-      "translation": "résolument",
-      "example": "He refused resolutely."
     },
     {
       "word": "resonance",
@@ -7102,11 +6862,6 @@
       "example": "The tone is reverent."
     },
     {
-      "word": "reverential",
-      "translation": "révérencieux",
-      "example": "She spoke in a reverential tone."
-    },
-    {
       "word": "reverie",
       "translation": "rêverie",
       "example": "He fell into a long reverie."
@@ -7187,11 +6942,6 @@
       "example": "He learned the rudiments of Thai."
     },
     {
-      "word": "ruination",
-      "translation": "ruine",
-      "example": "The flood was the ruination of the crop."
-    },
-    {
       "word": "ruminate",
       "translation": "ruminer",
       "example": "She ruminated on the offer all week."
@@ -7245,11 +6995,6 @@
       "word": "sage",
       "translation": "sage",
       "example": "The old sage said little."
-    },
-    {
-      "word": "sainthood",
-      "translation": "sainteté",
-      "example": "The question of sainthood took centuries."
     },
     {
       "word": "salubrious",
@@ -7487,11 +7232,6 @@
       "example": "His servile manner was painful."
     },
     {
-      "word": "servility",
-      "translation": "servilité",
-      "example": "The servility of the reply surprised her."
-    },
-    {
       "word": "servitude",
       "translation": "servitude",
       "example": "The chapter describes lifelong servitude."
@@ -7500,11 +7240,6 @@
       "word": "severance",
       "translation": "indemnité de licenciement",
       "example": "She received a severance payment."
-    },
-    {
-      "word": "severity",
-      "translation": "gravité",
-      "example": "The severity of the winter surprised us."
     },
     {
       "word": "shackle",
@@ -7552,11 +7287,6 @@
       "example": "Mist shrouded the valley."
     },
     {
-      "word": "shrouded",
-      "translation": "enveloppé",
-      "example": "The plan is shrouded in secrecy."
-    },
-    {
       "word": "shun",
       "translation": "éviter",
       "example": "The village shunned him for a year."
@@ -7590,11 +7320,6 @@
       "word": "singular",
       "translation": "singulier",
       "example": "The result was singular."
-    },
-    {
-      "word": "singularity",
-      "translation": "singularité",
-      "example": "The singularity of her style is obvious."
     },
     {
       "word": "siren",
@@ -7670,11 +7395,6 @@
       "word": "solemn",
       "translation": "solennel",
       "example": "The occasion was solemn."
-    },
-    {
-      "word": "solemnity",
-      "translation": "solennité",
-      "example": "The solemnity of the room silenced us."
     },
     {
       "word": "solicitous",
@@ -7905,11 +7625,6 @@
       "word": "steward",
       "translation": "intendant",
       "example": "The steward showed us the cellar."
-    },
-    {
-      "word": "stewardship",
-      "translation": "gestion",
-      "example": "Her stewardship of the fund was careful."
     },
     {
       "word": "stickler",
@@ -8462,19 +8177,9 @@
       "example": "The garden is a testament to her patience."
     },
     {
-      "word": "testimonial",
-      "translation": "témoignage",
-      "example": "She wrote a testimonial for him."
-    },
-    {
       "word": "tether",
       "translation": "attacher",
       "example": "The goat is on a long tether."
-    },
-    {
-      "word": "theatricality",
-      "translation": "théâtralité",
-      "example": "The theatricality of it made us smile."
     },
     {
       "word": "theologian",
@@ -8642,11 +8347,6 @@
       "example": "The guide applied a tourniquet."
     },
     {
-      "word": "toxicity",
-      "translation": "toxicité",
-      "example": "The toxicity of the fumes was measured."
-    },
-    {
       "word": "tract",
       "translation": "tract",
       "example": "A tract of moorland lies beyond."
@@ -8692,19 +8392,9 @@
       "example": "The bay is tranquil at dawn."
     },
     {
-      "word": "tranquillity",
-      "translation": "tranquillité",
-      "example": "The tranquillity is what they come for."
-    },
-    {
       "word": "transcend",
       "translation": "transcender",
       "example": "The book transcends its subject."
-    },
-    {
-      "word": "transcendence",
-      "translation": "transcendance",
-      "example": "The poem is about transcendence."
     },
     {
       "word": "transcribe",
@@ -8792,11 +8482,6 @@
       "example": "The stream is a tributary of the river."
     },
     {
-      "word": "trickery",
-      "translation": "supercherie",
-      "example": "The deal involved trickery."
-    },
-    {
       "word": "trickster",
       "translation": "filou",
       "example": "The trickster fools everyone in the tale."
@@ -8845,11 +8530,6 @@
       "word": "truncate",
       "translation": "tronquer",
       "example": "The article was truncated."
-    },
-    {
-      "word": "trusteeship",
-      "translation": "tutelle",
-      "example": "The trusteeship passed to her niece."
     },
     {
       "word": "tumult",
@@ -8982,11 +8662,6 @@
       "example": "He sent an underling to the meeting."
     },
     {
-      "word": "underpinning",
-      "translation": "fondement",
-      "example": "The theory has a firm underpinning."
-    },
-    {
       "word": "understatement",
       "translation": "euphémisme",
       "example": "Calling it damp is an understatement."
@@ -9000,11 +8675,6 @@
       "word": "undertaker",
       "translation": "entrepreneur de pompes funèbres",
       "example": "The undertaker arranged everything."
-    },
-    {
-      "word": "undertaking",
-      "translation": "entreprise",
-      "example": "The move was a large undertaking."
     },
     {
       "word": "undertone",
@@ -9052,19 +8722,9 @@
       "example": "Unification took another decade."
     },
     {
-      "word": "uniformity",
-      "translation": "uniformité",
-      "example": "The uniformity of the rows is pleasing."
-    },
-    {
       "word": "unison",
       "translation": "unisson",
       "example": "They answered in unison."
-    },
-    {
-      "word": "universality",
-      "translation": "universalité",
-      "example": "The theme has real universality."
     },
     {
       "word": "unpalatable",
@@ -9142,11 +8802,6 @@
       "example": "The decision caused an uproar."
     },
     {
-      "word": "uproarious",
-      "translation": "tonitruant",
-      "example": "The evening was uproarious."
-    },
-    {
       "word": "upshot",
       "translation": "résultat",
       "example": "The upshot was a longer wait."
@@ -9180,11 +8835,6 @@
       "word": "usurp",
       "translation": "usurper",
       "example": "He usurped the role of chairman."
-    },
-    {
-      "word": "usurpation",
-      "translation": "usurpation",
-      "example": "The usurpation lasted two years."
     },
     {
       "word": "utensil",
@@ -9262,11 +8912,6 @@
       "example": "His valour was recorded in the diary."
     },
     {
-      "word": "valuation",
-      "translation": "évaluation",
-      "example": "The valuation came in low."
-    },
-    {
       "word": "vandal",
       "translation": "vandale",
       "example": "A vandal broke the window."
@@ -9292,19 +8937,9 @@
       "example": "They vanquished the old champion."
     },
     {
-      "word": "vanquished",
-      "translation": "vaincu",
-      "example": "The vanquished side left quietly."
-    },
-    {
       "word": "vapid",
       "translation": "insipide",
       "example": "The conversation was vapid."
-    },
-    {
-      "word": "variance",
-      "translation": "écart",
-      "example": "The result is at variance with the theory."
     },
     {
       "word": "variegated",
@@ -9427,11 +9062,6 @@
       "example": "She wrote in the vernacular."
     },
     {
-      "word": "versatility",
-      "translation": "polyvalence",
-      "example": "The tool's versatility is its selling point."
-    },
-    {
       "word": "vertex",
       "translation": "sommet",
       "example": "The vertex of the triangle is here."
@@ -9492,11 +9122,6 @@
       "example": "They kept a vigil through the night."
     },
     {
-      "word": "vigilance",
-      "translation": "vigilance",
-      "example": "Constant vigilance is needed."
-    },
-    {
       "word": "vigilante",
       "translation": "justicier",
       "example": "The film is about a vigilante."
@@ -9525,11 +9150,6 @@
       "word": "villain",
       "translation": "vilain",
       "example": "The villain is the most interesting part."
-    },
-    {
-      "word": "villainy",
-      "translation": "infamie",
-      "example": "The play is full of villainy."
     },
     {
       "word": "vindicate",
@@ -9602,11 +9222,6 @@
       "example": "A vista opened at the top."
     },
     {
-      "word": "vitality",
-      "translation": "vitalité",
-      "example": "The town has real vitality."
-    },
-    {
       "word": "vitriolic",
       "translation": "vitriolique",
       "example": "The review was vitriolic."
@@ -9650,11 +9265,6 @@
       "word": "volatile",
       "translation": "volatil",
       "example": "The market is volatile."
-    },
-    {
-      "word": "volatility",
-      "translation": "volatilité",
-      "example": "The volatility of the price worries them."
     },
     {
       "word": "volition",
@@ -9790,11 +9400,6 @@
       "word": "whimsical",
       "translation": "fantasque",
       "example": "The design is whimsical."
-    },
-    {
-      "word": "whimsy",
-      "translation": "fantaisie",
-      "example": "The book has a gentle whimsy."
     },
     {
       "word": "whirlpool",
@@ -9975,11 +9580,6 @@
       "word": "zealotry",
       "translation": "fanatisme",
       "example": "The campaign tipped into zealotry."
-    },
-    {
-      "word": "zealous",
-      "translation": "zélé",
-      "example": "She is zealous in her work."
     },
     {
       "word": "zeitgeist",

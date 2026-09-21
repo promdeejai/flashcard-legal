@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "decks": [
     {
       "id": "en-th-a1",
@@ -9,8 +9,8 @@
       "learn": "en",
       "native": "th",
       "level": "A1",
-      "words": 723,
-      "version": 16,
+      "words": 707,
+      "version": 17,
       "file": "en-th-a1.json"
     },
     {
@@ -20,8 +20,8 @@
       "learn": "en",
       "native": "es",
       "level": "A1",
-      "words": 723,
-      "version": 16,
+      "words": 707,
+      "version": 17,
       "file": "en-es-a1.json"
     },
     {
@@ -31,8 +31,8 @@
       "learn": "en",
       "native": "fr",
       "level": "A1",
-      "words": 723,
-      "version": 16,
+      "words": 707,
+      "version": 17,
       "file": "en-fr-a1.json"
     },
     {
@@ -42,8 +42,8 @@
       "learn": "en",
       "native": "de",
       "level": "A1",
-      "words": 723,
-      "version": 16,
+      "words": 707,
+      "version": 17,
       "file": "en-de-a1.json"
     },
     {
@@ -53,8 +53,8 @@
       "learn": "en",
       "native": "ja",
       "level": "A1",
-      "words": 723,
-      "version": 16,
+      "words": 707,
+      "version": 17,
       "file": "en-ja-a1.json"
     },
     {
@@ -64,8 +64,8 @@
       "learn": "en",
       "native": "th",
       "level": "A2",
-      "words": 796,
-      "version": 16,
+      "words": 726,
+      "version": 17,
       "file": "en-th-a2.json"
     },
     {
@@ -75,8 +75,8 @@
       "learn": "en",
       "native": "es",
       "level": "A2",
-      "words": 796,
-      "version": 16,
+      "words": 726,
+      "version": 17,
       "file": "en-es-a2.json"
     },
     {
@@ -86,8 +86,8 @@
       "learn": "en",
       "native": "fr",
       "level": "A2",
-      "words": 796,
-      "version": 16,
+      "words": 726,
+      "version": 17,
       "file": "en-fr-a2.json"
     },
     {
@@ -97,8 +97,8 @@
       "learn": "en",
       "native": "de",
       "level": "A2",
-      "words": 796,
-      "version": 16,
+      "words": 726,
+      "version": 17,
       "file": "en-de-a2.json"
     },
     {
@@ -108,8 +108,8 @@
       "learn": "en",
       "native": "ja",
       "level": "A2",
-      "words": 796,
-      "version": 16,
+      "words": 726,
+      "version": 17,
       "file": "en-ja-a2.json"
     },
     {
@@ -119,8 +119,8 @@
       "learn": "en",
       "native": "th",
       "level": "B1",
-      "words": 722,
-      "version": 16,
+      "words": 602,
+      "version": 17,
       "file": "en-th-b1.json"
     },
     {
@@ -130,8 +130,8 @@
       "learn": "en",
       "native": "es",
       "level": "B1",
-      "words": 722,
-      "version": 16,
+      "words": 602,
+      "version": 17,
       "file": "en-es-b1.json"
     },
     {
@@ -141,8 +141,8 @@
       "learn": "en",
       "native": "fr",
       "level": "B1",
-      "words": 722,
-      "version": 16,
+      "words": 602,
+      "version": 17,
       "file": "en-fr-b1.json"
     },
     {
@@ -152,8 +152,8 @@
       "learn": "en",
       "native": "de",
       "level": "B1",
-      "words": 722,
-      "version": 16,
+      "words": 602,
+      "version": 17,
       "file": "en-de-b1.json"
     },
     {
@@ -163,8 +163,8 @@
       "learn": "en",
       "native": "ja",
       "level": "B1",
-      "words": 722,
-      "version": 16,
+      "words": 602,
+      "version": 17,
       "file": "en-ja-b1.json"
     },
     {
@@ -174,8 +174,8 @@
       "learn": "en",
       "native": "th",
       "level": "B2",
-      "words": 1366,
-      "version": 16,
+      "words": 1124,
+      "version": 17,
       "file": "en-th-b2.json"
     },
     {
@@ -185,8 +185,8 @@
       "learn": "en",
       "native": "es",
       "level": "B2",
-      "words": 1366,
-      "version": 16,
+      "words": 1124,
+      "version": 17,
       "file": "en-es-b2.json"
     },
     {
@@ -196,8 +196,8 @@
       "learn": "en",
       "native": "fr",
       "level": "B2",
-      "words": 1366,
-      "version": 16,
+      "words": 1124,
+      "version": 17,
       "file": "en-fr-b2.json"
     },
     {
@@ -207,8 +207,8 @@
       "learn": "en",
       "native": "de",
       "level": "B2",
-      "words": 1366,
-      "version": 16,
+      "words": 1124,
+      "version": 17,
       "file": "en-de-b2.json"
     },
     {
@@ -218,8 +218,8 @@
       "learn": "en",
       "native": "ja",
       "level": "B2",
-      "words": 1366,
-      "version": 16,
+      "words": 1124,
+      "version": 17,
       "file": "en-ja-b2.json"
     },
     {
@@ -229,8 +229,8 @@
       "learn": "en",
       "native": "th",
       "level": "C1",
-      "words": 1310,
-      "version": 16,
+      "words": 1107,
+      "version": 17,
       "file": "en-th-c1.json"
     },
     {
@@ -240,8 +240,8 @@
       "learn": "en",
       "native": "es",
       "level": "C1",
-      "words": 1310,
-      "version": 16,
+      "words": 1107,
+      "version": 17,
       "file": "en-es-c1.json"
     },
     {
@@ -251,8 +251,8 @@
       "learn": "en",
       "native": "fr",
       "level": "C1",
-      "words": 1310,
-      "version": 16,
+      "words": 1107,
+      "version": 17,
       "file": "en-fr-c1.json"
     },
     {
@@ -262,8 +262,8 @@
       "learn": "en",
       "native": "de",
       "level": "C1",
-      "words": 1310,
-      "version": 16,
+      "words": 1107,
+      "version": 17,
       "file": "en-de-c1.json"
     },
     {
@@ -273,8 +273,8 @@
       "learn": "en",
       "native": "ja",
       "level": "C1",
-      "words": 1310,
-      "version": 16,
+      "words": 1107,
+      "version": 17,
       "file": "en-ja-c1.json"
     },
     {
@@ -284,8 +284,8 @@
       "learn": "en",
       "native": "th",
       "level": "C2",
-      "words": 2001,
-      "version": 16,
+      "words": 1921,
+      "version": 17,
       "file": "en-th-c2.json"
     },
     {
@@ -295,8 +295,8 @@
       "learn": "en",
       "native": "es",
       "level": "C2",
-      "words": 2001,
-      "version": 16,
+      "words": 1921,
+      "version": 17,
       "file": "en-es-c2.json"
     },
     {
@@ -306,8 +306,8 @@
       "learn": "en",
       "native": "fr",
       "level": "C2",
-      "words": 2001,
-      "version": 16,
+      "words": 1921,
+      "version": 17,
       "file": "en-fr-c2.json"
     },
     {
@@ -317,8 +317,8 @@
       "learn": "en",
       "native": "de",
       "level": "C2",
-      "words": 2001,
-      "version": 16,
+      "words": 1921,
+      "version": 17,
       "file": "en-de-c2.json"
     },
     {
@@ -328,8 +328,8 @@
       "learn": "en",
       "native": "ja",
       "level": "C2",
-      "words": 2001,
-      "version": 16,
+      "words": 1921,
+      "version": 17,
       "file": "en-ja-c2.json"
     },
     {
@@ -340,7 +340,7 @@
       "native": "th",
       "level": "N1",
       "words": 1398,
-      "version": 16,
+      "version": 17,
       "file": "ja-th-n1.json"
     }
   ]

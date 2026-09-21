@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "fr",
   "level": "A1",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "action",
@@ -275,11 +275,6 @@
       "word": "begin",
       "translation": "commencer",
       "example": "The film begins at eight."
-    },
-    {
-      "word": "beginning",
-      "translation": "le début",
-      "example": "The beginning was slow."
     },
     {
       "word": "behind",
@@ -722,11 +717,6 @@
       "example": "He cooks for the whole family."
     },
     {
-      "word": "cooking",
-      "translation": "la cuisine",
-      "example": "Cooking relaxes him."
-    },
-    {
       "word": "cool",
       "translation": "frais",
       "example": "The evening air was cool."
@@ -805,11 +795,6 @@
       "word": "dancer",
       "translation": "le danseur",
       "example": "The dancer trained for years."
-    },
-    {
-      "word": "dancing",
-      "translation": "la danse",
-      "example": "Dancing is her favourite hobby."
     },
     {
       "word": "dangerous",
@@ -1197,11 +1182,6 @@
       "example": "I feel much better today."
     },
     {
-      "word": "feeling",
-      "translation": "le sentiment",
-      "example": "I had a strange feeling."
-    },
-    {
       "word": "festival",
       "translation": "le festival",
       "example": "The festival lasts four days."
@@ -1310,11 +1290,6 @@
       "word": "friend",
       "translation": "l'ami",
       "example": "My friend lives next door."
-    },
-    {
-      "word": "friendly",
-      "translation": "amical",
-      "example": "The staff were very friendly."
     },
     {
       "word": "front",
@@ -1502,11 +1477,6 @@
       "example": "His health improved slowly."
     },
     {
-      "word": "healthy",
-      "translation": "sain",
-      "example": "She eats very healthy food."
-    },
-    {
       "word": "hear",
       "translation": "entendre",
       "example": "I cannot hear you."
@@ -1640,16 +1610,6 @@
       "word": "interest",
       "translation": "l'intérêt",
       "example": "He has no interest in sport."
-    },
-    {
-      "word": "interested",
-      "translation": "intéressé",
-      "example": "She is interested in art."
-    },
-    {
-      "word": "interesting",
-      "translation": "intéressant",
-      "example": "The book is very interesting."
     },
     {
       "word": "internet",
@@ -1940,11 +1900,6 @@
       "word": "mean",
       "translation": "signifier",
       "example": "What does this word mean?"
-    },
-    {
-      "word": "meaning",
-      "translation": "la signification",
-      "example": "The meaning is not clear."
     },
     {
       "word": "meat",
@@ -2352,11 +2307,6 @@
       "example": "Only one person answered."
     },
     {
-      "word": "personal",
-      "translation": "personnel",
-      "example": "That is a personal question."
-    },
-    {
       "word": "phone",
       "translation": "le téléphone",
       "example": "My phone is nearly dead."
@@ -2577,11 +2527,6 @@
       "example": "That was a quick answer."
     },
     {
-      "word": "quickly",
-      "translation": "rapidement",
-      "example": "She answered quickly."
-    },
-    {
       "word": "quiet",
       "translation": "calme",
       "example": "The library is very quiet."
@@ -2615,11 +2560,6 @@
       "word": "reader",
       "translation": "le lecteur",
       "example": "A reader wrote to complain."
-    },
-    {
-      "word": "reading",
-      "translation": "la lecture",
-      "example": "Reading helps him sleep."
     },
     {
       "word": "ready",
@@ -2827,11 +2767,6 @@
       "example": "The shop closes at nine."
     },
     {
-      "word": "shopping",
-      "translation": "les courses",
-      "example": "We do the shopping on Saturdays."
-    },
-    {
       "word": "short",
       "translation": "court",
       "example": "He gave a short answer."
@@ -2992,11 +2927,6 @@
       "example": "How do you spell your name?"
     },
     {
-      "word": "spelling",
-      "translation": "l'orthographe",
-      "example": "His spelling is very poor."
-    },
-    {
       "word": "spend",
       "translation": "dépenser",
       "example": "They spend little on food."
@@ -3120,11 +3050,6 @@
       "word": "swim",
       "translation": "nager",
       "example": "They swim before breakfast."
-    },
-    {
-      "word": "swimming",
-      "translation": "la natation",
-      "example": "Swimming keeps her fit."
     },
     {
       "word": "table",
@@ -3590,11 +3515,6 @@
       "word": "writer",
       "translation": "l'écrivain",
       "example": "The writer lives nearby."
-    },
-    {
-      "word": "writing",
-      "translation": "l'écriture",
-      "example": "His writing is hard to read."
     },
     {
       "word": "wrong",

@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "es",
   "level": "A2",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "ability",
@@ -47,11 +47,6 @@
       "example": "He acted quickly and saved the file."
     },
     {
-      "word": "active",
-      "translation": "activo",
-      "example": "She stays active in winter."
-    },
-    {
       "word": "actually",
       "translation": "en realidad",
       "example": "It is actually much simpler."
@@ -70,16 +65,6 @@
       "word": "advertise",
       "translation": "anunciar",
       "example": "They advertise on the radio."
-    },
-    {
-      "word": "advertisement",
-      "translation": "el anuncio",
-      "example": "The advertisement was misleading."
-    },
-    {
-      "word": "advertising",
-      "translation": "la publicidad",
-      "example": "Advertising pays for the site."
     },
     {
       "word": "affect",
@@ -187,11 +172,6 @@
       "example": "A light appeared in the window."
     },
     {
-      "word": "appearance",
-      "translation": "la apariencia",
-      "example": "His appearance changed a lot."
-    },
-    {
       "word": "apply",
       "translation": "solicitar",
       "example": "She applied for the job on Monday."
@@ -212,11 +192,6 @@
       "example": "They argued about the price."
     },
     {
-      "word": "argument",
-      "translation": "la discusión",
-      "example": "They had a short argument."
-    },
-    {
       "word": "army",
       "translation": "el ejército",
       "example": "His brother joined the army."
@@ -225,11 +200,6 @@
       "word": "arrange",
       "translation": "organizar",
       "example": "She arranged the meeting for Friday."
-    },
-    {
-      "word": "arrangement",
-      "translation": "el arreglo",
-      "example": "We made an arrangement for Friday."
     },
     {
       "word": "asleep",
@@ -522,24 +492,9 @@
       "example": "They camped near the lake."
     },
     {
-      "word": "camping",
-      "translation": "el camping",
-      "example": "We went camping in June."
-    },
-    {
       "word": "care",
       "translation": "el cuidado",
       "example": "She takes care of her father."
-    },
-    {
-      "word": "careful",
-      "translation": "cuidadoso",
-      "example": "Be careful on the wet floor."
-    },
-    {
-      "word": "carefully",
-      "translation": "cuidadosamente",
-      "example": "Read the label carefully."
     },
     {
       "word": "carpet",
@@ -595,11 +550,6 @@
       "word": "certain",
       "translation": "seguro de algo",
       "example": "I am not certain about the date."
-    },
-    {
-      "word": "certainly",
-      "translation": "ciertamente",
-      "example": "That is certainly possible."
     },
     {
       "word": "chance",
@@ -667,11 +617,6 @@
       "example": "The instructions were clear."
     },
     {
-      "word": "clearly",
-      "translation": "claramente",
-      "example": "He explained it very clearly."
-    },
-    {
       "word": "clever",
       "translation": "listo",
       "example": "That was a clever solution."
@@ -680,16 +625,6 @@
       "word": "climate",
       "translation": "el clima",
       "example": "The climate is changing fast."
-    },
-    {
-      "word": "closed",
-      "translation": "cerrado",
-      "example": "The shop is closed on Sundays."
-    },
-    {
-      "word": "clothing",
-      "translation": "la vestimenta",
-      "example": "Warm clothing is essential here."
     },
     {
       "word": "cloud",
@@ -767,11 +702,6 @@
       "example": "Several people complained about the noise."
     },
     {
-      "word": "completely",
-      "translation": "completamente",
-      "example": "The file was completely lost."
-    },
-    {
       "word": "condition",
       "translation": "la condición",
       "example": "The car is in good condition."
@@ -785,11 +715,6 @@
       "word": "connect",
       "translation": "conectar",
       "example": "Connect the cable to the back."
-    },
-    {
-      "word": "connected",
-      "translation": "conectado",
-      "example": "The two rooms are connected."
     },
     {
       "word": "consider",
@@ -837,11 +762,6 @@
       "example": "The shop is on the corner."
     },
     {
-      "word": "correctly",
-      "translation": "correctamente",
-      "example": "He spelled my name correctly."
-    },
-    {
       "word": "count",
       "translation": "contar",
       "example": "Count the chairs again."
@@ -860,11 +780,6 @@
       "word": "crazy",
       "translation": "loco",
       "example": "That was a crazy idea."
-    },
-    {
-      "word": "creative",
-      "translation": "creativo",
-      "example": "She has a creative mind."
     },
     {
       "word": "credit",
@@ -890,11 +805,6 @@
       "word": "crowd",
       "translation": "la multitud",
       "example": "A crowd gathered outside."
-    },
-    {
-      "word": "crowded",
-      "translation": "abarrotado",
-      "example": "The train was very crowded."
     },
     {
       "word": "cry",
@@ -1027,11 +937,6 @@
       "example": "She writes in her diary nightly."
     },
     {
-      "word": "differently",
-      "translation": "de manera distinta",
-      "example": "He sees it differently."
-    },
-    {
       "word": "digital",
       "translation": "digital",
       "example": "The digital version is free."
@@ -1070,11 +975,6 @@
       "word": "discover",
       "translation": "descubrir",
       "example": "They discovered the error late."
-    },
-    {
-      "word": "discovery",
-      "translation": "el descubrimiento",
-      "example": "The discovery changed everything."
     },
     {
       "word": "discussion",
@@ -1117,19 +1017,9 @@
       "example": "She studied drama at college."
     },
     {
-      "word": "drawing",
-      "translation": "el dibujo",
-      "example": "His drawing won a prize."
-    },
-    {
       "word": "dream",
       "translation": "el sueño",
       "example": "I had a strange dream."
-    },
-    {
-      "word": "driving",
-      "translation": "la conducción",
-      "example": "Driving here is stressful."
     },
     {
       "word": "drop",
@@ -1162,11 +1052,6 @@
       "example": "The earth was soft after rain."
     },
     {
-      "word": "easily",
-      "translation": "fácilmente",
-      "example": "He easily won the race."
-    },
-    {
       "word": "education",
       "translation": "la educación",
       "example": "Education is free until sixteen."
@@ -1180,16 +1065,6 @@
       "word": "electric",
       "translation": "eléctrico",
       "example": "It is an electric kettle."
-    },
-    {
-      "word": "electrical",
-      "translation": "eléctrico",
-      "example": "An electrical fault caused it."
-    },
-    {
-      "word": "electricity",
-      "translation": "la electricidad",
-      "example": "The electricity failed at noon."
     },
     {
       "word": "electronic",
@@ -1292,11 +1167,6 @@
       "example": "I need the exact figure."
     },
     {
-      "word": "exactly",
-      "translation": "exactamente",
-      "example": "That is exactly what I meant."
-    },
-    {
       "word": "excellent",
       "translation": "excelente",
       "example": "The food was excellent."
@@ -1352,11 +1222,6 @@
       "example": "The heat was extreme."
     },
     {
-      "word": "extremely",
-      "translation": "extremadamente",
-      "example": "It is extremely rare."
-    },
-    {
       "word": "factor",
       "translation": "el factor",
       "example": "Cost was the deciding factor."
@@ -1380,11 +1245,6 @@
       "word": "fan",
       "translation": "el aficionado",
       "example": "He is a fan of old films."
-    },
-    {
-      "word": "farming",
-      "translation": "la agricultura",
-      "example": "Farming is hard work here."
     },
     {
       "word": "fashion",
@@ -1432,11 +1292,6 @@
       "example": "The final figure surprised us."
     },
     {
-      "word": "finally",
-      "translation": "finalmente",
-      "example": "He finally agreed."
-    },
-    {
       "word": "finger",
       "translation": "el dedo",
       "example": "She cut her finger."
@@ -1445,11 +1300,6 @@
       "word": "firstly",
       "translation": "en primer lugar",
       "example": "Firstly, check the date."
-    },
-    {
-      "word": "fishing",
-      "translation": "la pesca",
-      "example": "They went fishing at dawn."
     },
     {
       "word": "fit",
@@ -1475,11 +1325,6 @@
       "word": "focus",
       "translation": "enfocarse",
       "example": "Focus on one task at a time."
-    },
-    {
-      "word": "following",
-      "translation": "siguiente",
-      "example": "The following day was quiet."
     },
     {
       "word": "foreign",
@@ -1647,11 +1492,6 @@
       "example": "The hall was full by seven."
     },
     {
-      "word": "happily",
-      "translation": "felizmente",
-      "example": "She happily agreed."
-    },
-    {
       "word": "headache",
       "translation": "el dolor de cabeza",
       "example": "I have a bad headache."
@@ -1675,11 +1515,6 @@
       "word": "height",
       "translation": "la altura",
       "example": "The height of the shelf is wrong."
-    },
-    {
-      "word": "helpful",
-      "translation": "servicial",
-      "example": "The staff were very helpful."
     },
     {
       "word": "hero",
@@ -1777,16 +1612,6 @@
       "example": "That is simply impossible."
     },
     {
-      "word": "included",
-      "translation": "incluido",
-      "example": "Breakfast is included."
-    },
-    {
-      "word": "including",
-      "translation": "incluyendo",
-      "example": "Ten people came, including me."
-    },
-    {
       "word": "increase",
       "translation": "aumentar",
       "example": "Sales increased by a third."
@@ -1880,11 +1705,6 @@
       "word": "invention",
       "translation": "el invento",
       "example": "The invention changed farming."
-    },
-    {
-      "word": "invitation",
-      "translation": "la invitación",
-      "example": "The invitation arrived late."
     },
     {
       "word": "invite",
@@ -2022,11 +1842,6 @@
       "example": "The leader spoke first."
     },
     {
-      "word": "learning",
-      "translation": "el aprendizaje",
-      "example": "Learning a language takes time."
-    },
-    {
       "word": "lecture",
       "translation": "la conferencia, la clase",
       "example": "The lecture starts at nine."
@@ -2097,11 +1912,6 @@
       "example": "The music was too loud."
     },
     {
-      "word": "loudly",
-      "translation": "en voz alta",
-      "example": "He spoke loudly on purpose."
-    },
-    {
       "word": "lovely",
       "translation": "encantador",
       "example": "It was a lovely afternoon."
@@ -2115,11 +1925,6 @@
       "word": "luck",
       "translation": "la suerte",
       "example": "With any luck we will arrive first."
-    },
-    {
-      "word": "lucky",
-      "translation": "afortunado",
-      "example": "You were lucky to find it."
     },
     {
       "word": "luggage",
@@ -2160,11 +1965,6 @@
       "word": "mark",
       "translation": "marcar",
       "example": "She marked the page."
-    },
-    {
-      "word": "marry",
-      "translation": "casarse",
-      "example": "They married in autumn."
     },
     {
       "word": "mask",
@@ -2247,11 +2047,6 @@
       "example": "The mirror was cracked."
     },
     {
-      "word": "missing",
-      "translation": "faltante",
-      "example": "One page is missing."
-    },
-    {
       "word": "mobile",
       "translation": "el móvil",
       "example": "My mobile has no signal."
@@ -2275,16 +2070,6 @@
       "word": "motorcycle",
       "translation": "la motocicleta",
       "example": "He sold his motorcycle."
-    },
-    {
-      "word": "movement",
-      "translation": "el movimiento",
-      "example": "A slight movement caught his eye."
-    },
-    {
-      "word": "musical",
-      "translation": "musical",
-      "example": "She has real musical talent."
     },
     {
       "word": "musician",
@@ -2342,19 +2127,9 @@
       "example": "The noise stopped at last."
     },
     {
-      "word": "noisy",
-      "translation": "ruidoso",
-      "example": "The street outside is noisy at night."
-    },
-    {
       "word": "normal",
       "translation": "normal",
       "example": "It is normal to feel tired."
-    },
-    {
-      "word": "normally",
-      "translation": "normalmente",
-      "example": "I normally walk to work."
     },
     {
       "word": "notice",
@@ -2407,11 +2182,6 @@
       "example": "It was an ordinary Tuesday."
     },
     {
-      "word": "organization",
-      "translation": "la organización",
-      "example": "The organization has ten staff."
-    },
-    {
       "word": "organize",
       "translation": "organizar",
       "example": "She organized the whole trip."
@@ -2455,11 +2225,6 @@
       "word": "pants",
       "translation": "los pantalones",
       "example": "His pants were covered in mud."
-    },
-    {
-      "word": "parking",
-      "translation": "el aparcamiento",
-      "example": "Parking is free after six."
     },
     {
       "word": "particular",
@@ -2525,11 +2290,6 @@
       "word": "permission",
       "translation": "el permiso",
       "example": "You need written permission."
-    },
-    {
-      "word": "personality",
-      "translation": "la personalidad",
-      "example": "She has a strong personality."
     },
     {
       "word": "pet",
@@ -2712,11 +2472,6 @@
       "example": "His profile photo is old."
     },
     {
-      "word": "program",
-      "translation": "el programa",
-      "example": "The program runs every hour."
-    },
-    {
       "word": "progress",
       "translation": "el progreso",
       "example": "We are making slow progress."
@@ -2787,11 +2542,6 @@
       "example": "The queen opened the bridge."
     },
     {
-      "word": "quietly",
-      "translation": "silenciosamente",
-      "example": "She closed the door quietly."
-    },
-    {
       "word": "race",
       "translation": "la carrera",
       "example": "He won the race easily."
@@ -2847,11 +2597,6 @@
       "example": "The recent changes helped."
     },
     {
-      "word": "recently",
-      "translation": "recientemente",
-      "example": "He recently moved house."
-    },
-    {
       "word": "reception",
       "translation": "la recepción",
       "example": "Ask at reception."
@@ -2875,11 +2620,6 @@
       "word": "record",
       "translation": "grabar",
       "example": "They recorded the meeting."
-    },
-    {
-      "word": "recording",
-      "translation": "la grabación",
-      "example": "The recording was too quiet."
     },
     {
       "word": "recycle",
@@ -3042,11 +2782,6 @@
       "example": "They sailed at first light."
     },
     {
-      "word": "sailing",
-      "translation": "la vela",
-      "example": "Sailing is his weekend hobby."
-    },
-    {
       "word": "salary",
       "translation": "el sueldo",
       "example": "Her salary rose in April."
@@ -3065,11 +2800,6 @@
       "word": "save",
       "translation": "guardar, ahorrar",
       "example": "Save the file before closing."
-    },
-    {
-      "word": "scared",
-      "translation": "asustado",
-      "example": "The dog was scared of thunder."
     },
     {
       "word": "scarf",
@@ -3232,11 +2962,6 @@
       "example": "I have not seen her since June."
     },
     {
-      "word": "singing",
-      "translation": "el canto",
-      "example": "Her singing filled the hall."
-    },
-    {
       "word": "single",
       "translation": "único, solo",
       "example": "Not a single person came."
@@ -3277,11 +3002,6 @@
       "example": "The sky cleared by noon."
     },
     {
-      "word": "slowly",
-      "translation": "lentamente",
-      "example": "Drive slowly through the village."
-    },
-    {
       "word": "smartphone",
       "translation": "el teléfono inteligente",
       "example": "Her smartphone battery died."
@@ -3300,11 +3020,6 @@
       "word": "smoke",
       "translation": "el humo",
       "example": "Smoke filled the corridor."
-    },
-    {
-      "word": "smoking",
-      "translation": "el fumar",
-      "example": "Smoking is banned inside."
     },
     {
       "word": "soap",
@@ -3497,11 +3212,6 @@
       "example": "She succeeded on her second try."
     },
     {
-      "word": "successful",
-      "translation": "exitoso",
-      "example": "The evening was very successful."
-    },
-    {
       "word": "suddenly",
       "translation": "de repente",
       "example": "Suddenly the lights went out."
@@ -3535,16 +3245,6 @@
       "word": "surprise",
       "translation": "la sorpresa",
       "example": "The result was a surprise."
-    },
-    {
-      "word": "surprised",
-      "translation": "sorprendido",
-      "example": "She looked surprised."
-    },
-    {
-      "word": "surprising",
-      "translation": "sorprendente",
-      "example": "The result was surprising."
     },
     {
       "word": "survey",
@@ -3592,19 +3292,9 @@
       "example": "The soup has no taste."
     },
     {
-      "word": "teaching",
-      "translation": "la enseñanza",
-      "example": "Teaching suits her well."
-    },
-    {
       "word": "technology",
       "translation": "la tecnología",
       "example": "Technology changed the job completely."
-    },
-    {
-      "word": "teenage",
-      "translation": "adolescente",
-      "example": "They have two teenage sons."
     },
     {
       "word": "temperature",
@@ -3630,11 +3320,6 @@
       "word": "thin",
       "translation": "delgado",
       "example": "The ice was too thin."
-    },
-    {
-      "word": "thinking",
-      "translation": "el pensamiento",
-      "example": "His thinking has changed."
     },
     {
       "word": "thought",
@@ -3722,11 +3407,6 @@
       "example": "It is an old family tradition."
     },
     {
-      "word": "traditional",
-      "translation": "tradicional",
-      "example": "The dish is traditional here."
-    },
-    {
       "word": "trainer",
       "translation": "el entrenador",
       "example": "His trainer changed the plan."
@@ -3735,11 +3415,6 @@
       "word": "trainers",
       "translation": "las zapatillas",
       "example": "He runs in old trainers."
-    },
-    {
-      "word": "training",
-      "translation": "la formación",
-      "example": "The training lasts six weeks."
     },
     {
       "word": "transport",
@@ -3777,11 +3452,6 @@
       "example": "The underground closes at midnight."
     },
     {
-      "word": "understanding",
-      "translation": "la comprensión",
-      "example": "Her understanding of it is deep."
-    },
-    {
       "word": "unfortunately",
       "translation": "desafortunadamente",
       "example": "Unfortunately the shop was closed."
@@ -3800,11 +3470,6 @@
       "word": "unit",
       "translation": "la unidad",
       "example": "Each unit costs ten euros."
-    },
-    {
-      "word": "united",
-      "translation": "unido",
-      "example": "The team stayed united."
     },
     {
       "word": "unusual",
@@ -3865,11 +3530,6 @@
       "word": "war",
       "translation": "la guerra",
       "example": "The war lasted four years."
-    },
-    {
-      "word": "washing",
-      "translation": "la colada",
-      "example": "The washing is still wet."
     },
     {
       "word": "wave",
@@ -3945,16 +3605,6 @@
       "word": "wooden",
       "translation": "de madera",
       "example": "A wooden bridge crosses it."
-    },
-    {
-      "word": "working",
-      "translation": "funcionando",
-      "example": "The lift is not working."
-    },
-    {
-      "word": "worried",
-      "translation": "preocupado",
-      "example": "She looked worried."
     },
     {
       "word": "worry",

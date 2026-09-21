@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "B2",
-  "version": 16,
+  "version": 17,
   "items": [
     {
       "word": "abandon",
@@ -15,11 +15,6 @@
       "word": "absent",
       "translation": "ขาด, ไม่มา",
       "example": "Three students were absent on Monday."
-    },
-    {
-      "word": "absolute",
-      "translation": "เด็ดขาด",
-      "example": "That is an absolute rule."
     },
     {
       "word": "absorb",
@@ -35,16 +30,6 @@
       "word": "accent",
       "translation": "สำเนียง",
       "example": "She speaks English with a soft accent."
-    },
-    {
-      "word": "acceptable",
-      "translation": "ที่ยอมรับได้",
-      "example": "The delay is not acceptable."
-    },
-    {
-      "word": "accidentally",
-      "translation": "โดยบังเอิญ",
-      "example": "I accidentally deleted the file."
     },
     {
       "word": "accommodate",
@@ -87,11 +72,6 @@
       "example": "His figures were accurate."
     },
     {
-      "word": "accurately",
-      "translation": "อย่างแม่นยำ",
-      "example": "Describe the damage accurately."
-    },
-    {
       "word": "accuse",
       "translation": "กล่าวหา",
       "example": "They accused him of lying."
@@ -122,11 +102,6 @@
       "example": "Press the button to activate the alarm."
     },
     {
-      "word": "actual",
-      "translation": "ที่แท้จริง",
-      "example": "The actual cost was higher."
-    },
-    {
       "word": "adapt",
       "translation": "ปรับตัว",
       "example": "Plants adapt to dry summers."
@@ -137,24 +112,9 @@
       "example": "He is being treated for addiction."
     },
     {
-      "word": "additional",
-      "translation": "ที่เพิ่มเติม",
-      "example": "There is an additional fee."
-    },
-    {
-      "word": "additionally",
-      "translation": "นอกจากนี้",
-      "example": "Additionally, the price includes delivery."
-    },
-    {
       "word": "adequate",
       "translation": "เพียงพอ",
       "example": "The lighting is barely adequate."
-    },
-    {
-      "word": "adequately",
-      "translation": "อย่างเพียงพอ",
-      "example": "The room was adequately lit."
     },
     {
       "word": "adjust",
@@ -172,19 +132,9 @@
       "example": "The council adopted the proposal."
     },
     {
-      "word": "advance",
-      "translation": "รุดหน้าไป",
-      "example": "The team advanced to the final."
-    },
-    {
       "word": "affair",
       "translation": "เรื่องราวอื้อฉาว",
       "example": "The affair damaged his career."
-    },
-    {
-      "word": "affordable",
-      "translation": "ราคาพอจ่ายไหว",
-      "example": "We need affordable housing."
     },
     {
       "word": "afterwards",
@@ -307,11 +257,6 @@
       "example": "The annual report is due."
     },
     {
-      "word": "annually",
-      "translation": "เป็นรายปี",
-      "example": "The fee is reviewed annually."
-    },
-    {
       "word": "anticipate",
       "translation": "คาดการณ์",
       "example": "We did not anticipate such demand."
@@ -337,11 +282,6 @@
       "example": "The problem became apparent later."
     },
     {
-      "word": "apparently",
-      "translation": "ตามที่ปรากฏ",
-      "example": "Apparently nobody told him."
-    },
-    {
       "word": "appeal",
       "translation": "ร้องขอ",
       "example": "The charity appealed for help."
@@ -360,16 +300,6 @@
       "word": "appropriate",
       "translation": "เหมาะสม",
       "example": "That was not an appropriate remark."
-    },
-    {
-      "word": "appropriately",
-      "translation": "อย่างเหมาะสม",
-      "example": "Dress appropriately for the weather."
-    },
-    {
-      "word": "approval",
-      "translation": "การอนุมัติ",
-      "example": "The plan needs board approval."
     },
     {
       "word": "approve",
@@ -432,34 +362,14 @@
       "example": "The team will assess the damage."
     },
     {
-      "word": "assessment",
-      "translation": "การประเมินผล",
-      "example": "The assessment took two weeks."
-    },
-    {
       "word": "asset",
       "translation": "สิ่งมีค่า",
       "example": "Her patience is a real asset."
     },
     {
-      "word": "assign",
-      "translation": "มอบหมาย",
-      "example": "They assigned the task to me."
-    },
-    {
-      "word": "assistance",
-      "translation": "ความช่วยเหลือ",
-      "example": "She asked for assistance with the form."
-    },
-    {
       "word": "associate",
       "translation": "เชื่อมโยงในใจ",
       "example": "I associate that smell with school."
-    },
-    {
-      "word": "associated",
-      "translation": "ที่เกี่ยวข้อง, สัมพันธ์",
-      "example": "The risks associated with it are known."
     },
     {
       "word": "association",
@@ -492,11 +402,6 @@
       "example": "He has an athletic build."
     },
     {
-      "word": "attachment",
-      "translation": "ไฟล์แนบ",
-      "example": "The email had no attachment."
-    },
-    {
       "word": "attempt",
       "translation": "ความพยายามครั้งหนึ่ง",
       "example": "His first attempt failed."
@@ -522,11 +427,6 @@
       "example": "The doors are automatic."
     },
     {
-      "word": "automatically",
-      "translation": "โดยอัตโนมัติ",
-      "example": "The lights switch off automatically."
-    },
-    {
       "word": "awareness",
       "translation": "ความตระหนัก",
       "example": "The campaign raised public awareness."
@@ -545,11 +445,6 @@
       "word": "badge",
       "translation": "ป้ายชื่อ",
       "example": "Visitors must wear a badge."
-    },
-    {
-      "word": "balanced",
-      "translation": "สมดุล, เป็นกลาง",
-      "example": "She gave a balanced account of events."
     },
     {
       "word": "ballet",
@@ -585,11 +480,6 @@
       "word": "basement",
       "translation": "ห้องใต้ดิน",
       "example": "The boxes are in the basement."
-    },
-    {
-      "word": "basically",
-      "translation": "โดยพื้นฐานแล้ว",
-      "example": "It is basically the same design."
     },
     {
       "word": "basket",
@@ -677,11 +567,6 @@
       "example": "It was a bold decision to resign."
     },
     {
-      "word": "bombing",
-      "translation": "การทิ้งระเบิด",
-      "example": "The bombing destroyed the bridge."
-    },
-    {
       "word": "bond",
       "translation": "ความผูกพัน",
       "example": "A strong bond formed between them."
@@ -712,11 +597,6 @@
       "example": "She gave a brief summary."
     },
     {
-      "word": "briefly",
-      "translation": "อย่างสั้นๆ",
-      "example": "He explained the plan briefly."
-    },
-    {
       "word": "broad",
       "translation": "กว้าง",
       "example": "The river is very broad here."
@@ -730,11 +610,6 @@
       "word": "broadcaster",
       "translation": "สถานี, ผู้กระจายเสียง",
       "example": "The broadcaster apologised on air."
-    },
-    {
-      "word": "broadly",
-      "translation": "โดยกว้างๆ",
-      "example": "The plan is broadly the same."
     },
     {
       "word": "buck",
@@ -862,16 +737,6 @@
       "example": "The chairman opened the meeting."
     },
     {
-      "word": "challenging",
-      "translation": "ท้าทาย",
-      "example": "The course is challenging but fair."
-    },
-    {
-      "word": "championship",
-      "translation": "การแข่งขันชิงแชมป์",
-      "example": "She won the championship twice."
-    },
-    {
       "word": "characteristic",
       "translation": "ลักษณะเฉพาะ",
       "example": "Patience is his main characteristic."
@@ -937,24 +802,9 @@
       "example": "It became a civil dispute."
     },
     {
-      "word": "civilization",
-      "translation": "อารยธรรม",
-      "example": "The valley held an ancient civilization."
-    },
-    {
       "word": "clarify",
       "translation": "ทำให้กระจ่าง",
       "example": "Let me clarify one point."
-    },
-    {
-      "word": "classic",
-      "translation": "คลาสสิก",
-      "example": "It is a classic error."
-    },
-    {
-      "word": "classify",
-      "translation": "จำแนกจัดประเภท",
-      "example": "We classify the files by year."
     },
     {
       "word": "clerk",
@@ -975,11 +825,6 @@
       "word": "clip",
       "translation": "คลิปสั้น",
       "example": "She sent me a short clip of the show."
-    },
-    {
-      "word": "closely",
-      "translation": "อย่างใกล้ชิด",
-      "example": "Watch the process closely."
     },
     {
       "word": "coherence",
@@ -1007,21 +852,6 @@
       "example": "The island was once a colony."
     },
     {
-      "word": "colourful",
-      "translation": "มีสีสัน",
-      "example": "The market is loud and colourful."
-    },
-    {
-      "word": "combination",
-      "translation": "การผสมผสาน",
-      "example": "The combination of both worked."
-    },
-    {
-      "word": "comfort",
-      "translation": "ความปลอบใจ",
-      "example": "The news brought little comfort."
-    },
-    {
       "word": "comic",
       "translation": "การ์ตูน",
       "example": "She draws a weekly comic."
@@ -1042,19 +872,9 @@
       "example": "A commission investigated the crash."
     },
     {
-      "word": "commitment",
-      "translation": "ความมุ่งมั่น",
-      "example": "The job requires a real commitment."
-    },
-    {
       "word": "committee",
       "translation": "คณะกรรมการ",
       "example": "The committee meets on Fridays."
-    },
-    {
-      "word": "commonly",
-      "translation": "โดยทั่วไป",
-      "example": "It is commonly misunderstood."
     },
     {
       "word": "comparative",
@@ -1137,11 +957,6 @@
       "example": "Cost is our main concern."
     },
     {
-      "word": "concerned",
-      "translation": "ที่เกี่ยวข้อง",
-      "example": "Everyone concerned was informed."
-    },
-    {
       "word": "concrete",
       "translation": "คอนกรีต",
       "example": "The floor is bare concrete."
@@ -1165,11 +980,6 @@
       "word": "conflict",
       "translation": "ความขัดแย้ง",
       "example": "The conflict lasted a decade."
-    },
-    {
-      "word": "confusing",
-      "translation": "ที่ทำให้สับสน",
-      "example": "The instructions were confusing."
     },
     {
       "word": "confusion",
@@ -1207,24 +1017,9 @@
       "example": "The delay caused considerable expense."
     },
     {
-      "word": "considerably",
-      "translation": "อย่างมาก",
-      "example": "Prices rose considerably last year."
-    },
-    {
-      "word": "consideration",
-      "translation": "การพิจารณา",
-      "example": "That deserves careful consideration."
-    },
-    {
       "word": "consistent",
       "translation": "สม่ำเสมอ",
       "example": "His results were consistent."
-    },
-    {
-      "word": "consistently",
-      "translation": "อย่างสม่ำเสมอ",
-      "example": "She has performed consistently all season."
     },
     {
       "word": "consist of",
@@ -1240,11 +1035,6 @@
       "word": "constant",
       "translation": "ที่คงที่ตลอด",
       "example": "There was a constant hum."
-    },
-    {
-      "word": "constantly",
-      "translation": "อย่างต่อเนื่องตลอด",
-      "example": "He constantly checks his phone."
     },
     {
       "word": "constitute",
@@ -1317,11 +1107,6 @@
       "example": "His contribution was decisive."
     },
     {
-      "word": "controversial",
-      "translation": "เป็นที่ถกเถียง",
-      "example": "It remains a controversial decision."
-    },
-    {
       "word": "controversy",
       "translation": "ข้อโต้แย้ง",
       "example": "The decision caused controversy."
@@ -1337,11 +1122,6 @@
       "example": "It is a convention to shake hands."
     },
     {
-      "word": "conventional",
-      "translation": "ตามแบบแผน",
-      "example": "He gave a conventional answer."
-    },
-    {
       "word": "convert",
       "translation": "ดัดแปลง, เปลี่ยนเป็น",
       "example": "They converted the barn into a house."
@@ -1350,16 +1130,6 @@
       "word": "convey",
       "translation": "สื่อ, ถ่ายทอด",
       "example": "The photograph conveys the mood well."
-    },
-    {
-      "word": "convinced",
-      "translation": "ที่เชื่อมั่นแล้ว",
-      "example": "I am convinced he is right."
-    },
-    {
-      "word": "convincing",
-      "translation": "น่าเชื่อถือ",
-      "example": "Her argument was convincing."
     },
     {
       "word": "cope",
@@ -1437,11 +1207,6 @@
       "example": "The creation of the park took years."
     },
     {
-      "word": "creativity",
-      "translation": "ความคิดสร้างสรรค์",
-      "example": "The job rewards creativity."
-    },
-    {
       "word": "creature",
       "translation": "สิ่งมีชีวิต",
       "example": "A small creature moved in the grass."
@@ -1467,24 +1232,9 @@
       "example": "One critic praised it."
     },
     {
-      "word": "critical",
-      "translation": "ที่สำคัญยิ่ง",
-      "example": "This stage is critical."
-    },
-    {
-      "word": "critically",
-      "translation": "ในทางวิจารณ์",
-      "example": "The film was critically praised."
-    },
-    {
       "word": "criticism",
       "translation": "คำวิจารณ์",
       "example": "The report drew heavy criticism."
-    },
-    {
-      "word": "criticize",
-      "translation": "วิพากษ์วิจารณ์",
-      "example": "She criticized the decision publicly."
     },
     {
       "word": "crop",
@@ -1522,11 +1272,6 @@
       "example": "The road follows a long curve."
     },
     {
-      "word": "curved",
-      "translation": "ที่โค้ง",
-      "example": "The blade is slightly curved."
-    },
-    {
       "word": "dairy",
       "translation": "ผลิตภัณฑ์นม",
       "example": "She avoids dairy products."
@@ -1540,11 +1285,6 @@
       "word": "database",
       "translation": "ฐานข้อมูล",
       "example": "Search the database for the record."
-    },
-    {
-      "word": "deadly",
-      "translation": "ถึงตาย",
-      "example": "The snake bite can be deadly."
     },
     {
       "word": "dealer",
@@ -1592,11 +1332,6 @@
       "example": "Traffic decreased after the ban."
     },
     {
-      "word": "deeply",
-      "translation": "อย่างลึกซึ้ง",
-      "example": "She was deeply affected."
-    },
-    {
       "word": "defeat",
       "translation": "ความพ่ายแพ้",
       "example": "The defeat surprised everyone."
@@ -1632,24 +1367,9 @@
       "example": "The delay was deliberate."
     },
     {
-      "word": "deliberately",
-      "translation": "อย่างจงใจ",
-      "example": "She deliberately said nothing."
-    },
-    {
       "word": "delight",
       "translation": "ความปีติยินดี",
       "example": "The garden was a delight."
-    },
-    {
-      "word": "delighted",
-      "translation": "ยินดีปรีดา",
-      "example": "They were delighted with the news."
-    },
-    {
-      "word": "delivery",
-      "translation": "การจัดส่ง",
-      "example": "Delivery takes three days."
     },
     {
       "word": "demand",
@@ -1737,29 +1457,9 @@
       "example": "They were desperate for help."
     },
     {
-      "word": "desperately",
-      "translation": "อย่างสิ้นหวัง",
-      "example": "She desperately wanted to stay."
-    },
-    {
       "word": "destruction",
       "translation": "การทำลาย",
       "example": "The storm caused wide destruction."
-    },
-    {
-      "word": "detailed",
-      "translation": "ที่ละเอียด",
-      "example": "He gave a detailed account."
-    },
-    {
-      "word": "detect",
-      "translation": "ตรวจจับ",
-      "example": "The sensor detects movement."
-    },
-    {
-      "word": "determination",
-      "translation": "ความมุ่งมั่น",
-      "example": "Her determination impressed everyone."
     },
     {
       "word": "devil",
@@ -1770,11 +1470,6 @@
       "word": "devote",
       "translation": "อุทิศ",
       "example": "She devotes her weekends to the choir."
-    },
-    {
-      "word": "differ",
-      "translation": "แตกต่างกัน",
-      "example": "Our views differ on this point."
     },
     {
       "word": "dig",
@@ -1805,21 +1500,6 @@
       "word": "disabled",
       "translation": "พิการ",
       "example": "There are disabled parking spaces here."
-    },
-    {
-      "word": "disagreement",
-      "translation": "ความไม่เห็นด้วย",
-      "example": "There was a disagreement about the cost."
-    },
-    {
-      "word": "disappoint",
-      "translation": "ทำให้ผิดหวัง",
-      "example": "I did not want to disappoint her."
-    },
-    {
-      "word": "disappointment",
-      "translation": "ความผิดหวัง",
-      "example": "The result was a disappointment."
     },
     {
       "word": "disc",
@@ -1912,19 +1592,9 @@
       "example": "The group was highly diverse."
     },
     {
-      "word": "diversity",
-      "translation": "ความหลากหลาย",
-      "example": "The city is known for its diversity."
-    },
-    {
       "word": "division",
       "translation": "การแบ่งแยก",
       "example": "The division between them deepened."
-    },
-    {
-      "word": "divorce",
-      "translation": "หย่าร้าง",
-      "example": "They divorced after ten years."
     },
     {
       "word": "domestic",
@@ -1982,11 +1652,6 @@
       "example": "There was a dramatic improvement."
     },
     {
-      "word": "dramatically",
-      "translation": "อย่างมาก",
-      "example": "Sales rose dramatically in May."
-    },
-    {
       "word": "drought",
       "translation": "ภัยแล้ง",
       "example": "The drought lasted three summers."
@@ -2017,19 +1682,9 @@
       "example": "She was eager to start."
     },
     {
-      "word": "economics",
-      "translation": "เศรษฐศาสตร์",
-      "example": "He teaches economics."
-    },
-    {
       "word": "economist",
       "translation": "นักเศรษฐศาสตร์",
       "example": "The economist predicted a slow year."
-    },
-    {
-      "word": "edit",
-      "translation": "แก้ไขเรียบเรียง",
-      "example": "She edited the whole chapter."
     },
     {
       "word": "edition",
@@ -2037,19 +1692,9 @@
       "example": "The second edition sold better."
     },
     {
-      "word": "editorial",
-      "translation": "บทบรรณาธิการ",
-      "example": "The paper printed an angry editorial."
-    },
-    {
       "word": "efficient",
       "translation": "มีประสิทธิภาพ",
       "example": "The new system is more efficient."
-    },
-    {
-      "word": "efficiently",
-      "translation": "อย่างมีประสิทธิภาพ",
-      "example": "The team works efficiently together."
     },
     {
       "word": "elbow",
@@ -2065,11 +1710,6 @@
       "word": "elect",
       "translation": "เลือกตั้ง",
       "example": "They elected her as chair."
-    },
-    {
-      "word": "electronics",
-      "translation": "อิเล็กทรอนิกส์",
-      "example": "She studies electronics."
     },
     {
       "word": "elegant",
@@ -2107,24 +1747,9 @@
       "example": "The rules limit carbon emissions."
     },
     {
-      "word": "emotional",
-      "translation": "ที่เต็มไปด้วยอารมณ์",
-      "example": "It was an emotional farewell."
-    },
-    {
-      "word": "emotionally",
-      "translation": "ในด้านอารมณ์",
-      "example": "She was emotionally exhausted."
-    },
-    {
       "word": "emphasis",
       "translation": "การเน้นย้ำ",
       "example": "The emphasis has shifted."
-    },
-    {
-      "word": "emphasise",
-      "translation": "เน้นย้ำ",
-      "example": "She emphasised the need for care."
     },
     {
       "word": "emphasize",
@@ -2147,19 +1772,9 @@
       "example": "They encountered heavy snow."
     },
     {
-      "word": "engage",
-      "translation": "ดึงดูดให้สนใจ",
-      "example": "The talk engaged the whole room."
-    },
-    {
       "word": "enhance",
       "translation": "ยกระดับ",
       "example": "Good light enhances the photo."
-    },
-    {
-      "word": "enjoyable",
-      "translation": "น่าเพลิดเพลิน",
-      "example": "It was a thoroughly enjoyable evening."
     },
     {
       "word": "enquiry",
@@ -2170,11 +1785,6 @@
       "word": "ensure",
       "translation": "ทำให้แน่ใจว่า",
       "example": "Ensure the door is locked."
-    },
-    {
-      "word": "entertaining",
-      "translation": "ให้ความบันเทิง",
-      "example": "His talk was entertaining and short."
     },
     {
       "word": "enthusiasm",
@@ -2192,11 +1802,6 @@
       "example": "The entire building was empty."
     },
     {
-      "word": "entirely",
-      "translation": "โดยสิ้นเชิง",
-      "example": "That is entirely my fault."
-    },
-    {
       "word": "entrepreneur",
       "translation": "ผู้ประกอบการ",
       "example": "She is a young entrepreneur."
@@ -2205,11 +1810,6 @@
       "word": "envelope",
       "translation": "ซองจดหมาย",
       "example": "Put the letter in an envelope."
-    },
-    {
-      "word": "equip",
-      "translation": "จัดหาอุปกรณ์ให้",
-      "example": "The kitchen is well equipped."
     },
     {
       "word": "equivalent",
@@ -2225,11 +1825,6 @@
       "word": "erupt",
       "translation": "ระเบิดปะทุ",
       "example": "The volcano last erupted in 1980."
-    },
-    {
-      "word": "essentially",
-      "translation": "โดยพื้นฐานแล้ว",
-      "example": "The two plans are essentially the same."
     },
     {
       "word": "establish",
@@ -2250,11 +1845,6 @@
       "word": "ethic",
       "translation": "จริยธรรม",
       "example": "The company has a strong work ethic."
-    },
-    {
-      "word": "ethical",
-      "translation": "ทางจริยธรรม",
-      "example": "It raises an ethical question."
     },
     {
       "word": "ethnic",
@@ -2292,11 +1882,6 @@
       "example": "The design evolved over ten years."
     },
     {
-      "word": "examination",
-      "translation": "การตรวจสอบ, สอบสวน",
-      "example": "The examination was thorough."
-    },
-    {
       "word": "exceed",
       "translation": "เกินกว่า",
       "example": "Costs must not exceed the budget."
@@ -2332,11 +1917,6 @@
       "example": "The museum exhibits local pottery."
     },
     {
-      "word": "existence",
-      "translation": "การมีอยู่",
-      "example": "The rule came into existence in 1990."
-    },
-    {
       "word": "exit",
       "translation": "ทางออก",
       "example": "Take the second exit."
@@ -2352,21 +1932,6 @@
       "example": "The expansion doubled the factory."
     },
     {
-      "word": "expectation",
-      "translation": "ความคาดหวัง",
-      "example": "The result fell below expectation."
-    },
-    {
-      "word": "expense",
-      "translation": "ค่าใช้จ่าย",
-      "example": "The expense was not approved."
-    },
-    {
-      "word": "expertise",
-      "translation": "ความเชี่ยวชาญ",
-      "example": "We lack expertise in this area."
-    },
-    {
       "word": "explicit",
       "translation": "ชัดแจ้ง",
       "example": "The instructions were explicit."
@@ -2375,11 +1940,6 @@
       "word": "exploit",
       "translation": "ฉวยประโยชน์",
       "example": "The company exploited the loophole."
-    },
-    {
-      "word": "exploration",
-      "translation": "การสำรวจ",
-      "example": "Exploration of the cave stopped."
     },
     {
       "word": "expose",
@@ -2405,11 +1965,6 @@
       "word": "extensive",
       "translation": "กว้างขวาง",
       "example": "The damage was extensive."
-    },
-    {
-      "word": "extensively",
-      "translation": "อย่างกว้างขวาง",
-      "example": "She has travelled extensively."
     },
     {
       "word": "extent",
@@ -2450,11 +2005,6 @@
       "word": "faculty",
       "translation": "คณะอาจารย์",
       "example": "She joined the faculty last year."
-    },
-    {
-      "word": "failed",
-      "translation": "ที่ล้มเหลว",
-      "example": "The failed attempt cost them a year."
     },
     {
       "word": "failure",
@@ -2527,16 +2077,6 @@
       "example": "She stayed home with a fever."
     },
     {
-      "word": "finance",
-      "translation": "จัดหาเงินทุน",
-      "example": "They could not finance the repair."
-    },
-    {
-      "word": "finding",
-      "translation": "ผลการค้นพบ",
-      "example": "The finding surprised the team."
-    },
-    {
       "word": "firefighter",
       "translation": "นักดับเพลิง",
       "example": "A firefighter carried her out."
@@ -2550,11 +2090,6 @@
       "word": "firm",
       "translation": "บริษัท, ห้างร้าน",
       "example": "The firm employs sixty people."
-    },
-    {
-      "word": "firmly",
-      "translation": "อย่างหนักแน่น",
-      "example": "He firmly refused the offer."
     },
     {
       "word": "flame",
@@ -2580,11 +2115,6 @@
       "word": "float",
       "translation": "ลอย",
       "example": "The bottle floated away."
-    },
-    {
-      "word": "folding",
-      "translation": "ที่พับได้",
-      "example": "He carried a folding chair."
     },
     {
       "word": "fond",
@@ -2617,24 +2147,9 @@
       "example": "Send the file in the usual format."
     },
     {
-      "word": "formation",
-      "translation": "การก่อตัว",
-      "example": "The formation of the group took months."
-    },
-    {
       "word": "former",
       "translation": "ที่เคยเป็นในอดีต",
       "example": "The former manager returned."
-    },
-    {
-      "word": "formerly",
-      "translation": "แต่ก่อน",
-      "example": "The building was formerly a school."
-    },
-    {
-      "word": "fortunate",
-      "translation": "โชคดี",
-      "example": "We were fortunate with the weather."
     },
     {
       "word": "fortune",
@@ -2655,11 +2170,6 @@
       "word": "found",
       "translation": "ก่อตั้งขึ้น",
       "example": "The trust was founded in 1902."
-    },
-    {
-      "word": "foundation",
-      "translation": "มูลนิธิ",
-      "example": "The foundation funds three schools."
     },
     {
       "word": "founder",
@@ -2692,19 +2202,9 @@
       "example": "They value their freedom."
     },
     {
-      "word": "freely",
-      "translation": "อย่างอิสระ",
-      "example": "You may speak freely here."
-    },
-    {
       "word": "frequency",
       "translation": "ความถี่",
       "example": "The frequency of faults rose."
-    },
-    {
-      "word": "frequent",
-      "translation": "บ่อยครั้ง",
-      "example": "She is a frequent visitor."
     },
     {
       "word": "frustrated",
@@ -2722,11 +2222,6 @@
       "example": "She took a full-time job in May."
     },
     {
-      "word": "fully",
-      "translation": "อย่างเต็มที่",
-      "example": "The room was fully booked."
-    },
-    {
       "word": "fund",
       "translation": "กองทุน",
       "example": "The fund pays for repairs."
@@ -2735,16 +2230,6 @@
       "word": "fundamental",
       "translation": "พื้นฐาน, สำคัญ",
       "example": "This is a fundamental difference."
-    },
-    {
-      "word": "fundamentally",
-      "translation": "โดยพื้นฐาน",
-      "example": "The two ideas are fundamentally different."
-    },
-    {
-      "word": "funding",
-      "translation": "เงินสนับสนุน",
-      "example": "Funding runs out in April."
     },
     {
       "word": "funeral",
@@ -2822,24 +2307,9 @@
       "example": "He showed genuine concern."
     },
     {
-      "word": "genuinely",
-      "translation": "อย่างแท้จริง",
-      "example": "She was genuinely surprised."
-    },
-    {
       "word": "gesture",
       "translation": "ท่าทาง, การแสดงออก",
       "example": "He made a small gesture of thanks."
-    },
-    {
-      "word": "globalization",
-      "translation": "โลกาภิวัตน์",
-      "example": "Globalization changed the industry."
-    },
-    {
-      "word": "globe",
-      "translation": "โลก",
-      "example": "She has travelled the globe."
     },
     {
       "word": "golden",
@@ -2855,11 +2325,6 @@
       "word": "gorgeous",
       "translation": "สวยงามมาก",
       "example": "The view from the hill is gorgeous."
-    },
-    {
-      "word": "govern",
-      "translation": "ปกครอง",
-      "example": "A small council governs the island."
     },
     {
       "word": "governor",
@@ -2892,19 +2357,9 @@
       "example": "The report gives a graphic account."
     },
     {
-      "word": "graphics",
-      "translation": "ภาพกราฟิก",
-      "example": "The graphics in the game are sharp."
-    },
-    {
       "word": "grave",
       "translation": "ร้ายแรง",
       "example": "The mistake had grave consequences."
-    },
-    {
-      "word": "greatly",
-      "translation": "อย่างมาก",
-      "example": "The design has greatly improved."
     },
     {
       "word": "greenhouse",
@@ -2947,11 +2402,6 @@
       "example": "The delay did no real harm."
     },
     {
-      "word": "harmful",
-      "translation": "ที่เป็นอันตราย",
-      "example": "The chemical is harmful."
-    },
-    {
       "word": "headquarters",
       "translation": "สำนักงานใหญ่",
       "example": "The headquarters moved to Leeds."
@@ -2965,11 +2415,6 @@
       "word": "healthcare",
       "translation": "การดูแลสุขภาพ",
       "example": "Healthcare is free at the point of use."
-    },
-    {
-      "word": "hearing",
-      "translation": "การได้ยิน",
-      "example": "His hearing is failing."
     },
     {
       "word": "heaven",
@@ -3047,11 +2492,6 @@
       "example": "The charity helps homeless families."
     },
     {
-      "word": "honesty",
-      "translation": "ความซื่อสัตย์",
-      "example": "Her honesty cost her the job."
-    },
-    {
       "word": "honour",
       "translation": "เกียรติยศ",
       "example": "It is an honour to be asked."
@@ -3062,19 +2502,9 @@
       "example": "Hang your coat on the hook."
     },
     {
-      "word": "hopefully",
-      "translation": "หวังว่า",
-      "example": "Hopefully the rain will stop."
-    },
-    {
       "word": "household",
       "translation": "ครัวเรือน",
       "example": "The household spends little."
-    },
-    {
-      "word": "housing",
-      "translation": "ที่อยู่อาศัย",
-      "example": "Housing costs keep rising."
     },
     {
       "word": "humorous",
@@ -3090,11 +2520,6 @@
       "word": "hunger",
       "translation": "ความหิวโหย",
       "example": "The charity works to end hunger."
-    },
-    {
-      "word": "hunting",
-      "translation": "การล่าสัตว์",
-      "example": "Hunting is banned here."
     },
     {
       "word": "hypothesis",
@@ -3130,11 +2555,6 @@
       "word": "illustration",
       "translation": "ภาพประกอบ",
       "example": "The illustration made it clear."
-    },
-    {
-      "word": "imagination",
-      "translation": "จินตนาการ",
-      "example": "It exists only in his imagination."
     },
     {
       "word": "immigration",
@@ -3177,11 +2597,6 @@
       "example": "The design impressed everyone."
     },
     {
-      "word": "impressed",
-      "translation": "ที่รู้สึกประทับใจ",
-      "example": "I was impressed by her answer."
-    },
-    {
       "word": "inadequate",
       "translation": "ไม่เพียงพอ",
       "example": "The response was inadequate."
@@ -3212,11 +2627,6 @@
       "example": "The date on the form is incorrect."
     },
     {
-      "word": "increasingly",
-      "translation": "มากขึ้นเรื่อยๆ",
-      "example": "It is increasingly common."
-    },
-    {
       "word": "independence",
       "translation": "เอกราช",
       "example": "The country gained independence in 1960."
@@ -3232,19 +2642,9 @@
       "example": "There is no indication of damage."
     },
     {
-      "word": "industrial",
-      "translation": "ทางอุตสาหกรรม",
-      "example": "The industrial estate is empty."
-    },
-    {
       "word": "inevitable",
       "translation": "หลีกเลี่ยงไม่ได้",
       "example": "A rise in prices now seems inevitable."
-    },
-    {
-      "word": "inevitably",
-      "translation": "อย่างหลีกเลี่ยงไม่ได้",
-      "example": "Costs inevitably rose."
     },
     {
       "word": "infection",
@@ -3267,11 +2667,6 @@
       "example": "There is more info on the website."
     },
     {
-      "word": "inform",
-      "translation": "แจ้งให้ทราบ",
-      "example": "Please inform the office."
-    },
-    {
       "word": "infrastructure",
       "translation": "โครงสร้างพื้นฐาน",
       "example": "The town needs better infrastructure."
@@ -3290,11 +2685,6 @@
       "word": "initial",
       "translation": "เริ่มแรก",
       "example": "The initial cost was low."
-    },
-    {
-      "word": "initially",
-      "translation": "ในตอนแรก",
-      "example": "Initially they refused."
     },
     {
       "word": "initiative",
@@ -3357,11 +2747,6 @@
       "example": "They installed the software twice."
     },
     {
-      "word": "installation",
-      "translation": "การติดตั้ง",
-      "example": "The installation takes an hour."
-    },
-    {
       "word": "instance",
       "translation": "กรณีตัวอย่าง",
       "example": "This is one instance of it."
@@ -3370,11 +2755,6 @@
       "word": "instant",
       "translation": "ชั่วขณะ",
       "example": "For an instant nobody spoke."
-    },
-    {
-      "word": "instantly",
-      "translation": "ทันที",
-      "example": "She recognised him instantly."
     },
     {
       "word": "institute",
@@ -3402,11 +2782,6 @@
       "example": "The book poses an intellectual challenge."
     },
     {
-      "word": "intended",
-      "translation": "ที่ตั้งใจไว้",
-      "example": "That was not the intended result."
-    },
-    {
       "word": "intense",
       "translation": "ที่รุนแรงเข้มข้น",
       "example": "The heat was intense."
@@ -3430,11 +2805,6 @@
       "word": "interpret",
       "translation": "ตีความ",
       "example": "Two experts interpreted it differently."
-    },
-    {
-      "word": "interpretation",
-      "translation": "การตีความ",
-      "example": "Her interpretation of the poem differs."
     },
     {
       "word": "interrupt",
@@ -3462,11 +2832,6 @@
       "example": "The investigation lasted a year."
     },
     {
-      "word": "investment",
-      "translation": "การลงทุน",
-      "example": "The investment paid off."
-    },
-    {
       "word": "investor",
       "translation": "นักลงทุน",
       "example": "The investor pulled out at the last minute."
@@ -3475,11 +2840,6 @@
       "word": "isolate",
       "translation": "แยกออกมา",
       "example": "They isolated the faulty part."
-    },
-    {
-      "word": "isolated",
-      "translation": "โดดเดี่ยว",
-      "example": "The farm is isolated in winter."
     },
     {
       "word": "jail",
@@ -3505,11 +2865,6 @@
       "word": "joy",
       "translation": "ความปีติยินดี",
       "example": "Her joy was obvious."
-    },
-    {
-      "word": "judgement",
-      "translation": "วิจารณญาณ",
-      "example": "His judgement is usually sound."
     },
     {
       "word": "junior",
@@ -3567,11 +2922,6 @@
       "example": "Hold the ladder steady."
     },
     {
-      "word": "landing",
-      "translation": "การลงจอด",
-      "example": "The landing was smooth despite the wind."
-    },
-    {
       "word": "landscape",
       "translation": "ภูมิทัศน์",
       "example": "The landscape changed after the fire."
@@ -3580,11 +2930,6 @@
       "word": "lane",
       "translation": "ช่องทางเดินรถ",
       "example": "The car moved into the left lane."
-    },
-    {
-      "word": "largely",
-      "translation": "ส่วนใหญ่",
-      "example": "The delay was largely his fault."
     },
     {
       "word": "laser",
@@ -3600,11 +2945,6 @@
       "word": "launch",
       "translation": "เปิดตัว",
       "example": "They launched the service in May."
-    },
-    {
-      "word": "leadership",
-      "translation": "ความเป็นผู้นำ",
-      "example": "The leadership changed twice."
     },
     {
       "word": "leaflet",
@@ -3652,24 +2992,9 @@
       "example": "He built the collection over a lifetime."
     },
     {
-      "word": "lighting",
-      "translation": "การจัดแสง",
-      "example": "The lighting in the room is poor."
-    },
-    {
       "word": "likewise",
       "translation": "เช่นเดียวกัน",
       "example": "She stayed, and he did likewise."
-    },
-    {
-      "word": "limitation",
-      "translation": "ข้อจำกัด",
-      "example": "The method has one serious limitation."
-    },
-    {
-      "word": "limited",
-      "translation": "ที่มีจำกัด",
-      "example": "Space is limited."
     },
     {
       "word": "literally",
@@ -3767,11 +3092,6 @@
       "example": "He maintains that he was right."
     },
     {
-      "word": "majority",
-      "translation": "เสียงข้างมาก",
-      "example": "The majority voted against."
-    },
-    {
       "word": "make-up",
       "translation": "เครื่องสำอาง",
       "example": "She wears very little make-up."
@@ -3787,11 +3107,6 @@
       "example": "They manufacture parts for aircraft."
     },
     {
-      "word": "manufacturing",
-      "translation": "การผลิต",
-      "example": "Manufacturing fell for a third month."
-    },
-    {
       "word": "marathon",
       "translation": "มาราธอน",
       "example": "She ran her first marathon in April."
@@ -3800,11 +3115,6 @@
       "word": "margin",
       "translation": "ส่วนต่าง, ระยะห่าง",
       "example": "They won by a narrow margin."
-    },
-    {
-      "word": "marginal",
-      "translation": "เล็กน้อย",
-      "example": "The gain was marginal."
     },
     {
       "word": "marker",
@@ -3822,19 +3132,9 @@
       "example": "A mass of people waited outside."
     },
     {
-      "word": "massive",
-      "translation": "มหาศาล",
-      "example": "The response was massive."
-    },
-    {
       "word": "master",
       "translation": "เชี่ยวชาญจนชำนาญ",
       "example": "She mastered the technique."
-    },
-    {
-      "word": "matching",
-      "translation": "ที่เข้าชุดกัน",
-      "example": "She wore a matching scarf."
     },
     {
       "word": "mate",
@@ -3857,19 +3157,9 @@
       "example": "We have no means of checking."
     },
     {
-      "word": "measurement",
-      "translation": "การวัดค่า",
-      "example": "One measurement was wrong."
-    },
-    {
       "word": "mechanic",
       "translation": "ช่างเครื่อง",
       "example": "The mechanic found the fault at once."
-    },
-    {
-      "word": "mechanical",
-      "translation": "ทางกลไก",
-      "example": "The delay was a mechanical fault."
     },
     {
       "word": "mechanism",
@@ -3890,11 +3180,6 @@
       "word": "melt",
       "translation": "ละลาย",
       "example": "The ice melted by noon."
-    },
-    {
-      "word": "membership",
-      "translation": "การเป็นสมาชิก",
-      "example": "Membership costs thirty pounds a year."
     },
     {
       "word": "memorable",
@@ -3935,11 +3220,6 @@
       "word": "minor",
       "translation": "เล็กน้อยไม่สำคัญ",
       "example": "It was a minor problem."
-    },
-    {
-      "word": "minority",
-      "translation": "เสียงข้างน้อย",
-      "example": "A small minority disagreed."
     },
     {
       "word": "miserable",
@@ -3985,11 +3265,6 @@
       "word": "monster",
       "translation": "สัตว์ประหลาด",
       "example": "The child drew a friendly monster."
-    },
-    {
-      "word": "monthly",
-      "translation": "รายเดือน",
-      "example": "The magazine is monthly."
     },
     {
       "word": "monument",
@@ -4057,16 +3332,6 @@
       "example": "There were multiple errors."
     },
     {
-      "word": "multiply",
-      "translation": "ทวีคูณ, เพิ่มขึ้น",
-      "example": "The problems multiplied quickly."
-    },
-    {
-      "word": "mysterious",
-      "translation": "ที่ลึกลับ",
-      "example": "The letter was mysterious."
-    },
-    {
       "word": "myth",
       "translation": "ความเชื่อผิดๆ",
       "example": "It is a myth that we use ten per cent of our brain."
@@ -4112,11 +3377,6 @@
       "example": "The negotiation lasted all night."
     },
     {
-      "word": "nerve",
-      "translation": "เส้นประสาท",
-      "example": "The injury damaged a nerve."
-    },
-    {
       "word": "neutral",
       "translation": "เป็นกลาง",
       "example": "The report keeps a neutral tone."
@@ -4140,11 +3400,6 @@
       "word": "nightmare",
       "translation": "ฝันร้าย",
       "example": "The journey was a nightmare."
-    },
-    {
-      "word": "norm",
-      "translation": "บรรทัดฐาน",
-      "example": "Late meetings are the norm here."
     },
     {
       "word": "nostalgia",
@@ -4177,11 +3432,6 @@
       "example": "There were numerous complaints."
     },
     {
-      "word": "nursing",
-      "translation": "การพยาบาล",
-      "example": "She went into nursing at twenty."
-    },
-    {
       "word": "nutrition",
       "translation": "โภชนาการ",
       "example": "The course covers basic nutrition."
@@ -4212,11 +3462,6 @@
       "example": "A helmet is obligatory on site."
     },
     {
-      "word": "observation",
-      "translation": "ข้อสังเกต",
-      "example": "His observation proved correct."
-    },
-    {
       "word": "observe",
       "translation": "สังเกตการณ์",
       "example": "She observed the change closely."
@@ -4235,11 +3480,6 @@
       "word": "obtain",
       "translation": "ได้มา",
       "example": "She obtained the licence last year."
-    },
-    {
-      "word": "occasionally",
-      "translation": "เป็นครั้งคราว",
-      "example": "He visits occasionally."
     },
     {
       "word": "occupation",
@@ -4282,16 +3522,6 @@
       "example": "From May onwards the shop opens late."
     },
     {
-      "word": "opening",
-      "translation": "ช่องเปิด",
-      "example": "There is an opening in the fence."
-    },
-    {
-      "word": "openly",
-      "translation": "อย่างเปิดเผย",
-      "example": "She spoke openly about the problem."
-    },
-    {
       "word": "opera",
       "translation": "อุปรากร",
       "example": "We went to the opera in Vienna."
@@ -4315,11 +3545,6 @@
       "word": "oppose",
       "translation": "คัดค้าน",
       "example": "Two members opposed the plan."
-    },
-    {
-      "word": "opposed",
-      "translation": "ที่คัดค้าน",
-      "example": "She is opposed to the change."
     },
     {
       "word": "opposition",
@@ -4350,11 +3575,6 @@
       "word": "organic",
       "translation": "ออร์แกนิก",
       "example": "They only buy organic vegetables."
-    },
-    {
-      "word": "origin",
-      "translation": "ต้นกำเนิด",
-      "example": "The origin of the word is Latin."
     },
     {
       "word": "otherwise",
@@ -4417,11 +3637,6 @@
       "example": "He still owes me money."
     },
     {
-      "word": "ownership",
-      "translation": "ความเป็นเจ้าของ",
-      "example": "Ownership of the land is disputed."
-    },
-    {
       "word": "oxygen",
       "translation": "ออกซิเจน",
       "example": "The tank supplies oxygen."
@@ -4475,16 +3690,6 @@
       "word": "participation",
       "translation": "การเข้าร่วม",
       "example": "Participation is voluntary."
-    },
-    {
-      "word": "partly",
-      "translation": "บางส่วน",
-      "example": "The delay was partly my fault."
-    },
-    {
-      "word": "partnership",
-      "translation": "ความเป็นหุ้นส่วน",
-      "example": "The two firms formed a partnership."
     },
     {
       "word": "part-time",
@@ -4552,11 +3757,6 @@
       "example": "The change is permanent."
     },
     {
-      "word": "permanently",
-      "translation": "อย่างถาวร",
-      "example": "The road is permanently closed."
-    },
-    {
       "word": "permit",
       "translation": "อนุญาตให้",
       "example": "The council will not permit it."
@@ -4612,11 +3812,6 @@
       "example": "It is a pity you cannot come."
     },
     {
-      "word": "placement",
-      "translation": "การฝึกงาน, การจัดวาง",
-      "example": "She found a placement at a local firm."
-    },
-    {
       "word": "plain",
       "translation": "เรียบง่าย, ชัดแจ้ง",
       "example": "The answer was plain enough."
@@ -4625,16 +3820,6 @@
       "word": "plausibility",
       "translation": "ความน่าเชื่อถือ",
       "example": "The plausibility of the story faded."
-    },
-    {
-      "word": "pointed",
-      "translation": "ที่มุ่งเป้า, เสียดสี",
-      "example": "She made a pointed remark."
-    },
-    {
-      "word": "popularity",
-      "translation": "ความนิยม",
-      "example": "Its popularity faded quickly."
     },
     {
       "word": "portion",
@@ -4657,11 +3842,6 @@
       "example": "The plan has real potential."
     },
     {
-      "word": "potentially",
-      "translation": "ที่อาจจะ",
-      "example": "The fault is potentially dangerous."
-    },
-    {
       "word": "praise",
       "translation": "ชื่นชม, ยกย่อง",
       "example": "The teacher praised her work."
@@ -4682,21 +3862,6 @@
       "example": "Give me the precise figure."
     },
     {
-      "word": "precisely",
-      "translation": "อย่างแม่นยำ",
-      "example": "That is precisely what I meant."
-    },
-    {
-      "word": "predictable",
-      "translation": "คาดเดาได้",
-      "example": "The ending was predictable."
-    },
-    {
-      "word": "preference",
-      "translation": "ความชอบมากกว่า",
-      "example": "I have no preference."
-    },
-    {
       "word": "pregnant",
       "translation": "ตั้งครรภ์",
       "example": "She was pregnant at the time."
@@ -4705,11 +3870,6 @@
       "word": "prejudice",
       "translation": "อคติ",
       "example": "The report showed clear prejudice."
-    },
-    {
-      "word": "preparation",
-      "translation": "การเตรียมการ",
-      "example": "Preparation took three weeks."
     },
     {
       "word": "presence",
@@ -4722,19 +3882,9 @@
       "example": "They preserved the old doors."
     },
     {
-      "word": "presidential",
-      "translation": "เกี่ยวกับประธานาธิบดี",
-      "example": "The presidential election is in autumn."
-    },
-    {
       "word": "pride",
       "translation": "ความภาคภูมิใจ",
       "example": "She takes pride in her garden."
-    },
-    {
-      "word": "primarily",
-      "translation": "โดยหลักแล้ว",
-      "example": "The course is primarily for beginners."
     },
     {
       "word": "prime",
@@ -4757,11 +3907,6 @@
       "example": "We need prior notice of any change."
     },
     {
-      "word": "priority",
-      "translation": "ลำดับความสำคัญ",
-      "example": "Safety is our first priority."
-    },
-    {
       "word": "privacy",
       "translation": "ความเป็นส่วนตัว",
       "example": "She values her privacy."
@@ -4770,11 +3915,6 @@
       "word": "probability",
       "translation": "ความน่าจะเป็น",
       "example": "The probability of rain is high."
-    },
-    {
-      "word": "probable",
-      "translation": "น่าจะเป็นไปได้",
-      "example": "A delay now seems probable."
     },
     {
       "word": "procedure",
@@ -4792,24 +3932,9 @@
       "example": "The change had a profound effect."
     },
     {
-      "word": "programming",
-      "translation": "การเขียนโปรแกรม",
-      "example": "He teaches programming at night."
-    },
-    {
-      "word": "progressive",
-      "translation": "ที่ค่อยๆ ก้าวหน้า",
-      "example": "The illness is slow and progressive."
-    },
-    {
       "word": "prohibit",
       "translation": "ห้าม",
       "example": "The rules prohibit smoking here."
-    },
-    {
-      "word": "promising",
-      "translation": "น่าจะไปได้ดี",
-      "example": "The first results are promising."
     },
     {
       "word": "promotion",
@@ -4830,11 +3955,6 @@
       "word": "proportion",
       "translation": "สัดส่วน",
       "example": "A large proportion of seats were empty."
-    },
-    {
-      "word": "proposal",
-      "translation": "ข้อเสนอ",
-      "example": "The proposal was rejected."
     },
     {
       "word": "propose",
@@ -4882,21 +4002,6 @@
       "example": "She studies psychology."
     },
     {
-      "word": "publication",
-      "translation": "การตีพิมพ์",
-      "example": "Publication was delayed a year."
-    },
-    {
-      "word": "publicity",
-      "translation": "การประชาสัมพันธ์",
-      "example": "The film got a lot of publicity."
-    },
-    {
-      "word": "publishing",
-      "translation": "ธุรกิจสิ่งพิมพ์",
-      "example": "She works in publishing."
-    },
-    {
       "word": "punk",
       "translation": "พังก์",
       "example": "He still listens to old punk records."
@@ -4915,11 +4020,6 @@
       "word": "pure",
       "translation": "บริสุทธิ์, ล้วน",
       "example": "It is pure cotton."
-    },
-    {
-      "word": "purely",
-      "translation": "ล้วนๆ",
-      "example": "The meeting was purely social."
     },
     {
       "word": "pursue",
@@ -4987,11 +4087,6 @@
       "example": "The change was rapid."
     },
     {
-      "word": "rapidly",
-      "translation": "อย่างรวดเร็ว",
-      "example": "The queue grew rapidly."
-    },
-    {
       "word": "rating",
       "translation": "คะแนนการจัดระดับ",
       "example": "The film has a low rating."
@@ -5005,16 +4100,6 @@
       "word": "realistic",
       "translation": "ที่สมจริง, เป็นจริงได้",
       "example": "Be realistic about the time."
-    },
-    {
-      "word": "reasonable",
-      "translation": "ที่สมเหตุสมผล",
-      "example": "The price seems reasonable."
-    },
-    {
-      "word": "reasonably",
-      "translation": "พอสมควร",
-      "example": "The room is reasonably clean."
     },
     {
       "word": "rebuild",
@@ -5052,19 +4137,9 @@
       "example": "He recovered within a week."
     },
     {
-      "word": "recovery",
-      "translation": "การฟื้นตัว",
-      "example": "His recovery took six months."
-    },
-    {
       "word": "recruit",
       "translation": "รับสมัคร",
       "example": "They recruit twice a year."
-    },
-    {
-      "word": "recruitment",
-      "translation": "การรับสมัคร",
-      "example": "Recruitment is slow this year."
     },
     {
       "word": "reduction",
@@ -5085,11 +4160,6 @@
       "word": "regard",
       "translation": "ถือว่า, มองว่า",
       "example": "I regard that as a mistake."
-    },
-    {
-      "word": "regional",
-      "translation": "ระดับภูมิภาค",
-      "example": "It is a regional problem."
     },
     {
       "word": "register",
@@ -5122,11 +4192,6 @@
       "example": "The result reinforces our view."
     },
     {
-      "word": "relatively",
-      "translation": "ค่อนข้างจะ, โดยเปรียบเทียบ",
-      "example": "The task is relatively simple."
-    },
-    {
       "word": "relevant",
       "translation": "เกี่ยวข้อง",
       "example": "That detail is not relevant."
@@ -5142,19 +4207,9 @@
       "example": "The tablet relieves the pain."
     },
     {
-      "word": "relieved",
-      "translation": "โล่งใจ",
-      "example": "She was relieved to hear the news."
-    },
-    {
       "word": "reluctant",
       "translation": "ลังเล",
       "example": "She was reluctant to say more."
-    },
-    {
-      "word": "rely",
-      "translation": "พึ่งพา",
-      "example": "You cannot rely on the timetable."
     },
     {
       "word": "rely on",
@@ -5172,16 +4227,6 @@
       "example": "She made a remarkable recovery."
     },
     {
-      "word": "remarkably",
-      "translation": "อย่างน่าทึ่ง",
-      "example": "The engine is remarkably quiet."
-    },
-    {
-      "word": "reporting",
-      "translation": "การรายงานข่าว",
-      "example": "The reporting of the case was careful."
-    },
-    {
       "word": "representative",
       "translation": "ผู้แทน",
       "example": "A representative visited the school."
@@ -5192,19 +4237,9 @@
       "example": "The firm has a strong reputation."
     },
     {
-      "word": "requirement",
-      "translation": "ข้อกำหนด",
-      "example": "There is one further requirement."
-    },
-    {
       "word": "rescue",
       "translation": "ช่วยชีวิต",
       "example": "They rescued the crew at dawn."
-    },
-    {
-      "word": "reserve",
-      "translation": "สงวนไว้",
-      "example": "I reserve the right to refuse."
     },
     {
       "word": "resident",
@@ -5267,11 +4302,6 @@
       "example": "The firm retained most of its staff."
     },
     {
-      "word": "retirement",
-      "translation": "การเกษียณ",
-      "example": "He took early retirement."
-    },
-    {
       "word": "reveal",
       "translation": "เปิดเผย",
       "example": "The audit revealed the error."
@@ -5317,11 +4347,6 @@
       "example": "The testing was rigorous."
     },
     {
-      "word": "risky",
-      "translation": "เสี่ยง",
-      "example": "Buying now would be risky."
-    },
-    {
       "word": "rival",
       "translation": "คู่แข่ง",
       "example": "Their main rival cut prices."
@@ -5355,11 +4380,6 @@
       "word": "rose",
       "translation": "ดอกกุหลาบ",
       "example": "She planted one white rose."
-    },
-    {
-      "word": "roughly",
-      "translation": "ประมาณคร่าวๆ",
-      "example": "The trip takes roughly two hours."
     },
     {
       "word": "rub",
@@ -5397,11 +4417,6 @@
       "example": "She smiled with satisfaction."
     },
     {
-      "word": "satisfied",
-      "translation": "ที่พึงพอใจ",
-      "example": "She was satisfied with the result."
-    },
-    {
       "word": "satisfy",
       "translation": "ทำให้พอใจ",
       "example": "The answer did not satisfy him."
@@ -5420,11 +4435,6 @@
       "word": "scandal",
       "translation": "เรื่องอื้อฉาว",
       "example": "The scandal ended his career."
-    },
-    {
-      "word": "scare",
-      "translation": "ความตกใจ",
-      "example": "The noise gave me a scare."
     },
     {
       "word": "scenario",
@@ -5457,19 +4467,9 @@
       "example": "She screamed at the noise."
     },
     {
-      "word": "screening",
-      "translation": "การฉายการคัดกรอง",
-      "example": "The screening starts at eight."
-    },
-    {
       "word": "sector",
       "translation": "ภาคส่วน",
       "example": "The sector employs thousands."
-    },
-    {
-      "word": "secure",
-      "translation": "ที่ปลอดภัย, มั่นคง",
-      "example": "The lock is not secure."
     },
     {
       "word": "seek",
@@ -5537,11 +4537,6 @@
       "example": "The weather was severe."
     },
     {
-      "word": "severely",
-      "translation": "อย่างรุนแรง",
-      "example": "The bridge was severely damaged."
-    },
-    {
       "word": "sexy",
       "translation": "เซ็กซี่",
       "example": "He thought the car looked sexy."
@@ -5567,11 +4562,6 @@
       "example": "It is a shame you missed it."
     },
     {
-      "word": "shaped",
-      "translation": "ที่มีรูปทรง",
-      "example": "The lake is shaped like a boot."
-    },
-    {
       "word": "shelter",
       "translation": "ที่พักพิงหลบภัย",
       "example": "They found shelter under a tree."
@@ -5580,21 +4570,6 @@
       "word": "shock",
       "translation": "ความตกใจ",
       "example": "The news came as a shock."
-    },
-    {
-      "word": "shocked",
-      "translation": "ที่ตกใจ",
-      "example": "Everyone was shocked by it."
-    },
-    {
-      "word": "shocking",
-      "translation": "น่าตกใจ",
-      "example": "The figures are shocking."
-    },
-    {
-      "word": "shooting",
-      "translation": "การถ่ายทำ",
-      "example": "The shooting took three days."
     },
     {
       "word": "shore",
@@ -5647,11 +4622,6 @@
       "example": "There was a significant drop in sales."
     },
     {
-      "word": "significantly",
-      "translation": "อย่างมีนัยสำคัญ",
-      "example": "Costs rose significantly."
-    },
-    {
       "word": "silence",
       "translation": "ความเงียบ",
       "example": "A long silence followed."
@@ -5667,11 +4637,6 @@
       "example": "His apology sounded sincere."
     },
     {
-      "word": "skilled",
-      "translation": "ที่มีทักษะ",
-      "example": "The work needs a skilled hand."
-    },
-    {
       "word": "skull",
       "translation": "กะโหลกศีรษะ",
       "example": "The museum has a whale skull."
@@ -5685,11 +4650,6 @@
       "word": "slide",
       "translation": "ลื่นไถล",
       "example": "The book slid off the table."
-    },
-    {
-      "word": "slight",
-      "translation": "เล็กน้อยเบาบาง",
-      "example": "There was a slight delay."
     },
     {
       "word": "slip",
@@ -5752,11 +4712,6 @@
       "example": "A specialist examined the scan."
     },
     {
-      "word": "specialize",
-      "translation": "เชี่ยวชาญเฉพาะทาง",
-      "example": "They specialize in old clocks."
-    },
-    {
       "word": "species",
       "translation": "ชนิดพันธุ์",
       "example": "The species is now protected."
@@ -5785,11 +4740,6 @@
       "word": "speculation",
       "translation": "การคาดเดา",
       "example": "There is speculation about a merger."
-    },
-    {
-      "word": "spice",
-      "translation": "เครื่องเทศ",
-      "example": "Add one more spice at the end."
     },
     {
       "word": "spill",
@@ -5837,16 +4787,6 @@
       "example": "A local firm sponsored the team."
     },
     {
-      "word": "sponsorship",
-      "translation": "การสนับสนุน",
-      "example": "The team lost its sponsorship."
-    },
-    {
-      "word": "sporting",
-      "translation": "มีน้ำใจนักกีฬา",
-      "example": "It was a sporting gesture."
-    },
-    {
       "word": "stable",
       "translation": "ที่คงที่, มั่นคง",
       "example": "The patient is stable now."
@@ -5877,11 +4817,6 @@
       "example": "Her status changed in June."
     },
     {
-      "word": "steadily",
-      "translation": "อย่างสม่ำเสมอ",
-      "example": "The rain fell steadily all day."
-    },
-    {
       "word": "steady",
       "translation": "ที่คงที่, สม่ำเสมอ",
       "example": "The improvement was steady."
@@ -5900,11 +4835,6 @@
       "word": "steep",
       "translation": "ชัน",
       "example": "The path is very steep."
-    },
-    {
-      "word": "sticky",
-      "translation": "เหนียวติด",
-      "example": "The floor was sticky."
     },
     {
       "word": "stiff",
@@ -5942,11 +4872,6 @@
       "example": "The rules are very strict."
     },
     {
-      "word": "strictly",
-      "translation": "อย่างเคร่งครัด",
-      "example": "Smoking is strictly forbidden."
-    },
-    {
       "word": "strike",
       "translation": "การนัดหยุดงาน",
       "example": "The workers went on strike."
@@ -5982,11 +4907,6 @@
       "example": "Subsequent reports confirmed it."
     },
     {
-      "word": "subsequently",
-      "translation": "ต่อมาภายหลัง",
-      "example": "She subsequently changed her mind."
-    },
-    {
       "word": "substantial",
       "translation": "จำนวนมาก",
       "example": "They made a substantial investment."
@@ -5997,19 +4917,9 @@
       "example": "They live in a quiet suburb."
     },
     {
-      "word": "suffering",
-      "translation": "ความทุกข์ทรมาน",
-      "example": "The war caused great suffering."
-    },
-    {
       "word": "sufficient",
       "translation": "เพียงพอ",
       "example": "We have sufficient food for three days."
-    },
-    {
-      "word": "sufficiently",
-      "translation": "อย่างเพียงพอ",
-      "example": "The glue is not sufficiently dry."
     },
     {
       "word": "sum",
@@ -6037,16 +4947,6 @@
       "example": "Trees surround the house."
     },
     {
-      "word": "surrounding",
-      "translation": "ที่อยู่โดยรอบ",
-      "example": "The surrounding fields were flooded."
-    },
-    {
-      "word": "survival",
-      "translation": "การอยู่รอด",
-      "example": "Water is the first survival need."
-    },
-    {
       "word": "survivor",
       "translation": "ผู้รอดชีวิต",
       "example": "The only survivor was the pilot."
@@ -6072,11 +4972,6 @@
       "example": "The report covers sustainability."
     },
     {
-      "word": "sustainable",
-      "translation": "ยั่งยืน",
-      "example": "The pace is not sustainable."
-    },
-    {
       "word": "swallow",
       "translation": "กลืน",
       "example": "Swallow the tablet with water."
@@ -6090,11 +4985,6 @@
       "word": "sweep",
       "translation": "กวาด",
       "example": "Sweep the floor before you go."
-    },
-    {
-      "word": "symbolize",
-      "translation": "เป็นสัญลักษณ์ของ",
-      "example": "The colour symbolizes hope."
     },
     {
       "word": "sympathetic",
@@ -6147,29 +5037,14 @@
       "example": "The film is aimed at a teen audience."
     },
     {
-      "word": "teens",
-      "translation": "ช่วงวัยรุ่น",
-      "example": "She learned Thai in her teens."
-    },
-    {
       "word": "temple",
       "translation": "วัด",
       "example": "The temple stands above the town."
     },
     {
-      "word": "temporarily",
-      "translation": "ชั่วคราว",
-      "example": "The lift is temporarily out of use."
-    },
-    {
       "word": "temporary",
       "translation": "ชั่วคราว",
       "example": "The repair is temporary."
-    },
-    {
-      "word": "tendency",
-      "translation": "แนวโน้ม",
-      "example": "He has a tendency to interrupt."
     },
     {
       "word": "tension",
@@ -6185,11 +5060,6 @@
       "word": "terms",
       "translation": "เงื่อนไข",
       "example": "Read the terms before you sign."
-    },
-    {
-      "word": "terribly",
-      "translation": "อย่างมาก",
-      "example": "I am terribly sorry about the noise."
     },
     {
       "word": "terrify",
@@ -6215,11 +5085,6 @@
       "word": "terrorist",
       "translation": "ผู้ก่อการร้าย",
       "example": "A terrorist attack closed the station."
-    },
-    {
-      "word": "testing",
-      "translation": "การทดสอบ",
-      "example": "Testing takes about a week."
     },
     {
       "word": "textbook",
@@ -6250,11 +5115,6 @@
       "word": "thorough",
       "translation": "ละเอียด, ถี่ถ้วน",
       "example": "They carried out a thorough review."
-    },
-    {
-      "word": "thoroughly",
-      "translation": "อย่างทั่วถึง",
-      "example": "Wash the fruit thoroughly."
     },
     {
       "word": "threat",
@@ -6322,11 +5182,6 @@
       "example": "There was no trace of the key."
     },
     {
-      "word": "trading",
-      "translation": "การซื้อขาย",
-      "example": "Trading was slow on Monday."
-    },
-    {
       "word": "tragedy",
       "translation": "โศกนาฏกรรม",
       "example": "The fire was a local tragedy."
@@ -6360,11 +5215,6 @@
       "word": "transmit",
       "translation": "ส่งสัญญาณ",
       "example": "The station transmits all night."
-    },
-    {
-      "word": "transportation",
-      "translation": "การขนส่ง",
-      "example": "Transportation costs doubled."
     },
     {
       "word": "trap",
@@ -6437,11 +5287,6 @@
       "example": "The ultimate aim is a cure."
     },
     {
-      "word": "ultimately",
-      "translation": "ในท้ายที่สุด",
-      "example": "Ultimately it was his choice."
-    },
-    {
       "word": "unacceptable",
       "translation": "ยอมรับไม่ได้",
       "example": "The delay is unacceptable."
@@ -6482,11 +5327,6 @@
       "example": "The story unfolds slowly."
     },
     {
-      "word": "unfortunate",
-      "translation": "โชคร้าย, ไม่เหมาะ",
-      "example": "It was an unfortunate choice of word."
-    },
-    {
       "word": "unique",
       "translation": "ที่มีหนึ่งเดียว",
       "example": "Each copy is unique."
@@ -6495,16 +5335,6 @@
       "word": "unite",
       "translation": "ทำให้เป็นหนึ่งเดียว",
       "example": "The crisis united the village."
-    },
-    {
-      "word": "unity",
-      "translation": "ความเป็นเอกภาพ",
-      "example": "The party talks about unity."
-    },
-    {
-      "word": "universal",
-      "translation": "สากล, ทั่วไป",
-      "example": "The rule is universal."
     },
     {
       "word": "universe",
@@ -6557,16 +5387,6 @@
       "example": "Your ticket is valid for a month."
     },
     {
-      "word": "variation",
-      "translation": "ความแปรผัน",
-      "example": "There is some variation in size."
-    },
-    {
-      "word": "vary",
-      "translation": "ผันแปรแตกต่างกันไป",
-      "example": "Prices vary by season."
-    },
-    {
       "word": "vast",
       "translation": "กว้างใหญ่, ไพศาล",
       "example": "A vast plain lay ahead."
@@ -6590,11 +5410,6 @@
       "word": "viable",
       "translation": "ที่เป็นไปได้จริง",
       "example": "It is the only viable option."
-    },
-    {
-      "word": "victorious",
-      "translation": "ที่ได้ชัยชนะ",
-      "example": "The victorious team went home late."
     },
     {
       "word": "victory",
@@ -6652,11 +5467,6 @@
       "example": "Turn the volume down."
     },
     {
-      "word": "voluntarily",
-      "translation": "โดยสมัครใจ",
-      "example": "He left voluntarily."
-    },
-    {
       "word": "voluntary",
       "translation": "โดยสมัครใจ",
       "example": "The scheme is voluntary."
@@ -6682,11 +5492,6 @@
       "example": "We wandered through the old town."
     },
     {
-      "word": "warming",
-      "translation": "ภาวะโลกร้อน",
-      "example": "The report measures global warming."
-    },
-    {
       "word": "weakness",
       "translation": "จุดอ่อน",
       "example": "His weakness was impatience."
@@ -6695,16 +5500,6 @@
       "word": "wealth",
       "translation": "ความมั่งคั่ง",
       "example": "The wealth came from shipping."
-    },
-    {
-      "word": "wealthy",
-      "translation": "ที่ร่ำรวย",
-      "example": "The family was once wealthy."
-    },
-    {
-      "word": "weekly",
-      "translation": "รายสัปดาห์",
-      "example": "The meeting is weekly."
     },
     {
       "word": "weird",
@@ -6740,11 +5535,6 @@
       "word": "whoever",
       "translation": "ใครก็ตามที่",
       "example": "Whoever finds it should keep it."
-    },
-    {
-      "word": "widely",
-      "translation": "อย่างกว้างขวาง",
-      "example": "The view is widely shared."
     },
     {
       "word": "widespread",
