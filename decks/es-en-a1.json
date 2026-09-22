@@ -1,0 +1,3370 @@
+{
+  "id": "es-en-a1",
+  "name": "Spanish A1",
+  "learn": "es",
+  "native": "en",
+  "level": "A1",
+  "version": 21,
+  "items": [
+    {
+      "word": "hola",
+      "translation": "hello, hi",
+      "example": "¡Hola! ¿Qué tal?",
+      "exampleTranslation": "Hi! How are you?"
+    },
+    {
+      "word": "¿Cómo estás?",
+      "translation": "How are you?",
+      "example": "Hola, ¿cómo estás hoy?",
+      "exampleTranslation": "Hi, how are you today?"
+    },
+    {
+      "word": "¿Qué tal?",
+      "translation": "How's it going?, What's up?",
+      "example": "¡Qué tal! ¿Todo bien?",
+      "exampleTranslation": "What's up! Everything good?"
+    },
+    {
+      "word": "buenos días",
+      "translation": "good morning",
+      "example": "¡Buenos días! ¿Cómo dormiste?",
+      "exampleTranslation": "Good morning! How did you sleep?"
+    },
+    {
+      "word": "buenas tardes",
+      "translation": "good afternoon",
+      "example": "Buenas tardes, señora.",
+      "exampleTranslation": "Good afternoon, madam."
+    },
+    {
+      "word": "buenas noches",
+      "translation": "good evening, good night",
+      "example": "Buenas noches, hasta mañana.",
+      "exampleTranslation": "Good night, see you tomorrow."
+    },
+    {
+      "word": "mucho gusto",
+      "translation": "nice to meet you, pleased to meet you",
+      "example": "Mucho gusto, me llamo Ana.",
+      "exampleTranslation": "Nice to meet you, my name is Ana."
+    },
+    {
+      "word": "adiós",
+      "translation": "goodbye, bye",
+      "example": "Adiós, nos vemos pronto.",
+      "exampleTranslation": "Goodbye, see you soon."
+    },
+    {
+      "word": "hasta luego",
+      "translation": "see you later",
+      "example": "Hasta luego, amigo.",
+      "exampleTranslation": "See you later, friend."
+    },
+    {
+      "word": "gracias",
+      "translation": "thank you",
+      "example": "Gracias por tu ayuda.",
+      "exampleTranslation": "Thank you for your help."
+    },
+    {
+      "word": "de nada",
+      "translation": "you're welcome",
+      "example": "De nada, fue un placer.",
+      "exampleTranslation": "You're welcome, it was a pleasure."
+    },
+    {
+      "word": "por favor",
+      "translation": "please",
+      "example": "Un café, por favor.",
+      "exampleTranslation": "A coffee, please."
+    },
+    {
+      "word": "lo siento",
+      "translation": "I'm sorry",
+      "example": "Lo siento, llegué tarde.",
+      "exampleTranslation": "I'm sorry, I arrived late."
+    },
+    {
+      "word": "perdón",
+      "translation": "excuse me, pardon",
+      "example": "Perdón, ¿dónde está el baño?",
+      "exampleTranslation": "Excuse me, where is the bathroom?"
+    },
+    {
+      "word": "nombre",
+      "translation": "name",
+      "example": "Mi nombre es Carlos.",
+      "exampleTranslation": "My name is Carlos."
+    },
+    {
+      "word": "apellido",
+      "translation": "surname, last name",
+      "example": "Mi apellido es García.",
+      "exampleTranslation": "My last name is García."
+    },
+    {
+      "word": "edad",
+      "translation": "age",
+      "example": "¿Cuál es tu edad?",
+      "exampleTranslation": "What is your age?"
+    },
+    {
+      "word": "cumpleaños",
+      "translation": "birthday",
+      "example": "Mi cumpleaños es en mayo.",
+      "exampleTranslation": "My birthday is in May."
+    },
+    {
+      "word": "nacionalidad",
+      "translation": "nationality",
+      "example": "Mi nacionalidad es tailandesa.",
+      "exampleTranslation": "My nationality is Thai."
+    },
+    {
+      "word": "género",
+      "translation": "gender",
+      "example": "¿Cuál es tu género?",
+      "exampleTranslation": "What is your gender?"
+    },
+    {
+      "word": "dirección",
+      "translation": "address, direction",
+      "example": "¿Cuál es tu dirección?",
+      "exampleTranslation": "What is your address?"
+    },
+    {
+      "word": "número de teléfono",
+      "translation": "phone number",
+      "example": "Dame tu número de teléfono.",
+      "exampleTranslation": "Give me your phone number."
+    },
+    {
+      "word": "correo electrónico",
+      "translation": "email, e-mail",
+      "example": "Escribe tu correo electrónico aquí.",
+      "exampleTranslation": "Write your email here."
+    },
+    {
+      "word": "mujer",
+      "translation": "woman",
+      "example": "Esa mujer es mi profesora.",
+      "exampleTranslation": "That woman is my teacher."
+    },
+    {
+      "word": "hombre",
+      "translation": "man",
+      "example": "El hombre camina rápido.",
+      "exampleTranslation": "The man walks fast."
+    },
+    {
+      "word": "niño",
+      "translation": "boy, child",
+      "example": "El niño juega en el parque.",
+      "exampleTranslation": "The boy plays in the park."
+    },
+    {
+      "word": "niña",
+      "translation": "girl, child",
+      "example": "La niña canta muy bien.",
+      "exampleTranslation": "The girl sings very well."
+    },
+    {
+      "word": "persona",
+      "translation": "person",
+      "example": "Ella es una persona amable.",
+      "exampleTranslation": "She is a kind person."
+    },
+    {
+      "word": "gente",
+      "translation": "people",
+      "example": "Hay mucha gente aquí.",
+      "exampleTranslation": "There are a lot of people here."
+    },
+    {
+      "word": "soltero",
+      "translation": "single, unmarried",
+      "example": "Mi hermano está soltero.",
+      "exampleTranslation": "My brother is single."
+    },
+    {
+      "word": "casado",
+      "translation": "married",
+      "example": "Mi hermana está casada.",
+      "exampleTranslation": "My sister is married."
+    },
+    {
+      "word": "divorciado",
+      "translation": "divorced",
+      "example": "Mi tío está divorciado.",
+      "exampleTranslation": "My uncle is divorced."
+    },
+    {
+      "word": "español",
+      "translation": "Spanish",
+      "example": "Mi amigo es español.",
+      "exampleTranslation": "My friend is Spanish."
+    },
+    {
+      "word": "inglés",
+      "translation": "English",
+      "example": "Mi amigo es inglés.",
+      "exampleTranslation": "My friend is English."
+    },
+    {
+      "word": "francés",
+      "translation": "French",
+      "example": "Mi amigo es francés.",
+      "exampleTranslation": "My friend is French."
+    },
+    {
+      "word": "Italiano",
+      "translation": "Italian",
+      "example": "Mi amigo es italiano.",
+      "exampleTranslation": "My friend is Italian."
+    },
+    {
+      "word": "alemán",
+      "translation": "German",
+      "example": "Mi amigo es alemán.",
+      "exampleTranslation": "My friend is German."
+    },
+    {
+      "word": "mexicano",
+      "translation": "Mexican",
+      "example": "Mi amigo es mexicano.",
+      "exampleTranslation": "My friend is Mexican."
+    },
+    {
+      "word": "argentino",
+      "translation": "Argentine, Argentinian",
+      "example": "Mi amigo es argentino.",
+      "exampleTranslation": "My friend is Argentine."
+    },
+    {
+      "word": "colombiano",
+      "translation": "Colombian",
+      "example": "Mi amigo es colombiano.",
+      "exampleTranslation": "My friend is Colombian."
+    },
+    {
+      "word": "peruano",
+      "translation": "Peruvian",
+      "example": "Mi amigo es peruano.",
+      "exampleTranslation": "My friend is Peruvian."
+    },
+    {
+      "word": "chileno",
+      "translation": "Chilean",
+      "example": "Mi amigo es chileno.",
+      "exampleTranslation": "My friend is Chilean."
+    },
+    {
+      "word": "venezolano",
+      "translation": "Venezuelan",
+      "example": "Mi amigo es venezolano.",
+      "exampleTranslation": "My friend is Venezuelan."
+    },
+    {
+      "word": "cubano",
+      "translation": "Cuban",
+      "example": "Mi amigo es cubano.",
+      "exampleTranslation": "My friend is Cuban."
+    },
+    {
+      "word": "paraguayo",
+      "translation": "Paraguayan",
+      "example": "Mi amigo es paraguayo.",
+      "exampleTranslation": "My friend is Paraguayan."
+    },
+    {
+      "word": "uruguayo",
+      "translation": "Uruguayan",
+      "example": "Mi amigo es uruguayo.",
+      "exampleTranslation": "My friend is Uruguayan."
+    },
+    {
+      "word": "dominicano",
+      "translation": "Dominican",
+      "example": "Mi amigo es dominicano.",
+      "exampleTranslation": "My friend is Dominican."
+    },
+    {
+      "word": "puertorriqueño",
+      "translation": "Puerto Rican",
+      "example": "Mi amigo es puertorriqueño.",
+      "exampleTranslation": "My friend is Puerto Rican."
+    },
+    {
+      "word": "costarricense",
+      "translation": "Costa Rican",
+      "example": "Mi amigo es costarricense.",
+      "exampleTranslation": "My friend is Costa Rican."
+    },
+    {
+      "word": "nicaragüense",
+      "translation": "Nicaraguan",
+      "example": "Mi amigo es nicaragüense.",
+      "exampleTranslation": "My friend is Nicaraguan."
+    },
+    {
+      "word": "boliviano",
+      "translation": "Bolivian",
+      "example": "Mi amigo es boliviano.",
+      "exampleTranslation": "My friend is Bolivian."
+    },
+    {
+      "word": "padre",
+      "translation": "father, dad",
+      "example": "Mi padre trabaja en un banco.",
+      "exampleTranslation": "My father works at a bank."
+    },
+    {
+      "word": "madre",
+      "translation": "mother, mom",
+      "example": "Mi madre cocina muy bien.",
+      "exampleTranslation": "My mother cooks very well."
+    },
+    {
+      "word": "esposo",
+      "translation": "husband, spouse",
+      "example": "Mi esposo es alto.",
+      "exampleTranslation": "My husband is tall."
+    },
+    {
+      "word": "esposa",
+      "translation": "wife, spouse",
+      "example": "Mi esposa es doctora.",
+      "exampleTranslation": "My wife is a doctor."
+    },
+    {
+      "word": "hijo",
+      "translation": "son, child",
+      "example": "Tengo un hijo pequeño.",
+      "exampleTranslation": "I have a young son."
+    },
+    {
+      "word": "hija",
+      "translation": "daughter, child",
+      "example": "Mi hija estudia en la universidad.",
+      "exampleTranslation": "My daughter studies at the university."
+    },
+    {
+      "word": "hermano",
+      "translation": "brother",
+      "example": "Mi hermano juega al fútbol.",
+      "exampleTranslation": "My brother plays soccer."
+    },
+    {
+      "word": "hermana",
+      "translation": "sister",
+      "example": "Mi hermana vive en Madrid.",
+      "exampleTranslation": "My sister lives in Madrid."
+    },
+    {
+      "word": "sobrino",
+      "translation": "nephew",
+      "example": "Mi sobrino tiene cinco años.",
+      "exampleTranslation": "My nephew is five years old."
+    },
+    {
+      "word": "abuelo",
+      "translation": "grandfather, grandpa",
+      "example": "Mi abuelo cuenta historias interesantes.",
+      "exampleTranslation": "My grandfather tells interesting stories."
+    },
+    {
+      "word": "abuela",
+      "translation": "grandmother, grandma",
+      "example": "Mi abuela hace pan casero.",
+      "exampleTranslation": "My grandmother makes homemade bread."
+    },
+    {
+      "word": "nieto",
+      "translation": "grandson",
+      "example": "El nieto visita a su abuela.",
+      "exampleTranslation": "The grandson visits his grandmother."
+    },
+    {
+      "word": "nieta",
+      "translation": "granddaughter",
+      "example": "La nieta ayuda a su abuelo.",
+      "exampleTranslation": "The granddaughter helps her grandfather."
+    },
+    {
+      "word": "tío",
+      "translation": "uncle",
+      "example": "Mi tío vive en otra ciudad.",
+      "exampleTranslation": "My uncle lives in another city."
+    },
+    {
+      "word": "tía",
+      "translation": "aunt",
+      "example": "Mi tía trabaja como enfermera.",
+      "exampleTranslation": "My aunt works as a nurse."
+    },
+    {
+      "word": "primo",
+      "translation": "cousin",
+      "example": "Mi primo estudia matemáticas.",
+      "exampleTranslation": "My cousin studies mathematics."
+    },
+    {
+      "word": "sobrina",
+      "translation": "niece",
+      "example": "Mi sobrina dibuja muy bien.",
+      "exampleTranslation": "My niece draws very well."
+    },
+    {
+      "word": "amigo",
+      "translation": "friend",
+      "example": "Mi amigo llega mañana.",
+      "exampleTranslation": "My friend arrives tomorrow."
+    },
+    {
+      "word": "compañero",
+      "translation": "classmate, colleague",
+      "example": "Mi compañero de clase es simpático.",
+      "exampleTranslation": "My classmate is nice."
+    },
+    {
+      "word": "vecino",
+      "translation": "neighbor",
+      "example": "Mi vecino tiene un perro grande.",
+      "exampleTranslation": "My neighbor has a big dog."
+    },
+    {
+      "word": "pizza",
+      "translation": "pizza",
+      "example": "Me gusta la pizza.",
+      "exampleTranslation": "I like pizza."
+    },
+    {
+      "word": "sándwich",
+      "translation": "sandwich",
+      "example": "Quiero un sándwich, por favor.",
+      "exampleTranslation": "I want a sandwich, please."
+    },
+    {
+      "word": "hamburguesa",
+      "translation": "hamburger",
+      "example": "Como una hamburguesa los viernes.",
+      "exampleTranslation": "I eat a hamburger on Fridays."
+    },
+    {
+      "word": "patatas fritas",
+      "translation": "French fries, fried potatoes",
+      "example": "Me gustan las patatas fritas.",
+      "exampleTranslation": "I like French fries."
+    },
+    {
+      "word": "sopa",
+      "translation": "soup",
+      "example": "La sopa está muy caliente.",
+      "exampleTranslation": "The soup is very hot."
+    },
+    {
+      "word": "ensalada",
+      "translation": "salad",
+      "example": "Quiero una ensalada, por favor.",
+      "exampleTranslation": "I want a salad, please."
+    },
+    {
+      "word": "tamal",
+      "translation": "tamale",
+      "example": "Mi abuela cocina un tamal delicioso.",
+      "exampleTranslation": "My grandmother cooks a delicious tamale."
+    },
+    {
+      "word": "tortilla de patatas",
+      "translation": "Spanish omelette, potato omelet",
+      "example": "La tortilla de patatas es típica de España.",
+      "exampleTranslation": "The Spanish omelette is typical of Spain."
+    },
+    {
+      "word": "sándwich mixto",
+      "translation": "ham and cheese sandwich",
+      "example": "Pido un sándwich mixto para almorzar.",
+      "exampleTranslation": "I order a ham and cheese sandwich for lunch."
+    },
+    {
+      "word": "paella",
+      "translation": "paella",
+      "example": "La paella es un plato español.",
+      "exampleTranslation": "Paella is a Spanish dish."
+    },
+    {
+      "word": "gazpacho",
+      "translation": "gazpacho",
+      "example": "El gazpacho se sirve frío.",
+      "exampleTranslation": "Gazpacho is served cold."
+    },
+    {
+      "word": "café con leche",
+      "translation": "coffee with milk, latte",
+      "example": "Por la mañana tomo un café con leche.",
+      "exampleTranslation": "In the morning I drink coffee with milk."
+    },
+    {
+      "word": "café",
+      "translation": "coffee, café, coffee shop",
+      "example": "Quiero un café, por favor.",
+      "exampleTranslation": "I want a coffee, please."
+    },
+    {
+      "word": "té",
+      "translation": "tea",
+      "example": "Prefiero el té por la tarde.",
+      "exampleTranslation": "I prefer tea in the afternoon."
+    },
+    {
+      "word": "agua",
+      "translation": "water",
+      "example": "Necesito un vaso de agua.",
+      "exampleTranslation": "I need a glass of water."
+    },
+    {
+      "word": "jugo",
+      "translation": "juice",
+      "example": "Bebo jugo de naranja cada mañana.",
+      "exampleTranslation": "I drink orange juice every morning."
+    },
+    {
+      "word": "limonada",
+      "translation": "lemonade",
+      "example": "La limonada está muy fría.",
+      "exampleTranslation": "The lemonade is very cold."
+    },
+    {
+      "word": "soda",
+      "translation": "soda, soft drink",
+      "example": "Quiero una soda con hielo.",
+      "exampleTranslation": "I want a soda with ice."
+    },
+    {
+      "word": "refresco",
+      "translation": "soft drink, soda",
+      "example": "El refresco está en la nevera.",
+      "exampleTranslation": "The soft drink is in the fridge."
+    },
+    {
+      "word": "cerveza",
+      "translation": "beer",
+      "example": "Mi padre bebe una cerveza los sábados.",
+      "exampleTranslation": "My father drinks a beer on Saturdays."
+    },
+    {
+      "word": "vino",
+      "translation": "wine",
+      "example": "El vino tinto es mi favorito.",
+      "exampleTranslation": "Red wine is my favorite."
+    },
+    {
+      "word": "arroz",
+      "translation": "rice",
+      "example": "Como arroz todos los días.",
+      "exampleTranslation": "I eat rice every day."
+    },
+    {
+      "word": "pan",
+      "translation": "bread",
+      "example": "Compro pan fresco por la mañana.",
+      "exampleTranslation": "I buy fresh bread in the morning."
+    },
+    {
+      "word": "pasta",
+      "translation": "pasta, noodles",
+      "example": "La pasta está lista para comer.",
+      "exampleTranslation": "The pasta is ready to eat."
+    },
+    {
+      "word": "azúcar",
+      "translation": "sugar",
+      "example": "No quiero azúcar en mi café.",
+      "exampleTranslation": "I don't want sugar in my coffee."
+    },
+    {
+      "word": "sal",
+      "translation": "salt",
+      "example": "Necesito un poco de sal para la sopa.",
+      "exampleTranslation": "I need a little salt for the soup."
+    },
+    {
+      "word": "carne",
+      "translation": "meat",
+      "example": "No como carne los lunes.",
+      "exampleTranslation": "I don't eat meat on Mondays."
+    },
+    {
+      "word": "pollo",
+      "translation": "chicken",
+      "example": "Cocino pollo para la cena.",
+      "exampleTranslation": "I cook chicken for dinner."
+    },
+    {
+      "word": "vaca",
+      "translation": "cow",
+      "example": "La vaca da leche fresca.",
+      "exampleTranslation": "The cow gives fresh milk."
+    },
+    {
+      "word": "pescado",
+      "translation": "fish",
+      "example": "Me gusta el pescado a la parrilla.",
+      "exampleTranslation": "I like grilled fish."
+    },
+    {
+      "word": "jamón",
+      "translation": "ham",
+      "example": "El sándwich tiene jamón y queso.",
+      "exampleTranslation": "The sandwich has ham and cheese."
+    },
+    {
+      "word": "huevo",
+      "translation": "egg",
+      "example": "Como un huevo cada mañana.",
+      "exampleTranslation": "I eat one egg every morning."
+    },
+    {
+      "word": "leche",
+      "translation": "milk",
+      "example": "Bebo leche antes de dormir.",
+      "exampleTranslation": "I drink milk before sleeping."
+    },
+    {
+      "word": "queso",
+      "translation": "cheese",
+      "example": "Me encanta el queso de cabra.",
+      "exampleTranslation": "I love goat cheese."
+    },
+    {
+      "word": "mantequilla",
+      "translation": "butter",
+      "example": "Pongo mantequilla en el pan.",
+      "exampleTranslation": "I put butter on the bread."
+    },
+    {
+      "word": "yogur",
+      "translation": "yogurt",
+      "example": "Como yogur con fruta.",
+      "exampleTranslation": "I eat yogurt with fruit."
+    },
+    {
+      "word": "chocolate",
+      "translation": "chocolate",
+      "example": "Me gusta el chocolate negro.",
+      "exampleTranslation": "I like dark chocolate."
+    },
+    {
+      "word": "churro",
+      "translation": "churro",
+      "example": "El churro está caliente y dulce.",
+      "exampleTranslation": "The churro is hot and sweet."
+    },
+    {
+      "word": "helado",
+      "translation": "ice cream",
+      "example": "Quiero un helado de vainilla.",
+      "exampleTranslation": "I want a vanilla ice cream."
+    },
+    {
+      "word": "galleta",
+      "translation": "cookie, biscuit",
+      "example": "Los niños comen una galleta.",
+      "exampleTranslation": "The children eat a cookie."
+    },
+    {
+      "word": "dulces",
+      "translation": "sweets, candies",
+      "example": "A mi hija le gustan los dulces.",
+      "exampleTranslation": "My daughter likes sweets."
+    },
+    {
+      "word": "pastel",
+      "translation": "cake",
+      "example": "Compramos un pastel de cumpleaños.",
+      "exampleTranslation": "We buy a birthday cake."
+    },
+    {
+      "word": "manzana",
+      "translation": "apple",
+      "example": "Como una manzana todos los días.",
+      "exampleTranslation": "I eat an apple every day."
+    },
+    {
+      "word": "naranja",
+      "translation": "orange",
+      "example": "La naranja tiene mucha vitamina C.",
+      "exampleTranslation": "The orange has a lot of vitamin C."
+    },
+    {
+      "word": "plátano",
+      "translation": "banana",
+      "example": "El plátano es mi fruta favorita.",
+      "exampleTranslation": "The banana is my favorite fruit."
+    },
+    {
+      "word": "uva",
+      "translation": "grape",
+      "example": "Las uvas están muy dulces.",
+      "exampleTranslation": "The grapes are very sweet."
+    },
+    {
+      "word": "fresa",
+      "translation": "strawberry",
+      "example": "Me gusta el helado de fresa.",
+      "exampleTranslation": "I like strawberry ice cream."
+    },
+    {
+      "word": "piña",
+      "translation": "pineapple",
+      "example": "La piña es una fruta tropical.",
+      "exampleTranslation": "Pineapple is a tropical fruit."
+    },
+    {
+      "word": "limón",
+      "translation": "lemon",
+      "example": "Exprimo un limón para el té.",
+      "exampleTranslation": "I squeeze a lemon for the tea."
+    },
+    {
+      "word": "papa",
+      "translation": "potato",
+      "example": "Cocino la papa con sal.",
+      "exampleTranslation": "I cook the potato with salt."
+    },
+    {
+      "word": "tomate",
+      "translation": "tomato",
+      "example": "Corto el tomate para la ensalada.",
+      "exampleTranslation": "I cut the tomato for the salad."
+    },
+    {
+      "word": "lechuga",
+      "translation": "lettuce",
+      "example": "La ensalada tiene lechuga fresca.",
+      "exampleTranslation": "The salad has fresh lettuce."
+    },
+    {
+      "word": "zanahoria",
+      "translation": "carrot",
+      "example": "El conejo come una zanahoria.",
+      "exampleTranslation": "The rabbit eats a carrot."
+    },
+    {
+      "word": "pimiento",
+      "translation": "bell pepper, pepper",
+      "example": "Añado pimiento rojo a la sopa.",
+      "exampleTranslation": "I add red pepper to the soup."
+    },
+    {
+      "word": "cebolla",
+      "translation": "onion",
+      "example": "Corto la cebolla para cocinar.",
+      "exampleTranslation": "I cut the onion to cook."
+    },
+    {
+      "word": "pepino",
+      "translation": "cucumber",
+      "example": "El pepino está muy fresco.",
+      "exampleTranslation": "The cucumber is very fresh."
+    },
+    {
+      "word": "comida",
+      "translation": "food, meal",
+      "example": "La comida está lista.",
+      "exampleTranslation": "The food is ready."
+    },
+    {
+      "word": "desayuno",
+      "translation": "breakfast",
+      "example": "Tomo el desayuno a las siete.",
+      "exampleTranslation": "I have breakfast at seven."
+    },
+    {
+      "word": "almuerzo",
+      "translation": "lunch",
+      "example": "El almuerzo es a las doce.",
+      "exampleTranslation": "Lunch is at twelve."
+    },
+    {
+      "word": "cena",
+      "translation": "dinner, supper",
+      "example": "Preparamos la cena juntos.",
+      "exampleTranslation": "We prepare dinner together."
+    },
+    {
+      "word": "restaurante",
+      "translation": "restaurant",
+      "example": "Vamos a un restaurante nuevo.",
+      "exampleTranslation": "We are going to a new restaurant."
+    },
+    {
+      "word": "bar",
+      "translation": "bar",
+      "example": "Ellos van al bar los viernes.",
+      "exampleTranslation": "They go to the bar on Fridays."
+    },
+    {
+      "word": "menú",
+      "translation": "menu",
+      "example": "Puedo ver el menú, por favor.",
+      "exampleTranslation": "Can I see the menu, please."
+    },
+    {
+      "word": "cuenta",
+      "translation": "bill, check",
+      "example": "¿Puede traer la cuenta, por favor?",
+      "exampleTranslation": "Can you bring the check, please?"
+    },
+    {
+      "word": "camarero",
+      "translation": "waiter",
+      "example": "El camarero trae la comida.",
+      "exampleTranslation": "The waiter brings the food."
+    },
+    {
+      "word": "propina",
+      "translation": "tip",
+      "example": "Dejamos una propina para el camarero.",
+      "exampleTranslation": "We leave a tip for the waiter."
+    },
+    {
+      "word": "pedir",
+      "translation": "to order",
+      "example": "Voy a pedir una pizza.",
+      "exampleTranslation": "I am going to order a pizza."
+    },
+    {
+      "word": "pagar",
+      "translation": "to pay",
+      "example": "¿Quién va a pagar la cuenta?",
+      "exampleTranslation": "Who is going to pay the bill?"
+    },
+    {
+      "word": "cuchara",
+      "translation": "spoon",
+      "example": "Necesito una cuchara para la sopa.",
+      "exampleTranslation": "I need a spoon for the soup."
+    },
+    {
+      "word": "tenedor",
+      "translation": "fork",
+      "example": "El tenedor está en la mesa.",
+      "exampleTranslation": "The fork is on the table."
+    },
+    {
+      "word": "cuchillo",
+      "translation": "knife",
+      "example": "El cuchillo corta muy bien.",
+      "exampleTranslation": "The knife cuts very well."
+    },
+    {
+      "word": "plato",
+      "translation": "plate, dish",
+      "example": "Pon la comida en el plato.",
+      "exampleTranslation": "Put the food on the plate."
+    },
+    {
+      "word": "taza",
+      "translation": "cup",
+      "example": "Bebo café en una taza roja.",
+      "exampleTranslation": "I drink coffee in a red cup."
+    },
+    {
+      "word": "vaso",
+      "translation": "glass",
+      "example": "Llena el vaso con agua.",
+      "exampleTranslation": "Fill the glass with water."
+    },
+    {
+      "word": "bol",
+      "translation": "bowl",
+      "example": "Pon la ensalada en el bol.",
+      "exampleTranslation": "Put the salad in the bowl."
+    },
+    {
+      "word": "cuerpo",
+      "translation": "body",
+      "example": "Mi cuerpo está cansado.",
+      "exampleTranslation": "My body is tired."
+    },
+    {
+      "word": "brazo",
+      "translation": "arm",
+      "example": "Me duele el brazo.",
+      "exampleTranslation": "My arm hurts."
+    },
+    {
+      "word": "mano",
+      "translation": "hand",
+      "example": "Lávate las manos antes de comer.",
+      "exampleTranslation": "Wash your hands before eating."
+    },
+    {
+      "word": "dedo",
+      "translation": "finger",
+      "example": "Me corté el dedo.",
+      "exampleTranslation": "I cut my finger."
+    },
+    {
+      "word": "uña",
+      "translation": "nail",
+      "example": "Me pinto las uñas de rojo.",
+      "exampleTranslation": "I paint my nails red."
+    },
+    {
+      "word": "pecho",
+      "translation": "chest",
+      "example": "Siento dolor en el pecho.",
+      "exampleTranslation": "I feel pain in my chest."
+    },
+    {
+      "word": "espalda",
+      "translation": "back",
+      "example": "Me duele la espalda.",
+      "exampleTranslation": "My back hurts."
+    },
+    {
+      "word": "pierna",
+      "translation": "leg",
+      "example": "Corrí y me duele la pierna.",
+      "exampleTranslation": "I ran and my leg hurts."
+    },
+    {
+      "word": "rodilla",
+      "translation": "knee",
+      "example": "Me lastimé la rodilla jugando fútbol.",
+      "exampleTranslation": "I hurt my knee playing soccer."
+    },
+    {
+      "word": "pie",
+      "translation": "foot",
+      "example": "Me duele el pie derecho.",
+      "exampleTranslation": "My right foot hurts."
+    },
+    {
+      "word": "corazón",
+      "translation": "heart",
+      "example": "Mi corazón late rápido.",
+      "exampleTranslation": "My heart beats fast."
+    },
+    {
+      "word": "estómago",
+      "translation": "stomach",
+      "example": "Me duele el estómago.",
+      "exampleTranslation": "My stomach hurts."
+    },
+    {
+      "word": "cerebro",
+      "translation": "brain",
+      "example": "El cerebro controla el cuerpo.",
+      "exampleTranslation": "The brain controls the body."
+    },
+    {
+      "word": "piel",
+      "translation": "skin",
+      "example": "Mi piel es sensible al sol.",
+      "exampleTranslation": "My skin is sensitive to the sun."
+    },
+    {
+      "word": "cuello",
+      "translation": "neck",
+      "example": "Me duele el cuello.",
+      "exampleTranslation": "My neck hurts."
+    },
+    {
+      "word": "cabeza",
+      "translation": "head",
+      "example": "Me duele la cabeza.",
+      "exampleTranslation": "My head hurts."
+    },
+    {
+      "word": "cara",
+      "translation": "face",
+      "example": "Lávate la cara por la mañana.",
+      "exampleTranslation": "Wash your face in the morning."
+    },
+    {
+      "word": "cabello",
+      "translation": "hair",
+      "example": "Tiene el cabello largo.",
+      "exampleTranslation": "She has long hair."
+    },
+    {
+      "word": "pelo",
+      "translation": "hair",
+      "example": "Me corto el pelo cada mes.",
+      "exampleTranslation": "I get a haircut every month."
+    },
+    {
+      "word": "frente",
+      "translation": "forehead",
+      "example": "Tiene una cicatriz en la frente.",
+      "exampleTranslation": "He has a scar on his forehead."
+    },
+    {
+      "word": "ojo",
+      "translation": "eye",
+      "example": "Tiene los ojos azules.",
+      "exampleTranslation": "She has blue eyes."
+    },
+    {
+      "word": "oreja",
+      "translation": "ear",
+      "example": "Me duele la oreja.",
+      "exampleTranslation": "My ear hurts."
+    },
+    {
+      "word": "nariz",
+      "translation": "nose",
+      "example": "Su nariz es pequeña.",
+      "exampleTranslation": "Her nose is small."
+    },
+    {
+      "word": "boca",
+      "translation": "mouth",
+      "example": "Abre la boca, por favor.",
+      "exampleTranslation": "Open your mouth, please."
+    },
+    {
+      "word": "diente",
+      "translation": "tooth",
+      "example": "Me duele un diente.",
+      "exampleTranslation": "One of my teeth hurts."
+    },
+    {
+      "word": "Labio",
+      "translation": "lip",
+      "example": "Tiene los labios rojos.",
+      "exampleTranslation": "She has red lips."
+    },
+    {
+      "word": "muerto",
+      "translation": "dead",
+      "example": "El árbol está muerto.",
+      "exampleTranslation": "The tree is dead."
+    },
+    {
+      "word": "vivo",
+      "translation": "alive, living",
+      "example": "Mi abuelo todavía está vivo.",
+      "exampleTranslation": "My grandfather is still alive."
+    },
+    {
+      "word": "enfermo",
+      "translation": "sick, ill",
+      "example": "Mi hermano está enfermo hoy.",
+      "exampleTranslation": "My brother is sick today."
+    },
+    {
+      "word": "mareo",
+      "translation": "dizziness",
+      "example": "Tengo mareo después de viajar.",
+      "exampleTranslation": "I have dizziness after traveling."
+    },
+    {
+      "word": "náusea",
+      "translation": "nausea",
+      "example": "Siento náusea en el barco.",
+      "exampleTranslation": "I feel nausea on the boat."
+    },
+    {
+      "word": "salud",
+      "translation": "health",
+      "example": "La salud es muy importante.",
+      "exampleTranslation": "Health is very important."
+    },
+    {
+      "word": "gripe",
+      "translation": "flu, influenza",
+      "example": "Tengo gripe desde ayer.",
+      "exampleTranslation": "I have the flu since yesterday."
+    },
+    {
+      "word": "resfriado",
+      "translation": "cold",
+      "example": "Tengo un resfriado fuerte.",
+      "exampleTranslation": "I have a bad cold."
+    },
+    {
+      "word": "alergia",
+      "translation": "allergy",
+      "example": "Tengo alergia al polen.",
+      "exampleTranslation": "I have an allergy to pollen."
+    },
+    {
+      "word": "infección",
+      "translation": "infection",
+      "example": "Tiene una infección en la garganta.",
+      "exampleTranslation": "He has an infection in his throat."
+    },
+    {
+      "word": "vómito",
+      "translation": "to vomit",
+      "example": "El niño tiene vómito.",
+      "exampleTranslation": "The child is vomiting."
+    },
+    {
+      "word": "dolor",
+      "translation": "pain",
+      "example": "Siento dolor en la pierna.",
+      "exampleTranslation": "I feel pain in my leg."
+    },
+    {
+      "word": "fiebre",
+      "translation": "fever",
+      "example": "Mi hijo tiene fiebre.",
+      "exampleTranslation": "My son has a fever."
+    },
+    {
+      "word": "tos",
+      "translation": "cough",
+      "example": "Tengo tos desde la semana pasada.",
+      "exampleTranslation": "I have had a cough since last week."
+    },
+    {
+      "word": "medicina",
+      "translation": "medicine",
+      "example": "Toma la medicina después de comer.",
+      "exampleTranslation": "Take the medicine after eating."
+    },
+    {
+      "word": "operar",
+      "translation": "to operate",
+      "example": "Van a operar a mi tío mañana.",
+      "exampleTranslation": "They are going to operate on my uncle tomorrow."
+    },
+    {
+      "word": "farmacia",
+      "translation": "pharmacy",
+      "example": "Compro la medicina en la farmacia.",
+      "exampleTranslation": "I buy the medicine at the pharmacy."
+    },
+    {
+      "word": "pastilla",
+      "translation": "pill, tablet",
+      "example": "Toma una pastilla cada ocho horas.",
+      "exampleTranslation": "Take one pill every eight hours."
+    },
+    {
+      "word": "vacuna",
+      "translation": "vaccine",
+      "example": "Recibí la vacuna la semana pasada.",
+      "exampleTranslation": "I received the vaccine last week."
+    },
+    {
+      "word": "jabón",
+      "translation": "soap",
+      "example": "Lávate las manos con jabón.",
+      "exampleTranslation": "Wash your hands with soap."
+    },
+    {
+      "word": "champú",
+      "translation": "shampoo",
+      "example": "Uso champú todos los días.",
+      "exampleTranslation": "I use shampoo every day."
+    },
+    {
+      "word": "toalla",
+      "translation": "towel",
+      "example": "Necesito una toalla limpia.",
+      "exampleTranslation": "I need a clean towel."
+    },
+    {
+      "word": "cepillo de dientes",
+      "translation": "toothbrush",
+      "example": "Compro un cepillo de dientes nuevo.",
+      "exampleTranslation": "I buy a new toothbrush."
+    },
+    {
+      "word": "pasta de dientes",
+      "translation": "toothpaste",
+      "example": "Necesito pasta de dientes.",
+      "exampleTranslation": "I need toothpaste."
+    },
+    {
+      "word": "cepillo",
+      "translation": "brush",
+      "example": "Este cepillo es para el pelo.",
+      "exampleTranslation": "This brush is for the hair."
+    },
+    {
+      "word": "lavar",
+      "translation": "to wash",
+      "example": "Voy a lavar la ropa hoy.",
+      "exampleTranslation": "I am going to wash the clothes today."
+    },
+    {
+      "word": "duchar",
+      "translation": "to shower",
+      "example": "Me gusta duchar por la mañana.",
+      "exampleTranslation": "I like to shower in the morning."
+    },
+    {
+      "word": "bañar",
+      "translation": "to bathe",
+      "example": "Voy a bañar al perro.",
+      "exampleTranslation": "I am going to bathe the dog."
+    },
+    {
+      "word": "lavabo",
+      "translation": "sink, washbasin",
+      "example": "El jabón está junto al lavabo.",
+      "exampleTranslation": "The soap is next to the sink."
+    },
+    {
+      "word": "ducha",
+      "translation": "shower",
+      "example": "La ducha está muy fría.",
+      "exampleTranslation": "The shower is very cold."
+    },
+    {
+      "word": "bañera",
+      "translation": "bathtub",
+      "example": "El niño juega en la bañera.",
+      "exampleTranslation": "The child plays in the bathtub."
+    },
+    {
+      "word": "detergente",
+      "translation": "detergent",
+      "example": "Compro detergente para la ropa.",
+      "exampleTranslation": "I buy detergent for the clothes."
+    },
+    {
+      "word": "casa",
+      "translation": "house",
+      "example": "Mi casa es grande.",
+      "exampleTranslation": "My house is big."
+    },
+    {
+      "word": "apartamento",
+      "translation": "apartment",
+      "example": "Vivo en un apartamento pequeño.",
+      "exampleTranslation": "I live in a small apartment."
+    },
+    {
+      "word": "puerta",
+      "translation": "door",
+      "example": "Cierra la puerta, por favor.",
+      "exampleTranslation": "Close the door, please."
+    },
+    {
+      "word": "llave",
+      "translation": "key",
+      "example": "Perdí la llave de mi casa.",
+      "exampleTranslation": "I lost the key to my house."
+    },
+    {
+      "word": "ventana",
+      "translation": "window",
+      "example": "Abre la ventana, hace calor.",
+      "exampleTranslation": "Open the window, it's hot."
+    },
+    {
+      "word": "techo",
+      "translation": "ceiling, roof",
+      "example": "El techo tiene una gotera.",
+      "exampleTranslation": "The roof has a leak."
+    },
+    {
+      "word": "pared",
+      "translation": "wall",
+      "example": "Pinté la pared de azul.",
+      "exampleTranslation": "I painted the wall blue."
+    },
+    {
+      "word": "suelo",
+      "translation": "floor",
+      "example": "El suelo está muy limpio.",
+      "exampleTranslation": "The floor is very clean."
+    },
+    {
+      "word": "sala",
+      "translation": "living room",
+      "example": "Vemos la televisión en la sala.",
+      "exampleTranslation": "We watch TV in the living room."
+    },
+    {
+      "word": "cocina",
+      "translation": "kitchen",
+      "example": "Mi madre cocina en la cocina.",
+      "exampleTranslation": "My mother cooks in the kitchen."
+    },
+    {
+      "word": "dormitorio",
+      "translation": "bedroom",
+      "example": "Mi dormitorio es pequeño pero cómodo.",
+      "exampleTranslation": "My bedroom is small but comfortable."
+    },
+    {
+      "word": "habitación",
+      "translation": "room",
+      "example": "Esta habitación tiene dos camas.",
+      "exampleTranslation": "This room has two beds."
+    },
+    {
+      "word": "baño",
+      "translation": "bathroom",
+      "example": "El baño está al fondo del pasillo.",
+      "exampleTranslation": "The bathroom is at the end of the hallway."
+    },
+    {
+      "word": "comedor",
+      "translation": "dining room",
+      "example": "Comemos juntos en el comedor.",
+      "exampleTranslation": "We eat together in the dining room."
+    },
+    {
+      "word": "ático",
+      "translation": "attic",
+      "example": "Guardamos las cajas en el ático.",
+      "exampleTranslation": "We store the boxes in the attic."
+    },
+    {
+      "word": "balcón",
+      "translation": "balcony",
+      "example": "Tomo café en el balcón.",
+      "exampleTranslation": "I drink coffee on the balcony."
+    },
+    {
+      "word": "cama",
+      "translation": "bed",
+      "example": "Mi cama es muy cómoda.",
+      "exampleTranslation": "My bed is very comfortable."
+    },
+    {
+      "word": "mesa",
+      "translation": "table",
+      "example": "Pon los platos en la mesa.",
+      "exampleTranslation": "Put the plates on the table."
+    },
+    {
+      "word": "silla",
+      "translation": "chair",
+      "example": "Esta silla es incómoda.",
+      "exampleTranslation": "This chair is uncomfortable."
+    },
+    {
+      "word": "sofá",
+      "translation": "sofa, couch",
+      "example": "Nos sentamos en el sofá.",
+      "exampleTranslation": "We sit on the sofa."
+    },
+    {
+      "word": "alfombra",
+      "translation": "carpet, rug",
+      "example": "La alfombra es de color rojo.",
+      "exampleTranslation": "The carpet is red."
+    },
+    {
+      "word": "espejo",
+      "translation": "mirror",
+      "example": "Me miro en el espejo.",
+      "exampleTranslation": "I look at myself in the mirror."
+    },
+    {
+      "word": "armario",
+      "translation": "wardrobe, closet",
+      "example": "Guardo la ropa en el armario.",
+      "exampleTranslation": "I keep the clothes in the wardrobe."
+    },
+    {
+      "word": "estufa",
+      "translation": "stove, heater",
+      "example": "La estufa está encendida.",
+      "exampleTranslation": "The stove is on."
+    },
+    {
+      "word": "nevera",
+      "translation": "refrigerator, fridge",
+      "example": "La leche está en la nevera.",
+      "exampleTranslation": "The milk is in the fridge."
+    },
+    {
+      "word": "microondas",
+      "translation": "microwave",
+      "example": "Caliento la comida en el microondas.",
+      "exampleTranslation": "I heat the food in the microwave."
+    },
+    {
+      "word": "lavadora",
+      "translation": "washing machine",
+      "example": "Pongo la ropa en la lavadora.",
+      "exampleTranslation": "I put the clothes in the washing machine."
+    },
+    {
+      "word": "plancha",
+      "translation": "iron",
+      "example": "Uso la plancha para la camisa.",
+      "exampleTranslation": "I use the iron for the shirt."
+    },
+    {
+      "word": "televisor",
+      "translation": "television, TV",
+      "example": "El televisor está apagado.",
+      "exampleTranslation": "The television is off."
+    },
+    {
+      "word": "camiseta",
+      "translation": "t-shirt",
+      "example": "Llevo una camiseta blanca.",
+      "exampleTranslation": "I'm wearing a white t-shirt."
+    },
+    {
+      "word": "camisa",
+      "translation": "shirt",
+      "example": "La camisa azul es mi favorita.",
+      "exampleTranslation": "The blue shirt is my favorite."
+    },
+    {
+      "word": "pantalón",
+      "translation": "pants, trousers",
+      "example": "Necesito un pantalón nuevo.",
+      "exampleTranslation": "I need new pants."
+    },
+    {
+      "word": "vaqueros",
+      "translation": "jeans",
+      "example": "Llevo vaqueros los fines de semana.",
+      "exampleTranslation": "I wear jeans on weekends."
+    },
+    {
+      "word": "falda",
+      "translation": "skirt",
+      "example": "Compré una falda corta.",
+      "exampleTranslation": "I bought a short skirt."
+    },
+    {
+      "word": "vestido",
+      "translation": "dress",
+      "example": "Ella lleva un vestido rojo.",
+      "exampleTranslation": "She is wearing a red dress."
+    },
+    {
+      "word": "suéter",
+      "translation": "sweater",
+      "example": "Uso un suéter en invierno.",
+      "exampleTranslation": "I wear a sweater in winter."
+    },
+    {
+      "word": "chaqueta",
+      "translation": "jacket",
+      "example": "Llevo una chaqueta porque hace frío.",
+      "exampleTranslation": "I'm wearing a jacket because it's cold."
+    },
+    {
+      "word": "abrigo",
+      "translation": "coat",
+      "example": "Necesito un abrigo para el invierno.",
+      "exampleTranslation": "I need a coat for winter."
+    },
+    {
+      "word": "zapato",
+      "translation": "shoe",
+      "example": "Este zapato es muy cómodo.",
+      "exampleTranslation": "This shoe is very comfortable."
+    },
+    {
+      "word": "bota",
+      "translation": "boot",
+      "example": "Uso botas cuando llueve.",
+      "exampleTranslation": "I wear boots when it rains."
+    },
+    {
+      "word": "sandalia",
+      "translation": "sandal",
+      "example": "Llevo sandalias en verano.",
+      "exampleTranslation": "I wear sandals in summer."
+    },
+    {
+      "word": "calcetín",
+      "translation": "sock",
+      "example": "Perdí un calcetín en la lavadora.",
+      "exampleTranslation": "I lost a sock in the washing machine."
+    },
+    {
+      "word": "sombrero",
+      "translation": "hat",
+      "example": "Uso un sombrero cuando hace sol.",
+      "exampleTranslation": "I wear a hat when it's sunny."
+    },
+    {
+      "word": "gorra",
+      "translation": "cap",
+      "example": "Mi hermano tiene una gorra azul.",
+      "exampleTranslation": "My brother has a blue cap."
+    },
+    {
+      "word": "bufanda",
+      "translation": "scarf",
+      "example": "Uso una bufanda en invierno.",
+      "exampleTranslation": "I wear a scarf in winter."
+    },
+    {
+      "word": "cinturón",
+      "translation": "belt",
+      "example": "El cinturón es de cuero.",
+      "exampleTranslation": "The belt is made of leather."
+    },
+    {
+      "word": "reloj",
+      "translation": "watch",
+      "example": "Mi reloj es nuevo.",
+      "exampleTranslation": "My watch is new."
+    },
+    {
+      "word": "bolso",
+      "translation": "bag, purse",
+      "example": "Ella lleva un bolso pequeño.",
+      "exampleTranslation": "She carries a small bag."
+    },
+    {
+      "word": "despertarse",
+      "translation": "to wake up",
+      "example": "Me despierto a las seis.",
+      "exampleTranslation": "I wake up at six."
+    },
+    {
+      "word": "levantar",
+      "translation": "to get up, to stand up",
+      "example": "Me levanto temprano cada día.",
+      "exampleTranslation": "I get up early every day."
+    },
+    {
+      "word": "peinar",
+      "translation": "to comb",
+      "example": "Me peino después de ducharme.",
+      "exampleTranslation": "I comb my hair after showering."
+    },
+    {
+      "word": "desayunar",
+      "translation": "to have breakfast",
+      "example": "Desayuno pan con café.",
+      "exampleTranslation": "I have bread and coffee for breakfast."
+    },
+    {
+      "word": "almorzar",
+      "translation": "to have lunch",
+      "example": "Almuerzo con mis compañeros.",
+      "exampleTranslation": "I have lunch with my colleagues."
+    },
+    {
+      "word": "cenar",
+      "translation": "to have dinner",
+      "example": "Ceno a las ocho de la noche.",
+      "exampleTranslation": "I have dinner at eight at night."
+    },
+    {
+      "word": "estudiar",
+      "translation": "to study",
+      "example": "Estudio español todos los días.",
+      "exampleTranslation": "I study Spanish every day."
+    },
+    {
+      "word": "trabajar",
+      "translation": "to work",
+      "example": "Trabajo en una oficina.",
+      "exampleTranslation": "I work in an office."
+    },
+    {
+      "word": "descansar",
+      "translation": "to rest",
+      "example": "Necesito descansar un poco.",
+      "exampleTranslation": "I need to rest a little."
+    },
+    {
+      "word": "dormir",
+      "translation": "to sleep",
+      "example": "Duermo ocho horas cada noche.",
+      "exampleTranslation": "I sleep eight hours every night."
+    },
+    {
+      "word": "limpiar",
+      "translation": "to clean",
+      "example": "Limpio mi habitación los domingos.",
+      "exampleTranslation": "I clean my room on Sundays."
+    },
+    {
+      "word": "fregar",
+      "translation": "to scrub, to wash",
+      "example": "Friego los platos después de comer.",
+      "exampleTranslation": "I wash the dishes after eating."
+    },
+    {
+      "word": "cocinar",
+      "translation": "to cook",
+      "example": "Cocino la cena para mi familia.",
+      "exampleTranslation": "I cook dinner for my family."
+    },
+    {
+      "word": "escuela",
+      "translation": "school",
+      "example": "Voy a la escuela en autobús.",
+      "exampleTranslation": "I go to school by bus."
+    },
+    {
+      "word": "colegio",
+      "translation": "school",
+      "example": "Mi colegio está cerca de casa.",
+      "exampleTranslation": "My school is close to home."
+    },
+    {
+      "word": "instituto",
+      "translation": "secondary school, institute",
+      "example": "Estudio en un instituto público.",
+      "exampleTranslation": "I study at a public secondary school."
+    },
+    {
+      "word": "universidad",
+      "translation": "university",
+      "example": "Estudio en la universidad de Chiang Mai.",
+      "exampleTranslation": "I study at Chiang Mai University."
+    },
+    {
+      "word": "clase",
+      "translation": "classroom, class",
+      "example": "La clase empieza a las ocho.",
+      "exampleTranslation": "Class starts at eight."
+    },
+    {
+      "word": "estudiante",
+      "translation": "student",
+      "example": "Soy estudiante de finanzas.",
+      "exampleTranslation": "I am a finance student."
+    },
+    {
+      "word": "lección",
+      "translation": "lesson",
+      "example": "Hoy aprendemos una lección nueva.",
+      "exampleTranslation": "Today we learn a new lesson."
+    },
+    {
+      "word": "examen",
+      "translation": "exam, test",
+      "example": "Tengo un examen mañana.",
+      "exampleTranslation": "I have an exam tomorrow."
+    },
+    {
+      "word": "tarea",
+      "translation": "homework",
+      "example": "Necesito terminar mi tarea.",
+      "exampleTranslation": "I need to finish my homework."
+    },
+    {
+      "word": "pizarra",
+      "translation": "board, blackboard",
+      "example": "El profesor escribe en la pizarra.",
+      "exampleTranslation": "The teacher writes on the board."
+    },
+    {
+      "word": "libro",
+      "translation": "book",
+      "example": "Leo un libro interesante.",
+      "exampleTranslation": "I read an interesting book."
+    },
+    {
+      "word": "cuaderno",
+      "translation": "notebook",
+      "example": "Escribo notas en mi cuaderno.",
+      "exampleTranslation": "I write notes in my notebook."
+    },
+    {
+      "word": "papel",
+      "translation": "paper",
+      "example": "Necesito una hoja de papel.",
+      "exampleTranslation": "I need a sheet of paper."
+    },
+    {
+      "word": "lápiz",
+      "translation": "pencil",
+      "example": "Escribo con un lápiz.",
+      "exampleTranslation": "I write with a pencil."
+    },
+    {
+      "word": "bolígrafo",
+      "translation": "pen",
+      "example": "Prefiero escribir con bolígrafo.",
+      "exampleTranslation": "I prefer to write with a pen."
+    },
+    {
+      "word": "mochila",
+      "translation": "backpack",
+      "example": "Llevo mis libros en la mochila.",
+      "exampleTranslation": "I carry my books in the backpack."
+    },
+    {
+      "word": "matemáticas",
+      "translation": "mathematics, math",
+      "example": "Las matemáticas son mi materia favorita.",
+      "exampleTranslation": "Mathematics is my favorite subject."
+    },
+    {
+      "word": "ciencias",
+      "translation": "science",
+      "example": "Estudio ciencias los martes.",
+      "exampleTranslation": "I study science on Tuesdays."
+    },
+    {
+      "word": "historia",
+      "translation": "history",
+      "example": "Me gusta la clase de historia.",
+      "exampleTranslation": "I like the history class."
+    },
+    {
+      "word": "geografía",
+      "translation": "geography",
+      "example": "Estudiamos geografía de Europa.",
+      "exampleTranslation": "We study the geography of Europe."
+    },
+    {
+      "word": "arte",
+      "translation": "art",
+      "example": "La clase de arte es divertida.",
+      "exampleTranslation": "Art class is fun."
+    },
+    {
+      "word": "lengua",
+      "translation": "language",
+      "example": "Estudio la lengua española.",
+      "exampleTranslation": "I study the Spanish language."
+    },
+    {
+      "word": "educación física",
+      "translation": "physical education",
+      "example": "Tenemos educación física los lunes.",
+      "exampleTranslation": "We have physical education on Mondays."
+    },
+    {
+      "word": "leer",
+      "translation": "to read",
+      "example": "Me gusta leer por la noche.",
+      "exampleTranslation": "I like to read at night."
+    },
+    {
+      "word": "dibujar",
+      "translation": "to draw",
+      "example": "Me gusta dibujar animales.",
+      "exampleTranslation": "I like to draw animals."
+    },
+    {
+      "word": "pintar",
+      "translation": "to paint",
+      "example": "Voy a pintar la pared.",
+      "exampleTranslation": "I am going to paint the wall."
+    },
+    {
+      "word": "bailar",
+      "translation": "to dance",
+      "example": "Me gusta bailar salsa.",
+      "exampleTranslation": "I like to dance salsa."
+    },
+    {
+      "word": "cantar",
+      "translation": "to sing",
+      "example": "Ella canta muy bien.",
+      "exampleTranslation": "She sings very well."
+    },
+    {
+      "word": "tocar",
+      "translation": "to play (an instrument)",
+      "example": "Sé tocar la guitarra.",
+      "exampleTranslation": "I know how to play the guitar."
+    },
+    {
+      "word": "jugar",
+      "translation": "to play",
+      "example": "Los niños juegan en el parque.",
+      "exampleTranslation": "The children play in the park."
+    },
+    {
+      "word": "pasear",
+      "translation": "to stroll, to walk",
+      "example": "Me gusta pasear por la playa.",
+      "exampleTranslation": "I like to stroll along the beach."
+    },
+    {
+      "word": "escribir",
+      "translation": "to write",
+      "example": "Escribo una carta a mi amigo.",
+      "exampleTranslation": "I write a letter to my friend."
+    },
+    {
+      "word": "película",
+      "translation": "movie, film",
+      "example": "Vemos una película los viernes.",
+      "exampleTranslation": "We watch a movie on Fridays."
+    },
+    {
+      "word": "música",
+      "translation": "music",
+      "example": "Escucho música mientras estudio.",
+      "exampleTranslation": "I listen to music while I study."
+    },
+    {
+      "word": "fiesta",
+      "translation": "party",
+      "example": "Vamos a una fiesta el sábado.",
+      "exampleTranslation": "We are going to a party on Saturday."
+    },
+    {
+      "word": "juego",
+      "translation": "game",
+      "example": "Este juego es muy divertido.",
+      "exampleTranslation": "This game is very fun."
+    },
+    {
+      "word": "fútbol",
+      "translation": "soccer, football",
+      "example": "Juego al fútbol los fines de semana.",
+      "exampleTranslation": "I play soccer on weekends."
+    },
+    {
+      "word": "baloncesto",
+      "translation": "basketball",
+      "example": "Mi hermano juega al baloncesto.",
+      "exampleTranslation": "My brother plays basketball."
+    },
+    {
+      "word": "tenis",
+      "translation": "tennis",
+      "example": "Ella juega al tenis muy bien.",
+      "exampleTranslation": "She plays tennis very well."
+    },
+    {
+      "word": "voleibol",
+      "translation": "volleyball",
+      "example": "Jugamos voleibol en la playa.",
+      "exampleTranslation": "We play volleyball on the beach."
+    },
+    {
+      "word": "ciclismo",
+      "translation": "cycling",
+      "example": "Practico ciclismo los domingos.",
+      "exampleTranslation": "I practice cycling on Sundays."
+    },
+    {
+      "word": "esquí",
+      "translation": "skiing",
+      "example": "Aprendo esquí en invierno.",
+      "exampleTranslation": "I learn skiing in winter."
+    },
+    {
+      "word": "golf",
+      "translation": "golf",
+      "example": "Mi padre juega al golf.",
+      "exampleTranslation": "My father plays golf."
+    },
+    {
+      "word": "médico",
+      "translation": "doctor",
+      "example": "Mi tía es médico.",
+      "exampleTranslation": "My aunt is a doctor."
+    },
+    {
+      "word": "enfermero",
+      "translation": "nurse",
+      "example": "Mi primo es enfermero.",
+      "exampleTranslation": "My cousin is a nurse."
+    },
+    {
+      "word": "maestro",
+      "translation": "teacher",
+      "example": "Mi madre es maestra de escuela.",
+      "exampleTranslation": "My mother is a school teacher."
+    },
+    {
+      "word": "abogado",
+      "translation": "lawyer",
+      "example": "Mi tío es abogado.",
+      "exampleTranslation": "My uncle is a lawyer."
+    },
+    {
+      "word": "ingeniero",
+      "translation": "engineer",
+      "example": "Mi hermano es ingeniero.",
+      "exampleTranslation": "My brother is an engineer."
+    },
+    {
+      "word": "policía",
+      "translation": "police officer",
+      "example": "El policía ayuda a la gente.",
+      "exampleTranslation": "The police officer helps people."
+    },
+    {
+      "word": "conductor",
+      "translation": "driver",
+      "example": "El conductor maneja con cuidado.",
+      "exampleTranslation": "The driver drives carefully."
+    },
+    {
+      "word": "actor",
+      "translation": "actor",
+      "example": "Mi actor favorito es muy talentoso.",
+      "exampleTranslation": "My favorite actor is very talented."
+    },
+    {
+      "word": "artista",
+      "translation": "artist",
+      "example": "Ella es una artista famosa.",
+      "exampleTranslation": "She is a famous artist."
+    },
+    {
+      "word": "jefe",
+      "translation": "boss, manager",
+      "example": "Mi jefe es muy exigente.",
+      "exampleTranslation": "My boss is very demanding."
+    },
+    {
+      "word": "empleado",
+      "translation": "employee",
+      "example": "El empleado llega temprano.",
+      "exampleTranslation": "The employee arrives early."
+    },
+    {
+      "word": "oficina",
+      "translation": "office",
+      "example": "Trabajo en una oficina grande.",
+      "exampleTranslation": "I work in a big office."
+    },
+    {
+      "word": "fábrica",
+      "translation": "factory",
+      "example": "Mi padre trabaja en una fábrica.",
+      "exampleTranslation": "My father works in a factory."
+    },
+    {
+      "word": "tienda",
+      "translation": "store, shop",
+      "example": "Compro pan en la tienda.",
+      "exampleTranslation": "I buy bread at the store."
+    },
+    {
+      "word": "ciudad",
+      "translation": "city",
+      "example": "Vivo en una ciudad grande.",
+      "exampleTranslation": "I live in a big city."
+    },
+    {
+      "word": "calle",
+      "translation": "street",
+      "example": "Mi casa está en esta calle.",
+      "exampleTranslation": "My house is on this street."
+    },
+    {
+      "word": "avenida",
+      "translation": "avenue",
+      "example": "El museo está en la avenida principal.",
+      "exampleTranslation": "The museum is on the main avenue."
+    },
+    {
+      "word": "plaza",
+      "translation": "square, plaza",
+      "example": "Nos encontramos en la plaza.",
+      "exampleTranslation": "We meet in the square."
+    },
+    {
+      "word": "esquina",
+      "translation": "corner",
+      "example": "El banco está en la esquina.",
+      "exampleTranslation": "The bank is on the corner."
+    },
+    {
+      "word": "cruce",
+      "translation": "crossing, intersection",
+      "example": "Espera en el cruce.",
+      "exampleTranslation": "Wait at the crossing."
+    },
+    {
+      "word": "callejón",
+      "translation": "alley",
+      "example": "El gato duerme en el callejón.",
+      "exampleTranslation": "The cat sleeps in the alley."
+    },
+    {
+      "word": "parque",
+      "translation": "park",
+      "example": "Los niños juegan en el parque.",
+      "exampleTranslation": "The children play in the park."
+    },
+    {
+      "word": "hospital",
+      "translation": "hospital",
+      "example": "Mi madre trabaja en el hospital.",
+      "exampleTranslation": "My mother works at the hospital."
+    },
+    {
+      "word": "clínica",
+      "translation": "clinic",
+      "example": "Voy a la clínica por mi alergia.",
+      "exampleTranslation": "I go to the clinic for my allergy."
+    },
+    {
+      "word": "museo",
+      "translation": "museum",
+      "example": "Visitamos el museo el sábado.",
+      "exampleTranslation": "We visit the museum on Saturday."
+    },
+    {
+      "word": "biblioteca",
+      "translation": "library",
+      "example": "Estudio en la biblioteca.",
+      "exampleTranslation": "I study at the library."
+    },
+    {
+      "word": "cine",
+      "translation": "movie theater, cinema",
+      "example": "Vamos al cine esta noche.",
+      "exampleTranslation": "We go to the movies tonight."
+    },
+    {
+      "word": "teatro",
+      "translation": "theater",
+      "example": "El teatro está lleno hoy.",
+      "exampleTranslation": "The theater is full today."
+    },
+    {
+      "word": "estación",
+      "translation": "station",
+      "example": "La estación de tren está cerca.",
+      "exampleTranslation": "The train station is close."
+    },
+    {
+      "word": "supermercado",
+      "translation": "supermarket",
+      "example": "Compro verduras en el supermercado.",
+      "exampleTranslation": "I buy vegetables at the supermarket."
+    },
+    {
+      "word": "banco",
+      "translation": "bank",
+      "example": "Voy al banco para sacar dinero.",
+      "exampleTranslation": "I go to the bank to withdraw money."
+    },
+    {
+      "word": "mercado",
+      "translation": "market",
+      "example": "Compro fruta fresca en el mercado.",
+      "exampleTranslation": "I buy fresh fruit at the market."
+    },
+    {
+      "word": "coche",
+      "translation": "car",
+      "example": "Mi coche es rojo.",
+      "exampleTranslation": "My car is red."
+    },
+    {
+      "word": "moto",
+      "translation": "motorcycle, motorbike",
+      "example": "Mi hermano tiene una moto.",
+      "exampleTranslation": "My brother has a motorcycle."
+    },
+    {
+      "word": "bicicleta",
+      "translation": "bicycle, bike",
+      "example": "Voy al trabajo en bicicleta.",
+      "exampleTranslation": "I go to work by bicycle."
+    },
+    {
+      "word": "autobús",
+      "translation": "bus",
+      "example": "Tomo el autobús cada mañana.",
+      "exampleTranslation": "I take the bus every morning."
+    },
+    {
+      "word": "tren",
+      "translation": "train",
+      "example": "El tren llega a las nueve.",
+      "exampleTranslation": "The train arrives at nine."
+    },
+    {
+      "word": "metro",
+      "translation": "subway, metro",
+      "example": "Viajo en metro en la ciudad.",
+      "exampleTranslation": "I travel by subway in the city."
+    },
+    {
+      "word": "taxi",
+      "translation": "taxi, cab",
+      "example": "Tomamos un taxi al aeropuerto.",
+      "exampleTranslation": "We take a taxi to the airport."
+    },
+    {
+      "word": "avión",
+      "translation": "airplane, plane",
+      "example": "El avión sale a las seis.",
+      "exampleTranslation": "The plane leaves at six."
+    },
+    {
+      "word": "barco",
+      "translation": "boat, ship",
+      "example": "Viajamos en barco a la isla.",
+      "exampleTranslation": "We travel by boat to the island."
+    },
+    {
+      "word": "camión",
+      "translation": "truck",
+      "example": "El camión transporta comida.",
+      "exampleTranslation": "The truck transports food."
+    },
+    {
+      "word": "ambulancia",
+      "translation": "ambulance",
+      "example": "La ambulancia llega rápido.",
+      "exampleTranslation": "The ambulance arrives quickly."
+    },
+    {
+      "word": "aeropuerto",
+      "translation": "airport",
+      "example": "El aeropuerto está lejos de la ciudad.",
+      "exampleTranslation": "The airport is far from the city."
+    },
+    {
+      "word": "puerto",
+      "translation": "port, harbor",
+      "example": "El barco llega al puerto.",
+      "exampleTranslation": "The boat arrives at the port."
+    },
+    {
+      "word": "parada",
+      "translation": "stop",
+      "example": "Espero el autobús en la parada.",
+      "exampleTranslation": "I wait for the bus at the stop."
+    },
+    {
+      "word": "tráfico",
+      "translation": "traffic",
+      "example": "Hay mucho tráfico hoy.",
+      "exampleTranslation": "There is a lot of traffic today."
+    },
+    {
+      "word": "viaje",
+      "translation": "trip, journey",
+      "example": "Nuestro viaje empieza el lunes.",
+      "exampleTranslation": "Our trip starts on Monday."
+    },
+    {
+      "word": "turista",
+      "translation": "tourist",
+      "example": "Hay muchos turistas en la playa.",
+      "exampleTranslation": "There are many tourists on the beach."
+    },
+    {
+      "word": "mapa",
+      "translation": "map",
+      "example": "Necesito un mapa de la ciudad.",
+      "exampleTranslation": "I need a map of the city."
+    },
+    {
+      "word": "boleto",
+      "translation": "ticket",
+      "example": "Compro un boleto de tren.",
+      "exampleTranslation": "I buy a train ticket."
+    },
+    {
+      "word": "reserva",
+      "translation": "reservation, booking",
+      "example": "Hago una reserva en el hotel.",
+      "exampleTranslation": "I make a reservation at the hotel."
+    },
+    {
+      "word": "pasaporte",
+      "translation": "passport",
+      "example": "No olvides tu pasaporte.",
+      "exampleTranslation": "Don't forget your passport."
+    },
+    {
+      "word": "maleta",
+      "translation": "suitcase",
+      "example": "Hago la maleta para el viaje.",
+      "exampleTranslation": "I pack my suitcase for the trip."
+    },
+    {
+      "word": "equipaje",
+      "translation": "luggage",
+      "example": "Perdí mi equipaje en el aeropuerto.",
+      "exampleTranslation": "I lost my luggage at the airport."
+    },
+    {
+      "word": "hotel",
+      "translation": "hotel",
+      "example": "Nos quedamos en un hotel bonito.",
+      "exampleTranslation": "We stay at a nice hotel."
+    },
+    {
+      "word": "recepción",
+      "translation": "reception, front desk",
+      "example": "Pregunto en la recepción del hotel.",
+      "exampleTranslation": "I ask at the hotel reception."
+    },
+    {
+      "word": "hostal",
+      "translation": "hostel, guesthouse",
+      "example": "Dormimos en un hostal barato.",
+      "exampleTranslation": "We sleep at a cheap hostel."
+    },
+    {
+      "word": "excursión",
+      "translation": "excursion, outing",
+      "example": "Hacemos una excursión a la montaña.",
+      "exampleTranslation": "We take an excursion to the mountain."
+    },
+    {
+      "word": "monumento",
+      "translation": "monument",
+      "example": "Visitamos un monumento histórico.",
+      "exampleTranslation": "We visit a historical monument."
+    },
+    {
+      "word": "visitar",
+      "translation": "to visit",
+      "example": "Quiero visitar España algún día.",
+      "exampleTranslation": "I want to visit Spain someday."
+    },
+    {
+      "word": "viajar",
+      "translation": "to travel",
+      "example": "Me encanta viajar por el mundo.",
+      "exampleTranslation": "I love traveling around the world."
+    },
+    {
+      "word": "tierra",
+      "translation": "earth, soil",
+      "example": "La tierra es fértil aquí.",
+      "exampleTranslation": "The soil is fertile here."
+    },
+    {
+      "word": "cielo",
+      "translation": "sky",
+      "example": "El cielo está muy azul hoy.",
+      "exampleTranslation": "The sky is very blue today."
+    },
+    {
+      "word": "sol",
+      "translation": "sun",
+      "example": "El sol brilla mucho hoy.",
+      "exampleTranslation": "The sun shines a lot today."
+    },
+    {
+      "word": "Luna",
+      "translation": "moon",
+      "example": "La luna está llena esta noche.",
+      "exampleTranslation": "The moon is full tonight."
+    },
+    {
+      "word": "estrella",
+      "translation": "star",
+      "example": "Veo una estrella brillante.",
+      "exampleTranslation": "I see a bright star."
+    },
+    {
+      "word": "luz",
+      "translation": "light",
+      "example": "Apaga la luz, por favor.",
+      "exampleTranslation": "Turn off the light, please."
+    },
+    {
+      "word": "fuego",
+      "translation": "fire",
+      "example": "El fuego calienta la casa.",
+      "exampleTranslation": "The fire warms the house."
+    },
+    {
+      "word": "árbol",
+      "translation": "tree",
+      "example": "El árbol tiene muchas hojas.",
+      "exampleTranslation": "The tree has many leaves."
+    },
+    {
+      "word": "flor",
+      "translation": "flower",
+      "example": "Le regalo una flor a mi madre.",
+      "exampleTranslation": "I give a flower to my mother."
+    },
+    {
+      "word": "hierba",
+      "translation": "grass, herb",
+      "example": "La hierba está verde y fresca.",
+      "exampleTranslation": "The grass is green and fresh."
+    },
+    {
+      "word": "hoja",
+      "translation": "leaf",
+      "example": "Una hoja cae del árbol.",
+      "exampleTranslation": "A leaf falls from the tree."
+    },
+    {
+      "word": "bosque",
+      "translation": "forest, woods",
+      "example": "Caminamos por el bosque.",
+      "exampleTranslation": "We walk through the forest."
+    },
+    {
+      "word": "jardín",
+      "translation": "garden",
+      "example": "Mi madre cultiva flores en el jardín.",
+      "exampleTranslation": "My mother grows flowers in the garden."
+    },
+    {
+      "word": "montaña",
+      "translation": "mountain",
+      "example": "Escalamos una montaña alta.",
+      "exampleTranslation": "We climb a tall mountain."
+    },
+    {
+      "word": "río",
+      "translation": "river",
+      "example": "El río pasa cerca de mi casa.",
+      "exampleTranslation": "The river passes near my house."
+    },
+    {
+      "word": "lago",
+      "translation": "lake",
+      "example": "Nadamos en el lago.",
+      "exampleTranslation": "We swim in the lake."
+    },
+    {
+      "word": "mar",
+      "translation": "sea",
+      "example": "El mar está muy tranquilo hoy.",
+      "exampleTranslation": "The sea is very calm today."
+    },
+    {
+      "word": "playa",
+      "translation": "beach",
+      "example": "Vamos a la playa este fin de semana.",
+      "exampleTranslation": "We go to the beach this weekend."
+    },
+    {
+      "word": "campo",
+      "translation": "countryside, field",
+      "example": "Mi abuelo vive en el campo.",
+      "exampleTranslation": "My grandfather lives in the countryside."
+    },
+    {
+      "word": "frío",
+      "translation": "cold",
+      "example": "Hace mucho frío hoy.",
+      "exampleTranslation": "It's very cold today."
+    },
+    {
+      "word": "calor",
+      "translation": "heat",
+      "example": "Hace calor en verano.",
+      "exampleTranslation": "It's hot in summer."
+    },
+    {
+      "word": "soleado",
+      "translation": "sunny",
+      "example": "El día está muy soleado.",
+      "exampleTranslation": "The day is very sunny."
+    },
+    {
+      "word": "despejado",
+      "translation": "clear",
+      "example": "El cielo está despejado hoy.",
+      "exampleTranslation": "The sky is clear today."
+    },
+    {
+      "word": "viento",
+      "translation": "wind",
+      "example": "Hace mucho viento en la playa.",
+      "exampleTranslation": "It's very windy at the beach."
+    },
+    {
+      "word": "nublado",
+      "translation": "cloudy",
+      "example": "El cielo está nublado hoy.",
+      "exampleTranslation": "The sky is cloudy today."
+    },
+    {
+      "word": "lluvia",
+      "translation": "rain",
+      "example": "La lluvia empezó por la tarde.",
+      "exampleTranslation": "The rain started in the afternoon."
+    },
+    {
+      "word": "nieve",
+      "translation": "snow",
+      "example": "La nieve cubre las montañas.",
+      "exampleTranslation": "Snow covers the mountains."
+    },
+    {
+      "word": "húmedo",
+      "translation": "humid, damp",
+      "example": "El clima aquí es húmedo.",
+      "exampleTranslation": "The climate here is humid."
+    },
+    {
+      "word": "tormenta",
+      "translation": "storm",
+      "example": "Una tormenta llega esta noche.",
+      "exampleTranslation": "A storm arrives tonight."
+    },
+    {
+      "word": "primavera",
+      "translation": "spring",
+      "example": "Las flores crecen en primavera.",
+      "exampleTranslation": "Flowers grow in spring."
+    },
+    {
+      "word": "verano",
+      "translation": "summer",
+      "example": "Me gusta nadar en verano.",
+      "exampleTranslation": "I like to swim in summer."
+    },
+    {
+      "word": "otoño",
+      "translation": "autumn, fall",
+      "example": "Las hojas caen en otoño.",
+      "exampleTranslation": "Leaves fall in autumn."
+    },
+    {
+      "word": "invierno",
+      "translation": "winter",
+      "example": "Hace frío en invierno.",
+      "exampleTranslation": "It's cold in winter."
+    },
+    {
+      "word": "año",
+      "translation": "year",
+      "example": "Este año viajo a España.",
+      "exampleTranslation": "This year I travel to Spain."
+    },
+    {
+      "word": "hoy",
+      "translation": "today",
+      "example": "Hoy es un buen día.",
+      "exampleTranslation": "Today is a good day."
+    },
+    {
+      "word": "ayer",
+      "translation": "yesterday",
+      "example": "Ayer llovió todo el día.",
+      "exampleTranslation": "Yesterday it rained all day."
+    },
+    {
+      "word": "segundo",
+      "translation": "second",
+      "example": "Espera un segundo, por favor.",
+      "exampleTranslation": "Wait a second, please."
+    },
+    {
+      "word": "minuto",
+      "translation": "minute",
+      "example": "Llego en cinco minutos.",
+      "exampleTranslation": "I'll arrive in five minutes."
+    },
+    {
+      "word": "hora",
+      "translation": "hour",
+      "example": "¿Qué hora es ahora?",
+      "exampleTranslation": "What time is it now?"
+    },
+    {
+      "word": "día",
+      "translation": "day",
+      "example": "Trabajo cinco días a la semana.",
+      "exampleTranslation": "I work five days a week."
+    },
+    {
+      "word": "semana",
+      "translation": "week",
+      "example": "Nos vemos la próxima semana.",
+      "exampleTranslation": "See you next week."
+    },
+    {
+      "word": "mes",
+      "translation": "month",
+      "example": "El próximo mes voy a viajar.",
+      "exampleTranslation": "Next month I am going to travel."
+    },
+    {
+      "word": "mañana",
+      "translation": "tomorrow, morning",
+      "example": "Nos vemos mañana.",
+      "exampleTranslation": "See you tomorrow."
+    },
+    {
+      "word": "anoche",
+      "translation": "last night",
+      "example": "Anoche dormí muy bien.",
+      "exampleTranslation": "Last night I slept very well."
+    },
+    {
+      "word": "tarde",
+      "translation": "afternoon, late",
+      "example": "Trabajo por la tarde.",
+      "exampleTranslation": "I work in the afternoon."
+    },
+    {
+      "word": "noche",
+      "translation": "night",
+      "example": "Salgo con mis amigos por la noche.",
+      "exampleTranslation": "I go out with my friends at night."
+    },
+    {
+      "word": "mediodía",
+      "translation": "noon",
+      "example": "Almuerzo al mediodía.",
+      "exampleTranslation": "I have lunch at noon."
+    },
+    {
+      "word": "medianoche",
+      "translation": "midnight",
+      "example": "Llegamos a casa a medianoche.",
+      "exampleTranslation": "We arrive home at midnight."
+    },
+    {
+      "word": "fin de semana",
+      "translation": "weekend",
+      "example": "Descanso los fines de semana.",
+      "exampleTranslation": "I rest on weekends."
+    },
+    {
+      "word": "lunes",
+      "translation": "Monday",
+      "example": "Empiezo a trabajar el lunes.",
+      "exampleTranslation": "I start working on Monday."
+    },
+    {
+      "word": "martes",
+      "translation": "Tuesday",
+      "example": "Tengo clase el martes.",
+      "exampleTranslation": "I have class on Tuesday."
+    },
+    {
+      "word": "miércoles",
+      "translation": "Wednesday",
+      "example": "Nos vemos el miércoles.",
+      "exampleTranslation": "See you on Wednesday."
+    },
+    {
+      "word": "jueves",
+      "translation": "Thursday",
+      "example": "El jueves tengo un examen.",
+      "exampleTranslation": "On Thursday I have an exam."
+    },
+    {
+      "word": "viernes",
+      "translation": "Friday",
+      "example": "El viernes salimos con amigos.",
+      "exampleTranslation": "On Friday we go out with friends."
+    },
+    {
+      "word": "sábado",
+      "translation": "Saturday",
+      "example": "El sábado descanso todo el día.",
+      "exampleTranslation": "On Saturday I rest all day."
+    },
+    {
+      "word": "domingo",
+      "translation": "Sunday",
+      "example": "El domingo visito a mi familia.",
+      "exampleTranslation": "On Sunday I visit my family."
+    },
+    {
+      "word": "enero",
+      "translation": "January",
+      "example": "Mi cumpleaños es en enero.",
+      "exampleTranslation": "My birthday is in January."
+    },
+    {
+      "word": "febrero",
+      "translation": "February",
+      "example": "Hace frío en febrero.",
+      "exampleTranslation": "It's cold in February."
+    },
+    {
+      "word": "marzo",
+      "translation": "March",
+      "example": "La escuela empieza en marzo.",
+      "exampleTranslation": "School starts in March."
+    },
+    {
+      "word": "abril",
+      "translation": "April",
+      "example": "Viajamos a Japón en abril.",
+      "exampleTranslation": "We travel to Japan in April."
+    },
+    {
+      "word": "mayo",
+      "translation": "May",
+      "example": "Mi hermana se casa en mayo.",
+      "exampleTranslation": "My sister gets married in May."
+    },
+    {
+      "word": "junio",
+      "translation": "June",
+      "example": "Las vacaciones empiezan en junio.",
+      "exampleTranslation": "Vacation starts in June."
+    },
+    {
+      "word": "julio",
+      "translation": "July",
+      "example": "Hace mucho calor en julio.",
+      "exampleTranslation": "It's very hot in July."
+    },
+    {
+      "word": "agosto",
+      "translation": "August",
+      "example": "Vuelvo a clases en agosto.",
+      "exampleTranslation": "I go back to class in August."
+    },
+    {
+      "word": "septiembre",
+      "translation": "September",
+      "example": "El curso termina en septiembre.",
+      "exampleTranslation": "The course ends in September."
+    },
+    {
+      "word": "octubre",
+      "translation": "October",
+      "example": "Llueve mucho en octubre.",
+      "exampleTranslation": "It rains a lot in October."
+    },
+    {
+      "word": "noviembre",
+      "translation": "November",
+      "example": "Hace fresco en noviembre.",
+      "exampleTranslation": "It's cool in November."
+    },
+    {
+      "word": "diciembre",
+      "translation": "December",
+      "example": "Celebramos la Navidad en diciembre.",
+      "exampleTranslation": "We celebrate Christmas in December."
+    },
+    {
+      "word": "feliz",
+      "translation": "happy",
+      "example": "Estoy muy feliz hoy.",
+      "exampleTranslation": "I am very happy today."
+    },
+    {
+      "word": "contento",
+      "translation": "content, pleased",
+      "example": "Estoy contento con mi trabajo.",
+      "exampleTranslation": "I am pleased with my job."
+    },
+    {
+      "word": "tranquilo",
+      "translation": "calm, relaxed",
+      "example": "Me siento tranquilo en casa.",
+      "exampleTranslation": "I feel calm at home."
+    },
+    {
+      "word": "alegre",
+      "translation": "cheerful, joyful",
+      "example": "Ella está alegre hoy.",
+      "exampleTranslation": "She is cheerful today."
+    },
+    {
+      "word": "triste",
+      "translation": "sad",
+      "example": "Estoy triste porque llueve.",
+      "exampleTranslation": "I am sad because it's raining."
+    },
+    {
+      "word": "cansado",
+      "translation": "tired",
+      "example": "Estoy cansado después del trabajo.",
+      "exampleTranslation": "I am tired after work."
+    },
+    {
+      "word": "enojado",
+      "translation": "angry, mad",
+      "example": "Mi hermano está enojado conmigo.",
+      "exampleTranslation": "My brother is angry with me."
+    },
+    {
+      "word": "nervioso",
+      "translation": "nervous",
+      "example": "Estoy nervioso por el examen.",
+      "exampleTranslation": "I am nervous about the exam."
+    },
+    {
+      "word": "preocupado",
+      "translation": "worried",
+      "example": "Estoy preocupado por mi salud.",
+      "exampleTranslation": "I am worried about my health."
+    },
+    {
+      "word": "aburrido",
+      "translation": "bored",
+      "example": "Estoy aburrido en casa.",
+      "exampleTranslation": "I am bored at home."
+    },
+    {
+      "word": "asustado",
+      "translation": "scared, frightened",
+      "example": "El niño está asustado del perro.",
+      "exampleTranslation": "The child is scared of the dog."
+    },
+    {
+      "word": "sorprendido",
+      "translation": "surprised",
+      "example": "Estoy sorprendido con la noticia.",
+      "exampleTranslation": "I am surprised by the news."
+    },
+    {
+      "word": "ir",
+      "translation": "to go",
+      "example": "Voy a la escuela cada día.",
+      "exampleTranslation": "I go to school every day."
+    },
+    {
+      "word": "venir",
+      "translation": "to come",
+      "example": "Mi amigo viene a mi casa.",
+      "exampleTranslation": "My friend comes to my house."
+    },
+    {
+      "word": "salir",
+      "translation": "to leave, to go out",
+      "example": "Salgo del trabajo a las cinco.",
+      "exampleTranslation": "I leave work at five."
+    },
+    {
+      "word": "entrar",
+      "translation": "to enter, to go in",
+      "example": "Entro a la clase a tiempo.",
+      "exampleTranslation": "I enter class on time."
+    },
+    {
+      "word": "volver",
+      "translation": "to return, to go back",
+      "example": "Vuelvo a casa a las siete.",
+      "exampleTranslation": "I return home at seven."
+    },
+    {
+      "word": "caminar",
+      "translation": "to walk",
+      "example": "Camino al parque todas las mañanas.",
+      "exampleTranslation": "I walk to the park every morning."
+    },
+    {
+      "word": "correr",
+      "translation": "to run",
+      "example": "Corro treinta minutos cada día.",
+      "exampleTranslation": "I run thirty minutes every day."
+    },
+    {
+      "word": "subir",
+      "translation": "to go up, to rise",
+      "example": "Subo las escaleras rápido.",
+      "exampleTranslation": "I go up the stairs quickly."
+    },
+    {
+      "word": "bajar",
+      "translation": "to go down, to descend",
+      "example": "Bajo del autobús aquí.",
+      "exampleTranslation": "I get off the bus here."
+    },
+    {
+      "word": "sentar",
+      "translation": "to sit",
+      "example": "Me siento en el sofá.",
+      "exampleTranslation": "I sit on the sofa."
+    },
+    {
+      "word": "volar",
+      "translation": "to fly",
+      "example": "El pájaro vuela alto.",
+      "exampleTranslation": "The bird flies high."
+    },
+    {
+      "word": "caer",
+      "translation": "to fall",
+      "example": "La hoja cae del árbol.",
+      "exampleTranslation": "The leaf falls from the tree."
+    },
+    {
+      "word": "saltar",
+      "translation": "to jump",
+      "example": "El niño salta de alegría.",
+      "exampleTranslation": "The child jumps with joy."
+    },
+    {
+      "word": "hacer",
+      "translation": "to do, to make",
+      "example": "Hago mi tarea todos los días.",
+      "exampleTranslation": "I do my homework every day."
+    },
+    {
+      "word": "vivir",
+      "translation": "to live",
+      "example": "Vivo en Chiang Mai.",
+      "exampleTranslation": "I live in Chiang Mai."
+    },
+    {
+      "word": "comer",
+      "translation": "to eat",
+      "example": "Como arroz con pollo.",
+      "exampleTranslation": "I eat rice with chicken."
+    },
+    {
+      "word": "beber",
+      "translation": "to drink",
+      "example": "Bebo agua todo el día.",
+      "exampleTranslation": "I drink water all day."
+    },
+    {
+      "word": "escuchar",
+      "translation": "to listen",
+      "example": "Escucho música clásica.",
+      "exampleTranslation": "I listen to classical music."
+    },
+    {
+      "word": "hablar",
+      "translation": "to speak, to talk",
+      "example": "Hablo español un poco.",
+      "exampleTranslation": "I speak a little Spanish."
+    },
+    {
+      "word": "ver",
+      "translation": "to see",
+      "example": "Veo la televisión por la noche.",
+      "exampleTranslation": "I watch television at night."
+    },
+    {
+      "word": "comprar",
+      "translation": "to buy",
+      "example": "Compro fruta en el mercado.",
+      "exampleTranslation": "I buy fruit at the market."
+    },
+    {
+      "word": "ser",
+      "translation": "to be",
+      "example": "Soy estudiante de finanzas.",
+      "exampleTranslation": "I am a finance student."
+    },
+    {
+      "word": "estar",
+      "translation": "to be (temporary)",
+      "example": "Estoy en casa ahora.",
+      "exampleTranslation": "I am at home now."
+    },
+    {
+      "word": "tener",
+      "translation": "to have",
+      "example": "Tengo dos hermanos.",
+      "exampleTranslation": "I have two siblings."
+    },
+    {
+      "word": "gustar",
+      "translation": "to like",
+      "example": "Me gusta el chocolate.",
+      "exampleTranslation": "I like chocolate."
+    },
+    {
+      "word": "querer",
+      "translation": "to want, to love",
+      "example": "Quiero aprender español.",
+      "exampleTranslation": "I want to learn Spanish."
+    },
+    {
+      "word": "usar",
+      "translation": "to use",
+      "example": "Uso mi teléfono todos los días.",
+      "exampleTranslation": "I use my phone every day."
+    },
+    {
+      "word": "necesitar",
+      "translation": "to need",
+      "example": "Necesito descansar un poco.",
+      "exampleTranslation": "I need to rest a little."
+    },
+    {
+      "word": "poder",
+      "translation": "can, to be able to",
+      "example": "Puedo hablar dos idiomas.",
+      "exampleTranslation": "I can speak two languages."
+    },
+    {
+      "word": "saber",
+      "translation": "to know (facts, information)",
+      "example": "Sé cocinar arroz frito.",
+      "exampleTranslation": "I know how to cook fried rice."
+    },
+    {
+      "word": "sentir",
+      "translation": "to feel",
+      "example": "Siento mucho frío hoy.",
+      "exampleTranslation": "I feel very cold today."
+    },
+    {
+      "word": "poner",
+      "translation": "to put, to place",
+      "example": "Pongo el libro en la mesa.",
+      "exampleTranslation": "I put the book on the table."
+    },
+    {
+      "word": "coger",
+      "translation": "to take, to grab",
+      "example": "Cojo el autobús cada mañana.",
+      "exampleTranslation": "I take the bus every morning."
+    },
+    {
+      "word": "rojo",
+      "translation": "red",
+      "example": "Mi coche es rojo.",
+      "exampleTranslation": "My car is red."
+    },
+    {
+      "word": "azul",
+      "translation": "blue",
+      "example": "El cielo es azul.",
+      "exampleTranslation": "The sky is blue."
+    },
+    {
+      "word": "amarillo",
+      "translation": "yellow",
+      "example": "El plátano es amarillo.",
+      "exampleTranslation": "The banana is yellow."
+    },
+    {
+      "word": "verde",
+      "translation": "green",
+      "example": "La hierba es verde.",
+      "exampleTranslation": "The grass is green."
+    },
+    {
+      "word": "negro",
+      "translation": "black",
+      "example": "Mi gato es negro.",
+      "exampleTranslation": "My cat is black."
+    },
+    {
+      "word": "blanco",
+      "translation": "white",
+      "example": "Su camisa es blanca.",
+      "exampleTranslation": "His shirt is white."
+    },
+    {
+      "word": "marrón",
+      "translation": "brown",
+      "example": "La mesa es de color marrón.",
+      "exampleTranslation": "The table is brown."
+    },
+    {
+      "word": "rosa",
+      "translation": "pink",
+      "example": "A mi hija le gusta el color rosa.",
+      "exampleTranslation": "My daughter likes the color pink."
+    },
+    {
+      "word": "violeta",
+      "translation": "violet, purple",
+      "example": "La flor es de color violeta.",
+      "exampleTranslation": "The flower is violet."
+    },
+    {
+      "word": "círculo",
+      "translation": "circle",
+      "example": "Dibujo un círculo en el papel.",
+      "exampleTranslation": "I draw a circle on the paper."
+    },
+    {
+      "word": "cuadrado",
+      "translation": "square",
+      "example": "La mesa tiene forma de cuadrado.",
+      "exampleTranslation": "The table has the shape of a square."
+    },
+    {
+      "word": "rectángulo",
+      "translation": "rectangle",
+      "example": "El libro tiene forma de rectángulo.",
+      "exampleTranslation": "The book has the shape of a rectangle."
+    },
+    {
+      "word": "triángulo",
+      "translation": "triangle",
+      "example": "Dibujo un triángulo en la pizarra.",
+      "exampleTranslation": "I draw a triangle on the board."
+    },
+    {
+      "word": "gato",
+      "translation": "cat",
+      "example": "Mi gato duerme todo el día.",
+      "exampleTranslation": "My cat sleeps all day."
+    },
+    {
+      "word": "perro",
+      "translation": "dog",
+      "example": "Mi perro juega en el jardín.",
+      "exampleTranslation": "My dog plays in the garden."
+    },
+    {
+      "word": "ratón",
+      "translation": "mouse",
+      "example": "El ratón corre rápido.",
+      "exampleTranslation": "The mouse runs fast."
+    },
+    {
+      "word": "caballo",
+      "translation": "horse",
+      "example": "El caballo corre en el campo.",
+      "exampleTranslation": "The horse runs in the field."
+    },
+    {
+      "word": "pez",
+      "translation": "fish",
+      "example": "Tengo un pez en casa.",
+      "exampleTranslation": "I have a fish at home."
+    },
+    {
+      "word": "pájaro",
+      "translation": "bird",
+      "example": "El pájaro canta por la mañana.",
+      "exampleTranslation": "The bird sings in the morning."
+    },
+    {
+      "word": "conejo",
+      "translation": "rabbit",
+      "example": "El conejo come zanahorias.",
+      "exampleTranslation": "The rabbit eats carrots."
+    },
+    {
+      "word": "oveja",
+      "translation": "sheep",
+      "example": "La oveja tiene lana blanca.",
+      "exampleTranslation": "The sheep has white wool."
+    },
+    {
+      "word": "león",
+      "translation": "lion",
+      "example": "El león es el rey de la selva.",
+      "exampleTranslation": "The lion is the king of the jungle."
+    },
+    {
+      "word": "tigre",
+      "translation": "tiger",
+      "example": "El tigre vive en la selva.",
+      "exampleTranslation": "The tiger lives in the jungle."
+    },
+    {
+      "word": "oso",
+      "translation": "bear",
+      "example": "El oso duerme en invierno.",
+      "exampleTranslation": "The bear sleeps in winter."
+    },
+    {
+      "word": "mono",
+      "translation": "monkey",
+      "example": "El mono trepa el árbol.",
+      "exampleTranslation": "The monkey climbs the tree."
+    },
+    {
+      "word": "gallina",
+      "translation": "hen",
+      "example": "La gallina pone huevos.",
+      "exampleTranslation": "The hen lays eggs."
+    },
+    {
+      "word": "gallo",
+      "translation": "rooster",
+      "example": "El gallo canta al amanecer.",
+      "exampleTranslation": "The rooster crows at dawn."
+    },
+    {
+      "word": "alto",
+      "translation": "tall, high",
+      "example": "Mi hermano es alto.",
+      "exampleTranslation": "My brother is tall."
+    },
+    {
+      "word": "bajo",
+      "translation": "short, low",
+      "example": "La mesa es baja.",
+      "exampleTranslation": "The table is low."
+    },
+    {
+      "word": "joven",
+      "translation": "young",
+      "example": "Mi profesora es joven.",
+      "exampleTranslation": "My teacher is young."
+    },
+    {
+      "word": "viejo",
+      "translation": "old (person), old (object)",
+      "example": "El hombre es viejo pero fuerte.",
+      "exampleTranslation": "The man is old but strong."
+    },
+    {
+      "word": "bonito",
+      "translation": "pretty, nice",
+      "example": "Este vestido es muy bonito.",
+      "exampleTranslation": "This dress is very pretty."
+    },
+    {
+      "word": "feo",
+      "translation": "ugly",
+      "example": "El edificio es un poco feo.",
+      "exampleTranslation": "The building is a little ugly."
+    },
+    {
+      "word": "sucio",
+      "translation": "dirty",
+      "example": "Mi ropa está sucia.",
+      "exampleTranslation": "My clothes are dirty."
+    },
+    {
+      "word": "limpio",
+      "translation": "clean",
+      "example": "El baño está limpio.",
+      "exampleTranslation": "The bathroom is clean."
+    },
+    {
+      "word": "bueno",
+      "translation": "good",
+      "example": "Este restaurante es muy bueno.",
+      "exampleTranslation": "This restaurant is very good."
+    },
+    {
+      "word": "malo",
+      "translation": "bad",
+      "example": "El clima está malo hoy.",
+      "exampleTranslation": "The weather is bad today."
+    },
+    {
+      "word": "grande",
+      "translation": "big, large",
+      "example": "Mi casa es grande.",
+      "exampleTranslation": "My house is big."
+    },
+    {
+      "word": "pequeño",
+      "translation": "small, little",
+      "example": "El perro es pequeño.",
+      "exampleTranslation": "The dog is small."
+    },
+    {
+      "word": "nuevo",
+      "translation": "new",
+      "example": "Tengo un teléfono nuevo.",
+      "exampleTranslation": "I have a new phone."
+    },
+    {
+      "word": "caro",
+      "translation": "expensive",
+      "example": "Ese reloj es muy caro.",
+      "exampleTranslation": "That watch is very expensive."
+    },
+    {
+      "word": "barato",
+      "translation": "cheap",
+      "example": "Este mercado es barato.",
+      "exampleTranslation": "This market is cheap."
+    },
+    {
+      "word": "fácil",
+      "translation": "easy",
+      "example": "El examen fue fácil.",
+      "exampleTranslation": "The exam was easy."
+    },
+    {
+      "word": "difícil",
+      "translation": "difficult, hard",
+      "example": "Esta lección es difícil.",
+      "exampleTranslation": "This lesson is difficult."
+    },
+    {
+      "word": "inteligente",
+      "translation": "intelligent, smart",
+      "example": "Mi hermana es muy inteligente.",
+      "exampleTranslation": "My sister is very intelligent."
+    },
+    {
+      "word": "temprano",
+      "translation": "early",
+      "example": "Me levanto temprano.",
+      "exampleTranslation": "I get up early."
+    },
+    {
+      "word": "siempre",
+      "translation": "always",
+      "example": "Siempre tomo café por la mañana.",
+      "exampleTranslation": "I always drink coffee in the morning."
+    },
+    {
+      "word": "nunca",
+      "translation": "never",
+      "example": "Nunca como comida picante.",
+      "exampleTranslation": "I never eat spicy food."
+    },
+    {
+      "word": "a veces",
+      "translation": "sometimes",
+      "example": "A veces voy al cine.",
+      "exampleTranslation": "Sometimes I go to the movies."
+    },
+    {
+      "word": "pronto",
+      "translation": "soon",
+      "example": "Vuelvo pronto, espera aquí.",
+      "exampleTranslation": "I'll be back soon, wait here."
+    },
+    {
+      "word": "ahora",
+      "translation": "now",
+      "example": "Ahora estoy ocupado.",
+      "exampleTranslation": "I am busy right now."
+    },
+    {
+      "word": "aquí",
+      "translation": "here",
+      "example": "Vive aquí desde niño.",
+      "exampleTranslation": "He has lived here since childhood."
+    },
+    {
+      "word": "allí",
+      "translation": "there",
+      "example": "Mi coche está allí.",
+      "exampleTranslation": "My car is over there."
+    },
+    {
+      "word": "cerca",
+      "translation": "near, close",
+      "example": "El hospital está cerca de mi casa.",
+      "exampleTranslation": "The hospital is close to my house."
+    },
+    {
+      "word": "lejos",
+      "translation": "far",
+      "example": "La escuela está lejos de aquí.",
+      "exampleTranslation": "The school is far from here."
+    },
+    {
+      "word": "bien",
+      "translation": "well",
+      "example": "Hablo español bien.",
+      "exampleTranslation": "I speak Spanish well."
+    },
+    {
+      "word": "despacio",
+      "translation": "slowly",
+      "example": "Habla más despacio, por favor.",
+      "exampleTranslation": "Speak more slowly, please."
+    },
+    {
+      "word": "rápido",
+      "translation": "fast, quickly",
+      "example": "Ella camina muy rápido.",
+      "exampleTranslation": "She walks very fast."
+    },
+    {
+      "word": "muy",
+      "translation": "very",
+      "example": "Estoy muy cansado hoy.",
+      "exampleTranslation": "I am very tired today."
+    },
+    {
+      "word": "demasiado",
+      "translation": "too much, excessively",
+      "example": "Comí demasiado en la fiesta.",
+      "exampleTranslation": "I ate too much at the party."
+    },
+    {
+      "word": "yo",
+      "translation": "I",
+      "example": "Yo estudio finanzas.",
+      "exampleTranslation": "I study finance."
+    },
+    {
+      "word": "tú",
+      "translation": "you (informal)",
+      "example": "¿Tú hablas español?",
+      "exampleTranslation": "Do you speak Spanish?"
+    },
+    {
+      "word": "usted",
+      "translation": "you (formal)",
+      "example": "¿Usted es el profesor?",
+      "exampleTranslation": "Are you the teacher?"
+    },
+    {
+      "word": "él",
+      "translation": "he",
+      "example": "Él es mi hermano.",
+      "exampleTranslation": "He is my brother."
+    },
+    {
+      "word": "ella",
+      "translation": "she",
+      "example": "Ella es mi amiga.",
+      "exampleTranslation": "She is my friend."
+    },
+    {
+      "word": "nosotros",
+      "translation": "we (masc./mixed)",
+      "example": "Nosotros vivimos en Tailandia.",
+      "exampleTranslation": "We live in Thailand."
+    },
+    {
+      "word": "ustedes",
+      "translation": "you (plural)",
+      "example": "Ustedes son muy amables.",
+      "exampleTranslation": "You (plural) are very kind."
+    },
+    {
+      "word": "nosotras",
+      "translation": "we (fem.)",
+      "example": "Nosotras somos hermanas.",
+      "exampleTranslation": "We (women) are sisters."
+    },
+    {
+      "word": "ellos",
+      "translation": "they (masc./mixed)",
+      "example": "Ellos juegan al fútbol.",
+      "exampleTranslation": "They play soccer."
+    },
+    {
+      "word": "ellas",
+      "translation": "they (fem.)",
+      "example": "Ellas estudian juntas.",
+      "exampleTranslation": "They (women) study together."
+    },
+    {
+      "word": "en",
+      "translation": "in, on",
+      "example": "Vivo en Chiang Mai.",
+      "exampleTranslation": "I live in Chiang Mai."
+    },
+    {
+      "word": "a",
+      "translation": "to, at",
+      "example": "Voy a la escuela.",
+      "exampleTranslation": "I go to school."
+    },
+    {
+      "word": "de",
+      "translation": "of, from",
+      "example": "Soy de Tailandia.",
+      "exampleTranslation": "I am from Thailand."
+    },
+    {
+      "word": "con",
+      "translation": "with",
+      "example": "Voy con mi amigo.",
+      "exampleTranslation": "I go with my friend."
+    },
+    {
+      "word": "sobre",
+      "translation": "about, on, over",
+      "example": "El libro está sobre la mesa.",
+      "exampleTranslation": "The book is on the table."
+    },
+    {
+      "word": "para",
+      "translation": "for, to, in order to",
+      "example": "Este regalo es para ti.",
+      "exampleTranslation": "This gift is for you."
+    },
+    {
+      "word": "por",
+      "translation": "for, by, because of",
+      "example": "Gracias por tu ayuda.",
+      "exampleTranslation": "Thanks for your help."
+    }
+  ]
+}
