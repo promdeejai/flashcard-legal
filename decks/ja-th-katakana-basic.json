@@ -1,0 +1,240 @@
+{
+  "id": "ja-th-katakana-basic",
+  "name": "Katakana: Basic",
+  "learn": "ja",
+  "native": "th",
+  "version": 20,
+  "examples": false,
+  "items": [
+    {
+      "word": "ア",
+      "translation": "อะ (a)",
+      "example": ""
+    },
+    {
+      "word": "イ",
+      "translation": "อิ (i)",
+      "example": ""
+    },
+    {
+      "word": "ウ",
+      "translation": "อุ (u)",
+      "example": ""
+    },
+    {
+      "word": "エ",
+      "translation": "เอะ (e)",
+      "example": ""
+    },
+    {
+      "word": "オ",
+      "translation": "โอะ (o)",
+      "example": ""
+    },
+    {
+      "word": "カ",
+      "translation": "คะ (ka)",
+      "example": ""
+    },
+    {
+      "word": "キ",
+      "translation": "คิ (ki)",
+      "example": ""
+    },
+    {
+      "word": "ク",
+      "translation": "คุ (ku)",
+      "example": ""
+    },
+    {
+      "word": "ケ",
+      "translation": "เคะ (ke)",
+      "example": ""
+    },
+    {
+      "word": "コ",
+      "translation": "โคะ (ko)",
+      "example": ""
+    },
+    {
+      "word": "サ",
+      "translation": "ซะ (sa)",
+      "example": ""
+    },
+    {
+      "word": "シ",
+      "translation": "ชิ (shi)",
+      "example": ""
+    },
+    {
+      "word": "ス",
+      "translation": "ซุ (su)",
+      "example": ""
+    },
+    {
+      "word": "セ",
+      "translation": "เซะ (se)",
+      "example": ""
+    },
+    {
+      "word": "ソ",
+      "translation": "โซะ (so)",
+      "example": ""
+    },
+    {
+      "word": "タ",
+      "translation": "ทะ (ta)",
+      "example": ""
+    },
+    {
+      "word": "チ",
+      "translation": "จิ (chi)",
+      "example": ""
+    },
+    {
+      "word": "ツ",
+      "translation": "สึ (tsu)",
+      "example": ""
+    },
+    {
+      "word": "テ",
+      "translation": "เทะ (te)",
+      "example": ""
+    },
+    {
+      "word": "ト",
+      "translation": "โทะ (to)",
+      "example": ""
+    },
+    {
+      "word": "ナ",
+      "translation": "นะ (na)",
+      "example": ""
+    },
+    {
+      "word": "ニ",
+      "translation": "นิ (ni)",
+      "example": ""
+    },
+    {
+      "word": "ヌ",
+      "translation": "นุ (nu)",
+      "example": ""
+    },
+    {
+      "word": "ネ",
+      "translation": "เนะ (ne)",
+      "example": ""
+    },
+    {
+      "word": "ノ",
+      "translation": "โนะ (no)",
+      "example": ""
+    },
+    {
+      "word": "ハ",
+      "translation": "ฮะ (ha)",
+      "example": ""
+    },
+    {
+      "word": "ヒ",
+      "translation": "ฮิ (hi)",
+      "example": ""
+    },
+    {
+      "word": "フ",
+      "translation": "ฟุ (fu)",
+      "example": ""
+    },
+    {
+      "word": "ヘ",
+      "translation": "เฮะ (he)",
+      "example": ""
+    },
+    {
+      "word": "ホ",
+      "translation": "โฮะ (ho)",
+      "example": ""
+    },
+    {
+      "word": "マ",
+      "translation": "มะ (ma)",
+      "example": ""
+    },
+    {
+      "word": "ミ",
+      "translation": "มิ (mi)",
+      "example": ""
+    },
+    {
+      "word": "ム",
+      "translation": "มุ (mu)",
+      "example": ""
+    },
+    {
+      "word": "メ",
+      "translation": "เมะ (me)",
+      "example": ""
+    },
+    {
+      "word": "モ",
+      "translation": "โมะ (mo)",
+      "example": ""
+    },
+    {
+      "word": "ヤ",
+      "translation": "ยะ (ya)",
+      "example": ""
+    },
+    {
+      "word": "ユ",
+      "translation": "ยุ (yu)",
+      "example": ""
+    },
+    {
+      "word": "ヨ",
+      "translation": "โยะ (yo)",
+      "example": ""
+    },
+    {
+      "word": "ラ",
+      "translation": "ระ (ra)",
+      "example": ""
+    },
+    {
+      "word": "リ",
+      "translation": "ริ (ri)",
+      "example": ""
+    },
+    {
+      "word": "ル",
+      "translation": "รุ (ru)",
+      "example": ""
+    },
+    {
+      "word": "レ",
+      "translation": "เระ (re)",
+      "example": ""
+    },
+    {
+      "word": "ロ",
+      "translation": "โระ (ro)",
+      "example": ""
+    },
+    {
+      "word": "ワ",
+      "translation": "วะ (wa)",
+      "example": ""
+    },
+    {
+      "word": "ヲ",
+      "translation": "โอะ (o (wo))",
+      "example": ""
+    },
+    {
+      "word": "ン",
+      "translation": "น (n)",
+      "example": ""
+    }
+  ]
+}

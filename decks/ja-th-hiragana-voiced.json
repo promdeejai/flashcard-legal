@@ -1,0 +1,135 @@
+{
+  "id": "ja-th-hiragana-voiced",
+  "name": "Hiragana: Voiced",
+  "learn": "ja",
+  "native": "th",
+  "version": 20,
+  "examples": false,
+  "items": [
+    {
+      "word": "が",
+      "translation": "กะ (ga)",
+      "example": ""
+    },
+    {
+      "word": "ぎ",
+      "translation": "กิ (gi)",
+      "example": ""
+    },
+    {
+      "word": "ぐ",
+      "translation": "กุ (gu)",
+      "example": ""
+    },
+    {
+      "word": "げ",
+      "translation": "เกะ (ge)",
+      "example": ""
+    },
+    {
+      "word": "ご",
+      "translation": "โกะ (go)",
+      "example": ""
+    },
+    {
+      "word": "ざ",
+      "translation": "ซะ (za)",
+      "example": ""
+    },
+    {
+      "word": "じ",
+      "translation": "จิ (ji)",
+      "example": ""
+    },
+    {
+      "word": "ず",
+      "translation": "ซุ (zu)",
+      "example": ""
+    },
+    {
+      "word": "ぜ",
+      "translation": "เซะ (ze)",
+      "example": ""
+    },
+    {
+      "word": "ぞ",
+      "translation": "โซะ (zo)",
+      "example": ""
+    },
+    {
+      "word": "だ",
+      "translation": "ดะ (da)",
+      "example": ""
+    },
+    {
+      "word": "ぢ",
+      "translation": "จิ (ji)",
+      "example": ""
+    },
+    {
+      "word": "づ",
+      "translation": "ซุ (zu)",
+      "example": ""
+    },
+    {
+      "word": "で",
+      "translation": "เดะ (de)",
+      "example": ""
+    },
+    {
+      "word": "ど",
+      "translation": "โดะ (do)",
+      "example": ""
+    },
+    {
+      "word": "ば",
+      "translation": "บะ (ba)",
+      "example": ""
+    },
+    {
+      "word": "び",
+      "translation": "บิ (bi)",
+      "example": ""
+    },
+    {
+      "word": "ぶ",
+      "translation": "บุ (bu)",
+      "example": ""
+    },
+    {
+      "word": "べ",
+      "translation": "เบะ (be)",
+      "example": ""
+    },
+    {
+      "word": "ぼ",
+      "translation": "โบะ (bo)",
+      "example": ""
+    },
+    {
+      "word": "ぱ",
+      "translation": "ปะ (pa)",
+      "example": ""
+    },
+    {
+      "word": "ぴ",
+      "translation": "ปิ (pi)",
+      "example": ""
+    },
+    {
+      "word": "ぷ",
+      "translation": "ปุ (pu)",
+      "example": ""
+    },
+    {
+      "word": "ぺ",
+      "translation": "เปะ (pe)",
+      "example": ""
+    },
+    {
+      "word": "ぽ",
+      "translation": "โปะ (po)",
+      "example": ""
+    }
+  ]
+}

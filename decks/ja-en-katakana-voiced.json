@@ -1,0 +1,135 @@
+{
+  "id": "ja-en-katakana-voiced",
+  "name": "Katakana: Voiced",
+  "learn": "ja",
+  "native": "en",
+  "version": 20,
+  "examples": false,
+  "items": [
+    {
+      "word": "ガ",
+      "translation": "ga",
+      "example": ""
+    },
+    {
+      "word": "ギ",
+      "translation": "gi",
+      "example": ""
+    },
+    {
+      "word": "グ",
+      "translation": "gu",
+      "example": ""
+    },
+    {
+      "word": "ゲ",
+      "translation": "ge",
+      "example": ""
+    },
+    {
+      "word": "ゴ",
+      "translation": "go",
+      "example": ""
+    },
+    {
+      "word": "ザ",
+      "translation": "za",
+      "example": ""
+    },
+    {
+      "word": "ジ",
+      "translation": "ji",
+      "example": ""
+    },
+    {
+      "word": "ズ",
+      "translation": "zu",
+      "example": ""
+    },
+    {
+      "word": "ゼ",
+      "translation": "ze",
+      "example": ""
+    },
+    {
+      "word": "ゾ",
+      "translation": "zo",
+      "example": ""
+    },
+    {
+      "word": "ダ",
+      "translation": "da",
+      "example": ""
+    },
+    {
+      "word": "ヂ",
+      "translation": "ji",
+      "example": ""
+    },
+    {
+      "word": "ヅ",
+      "translation": "zu",
+      "example": ""
+    },
+    {
+      "word": "デ",
+      "translation": "de",
+      "example": ""
+    },
+    {
+      "word": "ド",
+      "translation": "do",
+      "example": ""
+    },
+    {
+      "word": "バ",
+      "translation": "ba",
+      "example": ""
+    },
+    {
+      "word": "ビ",
+      "translation": "bi",
+      "example": ""
+    },
+    {
+      "word": "ブ",
+      "translation": "bu",
+      "example": ""
+    },
+    {
+      "word": "ベ",
+      "translation": "be",
+      "example": ""
+    },
+    {
+      "word": "ボ",
+      "translation": "bo",
+      "example": ""
+    },
+    {
+      "word": "パ",
+      "translation": "pa",
+      "example": ""
+    },
+    {
+      "word": "ピ",
+      "translation": "pi",
+      "example": ""
+    },
+    {
+      "word": "プ",
+      "translation": "pu",
+      "example": ""
+    },
+    {
+      "word": "ペ",
+      "translation": "pe",
+      "example": ""
+    },
+    {
+      "word": "ポ",
+      "translation": "po",
+      "example": ""
+    }
+  ]
+}
