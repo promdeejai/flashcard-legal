@@ -4,7 +4,7 @@
   "learn": "es",
   "native": "en",
   "level": "B1",
-  "version": 22,
+  "version": 23,
   "items": [
     {
       "word": "apodo",
@@ -1280,7 +1280,7 @@
     },
     {
       "word": "arreglar",
-      "translation": "fix, repair, to get ready / to dress up",
+      "translation": "fix, repair, to get ready, to dress up",
       "example": "Voy a arreglar la silla rota.",
       "exampleTranslation": "I am going to fix the broken chair."
     },
@@ -3392,7 +3392,7 @@
     },
     {
       "word": "etiqueta",
-      "translation": "etiquette, hashtag / tag",
+      "translation": "etiquette, hashtag, tag",
       "example": "Debes conocer la etiqueta local.",
       "exampleTranslation": "You should know the local etiquette."
     },
@@ -3806,7 +3806,7 @@
     },
     {
       "word": "balanza",
-      "translation": "balance / scale",
+      "translation": "balance, scale",
       "example": "Pesó la muestra en la balanza.",
       "exampleTranslation": "He weighed the sample on the scale."
     },
@@ -3848,7 +3848,7 @@
     },
     {
       "word": "comprobar",
-      "translation": "to check / verify",
+      "translation": "to check, verify",
       "example": "Voy a comprobar los resultados.",
       "exampleTranslation": "I am going to check the results."
     },
@@ -3884,19 +3884,19 @@
     },
     {
       "word": "presentador",
-      "translation": "presenter / host",
+      "translation": "presenter, host",
       "example": "El presentador entrevistó al invitado.",
       "exampleTranslation": "The host interviewed the guest."
     },
     {
       "word": "redactor",
-      "translation": "writer / editor",
+      "translation": "writer, editor",
       "example": "Es redactor de una revista.",
       "exampleTranslation": "He is a writer for a magazine."
     },
     {
       "word": "locutor",
-      "translation": "announcer / broadcaster",
+      "translation": "announcer, broadcaster",
       "example": "El locutor tiene una voz clara.",
       "exampleTranslation": "The announcer has a clear voice."
     },
@@ -3908,7 +3908,7 @@
     },
     {
       "word": "crónica",
-      "translation": "chronicle / news report",
+      "translation": "chronicle, news report",
       "example": "Escribió una crónica del viaje.",
       "exampleTranslation": "He wrote a chronicle of the trip."
     },
@@ -3926,7 +3926,7 @@
     },
     {
       "word": "publicidad",
-      "translation": "advertising / publicity",
+      "translation": "advertising, publicity",
       "example": "La publicidad aumentó las ventas.",
       "exampleTranslation": "The advertising increased sales."
     },
@@ -3938,7 +3938,7 @@
     },
     {
       "word": "portada",
-      "translation": "front page / cover",
+      "translation": "front page, cover",
       "example": "Salió en la portada del periódico.",
       "exampleTranslation": "He appeared on the newspaper's front page."
     },
@@ -3974,7 +3974,7 @@
     },
     {
       "word": "veracidad",
-      "translation": "truthfulness / accuracy",
+      "translation": "truthfulness, accuracy",
       "example": "Cuestionaron la veracidad de la noticia.",
       "exampleTranslation": "They questioned the truthfulness of the news."
     },
@@ -3998,7 +3998,7 @@
     },
     {
       "word": "emitir",
-      "translation": "to broadcast / emit",
+      "translation": "to broadcast, emit",
       "example": "El canal va a emitir el documental.",
       "exampleTranslation": "The channel is going to broadcast the documentary."
     },
@@ -4010,7 +4010,7 @@
     },
     {
       "word": "viralizar",
-      "translation": "to go viral / viralize",
+      "translation": "to go viral, viralize",
       "example": "El video se viralizó en minutos.",
       "exampleTranslation": "The video went viral in minutes."
     },
@@ -4040,7 +4040,7 @@
     },
     {
       "word": "caravana",
-      "translation": "caravan / RV",
+      "translation": "caravan, RV",
       "example": "Viajan por Europa en caravana.",
       "exampleTranslation": "They travel around Europe in an RV."
     },
@@ -4058,13 +4058,13 @@
     },
     {
       "word": "vía",
-      "translation": "route / track",
+      "translation": "route, track",
       "example": "El tren circula por esta vía.",
       "exampleTranslation": "The train runs on this track."
     },
     {
       "word": "embarcadero",
-      "translation": "pier / dock",
+      "translation": "pier, dock",
       "example": "El barco salió del embarcadero.",
       "exampleTranslation": "The boat left the pier."
     },
@@ -4082,7 +4082,7 @@
     },
     {
       "word": "autovía",
-      "translation": "expressway / freeway",
+      "translation": "expressway, freeway",
       "example": "La autovía conecta las dos ciudades.",
       "exampleTranslation": "The freeway connects the two cities."
     },
@@ -4130,7 +4130,7 @@
     },
     {
       "word": "montar",
-      "translation": "to ride / to get on",
+      "translation": "to ride, to get on",
       "example": "Vamos a montar en bicicleta.",
       "exampleTranslation": "We are going to ride a bicycle."
     },
@@ -4142,13 +4142,13 @@
     },
     {
       "word": "azafato",
-      "translation": "flight attendant / steward",
+      "translation": "flight attendant, steward",
       "example": "El azafato sirvió las bebidas.",
       "exampleTranslation": "The flight attendant served the drinks."
     },
     {
       "word": "maquinista",
-      "translation": "train driver / locomotive engineer",
+      "translation": "train driver, locomotive engineer",
       "example": "El maquinista detuvo el tren.",
       "exampleTranslation": "The train driver stopped the train."
     },
@@ -4226,7 +4226,7 @@
     },
     {
       "word": "intermitente",
-      "translation": "turn signal / indicator",
+      "translation": "turn signal, indicator",
       "example": "Usa el intermitente antes de girar.",
       "exampleTranslation": "Use the turn signal before turning."
     },
@@ -4250,7 +4250,7 @@
     },
     {
       "word": "maletero",
-      "translation": "trunk / boot",
+      "translation": "trunk, boot",
       "example": "Puso las maletas en el maletero.",
       "exampleTranslation": "He put the suitcases in the trunk."
     },
@@ -4262,13 +4262,13 @@
     },
     {
       "word": "retrovisor exterior",
-      "translation": "side mirror / exterior mirror",
+      "translation": "side mirror, exterior mirror",
       "example": "Ajustó el retrovisor exterior.",
       "exampleTranslation": "He adjusted the side mirror."
     },
     {
       "word": "palanca de cambios",
-      "translation": "gear lever / gear shift",
+      "translation": "gear lever, gear shift",
       "example": "Movió la palanca de cambios con cuidado.",
       "exampleTranslation": "He moved the gear lever carefully."
     },
@@ -4286,7 +4286,7 @@
     },
     {
       "word": "gasolina",
-      "translation": "gasoline / petrol",
+      "translation": "gasoline, petrol",
       "example": "Necesitamos poner gasolina.",
       "exampleTranslation": "We need to put in gasoline."
     },
@@ -4340,13 +4340,13 @@
     },
     {
       "word": "adelantar",
-      "translation": "to overtake / pass",
+      "translation": "to overtake, pass",
       "example": "Es peligroso adelantar en la curva.",
       "exampleTranslation": "It is dangerous to overtake on the curve."
     },
     {
       "word": "retroceder",
-      "translation": "to reverse / go backward",
+      "translation": "to reverse, go backward",
       "example": "Tuvo que retroceder para estacionar.",
       "exampleTranslation": "He had to reverse to park."
     },
@@ -4370,7 +4370,7 @@
     },
     {
       "word": "pendrive",
-      "translation": "USB drive / flash drive",
+      "translation": "USB drive, flash drive",
       "example": "Guardé los archivos en el pendrive.",
       "exampleTranslation": "I saved the files on the USB drive."
     },
@@ -4412,13 +4412,13 @@
     },
     {
       "word": "encender",
-      "translation": "to turn on / to switch on",
+      "translation": "to turn on, to switch on",
       "example": "Enciende el ordenador, por favor.",
       "exampleTranslation": "Turn on the computer, please."
     },
     {
       "word": "apagar",
-      "translation": "to turn off / to switch off",
+      "translation": "to turn off, to switch off",
       "example": "Apaga la pantalla antes de salir.",
       "exampleTranslation": "Turn off the screen before leaving."
     },
@@ -4484,7 +4484,7 @@
     },
     {
       "word": "señal",
-      "translation": "signal / connection indicator",
+      "translation": "signal, connection indicator",
       "example": "No hay señal en esta zona.",
       "exampleTranslation": "There is no signal in this area."
     },
@@ -4502,7 +4502,7 @@
     },
     {
       "word": "feed",
-      "translation": "feed / newsfeed",
+      "translation": "feed, newsfeed",
       "example": "Revisa su feed cada mañana.",
       "exampleTranslation": "He checks his feed every morning."
     },
@@ -4532,7 +4532,7 @@
     },
     {
       "word": "mensaje directo",
-      "translation": "direct message / DM",
+      "translation": "direct message, DM",
       "example": "Le mandé un mensaje directo.",
       "exampleTranslation": "I sent him a direct message."
     },
@@ -4634,7 +4634,7 @@
     },
     {
       "word": "delantero",
-      "translation": "forward / striker",
+      "translation": "forward, striker",
       "example": "El delantero marcó dos goles.",
       "exampleTranslation": "The striker scored two goals."
     },
@@ -4676,13 +4676,13 @@
     },
     {
       "word": "prórroga",
-      "translation": "overtime / extra time",
+      "translation": "overtime, extra time",
       "example": "El partido se fue a prórroga.",
       "exampleTranslation": "The match went to overtime."
     },
     {
       "word": "aficionado",
-      "translation": "fan / enthusiast",
+      "translation": "fan, enthusiast",
       "example": "Es un aficionado del fútbol.",
       "exampleTranslation": "He is a soccer enthusiast."
     },
@@ -4718,13 +4718,13 @@
     },
     {
       "word": "lanzar",
-      "translation": "to throw / to kick, to throw",
+      "translation": "to throw, to kick",
       "example": "Va a lanzar el balón lejos.",
       "exampleTranslation": "He is going to throw the ball far."
     },
     {
       "word": "chutar",
-      "translation": "to shoot / to kick",
+      "translation": "to shoot, to kick",
       "example": "Va a chutar desde lejos.",
       "exampleTranslation": "He is going to shoot from far away."
     },
@@ -4748,7 +4748,7 @@
     },
     {
       "word": "dedo índice",
-      "translation": "index finger / pointer finger",
+      "translation": "index finger, pointer finger",
       "example": "Señaló con el dedo índice.",
       "exampleTranslation": "He pointed with his index finger."
     },
@@ -4766,7 +4766,7 @@
     },
     {
       "word": "dedo meñique",
-      "translation": "little finger / pinky",
+      "translation": "little finger, pinky",
       "example": "Se rompió el dedo meñique.",
       "exampleTranslation": "He broke his little finger."
     },
@@ -4874,7 +4874,7 @@
     },
     {
       "word": "latir",
-      "translation": "to beat / to throb",
+      "translation": "to beat, to throb",
       "example": "Su corazón late muy rápido.",
       "exampleTranslation": "His heart beats very fast."
     },
@@ -4898,7 +4898,7 @@
     },
     {
       "word": "vértigo",
-      "translation": "vertigo / dizziness",
+      "translation": "vertigo, dizziness",
       "example": "Sufre de vértigo desde el accidente.",
       "exampleTranslation": "He has suffered from vertigo since the accident."
     },
@@ -4916,7 +4916,7 @@
     },
     {
       "word": "torcedura",
-      "translation": "twist / sprain",
+      "translation": "twist, sprain",
       "example": "Tiene una torcedura leve.",
       "exampleTranslation": "He has a mild sprain."
     },
@@ -4928,7 +4928,7 @@
     },
     {
       "word": "erupción",
-      "translation": "rash / eruption",
+      "translation": "rash, eruption",
       "example": "Le salió una erupción en la piel.",
       "exampleTranslation": "A rash appeared on his skin."
     },
@@ -5012,7 +5012,7 @@
     },
     {
       "word": "marear",
-      "translation": "to feel dizzy / to make dizzy",
+      "translation": "to feel dizzy, to make dizzy",
       "example": "El calor lo hizo marear.",
       "exampleTranslation": "The heat made him feel dizzy."
     },
@@ -5024,13 +5024,13 @@
     },
     {
       "word": "picar",
-      "translation": "to itch / to sting",
+      "translation": "to itch, to sting",
       "example": "Le pica la piel por la alergia.",
       "exampleTranslation": "His skin itches from the allergy."
     },
     {
       "word": "arder",
-      "translation": "to burn / to sting",
+      "translation": "to burn, to sting",
       "example": "Le arde la herida.",
       "exampleTranslation": "His wound stings."
     },
@@ -5054,19 +5054,19 @@
     },
     {
       "word": "gabardina",
-      "translation": "trench coat / raincoat",
+      "translation": "trench coat, raincoat",
       "example": "Usa gabardina cuando llueve.",
       "exampleTranslation": "She wears a trench coat when it rains."
     },
     {
       "word": "chaleco",
-      "translation": "vest / waistcoat",
+      "translation": "vest, waistcoat",
       "example": "Lleva un chaleco de lana.",
       "exampleTranslation": "He wears a wool vest."
     },
     {
       "word": "jersey",
-      "translation": "sweater / jumper",
+      "translation": "sweater, jumper",
       "example": "Se puso un jersey de lana.",
       "exampleTranslation": "He put on a wool sweater."
     },
@@ -5078,25 +5078,25 @@
     },
     {
       "word": "mono",
-      "translation": "overalls / jumpsuit",
+      "translation": "overalls, jumpsuit",
       "example": "Lleva un mono de trabajo.",
       "exampleTranslation": "He wears work overalls."
     },
     {
       "word": "cazadora",
-      "translation": "jacket / windbreaker",
+      "translation": "jacket, windbreaker",
       "example": "Se puso la cazadora antes de salir.",
       "exampleTranslation": "He put on the windbreaker before going out."
     },
     {
       "word": "braga",
-      "translation": "panties / underwear",
+      "translation": "panties, underwear",
       "example": "Compró bragas de algodón.",
       "exampleTranslation": "She bought cotton panties."
     },
     {
       "word": "calzoncillo",
-      "translation": "men's underwear / briefs",
+      "translation": "men's underwear, briefs",
       "example": "Necesita calzoncillos nuevos.",
       "exampleTranslation": "He needs new briefs."
     },
@@ -5144,19 +5144,19 @@
     },
     {
       "word": "ajustado",
-      "translation": "tight / fitted",
+      "translation": "tight, fitted",
       "example": "Prefiere la ropa ajustada.",
       "exampleTranslation": "She prefers fitted clothes."
     },
     {
       "word": "ancho",
-      "translation": "wide / loose",
+      "translation": "wide, loose",
       "example": "Prefiere un pantalón ancho.",
       "exampleTranslation": "He prefers loose pants."
     },
     {
       "word": "holgado",
-      "translation": "loose / baggy",
+      "translation": "loose, baggy",
       "example": "Lleva una camiseta holgada.",
       "exampleTranslation": "He wears a baggy t-shirt."
     },
@@ -5168,13 +5168,13 @@
     },
     {
       "word": "quedar",
-      "translation": "to fit / to suit",
+      "translation": "to fit, to suit",
       "example": "Esa camisa te queda muy bien.",
       "exampleTranslation": "That shirt fits you very well."
     },
     {
       "word": "aseo",
-      "translation": "hygiene / cleanliness",
+      "translation": "hygiene, cleanliness",
       "example": "El aseo personal es muy importante.",
       "exampleTranslation": "Personal hygiene is very important."
     },
@@ -5204,7 +5204,7 @@
     },
     {
       "word": "grano",
-      "translation": "pimple / spot",
+      "translation": "pimple, spot",
       "example": "Le salió un grano en la cara.",
       "exampleTranslation": "A pimple appeared on his face."
     },
@@ -5282,7 +5282,7 @@
     },
     {
       "word": "sarro",
-      "translation": "tartar / calculus",
+      "translation": "tartar, calculus",
       "example": "El dentista quitó el sarro.",
       "exampleTranslation": "The dentist removed the tartar."
     },
@@ -5312,7 +5312,7 @@
     },
     {
       "word": "depilar",
-      "translation": "to wax / remove hair",
+      "translation": "to wax, remove hair",
       "example": "Va a depilarse las piernas.",
       "exampleTranslation": "She is going to wax her legs."
     },
@@ -5354,7 +5354,7 @@
     },
     {
       "word": "decoloración",
-      "translation": "bleaching / lightening",
+      "translation": "bleaching, lightening",
       "example": "La decoloración dañó su cabello.",
       "exampleTranslation": "The bleaching damaged her hair."
     },
@@ -5366,7 +5366,7 @@
     },
     {
       "word": "limpieza facial",
-      "translation": "facial cleansing / facial cleaning",
+      "translation": "facial cleansing, facial cleaning",
       "example": "Se hizo una limpieza facial.",
       "exampleTranslation": "She got a facial cleansing."
     },
@@ -5378,7 +5378,7 @@
     },
     {
       "word": "navaja",
-      "translation": "razor / straight razor",
+      "translation": "razor, straight razor",
       "example": "El barbero usa navaja tradicional.",
       "exampleTranslation": "The barber uses a traditional straight razor."
     },
@@ -5414,7 +5414,7 @@
     },
     {
       "word": "recortar",
-      "translation": "to trim / cut",
+      "translation": "to trim, cut",
       "example": "Va a recortar la barba.",
       "exampleTranslation": "He is going to trim his beard."
     },
@@ -5480,7 +5480,7 @@
     },
     {
       "word": "brillo",
-      "translation": "lip gloss / shine",
+      "translation": "lip gloss, shine",
       "example": "Se pone brillo de labios.",
       "exampleTranslation": "She puts on lip gloss."
     },
@@ -5774,7 +5774,7 @@
     },
     {
       "word": "churrasco",
-      "translation": "grilled meat / barbecue cut",
+      "translation": "grilled meat, barbecue cut",
       "example": "El churrasco argentino es famoso.",
       "exampleTranslation": "Argentine grilled meat is famous."
     },
@@ -5912,7 +5912,7 @@
     },
     {
       "word": "escenografía",
-      "translation": "set design / scenography",
+      "translation": "set design, scenography",
       "example": "La escenografía fue muy creativa.",
       "exampleTranslation": "The set design was very creative."
     },
@@ -6020,7 +6020,7 @@
     },
     {
       "word": "compás",
-      "translation": "measure / bar",
+      "translation": "measure, bar",
       "example": "Cuenta los compases con cuidado.",
       "exampleTranslation": "Count the bars carefully."
     },
@@ -6032,19 +6032,19 @@
     },
     {
       "word": "tono",
-      "translation": "pitch / tone",
+      "translation": "pitch, tone",
       "example": "Canta en un tono muy alto.",
       "exampleTranslation": "She sings in a very high pitch."
     },
     {
       "word": "agudo",
-      "translation": "high-pitched / sharp",
+      "translation": "high-pitched, sharp",
       "example": "Su voz es muy aguda.",
       "exampleTranslation": "Her voice is very high-pitched."
     },
     {
       "word": "grave",
-      "translation": "low-pitched / deep",
+      "translation": "low-pitched, deep",
       "example": "Tiene una voz grave y profunda.",
       "exampleTranslation": "He has a deep, low-pitched voice."
     },
@@ -6098,7 +6098,7 @@
     },
     {
       "word": "coro",
-      "translation": "choir / chorus",
+      "translation": "choir, chorus",
       "example": "Canta en el coro de la iglesia.",
       "exampleTranslation": "He sings in the church choir."
     },
@@ -6182,7 +6182,7 @@
     },
     {
       "word": "desenlace",
-      "translation": "ending / outcome",
+      "translation": "ending, outcome",
       "example": "El desenlace fue inesperado.",
       "exampleTranslation": "The ending was unexpected."
     },
@@ -6200,7 +6200,7 @@
     },
     {
       "word": "relato",
-      "translation": "story / narrative",
+      "translation": "story, narrative",
       "example": "Escribió un relato corto.",
       "exampleTranslation": "He wrote a short story."
     },
@@ -6362,7 +6362,7 @@
     },
     {
       "word": "DJ",
-      "translation": "DJ / disc jockey",
+      "translation": "DJ, disc jockey",
       "example": "El DJ animó toda la noche.",
       "exampleTranslation": "The DJ entertained everyone all night."
     },
@@ -6374,7 +6374,7 @@
     },
     {
       "word": "festejar",
-      "translation": "to celebrate / to party",
+      "translation": "to celebrate, to party",
       "example": "Van a festejar el aniversario.",
       "exampleTranslation": "They are going to celebrate the anniversary."
     },
@@ -6392,13 +6392,13 @@
     },
     {
       "word": "regalar",
-      "translation": "to give a gift / to present",
+      "translation": "to give a gift, to present",
       "example": "Le voy a regalar un libro.",
       "exampleTranslation": "I am going to give her a book as a gift."
     },
     {
       "word": "reunir",
-      "translation": "to gather / to meet",
+      "translation": "to gather, to meet",
       "example": "Vamos a reunir a toda la familia.",
       "exampleTranslation": "We are going to gather the whole family."
     },
@@ -6476,7 +6476,7 @@
     },
     {
       "word": "plastilina",
-      "translation": "modeling clay / playdough",
+      "translation": "modeling clay, playdough",
       "example": "Los niños juegan con plastilina.",
       "exampleTranslation": "The children play with playdough."
     },
@@ -6518,7 +6518,7 @@
     },
     {
       "word": "ficha",
-      "translation": "token / game piece",
+      "translation": "token, game piece",
       "example": "Mueve tu ficha tres espacios.",
       "exampleTranslation": "Move your token three spaces."
     },
