@@ -1,0 +1,5848 @@
+{
+  "id": "es-th-a2",
+  "name": "Spanish A2",
+  "learn": "es",
+  "native": "th",
+  "level": "A2",
+  "version": 24,
+  "items": [
+    {
+      "word": "cómo te va",
+      "translation": "เป็นอย่างไรบ้าง",
+      "example": "¿Cómo te va en el nuevo trabajo?",
+      "exampleTranslation": "งานใหม่เป็นอย่างไรบ้าง?"
+    },
+    {
+      "word": "qué pasa",
+      "translation": "มีอะไรเกิดขึ้น",
+      "example": "¿Qué pasa? Te veo preocupado.",
+      "exampleTranslation": "เป็นอะไรไป? ดูเธอกังวลนะ"
+    },
+    {
+      "word": "hasta pronto",
+      "translation": "แล้วเจอกันเร็วๆนี้",
+      "example": "Hasta pronto, cuídate mucho.",
+      "exampleTranslation": "แล้วเจอกันเร็วๆนี้นะ ดูแลตัวเองด้วย"
+    },
+    {
+      "word": "hasta mañana",
+      "translation": "แล้วเจอกันพรุ่งนี้",
+      "example": "Hasta mañana, buenas noches.",
+      "exampleTranslation": "แล้วเจอกันพรุ่งนี้ ราตรีสวัสดิ์"
+    },
+    {
+      "word": "nos vemos",
+      "translation": "แล้วเจอกัน",
+      "example": "Nos vemos en la estación.",
+      "exampleTranslation": "แล้วเจอกันที่สถานีนะ"
+    },
+    {
+      "word": "cuídate",
+      "translation": "ดูแลตัวเองด้วย",
+      "example": "Cuídate mucho en tu viaje.",
+      "exampleTranslation": "ดูแลตัวเองด้วยนะระหว่างเดินทาง"
+    },
+    {
+      "word": "felicidades",
+      "translation": "ยินดีด้วย",
+      "example": "¡Felicidades por tu nuevo trabajo!",
+      "exampleTranslation": "ยินดีด้วยกับงานใหม่นะ!"
+    },
+    {
+      "word": "feliz cumpleaños",
+      "translation": "สุขสันต์วันเกิด",
+      "example": "¡Feliz cumpleaños, que lo pases genial!",
+      "exampleTranslation": "สุขสันต์วันเกิดนะ ขอให้สนุกมากๆ!"
+    },
+    {
+      "word": "feliz aniversario",
+      "translation": "สุขสันต์วันครบรอบ",
+      "example": "Feliz aniversario, os deseo mucha felicidad.",
+      "exampleTranslation": "สุขสันต์วันครบรอบนะ ขอให้มีความสุขมากๆ"
+    },
+    {
+      "word": "feliz Navidad",
+      "translation": "สุขสันต์วันคริสต์มาส",
+      "example": "Feliz Navidad a toda tu familia.",
+      "exampleTranslation": "สุขสันต์วันคริสต์มาสถึงครอบครัวของคุณด้วยนะ"
+    },
+    {
+      "word": "buen provecho",
+      "translation": "ทานให้อร่อยนะ",
+      "example": "Buen provecho, la comida se ve deliciosa.",
+      "exampleTranslation": "ทานให้อร่อยนะ อาหารดูน่ากินมาก"
+    },
+    {
+      "word": "bien hecho",
+      "translation": "ทำได้ดีมาก",
+      "example": "Bien hecho, aprobaste el examen.",
+      "exampleTranslation": "ทำได้ดีมาก คุณสอบผ่านแล้ว"
+    },
+    {
+      "word": "buen viaje",
+      "translation": "ขอให้เดินทางปลอดภัย",
+      "example": "Buen viaje, escríbeme cuando llegues.",
+      "exampleTranslation": "ขอให้เดินทางปลอดภัยนะ ถึงแล้วเขียนมาบอกด้วย"
+    },
+    {
+      "word": "buena suerte",
+      "translation": "ขอให้โชคดี",
+      "example": "Buena suerte en tu entrevista de trabajo.",
+      "exampleTranslation": "ขอให้โชคดีกับการสัมภาษณ์งานนะ"
+    },
+    {
+      "word": "salud",
+      "translation": "ไชโย",
+      "example": "¡Salud! Por nuestra amistad.",
+      "exampleTranslation": "ไชโย! ขอให้มิตรภาพของเรายืนยาว"
+    },
+    {
+      "word": "bienvenido",
+      "translation": "ยินดีต้อนรับ",
+      "example": "Bienvenido a nuestra casa.",
+      "exampleTranslation": "ยินดีต้อนรับสู่บ้านของเรา"
+    },
+    {
+      "word": "diviértete",
+      "translation": "ขอให้สนุก",
+      "example": "Diviértete mucho en la fiesta.",
+      "exampleTranslation": "ขอให้สนุกมากๆในงานปาร์ตี้นะ"
+    },
+    {
+      "word": "disculpe",
+      "translation": "ขออภัย",
+      "example": "Disculpe, ¿puede ayudarme?",
+      "exampleTranslation": "ขออภัยค่ะ ช่วยฉันหน่อยได้ไหม?"
+    },
+    {
+      "word": "muchas gracias",
+      "translation": "ขอบคุณมาก",
+      "example": "Muchas gracias por tu ayuda.",
+      "exampleTranslation": "ขอบคุณมากสำหรับความช่วยเหลือของคุณ"
+    },
+    {
+      "word": "invitar",
+      "translation": "เชิญ",
+      "example": "Quiero invitar a mis amigos a cenar.",
+      "exampleTranslation": "ฉันอยากเชิญเพื่อนๆมากินข้าวเย็นด้วยกัน"
+    },
+    {
+      "word": "disculpar",
+      "translation": "ให้อภัย",
+      "example": "Voy a disculpar su error.",
+      "exampleTranslation": "ฉันจะให้อภัยความผิดพลาดของเขา"
+    },
+    {
+      "word": "saludar",
+      "translation": "ทักทาย",
+      "example": "Siempre saludo a mis vecinos.",
+      "exampleTranslation": "ฉันทักทายเพื่อนบ้านเสมอ"
+    },
+    {
+      "word": "presentar",
+      "translation": "แนะนำ",
+      "example": "Quiero presentarte a mi hermano.",
+      "exampleTranslation": "ฉันอยากแนะนำให้คุณรู้จักพี่ชายของฉัน"
+    },
+    {
+      "word": "visitar",
+      "translation": "ไปเยี่ยม",
+      "example": "Voy a visitar a mis abuelos.",
+      "exampleTranslation": "ฉันจะไปเยี่ยมปู่ย่าของฉัน"
+    },
+    {
+      "word": "ayudar",
+      "translation": "ช่วยเหลือ",
+      "example": "Puedo ayudarte con la tarea.",
+      "exampleTranslation": "ฉันช่วยคุณทำการบ้านได้นะ"
+    },
+    {
+      "word": "ofrecer",
+      "translation": "เสนอให้",
+      "example": "Te ofrezco un café.",
+      "exampleTranslation": "ฉันขอเสนอกาแฟให้คุณ"
+    },
+    {
+      "word": "cuñado",
+      "translation": "พี่เขย, น้องเขย",
+      "example": "Mi cuñado vive en Madrid.",
+      "exampleTranslation": "พี่เขยของฉันอาศัยอยู่ที่มาดริด"
+    },
+    {
+      "word": "cuñada",
+      "translation": "พี่สะใภ้, น้องสะใภ้",
+      "example": "Mi cuñada es muy simpática.",
+      "exampleTranslation": "พี่สะใภ้ของฉันเป็นคนน่ารักมาก"
+    },
+    {
+      "word": "suegro",
+      "translation": "พ่อตา, พ่อสามี",
+      "example": "Mi suegro es agricultor.",
+      "exampleTranslation": "พ่อตาของฉันเป็นเกษตรกร"
+    },
+    {
+      "word": "suegra",
+      "translation": "แม่ยาย, แม่สามี",
+      "example": "Mi suegra cocina muy bien.",
+      "exampleTranslation": "แม่ยายของฉันทำอาหารเก่งมาก"
+    },
+    {
+      "word": "yerno",
+      "translation": "ลูกเขย",
+      "example": "Su yerno trabaja en un banco.",
+      "exampleTranslation": "ลูกเขยของเธอทำงานที่ธนาคาร"
+    },
+    {
+      "word": "nuera",
+      "translation": "ลูกสะใภ้",
+      "example": "Su nuera es doctora.",
+      "exampleTranslation": "ลูกสะใภ้ของเขาเป็นหมอ"
+    },
+    {
+      "word": "padrastro",
+      "translation": "พ่อเลี้ยง",
+      "example": "Mi padrastro me enseñó a pescar.",
+      "exampleTranslation": "พ่อเลี้ยงของฉันสอนให้ฉันตกปลา"
+    },
+    {
+      "word": "madrastra",
+      "translation": "แม่เลี้ยง",
+      "example": "Mi madrastra es muy amable.",
+      "exampleTranslation": "แม่เลี้ยงของฉันใจดีมาก"
+    },
+    {
+      "word": "hijastro",
+      "translation": "ลูกเลี้ยงชาย",
+      "example": "Su hijastro juega al fútbol.",
+      "exampleTranslation": "ลูกเลี้ยงชายของเขาเล่นฟุตบอล"
+    },
+    {
+      "word": "hijastra",
+      "translation": "ลูกเลี้ยงหญิง",
+      "example": "Su hijastra estudia medicina.",
+      "exampleTranslation": "ลูกเลี้ยงหญิงของเธอเรียนแพทย์"
+    },
+    {
+      "word": "hermanastra",
+      "translation": "พี่น้องเลี้ยงหญิง",
+      "example": "Mi hermanastra vive con nosotros.",
+      "exampleTranslation": "พี่น้องเลี้ยงของฉันอาศัยอยู่กับเรา"
+    },
+    {
+      "word": "hermanastro",
+      "translation": "พี่น้องเลี้ยงชาย",
+      "example": "Mi hermanastro estudia en otra ciudad.",
+      "exampleTranslation": "พี่น้องเลี้ยงชายของฉันเรียนอยู่เมืองอื่น"
+    },
+    {
+      "word": "colega",
+      "translation": "เพื่อนร่วมงาน",
+      "example": "Mi colega me ayudó con el proyecto.",
+      "exampleTranslation": "เพื่อนร่วมงานของฉันช่วยทำโปรเจกต์"
+    },
+    {
+      "word": "conocido",
+      "translation": "คนรู้จัก",
+      "example": "Es un conocido, no un amigo cercano.",
+      "exampleTranslation": "เขาเป็นแค่คนรู้จัก ไม่ใช่เพื่อนสนิท"
+    },
+    {
+      "word": "socio",
+      "translation": "หุ้นส่วน",
+      "example": "Mi socio y yo abrimos un negocio.",
+      "exampleTranslation": "ฉันกับหุ้นส่วนเปิดธุรกิจด้วยกัน"
+    },
+    {
+      "word": "ahijada",
+      "translation": "ลูกสาวบุญธรรม",
+      "example": "Mi ahijada cumple años mañana.",
+      "exampleTranslation": "พรุ่งนี้เป็นวันเกิดของลูกสาวบุญธรรมของฉัน"
+    },
+    {
+      "word": "ahijado",
+      "translation": "ลูกชายบุญธรรม",
+      "example": "Mi ahijado quiere ser médico.",
+      "exampleTranslation": "ลูกชายบุญธรรมของฉันอยากเป็นหมอ"
+    },
+    {
+      "word": "madrina",
+      "translation": "แม่ทูนหัว",
+      "example": "Mi madrina me regaló un libro.",
+      "exampleTranslation": "แม่ทูนหัวของฉันให้หนังสือเป็นของขวัญ"
+    },
+    {
+      "word": "padrino",
+      "translation": "พ่อทูนหัว",
+      "example": "Mi padrino vino a mi graduación.",
+      "exampleTranslation": "พ่อทูนหัวของฉันมาร่วมงานรับปริญญา"
+    },
+    {
+      "word": "adoptado",
+      "translation": "ได้รับการอุปการะ",
+      "example": "Mi primo fue adoptado de pequeño.",
+      "exampleTranslation": "ลูกพี่ลูกน้องของฉันเป็นบุตรบุญธรรมตั้งแต่เด็ก"
+    },
+    {
+      "word": "amigo del alma",
+      "translation": "เพื่อนสนิท",
+      "example": "Ella es mi amiga del alma desde la infancia.",
+      "exampleTranslation": "เธอเป็นเพื่อนสนิทของฉันมาตั้งแต่เด็ก"
+    },
+    {
+      "word": "amante",
+      "translation": "คนรัก",
+      "example": "Son amantes desde hace un año.",
+      "exampleTranslation": "พวกเขาเป็นคนรักกันมาปีหนึ่งแล้ว"
+    },
+    {
+      "word": "querido",
+      "translation": "ที่รัก",
+      "example": "Querido, ¿cómo fue tu día?",
+      "exampleTranslation": "ที่รัก วันนี้เป็นยังไงบ้าง?"
+    },
+    {
+      "word": "alma gemela",
+      "translation": "คู่แท้",
+      "example": "Creo que él es mi alma gemela.",
+      "exampleTranslation": "ฉันคิดว่าเขาคือคู่แท้ของฉัน"
+    },
+    {
+      "word": "amorcito",
+      "translation": "หวานใจ",
+      "example": "Amorcito, te extraño mucho.",
+      "exampleTranslation": "หวานใจ ฉันคิดถึงเธอมากเลย"
+    },
+    {
+      "word": "pareja",
+      "translation": "คู่รัก, คู่ชีวิต",
+      "example": "Mi pareja y yo viajamos juntos.",
+      "exampleTranslation": "ฉันกับคู่ชีวิตเดินทางไปด้วยกัน"
+    },
+    {
+      "word": "amor",
+      "translation": "ความรัก",
+      "example": "El amor de mi vida es mi esposa.",
+      "exampleTranslation": "ความรักแห่งชีวิตของฉันคือภรรยา"
+    },
+    {
+      "word": "compromiso",
+      "translation": "การหมั้นหมาย",
+      "example": "Anunciaron su compromiso ayer.",
+      "exampleTranslation": "พวกเขาประกาศหมั้นเมื่อวาน"
+    },
+    {
+      "word": "prometido",
+      "translation": "คู่หมั้นชาย",
+      "example": "Mi prometido trabaja como ingeniero.",
+      "exampleTranslation": "คู่หมั้นของฉันทำงานเป็นวิศวกร"
+    },
+    {
+      "word": "prometida",
+      "translation": "คู่หมั้นหญิง",
+      "example": "Su prometida es muy simpática.",
+      "exampleTranslation": "คู่หมั้นของเขาเป็นคนน่ารักมาก"
+    },
+    {
+      "word": "luna de miel",
+      "translation": "ฮันนีมูน",
+      "example": "Vamos a Bali de luna de miel.",
+      "exampleTranslation": "เราจะไปฮันนีมูนที่บาหลี"
+    },
+    {
+      "word": "matrimonio",
+      "translation": "การแต่งงาน",
+      "example": "Su matrimonio duró treinta años.",
+      "exampleTranslation": "การแต่งงานของพวกเขายาวนานสามสิบปี"
+    },
+    {
+      "word": "Día de los Enamorados",
+      "translation": "วันวาเลนไทน์",
+      "example": "Celebramos el Día de los Enamorados juntos.",
+      "exampleTranslation": "เราฉลองวันวาเลนไทน์ด้วยกัน"
+    },
+    {
+      "word": "boda",
+      "translation": "งานแต่งงาน",
+      "example": "La boda es el próximo sábado.",
+      "exampleTranslation": "งานแต่งงานคือวันเสาร์หน้า"
+    },
+    {
+      "word": "aniversario de boda",
+      "translation": "วันครบรอบแต่งงาน",
+      "example": "Hoy es nuestro aniversario de boda.",
+      "exampleTranslation": "วันนี้เป็นวันครบรอบแต่งงานของเรา"
+    },
+    {
+      "word": "abrazar",
+      "translation": "กอด",
+      "example": "Quiero abrazar a mi madre.",
+      "exampleTranslation": "ฉันอยากกอดแม่ของฉัน"
+    },
+    {
+      "word": "besar",
+      "translation": "จูบ",
+      "example": "Se besaron antes de despedirse.",
+      "exampleTranslation": "พวกเขาจูบกันก่อนแยกจากกัน"
+    },
+    {
+      "word": "querer",
+      "translation": "รัก",
+      "example": "Te quiero mucho, mamá.",
+      "exampleTranslation": "หนูรักแม่มากนะ"
+    },
+    {
+      "word": "amar",
+      "translation": "รัก",
+      "example": "Amo a mi familia sobre todo.",
+      "exampleTranslation": "ฉันรักครอบครัวของฉันมากที่สุด"
+    },
+    {
+      "word": "citar",
+      "translation": "นัดเดท",
+      "example": "Van a citar en el restaurante nuevo.",
+      "exampleTranslation": "พวกเขาจะนัดเดทกันที่ร้านอาหารใหม่"
+    },
+    {
+      "word": "proponer matrimonio",
+      "translation": "ขอแต่งงาน",
+      "example": "Le va a proponer matrimonio esta noche.",
+      "exampleTranslation": "คืนนี้เขาจะขอเธอแต่งงาน"
+    },
+    {
+      "word": "alianza",
+      "translation": "แหวนแต่งงาน",
+      "example": "La alianza es de oro.",
+      "exampleTranslation": "แหวนแต่งงานทำจากทองคำ"
+    },
+    {
+      "word": "comprometer",
+      "translation": "หมั้นหมาย",
+      "example": "Se van a comprometer este verano.",
+      "exampleTranslation": "พวกเขาจะหมั้นกันในฤดูร้อนนี้"
+    },
+    {
+      "word": "casar",
+      "translation": "แต่งงาน",
+      "example": "Se van a casar el año que viene.",
+      "exampleTranslation": "พวกเขาจะแต่งงานกันปีหน้า"
+    },
+    {
+      "word": "enamorado",
+      "translation": "ตกหลุมรัก",
+      "example": "Estoy enamorado de ella.",
+      "exampleTranslation": "ฉันตกหลุมรักเธอ"
+    },
+    {
+      "word": "romántico",
+      "translation": "โรแมนติก, แนวโรแมนติก",
+      "example": "Preparó una cena romántica.",
+      "exampleTranslation": "เขาเตรียมมื้อค่ำสุดโรแมนติก"
+    },
+    {
+      "word": "amable",
+      "translation": "ใจดี",
+      "example": "Mi profesora es muy amable.",
+      "exampleTranslation": "ครูของฉันใจดีมาก"
+    },
+    {
+      "word": "simpático",
+      "translation": "น่ารัก, เป็นมิตร",
+      "example": "Tu hermano es muy simpático.",
+      "exampleTranslation": "พี่ชายของคุณเป็นคนน่ารักมาก"
+    },
+    {
+      "word": "generoso",
+      "translation": "ใจกว้าง",
+      "example": "Mi abuelo era muy generoso.",
+      "exampleTranslation": "ปู่ของฉันเป็นคนใจกว้างมาก"
+    },
+    {
+      "word": "trabajador",
+      "translation": "ขยันทำงาน",
+      "example": "Es un empleado muy trabajador.",
+      "exampleTranslation": "เขาเป็นพนักงานที่ขยันมาก"
+    },
+    {
+      "word": "paciente",
+      "translation": "ใจเย็น, อดทน, ผู้ป่วย",
+      "example": "Los maestros deben ser pacientes.",
+      "exampleTranslation": "ครูควรเป็นคนใจเย็น"
+    },
+    {
+      "word": "responsable",
+      "translation": "มีความรับผิดชอบ",
+      "example": "Ella es muy responsable con su trabajo.",
+      "exampleTranslation": "เธอมีความรับผิดชอบต่องานมาก"
+    },
+    {
+      "word": "valiente",
+      "translation": "กล้าหาญ",
+      "example": "El bombero fue muy valiente.",
+      "exampleTranslation": "นักดับเพลิงกล้าหาญมาก"
+    },
+    {
+      "word": "creativo",
+      "translation": "มีความคิดสร้างสรรค์",
+      "example": "Mi hija es muy creativa.",
+      "exampleTranslation": "ลูกสาวของฉันมีความคิดสร้างสรรค์มาก"
+    },
+    {
+      "word": "serio",
+      "translation": "จริงจัง",
+      "example": "Mi jefe es una persona seria.",
+      "exampleTranslation": "หัวหน้าของฉันเป็นคนจริงจัง"
+    },
+    {
+      "word": "tímido",
+      "translation": "ขี้อาย",
+      "example": "El niño es muy tímido.",
+      "exampleTranslation": "เด็กคนนี้ขี้อายมาก"
+    },
+    {
+      "word": "sensible",
+      "translation": "อ่อนไหว",
+      "example": "Ella es muy sensible con las críticas.",
+      "exampleTranslation": "เธออ่อนไหวกับคำวิจารณ์มาก"
+    },
+    {
+      "word": "curioso",
+      "translation": "ช่างสงสัย",
+      "example": "Los niños son muy curiosos.",
+      "exampleTranslation": "เด็กๆเป็นคนช่างสงสัยมาก"
+    },
+    {
+      "word": "perezoso",
+      "translation": "ขี้เกียจ",
+      "example": "Mi gato es muy perezoso.",
+      "exampleTranslation": "แมวของฉันขี้เกียจมาก"
+    },
+    {
+      "word": "egoísta",
+      "translation": "เห็นแก่ตัว",
+      "example": "No seas egoísta con tus hermanos.",
+      "exampleTranslation": "อย่าเห็นแก่ตัวกับพี่น้องนะ"
+    },
+    {
+      "word": "impaciente",
+      "translation": "ใจร้อน",
+      "example": "Estoy impaciente por verte.",
+      "exampleTranslation": "ฉันใจร้อนอยากเจอเธอ"
+    },
+    {
+      "word": "grosero",
+      "translation": "หยาบคาย",
+      "example": "Fue muy grosero con el camarero.",
+      "exampleTranslation": "เขาหยาบคายกับบริกรมาก"
+    },
+    {
+      "word": "mentiroso",
+      "translation": "ขี้โกหก",
+      "example": "No confío en él, es mentiroso.",
+      "exampleTranslation": "ฉันไม่ไว้ใจเขา เขาขี้โกหก"
+    },
+    {
+      "word": "loco",
+      "translation": "บ้า",
+      "example": "Estás loco si crees eso.",
+      "exampleTranslation": "คุณบ้าไปแล้วถ้าเชื่อแบบนั้น"
+    },
+    {
+      "word": "ansioso",
+      "translation": "กระวนกระวาย",
+      "example": "Estoy ansioso por el resultado.",
+      "exampleTranslation": "ฉันกระวนกระวายใจเรื่องผลลัพธ์"
+    },
+    {
+      "word": "deprimido",
+      "translation": "หดหู่",
+      "example": "Se siente deprimido últimamente.",
+      "exampleTranslation": "เขารู้สึกหดหู่ในช่วงนี้"
+    },
+    {
+      "word": "enfadado",
+      "translation": "โกรธ",
+      "example": "Está enfadado con su hermano.",
+      "exampleTranslation": "เขาโกรธพี่ชายของตัวเอง"
+    },
+    {
+      "word": "regular",
+      "translation": "เฉยๆ",
+      "example": "¿Cómo estás? Regular, gracias.",
+      "exampleTranslation": "เป็นยังไงบ้าง? ก็เฉยๆ ขอบคุณนะ"
+    },
+    {
+      "word": "frustrado",
+      "translation": "หงุดหงิด",
+      "example": "Me siento frustrado con el proyecto.",
+      "exampleTranslation": "ฉันรู้สึกหงุดหงิดกับโปรเจกต์นี้"
+    },
+    {
+      "word": "celoso",
+      "translation": "หึงหวง",
+      "example": "Está celoso de su compañero.",
+      "exampleTranslation": "เขาหึงหวงเพื่อนร่วมงานของตัวเอง"
+    },
+    {
+      "word": "estresado",
+      "translation": "เครียด",
+      "example": "Estoy muy estresado con el examen.",
+      "exampleTranslation": "ฉันเครียดมากเรื่องสอบ"
+    },
+    {
+      "word": "confundido",
+      "translation": "สับสน",
+      "example": "Estoy confundido con las instrucciones.",
+      "exampleTranslation": "ฉันสับสนกับคำแนะนำนี้"
+    },
+    {
+      "word": "solitario",
+      "translation": "เหงา",
+      "example": "Se siente solitario en la ciudad nueva.",
+      "exampleTranslation": "เขารู้สึกเหงาในเมืองใหม่"
+    },
+    {
+      "word": "satisfecho",
+      "translation": "พึงพอใจ",
+      "example": "Estoy satisfecho con mi trabajo.",
+      "exampleTranslation": "ฉันพึงพอใจกับงานของฉัน"
+    },
+    {
+      "word": "reír",
+      "translation": "หัวเราะ",
+      "example": "Nos reímos mucho en la fiesta.",
+      "exampleTranslation": "เราหัวเราะกันมากในงานปาร์ตี้"
+    },
+    {
+      "word": "sonreír",
+      "translation": "ยิ้ม",
+      "example": "Ella siempre sonríe.",
+      "exampleTranslation": "เธอยิ้มอยู่เสมอ"
+    },
+    {
+      "word": "llorar",
+      "translation": "ร้องไห้",
+      "example": "El bebé empezó a llorar.",
+      "exampleTranslation": "เด็กทารกเริ่มร้องไห้"
+    },
+    {
+      "word": "suspirar",
+      "translation": "ถอนหายใจ",
+      "example": "Suspiró antes de responder.",
+      "exampleTranslation": "เธอถอนหายใจก่อนตอบ"
+    },
+    {
+      "word": "optimista",
+      "translation": "มองโลกในแง่ดี",
+      "example": "Soy optimista sobre el futuro.",
+      "exampleTranslation": "ฉันมองโลกในแง่ดีเกี่ยวกับอนาคต"
+    },
+    {
+      "word": "pesimista",
+      "translation": "มองโลกในแง่ร้าย",
+      "example": "No seas tan pesimista.",
+      "exampleTranslation": "อย่ามองโลกในแง่ร้ายขนาดนั้นสิ"
+    },
+    {
+      "word": "animado",
+      "translation": "มีชีวิตชีวา",
+      "example": "La fiesta estuvo muy animada.",
+      "exampleTranslation": "งานปาร์ตี้เต็มไปด้วยความมีชีวิตชีวา"
+    },
+    {
+      "word": "motivado",
+      "translation": "มีแรงจูงใจ",
+      "example": "Estoy motivado para estudiar español.",
+      "exampleTranslation": "ฉันมีแรงจูงใจที่จะเรียนภาษาสเปน"
+    },
+    {
+      "word": "esperanzador",
+      "translation": "ให้ความหวัง",
+      "example": "Las noticias son esperanzadoras.",
+      "exampleTranslation": "ข่าวนี้ให้ความหวังมาก"
+    },
+    {
+      "word": "atractivo",
+      "translation": "มีเสน่ห์",
+      "example": "Es un hombre muy atractivo.",
+      "exampleTranslation": "เขาเป็นผู้ชายที่มีเสน่ห์มาก"
+    },
+    {
+      "word": "bonito",
+      "translation": "สวย",
+      "example": "Tiene una sonrisa bonita.",
+      "exampleTranslation": "เธอมีรอยยิ้มที่สวยงาม"
+    },
+    {
+      "word": "hermoso",
+      "translation": "งดงาม",
+      "example": "El paisaje es hermoso.",
+      "exampleTranslation": "ทิวทัศน์นี้งดงามมาก"
+    },
+    {
+      "word": "guapo",
+      "translation": "หล่อ",
+      "example": "Su novio es muy guapo.",
+      "exampleTranslation": "แฟนของเธอหล่อมาก"
+    },
+    {
+      "word": "precioso",
+      "translation": "สวยงามมาก",
+      "example": "Tu vestido es precioso.",
+      "exampleTranslation": "ชุดของคุณสวยงามมาก"
+    },
+    {
+      "word": "delgado",
+      "translation": "ผอม, บาง",
+      "example": "Ella es alta y delgada.",
+      "exampleTranslation": "เธอตัวสูงและผอม"
+    },
+    {
+      "word": "gordo",
+      "translation": "อ้วน",
+      "example": "El gato está un poco gordo.",
+      "exampleTranslation": "แมวตัวนี้อ้วนไปนิดหน่อย"
+    },
+    {
+      "word": "flaco",
+      "translation": "ผอมมาก",
+      "example": "El perro está muy flaco.",
+      "exampleTranslation": "สุนัขตัวนี้ผอมมาก"
+    },
+    {
+      "word": "esbelto",
+      "translation": "เพรียวบาง",
+      "example": "Tiene una figura esbelta.",
+      "exampleTranslation": "เธอมีรูปร่างเพรียวบาง"
+    },
+    {
+      "word": "musculoso",
+      "translation": "มีกล้ามเนื้อ",
+      "example": "El atleta es muy musculoso.",
+      "exampleTranslation": "นักกีฬาคนนี้มีกล้ามเนื้อมาก"
+    },
+    {
+      "word": "fuerte",
+      "translation": "แข็งแรง",
+      "example": "Mi padre es muy fuerte.",
+      "exampleTranslation": "พ่อของฉันแข็งแรงมาก"
+    },
+    {
+      "word": "liso",
+      "translation": "ตรง(ผม), สีพื้น, เรียบ",
+      "example": "Tengo el pelo liso.",
+      "exampleTranslation": "ฉันมีผมตรง"
+    },
+    {
+      "word": "ondulado",
+      "translation": "หยักศก",
+      "example": "Ella tiene el pelo ondulado.",
+      "exampleTranslation": "เธอมีผมหยักศก"
+    },
+    {
+      "word": "rizado",
+      "translation": "หยิกฟู",
+      "example": "Su pelo es muy rizado.",
+      "exampleTranslation": "ผมของเธอหยิกฟูมาก"
+    },
+    {
+      "word": "teñido",
+      "translation": "ย้อมสี",
+      "example": "Tiene el pelo teñido de rojo.",
+      "exampleTranslation": "เขาย้อมผมเป็นสีแดง"
+    },
+    {
+      "word": "calvo",
+      "translation": "หัวล้าน",
+      "example": "Mi abuelo es calvo.",
+      "exampleTranslation": "ปู่ของฉันหัวล้าน"
+    },
+    {
+      "word": "rubio",
+      "translation": "ผมบลอนด์",
+      "example": "Su hija es rubia.",
+      "exampleTranslation": "ลูกสาวของเธอมีผมสีบลอนด์"
+    },
+    {
+      "word": "pelirrojo",
+      "translation": "ผมแดง",
+      "example": "Mi amigo es pelirrojo.",
+      "exampleTranslation": "เพื่อนของฉันมีผมสีแดง"
+    },
+    {
+      "word": "moreno",
+      "translation": "ผมดำ, ผิวคล้ำ",
+      "example": "Su hermano es moreno.",
+      "exampleTranslation": "พี่ชายของเธอมีผมสีดำ"
+    },
+    {
+      "word": "arrugado",
+      "translation": "มีริ้วรอย",
+      "example": "Su cara está muy arrugada.",
+      "exampleTranslation": "ใบหน้าของเขามีริ้วรอยเยอะมาก"
+    },
+    {
+      "word": "barba",
+      "translation": "เครา",
+      "example": "Mi padre tiene barba.",
+      "exampleTranslation": "พ่อของฉันไว้เครา"
+    },
+    {
+      "word": "bigote",
+      "translation": "หนวด",
+      "example": "Tiene un bigote grande.",
+      "exampleTranslation": "เขาไว้หนวดใหญ่"
+    },
+    {
+      "word": "peca",
+      "translation": "กระ",
+      "example": "Tiene pecas en la nariz.",
+      "exampleTranslation": "เธอมีกระที่จมูก"
+    },
+    {
+      "word": "sudadera",
+      "translation": "เสื้อกันหนาวมีฮู้ด",
+      "example": "Llevo una sudadera cómoda.",
+      "exampleTranslation": "ฉันใส่เสื้อฮู้ดที่สวมใส่สบาย"
+    },
+    {
+      "word": "blusa",
+      "translation": "เสื้อเบลาส์",
+      "example": "Compré una blusa nueva.",
+      "exampleTranslation": "ฉันซื้อเสื้อเบลาส์ตัวใหม่"
+    },
+    {
+      "word": "traje",
+      "translation": "สูท",
+      "example": "Lleva traje para la reunión.",
+      "exampleTranslation": "เขาใส่สูทไปประชุม"
+    },
+    {
+      "word": "impermeable",
+      "translation": "เสื้อกันฝน",
+      "example": "Necesito un impermeable para hoy.",
+      "exampleTranslation": "วันนี้ฉันต้องการเสื้อกันฝน"
+    },
+    {
+      "word": "pijama",
+      "translation": "ชุดนอน",
+      "example": "Me pongo el pijama antes de dormir.",
+      "exampleTranslation": "ฉันใส่ชุดนอนก่อนเข้านอน"
+    },
+    {
+      "word": "media",
+      "translation": "ถุงน่อง",
+      "example": "Lleva medias negras.",
+      "exampleTranslation": "เธอใส่ถุงน่องสีดำ"
+    },
+    {
+      "word": "camisón",
+      "translation": "ชุดนอนยาว",
+      "example": "Compré un camisón de seda.",
+      "exampleTranslation": "ฉันซื้อชุดนอนยาวผ้าไหม"
+    },
+    {
+      "word": "bañador",
+      "translation": "ชุดว่ายน้ำ",
+      "example": "Necesito un bañador para la playa.",
+      "exampleTranslation": "ฉันต้องการชุดว่ายน้ำไปเที่ยวชายหาด"
+    },
+    {
+      "word": "calzoncillo",
+      "translation": "กางเกงในชาย",
+      "example": "Compró calzoncillos nuevos.",
+      "exampleTranslation": "เขาซื้อกางเกงในตัวใหม่"
+    },
+    {
+      "word": "sostén",
+      "translation": "ยกทรง",
+      "example": "Necesita un sostén nuevo.",
+      "exampleTranslation": "เธอต้องการยกทรงตัวใหม่"
+    },
+    {
+      "word": "biquini",
+      "translation": "บิกินี",
+      "example": "Lleva un biquini azul.",
+      "exampleTranslation": "เธอใส่บิกินีสีฟ้า"
+    },
+    {
+      "word": "bufanda",
+      "translation": "ผ้าพันคอ",
+      "example": "Uso bufanda cuando hace frío.",
+      "exampleTranslation": "ฉันใส่ผ้าพันคอตอนอากาศหนาว"
+    },
+    {
+      "word": "guante",
+      "translation": "ถุงมือ",
+      "example": "Necesito guantes de invierno.",
+      "exampleTranslation": "ฉันต้องการถุงมือกันหนาว"
+    },
+    {
+      "word": "corbata",
+      "translation": "เนคไท",
+      "example": "Lleva corbata al trabajo.",
+      "exampleTranslation": "เขาผูกเนคไทไปทำงาน"
+    },
+    {
+      "word": "pañuelo",
+      "translation": "ผ้าเช็ดหน้า",
+      "example": "Siempre lleva un pañuelo.",
+      "exampleTranslation": "เธอพกผ้าเช็ดหน้าติดตัวเสมอ"
+    },
+    {
+      "word": "gafas",
+      "translation": "แว่นตา",
+      "example": "Necesito gafas para leer.",
+      "exampleTranslation": "ฉันต้องใส่แว่นตาเวลาอ่านหนังสือ"
+    },
+    {
+      "word": "cartera",
+      "translation": "กระเป๋าสตางค์",
+      "example": "Perdí mi cartera en el metro.",
+      "exampleTranslation": "ฉันทำกระเป๋าสตางค์หายบนรถไฟใต้ดิน"
+    },
+    {
+      "word": "collar",
+      "translation": "สร้อยคอ",
+      "example": "Le regalé un collar de plata.",
+      "exampleTranslation": "ฉันให้สร้อยคอเงินเป็นของขวัญ"
+    },
+    {
+      "word": "pulsera",
+      "translation": "กำไลข้อมือ",
+      "example": "Lleva una pulsera de oro.",
+      "exampleTranslation": "เธอใส่กำไลข้อมือทองคำ"
+    },
+    {
+      "word": "anillo",
+      "translation": "แหวน",
+      "example": "Le dio un anillo de compromiso.",
+      "exampleTranslation": "เขาให้แหวนหมั้นเธอ"
+    },
+    {
+      "word": "probador",
+      "translation": "ห้องลองเสื้อ",
+      "example": "El probador está al fondo.",
+      "exampleTranslation": "ห้องลองเสื้ออยู่ด้านหลังสุด"
+    },
+    {
+      "word": "talla",
+      "translation": "ขนาด(เสื้อผ้า)",
+      "example": "¿Qué talla usas?",
+      "exampleTranslation": "คุณใส่ไซส์อะไร?"
+    },
+    {
+      "word": "aro",
+      "translation": "ต่างหูห่วง",
+      "example": "Lleva aros dorados.",
+      "exampleTranslation": "เธอใส่ต่างหูห่วงทองคำ"
+    },
+    {
+      "word": "etiqueta",
+      "translation": "ป้ายราคา, ป้ายเสื้อ",
+      "example": "Revisa la etiqueta antes de comprar.",
+      "exampleTranslation": "ตรวจดูป้ายก่อนซื้อ"
+    },
+    {
+      "word": "elegante",
+      "translation": "หรูหรา",
+      "example": "Lleva un vestido muy elegante.",
+      "exampleTranslation": "เธอใส่ชุดที่หรูหรามาก"
+    },
+    {
+      "word": "moderno",
+      "translation": "ทันสมัย",
+      "example": "Su estilo es muy moderno.",
+      "exampleTranslation": "สไตล์ของเธอทันสมัยมาก"
+    },
+    {
+      "word": "clásico",
+      "translation": "คลาสสิก",
+      "example": "Prefiero un look clásico.",
+      "exampleTranslation": "ฉันชอบสไตล์คลาสสิกมากกว่า"
+    },
+    {
+      "word": "informal",
+      "translation": "ลำลอง",
+      "example": "Voy a la fiesta con ropa informal.",
+      "exampleTranslation": "ฉันไปงานปาร์ตี้ด้วยชุดลำลอง"
+    },
+    {
+      "word": "anticuado",
+      "translation": "ล้าสมัย",
+      "example": "Ese peinado es anticuado.",
+      "exampleTranslation": "ทรงผมนั้นล้าสมัยไปแล้ว"
+    },
+    {
+      "word": "cómodo",
+      "translation": "สบาย",
+      "example": "Estos zapatos son muy cómodos.",
+      "exampleTranslation": "รองเท้าคู่นี้สวมใส่สบายมาก"
+    },
+    {
+      "word": "deportivo",
+      "translation": "สปอร์ต",
+      "example": "Lleva ropa deportiva para correr.",
+      "exampleTranslation": "เขาใส่ชุดสปอร์ตไปวิ่ง"
+    },
+    {
+      "word": "apretado",
+      "translation": "คับ, รัด",
+      "example": "Este pantalón me queda apretado.",
+      "exampleTranslation": "กางเกงตัวนี้คับฉันไปหน่อย"
+    },
+    {
+      "word": "ancho",
+      "translation": "หลวม, กว้าง",
+      "example": "Prefiero una camisa ancha.",
+      "exampleTranslation": "ฉันชอบเสื้อเชิ้ตที่หลวมมากกว่า"
+    },
+    {
+      "word": "raya",
+      "translation": "ลายทาง",
+      "example": "Me gusta la camisa de rayas.",
+      "exampleTranslation": "ฉันชอบเสื้อลายทาง"
+    },
+    {
+      "word": "lunar",
+      "translation": "ลายจุด",
+      "example": "Compró un vestido de lunares.",
+      "exampleTranslation": "เธอซื้อชุดลายจุด"
+    },
+    {
+      "word": "algodón",
+      "translation": "ผ้าฝ้าย",
+      "example": "Esta camisa es de algodón.",
+      "exampleTranslation": "เสื้อตัวนี้ทำจากผ้าฝ้าย"
+    },
+    {
+      "word": "lana",
+      "translation": "ขนสัตว์",
+      "example": "El suéter es de lana.",
+      "exampleTranslation": "เสื้อกันหนาวทำจากขนสัตว์"
+    },
+    {
+      "word": "cuero",
+      "translation": "หนัง",
+      "example": "Su chaqueta es de cuero.",
+      "exampleTranslation": "แจ็คเก็ตของเขาทำจากหนัง"
+    },
+    {
+      "word": "seda",
+      "translation": "ผ้าไหม",
+      "example": "El pañuelo es de seda.",
+      "exampleTranslation": "ผ้าพันคอทำจากผ้าไหม"
+    },
+    {
+      "word": "pensar",
+      "translation": "คิด, มีความเห็น",
+      "example": "Pienso mucho antes de decidir.",
+      "exampleTranslation": "ฉันคิดเยอะก่อนตัดสินใจ"
+    },
+    {
+      "word": "conocer",
+      "translation": "รู้จัก",
+      "example": "Conozco bien esta ciudad.",
+      "exampleTranslation": "ฉันรู้จักเมืองนี้ดี"
+    },
+    {
+      "word": "considerar",
+      "translation": "พิจารณา",
+      "example": "Voy a considerar tu opinión.",
+      "exampleTranslation": "ฉันจะพิจารณาความเห็นของคุณ"
+    },
+    {
+      "word": "recordar",
+      "translation": "จำได้",
+      "example": "No recuerdo su nombre.",
+      "exampleTranslation": "ฉันจำชื่อเขาไม่ได้"
+    },
+    {
+      "word": "olvidar",
+      "translation": "ลืม",
+      "example": "Olvidé las llaves en casa.",
+      "exampleTranslation": "ฉันลืมกุญแจไว้ที่บ้าน"
+    },
+    {
+      "word": "entender",
+      "translation": "เข้าใจ",
+      "example": "No entiendo esta lección.",
+      "exampleTranslation": "ฉันไม่เข้าใจบทเรียนนี้"
+    },
+    {
+      "word": "aprender",
+      "translation": "เรียนรู้",
+      "example": "Quiero aprender español rápido.",
+      "exampleTranslation": "ฉันอยากเรียนรู้ภาษาสเปนให้เร็ว"
+    },
+    {
+      "word": "comprender",
+      "translation": "เข้าใจอย่างลึกซึ้ง",
+      "example": "Comprendo tu situación.",
+      "exampleTranslation": "ฉันเข้าใจสถานการณ์ของคุณ"
+    },
+    {
+      "word": "decidir",
+      "translation": "ตัดสินใจ",
+      "example": "No puedo decidir qué comer.",
+      "exampleTranslation": "ฉันตัดสินใจไม่ได้ว่าจะกินอะไร"
+    },
+    {
+      "word": "memoria",
+      "translation": "ความจำ",
+      "example": "Tiene muy buena memoria.",
+      "exampleTranslation": "เขามีความจำที่ดีมาก"
+    },
+    {
+      "word": "atención",
+      "translation": "ความตั้งใจ",
+      "example": "Presta atención en clase.",
+      "exampleTranslation": "ตั้งใจฟังในห้องเรียนด้วยนะ"
+    },
+    {
+      "word": "inteligencia",
+      "translation": "สติปัญญา",
+      "example": "Su inteligencia es impresionante.",
+      "exampleTranslation": "สติปัญญาของเขาน่าประทับใจมาก"
+    },
+    {
+      "word": "conocimiento",
+      "translation": "ความรู้",
+      "example": "Tiene mucho conocimiento sobre historia.",
+      "exampleTranslation": "เขามีความรู้เรื่องประวัติศาสตร์เยอะมาก"
+    },
+    {
+      "word": "idea",
+      "translation": "ความคิด",
+      "example": "Tengo una idea para el proyecto.",
+      "exampleTranslation": "ฉันมีไอเดียสำหรับโปรเจกต์นี้"
+    },
+    {
+      "word": "imaginación",
+      "translation": "จินตนาการ",
+      "example": "Los niños tienen mucha imaginación.",
+      "exampleTranslation": "เด็กๆมีจินตนาการมากมาย"
+    },
+    {
+      "word": "creatividad",
+      "translation": "ความคิดสร้างสรรค์",
+      "example": "Este trabajo requiere creatividad.",
+      "exampleTranslation": "งานนี้ต้องใช้ความคิดสร้างสรรค์"
+    },
+    {
+      "word": "llamar",
+      "translation": "โทรหา",
+      "example": "Te voy a llamar esta noche.",
+      "exampleTranslation": "คืนนี้ฉันจะโทรหาคุณ"
+    },
+    {
+      "word": "contestar",
+      "translation": "ตอบรับ",
+      "example": "No contestó mi mensaje.",
+      "exampleTranslation": "เขาไม่ตอบข้อความของฉัน"
+    },
+    {
+      "word": "hablar",
+      "translation": "พูดคุย",
+      "example": "Hablamos por teléfono ayer.",
+      "exampleTranslation": "เมื่อวานเราคุยกันทางโทรศัพท์"
+    },
+    {
+      "word": "contar",
+      "translation": "เล่า, นับ",
+      "example": "Cuéntame sobre tu viaje.",
+      "exampleTranslation": "เล่าเรื่องทริปของคุณให้ฟังหน่อย"
+    },
+    {
+      "word": "decir",
+      "translation": "พูดว่า",
+      "example": "No sé qué decir.",
+      "exampleTranslation": "ฉันไม่รู้จะพูดอะไร"
+    },
+    {
+      "word": "comunicar",
+      "translation": "สื่อสาร",
+      "example": "Es importante comunicar bien.",
+      "exampleTranslation": "การสื่อสารที่ดีสำคัญมาก"
+    },
+    {
+      "word": "explicar",
+      "translation": "อธิบาย",
+      "example": "¿Puedes explicarme esta palabra?",
+      "exampleTranslation": "ช่วยอธิบายคำนี้ให้ฉันฟังหน่อย"
+    },
+    {
+      "word": "preguntar",
+      "translation": "ถาม",
+      "example": "Voy a preguntar al profesor.",
+      "exampleTranslation": "ฉันจะไปถามอาจารย์"
+    },
+    {
+      "word": "responder",
+      "translation": "ตอบ",
+      "example": "Respondió muy rápido.",
+      "exampleTranslation": "เขาตอบเร็วมาก"
+    },
+    {
+      "word": "conversación",
+      "translation": "บทสนทนา",
+      "example": "Tuvimos una conversación larga.",
+      "exampleTranslation": "เรามีบทสนทนาที่ยาวมาก"
+    },
+    {
+      "word": "recibir",
+      "translation": "ได้รับ",
+      "example": "Recibí tu carta ayer.",
+      "exampleTranslation": "เมื่อวานฉันได้รับจดหมายของคุณ"
+    },
+    {
+      "word": "mandar",
+      "translation": "ส่ง",
+      "example": "Voy a mandar el paquete mañana.",
+      "exampleTranslation": "พรุ่งนี้ฉันจะส่งพัสดุ"
+    },
+    {
+      "word": "traducir",
+      "translation": "แปล",
+      "example": "¿Puedes traducir esta frase?",
+      "exampleTranslation": "ช่วยแปลประโยคนี้ให้หน่อย"
+    },
+    {
+      "word": "texto",
+      "translation": "ข้อความ",
+      "example": "Le mandé un texto por la mañana.",
+      "exampleTranslation": "ตอนเช้าฉันส่งข้อความให้เขา"
+    },
+    {
+      "word": "mensaje",
+      "translation": "ข้อความ",
+      "example": "Tengo un mensaje de mi jefe.",
+      "exampleTranslation": "ฉันมีข้อความจากหัวหน้า"
+    },
+    {
+      "word": "carta",
+      "translation": "จดหมาย",
+      "example": "Escribí una carta a mi abuela.",
+      "exampleTranslation": "ฉันเขียนจดหมายถึงย่าของฉัน"
+    },
+    {
+      "word": "creer",
+      "translation": "เชื่อ",
+      "example": "No creo esa historia.",
+      "exampleTranslation": "ฉันไม่เชื่อเรื่องนั้น"
+    },
+    {
+      "word": "opinar",
+      "translation": "แสดงความเห็น",
+      "example": "Prefiero no opinar sobre eso.",
+      "exampleTranslation": "ฉันขอไม่แสดงความเห็นเรื่องนั้นดีกว่า"
+    },
+    {
+      "word": "preferir",
+      "translation": "ชอบมากกว่า",
+      "example": "Prefiero el té al café.",
+      "exampleTranslation": "ฉันชอบชามากกว่ากาแฟ"
+    },
+    {
+      "word": "disfrutar",
+      "translation": "สนุกกับ",
+      "example": "Disfruto mucho de la música.",
+      "exampleTranslation": "ฉันสนุกกับการฟังเพลงมาก"
+    },
+    {
+      "word": "elegir",
+      "translation": "เลือก",
+      "example": "Tengo que elegir un regalo.",
+      "exampleTranslation": "ฉันต้องเลือกของขวัญสักอย่าง"
+    },
+    {
+      "word": "aprobar",
+      "translation": "เห็นด้วย, อนุมัติ, สอบผ่าน",
+      "example": "Mis padres aprobaron mi decisión.",
+      "exampleTranslation": "พ่อแม่ของฉันเห็นด้วยกับการตัดสินใจของฉัน"
+    },
+    {
+      "word": "encantar",
+      "translation": "ชอบมาก",
+      "example": "Me encanta esta canción.",
+      "exampleTranslation": "ฉันชอบเพลงนี้มาก"
+    },
+    {
+      "word": "odiar",
+      "translation": "เกลียด",
+      "example": "Odio levantarme temprano.",
+      "exampleTranslation": "ฉันเกลียดการตื่นเช้า"
+    },
+    {
+      "word": "opinión",
+      "translation": "ความคิดเห็น",
+      "example": "Respeto tu opinión.",
+      "exampleTranslation": "ฉันเคารพความคิดเห็นของคุณ"
+    },
+    {
+      "word": "preferencia",
+      "translation": "ความชอบส่วนตัว",
+      "example": "Mi preferencia es viajar en verano.",
+      "exampleTranslation": "ความชอบส่วนตัวของฉันคือเที่ยวในหน้าร้อน"
+    },
+    {
+      "word": "favorito",
+      "translation": "ที่ชอบที่สุด",
+      "example": "Este es mi libro favorito.",
+      "exampleTranslation": "นี่คือหนังสือที่ฉันชอบที่สุด"
+    },
+    {
+      "word": "acuerdo",
+      "translation": "ข้อตกลง",
+      "example": "Llegamos a un acuerdo.",
+      "exampleTranslation": "เราตกลงกันได้แล้ว"
+    },
+    {
+      "word": "argumento",
+      "translation": "เหตุผล, การถกเถียง",
+      "example": "Su argumento es muy claro.",
+      "exampleTranslation": "เหตุผลของเขาชัดเจนมาก"
+    },
+    {
+      "word": "duda",
+      "translation": "ความสงสัย",
+      "example": "Tengo una duda sobre la tarea.",
+      "exampleTranslation": "ฉันมีข้อสงสัยเกี่ยวกับการบ้าน"
+    },
+    {
+      "word": "[estar] de acuerdo",
+      "translation": "เห็นด้วย",
+      "example": "Estoy de acuerdo contigo.",
+      "exampleTranslation": "ฉันเห็นด้วยกับคุณ"
+    },
+    {
+      "word": "garaje",
+      "translation": "โรงจอดรถ",
+      "example": "El coche está en el garaje.",
+      "exampleTranslation": "รถอยู่ในโรงจอดรถ"
+    },
+    {
+      "word": "pasillo",
+      "translation": "ทางเดิน",
+      "example": "Hay una lámpara en el pasillo.",
+      "exampleTranslation": "มีโคมไฟอยู่ในทางเดิน"
+    },
+    {
+      "word": "ascensor",
+      "translation": "ลิฟต์",
+      "example": "El ascensor no funciona hoy.",
+      "exampleTranslation": "วันนี้ลิฟต์เสีย"
+    },
+    {
+      "word": "terraza",
+      "translation": "ระเบียง, ลาน",
+      "example": "Cenamos en la terraza.",
+      "exampleTranslation": "เรากินข้าวเย็นที่ระเบียง"
+    },
+    {
+      "word": "cómoda",
+      "translation": "ตู้ลิ้นชัก",
+      "example": "Guardo mi ropa en la cómoda.",
+      "exampleTranslation": "ฉันเก็บเสื้อผ้าไว้ในตู้ลิ้นชัก"
+    },
+    {
+      "word": "lámpara",
+      "translation": "โคมไฟ",
+      "example": "Enciende la lámpara, por favor.",
+      "exampleTranslation": "ช่วยเปิดโคมไฟหน่อย"
+    },
+    {
+      "word": "cortina",
+      "translation": "ผ้าม่าน",
+      "example": "Cierra la cortina, hay mucho sol.",
+      "exampleTranslation": "ปิดผ้าม่านหน่อย แดดแรงมาก"
+    },
+    {
+      "word": "estantería",
+      "translation": "ชั้นวางของ",
+      "example": "Los libros están en la estantería.",
+      "exampleTranslation": "หนังสืออยู่บนชั้นวางของ"
+    },
+    {
+      "word": "escritorio",
+      "translation": "โต๊ะทำงาน",
+      "example": "Trabajo en mi escritorio todo el día.",
+      "exampleTranslation": "ฉันทำงานที่โต๊ะทำงานทั้งวัน"
+    },
+    {
+      "word": "cojín",
+      "translation": "หมอนอิง",
+      "example": "El sofá tiene muchos cojines.",
+      "exampleTranslation": "โซฟามีหมอนอิงเยอะมาก"
+    },
+    {
+      "word": "edredón",
+      "translation": "ผ้านวม",
+      "example": "Necesito lavar el edredón.",
+      "exampleTranslation": "ฉันต้องซักผ้านวม"
+    },
+    {
+      "word": "lavavajillas",
+      "translation": "เครื่องล้างจาน",
+      "example": "Pongo los platos en el lavavajillas.",
+      "exampleTranslation": "ฉันใส่จานไว้ในเครื่องล้างจาน"
+    },
+    {
+      "word": "ventilador",
+      "translation": "พัดลม",
+      "example": "Enciende el ventilador, hace calor.",
+      "exampleTranslation": "เปิดพัดลมหน่อย อากาศร้อน"
+    },
+    {
+      "word": "aspiradora",
+      "translation": "เครื่องดูดฝุ่น",
+      "example": "Uso la aspiradora los sábados.",
+      "exampleTranslation": "ฉันใช้เครื่องดูดฝุ่นทุกวันเสาร์"
+    },
+    {
+      "word": "secador de pelo",
+      "translation": "ไดร์เป่าผม",
+      "example": "Uso el secador de pelo cada mañana.",
+      "exampleTranslation": "ฉันใช้ไดร์เป่าผมทุกเช้า"
+    },
+    {
+      "word": "batidora",
+      "translation": "เครื่องปั่น",
+      "example": "Hago batidos con la batidora.",
+      "exampleTranslation": "ฉันทำสมูทตี้ด้วยเครื่องปั่น"
+    },
+    {
+      "word": "cafetera",
+      "translation": "เครื่องชงกาแฟ",
+      "example": "La cafetera está en la cocina.",
+      "exampleTranslation": "เครื่องชงกาแฟอยู่ในครัว"
+    },
+    {
+      "word": "olla",
+      "translation": "หม้อ",
+      "example": "Pon agua en la olla.",
+      "exampleTranslation": "ใส่น้ำลงในหม้อ"
+    },
+    {
+      "word": "sartén",
+      "translation": "กระทะ",
+      "example": "Frío el pescado en la sartén.",
+      "exampleTranslation": "ฉันทอดปลาในกระทะ"
+    },
+    {
+      "word": "escoba",
+      "translation": "ไม้กวาด",
+      "example": "Barro el suelo con la escoba.",
+      "exampleTranslation": "ฉันกวาดพื้นด้วยไม้กวาด"
+    },
+    {
+      "word": "fregona",
+      "translation": "ไม้ถูพื้น",
+      "example": "Limpio el suelo con la fregona.",
+      "exampleTranslation": "ฉันถูพื้นด้วยไม้ถูพื้น"
+    },
+    {
+      "word": "cubo",
+      "translation": "ถัง",
+      "example": "Lleno el cubo de agua.",
+      "exampleTranslation": "ฉันเติมน้ำใส่ถัง"
+    },
+    {
+      "word": "mandil",
+      "translation": "ผ้ากันเปื้อน",
+      "example": "Me pongo el mandil para cocinar.",
+      "exampleTranslation": "ฉันใส่ผ้ากันเปื้อนตอนทำอาหาร"
+    },
+    {
+      "word": "recogedor",
+      "translation": "ที่โกยผง",
+      "example": "Necesito el recogedor y la escoba.",
+      "exampleTranslation": "ฉันต้องการที่โกยผงกับไม้กวาด"
+    },
+    {
+      "word": "albóndiga",
+      "translation": "ลูกชิ้นเนื้อ",
+      "example": "Mi madre hace albóndigas deliciosas.",
+      "exampleTranslation": "แม่ของฉันทำลูกชิ้นเนื้อที่แสนอร่อย"
+    },
+    {
+      "word": "perrito caliente",
+      "translation": "ฮอทดอก",
+      "example": "Comimos un perrito caliente en la calle.",
+      "exampleTranslation": "เรากินฮอทดอกที่ริมถนน"
+    },
+    {
+      "word": "cocido",
+      "translation": "สตูว์ต้ม",
+      "example": "El cocido está listo para comer.",
+      "exampleTranslation": "สตูว์พร้อมกินแล้ว"
+    },
+    {
+      "word": "fabada asturiana",
+      "translation": "สตูว์ถั่วแบบอัสตูเรียส",
+      "example": "La fabada asturiana es un plato típico.",
+      "exampleTranslation": "สตูว์ถั่วแบบอัสตูเรียสเป็นอาหารพื้นเมือง"
+    },
+    {
+      "word": "rabo de toro",
+      "translation": "สตูว์หางวัว",
+      "example": "El rabo de toro tarda horas en cocinarse.",
+      "exampleTranslation": "สตูว์หางวัวใช้เวลาปรุงหลายชั่วโมง"
+    },
+    {
+      "word": "escabeche",
+      "translation": "อาหารดอง",
+      "example": "El pescado en escabeche está sabroso.",
+      "exampleTranslation": "ปลาดองรสชาติอร่อยมาก"
+    },
+    {
+      "word": "pollo al ajillo",
+      "translation": "ไก่ผัดกระเทียม",
+      "example": "Pedí pollo al ajillo en el restaurante.",
+      "exampleTranslation": "ฉันสั่งไก่ผัดกระเทียมที่ร้านอาหาร"
+    },
+    {
+      "word": "patatas bravas",
+      "translation": "มันฝรั่งซอสเผ็ด",
+      "example": "Las patatas bravas son picantes.",
+      "exampleTranslation": "มันฝรั่งซอสเผ็ดรสชาติเผ็ดมาก"
+    },
+    {
+      "word": "postre",
+      "translation": "ของหวาน",
+      "example": "¿Qué postre quieres pedir?",
+      "exampleTranslation": "คุณอยากสั่งของหวานอะไร?"
+    },
+    {
+      "word": "hervir",
+      "translation": "ต้ม",
+      "example": "Voy a hervir el agua.",
+      "exampleTranslation": "ฉันจะต้มน้ำ"
+    },
+    {
+      "word": "freír",
+      "translation": "ทอด",
+      "example": "Voy a freír el pescado.",
+      "exampleTranslation": "ฉันจะทอดปลา"
+    },
+    {
+      "word": "asar",
+      "translation": "ย่าง",
+      "example": "Vamos a asar carne el domingo.",
+      "exampleTranslation": "วันอาทิตย์เราจะย่างเนื้อกัน"
+    },
+    {
+      "word": "hornear",
+      "translation": "อบ",
+      "example": "Voy a hornear un pastel.",
+      "exampleTranslation": "ฉันจะอบเค้ก"
+    },
+    {
+      "word": "pelar",
+      "translation": "ปอกเปลือก",
+      "example": "Necesito pelar las papas.",
+      "exampleTranslation": "ฉันต้องปอกเปลือกมันฝรั่ง"
+    },
+    {
+      "word": "rallar",
+      "translation": "ขูด",
+      "example": "Voy a rallar el queso.",
+      "exampleTranslation": "ฉันจะขูดชีส"
+    },
+    {
+      "word": "picar",
+      "translation": "สับ, หั่น",
+      "example": "Voy a picar la cebolla.",
+      "exampleTranslation": "ฉันจะสับหอมใหญ่"
+    },
+    {
+      "word": "marinar",
+      "translation": "หมัก",
+      "example": "Voy a marinar el pollo.",
+      "exampleTranslation": "ฉันจะหมักไก่"
+    },
+    {
+      "word": "moler",
+      "translation": "บด",
+      "example": "Necesito moler el café.",
+      "exampleTranslation": "ฉันต้องบดกาแฟ"
+    },
+    {
+      "word": "sazonar",
+      "translation": "ปรุงรส",
+      "example": "Voy a sazonar la carne.",
+      "exampleTranslation": "ฉันจะปรุงรสเนื้อ"
+    },
+    {
+      "word": "colar",
+      "translation": "กรอง",
+      "example": "Voy a colar la sopa.",
+      "exampleTranslation": "ฉันจะกรองซุป"
+    },
+    {
+      "word": "tostar",
+      "translation": "ปิ้ง",
+      "example": "Voy a tostar el pan.",
+      "exampleTranslation": "ฉันจะปิ้งขนมปัง"
+    },
+    {
+      "word": "mezclar",
+      "translation": "ผสม",
+      "example": "Voy a mezclar los ingredientes.",
+      "exampleTranslation": "ฉันจะผสมส่วนผสม"
+    },
+    {
+      "word": "añadir",
+      "translation": "เติม",
+      "example": "Voy a añadir un poco de sal.",
+      "exampleTranslation": "ฉันจะเติมเกลือนิดหน่อย"
+    },
+    {
+      "word": "preparar",
+      "translation": "เตรียม",
+      "example": "Voy a preparar la cena.",
+      "exampleTranslation": "ฉันจะเตรียมอาหารเย็น"
+    },
+    {
+      "word": "merienda",
+      "translation": "ของว่างตอนบ่าย",
+      "example": "Tomamos la merienda a las cinco.",
+      "exampleTranslation": "เรากินของว่างตอนบ่ายห้าโมง"
+    },
+    {
+      "word": "aperitivo",
+      "translation": "อาหารเรียกน้ำย่อย",
+      "example": "Pedimos un aperitivo antes de la cena.",
+      "exampleTranslation": "เราสั่งอาหารเรียกน้ำย่อยก่อนมื้อเย็น"
+    },
+    {
+      "word": "calamar",
+      "translation": "ปลาหมึก",
+      "example": "El calamar frito es delicioso.",
+      "exampleTranslation": "ปลาหมึกทอดอร่อยมาก"
+    },
+    {
+      "word": "jamón ibérico",
+      "translation": "แฮมอีเบริโก",
+      "example": "El jamón ibérico es muy caro.",
+      "exampleTranslation": "แฮมอีเบริโกราคาแพงมาก"
+    },
+    {
+      "word": "banderillas",
+      "translation": "อาหารไม้เสียบ",
+      "example": "Pedimos banderillas de aceitunas.",
+      "exampleTranslation": "เราสั่งอาหารไม้เสียบมะกอก"
+    },
+    {
+      "word": "croqueta",
+      "translation": "โครเก็ต",
+      "example": "Las croquetas de jamón son mis favoritas.",
+      "exampleTranslation": "โครเก็ตแฮมเป็นสิ่งที่ฉันชอบที่สุด"
+    },
+    {
+      "word": "empanada",
+      "translation": "เอมปานาดา",
+      "example": "Compramos empanadas de carne.",
+      "exampleTranslation": "เราซื้อเอมปานาดาไส้เนื้อ"
+    },
+    {
+      "word": "batido",
+      "translation": "มิลค์เชค",
+      "example": "Quiero un batido de chocolate.",
+      "exampleTranslation": "ฉันขอมิลค์เชครสช็อกโกแลต"
+    },
+    {
+      "word": "infusión",
+      "translation": "ชาสมุนไพร",
+      "example": "Tomo una infusión antes de dormir.",
+      "exampleTranslation": "ฉันดื่มชาสมุนไพรก่อนนอน"
+    },
+    {
+      "word": "chocolate caliente",
+      "translation": "ช็อกโกแลตร้อน",
+      "example": "Bebo chocolate caliente en invierno.",
+      "exampleTranslation": "ฉันดื่มช็อกโกแลตร้อนในฤดูหนาว"
+    },
+    {
+      "word": "whisky",
+      "translation": "วิสกี้",
+      "example": "Mi padre bebe whisky de vez en cuando.",
+      "exampleTranslation": "พ่อของฉันดื่มวิสกี้เป็นครั้งคราว"
+    },
+    {
+      "word": "ginebra",
+      "translation": "จิน",
+      "example": "El cóctel lleva ginebra.",
+      "exampleTranslation": "ค็อกเทลนี้มีจินเป็นส่วนผสม"
+    },
+    {
+      "word": "cóctel",
+      "translation": "ค็อกเทล",
+      "example": "Pedimos un cóctel de frutas.",
+      "exampleTranslation": "เราสั่งค็อกเทลผลไม้"
+    },
+    {
+      "word": "licor",
+      "translation": "เหล้าลิเคียว",
+      "example": "Sirven licor después de la cena.",
+      "exampleTranslation": "พวกเขาเสิร์ฟเหล้าลิเคียวหลังมื้อเย็น"
+    },
+    {
+      "word": "champán",
+      "translation": "แชมเปญ",
+      "example": "Brindamos con champán.",
+      "exampleTranslation": "เราชนแก้วด้วยแชมเปญ"
+    },
+    {
+      "word": "aceituna",
+      "translation": "มะกอก",
+      "example": "Me gustan las aceitunas verdes.",
+      "exampleTranslation": "ฉันชอบมะกอกเขียว"
+    },
+    {
+      "word": "ajo",
+      "translation": "กระเทียม",
+      "example": "Añado ajo a todas mis comidas.",
+      "exampleTranslation": "ฉันใส่กระเทียมในอาหารทุกจาน"
+    },
+    {
+      "word": "espinaca",
+      "translation": "ผักโขม",
+      "example": "Como espinaca cada semana.",
+      "exampleTranslation": "ฉันกินผักโขมทุกสัปดาห์"
+    },
+    {
+      "word": "perejil",
+      "translation": "ผักชีฝรั่ง",
+      "example": "Decoro el plato con perejil.",
+      "exampleTranslation": "ฉันแต่งจานอาหารด้วยผักชีฝรั่ง"
+    },
+    {
+      "word": "calabaza",
+      "translation": "ฟักทอง",
+      "example": "Hacemos sopa de calabaza en otoño.",
+      "exampleTranslation": "เราทำซุปฟักทองในฤดูใบไม้ร่วง"
+    },
+    {
+      "word": "berenjena",
+      "translation": "มะเขือม่วง",
+      "example": "Cocino berenjena al horno.",
+      "exampleTranslation": "ฉันอบมะเขือม่วง"
+    },
+    {
+      "word": "hongo",
+      "translation": "เห็ด",
+      "example": "Los hongos crecen en el bosque.",
+      "exampleTranslation": "เห็ดขึ้นอยู่ในป่า"
+    },
+    {
+      "word": "maíz",
+      "translation": "ข้าวโพด",
+      "example": "Cultivan maíz en esa finca.",
+      "exampleTranslation": "พวกเขาปลูกข้าวโพดที่ไร่นั้น"
+    },
+    {
+      "word": "cerdo",
+      "translation": "หมู",
+      "example": "No come carne de cerdo.",
+      "exampleTranslation": "เขาไม่กินเนื้อหมู"
+    },
+    {
+      "word": "nata",
+      "translation": "ครีม",
+      "example": "El pastel lleva nata.",
+      "exampleTranslation": "เค้กชิ้นนี้มีครีมด้วย"
+    },
+    {
+      "word": "cereal",
+      "translation": "ซีเรียล",
+      "example": "Desayuno cereal con leche.",
+      "exampleTranslation": "ฉันกินซีเรียลกับนมเป็นอาหารเช้า"
+    },
+    {
+      "word": "frijol",
+      "translation": "ถั่ว",
+      "example": "Cocino frijoles negros.",
+      "exampleTranslation": "ฉันทำถั่วดำ"
+    },
+    {
+      "word": "lenteja",
+      "translation": "ถั่วเลนทิล",
+      "example": "La sopa de lentejas es sana.",
+      "exampleTranslation": "ซุปถั่วเลนทิลมีประโยชน์ต่อสุขภาพ"
+    },
+    {
+      "word": "aceite",
+      "translation": "น้ำมัน",
+      "example": "Uso aceite de oliva para cocinar.",
+      "exampleTranslation": "ฉันใช้น้ำมันมะกอกทำอาหาร"
+    },
+    {
+      "word": "vinagre",
+      "translation": "น้ำส้มสายชู",
+      "example": "Añado vinagre a la ensalada.",
+      "exampleTranslation": "ฉันใส่น้ำส้มสายชูลงในสลัด"
+    },
+    {
+      "word": "miel",
+      "translation": "น้ำผึ้ง",
+      "example": "Pongo miel en el té.",
+      "exampleTranslation": "ฉันใส่น้ำผึ้งลงในชา"
+    },
+    {
+      "word": "hierba",
+      "translation": "สมุนไพร, หญ้า",
+      "example": "Uso hierbas frescas en la cocina.",
+      "exampleTranslation": "ฉันใช้สมุนไพรสดในการทำอาหาร"
+    },
+    {
+      "word": "pimentón",
+      "translation": "พริกป่นปาปริก้า",
+      "example": "Añado pimentón al guiso.",
+      "exampleTranslation": "ฉันใส่พริกป่นปาปริก้าลงในสตูว์"
+    },
+    {
+      "word": "mayonesa",
+      "translation": "มายองเนส",
+      "example": "Pongo mayonesa en el sándwich.",
+      "exampleTranslation": "ฉันทามายองเนสบนแซนด์วิช"
+    },
+    {
+      "word": "mostaza",
+      "translation": "มัสตาร์ด",
+      "example": "Uso mostaza en el perrito caliente.",
+      "exampleTranslation": "ฉันใส่มัสตาร์ดบนฮอทดอก"
+    },
+    {
+      "word": "canela",
+      "translation": "อบเชย",
+      "example": "Añado canela al café.",
+      "exampleTranslation": "ฉันใส่อบเชยลงในกาแฟ"
+    },
+    {
+      "word": "chorizo",
+      "translation": "ไส้กรอกโชริโซ",
+      "example": "El chorizo es picante.",
+      "exampleTranslation": "ไส้กรอกโชริโซรสเผ็ด"
+    },
+    {
+      "word": "harina",
+      "translation": "แป้ง",
+      "example": "Necesito harina para hacer pan.",
+      "exampleTranslation": "ฉันต้องการแป้งเพื่อทำขนมปัง"
+    },
+    {
+      "word": "sandía",
+      "translation": "แตงโม",
+      "example": "En verano como mucha sandía.",
+      "exampleTranslation": "ในหน้าร้อนฉันกินแตงโมเยอะมาก"
+    },
+    {
+      "word": "melón",
+      "translation": "เมลอน",
+      "example": "El melón está muy dulce.",
+      "exampleTranslation": "เมลอนหวานมาก"
+    },
+    {
+      "word": "pera",
+      "translation": "ลูกแพร์",
+      "example": "Compré unas peras verdes.",
+      "exampleTranslation": "ฉันซื้อลูกแพร์สีเขียวมาบ้าง"
+    },
+    {
+      "word": "aguacate",
+      "translation": "อะโวคาโด",
+      "example": "Pongo aguacate en la ensalada.",
+      "exampleTranslation": "ฉันใส่อะโวคาโดลงในสลัด"
+    },
+    {
+      "word": "frambuesa",
+      "translation": "ราสป์เบอร์รี",
+      "example": "El pastel tiene frambuesas.",
+      "exampleTranslation": "เค้กชิ้นนี้มีราสป์เบอร์รี"
+    },
+    {
+      "word": "damasco",
+      "translation": "แอปริคอต",
+      "example": "Me gusta la mermelada de damasco.",
+      "exampleTranslation": "ฉันชอบแยมแอปริคอต"
+    },
+    {
+      "word": "cereza",
+      "translation": "เชอร์รี",
+      "example": "Las cerezas están de temporada.",
+      "exampleTranslation": "ตอนนี้เป็นฤดูของเชอร์รี"
+    },
+    {
+      "word": "coco",
+      "translation": "มะพร้าว",
+      "example": "Bebo agua de coco fresca.",
+      "exampleTranslation": "ฉันดื่มน้ำมะพร้าวสด"
+    },
+    {
+      "word": "arándano",
+      "translation": "บลูเบอร์รี",
+      "example": "Como arándanos en el desayuno.",
+      "exampleTranslation": "ฉันกินบลูเบอร์รีเป็นอาหารเช้า"
+    },
+    {
+      "word": "mango",
+      "translation": "มะม่วง",
+      "example": "El mango es mi fruta favorita.",
+      "exampleTranslation": "มะม่วงเป็นผลไม้ที่ฉันชอบที่สุด"
+    },
+    {
+      "word": "papaya",
+      "translation": "มะละกอ",
+      "example": "La papaya es buena para el estómago.",
+      "exampleTranslation": "มะละกอดีต่อกระเพาะอาหาร"
+    },
+    {
+      "word": "higo",
+      "translation": "มะเดื่อ",
+      "example": "Los higos son dulces en otoño.",
+      "exampleTranslation": "มะเดื่อจะหวานในฤดูใบไม้ร่วง"
+    },
+    {
+      "word": "granada",
+      "translation": "ทับทิม",
+      "example": "La granada tiene muchas semillas.",
+      "exampleTranslation": "ทับทิมมีเมล็ดเยอะมาก"
+    },
+    {
+      "word": "durazno",
+      "translation": "ลูกพีช",
+      "example": "El durazno está muy jugoso.",
+      "exampleTranslation": "ลูกพีชฉ่ำน้ำมาก"
+    },
+    {
+      "word": "ciruela",
+      "translation": "พลัม",
+      "example": "Comí una ciruela madura.",
+      "exampleTranslation": "ฉันกินพลัมสุก"
+    },
+    {
+      "word": "almendra",
+      "translation": "อัลมอนด์",
+      "example": "Bebo leche de almendra.",
+      "exampleTranslation": "ฉันดื่มนมอัลมอนด์"
+    },
+    {
+      "word": "nuez",
+      "translation": "วอลนัต",
+      "example": "Añado nueces a la ensalada.",
+      "exampleTranslation": "ฉันใส่วอลนัตลงในสลัด"
+    },
+    {
+      "word": "maní",
+      "translation": "ถั่วลิสง",
+      "example": "Como maní como refrigerio.",
+      "exampleTranslation": "ฉันกินถั่วลิสงเป็นของว่าง"
+    },
+    {
+      "word": "avellana",
+      "translation": "เฮเซลนัต",
+      "example": "El chocolate lleva avellanas.",
+      "exampleTranslation": "ช็อกโกแลตชิ้นนี้มีเฮเซลนัต"
+    },
+    {
+      "word": "pistacho",
+      "translation": "พิสตาชิโอ",
+      "example": "El helado de pistacho es delicioso.",
+      "exampleTranslation": "ไอศกรีมพิสตาชิโอแสนอร่อย"
+    },
+    {
+      "word": "castaña",
+      "translation": "เกาลัด",
+      "example": "Comemos castañas asadas en invierno.",
+      "exampleTranslation": "เรากินเกาลัดคั่วในฤดูหนาว"
+    },
+    {
+      "word": "pasa",
+      "translation": "ลูกเกด",
+      "example": "Añado pasas a la avena.",
+      "exampleTranslation": "ฉันใส่ลูกเกดลงในข้าวโอ๊ต"
+    },
+    {
+      "word": "hueso",
+      "translation": "กระดูก",
+      "example": "Se rompió un hueso jugando.",
+      "exampleTranslation": "เขากระดูกหักตอนเล่นกีฬา"
+    },
+    {
+      "word": "sangre",
+      "translation": "เลือด",
+      "example": "Necesita donar sangre.",
+      "exampleTranslation": "เขาต้องบริจาคเลือด"
+    },
+    {
+      "word": "pulmón",
+      "translation": "ปอด",
+      "example": "Fumar daña los pulmones.",
+      "exampleTranslation": "การสูบบุหรี่ทำลายปอด"
+    },
+    {
+      "word": "hígado",
+      "translation": "ตับ",
+      "example": "El alcohol afecta al hígado.",
+      "exampleTranslation": "แอลกอฮอล์ส่งผลเสียต่อตับ"
+    },
+    {
+      "word": "riñón",
+      "translation": "ไต",
+      "example": "Bebe agua para cuidar los riñones.",
+      "exampleTranslation": "ดื่มน้ำเพื่อดูแลไต"
+    },
+    {
+      "word": "intestino",
+      "translation": "ลำไส้",
+      "example": "El médico revisó su intestino.",
+      "exampleTranslation": "หมอตรวจลำไส้ของเขา"
+    },
+    {
+      "word": "panza",
+      "translation": "พุง",
+      "example": "El bebé tiene panza redonda.",
+      "exampleTranslation": "เด็กทารกมีพุงกลมๆ"
+    },
+    {
+      "word": "garganta",
+      "translation": "คอ, ลำคอ",
+      "example": "Me duele la garganta.",
+      "exampleTranslation": "ฉันเจ็บคอ"
+    },
+    {
+      "word": "muslo",
+      "translation": "ต้นขา",
+      "example": "Se lastimó el muslo corriendo.",
+      "exampleTranslation": "เขาบาดเจ็บที่ต้นขาตอนวิ่ง"
+    },
+    {
+      "word": "pantorrilla",
+      "translation": "น่อง",
+      "example": "Me duele la pantorrilla después de correr.",
+      "exampleTranslation": "น่องของฉันเจ็บหลังจากวิ่ง"
+    },
+    {
+      "word": "tobillo",
+      "translation": "ข้อเท้า",
+      "example": "Se torció el tobillo bailando.",
+      "exampleTranslation": "เธอข้อเท้าพลิกตอนเต้นรำ"
+    },
+    {
+      "word": "talón",
+      "translation": "ส้นเท้า",
+      "example": "Le duele el talón al caminar.",
+      "exampleTranslation": "ส้นเท้าของเขาเจ็บตอนเดิน"
+    },
+    {
+      "word": "codo",
+      "translation": "ข้อศอก",
+      "example": "Se golpeó el codo con la mesa.",
+      "exampleTranslation": "เขากระแทกข้อศอกกับโต๊ะ"
+    },
+    {
+      "word": "muñeca",
+      "translation": "ข้อมือ",
+      "example": "Me duele la muñeca al escribir.",
+      "exampleTranslation": "ข้อมือของฉันเจ็บตอนเขียนหนังสือ"
+    },
+    {
+      "word": "ceja",
+      "translation": "คิ้ว",
+      "example": "Se depiló las cejas.",
+      "exampleTranslation": "เธอกำจัดขนคิ้ว"
+    },
+    {
+      "word": "pestaña",
+      "translation": "ขนตา",
+      "example": "Tiene pestañas muy largas.",
+      "exampleTranslation": "เธอมีขนตายาวมาก"
+    },
+    {
+      "word": "cansancio",
+      "translation": "ความเหนื่อยล้า",
+      "example": "Siento mucho cansancio hoy.",
+      "exampleTranslation": "วันนี้ฉันรู้สึกเหนื่อยล้ามาก"
+    },
+    {
+      "word": "congestión",
+      "translation": "อาการคัดจมูก",
+      "example": "Tengo congestión nasal.",
+      "exampleTranslation": "ฉันมีอาการคัดจมูก"
+    },
+    {
+      "word": "malestar",
+      "translation": "อาการไม่สบายตัว",
+      "example": "Siento malestar general.",
+      "exampleTranslation": "ฉันรู้สึกไม่สบายตัวทั่วๆไป"
+    },
+    {
+      "word": "asma",
+      "translation": "หอบหืด",
+      "example": "Sufre de asma desde niño.",
+      "exampleTranslation": "เขาเป็นโรคหอบหืดมาตั้งแต่เด็ก"
+    },
+    {
+      "word": "neumonía",
+      "translation": "ปอดบวม",
+      "example": "El médico le diagnosticó neumonía.",
+      "exampleTranslation": "หมอวินิจฉัยว่าเขาเป็นปอดบวม"
+    },
+    {
+      "word": "diarrea",
+      "translation": "ท้องเสีย",
+      "example": "Tiene diarrea desde ayer.",
+      "exampleTranslation": "เขาท้องเสียตั้งแต่เมื่อวาน"
+    },
+    {
+      "word": "migraña",
+      "translation": "ไมเกรน",
+      "example": "Sufre migrañas frecuentes.",
+      "exampleTranslation": "เธอเป็นไมเกรนบ่อยๆ"
+    },
+    {
+      "word": "diabetes",
+      "translation": "เบาหวาน",
+      "example": "Su abuelo tiene diabetes.",
+      "exampleTranslation": "ปู่ของเขาเป็นโรคเบาหวาน"
+    },
+    {
+      "word": "cáncer",
+      "translation": "มะเร็ง",
+      "example": "La investigación busca curar el cáncer.",
+      "exampleTranslation": "งานวิจัยพยายามหาทางรักษามะเร็ง"
+    },
+    {
+      "word": "farmacéutico",
+      "translation": "เภสัชกร",
+      "example": "El farmacéutico me dio la medicina.",
+      "exampleTranslation": "เภสัชกรให้ยาแก่ฉัน"
+    },
+    {
+      "word": "cirujano",
+      "translation": "ศัลยแพทย์",
+      "example": "El cirujano operó a mi tío.",
+      "exampleTranslation": "ศัลยแพทย์ผ่าตัดให้ลุงของฉัน"
+    },
+    {
+      "word": "especialista",
+      "translation": "แพทย์เฉพาะทาง",
+      "example": "Me remitieron a un especialista.",
+      "exampleTranslation": "พวกเขาส่งฉันไปหาแพทย์เฉพาะทาง"
+    },
+    {
+      "word": "pediatro",
+      "translation": "กุมารแพทย์",
+      "example": "Llevamos al bebé al pediatra.",
+      "exampleTranslation": "เราพาลูกน้อยไปหากุมารแพทย์"
+    },
+    {
+      "word": "paramédico",
+      "translation": "เจ้าหน้าที่ปฐมพยาบาล",
+      "example": "El paramédico llegó rápido.",
+      "exampleTranslation": "เจ้าหน้าที่ปฐมพยาบาลมาถึงอย่างรวดเร็ว"
+    },
+    {
+      "word": "psicólogo",
+      "translation": "นักจิตวิทยา",
+      "example": "Voy al psicólogo cada semana.",
+      "exampleTranslation": "ฉันไปหานักจิตวิทยาทุกสัปดาห์"
+    },
+    {
+      "word": "fractura",
+      "translation": "กระดูกหัก",
+      "example": "Tiene una fractura en el brazo.",
+      "exampleTranslation": "เขากระดูกแขนหัก"
+    },
+    {
+      "word": "herida",
+      "translation": "บาดแผล",
+      "example": "La herida ya está sanando.",
+      "exampleTranslation": "บาดแผลกำลังหายดี"
+    },
+    {
+      "word": "corte",
+      "translation": "บาดแผลจากมีดบาด",
+      "example": "Se hizo un corte en el dedo.",
+      "exampleTranslation": "เขาโดนบาดที่นิ้ว"
+    },
+    {
+      "word": "moretón",
+      "translation": "รอยฟกช้ำ",
+      "example": "Tiene un moretón en la pierna.",
+      "exampleTranslation": "เขามีรอยฟกช้ำที่ขา"
+    },
+    {
+      "word": "dolor",
+      "translation": "ความเจ็บปวด",
+      "example": "Siento dolor en el pecho.",
+      "exampleTranslation": "ฉันรู้สึกเจ็บที่หน้าอก"
+    },
+    {
+      "word": "curar",
+      "translation": "รักษาให้หาย",
+      "example": "Este medicamento va a curarte.",
+      "exampleTranslation": "ยานี้จะช่วยรักษาคุณให้หาย"
+    },
+    {
+      "word": "tratamiento",
+      "translation": "การรักษา",
+      "example": "El tratamiento dura seis meses.",
+      "exampleTranslation": "การรักษาใช้เวลาหกเดือน"
+    },
+    {
+      "word": "receta",
+      "translation": "ใบสั่งยา",
+      "example": "El médico me dio una receta.",
+      "exampleTranslation": "หมอให้ใบสั่งยาแก่ฉัน"
+    },
+    {
+      "word": "cápsula",
+      "translation": "ยาแคปซูล",
+      "example": "Toma una cápsula al día.",
+      "exampleTranslation": "กินยาแคปซูลวันละหนึ่งเม็ด"
+    },
+    {
+      "word": "pomada",
+      "translation": "ยาขี้ผึ้ง",
+      "example": "Aplica la pomada en la herida.",
+      "exampleTranslation": "ทายาขี้ผึ้งลงบนแผล"
+    },
+    {
+      "word": "venda",
+      "translation": "ผ้าพันแผล",
+      "example": "Le puso una venda en el brazo.",
+      "exampleTranslation": "เธอพันผ้าพันแผลที่แขนของเขา"
+    },
+    {
+      "word": "tirita",
+      "translation": "พลาสเตอร์ปิดแผล",
+      "example": "Necesito una tirita para el dedo.",
+      "exampleTranslation": "ฉันต้องการพลาสเตอร์ปิดแผลที่นิ้ว"
+    },
+    {
+      "word": "antibiótico",
+      "translation": "ยาปฏิชีวนะ",
+      "example": "El médico recetó un antibiótico.",
+      "exampleTranslation": "หมอสั่งยาปฏิชีวนะให้"
+    },
+    {
+      "word": "analgésico",
+      "translation": "ยาแก้ปวด",
+      "example": "Tomé un analgésico para el dolor.",
+      "exampleTranslation": "ฉันกินยาแก้ปวดเพื่อบรรเทาอาการเจ็บ"
+    },
+    {
+      "word": "suero",
+      "translation": "น้ำเกลือ",
+      "example": "Le pusieron suero en el hospital.",
+      "exampleTranslation": "เขาได้รับน้ำเกลือที่โรงพยาบาล"
+    },
+    {
+      "word": "jarabe",
+      "translation": "ยาน้ำ",
+      "example": "Toma jarabe para la tos.",
+      "exampleTranslation": "กินยาน้ำแก้ไอ"
+    },
+    {
+      "word": "inyección",
+      "translation": "การฉีดยา",
+      "example": "Necesita una inyección de vacuna.",
+      "exampleTranslation": "เขาต้องฉีดวัคซีน"
+    },
+    {
+      "word": "sala",
+      "translation": "หอผู้ป่วย",
+      "example": "El paciente está en la sala tres.",
+      "exampleTranslation": "ผู้ป่วยอยู่ในหอผู้ป่วยหมายเลขสาม"
+    },
+    {
+      "word": "sala de urgencias",
+      "translation": "ห้องฉุกเฉิน",
+      "example": "Lo llevaron a la sala de urgencias.",
+      "exampleTranslation": "พวกเขาพาเขาไปห้องฉุกเฉิน"
+    },
+    {
+      "word": "sala de operaciones",
+      "translation": "ห้องผ่าตัด",
+      "example": "Está en la sala de operaciones ahora.",
+      "exampleTranslation": "ตอนนี้เขาอยู่ในห้องผ่าตัด"
+    },
+    {
+      "word": "centro de salud",
+      "translation": "ศูนย์สุขภาพ",
+      "example": "Voy al centro de salud por la vacuna.",
+      "exampleTranslation": "ฉันไปศูนย์สุขภาพเพื่อฉีดวัคซีน"
+    },
+    {
+      "word": "consulta",
+      "translation": "ห้องตรวจ",
+      "example": "El médico está en su consulta.",
+      "exampleTranslation": "หมออยู่ในห้องตรวจ"
+    },
+    {
+      "word": "laboratorio",
+      "translation": "ห้องปฏิบัติการ",
+      "example": "Enviaron la muestra al laboratorio.",
+      "exampleTranslation": "พวกเขาส่งตัวอย่างไปที่ห้องปฏิบัติการ"
+    },
+    {
+      "word": "sala de espera",
+      "translation": "ห้องรอ",
+      "example": "Espero en la sala de espera.",
+      "exampleTranslation": "ฉันรออยู่ในห้องรอ"
+    },
+    {
+      "word": "revisión",
+      "translation": "การตรวจร่างกาย",
+      "example": "Tengo una revisión mañana.",
+      "exampleTranslation": "พรุ่งนี้ฉันมีนัดตรวจร่างกาย"
+    },
+    {
+      "word": "cita",
+      "translation": "นัดหมาย",
+      "example": "Tengo cita con el dentista.",
+      "exampleTranslation": "ฉันมีนัดกับหมอฟัน"
+    },
+    {
+      "word": "radiografía",
+      "translation": "ภาพเอกซเรย์",
+      "example": "Me hicieron una radiografía del brazo.",
+      "exampleTranslation": "พวกเขาเอกซเรย์แขนของฉัน"
+    },
+    {
+      "word": "prueba",
+      "translation": "การตรวจ, การทดสอบ",
+      "example": "El resultado de la prueba es negativo.",
+      "exampleTranslation": "ผลการตรวจเป็นลบ"
+    },
+    {
+      "word": "diagnóstico",
+      "translation": "การวินิจฉัย",
+      "example": "El diagnóstico fue rápido.",
+      "exampleTranslation": "การวินิจฉัยทำได้รวดเร็ว"
+    },
+    {
+      "word": "operación",
+      "translation": "การผ่าตัด",
+      "example": "La operación duró tres horas.",
+      "exampleTranslation": "การผ่าตัดใช้เวลาสามชั่วโมง"
+    },
+    {
+      "word": "camilla",
+      "translation": "เปลหาม",
+      "example": "Lo llevaron en camilla.",
+      "exampleTranslation": "พวกเขาหามเขาไปด้วยเปล"
+    },
+    {
+      "word": "termómetro",
+      "translation": "เทอร์โมมิเตอร์",
+      "example": "Uso el termómetro para medir la fiebre.",
+      "exampleTranslation": "ฉันใช้เทอร์โมมิเตอร์วัดไข้"
+    },
+    {
+      "word": "tensiómetro",
+      "translation": "เครื่องวัดความดัน",
+      "example": "El enfermero usa el tensiómetro.",
+      "exampleTranslation": "พยาบาลใช้เครื่องวัดความดัน"
+    },
+    {
+      "word": "mascarilla",
+      "translation": "หน้ากากอนามัย",
+      "example": "El médico lleva mascarilla.",
+      "exampleTranslation": "หมอใส่หน้ากากอนามัย"
+    },
+    {
+      "word": "científico",
+      "translation": "นักวิทยาศาสตร์",
+      "example": "El científico investiga nuevas curas.",
+      "exampleTranslation": "นักวิทยาศาสตร์วิจัยการรักษาแบบใหม่"
+    },
+    {
+      "word": "dentista",
+      "translation": "ทันตแพทย์",
+      "example": "Voy al dentista cada seis meses.",
+      "exampleTranslation": "ฉันไปหาทันตแพทย์ทุกหกเดือน"
+    },
+    {
+      "word": "veterinario",
+      "translation": "สัตวแพทย์",
+      "example": "Llevé a mi perro al veterinario.",
+      "exampleTranslation": "ฉันพาสุนัขไปหาสัตวแพทย์"
+    },
+    {
+      "word": "carpintero",
+      "translation": "ช่างไม้",
+      "example": "El carpintero hizo esta mesa.",
+      "exampleTranslation": "ช่างไม้ทำโต๊ะตัวนี้"
+    },
+    {
+      "word": "electricista",
+      "translation": "ช่างไฟฟ้า",
+      "example": "El electricista arregló la luz.",
+      "exampleTranslation": "ช่างไฟฟ้าซ่อมไฟให้"
+    },
+    {
+      "word": "fontanero",
+      "translation": "ช่างประปา",
+      "example": "Llamamos al fontanero por la fuga.",
+      "exampleTranslation": "เราเรียกช่างประปามาซ่อมท่อรั่ว"
+    },
+    {
+      "word": "mecánico",
+      "translation": "ช่างเครื่องยนต์",
+      "example": "El mecánico reparó mi coche.",
+      "exampleTranslation": "ช่างเครื่องซ่อมรถของฉัน"
+    },
+    {
+      "word": "agricultor",
+      "translation": "เกษตรกร",
+      "example": "El agricultor cultiva arroz.",
+      "exampleTranslation": "เกษตรกรปลูกข้าว"
+    },
+    {
+      "word": "cocinero",
+      "translation": "พ่อครัว",
+      "example": "El cocinero prepara platos deliciosos.",
+      "exampleTranslation": "พ่อครัวทำอาหารอร่อยๆ"
+    },
+    {
+      "word": "recepcionista",
+      "translation": "พนักงานต้อนรับ",
+      "example": "La recepcionista me dio la llave.",
+      "exampleTranslation": "พนักงานต้อนรับให้กุญแจแก่ฉัน"
+    },
+    {
+      "word": "secretario",
+      "translation": "เลขานุการ",
+      "example": "El secretario organiza las reuniones.",
+      "exampleTranslation": "เลขานุการจัดตารางการประชุม"
+    },
+    {
+      "word": "empresario",
+      "translation": "นักธุรกิจ",
+      "example": "El empresario abrió tres tiendas.",
+      "exampleTranslation": "นักธุรกิจเปิดร้านค้าสามร้าน"
+    },
+    {
+      "word": "banquero",
+      "translation": "นักการธนาคาร",
+      "example": "Mi hermano es banquero.",
+      "exampleTranslation": "พี่ชายของฉันเป็นนักการธนาคาร"
+    },
+    {
+      "word": "músico",
+      "translation": "นักดนตรี",
+      "example": "El músico toca la guitarra.",
+      "exampleTranslation": "นักดนตรีเล่นกีตาร์"
+    },
+    {
+      "word": "cantante",
+      "translation": "นักร้อง",
+      "example": "Mi cantante favorita es española.",
+      "exampleTranslation": "นักร้องที่ฉันชอบที่สุดเป็นชาวสเปน"
+    },
+    {
+      "word": "fotógrafo",
+      "translation": "ช่างภาพ",
+      "example": "El fotógrafo tomó fotos de la boda.",
+      "exampleTranslation": "ช่างภาพถ่ายรูปงานแต่งงาน"
+    },
+    {
+      "word": "arquitecto",
+      "translation": "สถาปนิก",
+      "example": "El arquitecto diseñó la casa.",
+      "exampleTranslation": "สถาปนิกออกแบบบ้านหลังนี้"
+    },
+    {
+      "word": "asistente",
+      "translation": "ผู้ช่วย",
+      "example": "Mi asistente organiza mi agenda.",
+      "exampleTranslation": "ผู้ช่วยของฉันจัดตารางงานให้"
+    },
+    {
+      "word": "programador",
+      "translation": "โปรแกรมเมอร์",
+      "example": "El programador arregló el error.",
+      "exampleTranslation": "โปรแกรมเมอร์แก้ไขข้อผิดพลาด"
+    },
+    {
+      "word": "sacerdote",
+      "translation": "บาทหลวง",
+      "example": "El sacerdote celebró la misa.",
+      "exampleTranslation": "บาทหลวงทำพิธีมิสซา"
+    },
+    {
+      "word": "barbero",
+      "translation": "ช่างตัดผมชาย",
+      "example": "Voy al barbero cada mes.",
+      "exampleTranslation": "ฉันไปตัดผมที่ร้านช่างตัดผมทุกเดือน"
+    },
+    {
+      "word": "turno",
+      "translation": "กะทำงาน",
+      "example": "Trabajo en el turno de noche.",
+      "exampleTranslation": "ฉันทำงานกะกลางคืน"
+    },
+    {
+      "word": "horario",
+      "translation": "ตารางเวลา",
+      "example": "Mi horario cambia cada semana.",
+      "exampleTranslation": "ตารางเวลาของฉันเปลี่ยนทุกสัปดาห์"
+    },
+    {
+      "word": "reunión",
+      "translation": "การประชุม",
+      "example": "Tenemos una reunión a las diez.",
+      "exampleTranslation": "เรามีประชุมตอนสิบโมง"
+    },
+    {
+      "word": "a tiempo parcial",
+      "translation": "งานพาร์ทไทม์",
+      "example": "Trabajo a tiempo parcial los fines de semana.",
+      "exampleTranslation": "ฉันทำงานพาร์ทไทม์ในวันหยุดสุดสัปดาห์"
+    },
+    {
+      "word": "a tiempo completo",
+      "translation": "งานเต็มเวลา",
+      "example": "Busco un trabajo a tiempo completo.",
+      "exampleTranslation": "ฉันกำลังหางานเต็มเวลา"
+    },
+    {
+      "word": "cliente",
+      "translation": "ลูกค้า",
+      "example": "El cliente está satisfecho.",
+      "exampleTranslation": "ลูกค้าพึงพอใจ"
+    },
+    {
+      "word": "equipo",
+      "translation": "ทีม",
+      "example": "Mi equipo trabaja muy bien.",
+      "exampleTranslation": "ทีมของฉันทำงานได้ดีมาก"
+    },
+    {
+      "word": "becario",
+      "translation": "นักศึกษาฝึกงาน",
+      "example": "El becario aprende rápido.",
+      "exampleTranslation": "นักศึกษาฝึกงานเรียนรู้เร็ว"
+    },
+    {
+      "word": "gerente",
+      "translation": "ผู้จัดการ",
+      "example": "El gerente aprobó mi solicitud.",
+      "exampleTranslation": "ผู้จัดการอนุมัติคำขอของฉัน"
+    },
+    {
+      "word": "supervisor",
+      "translation": "หัวหน้างาน",
+      "example": "Mi supervisor revisa mi trabajo.",
+      "exampleTranslation": "หัวหน้างานตรวจงานของฉัน"
+    },
+    {
+      "word": "subordinado",
+      "translation": "ลูกน้อง",
+      "example": "Tiene diez subordinados.",
+      "exampleTranslation": "เขามีลูกน้องสิบคน"
+    },
+    {
+      "word": "impresora",
+      "translation": "เครื่องพิมพ์",
+      "example": "La impresora no funciona.",
+      "exampleTranslation": "เครื่องพิมพ์เสีย"
+    },
+    {
+      "word": "fotocopiadora",
+      "translation": "เครื่องถ่ายเอกสาร",
+      "example": "Uso la fotocopiadora todos los días.",
+      "exampleTranslation": "ฉันใช้เครื่องถ่ายเอกสารทุกวัน"
+    },
+    {
+      "word": "escáner",
+      "translation": "เครื่องสแกน",
+      "example": "Necesito el escáner para el documento.",
+      "exampleTranslation": "ฉันต้องการเครื่องสแกนเอกสาร"
+    },
+    {
+      "word": "grapadora",
+      "translation": "ที่เย็บกระดาษ",
+      "example": "¿Tienes una grapadora?",
+      "exampleTranslation": "คุณมีที่เย็บกระดาษไหม?"
+    },
+    {
+      "word": "carpeta",
+      "translation": "แฟ้มเอกสาร",
+      "example": "Guardo los papeles en una carpeta.",
+      "exampleTranslation": "ฉันเก็บเอกสารไว้ในแฟ้ม"
+    },
+    {
+      "word": "tijeras",
+      "translation": "กรรไกร",
+      "example": "Necesito unas tijeras.",
+      "exampleTranslation": "ฉันต้องการกรรไกร"
+    },
+    {
+      "word": "documento",
+      "translation": "เอกสาร",
+      "example": "Firma este documento, por favor.",
+      "exampleTranslation": "ช่วยเซ็นเอกสารนี้หน่อยค่ะ"
+    },
+    {
+      "word": "clip de papel",
+      "translation": "คลิปหนีบกระดาษ",
+      "example": "Usa un clip de papel.",
+      "exampleTranslation": "ใช้คลิปหนีบกระดาษ"
+    },
+    {
+      "word": "euro",
+      "translation": "ยูโร",
+      "example": "Pagué veinte euros por el libro.",
+      "exampleTranslation": "ฉันจ่ายยี่สิบยูโรสำหรับหนังสือ"
+    },
+    {
+      "word": "dólar",
+      "translation": "ดอลลาร์",
+      "example": "El precio es en dólares.",
+      "exampleTranslation": "ราคานี้เป็นสกุลดอลลาร์"
+    },
+    {
+      "word": "libra",
+      "translation": "ปอนด์",
+      "example": "Cambié euros por libras.",
+      "exampleTranslation": "ฉันแลกยูโรเป็นปอนด์"
+    },
+    {
+      "word": "peso",
+      "translation": "เปโซ",
+      "example": "En México pagan con pesos.",
+      "exampleTranslation": "ที่เม็กซิโกใช้จ่ายด้วยเงินเปโซ"
+    },
+    {
+      "word": "precio",
+      "translation": "ราคา",
+      "example": "¿Cuál es el precio de esto?",
+      "exampleTranslation": "อันนี้ราคาเท่าไหร่?"
+    },
+    {
+      "word": "gratis",
+      "translation": "ฟรี",
+      "example": "La entrada es gratis hoy.",
+      "exampleTranslation": "วันนี้เข้าฟรี"
+    },
+    {
+      "word": "descuento",
+      "translation": "ส่วนลด",
+      "example": "Hay un descuento del veinte por ciento.",
+      "exampleTranslation": "มีส่วนลดยี่สิบเปอร์เซ็นต์"
+    },
+    {
+      "word": "rebajas",
+      "translation": "ลดราคา(ช่วงเซล)",
+      "example": "Las rebajas empiezan mañana.",
+      "exampleTranslation": "การลดราคาจะเริ่มพรุ่งนี้"
+    },
+    {
+      "word": "ganga",
+      "translation": "ของถูก(คุ้มค่า)",
+      "example": "Encontré una ganga en la tienda.",
+      "exampleTranslation": "ฉันเจอของถูกที่คุ้มค่าที่ร้าน"
+    },
+    {
+      "word": "ocasión",
+      "translation": "ข้อเสนอสุดคุ้ม",
+      "example": "Es una buena ocasión para comprar.",
+      "exampleTranslation": "นี่เป็นข้อเสนอที่คุ้มค่ามากที่จะซื้อ"
+    },
+    {
+      "word": "carro",
+      "translation": "รถเข็นสินค้า",
+      "example": "Empuja el carro del supermercado.",
+      "exampleTranslation": "เข็นรถเข็นสินค้าไปด้วยกัน"
+    },
+    {
+      "word": "probar",
+      "translation": "ลองใส่, ลอง",
+      "example": "Voy a probar esta camisa.",
+      "exampleTranslation": "ฉันจะลองใส่เสื้อตัวนี้"
+    },
+    {
+      "word": "devolución",
+      "translation": "การคืนสินค้า",
+      "example": "Pedí la devolución del producto.",
+      "exampleTranslation": "ฉันขอคืนสินค้า"
+    },
+    {
+      "word": "gastar",
+      "translation": "ใช้จ่าย",
+      "example": "Gasté mucho dinero este mes.",
+      "exampleTranslation": "เดือนนี้ฉันใช้จ่ายเงินเยอะมาก"
+    },
+    {
+      "word": "vender",
+      "translation": "ขาย",
+      "example": "Voy a vender mi bicicleta.",
+      "exampleTranslation": "ฉันจะขายจักรยานของฉัน"
+    },
+    {
+      "word": "recibo",
+      "translation": "ใบเสร็จ",
+      "example": "Guarda el recibo, por favor.",
+      "exampleTranslation": "เก็บใบเสร็จไว้ด้วยนะ"
+    },
+    {
+      "word": "moneda",
+      "translation": "เหรียญ, สกุลเงิน",
+      "example": "Tengo una moneda antigua.",
+      "exampleTranslation": "ฉันมีเหรียญเก่าอยู่เหรียญหนึ่ง"
+    },
+    {
+      "word": "cambio",
+      "translation": "เงินทอน",
+      "example": "El cambio es de dos euros.",
+      "exampleTranslation": "เงินทอนคือสองยูโร"
+    },
+    {
+      "word": "billete",
+      "translation": "ธนบัตร",
+      "example": "Tengo un billete de cincuenta.",
+      "exampleTranslation": "ฉันมีธนบัตรใบละห้าสิบ"
+    },
+    {
+      "word": "efectivo",
+      "translation": "เงินสด",
+      "example": "Prefiero pagar en efectivo.",
+      "exampleTranslation": "ฉันชอบจ่ายเป็นเงินสดมากกว่า"
+    },
+    {
+      "word": "tarjeta",
+      "translation": "บัตร",
+      "example": "Pago con tarjeta de crédito.",
+      "exampleTranslation": "ฉันจ่ายด้วยบัตรเครดิต"
+    },
+    {
+      "word": "[ir] de compras",
+      "translation": "ไปช้อปปิ้ง",
+      "example": "Vamos de compras este sábado.",
+      "exampleTranslation": "วันเสาร์นี้เราจะไปช้อปปิ้งกัน"
+    },
+    {
+      "word": "vendedor",
+      "translation": "พนักงานขาย",
+      "example": "El vendedor me ayudó a elegir.",
+      "exampleTranslation": "พนักงานขายช่วยฉันเลือกของ"
+    },
+    {
+      "word": "panadería",
+      "translation": "ร้านขนมปัง",
+      "example": "Compro pan en la panadería.",
+      "exampleTranslation": "ฉันซื้อขนมปังที่ร้านขนมปัง"
+    },
+    {
+      "word": "carnicería",
+      "translation": "ร้านขายเนื้อ",
+      "example": "Compro carne en la carnicería.",
+      "exampleTranslation": "ฉันซื้อเนื้อที่ร้านขายเนื้อ"
+    },
+    {
+      "word": "pescadería",
+      "translation": "ร้านขายปลา",
+      "example": "El pescado está fresco en la pescadería.",
+      "exampleTranslation": "ปลาสดที่ร้านขายปลา"
+    },
+    {
+      "word": "frutería",
+      "translation": "ร้านขายผลไม้",
+      "example": "Compro fruta en la frutería.",
+      "exampleTranslation": "ฉันซื้อผลไม้ที่ร้านขายผลไม้"
+    },
+    {
+      "word": "librería",
+      "translation": "ร้านหนังสือ",
+      "example": "Encontré este libro en la librería.",
+      "exampleTranslation": "ฉันเจอหนังสือเล่มนี้ที่ร้านหนังสือ"
+    },
+    {
+      "word": "zapatería",
+      "translation": "ร้านขายรองเท้า",
+      "example": "Compré botas en la zapatería.",
+      "exampleTranslation": "ฉันซื้อรองเท้าบูทที่ร้านขายรองเท้า"
+    },
+    {
+      "word": "boutique",
+      "translation": "ร้านบูติก",
+      "example": "Esa boutique vende ropa cara.",
+      "exampleTranslation": "ร้านบูติกนั้นขายเสื้อผ้าราคาแพง"
+    },
+    {
+      "word": "bodega",
+      "translation": "ร้านขายไวน์",
+      "example": "Compré vino en la bodega.",
+      "exampleTranslation": "ฉันซื้อไวน์ที่ร้านขายไวน์"
+    },
+    {
+      "word": "confitería",
+      "translation": "ร้านขายขนมหวาน",
+      "example": "Los niños quieren ir a la confitería.",
+      "exampleTranslation": "เด็กๆอยากไปร้านขายขนมหวาน"
+    },
+    {
+      "word": "verdulería",
+      "translation": "ร้านขายผัก",
+      "example": "Compro verduras frescas en la verdulería.",
+      "exampleTranslation": "ฉันซื้อผักสดที่ร้านขายผัก"
+    },
+    {
+      "word": "estanco",
+      "translation": "ร้านขายบุหรี่",
+      "example": "Compra sellos en el estanco.",
+      "exampleTranslation": "เขาซื้อแสตมป์ที่ร้านขายบุหรี่"
+    },
+    {
+      "word": "quiosco",
+      "translation": "แผงหนังสือพิมพ์",
+      "example": "Compro el periódico en el quiosco.",
+      "exampleTranslation": "ฉันซื้อหนังสือพิมพ์ที่แผงขายหนังสือพิมพ์"
+    },
+    {
+      "word": "ropería",
+      "translation": "ร้านขายเสื้อผ้า",
+      "example": "Compré una camisa en la ropería.",
+      "exampleTranslation": "ฉันซื้อเสื้อเชิ้ตที่ร้านขายเสื้อผ้า"
+    },
+    {
+      "word": "tintorería",
+      "translation": "ร้านซักแห้ง",
+      "example": "Llevé el traje a la tintorería.",
+      "exampleTranslation": "ฉันเอาสูทไปร้านซักแห้ง"
+    },
+    {
+      "word": "droguería",
+      "translation": "ร้านขายของใช้",
+      "example": "Compré jabón en la droguería.",
+      "exampleTranslation": "ฉันซื้อสบู่ที่ร้านขายของใช้"
+    },
+    {
+      "word": "lechería",
+      "translation": "ร้านขายผลิตภัณฑ์นม",
+      "example": "Compro queso en la lechería.",
+      "exampleTranslation": "ฉันซื้อชีสที่ร้านขายผลิตภัณฑ์นม"
+    },
+    {
+      "word": "joyería",
+      "translation": "ร้านขายเครื่องประดับ",
+      "example": "Compró un anillo en la joyería.",
+      "exampleTranslation": "เขาซื้อแหวนที่ร้านขายเครื่องประดับ"
+    },
+    {
+      "word": "juguetería",
+      "translation": "ร้านขายของเล่น",
+      "example": "Los niños aman la juguetería.",
+      "exampleTranslation": "เด็กๆชอบร้านขายของเล่น"
+    },
+    {
+      "word": "vestir",
+      "translation": "แต่งตัว",
+      "example": "Me visto rápido por la mañana.",
+      "exampleTranslation": "ฉันแต่งตัวเร็วตอนเช้า"
+    },
+    {
+      "word": "afeitar",
+      "translation": "โกนหนวด",
+      "example": "Mi padre se afeita cada mañana.",
+      "exampleTranslation": "พ่อของฉันโกนหนวดทุกเช้า"
+    },
+    {
+      "word": "maquillar",
+      "translation": "แต่งหน้า",
+      "example": "Ella se maquilla antes de salir.",
+      "exampleTranslation": "เธอแต่งหน้าก่อนออกไปข้างนอก"
+    },
+    {
+      "word": "barrer",
+      "translation": "กวาดพื้น",
+      "example": "Voy a barrer la cocina.",
+      "exampleTranslation": "ฉันจะกวาดพื้นครัว"
+    },
+    {
+      "word": "planchar",
+      "translation": "รีดผ้า",
+      "example": "Voy a planchar mi camisa.",
+      "exampleTranslation": "ฉันจะรีดเสื้อของฉัน"
+    },
+    {
+      "word": "relajar",
+      "translation": "ผ่อนคลาย",
+      "example": "Necesito relajarme un poco.",
+      "exampleTranslation": "ฉันต้องการผ่อนคลายสักหน่อย"
+    },
+    {
+      "word": "acostar",
+      "translation": "เข้านอน",
+      "example": "Me acuesto a las once.",
+      "exampleTranslation": "ฉันเข้านอนตอนห้าทุ่ม"
+    },
+    {
+      "word": "merendar",
+      "translation": "กินของว่าง",
+      "example": "Merendamos a las cinco.",
+      "exampleTranslation": "เรากินของว่างตอนบ่ายห้าโมง"
+    },
+    {
+      "word": "esperar",
+      "translation": "รอ",
+      "example": "Espero el autobús aquí.",
+      "exampleTranslation": "ฉันรอรถบัสอยู่ตรงนี้"
+    },
+    {
+      "word": "empezar",
+      "translation": "เริ่มต้น",
+      "example": "La clase empieza a las nueve.",
+      "exampleTranslation": "คาบเรียนเริ่มตอนเก้าโมง"
+    },
+    {
+      "word": "terminar",
+      "translation": "เสร็จสิ้น, จบ",
+      "example": "Termino de trabajar a las seis.",
+      "exampleTranslation": "ฉันเลิกงานตอนหกโมง"
+    },
+    {
+      "word": "nadar",
+      "translation": "ว่ายน้ำ",
+      "example": "Nado todos los días.",
+      "exampleTranslation": "ฉันว่ายน้ำทุกวัน"
+    },
+    {
+      "word": "patinar",
+      "translation": "เล่นสเก็ต",
+      "example": "Los fines de semana patino en el parque.",
+      "exampleTranslation": "ในวันหยุดสุดสัปดาห์ฉันเล่นสเก็ตในสวนสาธารณะ"
+    },
+    {
+      "word": "acampar",
+      "translation": "ตั้งแคมป์",
+      "example": "Vamos a acampar en la montaña.",
+      "exampleTranslation": "เราจะไปตั้งแคมป์บนภูเขา"
+    },
+    {
+      "word": "pescar",
+      "translation": "ตกปลา",
+      "example": "Mi abuelo va a pescar los domingos.",
+      "exampleTranslation": "ปู่ของฉันไปตกปลาทุกวันอาทิตย์"
+    },
+    {
+      "word": "tejer",
+      "translation": "ถักไหมพรม",
+      "example": "Mi abuela sabe tejer bufandas.",
+      "exampleTranslation": "ย่าของฉันถักผ้าพันคอเป็น"
+    },
+    {
+      "word": "yoga",
+      "translation": "โยคะ",
+      "example": "Practico yoga cada mañana.",
+      "exampleTranslation": "ฉันเล่นโยคะทุกเช้า"
+    },
+    {
+      "word": "senderismo",
+      "translation": "การเดินป่า",
+      "example": "Me gusta el senderismo en verano.",
+      "exampleTranslation": "ฉันชอบเดินป่าในฤดูร้อน"
+    },
+    {
+      "word": "videojuegos",
+      "translation": "วิดีโอเกม",
+      "example": "Juego videojuegos los fines de semana.",
+      "exampleTranslation": "ฉันเล่นวิดีโอเกมในวันหยุดสุดสัปดาห์"
+    },
+    {
+      "word": "ajedrez",
+      "translation": "หมากรุกสากล",
+      "example": "Aprendí a jugar ajedrez de niño.",
+      "exampleTranslation": "ฉันเรียนเล่นหมากรุกตั้งแต่เด็ก"
+    },
+    {
+      "word": "juego de mesa",
+      "translation": "เกมกระดาน",
+      "example": "Jugamos un juego de mesa en familia.",
+      "exampleTranslation": "เราเล่นเกมกระดานกันในครอบครัว"
+    },
+    {
+      "word": "cazar",
+      "translation": "ล่าสัตว์",
+      "example": "Su abuelo salía a cazar.",
+      "exampleTranslation": "ปู่ของเขาเคยออกไปล่าสัตว์"
+    },
+    {
+      "word": "navegar",
+      "translation": "แล่นเรือ",
+      "example": "Aprendimos a navegar el verano pasado.",
+      "exampleTranslation": "เราเรียนแล่นเรือเมื่อฤดูร้อนที่แล้ว"
+    },
+    {
+      "word": "béisbol",
+      "translation": "เบสบอล",
+      "example": "En Cuba les gusta el béisbol.",
+      "exampleTranslation": "ที่คิวบาผู้คนชอบเบสบอล"
+    },
+    {
+      "word": "pádel",
+      "translation": "กีฬาพาเดล",
+      "example": "Jugamos pádel los fines de semana.",
+      "exampleTranslation": "เราเล่นพาเดลในวันหยุดสุดสัปดาห์"
+    },
+    {
+      "word": "karate",
+      "translation": "คาราเต้",
+      "example": "Mi hijo practica karate.",
+      "exampleTranslation": "ลูกชายของฉันฝึกคาราเต้"
+    },
+    {
+      "word": "polo",
+      "translation": "กีฬาโปโล",
+      "example": "El polo se juega a caballo.",
+      "exampleTranslation": "โปโลเล่นบนหลังม้า"
+    },
+    {
+      "word": "waterpolo",
+      "translation": "โปโลน้ำ",
+      "example": "El waterpolo es un deporte exigente.",
+      "exampleTranslation": "โปโลน้ำเป็นกีฬาที่ต้องใช้แรงมาก"
+    },
+    {
+      "word": "hockey sobre hielo",
+      "translation": "ฮอกกี้น้ำแข็ง",
+      "example": "El hockey sobre hielo es popular en Canadá.",
+      "exampleTranslation": "ฮอกกี้น้ำแข็งได้รับความนิยมในแคนาดา"
+    },
+    {
+      "word": "boxeo",
+      "translation": "มวยสากล",
+      "example": "Practica boxeo tres veces por semana.",
+      "exampleTranslation": "เขาฝึกมวยสากลสัปดาห์ละสามครั้ง"
+    },
+    {
+      "word": "patinaje",
+      "translation": "การเล่นสเก็ต",
+      "example": "El patinaje sobre hielo es difícil.",
+      "exampleTranslation": "การเล่นสเก็ตน้ำแข็งเป็นเรื่องยาก"
+    },
+    {
+      "word": "billar",
+      "translation": "บิลเลียด",
+      "example": "Jugamos billar en el bar.",
+      "exampleTranslation": "เราเล่นบิลเลียดที่บาร์"
+    },
+    {
+      "word": "atletismo",
+      "translation": "กรีฑา",
+      "example": "Compite en atletismo desde joven.",
+      "exampleTranslation": "เขาแข่งขันกรีฑามาตั้งแต่เด็ก"
+    },
+    {
+      "word": "lucha",
+      "translation": "มวยปล้ำ",
+      "example": "La lucha libre es popular en México.",
+      "exampleTranslation": "มวยปล้ำเป็นที่นิยมในเม็กซิโก"
+    },
+    {
+      "word": "gimnasia",
+      "translation": "ยิมนาสติก",
+      "example": "Practica gimnasia desde los seis años.",
+      "exampleTranslation": "เธอฝึกยิมนาสติกมาตั้งแต่อายุหกขวบ"
+    },
+    {
+      "word": "partido",
+      "translation": "การแข่งขัน",
+      "example": "El partido empieza a las ocho.",
+      "exampleTranslation": "การแข่งขันเริ่มตอนแปดโมง"
+    },
+    {
+      "word": "torneo",
+      "translation": "การแข่งขันชิงแชมป์",
+      "example": "Ganó el torneo de tenis.",
+      "exampleTranslation": "เขาชนะการแข่งขันเทนนิส"
+    },
+    {
+      "word": "competir",
+      "translation": "แข่งขัน",
+      "example": "Voy a competir el sábado.",
+      "exampleTranslation": "ฉันจะแข่งขันวันเสาร์"
+    },
+    {
+      "word": "ganar",
+      "translation": "ชนะ",
+      "example": "Ganamos el partido ayer.",
+      "exampleTranslation": "เมื่อวานเราชนะการแข่งขัน"
+    },
+    {
+      "word": "perder",
+      "translation": "แพ้",
+      "example": "Perdimos el partido final.",
+      "exampleTranslation": "เราแพ้นัดชิงชนะเลิศ"
+    },
+    {
+      "word": "empatar",
+      "translation": "เสมอ",
+      "example": "El partido terminó empatado.",
+      "exampleTranslation": "การแข่งขันจบลงด้วยผลเสมอ"
+    },
+    {
+      "word": "estadio",
+      "translation": "สนามกีฬา",
+      "example": "El estadio estaba lleno.",
+      "exampleTranslation": "สนามกีฬาเต็มไปด้วยผู้ชม"
+    },
+    {
+      "word": "campo",
+      "translation": "สนาม",
+      "example": "Jugamos en el campo del colegio.",
+      "exampleTranslation": "เราเล่นในสนามของโรงเรียน"
+    },
+    {
+      "word": "cancha",
+      "translation": "สนามแข่ง",
+      "example": "La cancha de tenis está ocupada.",
+      "exampleTranslation": "สนามเทนนิสมีคนใช้อยู่"
+    },
+    {
+      "word": "gimnasio",
+      "translation": "โรงยิม",
+      "example": "Voy al gimnasio tres veces por semana.",
+      "exampleTranslation": "ฉันไปโรงยิมสัปดาห์ละสามครั้ง"
+    },
+    {
+      "word": "pelota",
+      "translation": "ลูกบอล",
+      "example": "El perro juega con la pelota.",
+      "exampleTranslation": "สุนัขเล่นกับลูกบอล"
+    },
+    {
+      "word": "raqueta",
+      "translation": "ไม้แร็กเกต",
+      "example": "Necesito una raqueta nueva.",
+      "exampleTranslation": "ฉันต้องการไม้แร็กเกตอันใหม่"
+    },
+    {
+      "word": "bate",
+      "translation": "ไม้ตี",
+      "example": "El jugador tiene un bate de madera.",
+      "exampleTranslation": "นักกีฬามีไม้ตีที่ทำจากไม้"
+    },
+    {
+      "word": "red",
+      "translation": "ตาข่าย, เครือข่าย",
+      "example": "La pelota cayó en la red.",
+      "exampleTranslation": "ลูกบอลตกลงในตาข่าย"
+    },
+    {
+      "word": "casco",
+      "translation": "หมวกกันน็อค",
+      "example": "Debes llevar casco en bicicleta.",
+      "exampleTranslation": "คุณต้องใส่หมวกกันน็อคตอนขี่จักรยาน"
+    },
+    {
+      "word": "noticias",
+      "translation": "ข่าว",
+      "example": "Veo las noticias cada noche.",
+      "exampleTranslation": "ฉันดูข่าวทุกคืน"
+    },
+    {
+      "word": "periódico",
+      "translation": "หนังสือพิมพ์",
+      "example": "Leo el periódico por la mañana.",
+      "exampleTranslation": "ฉันอ่านหนังสือพิมพ์ตอนเช้า"
+    },
+    {
+      "word": "revista",
+      "translation": "นิตยสาร",
+      "example": "Compré una revista de moda.",
+      "exampleTranslation": "ฉันซื้อนิตยสารแฟชั่น"
+    },
+    {
+      "word": "entrevista",
+      "translation": "การสัมภาษณ์",
+      "example": "Tengo una entrevista de trabajo mañana.",
+      "exampleTranslation": "พรุ่งนี้ฉันมีสัมภาษณ์งาน"
+    },
+    {
+      "word": "reportaje",
+      "translation": "สารคดีข่าว",
+      "example": "Vi un reportaje sobre el cambio climático.",
+      "exampleTranslation": "ฉันดูสารคดีข่าวเกี่ยวกับการเปลี่ยนแปลงสภาพภูมิอากาศ"
+    },
+    {
+      "word": "periodista",
+      "translation": "นักข่าว",
+      "example": "El periodista escribió un buen artículo.",
+      "exampleTranslation": "นักข่าวเขียนบทความที่ดี"
+    },
+    {
+      "word": "artículo",
+      "translation": "บทความ",
+      "example": "Leí un artículo interesante hoy.",
+      "exampleTranslation": "วันนี้ฉันอ่านบทความที่น่าสนใจ"
+    },
+    {
+      "word": "publicación",
+      "translation": "สิ่งพิมพ์",
+      "example": "Esta publicación es mensual.",
+      "exampleTranslation": "สิ่งพิมพ์นี้ออกทุกเดือน"
+    },
+    {
+      "word": "edición",
+      "translation": "ฉบับพิมพ์",
+      "example": "Compré la última edición de la revista.",
+      "exampleTranslation": "ฉันซื้อนิตยสารฉบับล่าสุด"
+    },
+    {
+      "word": "título",
+      "translation": "หัวข้อ",
+      "example": "El título del artículo es llamativo.",
+      "exampleTranslation": "หัวข้อของบทความน่าสนใจมาก"
+    },
+    {
+      "word": "página",
+      "translation": "หน้ากระดาษ",
+      "example": "La noticia está en la página cinco.",
+      "exampleTranslation": "ข่าวอยู่ที่หน้าห้า"
+    },
+    {
+      "word": "publicar",
+      "translation": "ตีพิมพ์, โพสต์",
+      "example": "Van a publicar su libro pronto.",
+      "exampleTranslation": "พวกเขาจะตีพิมพ์หนังสือของเขาเร็วๆนี้"
+    },
+    {
+      "word": "imprimir",
+      "translation": "พิมพ์(เอกสาร)",
+      "example": "Necesito imprimir estos documentos.",
+      "exampleTranslation": "ฉันต้องพิมพ์เอกสารเหล่านี้"
+    },
+    {
+      "word": "radio",
+      "translation": "วิทยุ",
+      "example": "Escucho la radio en el coche.",
+      "exampleTranslation": "ฉันฟังวิทยุในรถ"
+    },
+    {
+      "word": "televisión",
+      "translation": "โทรทัศน์",
+      "example": "Vemos televisión por la noche.",
+      "exampleTranslation": "เราดูโทรทัศน์ตอนกลางคืน"
+    },
+    {
+      "word": "programa",
+      "translation": "รายการ, โปรแกรม",
+      "example": "Me gusta ese programa de cocina.",
+      "exampleTranslation": "ฉันชอบรายการทำอาหารนั้น"
+    },
+    {
+      "word": "anuncio",
+      "translation": "โฆษณา",
+      "example": "Vi un anuncio en la televisión.",
+      "exampleTranslation": "ฉันเห็นโฆษณาทางโทรทัศน์"
+    },
+    {
+      "word": "canal",
+      "translation": "ช่องทีวี",
+      "example": "Cambia de canal, por favor.",
+      "exampleTranslation": "ช่วยเปลี่ยนช่องหน่อย"
+    },
+    {
+      "word": "pintura",
+      "translation": "ภาพวาดสี",
+      "example": "Esa pintura es muy famosa.",
+      "exampleTranslation": "ภาพวาดนั้นมีชื่อเสียงมาก"
+    },
+    {
+      "word": "acuarela",
+      "translation": "สีน้ำ",
+      "example": "Pinto con acuarela los fines de semana.",
+      "exampleTranslation": "ฉันวาดภาพสีน้ำในวันหยุดสุดสัปดาห์"
+    },
+    {
+      "word": "escultura",
+      "translation": "ประติมากรรม",
+      "example": "Esta escultura tiene cien años.",
+      "exampleTranslation": "ประติมากรรมชิ้นนี้มีอายุร้อยปี"
+    },
+    {
+      "word": "arcilla",
+      "translation": "ดินเหนียว",
+      "example": "Los niños jugaron con arcilla.",
+      "exampleTranslation": "เด็กๆเล่นกับดินเหนียว"
+    },
+    {
+      "word": "fotografía",
+      "translation": "การถ่ายภาพ",
+      "example": "Estudia fotografía en la universidad.",
+      "exampleTranslation": "เธอเรียนการถ่ายภาพที่มหาวิทยาลัย"
+    },
+    {
+      "word": "galería",
+      "translation": "หอศิลป์",
+      "example": "Visitamos una galería de arte.",
+      "exampleTranslation": "เราไปเยี่ยมชมหอศิลป์"
+    },
+    {
+      "word": "retrato",
+      "translation": "ภาพเหมือน",
+      "example": "El pintor hizo un retrato de mi madre.",
+      "exampleTranslation": "จิตรกรวาดภาพเหมือนของแม่ฉัน"
+    },
+    {
+      "word": "paisaje",
+      "translation": "ภาพทิวทัศน์",
+      "example": "El paisaje de la montaña es hermoso.",
+      "exampleTranslation": "ภาพทิวทัศน์บนภูเขาสวยงามมาก"
+    },
+    {
+      "word": "obra",
+      "translation": "ผลงานศิลปะ",
+      "example": "Esta obra es del siglo diecinueve.",
+      "exampleTranslation": "ผลงานชิ้นนี้มาจากศตวรรษที่สิบเก้า"
+    },
+    {
+      "word": "espectáculo",
+      "translation": "การแสดง",
+      "example": "El espectáculo dura dos horas.",
+      "exampleTranslation": "การแสดงใช้เวลาสองชั่วโมง"
+    },
+    {
+      "word": "ópera",
+      "translation": "อุปรากร",
+      "example": "Fuimos a ver una ópera en Madrid.",
+      "exampleTranslation": "เราไปดูอุปรากรที่มาดริด"
+    },
+    {
+      "word": "danza",
+      "translation": "การเต้นรำ",
+      "example": "Estudia danza clásica.",
+      "exampleTranslation": "เธอเรียนการเต้นรำแบบคลาสสิก"
+    },
+    {
+      "word": "ballet",
+      "translation": "บัลเลต์",
+      "example": "Mi hija toma clases de ballet.",
+      "exampleTranslation": "ลูกสาวของฉันเรียนบัลเลต์"
+    },
+    {
+      "word": "novela",
+      "translation": "นวนิยาย",
+      "example": "Leí una novela muy larga.",
+      "exampleTranslation": "ฉันอ่านนวนิยายเรื่องยาวมาก"
+    },
+    {
+      "word": "cuento",
+      "translation": "เรื่องสั้น",
+      "example": "Le leo un cuento a mi hijo cada noche.",
+      "exampleTranslation": "ฉันอ่านนิทานให้ลูกฟังทุกคืน"
+    },
+    {
+      "word": "poesía",
+      "translation": "บทกวี",
+      "example": "Escribe poesía en su tiempo libre.",
+      "exampleTranslation": "เขาเขียนบทกวีในเวลาว่าง"
+    },
+    {
+      "word": "leyenda",
+      "translation": "ตำนาน",
+      "example": "Es una leyenda muy antigua.",
+      "exampleTranslation": "นี่เป็นตำนานที่เก่าแก่มาก"
+    },
+    {
+      "word": "personaje",
+      "translation": "ตัวละคร",
+      "example": "Mi personaje favorito es el villano.",
+      "exampleTranslation": "ตัวละครที่ฉันชอบที่สุดคือตัวร้าย"
+    },
+    {
+      "word": "trama",
+      "translation": "โครงเรื่อง",
+      "example": "La trama de la película es complicada.",
+      "exampleTranslation": "โครงเรื่องของหนังเรื่องนี้ซับซ้อนมาก"
+    },
+    {
+      "word": "capítulo",
+      "translation": "บทในหนังสือ",
+      "example": "Terminé el primer capítulo del libro.",
+      "exampleTranslation": "ฉันอ่านจบบทแรกของหนังสือแล้ว"
+    },
+    {
+      "word": "guion",
+      "translation": "บทภาพยนตร์",
+      "example": "Escribió el guion de la película.",
+      "exampleTranslation": "เขาเขียนบทภาพยนตร์เรื่องนี้"
+    },
+    {
+      "word": "escena",
+      "translation": "ฉาก(ภาพยนตร์)",
+      "example": "Esa escena me hizo llorar.",
+      "exampleTranslation": "ฉากนั้นทำให้ฉันร้องไห้"
+    },
+    {
+      "word": "tráiler",
+      "translation": "ตัวอย่างหนัง",
+      "example": "Vi el tráiler de la nueva película.",
+      "exampleTranslation": "ฉันดูตัวอย่างหนังเรื่องใหม่"
+    },
+    {
+      "word": "director",
+      "translation": "ผู้กำกับ",
+      "example": "El director ganó un premio.",
+      "exampleTranslation": "ผู้กำกับได้รับรางวัล"
+    },
+    {
+      "word": "drama",
+      "translation": "หนังดราม่า",
+      "example": "Prefiero el drama a la comedia.",
+      "exampleTranslation": "ฉันชอบดราม่ามากกว่าตลก"
+    },
+    {
+      "word": "comedia",
+      "translation": "หนังตลก",
+      "example": "Vimos una comedia anoche.",
+      "exampleTranslation": "เมื่อคืนเราดูหนังตลก"
+    },
+    {
+      "word": "tragedia",
+      "translation": "โศกนาฏกรรม",
+      "example": "La obra es una tragedia clásica.",
+      "exampleTranslation": "ละครเรื่องนี้เป็นโศกนาฏกรรมคลาสสิก"
+    },
+    {
+      "word": "aventura",
+      "translation": "หนังผจญภัย",
+      "example": "Me gustan las películas de aventura.",
+      "exampleTranslation": "ฉันชอบหนังแนวผจญภัย"
+    },
+    {
+      "word": "ciencia ficción",
+      "translation": "นิยายวิทยาศาสตร์",
+      "example": "Esta película es de ciencia ficción.",
+      "exampleTranslation": "หนังเรื่องนี้เป็นแนววิทยาศาสตร์"
+    },
+    {
+      "word": "película de acción",
+      "translation": "หนังแอ็คชั่น",
+      "example": "Vamos a ver una película de acción.",
+      "exampleTranslation": "เราจะไปดูหนังแอ็คชั่น"
+    },
+    {
+      "word": "película de terror",
+      "translation": "หนังสยองขวัญ",
+      "example": "No me gustan las películas de terror.",
+      "exampleTranslation": "ฉันไม่ชอบหนังสยองขวัญ"
+    },
+    {
+      "word": "película de guerra",
+      "translation": "หนังสงคราม",
+      "example": "Es una película de guerra muy famosa.",
+      "exampleTranslation": "นี่เป็นหนังสงครามที่มีชื่อเสียงมาก"
+    },
+    {
+      "word": "fantástico",
+      "translation": "แนวแฟนตาซี",
+      "example": "Me encantan los libros de mundo fantástico.",
+      "exampleTranslation": "ฉันชอบหนังสือแนวแฟนตาซีมาก"
+    },
+    {
+      "word": "biografía",
+      "translation": "ชีวประวัติ",
+      "example": "Leí la biografía de un pintor famoso.",
+      "exampleTranslation": "ฉันอ่านชีวประวัติของจิตรกรที่มีชื่อเสียง"
+    },
+    {
+      "word": "documental",
+      "translation": "สารคดี",
+      "example": "Vimos un documental sobre el océano.",
+      "exampleTranslation": "เราดูสารคดีเกี่ยวกับมหาสมุทร"
+    },
+    {
+      "word": "animación",
+      "translation": "แอนิเมชัน",
+      "example": "A los niños les encanta la animación.",
+      "exampleTranslation": "เด็กๆชอบแอนิเมชันมาก"
+    },
+    {
+      "word": "canción",
+      "translation": "เพลง",
+      "example": "Esta canción me encanta.",
+      "exampleTranslation": "ฉันชอบเพลงนี้มาก"
+    },
+    {
+      "word": "letra",
+      "translation": "เนื้อเพลง",
+      "example": "No entiendo la letra de esta canción.",
+      "exampleTranslation": "ฉันไม่เข้าใจเนื้อเพลงนี้"
+    },
+    {
+      "word": "melodía",
+      "translation": "ทำนองเพลง",
+      "example": "La melodía es muy pegajosa.",
+      "exampleTranslation": "ทำนองเพลงติดหูมาก"
+    },
+    {
+      "word": "instrumento",
+      "translation": "เครื่องดนตรี",
+      "example": "¿Qué instrumento tocas?",
+      "exampleTranslation": "คุณเล่นเครื่องดนตรีอะไร?"
+    },
+    {
+      "word": "guitarra",
+      "translation": "กีตาร์",
+      "example": "Aprendí a tocar la guitarra.",
+      "exampleTranslation": "ฉันเรียนเล่นกีตาร์"
+    },
+    {
+      "word": "bajo",
+      "translation": "กีตาร์เบส",
+      "example": "Toca el bajo en la banda.",
+      "exampleTranslation": "เขาเล่นกีตาร์เบสในวง"
+    },
+    {
+      "word": "piano",
+      "translation": "เปียโน",
+      "example": "Estudio piano desde niña.",
+      "exampleTranslation": "ฉันเรียนเปียโนมาตั้งแต่เด็ก"
+    },
+    {
+      "word": "órgano",
+      "translation": "ออร์แกน",
+      "example": "El órgano suena en la iglesia.",
+      "exampleTranslation": "ออร์แกนบรรเลงในโบสถ์"
+    },
+    {
+      "word": "batería",
+      "translation": "กลองชุด",
+      "example": "Mi hermano toca la batería.",
+      "exampleTranslation": "พี่ชายของฉันเล่นกลองชุด"
+    },
+    {
+      "word": "violín",
+      "translation": "ไวโอลิน",
+      "example": "Ella toca el violín en la orquesta.",
+      "exampleTranslation": "เธอเล่นไวโอลินในวงออร์เคสตรา"
+    },
+    {
+      "word": "trompeta",
+      "translation": "ทรัมเป็ต",
+      "example": "Toca la trompeta en el desfile.",
+      "exampleTranslation": "เขาเล่นทรัมเป็ตในขบวนพาเหรด"
+    },
+    {
+      "word": "saxofón",
+      "translation": "แซกโซโฟน",
+      "example": "Aprendió a tocar el saxofón.",
+      "exampleTranslation": "เขาเรียนเล่นแซกโซโฟน"
+    },
+    {
+      "word": "armónica",
+      "translation": "ฮาร์โมนิกา",
+      "example": "Toca la armónica en el tren.",
+      "exampleTranslation": "เขาเล่นฮาร์โมนิกาบนรถไฟ"
+    },
+    {
+      "word": "concierto",
+      "translation": "คอนเสิร์ต",
+      "example": "Fuimos a un concierto de rock.",
+      "exampleTranslation": "เราไปดูคอนเสิร์ตร็อก"
+    },
+    {
+      "word": "orquesta",
+      "translation": "วงออร์เคสตรา",
+      "example": "La orquesta tocó una sinfonía.",
+      "exampleTranslation": "วงออร์เคสตราบรรเลงซิมโฟนี"
+    },
+    {
+      "word": "pop",
+      "translation": "เพลงป๊อป",
+      "example": "Escucho música pop en el gimnasio.",
+      "exampleTranslation": "ฉันฟังเพลงป๊อปที่โรงยิม"
+    },
+    {
+      "word": "rock",
+      "translation": "เพลงร็อก",
+      "example": "Mi banda favorita toca rock.",
+      "exampleTranslation": "วงโปรดของฉันเล่นเพลงร็อก"
+    },
+    {
+      "word": "jazz",
+      "translation": "แจ๊ส",
+      "example": "Me gusta el jazz de los años cuarenta.",
+      "exampleTranslation": "ฉันชอบเพลงแจ๊สยุคสี่สิบ"
+    },
+    {
+      "word": "flamenco",
+      "translation": "ฟลาเมงโก",
+      "example": "El flamenco es típico de España.",
+      "exampleTranslation": "ฟลาเมงโกเป็นศิลปะพื้นเมืองของสเปน"
+    },
+    {
+      "word": "rap",
+      "translation": "แร็ป",
+      "example": "Le gusta escribir letras de rap.",
+      "exampleTranslation": "เขาชอบเขียนเนื้อเพลงแร็ป"
+    },
+    {
+      "word": "música clásica",
+      "translation": "ดนตรีคลาสสิก",
+      "example": "Escucho música clásica para relajarme.",
+      "exampleTranslation": "ฉันฟังดนตรีคลาสสิกเพื่อผ่อนคลาย"
+    },
+    {
+      "word": "salsa",
+      "translation": "ซัลซ่า",
+      "example": "Bailamos salsa en la fiesta.",
+      "exampleTranslation": "เราเต้นซัลซ่ากันในงานปาร์ตี้"
+    },
+    {
+      "word": "bachata",
+      "translation": "บาชาตา",
+      "example": "La bachata viene de la República Dominicana.",
+      "exampleTranslation": "บาชาตามีต้นกำเนิดจากสาธารณรัฐโดมินิกัน"
+    },
+    {
+      "word": "verbo",
+      "translation": "คำกริยา",
+      "example": "Este verbo es irregular.",
+      "exampleTranslation": "คำกริยานี้เป็นคำกริยาผิดปกติ"
+    },
+    {
+      "word": "adverbio",
+      "translation": "คำวิเศษณ์",
+      "example": "Añade un adverbio a la frase.",
+      "exampleTranslation": "เติมคำวิเศษณ์ลงในประโยค"
+    },
+    {
+      "word": "pronunciación",
+      "translation": "การออกเสียง",
+      "example": "Su pronunciación es muy clara.",
+      "exampleTranslation": "การออกเสียงของเธอชัดเจนมาก"
+    },
+    {
+      "word": "idioma",
+      "translation": "ภาษา",
+      "example": "El español es un idioma bonito.",
+      "exampleTranslation": "ภาษาสเปนเป็นภาษาที่สวยงาม"
+    },
+    {
+      "word": "palabra",
+      "translation": "คำศัพท์",
+      "example": "Aprendo diez palabras nuevas cada día.",
+      "exampleTranslation": "ฉันเรียนคำศัพท์ใหม่วันละสิบคำ"
+    },
+    {
+      "word": "frase",
+      "translation": "ประโยค",
+      "example": "Escribe una frase completa.",
+      "exampleTranslation": "เขียนประโยคให้สมบูรณ์"
+    },
+    {
+      "word": "sustantivo",
+      "translation": "คำนาม",
+      "example": "Esta palabra es un sustantivo.",
+      "exampleTranslation": "คำนี้เป็นคำนาม"
+    },
+    {
+      "word": "adjetivo",
+      "translation": "คำคุณศัพท์",
+      "example": "Usa un adjetivo para describirlo.",
+      "exampleTranslation": "ใช้คำคุณศัพท์เพื่ออธิบายมัน"
+    },
+    {
+      "word": "ortografía",
+      "translation": "การสะกดคำ",
+      "example": "Su ortografía es excelente.",
+      "exampleTranslation": "การสะกดคำของเขายอดเยี่ยมมาก"
+    },
+    {
+      "word": "gramático",
+      "translation": "เกี่ยวกับไวยากรณ์",
+      "example": "Este error es gramático.",
+      "exampleTranslation": "ข้อผิดพลาดนี้เป็นเรื่องไวยากรณ์"
+    },
+    {
+      "word": "vocabulario",
+      "translation": "คำศัพท์(ทั้งหมด)",
+      "example": "Necesito ampliar mi vocabulario.",
+      "exampleTranslation": "ฉันต้องเพิ่มพูนคำศัพท์ของฉัน"
+    },
+    {
+      "word": "significado",
+      "translation": "ความหมาย",
+      "example": "No sé el significado de esta palabra.",
+      "exampleTranslation": "ฉันไม่รู้ความหมายของคำนี้"
+    },
+    {
+      "word": "sinónimo",
+      "translation": "คำพ้องความหมาย",
+      "example": "'Feliz' es un sinónimo de 'contento'.",
+      "exampleTranslation": "คำว่า feliz เป็นคำพ้องความหมายกับ contento"
+    },
+    {
+      "word": "antónimo",
+      "translation": "คำตรงข้าม",
+      "example": "'Grande' es el antónimo de 'pequeño'.",
+      "exampleTranslation": "คำว่า grande เป็นคำตรงข้ามกับ pequeño"
+    },
+    {
+      "word": "dialecto",
+      "translation": "สำเนียงท้องถิ่น",
+      "example": "Hablan un dialecto local.",
+      "exampleTranslation": "พวกเขาพูดสำเนียงท้องถิ่น"
+    },
+    {
+      "word": "acento",
+      "translation": "สำเนียง",
+      "example": "Tiene acento argentino.",
+      "exampleTranslation": "เขามีสำเนียงแบบอาร์เจนตินา"
+    },
+    {
+      "word": "bilingüe",
+      "translation": "พูดสองภาษา",
+      "example": "Mi hijo es bilingüe.",
+      "exampleTranslation": "ลูกชายของฉันพูดได้สองภาษา"
+    },
+    {
+      "word": "multilingüe",
+      "translation": "พูดได้หลายภาษา",
+      "example": "Trabaja en un equipo multilingüe.",
+      "exampleTranslation": "เธอทำงานในทีมที่พูดได้หลายภาษา"
+    },
+    {
+      "word": "física",
+      "translation": "ฟิสิกส์",
+      "example": "Estudio física en la universidad.",
+      "exampleTranslation": "ฉันเรียนฟิสิกส์ที่มหาวิทยาลัย"
+    },
+    {
+      "word": "biología",
+      "translation": "ชีววิทยา",
+      "example": "La biología me parece fascinante.",
+      "exampleTranslation": "ฉันคิดว่าชีววิทยาน่าทึ่งมาก"
+    },
+    {
+      "word": "química",
+      "translation": "เคมี",
+      "example": "El examen de química fue difícil.",
+      "exampleTranslation": "ข้อสอบวิชาเคมียากมาก"
+    },
+    {
+      "word": "literatura",
+      "translation": "วรรณคดี",
+      "example": "Estudia literatura española.",
+      "exampleTranslation": "เธอเรียนวรรณคดีสเปน"
+    },
+    {
+      "word": "informática",
+      "translation": "วิทยาการคอมพิวเตอร์",
+      "example": "Trabaja en informática.",
+      "exampleTranslation": "เขาทำงานด้านวิทยาการคอมพิวเตอร์"
+    },
+    {
+      "word": "filosofía",
+      "translation": "ปรัชญา",
+      "example": "Estudió filosofía en la universidad.",
+      "exampleTranslation": "เขาเรียนปรัชญาที่มหาวิทยาลัย"
+    },
+    {
+      "word": "reprobar",
+      "translation": "สอบตก",
+      "example": "Reprobó el examen de matemáticas.",
+      "exampleTranslation": "เขาสอบวิชาคณิตศาสตร์ตก"
+    },
+    {
+      "word": "ensayo",
+      "translation": "เรียงความ",
+      "example": "Tengo que escribir un ensayo.",
+      "exampleTranslation": "ฉันต้องเขียนเรียงความ"
+    },
+    {
+      "word": "ejercicio",
+      "translation": "แบบฝึกหัด",
+      "example": "Termina este ejercicio para mañana.",
+      "exampleTranslation": "ทำแบบฝึกหัดนี้ให้เสร็จสำหรับพรุ่งนี้"
+    },
+    {
+      "word": "proyecto",
+      "translation": "โปรเจกต์",
+      "example": "Trabajamos en un proyecto grupal.",
+      "exampleTranslation": "เราทำงานในโปรเจกต์กลุ่ม"
+    },
+    {
+      "word": "deletrear",
+      "translation": "สะกดคำ",
+      "example": "¿Puedes deletrear tu nombre?",
+      "exampleTranslation": "ช่วยสะกดชื่อของคุณให้ฟังหน่อย"
+    },
+    {
+      "word": "rotulador",
+      "translation": "ปากกาเมจิก",
+      "example": "Escribe con el rotulador rojo.",
+      "exampleTranslation": "เขียนด้วยปากกาเมจิกสีแดง"
+    },
+    {
+      "word": "regla",
+      "translation": "ไม้บรรทัด",
+      "example": "Necesito una regla para dibujar.",
+      "exampleTranslation": "ฉันต้องการไม้บรรทัดเพื่อวาดเส้น"
+    },
+    {
+      "word": "pegamento",
+      "translation": "กาว",
+      "example": "Usa pegamento para el proyecto.",
+      "exampleTranslation": "ใช้กาวสำหรับโปรเจกต์นี้"
+    },
+    {
+      "word": "crayón",
+      "translation": "สีเทียน",
+      "example": "El niño dibuja con crayones.",
+      "exampleTranslation": "เด็กวาดรูปด้วยสีเทียน"
+    },
+    {
+      "word": "calculadora",
+      "translation": "เครื่องคิดเลข",
+      "example": "Uso la calculadora en clase de matemáticas.",
+      "exampleTranslation": "ฉันใช้เครื่องคิดเลขในวิชาคณิตศาสตร์"
+    },
+    {
+      "word": "estuche",
+      "translation": "กล่องดินสอ",
+      "example": "Guardo los lápices en mi estuche.",
+      "exampleTranslation": "ฉันเก็บดินสอไว้ในกล่องดินสอ"
+    },
+    {
+      "word": "diccionario",
+      "translation": "พจนานุกรม",
+      "example": "Uso el diccionario para traducir.",
+      "exampleTranslation": "ฉันใช้พจนานุกรมในการแปล"
+    },
+    {
+      "word": "atlas",
+      "translation": "แผนที่โลก(หนังสือ)",
+      "example": "Busco el país en el atlas.",
+      "exampleTranslation": "ฉันหาประเทศนี้ในหนังสือแผนที่"
+    },
+    {
+      "word": "cuaderno",
+      "translation": "สมุด",
+      "example": "Escribo en mi cuaderno de español.",
+      "exampleTranslation": "ฉันเขียนในสมุดภาษาสเปนของฉัน"
+    },
+    {
+      "word": "borrador",
+      "translation": "ยางลบ",
+      "example": "Presta tu borrador, por favor.",
+      "exampleTranslation": "ขอยืมยางลบหน่อยได้ไหม"
+    },
+    {
+      "word": "sacapuntas",
+      "translation": "กบเหลาดินสอ",
+      "example": "Necesito el sacapuntas.",
+      "exampleTranslation": "ฉันต้องการกบเหลาดินสอ"
+    },
+    {
+      "word": "uniforme",
+      "translation": "ชุดยูนิฟอร์ม",
+      "example": "Los estudiantes llevan uniforme.",
+      "exampleTranslation": "นักเรียนใส่ชุดยูนิฟอร์ม"
+    },
+    {
+      "word": "experimento",
+      "translation": "การทดลอง",
+      "example": "Hicimos un experimento en clase.",
+      "exampleTranslation": "เราทำการทดลองในห้องเรียน"
+    },
+    {
+      "word": "microscopio",
+      "translation": "กล้องจุลทรรศน์",
+      "example": "Vimos las células con el microscopio.",
+      "exampleTranslation": "เราเห็นเซลล์ผ่านกล้องจุลทรรศน์"
+    },
+    {
+      "word": "investigación",
+      "translation": "การวิจัย",
+      "example": "Su investigación es muy importante.",
+      "exampleTranslation": "งานวิจัยของเขาสำคัญมาก"
+    },
+    {
+      "word": "teoría",
+      "translation": "ทฤษฎี",
+      "example": "Explicó la teoría claramente.",
+      "exampleTranslation": "เขาอธิบายทฤษฎีอย่างชัดเจน"
+    },
+    {
+      "word": "hipótesis",
+      "translation": "สมมติฐาน",
+      "example": "Nuestra hipótesis fue correcta.",
+      "exampleTranslation": "สมมติฐานของเราถูกต้อง"
+    },
+    {
+      "word": "electricidad",
+      "translation": "ไฟฟ้า",
+      "example": "La electricidad se cortó anoche.",
+      "exampleTranslation": "เมื่อคืนไฟฟ้าดับ"
+    },
+    {
+      "word": "reacción",
+      "translation": "ปฏิกิริยา",
+      "example": "La reacción química fue rápida.",
+      "exampleTranslation": "ปฏิกิริยาเคมีเกิดขึ้นอย่างรวดเร็ว"
+    },
+    {
+      "word": "átomo",
+      "translation": "อะตอม",
+      "example": "El átomo tiene un núcleo.",
+      "exampleTranslation": "อะตอมมีนิวเคลียส"
+    },
+    {
+      "word": "molécula",
+      "translation": "โมเลกุล",
+      "example": "El agua es una molécula simple.",
+      "exampleTranslation": "น้ำเป็นโมเลกุลที่เรียบง่าย"
+    },
+    {
+      "word": "líquido",
+      "translation": "ของเหลว",
+      "example": "El agua es un líquido.",
+      "exampleTranslation": "น้ำเป็นของเหลว"
+    },
+    {
+      "word": "sólido",
+      "translation": "ของแข็ง",
+      "example": "El hielo es agua sólida.",
+      "exampleTranslation": "น้ำแข็งคือน้ำในรูปของแข็ง"
+    },
+    {
+      "word": "gas",
+      "translation": "แก๊ส",
+      "example": "El aire es una mezcla de gases.",
+      "exampleTranslation": "อากาศคือส่วนผสมของแก๊สต่างๆ"
+    },
+    {
+      "word": "organismo",
+      "translation": "สิ่งมีชีวิต",
+      "example": "Cada organismo necesita agua.",
+      "exampleTranslation": "สิ่งมีชีวิตทุกชนิดต้องการน้ำ"
+    },
+    {
+      "word": "celular",
+      "translation": "เกี่ยวกับเซลล์",
+      "example": "Estudiamos la estructura celular.",
+      "exampleTranslation": "เราศึกษาโครงสร้างของเซลล์"
+    },
+    {
+      "word": "especie",
+      "translation": "สปีชีส์, ชนิดพันธุ์",
+      "example": "Es una especie en peligro.",
+      "exampleTranslation": "นี่เป็นชนิดพันธุ์ที่ใกล้สูญพันธุ์"
+    },
+    {
+      "word": "hábitat",
+      "translation": "ถิ่นที่อยู่อาศัย",
+      "example": "El bosque es su hábitat natural.",
+      "exampleTranslation": "ป่าคือถิ่นที่อยู่อาศัยตามธรรมชาติของมัน"
+    },
+    {
+      "word": "ecosistema",
+      "translation": "ระบบนิเวศ",
+      "example": "El río tiene un ecosistema rico.",
+      "exampleTranslation": "แม่น้ำมีระบบนิเวศที่อุดมสมบูรณ์"
+    },
+    {
+      "word": "festival",
+      "translation": "เทศกาล",
+      "example": "Vamos a un festival de música.",
+      "exampleTranslation": "เราจะไปงานเทศกาลดนตรี"
+    },
+    {
+      "word": "fiesta",
+      "translation": "งานเลี้ยง",
+      "example": "La fiesta empieza a las nueve.",
+      "exampleTranslation": "งานเลี้ยงเริ่มตอนเก้าโมง"
+    },
+    {
+      "word": "celebración",
+      "translation": "การเฉลิมฉลอง",
+      "example": "La celebración duró toda la noche.",
+      "exampleTranslation": "การเฉลิมฉลองยาวนานตลอดทั้งคืน"
+    },
+    {
+      "word": "desfile",
+      "translation": "ขบวนพาเหรด",
+      "example": "Vimos el desfile en la calle.",
+      "exampleTranslation": "เราดูขบวนพาเหรดบนถนน"
+    },
+    {
+      "word": "carnaval",
+      "translation": "งานคาร์นิวัล",
+      "example": "El carnaval de Brasil es famoso.",
+      "exampleTranslation": "งานคาร์นิวัลของบราซิลมีชื่อเสียงมาก"
+    },
+    {
+      "word": "piñata",
+      "translation": "ปิญญาต้า",
+      "example": "Los niños rompieron la piñata.",
+      "exampleTranslation": "เด็กๆตีปิญญาต้าแตก"
+    },
+    {
+      "word": "confeti",
+      "translation": "กระดาษสี",
+      "example": "Tiraron confeti en la fiesta.",
+      "exampleTranslation": "พวกเขาโปรยกระดาษสีในงานปาร์ตี้"
+    },
+    {
+      "word": "vacación",
+      "translation": "วันหยุดพักผ่อน",
+      "example": "Necesito unas vacaciones largas.",
+      "exampleTranslation": "ฉันต้องการวันหยุดพักผ่อนยาวๆ"
+    },
+    {
+      "word": "crucero",
+      "translation": "การล่องเรือสำราญ",
+      "example": "Hicimos un crucero por el Caribe.",
+      "exampleTranslation": "เราล่องเรือสำราญที่แคริบเบียน"
+    },
+    {
+      "word": "turista",
+      "translation": "นักท่องเที่ยว",
+      "example": "Hay muchos turistas en verano.",
+      "exampleTranslation": "มีนักท่องเที่ยวเยอะมากในฤดูร้อน"
+    },
+    {
+      "word": "guía",
+      "translation": "ไกด์",
+      "example": "El guía nos mostró el museo.",
+      "exampleTranslation": "ไกด์พาเราชมพิพิธภัณฑ์"
+    },
+    {
+      "word": "recuerdo",
+      "translation": "ของที่ระลึก",
+      "example": "Compré un recuerdo para mi madre.",
+      "exampleTranslation": "ฉันซื้อของที่ระลึกให้แม่"
+    },
+    {
+      "word": "escapada",
+      "translation": "ทริปสั้นๆ",
+      "example": "Hicimos una escapada de fin de semana.",
+      "exampleTranslation": "เราไปทริปสั้นๆช่วงสุดสัปดาห์"
+    },
+    {
+      "word": "tour",
+      "translation": "ทัวร์",
+      "example": "Reservamos un tour por la ciudad.",
+      "exampleTranslation": "เราจองทัวร์ชมเมือง"
+    },
+    {
+      "word": "explorar",
+      "translation": "สำรวจ",
+      "example": "Nos gusta explorar lugares nuevos.",
+      "exampleTranslation": "เราชอบสำรวจสถานที่ใหม่ๆ"
+    },
+    {
+      "word": "hacer turismo",
+      "translation": "ท่องเที่ยว",
+      "example": "Vamos a hacer turismo el sábado.",
+      "exampleTranslation": "วันเสาร์เราจะไปเที่ยวชมเมือง"
+    },
+    {
+      "word": "[tomar] el sol",
+      "translation": "อาบแดด",
+      "example": "Me gusta tomar el sol en la playa.",
+      "exampleTranslation": "ฉันชอบอาบแดดที่ชายหาด"
+    },
+    {
+      "word": "Año Nuevo",
+      "translation": "วันปีใหม่",
+      "example": "Celebramos el Año Nuevo con fuegos artificiales.",
+      "exampleTranslation": "เราฉลองปีใหม่ด้วยพลุไฟ"
+    },
+    {
+      "word": "Navidad",
+      "translation": "วันคริสต์มาส",
+      "example": "Pasamos la Navidad en familia.",
+      "exampleTranslation": "เราฉลองคริสต์มาสกับครอบครัว"
+    },
+    {
+      "word": "Janucá",
+      "translation": "วันฮานุกกาห์",
+      "example": "Encienden velas durante Janucá.",
+      "exampleTranslation": "พวกเขาจุดเทียนในช่วงเทศกาลฮานุกกาห์"
+    },
+    {
+      "word": "Halloween",
+      "translation": "วันฮาโลวีน",
+      "example": "Los niños se disfrazan en Halloween.",
+      "exampleTranslation": "เด็กๆแต่งตัวคอสเพลย์ในวันฮาโลวีน"
+    },
+    {
+      "word": "día de Acción de Gracias",
+      "translation": "วันขอบคุณพระเจ้า",
+      "example": "En Estados Unidos celebran el día de Acción de Gracias.",
+      "exampleTranslation": "ที่สหรัฐอเมริกามีการฉลองวันขอบคุณพระเจ้า"
+    },
+    {
+      "word": "Semana Santa",
+      "translation": "สัปดาห์ศักดิ์สิทธิ์",
+      "example": "Muchos viajan durante la Semana Santa.",
+      "exampleTranslation": "หลายคนเดินทางในช่วงสัปดาห์ศักดิ์สิทธิ์"
+    },
+    {
+      "word": "Pascua",
+      "translation": "วันอีสเตอร์",
+      "example": "Pintamos huevos en Pascua.",
+      "exampleTranslation": "เราวาดสีไข่ในวันอีสเตอร์"
+    },
+    {
+      "word": "Día de Todos los Santos",
+      "translation": "วันสมโภชนักบุญทั้งหลาย",
+      "example": "Visitamos el cementerio en el Día de Todos los Santos.",
+      "exampleTranslation": "เราไปเยี่ยมสุสานในวันสมโภชนักบุญทั้งหลาย"
+    },
+    {
+      "word": "Día de los Muertos",
+      "translation": "วันแห่งความตาย",
+      "example": "El Día de los Muertos es una tradición mexicana.",
+      "exampleTranslation": "วันแห่งความตายเป็นประเพณีของเม็กซิโก"
+    },
+    {
+      "word": "Día de la Independencia",
+      "translation": "วันประกาศอิสรภาพ",
+      "example": "Celebramos el Día de la Independencia con fuegos artificiales.",
+      "exampleTranslation": "เราฉลองวันประกาศอิสรภาพด้วยพลุไฟ"
+    },
+    {
+      "word": "Día de los Inocentes",
+      "translation": "วันเมษาหน้าโง่",
+      "example": "Le hicieron una broma en el Día de los Inocentes.",
+      "exampleTranslation": "พวกเขาแกล้งเขาในวันเมษาหน้าโง่"
+    },
+    {
+      "word": "Día de la Madre",
+      "translation": "วันแม่",
+      "example": "Le regalé flores en el Día de la Madre.",
+      "exampleTranslation": "ฉันให้ดอกไม้เธอในวันแม่"
+    },
+    {
+      "word": "Día del Padre",
+      "translation": "วันพ่อ",
+      "example": "Celebramos el Día del Padre en junio.",
+      "exampleTranslation": "เราฉลองวันพ่อในเดือนมิถุนายน"
+    },
+    {
+      "word": "Día de Reyes",
+      "translation": "วันสามกษัตริย์",
+      "example": "Los niños reciben regalos el Día de Reyes.",
+      "exampleTranslation": "เด็กๆได้รับของขวัญในวันสามกษัตริย์"
+    },
+    {
+      "word": "Martes de Carnaval",
+      "translation": "วันอังคารก่อนถือศีลอด",
+      "example": "El Martes de Carnaval hay mucha fiesta.",
+      "exampleTranslation": "วันอังคารก่อนถือศีลอดมีงานเฉลิมฉลองมากมาย"
+    },
+    {
+      "word": "Fiesta de las Luces",
+      "translation": "เทศกาลแห่งแสงไฟ",
+      "example": "La Fiesta de las Luces dura ocho días.",
+      "exampleTranslation": "เทศกาลแห่งแสงไฟยาวนานแปดวัน"
+    },
+    {
+      "word": "Fallas",
+      "translation": "เทศกาลฟาญาส",
+      "example": "Las Fallas se celebran en Valencia.",
+      "exampleTranslation": "เทศกาลฟาญาสจัดขึ้นที่บาเลนเซีย"
+    },
+    {
+      "word": "visado",
+      "translation": "วีซ่า",
+      "example": "Necesito un visado para viajar.",
+      "exampleTranslation": "ฉันต้องมีวีซ่าเพื่อเดินทาง"
+    },
+    {
+      "word": "tarjeta de embarque",
+      "translation": "บัตรขึ้นเครื่อง",
+      "example": "No olvides tu tarjeta de embarque.",
+      "exampleTranslation": "อย่าลืมบัตรขึ้นเครื่องของคุณ"
+    },
+    {
+      "word": "terminal",
+      "translation": "อาคารผู้โดยสาร",
+      "example": "El vuelo sale de la terminal dos.",
+      "exampleTranslation": "เที่ยวบินออกจากอาคารผู้โดยสารสอง"
+    },
+    {
+      "word": "itinerario",
+      "translation": "กำหนดการเดินทาง",
+      "example": "Preparé el itinerario del viaje.",
+      "exampleTranslation": "ฉันเตรียมกำหนดการเดินทาง"
+    },
+    {
+      "word": "destino",
+      "translation": "จุดหมายปลายทาง",
+      "example": "Nuestro destino final es Roma.",
+      "exampleTranslation": "จุดหมายปลายทางสุดท้ายของเราคือกรุงโรม"
+    },
+    {
+      "word": "hostal",
+      "translation": "โฮสเทล",
+      "example": "Nos quedamos en un hostal barato.",
+      "exampleTranslation": "เราพักที่โฮสเทลราคาถูก"
+    },
+    {
+      "word": "pensión",
+      "translation": "เกสต์เฮาส์",
+      "example": "La pensión es acogedora.",
+      "exampleTranslation": "เกสต์เฮาส์อบอุ่นดี"
+    },
+    {
+      "word": "villa",
+      "translation": "บ้านพักตากอากาศ",
+      "example": "Alquilamos una villa junto al mar.",
+      "exampleTranslation": "เราเช่าบ้านพักตากอากาศริมทะเล"
+    },
+    {
+      "word": "botones",
+      "translation": "พนักงานยกกระเป๋า",
+      "example": "El botones llevó nuestras maletas.",
+      "exampleTranslation": "พนักงานยกกระเป๋าถือกระเป๋าเดินทางให้เรา"
+    },
+    {
+      "word": "portero",
+      "translation": "พนักงานเปิดประตู",
+      "example": "El portero nos abrió la puerta.",
+      "exampleTranslation": "พนักงานเปิดประตูให้เรา"
+    },
+    {
+      "word": "salir",
+      "translation": "ออกจาก",
+      "example": "El tren sale a las ocho.",
+      "exampleTranslation": "รถไฟออกตอนแปดโมง"
+    },
+    {
+      "word": "llegar",
+      "translation": "มาถึง",
+      "example": "Llegamos al hotel de noche.",
+      "exampleTranslation": "เรามาถึงโรงแรมตอนกลางคืน"
+    },
+    {
+      "word": "entrar",
+      "translation": "เข้าไป",
+      "example": "Entramos en el museo temprano.",
+      "exampleTranslation": "เราเข้าพิพิธภัณฑ์แต่เช้า"
+    },
+    {
+      "word": "a la derecha",
+      "translation": "ทางขวา",
+      "example": "Gira a la derecha en la esquina.",
+      "exampleTranslation": "เลี้ยวขวาที่หัวมุมถนน"
+    },
+    {
+      "word": "a la izquierda",
+      "translation": "ทางซ้าย",
+      "example": "El banco está a la izquierda.",
+      "exampleTranslation": "ธนาคารอยู่ทางซ้าย"
+    },
+    {
+      "word": "recto",
+      "translation": "ตรงไป",
+      "example": "Sigue recto hasta el semáforo.",
+      "exampleTranslation": "เดินตรงไปจนถึงไฟจราจร"
+    },
+    {
+      "word": "norte",
+      "translation": "ทิศเหนือ",
+      "example": "El pueblo está al norte.",
+      "exampleTranslation": "หมู่บ้านอยู่ทางทิศเหนือ"
+    },
+    {
+      "word": "sur",
+      "translation": "ทิศใต้",
+      "example": "Viajamos al sur del país.",
+      "exampleTranslation": "เราเดินทางไปทางทิศใต้ของประเทศ"
+    },
+    {
+      "word": "este",
+      "translation": "ทิศตะวันออก",
+      "example": "El sol sale por el este.",
+      "exampleTranslation": "ดวงอาทิตย์ขึ้นทางทิศตะวันออก"
+    },
+    {
+      "word": "oeste",
+      "translation": "ทิศตะวันตก",
+      "example": "El sol se pone en el oeste.",
+      "exampleTranslation": "ดวงอาทิตย์ตกทางทิศตะวันตก"
+    },
+    {
+      "word": "al lado de",
+      "translation": "ข้างๆ",
+      "example": "La farmacia está al lado del banco.",
+      "exampleTranslation": "ร้านขายยาอยู่ข้างธนาคาร"
+    },
+    {
+      "word": "enfrente",
+      "translation": "ตรงหน้า",
+      "example": "El parque está enfrente de mi casa.",
+      "exampleTranslation": "สวนสาธารณะอยู่ตรงหน้าบ้านของฉัน"
+    },
+    {
+      "word": "detrás",
+      "translation": "ข้างหลัง",
+      "example": "El jardín está detrás de la casa.",
+      "exampleTranslation": "สวนอยู่ด้านหลังบ้าน"
+    },
+    {
+      "word": "perdido",
+      "translation": "หลงทาง",
+      "example": "Estamos perdidos en la ciudad.",
+      "exampleTranslation": "เราหลงทางอยู่ในเมือง"
+    },
+    {
+      "word": "continente",
+      "translation": "ทวีป",
+      "example": "Asia es el continente más grande.",
+      "exampleTranslation": "เอเชียเป็นทวีปที่ใหญ่ที่สุด"
+    },
+    {
+      "word": "país",
+      "translation": "ประเทศ",
+      "example": "Tailandia es un país hermoso.",
+      "exampleTranslation": "ประเทศไทยเป็นประเทศที่สวยงาม"
+    },
+    {
+      "word": "frontera",
+      "translation": "พรมแดน",
+      "example": "Cruzamos la frontera en coche.",
+      "exampleTranslation": "เราข้ามพรมแดนโดยรถยนต์"
+    },
+    {
+      "word": "capital",
+      "translation": "เมืองหลวง",
+      "example": "Madrid es la capital de España.",
+      "exampleTranslation": "มาดริดเป็นเมืองหลวงของสเปน"
+    },
+    {
+      "word": "estrecho",
+      "translation": "ช่องแคบ, แคบ",
+      "example": "El barco cruzó el estrecho.",
+      "exampleTranslation": "เรือแล่นข้ามช่องแคบ"
+    },
+    {
+      "word": "golfo",
+      "translation": "อ่าว",
+      "example": "El golfo de México es enorme.",
+      "exampleTranslation": "อ่าวเม็กซิโกกว้างใหญ่มาก"
+    },
+    {
+      "word": "Europa",
+      "translation": "ยุโรป",
+      "example": "Viajé por Europa el año pasado.",
+      "exampleTranslation": "ปีที่แล้วฉันเดินทางไปทั่วยุโรป"
+    },
+    {
+      "word": "África",
+      "translation": "แอฟริกา",
+      "example": "África tiene muchos países.",
+      "exampleTranslation": "แอฟริกามีหลายประเทศ"
+    },
+    {
+      "word": "América del Norte",
+      "translation": "อเมริกาเหนือ",
+      "example": "Canadá está en América del Norte.",
+      "exampleTranslation": "แคนาดาอยู่ในอเมริกาเหนือ"
+    },
+    {
+      "word": "América del Sur",
+      "translation": "อเมริกาใต้",
+      "example": "Brasil es el país más grande de América del Sur.",
+      "exampleTranslation": "บราซิลเป็นประเทศที่ใหญ่ที่สุดในอเมริกาใต้"
+    },
+    {
+      "word": "Asia",
+      "translation": "เอเชีย",
+      "example": "Tailandia está en Asia.",
+      "exampleTranslation": "ประเทศไทยอยู่ในทวีปเอเชีย"
+    },
+    {
+      "word": "Oceanía",
+      "translation": "โอเชียเนีย",
+      "example": "Australia forma parte de Oceanía.",
+      "exampleTranslation": "ออสเตรเลียเป็นส่วนหนึ่งของโอเชียเนีย"
+    },
+    {
+      "word": "Antártida",
+      "translation": "แอนตาร์กติกา",
+      "example": "La Antártida es muy fría.",
+      "exampleTranslation": "แอนตาร์กติกาหนาวมาก"
+    },
+    {
+      "word": "hemisferio norte",
+      "translation": "ซีกโลกเหนือ",
+      "example": "Vivimos en el hemisferio norte.",
+      "exampleTranslation": "เราอาศัยอยู่ในซีกโลกเหนือ"
+    },
+    {
+      "word": "hemisferio sur",
+      "translation": "ซีกโลกใต้",
+      "example": "Australia está en el hemisferio sur.",
+      "exampleTranslation": "ออสเตรเลียอยู่ในซีกโลกใต้"
+    },
+    {
+      "word": "ecuador",
+      "translation": "เส้นศูนย์สูตร",
+      "example": "El ecuador divide la Tierra en dos.",
+      "exampleTranslation": "เส้นศูนย์สูตรแบ่งโลกออกเป็นสองส่วน"
+    },
+    {
+      "word": "Polo Norte",
+      "translation": "ขั้วโลกเหนือ",
+      "example": "El Polo Norte está siempre helado.",
+      "exampleTranslation": "ขั้วโลกเหนือเป็นน้ำแข็งตลอดเวลา"
+    },
+    {
+      "word": "Polo Sur",
+      "translation": "ขั้วโลกใต้",
+      "example": "Pocos exploradores llegan al Polo Sur.",
+      "exampleTranslation": "มีนักสำรวจเพียงไม่กี่คนที่ไปถึงขั้วโลกใต้"
+    },
+    {
+      "word": "centro",
+      "translation": "ใจกลางเมือง",
+      "example": "Vivo cerca del centro.",
+      "exampleTranslation": "ฉันอาศัยอยู่ใกล้ใจกลางเมือง"
+    },
+    {
+      "word": "barrio",
+      "translation": "ย่าน, ละแวกบ้าน",
+      "example": "Mi barrio es muy tranquilo.",
+      "exampleTranslation": "ย่านที่ฉันอยู่เงียบสงบมาก"
+    },
+    {
+      "word": "bulevar",
+      "translation": "ถนนบูเลอวาร์ด",
+      "example": "Caminamos por el bulevar.",
+      "exampleTranslation": "เราเดินไปตามถนนบูเลอวาร์ด"
+    },
+    {
+      "word": "acera",
+      "translation": "ทางเท้า",
+      "example": "Camina por la acera, no la calle.",
+      "exampleTranslation": "เดินบนทางเท้า อย่าเดินบนถนน"
+    },
+    {
+      "word": "puente",
+      "translation": "สะพาน",
+      "example": "Cruzamos el puente a pie.",
+      "exampleTranslation": "เราเดินข้ามสะพาน"
+    },
+    {
+      "word": "túnel",
+      "translation": "อุโมงค์",
+      "example": "El túnel pasa bajo el río.",
+      "exampleTranslation": "อุโมงค์ลอดใต้แม่น้ำ"
+    },
+    {
+      "word": "semáforo",
+      "translation": "ไฟจราจร",
+      "example": "Espera en el semáforo.",
+      "exampleTranslation": "รอที่ไฟจราจร"
+    },
+    {
+      "word": "aparcamiento",
+      "translation": "ที่จอดรถ",
+      "example": "No hay aparcamiento cerca.",
+      "exampleTranslation": "ไม่มีที่จอดรถแถวนี้"
+    },
+    {
+      "word": "oficina de correos",
+      "translation": "ที่ทำการไปรษณีย์",
+      "example": "Envié el paquete en la oficina de correos.",
+      "exampleTranslation": "ฉันส่งพัสดุที่ที่ทำการไปรษณีย์"
+    },
+    {
+      "word": "comisaría de policía",
+      "translation": "สถานีตำรวจ",
+      "example": "Denuncié el robo en la comisaría de policía.",
+      "exampleTranslation": "ฉันแจ้งความเรื่องขโมยที่สถานีตำรวจ"
+    },
+    {
+      "word": "centro comercial",
+      "translation": "ห้างสรรพสินค้า",
+      "example": "Vamos al centro comercial este fin de semana.",
+      "exampleTranslation": "สุดสัปดาห์นี้เราจะไปห้างสรรพสินค้า"
+    },
+    {
+      "word": "iglesia",
+      "translation": "โบสถ์",
+      "example": "La boda fue en una iglesia antigua.",
+      "exampleTranslation": "งานแต่งงานจัดขึ้นที่โบสถ์เก่า"
+    },
+    {
+      "word": "mezquita",
+      "translation": "มัสยิด",
+      "example": "Visitamos una mezquita hermosa.",
+      "exampleTranslation": "เราไปเยี่ยมชมมัสยิดที่สวยงาม"
+    },
+    {
+      "word": "sinagoga",
+      "translation": "โบสถ์ยิว",
+      "example": "La sinagoga está en el centro histórico.",
+      "exampleTranslation": "โบสถ์ยิวตั้งอยู่ในย่านประวัติศาสตร์"
+    },
+    {
+      "word": "fuente",
+      "translation": "น้ำพุ",
+      "example": "Los niños juegan cerca de la fuente.",
+      "exampleTranslation": "เด็กๆเล่นอยู่ใกล้น้ำพุ"
+    },
+    {
+      "word": "banco",
+      "translation": "ม้านั่ง, ธนาคาร",
+      "example": "Me senté en un banco del parque.",
+      "exampleTranslation": "ฉันนั่งบนม้านั่งในสวนสาธารณะ"
+    },
+    {
+      "word": "cabina telefónica",
+      "translation": "ตู้โทรศัพท์สาธารณะ",
+      "example": "Ya casi no hay cabinas telefónicas.",
+      "exampleTranslation": "ตอนนี้แทบไม่เหลือตู้โทรศัพท์สาธารณะแล้ว"
+    },
+    {
+      "word": "selva",
+      "translation": "ป่าดงดิบ",
+      "example": "La selva amazónica es enorme.",
+      "exampleTranslation": "ป่าดงดิบอเมซอนกว้างใหญ่มาก"
+    },
+    {
+      "word": "arbusto",
+      "translation": "พุ่มไม้",
+      "example": "Hay un arbusto detrás de la casa.",
+      "exampleTranslation": "มีพุ่มไม้อยู่หลังบ้าน"
+    },
+    {
+      "word": "rama",
+      "translation": "กิ่งไม้",
+      "example": "El pájaro está en la rama.",
+      "exampleTranslation": "นกเกาะอยู่บนกิ่งไม้"
+    },
+    {
+      "word": "raíz",
+      "translation": "ราก",
+      "example": "Las raíces del árbol son profundas.",
+      "exampleTranslation": "รากของต้นไม้หยั่งลึกมาก"
+    },
+    {
+      "word": "tronco",
+      "translation": "ลำต้น",
+      "example": "El tronco del árbol es muy grueso.",
+      "exampleTranslation": "ลำต้นของต้นไม้หนามาก"
+    },
+    {
+      "word": "pino",
+      "translation": "ต้นสน",
+      "example": "Plantamos un pino en el jardín.",
+      "exampleTranslation": "เราปลูกต้นสนในสวน"
+    },
+    {
+      "word": "paloma",
+      "translation": "นกพิราบ",
+      "example": "Las palomas comen en la plaza.",
+      "exampleTranslation": "นกพิราบกินอาหารในจัตุรัส"
+    },
+    {
+      "word": "águila",
+      "translation": "นกอินทรี",
+      "example": "El águila vuela muy alto.",
+      "exampleTranslation": "นกอินทรีบินสูงมาก"
+    },
+    {
+      "word": "pato",
+      "translation": "เป็ด",
+      "example": "Los patos nadan en el lago.",
+      "exampleTranslation": "เป็ดว่ายน้ำอยู่ในทะเลสาบ"
+    },
+    {
+      "word": "oveja",
+      "translation": "แกะ",
+      "example": "Las ovejas están en el campo.",
+      "exampleTranslation": "แกะอยู่ในทุ่งหญ้า"
+    },
+    {
+      "word": "burro",
+      "translation": "ลา",
+      "example": "El burro carga leña.",
+      "exampleTranslation": "ลาแบกฟืน"
+    },
+    {
+      "word": "ciervo",
+      "translation": "กวาง",
+      "example": "Vimos un ciervo en el bosque.",
+      "exampleTranslation": "เราเห็นกวางในป่า"
+    },
+    {
+      "word": "ardilla",
+      "translation": "กระรอก",
+      "example": "La ardilla sube al árbol rápido.",
+      "exampleTranslation": "กระรอกปีนต้นไม้อย่างรวดเร็ว"
+    },
+    {
+      "word": "búho",
+      "translation": "นกฮูก",
+      "example": "El búho caza de noche.",
+      "exampleTranslation": "นกฮูกล่าเหยื่อตอนกลางคืน"
+    },
+    {
+      "word": "zorro",
+      "translation": "สุนัขจิ้งจอก",
+      "example": "El zorro es muy astuto.",
+      "exampleTranslation": "สุนัขจิ้งจอกฉลาดมาก"
+    },
+    {
+      "word": "lobo",
+      "translation": "หมาป่า",
+      "example": "Los lobos viven en manadas.",
+      "exampleTranslation": "หมาป่าอาศัยอยู่เป็นฝูง"
+    },
+    {
+      "word": "pingüino",
+      "translation": "เพนกวิน",
+      "example": "El pingüino vive en climas fríos.",
+      "exampleTranslation": "เพนกวินอาศัยอยู่ในสภาพอากาศหนาวเย็น"
+    },
+    {
+      "word": "ballena",
+      "translation": "ปลาวาฬ",
+      "example": "La ballena azul es el animal más grande.",
+      "exampleTranslation": "ปลาวาฬสีน้ำเงินเป็นสัตว์ที่ใหญ่ที่สุด"
+    },
+    {
+      "word": "tortuga",
+      "translation": "เต่า",
+      "example": "La tortuga camina despacio.",
+      "exampleTranslation": "เต่าเดินช้ามาก"
+    },
+    {
+      "word": "elefante",
+      "translation": "ช้าง",
+      "example": "El elefante es muy inteligente.",
+      "exampleTranslation": "ช้างเป็นสัตว์ที่ฉลาดมาก"
+    },
+    {
+      "word": "colina",
+      "translation": "เนินเขา",
+      "example": "Subimos la colina en bicicleta.",
+      "exampleTranslation": "เราปั่นจักรยานขึ้นเนินเขา"
+    },
+    {
+      "word": "valle",
+      "translation": "หุบเขา",
+      "example": "El valle está lleno de flores.",
+      "exampleTranslation": "หุบเขาเต็มไปด้วยดอกไม้"
+    },
+    {
+      "word": "océano",
+      "translation": "มหาสมุทร",
+      "example": "El océano Pacífico es enorme.",
+      "exampleTranslation": "มหาสมุทรแปซิฟิกกว้างใหญ่มาก"
+    },
+    {
+      "word": "arena",
+      "translation": "ทราย",
+      "example": "Los niños juegan en la arena.",
+      "exampleTranslation": "เด็กๆเล่นอยู่บนทราย"
+    },
+    {
+      "word": "isla",
+      "translation": "เกาะ",
+      "example": "Viajamos a una isla tropical.",
+      "exampleTranslation": "เราเดินทางไปเกาะเขตร้อน"
+    },
+    {
+      "word": "desierto",
+      "translation": "ทะเลทราย",
+      "example": "El desierto es muy seco.",
+      "exampleTranslation": "ทะเลทรายแห้งแล้งมาก"
+    },
+    {
+      "word": "cascada",
+      "translation": "น้ำตก",
+      "example": "Vimos una cascada preciosa.",
+      "exampleTranslation": "เราเห็นน้ำตกที่สวยงามมาก"
+    },
+    {
+      "word": "niebla",
+      "translation": "หมอก",
+      "example": "Hay mucha niebla esta mañana.",
+      "exampleTranslation": "เช้านี้มีหมอกลงเยอะมาก"
+    },
+    {
+      "word": "neblina",
+      "translation": "หมอกบางๆ",
+      "example": "La neblina cubre las montañas.",
+      "exampleTranslation": "หมอกบางๆปกคลุมภูเขา"
+    },
+    {
+      "word": "lloviznar",
+      "translation": "ฝนตกปรอยๆ",
+      "example": "Está lloviznando afuera.",
+      "exampleTranslation": "ข้างนอกฝนกำลังตกปรอยๆ"
+    },
+    {
+      "word": "tormenta eléctrica",
+      "translation": "พายุฝนฟ้าคะนอง",
+      "example": "Habrá una tormenta eléctrica esta noche.",
+      "exampleTranslation": "คืนนี้จะมีพายุฝนฟ้าคะนอง"
+    },
+    {
+      "word": "trueno",
+      "translation": "เสียงฟ้าร้อง",
+      "example": "Escuché un trueno fuerte.",
+      "exampleTranslation": "ฉันได้ยินเสียงฟ้าร้องดังมาก"
+    },
+    {
+      "word": "relámpago",
+      "translation": "แสงฟ้าแลบ",
+      "example": "Vi un relámpago en el cielo.",
+      "exampleTranslation": "ฉันเห็นแสงฟ้าแลบบนท้องฟ้า"
+    },
+    {
+      "word": "rayo",
+      "translation": "สายฟ้า",
+      "example": "Un rayo cayó cerca de mi casa.",
+      "exampleTranslation": "สายฟ้าฟาดลงใกล้บ้านฉัน"
+    },
+    {
+      "word": "granizo",
+      "translation": "ลูกเห็บ",
+      "example": "El granizo dañó las plantas.",
+      "exampleTranslation": "ลูกเห็บทำให้ต้นไม้เสียหาย"
+    },
+    {
+      "word": "helada",
+      "translation": "น้ำค้างแข็ง",
+      "example": "Hubo una helada esta mañana.",
+      "exampleTranslation": "เช้านี้มีน้ำค้างแข็ง"
+    },
+    {
+      "word": "brisa",
+      "translation": "ลมพัดเบาๆ",
+      "example": "Sentimos una brisa fresca.",
+      "exampleTranslation": "เรารู้สึกถึงลมเย็นๆพัดผ่าน"
+    },
+    {
+      "word": "tempestad",
+      "translation": "พายุใหญ่",
+      "example": "Se acerca una tempestad.",
+      "exampleTranslation": "พายุใหญ่กำลังเข้ามา"
+    },
+    {
+      "word": "ventisca",
+      "translation": "พายุหิมะ",
+      "example": "La ventisca cerró las carreteras.",
+      "exampleTranslation": "พายุหิมะทำให้ถนนปิด"
+    },
+    {
+      "word": "nevada",
+      "translation": "หิมะตก",
+      "example": "Hubo una gran nevada anoche.",
+      "exampleTranslation": "เมื่อคืนหิมะตกหนักมาก"
+    },
+    {
+      "word": "pronóstico",
+      "translation": "พยากรณ์อากาศ",
+      "example": "El pronóstico dice que lloverá.",
+      "exampleTranslation": "พยากรณ์อากาศบอกว่าฝนจะตก"
+    },
+    {
+      "word": "ola de calor",
+      "translation": "คลื่นความร้อน",
+      "example": "Hay una ola de calor esta semana.",
+      "exampleTranslation": "สัปดาห์นี้มีคลื่นความร้อน"
+    },
+    {
+      "word": "temperatura",
+      "translation": "อุณหภูมิ",
+      "example": "La temperatura bajó mucho hoy.",
+      "exampleTranslation": "วันนี้อุณหภูมิลดลงมาก"
+    },
+    {
+      "word": "humedad",
+      "translation": "ความชื้น",
+      "example": "La humedad es muy alta aquí.",
+      "exampleTranslation": "ความชื้นที่นี่สูงมาก"
+    },
+    {
+      "word": "contaminación",
+      "translation": "มลพิษ",
+      "example": "La contaminación afecta la salud.",
+      "exampleTranslation": "มลพิษส่งผลเสียต่อสุขภาพ"
+    },
+    {
+      "word": "humo",
+      "translation": "ควัน",
+      "example": "El humo salía de la chimenea.",
+      "exampleTranslation": "ควันลอยออกมาจากปล่องไฟ"
+    },
+    {
+      "word": "basura",
+      "translation": "ขยะ",
+      "example": "Saca la basura, por favor.",
+      "exampleTranslation": "ช่วยเอาขยะไปทิ้งหน่อย"
+    },
+    {
+      "word": "residuos",
+      "translation": "ของเสีย",
+      "example": "La fábrica genera muchos residuos.",
+      "exampleTranslation": "โรงงานสร้างของเสียเยอะมาก"
+    },
+    {
+      "word": "reciclaje",
+      "translation": "การรีไซเคิล",
+      "example": "Practicamos el reciclaje en casa.",
+      "exampleTranslation": "เราทำการรีไซเคิลที่บ้าน"
+    },
+    {
+      "word": "sequía",
+      "translation": "ภัยแล้ง",
+      "example": "La sequía dañó los cultivos.",
+      "exampleTranslation": "ภัยแล้งทำให้พืชผลเสียหาย"
+    },
+    {
+      "word": "inundación",
+      "translation": "น้ำท่วม",
+      "example": "La inundación destruyó casas.",
+      "exampleTranslation": "น้ำท่วมทำลายบ้านเรือน"
+    },
+    {
+      "word": "huracán",
+      "translation": "พายุเฮอริเคน",
+      "example": "El huracán llegó a la costa.",
+      "exampleTranslation": "พายุเฮอริเคนพัดเข้าฝั่ง"
+    },
+    {
+      "word": "terremoto",
+      "translation": "แผ่นดินไหว",
+      "example": "El terremoto fue muy fuerte.",
+      "exampleTranslation": "แผ่นดินไหวรุนแรงมาก"
+    },
+    {
+      "word": "tornado",
+      "translation": "พายุทอร์นาโด",
+      "example": "El tornado destruyó el pueblo.",
+      "exampleTranslation": "พายุทอร์นาโดทำลายหมู่บ้าน"
+    },
+    {
+      "word": "tsunami",
+      "translation": "สึนามิ",
+      "example": "El tsunami causó grandes daños.",
+      "exampleTranslation": "สึนามิสร้างความเสียหายอย่างมาก"
+    },
+    {
+      "word": "avalancha",
+      "translation": "หิมะถล่ม",
+      "example": "Una avalancha bloqueó el camino.",
+      "exampleTranslation": "หิมะถล่มปิดกั้นเส้นทาง"
+    },
+    {
+      "word": "computadora",
+      "translation": "คอมพิวเตอร์",
+      "example": "Trabajo en mi computadora todo el día.",
+      "exampleTranslation": "ฉันทำงานกับคอมพิวเตอร์ทั้งวัน"
+    },
+    {
+      "word": "portátil",
+      "translation": "โน้ตบุ๊ก",
+      "example": "Llevo mi portátil a la universidad.",
+      "exampleTranslation": "ฉันพกโน้ตบุ๊กไปมหาวิทยาลัย"
+    },
+    {
+      "word": "tableta",
+      "translation": "แท็บเล็ต",
+      "example": "Uso la tableta para leer libros.",
+      "exampleTranslation": "ฉันใช้แท็บเล็ตอ่านหนังสือ"
+    },
+    {
+      "word": "teléfono móvil",
+      "translation": "โทรศัพท์มือถือ",
+      "example": "Perdí mi teléfono móvil.",
+      "exampleTranslation": "ฉันทำโทรศัพท์มือถือหาย"
+    },
+    {
+      "word": "ratón",
+      "translation": "เมาส์",
+      "example": "El ratón de la computadora no funciona.",
+      "exampleTranslation": "เมาส์คอมพิวเตอร์เสีย"
+    },
+    {
+      "word": "teclado",
+      "translation": "แป้นพิมพ์",
+      "example": "El teclado está sucio.",
+      "exampleTranslation": "แป้นพิมพ์สกปรก"
+    },
+    {
+      "word": "monitor",
+      "translation": "จอมอนิเตอร์",
+      "example": "El monitor es muy grande.",
+      "exampleTranslation": "จอมอนิเตอร์ใหญ่มาก"
+    },
+    {
+      "word": "pantalla",
+      "translation": "หน้าจอ",
+      "example": "La pantalla del teléfono se rompió.",
+      "exampleTranslation": "หน้าจอโทรศัพท์แตก"
+    },
+    {
+      "word": "aplicación",
+      "translation": "แอปพลิเคชัน",
+      "example": "Descargué una aplicación nueva.",
+      "exampleTranslation": "ฉันดาวน์โหลดแอปใหม่"
+    },
+    {
+      "word": "instalar",
+      "translation": "ติดตั้ง",
+      "example": "Voy a instalar el programa.",
+      "exampleTranslation": "ฉันจะติดตั้งโปรแกรม"
+    },
+    {
+      "word": "desinstalar",
+      "translation": "ถอนการติดตั้ง",
+      "example": "Voy a desinstalar esta aplicación.",
+      "exampleTranslation": "ฉันจะถอนการติดตั้งแอปนี้"
+    },
+    {
+      "word": "actualizar",
+      "translation": "อัปเดต",
+      "example": "Necesito actualizar el sistema.",
+      "exampleTranslation": "ฉันต้องอัปเดตระบบ"
+    },
+    {
+      "word": "guardar",
+      "translation": "บันทึก",
+      "example": "Guarda el documento antes de cerrar.",
+      "exampleTranslation": "บันทึกเอกสารก่อนปิด"
+    },
+    {
+      "word": "borrar",
+      "translation": "ลบ",
+      "example": "Voy a borrar este archivo.",
+      "exampleTranslation": "ฉันจะลบไฟล์นี้"
+    },
+    {
+      "word": "copiar",
+      "translation": "คัดลอก",
+      "example": "Voy a copiar este texto.",
+      "exampleTranslation": "ฉันจะคัดลอกข้อความนี้"
+    },
+    {
+      "word": "pegar",
+      "translation": "วาง(หลังคัดลอก)",
+      "example": "Voy a pegar el texto aquí.",
+      "exampleTranslation": "ฉันจะวางข้อความไว้ตรงนี้"
+    },
+    {
+      "word": "conectar",
+      "translation": "เชื่อมต่อ",
+      "example": "No puedo conectar a internet.",
+      "exampleTranslation": "ฉันเชื่อมต่ออินเทอร์เน็ตไม่ได้"
+    },
+    {
+      "word": "página web",
+      "translation": "หน้าเว็บ",
+      "example": "Visita nuestra página web.",
+      "exampleTranslation": "เข้าไปดูหน้าเว็บของเรานะ"
+    },
+    {
+      "word": "enlace",
+      "translation": "ลิงก์",
+      "example": "Haz clic en este enlace.",
+      "exampleTranslation": "คลิกลิงก์นี้"
+    },
+    {
+      "word": "contraseña",
+      "translation": "รหัสผ่าน",
+      "example": "Olvidé mi contraseña.",
+      "exampleTranslation": "ฉันลืมรหัสผ่านของตัวเอง"
+    },
+    {
+      "word": "cuenta",
+      "translation": "บัญชี(ผู้ใช้)",
+      "example": "Creé una cuenta nueva.",
+      "exampleTranslation": "ฉันสร้างบัญชีใหม่"
+    },
+    {
+      "word": "foro de discusión",
+      "translation": "กระดานสนทนา",
+      "example": "Publiqué mi pregunta en el foro de discusión.",
+      "exampleTranslation": "ฉันโพสต์คำถามในกระดานสนทนา"
+    },
+    {
+      "word": "blog",
+      "translation": "บล็อก",
+      "example": "Escribe un blog sobre viajes.",
+      "exampleTranslation": "เธอเขียนบล็อกเกี่ยวกับการท่องเที่ยว"
+    },
+    {
+      "word": "descargar",
+      "translation": "ดาวน์โหลด",
+      "example": "Voy a descargar el archivo.",
+      "exampleTranslation": "ฉันจะดาวน์โหลดไฟล์"
+    },
+    {
+      "word": "subir",
+      "translation": "อัปโหลด",
+      "example": "Voy a subir las fotos.",
+      "exampleTranslation": "ฉันจะอัปโหลดรูปภาพ"
+    },
+    {
+      "word": "buscar",
+      "translation": "ค้นหา",
+      "example": "Voy a buscar información en internet.",
+      "exampleTranslation": "ฉันจะค้นหาข้อมูลในอินเทอร์เน็ต"
+    },
+    {
+      "word": "seguir",
+      "translation": "ติดตาม",
+      "example": "Sigo a mi cantante favorito en redes.",
+      "exampleTranslation": "ฉันติดตามนักร้องคนโปรดในโซเชียล"
+    },
+    {
+      "word": "comentario",
+      "translation": "ความคิดเห็น",
+      "example": "Dejé un comentario en su foto.",
+      "exampleTranslation": "ฉันแสดงความคิดเห็นในรูปของเขา"
+    },
+    {
+      "word": "me gusta",
+      "translation": "กดไลก์",
+      "example": "Le di me gusta a su publicación.",
+      "exampleTranslation": "ฉันกดไลก์โพสต์ของเขา"
+    },
+    {
+      "word": "tranquilo",
+      "translation": "เงียบสงบ",
+      "example": "El pueblo es muy tranquilo.",
+      "exampleTranslation": "หมู่บ้านนี้เงียบสงบมาก"
+    },
+    {
+      "word": "ruidoso",
+      "translation": "มีเสียงดัง",
+      "example": "El bar es demasiado ruidoso.",
+      "exampleTranslation": "บาร์นี้เสียงดังเกินไป"
+    },
+    {
+      "word": "ensordecedor",
+      "translation": "ดังหูดับ",
+      "example": "El ruido era ensordecedor.",
+      "exampleTranslation": "เสียงดังหูดับมาก"
+    },
+    {
+      "word": "silencioso",
+      "translation": "เงียบ",
+      "example": "La biblioteca es muy silenciosa.",
+      "exampleTranslation": "ห้องสมุดเงียบมาก"
+    },
+    {
+      "word": "apagado",
+      "translation": "อู้อี้, เบา, สีหม่น",
+      "example": "Se oía un sonido apagado.",
+      "exampleTranslation": "ได้ยินเสียงอู้อี้ๆ"
+    },
+    {
+      "word": "zumbido",
+      "translation": "เสียงหึ่งๆ",
+      "example": "Se escucha un zumbido en la habitación.",
+      "exampleTranslation": "ได้ยินเสียงหึ่งๆในห้อง"
+    },
+    {
+      "word": "sordo",
+      "translation": "หูหนวก",
+      "example": "Mi abuelo está un poco sordo.",
+      "exampleTranslation": "ปู่ของฉันหูตึงนิดหน่อย"
+    },
+    {
+      "word": "duro de oído",
+      "translation": "หูตึง",
+      "example": "Es duro de oído por su edad.",
+      "exampleTranslation": "เขาหูตึงเพราะอายุมากแล้ว"
+    },
+    {
+      "word": "ciego",
+      "translation": "ตาบอด",
+      "example": "El perro guía ayuda a los ciegos.",
+      "exampleTranslation": "สุนัขนำทางช่วยเหลือคนตาบอด"
+    },
+    {
+      "word": "pegajoso",
+      "translation": "เหนียวติดมือ",
+      "example": "El dulce está pegajoso.",
+      "exampleTranslation": "ขนมหวานเหนียวติดมือ"
+    },
+    {
+      "word": "mullido",
+      "translation": "นุ่มฟู",
+      "example": "El cojín es muy mullido.",
+      "exampleTranslation": "หมอนอิงนุ่มฟูมาก"
+    },
+    {
+      "word": "entumecido",
+      "translation": "ชา",
+      "example": "Tengo el pie entumecido.",
+      "exampleTranslation": "เท้าของฉันชา"
+    },
+    {
+      "word": "olor",
+      "translation": "กลิ่น",
+      "example": "El olor a café me despierta.",
+      "exampleTranslation": "กลิ่นกาแฟทำให้ฉันตื่น"
+    },
+    {
+      "word": "perfume",
+      "translation": "น้ำหอม",
+      "example": "Le regalé un perfume caro.",
+      "exampleTranslation": "ฉันให้น้ำหอมราคาแพงเป็นของขวัญ"
+    },
+    {
+      "word": "hedor",
+      "translation": "กลิ่นเหม็นรุนแรง",
+      "example": "Hay un hedor en la cocina.",
+      "exampleTranslation": "มีกลิ่นเหม็นรุนแรงในครัว"
+    },
+    {
+      "word": "apestoso",
+      "translation": "เหม็น",
+      "example": "El queso huele apestoso.",
+      "exampleTranslation": "ชีสมีกลิ่นเหม็น"
+    },
+    {
+      "word": "húmedo",
+      "translation": "ชื้น",
+      "example": "El sótano está húmedo.",
+      "exampleTranslation": "ห้องใต้ดินชื้นแฉะ"
+    },
+    {
+      "word": "ahumado",
+      "translation": "รมควัน, กลิ่นควัน",
+      "example": "El jamón ahumado es delicioso.",
+      "exampleTranslation": "แฮมรมควันอร่อยมาก"
+    },
+    {
+      "word": "gusto",
+      "translation": "รสชาติ(ทั่วไป)",
+      "example": "Tiene buen gusto para la comida.",
+      "exampleTranslation": "เขามีรสนิยมที่ดีในเรื่องอาหาร"
+    },
+    {
+      "word": "sabor",
+      "translation": "รสชาติ",
+      "example": "Este helado tiene un sabor extraño.",
+      "exampleTranslation": "ไอศกรีมนี้มีรสชาติแปลก"
+    },
+    {
+      "word": "delicioso",
+      "translation": "อร่อย",
+      "example": "La comida está deliciosa.",
+      "exampleTranslation": "อาหารอร่อยมาก"
+    },
+    {
+      "word": "apetitoso",
+      "translation": "น่ากิน",
+      "example": "El pastel se ve apetitoso.",
+      "exampleTranslation": "เค้กดูน่ากินมาก"
+    },
+    {
+      "word": "soso",
+      "translation": "จืดชืด",
+      "example": "La sopa está muy sosa.",
+      "exampleTranslation": "ซุปจืดชืดมาก"
+    },
+    {
+      "word": "enorme",
+      "translation": "มหึมา",
+      "example": "Compramos una casa enorme.",
+      "exampleTranslation": "เราซื้อบ้านหลังใหญ่มหึมา"
+    },
+    {
+      "word": "diminuto",
+      "translation": "จิ๋วมาก",
+      "example": "El insecto es diminuto.",
+      "exampleTranslation": "แมลงตัวนี้จิ๋วมาก"
+    },
+    {
+      "word": "largo",
+      "translation": "ยาว",
+      "example": "El viaje fue muy largo.",
+      "exampleTranslation": "ทริปนี้ยาวนานมาก"
+    },
+    {
+      "word": "corto",
+      "translation": "สั้น",
+      "example": "Prefiero el pelo corto.",
+      "exampleTranslation": "ฉันชอบผมสั้นมากกว่า"
+    },
+    {
+      "word": "profundo",
+      "translation": "ลึก",
+      "example": "El lago es muy profundo.",
+      "exampleTranslation": "ทะเลสาบลึกมาก"
+    },
+    {
+      "word": "superficial",
+      "translation": "ผิวเผิน",
+      "example": "Su conocimiento es superficial.",
+      "exampleTranslation": "ความรู้ของเขาเป็นแค่ผิวเผิน"
+    },
+    {
+      "word": "grueso",
+      "translation": "หนา",
+      "example": "Este suéter es muy grueso.",
+      "exampleTranslation": "เสื้อกันหนาวตัวนี้หนามาก"
+    },
+    {
+      "word": "pesado",
+      "translation": "หนัก",
+      "example": "La maleta está muy pesada.",
+      "exampleTranslation": "กระเป๋าเดินทางหนักมาก"
+    },
+    {
+      "word": "ligero",
+      "translation": "เบา",
+      "example": "Esta mochila es ligera.",
+      "exampleTranslation": "กระเป๋าเป้ใบนี้เบามาก"
+    },
+    {
+      "word": "suave",
+      "translation": "นุ่มนวล",
+      "example": "La tela es muy suave.",
+      "exampleTranslation": "ผ้าผืนนี้นุ่มมาก"
+    },
+    {
+      "word": "rugoso",
+      "translation": "ขรุขระ",
+      "example": "La corteza del árbol es rugosa.",
+      "exampleTranslation": "เปลือกไม้ขรุขระ"
+    },
+    {
+      "word": "duro",
+      "translation": "แข็ง",
+      "example": "El pan está muy duro.",
+      "exampleTranslation": "ขนมปังแข็งมาก"
+    },
+    {
+      "word": "áspero",
+      "translation": "สาก",
+      "example": "Sus manos están ásperas.",
+      "exampleTranslation": "มือของเขาสากมาก"
+    },
+    {
+      "word": "plano",
+      "translation": "แบนราบ",
+      "example": "El terreno es plano.",
+      "exampleTranslation": "พื้นที่นี้ราบเรียบ"
+    },
+    {
+      "word": "usado",
+      "translation": "มือสอง, ผ่านการใช้งาน",
+      "example": "Compré un coche usado.",
+      "exampleTranslation": "ฉันซื้อรถมือสอง"
+    },
+    {
+      "word": "roto",
+      "translation": "แตก, พัง",
+      "example": "El vaso está roto.",
+      "exampleTranslation": "แก้วใบนี้แตกแล้ว"
+    },
+    {
+      "word": "rombo",
+      "translation": "รูปสี่เหลี่ยมขนมเปียกปูน",
+      "example": "Dibujó un rombo en la pizarra.",
+      "exampleTranslation": "เขาวาดรูปสี่เหลี่ยมขนมเปียกปูนบนกระดาน"
+    },
+    {
+      "word": "trapecio",
+      "translation": "รูปสี่เหลี่ยมคางหมู",
+      "example": "La mesa tiene forma de trapecio.",
+      "exampleTranslation": "โต๊ะมีรูปทรงสี่เหลี่ยมคางหมู"
+    },
+    {
+      "word": "esfera",
+      "translation": "ทรงกลม",
+      "example": "La pelota es una esfera perfecta.",
+      "exampleTranslation": "ลูกบอลเป็นทรงกลมสมบูรณ์"
+    },
+    {
+      "word": "pirámide",
+      "translation": "ปิรามิด",
+      "example": "Visitamos las pirámides de Egipto.",
+      "exampleTranslation": "เราไปเยี่ยมชมปิรามิดที่อียิปต์"
+    },
+    {
+      "word": "cono",
+      "translation": "ทรงกรวย",
+      "example": "El helado viene en un cono.",
+      "exampleTranslation": "ไอศกรีมใส่มาในโคน"
+    },
+    {
+      "word": "curvo",
+      "translation": "โค้ง",
+      "example": "El camino es muy curvo.",
+      "exampleTranslation": "ถนนสายนี้โค้งมาก"
+    },
+    {
+      "word": "redondo",
+      "translation": "กลม",
+      "example": "La mesa es redonda.",
+      "exampleTranslation": "โต๊ะเป็นทรงกลม"
+    },
+    {
+      "word": "óvalo",
+      "translation": "รูปไข่",
+      "example": "Su cara tiene forma de óvalo.",
+      "exampleTranslation": "ใบหน้าของเธอเป็นรูปไข่"
+    },
+    {
+      "word": "puntiagudo",
+      "translation": "แหลม",
+      "example": "Ten cuidado, es puntiagudo.",
+      "exampleTranslation": "ระวังนะ มันแหลมคม"
+    },
+    {
+      "word": "claro",
+      "translation": "สีอ่อน",
+      "example": "Prefiero los colores claros.",
+      "exampleTranslation": "ฉันชอบสีอ่อนมากกว่า"
+    },
+    {
+      "word": "oscuro",
+      "translation": "สีเข้ม",
+      "example": "Su chaqueta es de color oscuro.",
+      "exampleTranslation": "แจ็คเก็ตของเขาเป็นสีเข้ม"
+    },
+    {
+      "word": "brillante",
+      "translation": "สดใส, เป็นประกาย",
+      "example": "Le gustan los colores brillantes.",
+      "exampleTranslation": "เธอชอบสีสดใส"
+    },
+    {
+      "word": "beige",
+      "translation": "สีเบจ",
+      "example": "El sofá es de color beige.",
+      "exampleTranslation": "โซฟาเป็นสีเบจ"
+    },
+    {
+      "word": "gris",
+      "translation": "สีเทา",
+      "example": "El cielo está gris hoy.",
+      "exampleTranslation": "วันนี้ท้องฟ้าเป็นสีเทา"
+    },
+    {
+      "word": "dorado",
+      "translation": "สีทอง",
+      "example": "El anillo es dorado.",
+      "exampleTranslation": "แหวนวงนี้เป็นสีทอง"
+    },
+    {
+      "word": "plateado",
+      "translation": "สีเงิน",
+      "example": "Su coche es plateado.",
+      "exampleTranslation": "รถของเขาเป็นสีเงิน"
+    },
+    {
+      "word": "pasado",
+      "translation": "อดีต",
+      "example": "No pienses en el pasado.",
+      "exampleTranslation": "อย่าคิดถึงอดีตเลย"
+    },
+    {
+      "word": "presente",
+      "translation": "ปัจจุบัน",
+      "example": "Vive en el presente.",
+      "exampleTranslation": "ใช้ชีวิตอยู่กับปัจจุบัน"
+    },
+    {
+      "word": "futuro",
+      "translation": "อนาคต",
+      "example": "Pienso mucho en el futuro.",
+      "exampleTranslation": "ฉันคิดถึงอนาคตบ่อยๆ"
+    },
+    {
+      "word": "momento",
+      "translation": "ช่วงเวลา",
+      "example": "Espera un momento, por favor.",
+      "exampleTranslation": "รอสักครู่นะคะ"
+    },
+    {
+      "word": "fecha",
+      "translation": "วันที่",
+      "example": "¿Cuál es la fecha de hoy?",
+      "exampleTranslation": "วันนี้วันที่เท่าไหร่?"
+    },
+    {
+      "word": "calendario",
+      "translation": "ปฏิทิน",
+      "example": "Marqué la reunión en el calendario.",
+      "exampleTranslation": "ฉันจดวันประชุมไว้ในปฏิทิน"
+    },
+    {
+      "word": "década",
+      "translation": "ทศวรรษ",
+      "example": "Vivió allí durante una década.",
+      "exampleTranslation": "เขาอาศัยอยู่ที่นั่นเป็นเวลาหนึ่งทศวรรษ"
+    },
+    {
+      "word": "siglo",
+      "translation": "ศตวรรษ",
+      "example": "Este edificio tiene un siglo.",
+      "exampleTranslation": "อาคารนี้มีอายุหนึ่งศตวรรษ"
+    },
+    {
+      "word": "durante",
+      "translation": "ในระหว่าง",
+      "example": "Estudié mucho durante el examen.",
+      "exampleTranslation": "ฉันตั้งใจเรียนมากในช่วงสอบ"
+    },
+    {
+      "word": "hasta",
+      "translation": "จนกว่า",
+      "example": "Trabajo hasta las seis.",
+      "exampleTranslation": "ฉันทำงานจนถึงหกโมง"
+    },
+    {
+      "word": "desde",
+      "translation": "ตั้งแต่",
+      "example": "Vivo aquí desde el año pasado.",
+      "exampleTranslation": "ฉันอาศัยอยู่ที่นี่ตั้งแต่ปีที่แล้ว"
+    },
+    {
+      "word": "antes",
+      "translation": "ก่อน",
+      "example": "Llega antes de las ocho.",
+      "exampleTranslation": "มาถึงก่อนแปดโมงนะ"
+    },
+    {
+      "word": "después",
+      "translation": "หลังจาก",
+      "example": "Comemos después de la clase.",
+      "exampleTranslation": "เรากินข้าวหลังเลิกเรียน"
+    },
+    {
+      "word": "diario",
+      "translation": "ประจำวัน",
+      "example": "Hago ejercicio diario.",
+      "exampleTranslation": "ฉันออกกำลังกายทุกวัน"
+    },
+    {
+      "word": "semanal",
+      "translation": "รายสัปดาห์",
+      "example": "Tenemos una reunión semanal.",
+      "exampleTranslation": "เรามีประชุมประจำสัปดาห์"
+    },
+    {
+      "word": "mensual",
+      "translation": "รายเดือน",
+      "example": "Pago la renta mensual.",
+      "exampleTranslation": "ฉันจ่ายค่าเช่ารายเดือน"
+    },
+    {
+      "word": "anual",
+      "translation": "รายปี",
+      "example": "Tenemos una fiesta anual.",
+      "exampleTranslation": "เรามีงานเลี้ยงประจำปี"
+    },
+    {
+      "word": "decimal",
+      "translation": "ทศนิยม",
+      "example": "Usa un número decimal.",
+      "exampleTranslation": "ใช้ตัวเลขทศนิยม"
+    },
+    {
+      "word": "unidad",
+      "translation": "หน่วย",
+      "example": "¿Cuál es la unidad de medida?",
+      "exampleTranslation": "หน่วยวัดคืออะไร?"
+    },
+    {
+      "word": "metro",
+      "translation": "เมตร",
+      "example": "La habitación mide cuatro metros.",
+      "exampleTranslation": "ห้องนี้ยาวสี่เมตร"
+    },
+    {
+      "word": "centímetro",
+      "translation": "เซนติเมตร",
+      "example": "Mide diez centímetros.",
+      "exampleTranslation": "มันวัดได้สิบเซนติเมตร"
+    },
+    {
+      "word": "kilómetro",
+      "translation": "กิโลเมตร",
+      "example": "La playa está a cinco kilómetros.",
+      "exampleTranslation": "ชายหาดอยู่ห่างไปห้ากิโลเมตร"
+    },
+    {
+      "word": "gramo",
+      "translation": "กรัม",
+      "example": "Necesito cien gramos de harina.",
+      "exampleTranslation": "ฉันต้องการแป้งหนึ่งร้อยกรัม"
+    },
+    {
+      "word": "kilogramo",
+      "translation": "กิโลกรัม",
+      "example": "El paquete pesa un kilogramo.",
+      "exampleTranslation": "พัสดุนี้หนักหนึ่งกิโลกรัม"
+    },
+    {
+      "word": "litro",
+      "translation": "ลิตร",
+      "example": "Compré un litro de leche.",
+      "exampleTranslation": "ฉันซื้อนมหนึ่งลิตร"
+    },
+    {
+      "word": "mililitro",
+      "translation": "มิลลิลิตร",
+      "example": "El jarabe tiene doscientos mililitros.",
+      "exampleTranslation": "ขวดยาน้ำมีสองร้อยมิลลิลิตร"
+    },
+    {
+      "word": "grado",
+      "translation": "องศา",
+      "example": "La temperatura es de treinta grados.",
+      "exampleTranslation": "อุณหภูมิอยู่ที่สามสิบองศา"
+    },
+    {
+      "word": "metro cuadrado",
+      "translation": "ตารางเมตร",
+      "example": "El apartamento tiene sesenta metros cuadrados.",
+      "exampleTranslation": "อพาร์ตเมนต์มีขนาดหกสิบตารางเมตร"
+    },
+    {
+      "word": "mucho",
+      "translation": "มาก",
+      "example": "Tengo mucho trabajo hoy.",
+      "exampleTranslation": "วันนี้ฉันมีงานเยอะมาก"
+    },
+    {
+      "word": "poco",
+      "translation": "น้อย",
+      "example": "Tengo poco tiempo libre.",
+      "exampleTranslation": "ฉันมีเวลาว่างน้อยมาก"
+    },
+    {
+      "word": "bastante",
+      "translation": "ค่อนข้าง, พอสมควร",
+      "example": "Es bastante difícil aprender chino.",
+      "exampleTranslation": "การเรียนภาษาจีนค่อนข้างยาก"
+    },
+    {
+      "word": "demasiado",
+      "translation": "มากเกินไป",
+      "example": "Comió demasiado en la fiesta.",
+      "exampleTranslation": "เขากินมากเกินไปในงานปาร์ตี้"
+    },
+    {
+      "word": "suficiente",
+      "translation": "เพียงพอ",
+      "example": "Tenemos suficiente comida.",
+      "exampleTranslation": "เรามีอาหารเพียงพอ"
+    },
+    {
+      "word": "mayoría",
+      "translation": "ส่วนใหญ่",
+      "example": "La mayoría de la clase aprobó.",
+      "exampleTranslation": "นักเรียนส่วนใหญ่ในชั้นเรียนสอบผ่าน"
+    },
+    {
+      "word": "montón",
+      "translation": "กอง(เยอะแยะ)",
+      "example": "Tengo un montón de ropa para lavar.",
+      "exampleTranslation": "ฉันมีเสื้อผ้ากองใหญ่ที่ต้องซัก"
+    },
+    {
+      "word": "todo",
+      "translation": "ทั้งหมด",
+      "example": "Todo el mundo llegó a tiempo.",
+      "exampleTranslation": "ทุกคนมาถึงตรงเวลา"
+    },
+    {
+      "word": "docena",
+      "translation": "โหล",
+      "example": "Compré una docena de huevos.",
+      "exampleTranslation": "ฉันซื้อไข่หนึ่งโหล"
+    },
+    {
+      "word": "caja",
+      "translation": "กล่อง",
+      "example": "Guardo mis libros en una caja.",
+      "exampleTranslation": "ฉันเก็บหนังสือไว้ในกล่อง"
+    },
+    {
+      "word": "botella",
+      "translation": "ขวด",
+      "example": "Bebí una botella de agua.",
+      "exampleTranslation": "ฉันดื่มน้ำหนึ่งขวด"
+    },
+    {
+      "word": "rebanada",
+      "translation": "ชิ้น(ขนมปัง)",
+      "example": "Como una rebanada de pan cada mañana.",
+      "exampleTranslation": "ฉันกินขนมปังหนึ่งแผ่นทุกเช้า"
+    },
+    {
+      "word": "tarro",
+      "translation": "โหล",
+      "example": "Compré un tarro de miel.",
+      "exampleTranslation": "ฉันซื้อน้ำผึ้งหนึ่งโหล"
+    },
+    {
+      "word": "lata",
+      "translation": "กระป๋อง",
+      "example": "Abrí una lata de atún.",
+      "exampleTranslation": "ฉันเปิดปลาทูน่ากระป๋อง"
+    },
+    {
+      "word": "paquete",
+      "translation": "ห่อ, พัสดุ",
+      "example": "Recibí un paquete hoy.",
+      "exampleTranslation": "วันนี้ฉันได้รับพัสดุ"
+    },
+    {
+      "word": "trozo",
+      "translation": "ชิ้น",
+      "example": "Quiero un trozo de pastel.",
+      "exampleTranslation": "ฉันขอเค้กหนึ่งชิ้น"
+    },
+    {
+      "word": "porción",
+      "translation": "ส่วน(อาหาร)",
+      "example": "La porción es muy grande.",
+      "exampleTranslation": "ปริมาณอาหารนี้เยอะมาก"
+    },
+    {
+      "word": "cucharada",
+      "translation": "หนึ่งช้อน",
+      "example": "Añade una cucharada de azúcar.",
+      "exampleTranslation": "ใส่น้ำตาลหนึ่งช้อน"
+    },
+    {
+      "word": "puñado",
+      "translation": "หนึ่งกำมือ",
+      "example": "Tomé un puñado de almendras.",
+      "exampleTranslation": "ฉันหยิบอัลมอนด์มาหนึ่งกำมือ"
+    },
+    {
+      "word": "me",
+      "translation": "ฉัน(กรรม)",
+      "example": "Me llamo Ana.",
+      "exampleTranslation": "ฉันชื่ออานา"
+    },
+    {
+      "word": "te",
+      "translation": "เธอ(กรรม)",
+      "example": "Te quiero mucho.",
+      "exampleTranslation": "ฉันรักเธอมาก"
+    },
+    {
+      "word": "lo",
+      "translation": "เขา, มัน(กรรม)",
+      "example": "Lo vi ayer en la calle.",
+      "exampleTranslation": "ฉันเห็นเขาเมื่อวานบนถนน"
+    },
+    {
+      "word": "la",
+      "translation": "เธอ, มัน(กรรม)",
+      "example": "La llamé por teléfono.",
+      "exampleTranslation": "ฉันโทรหาเธอ"
+    },
+    {
+      "word": "nos",
+      "translation": "พวกเรา(กรรม)",
+      "example": "Nos invitaron a la fiesta.",
+      "exampleTranslation": "พวกเขาเชิญเราไปงานปาร์ตี้"
+    },
+    {
+      "word": "los",
+      "translation": "พวกเขา(กรรม,ชาย)",
+      "example": "Los vi en el parque.",
+      "exampleTranslation": "ฉันเห็นพวกเขาในสวนสาธารณะ"
+    },
+    {
+      "word": "las",
+      "translation": "พวกเธอ(กรรม,หญิง)",
+      "example": "Las conocí en la universidad.",
+      "exampleTranslation": "ฉันรู้จักพวกเธอที่มหาวิทยาลัย"
+    },
+    {
+      "word": "qué",
+      "translation": "อะไร",
+      "example": "¿Qué quieres comer?",
+      "exampleTranslation": "คุณอยากกินอะไร?"
+    },
+    {
+      "word": "quién",
+      "translation": "ใคร",
+      "example": "¿Quién es esa persona?",
+      "exampleTranslation": "คนนั้นคือใคร?"
+    },
+    {
+      "word": "cuál",
+      "translation": "อันไหน",
+      "example": "¿Cuál prefieres, este o ese?",
+      "exampleTranslation": "คุณชอบอันไหนมากกว่ากัน อันนี้หรืออันนั้น?"
+    },
+    {
+      "word": "cómo",
+      "translation": "อย่างไร",
+      "example": "¿Cómo llegaste hasta aquí?",
+      "exampleTranslation": "คุณมาถึงที่นี่ได้อย่างไร?"
+    },
+    {
+      "word": "cuándo",
+      "translation": "เมื่อไหร่",
+      "example": "¿Cuándo llega el tren?",
+      "exampleTranslation": "รถไฟจะมาถึงเมื่อไหร่?"
+    },
+    {
+      "word": "dónde",
+      "translation": "ที่ไหน",
+      "example": "¿Dónde está la estación?",
+      "exampleTranslation": "สถานีอยู่ที่ไหน?"
+    },
+    {
+      "word": "por qué",
+      "translation": "ทำไม",
+      "example": "¿Por qué llegaste tarde?",
+      "exampleTranslation": "ทำไมคุณถึงมาสาย?"
+    },
+    {
+      "word": "cuánto",
+      "translation": "เท่าไหร่",
+      "example": "¿Cuánto cuesta esto?",
+      "exampleTranslation": "อันนี้ราคาเท่าไหร่?"
+    },
+    {
+      "word": "normalmente",
+      "translation": "โดยปกติ",
+      "example": "Normalmente me levanto a las siete.",
+      "exampleTranslation": "โดยปกติฉันตื่นตอนเจ็ดโมง"
+    },
+    {
+      "word": "frecuentemente",
+      "translation": "บ่อยครั้ง",
+      "example": "Viaja frecuentemente por trabajo.",
+      "exampleTranslation": "เขาเดินทางบ่อยครั้งเพื่อทำงาน"
+    },
+    {
+      "word": "a menudo",
+      "translation": "บ่อยๆ",
+      "example": "A menudo como fuera de casa.",
+      "exampleTranslation": "ฉันมักจะกินข้าวนอกบ้านบ่อยๆ"
+    },
+    {
+      "word": "rápidamente",
+      "translation": "อย่างรวดเร็ว",
+      "example": "Terminó el trabajo rápidamente.",
+      "exampleTranslation": "เขาทำงานเสร็จอย่างรวดเร็ว"
+    },
+    {
+      "word": "fácilmente",
+      "translation": "อย่างง่ายดาย",
+      "example": "Aprendió español fácilmente.",
+      "exampleTranslation": "เขาเรียนภาษาสเปนได้อย่างง่ายดาย"
+    },
+    {
+      "word": "difícilmente",
+      "translation": "อย่างยากลำบาก",
+      "example": "Difícilmente pudo terminar a tiempo.",
+      "exampleTranslation": "เขาแทบทำเสร็จไม่ทันเวลาเลย"
+    },
+    {
+      "word": "claramente",
+      "translation": "อย่างชัดเจน",
+      "example": "Explicó todo claramente.",
+      "exampleTranslation": "เขาอธิบายทุกอย่างอย่างชัดเจน"
+    },
+    {
+      "word": "de repente",
+      "translation": "ทันใดนั้น",
+      "example": "De repente empezó a llover.",
+      "exampleTranslation": "ทันใดนั้นฝนก็เริ่มตก"
+    },
+    {
+      "word": "exactamente",
+      "translation": "อย่างแม่นยำ",
+      "example": "Llegó exactamente a las diez.",
+      "exampleTranslation": "เขามาถึงตรงสิบโมงเป๊ะ"
+    },
+    {
+      "word": "quizás",
+      "translation": "บางที",
+      "example": "Quizás llueva mañana.",
+      "exampleTranslation": "บางทีพรุ่งนี้ฝนอาจจะตก"
+    },
+    {
+      "word": "obviamente",
+      "translation": "อย่างเห็นได้ชัด",
+      "example": "Obviamente está cansado.",
+      "exampleTranslation": "เห็นได้ชัดว่าเขาเหนื่อย"
+    },
+    {
+      "word": "probablemente",
+      "translation": "บางทีอาจจะ",
+      "example": "Probablemente llegue tarde.",
+      "exampleTranslation": "ฉันอาจจะมาสาย"
+    },
+    {
+      "word": "seguramente",
+      "translation": "อย่างแน่นอน",
+      "example": "Seguramente va a llover hoy.",
+      "exampleTranslation": "วันนี้ฝนคงตกแน่นอน"
+    },
+    {
+      "word": "anteayer",
+      "translation": "เมื่อวานซืน",
+      "example": "Anteayer visité a mi abuela.",
+      "exampleTranslation": "เมื่อวานซืนฉันไปเยี่ยมย่า"
+    },
+    {
+      "word": "todavía",
+      "translation": "ยังคง",
+      "example": "Todavía no ha llegado.",
+      "exampleTranslation": "เขายังมาไม่ถึงเลย"
+    },
+    {
+      "word": "ya",
+      "translation": "แล้ว",
+      "example": "Ya terminé la tarea.",
+      "exampleTranslation": "ฉันทำการบ้านเสร็จแล้ว"
+    },
+    {
+      "word": "casi",
+      "translation": "เกือบจะ",
+      "example": "Casi llego tarde hoy.",
+      "exampleTranslation": "วันนี้ฉันเกือบมาสาย"
+    },
+    {
+      "word": "solo",
+      "translation": "แค่, เพียงแค่",
+      "example": "Solo quiero descansar.",
+      "exampleTranslation": "ฉันแค่อยากพักผ่อน"
+    },
+    {
+      "word": "también",
+      "translation": "เช่นกัน",
+      "example": "Yo también quiero ir.",
+      "exampleTranslation": "ฉันก็อยากไปเช่นกัน"
+    },
+    {
+      "word": "tampoco",
+      "translation": "ก็ไม่เหมือนกัน",
+      "example": "Yo tampoco sé la respuesta.",
+      "exampleTranslation": "ฉันก็ไม่รู้คำตอบเหมือนกัน"
+    },
+    {
+      "word": "adelante",
+      "translation": "ไปข้างหน้า",
+      "example": "Sigue adelante sin miedo.",
+      "exampleTranslation": "เดินหน้าต่อไปโดยไม่ต้องกลัว"
+    }
+  ]
+}
