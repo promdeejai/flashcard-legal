@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "A1",
-  "version": 26,
+  "version": 27,
   "items": [
     {
       "word": "action",
@@ -298,7 +298,7 @@
       "word": "become",
       "translation": "กลายเป็น",
       "example": "She becomes a nurse.",
-      "exampleTranslation": "เธอกลายเป็นพยาบาล"
+      "exampleTranslation": "เธอได้เป็นพยาบาล"
     },
     {
       "word": "bed",
@@ -850,7 +850,7 @@
       "word": "conversation",
       "translation": "การสนทนา",
       "example": "We have a long conversation.",
-      "exampleTranslation": "เรามีบทสนทนายาว"
+      "exampleTranslation": "เราคุยกันนานมาก"
     },
     {
       "word": "cook",
@@ -1060,7 +1060,7 @@
       "word": "difference",
       "translation": "ความแตกต่าง",
       "example": "The difference is small but real.",
-      "exampleTranslation": "ความแตกต่างมีน้อยแต่มีอยู่จริง"
+      "exampleTranslation": "ต่างกันนิดเดียวแต่ก็ต่างจริงๆ"
     },
     {
       "word": "different",
@@ -1090,7 +1090,7 @@
       "word": "discuss",
       "translation": "อภิปราย",
       "example": "We discuss it every week.",
-      "exampleTranslation": "เราอภิปรายเรื่องนี้ทุกสัปดาห์"
+      "exampleTranslation": "เราพูดคุยเรื่องนี้กันทุกสัปดาห์"
     },
     {
       "word": "dish",
@@ -1228,7 +1228,7 @@
       "word": "enjoy",
       "translation": "เพลิดเพลินกับ",
       "example": "I enjoy long walks.",
-      "exampleTranslation": "ฉันเพลิดเพลินกับการเดินเล่นไกลๆ"
+      "exampleTranslation": "ฉันชอบเดินเล่นไกลๆ"
     },
     {
       "word": "enough",
@@ -2194,7 +2194,7 @@
       "word": "lot",
       "translation": "จำนวนมาก",
       "example": "There is a lot of work today.",
-      "exampleTranslation": "วันนี้มีงานจำนวนมาก"
+      "exampleTranslation": "วันนี้มีงานเยอะมาก"
     },
     {
       "word": "love",
@@ -2452,7 +2452,7 @@
       "word": "natural",
       "translation": "ตามธรรมชาติ",
       "example": "This is a natural feeling.",
-      "exampleTranslation": "นี่คือความรู้สึกตามธรรมชาติ"
+      "exampleTranslation": "เป็นเรื่องธรรมชาติที่จะรู้สึกแบบนี้"
     },
     {
       "word": "near",
@@ -2542,7 +2542,7 @@
       "word": "note",
       "translation": "บันทึกข้อความ",
       "example": "She leaves a note on the table.",
-      "exampleTranslation": "เธอทิ้งบันทึกข้อความไว้บนโต๊ะ"
+      "exampleTranslation": "เธอเขียนโน้ตทิ้งไว้บนโต๊ะ"
     },
     {
       "word": "now",
@@ -3028,7 +3028,7 @@
       "word": "quick",
       "translation": "รวดเร็ว",
       "example": "That is a quick answer.",
-      "exampleTranslation": "นั่นเป็นคำตอบที่รวดเร็ว"
+      "exampleTranslation": "ตอบได้เร็วมาก"
     },
     {
       "word": "quiet",
@@ -3712,7 +3712,7 @@
       "word": "team",
       "translation": "ทีม",
       "example": "Our team wins on Sunday.",
-      "exampleTranslation": "ทีมของเราชนะวันอาทิตย์"
+      "exampleTranslation": "วันอาทิตย์ทีมของเราชนะ"
     },
     {
       "word": "teenager",
@@ -4054,7 +4054,7 @@
       "word": "want",
       "translation": "ต้องการ",
       "example": "I want a quiet evening.",
-      "exampleTranslation": "ฉันอยากได้ช่วงเย็นเงียบๆ"
+      "exampleTranslation": "ฉันอยากใช้เวลาช่วงเย็นแบบเงียบๆ"
     },
     {
       "word": "warm",
