@@ -4,12 +4,12 @@
   "learn": "en",
   "native": "de",
   "level": "A2",
-  "version": 25,
+  "version": 26,
   "items": [
     {
       "word": "ability",
       "translation": "die Fähigkeit",
-      "example": "She has a real ability to explain."
+      "example": "She has the ability to learn quickly."
     },
     {
       "word": "able",
@@ -24,7 +24,7 @@
     {
       "word": "accept",
       "translation": "akzeptieren",
-      "example": "He accepted the offer at once."
+      "example": "She accepted his offer."
     },
     {
       "word": "accident",
@@ -34,7 +34,7 @@
     {
       "word": "according to",
       "translation": "laut",
-      "example": "According to the map, it is nearer."
+      "example": "According to the map, the station is near."
     },
     {
       "word": "achieve",
@@ -69,7 +69,7 @@
     {
       "word": "affect",
       "translation": "beeinflussen",
-      "example": "The rain affected the harvest."
+      "example": "The rain affected our plans."
     },
     {
       "word": "ah",
@@ -79,7 +79,7 @@
     {
       "word": "airline",
       "translation": "die Fluggesellschaft",
-      "example": "The airline lost my case."
+      "example": "The airline lost my bag."
     },
     {
       "word": "alive",
@@ -114,17 +114,17 @@
     {
       "word": "already",
       "translation": "schon",
-      "example": "She had already left."
+      "example": "I have already eaten."
     },
     {
       "word": "alternative",
       "translation": "die Alternative",
-      "example": "There is no alternative route."
+      "example": "We had no alternative, so we waited."
     },
     {
       "word": "although",
       "translation": "obwohl",
-      "example": "Although it rained, we went."
+      "example": "Although it rained, we went to the beach."
     },
     {
       "word": "amount",
@@ -134,12 +134,12 @@
     {
       "word": "ancient",
       "translation": "uralt",
-      "example": "The wall is ancient."
+      "example": "We visited an ancient temple."
     },
     {
       "word": "ankle",
       "translation": "der Knöchel",
-      "example": "He hurt his ankle running."
+      "example": "The water was up to my ankles."
     },
     {
       "word": "anybody",
@@ -164,7 +164,7 @@
     {
       "word": "app",
       "translation": "die App",
-      "example": "The app crashes on old phones."
+      "example": "This app does not work on old phones."
     },
     {
       "word": "appear",
@@ -219,7 +219,7 @@
     {
       "word": "attack",
       "translation": "der Angriff",
-      "example": "The attack lasted ten minutes."
+      "example": "Our team made a fast attack."
     },
     {
       "word": "attend",
@@ -229,7 +229,7 @@
     {
       "word": "attention",
       "translation": "die Aufmerksamkeit",
-      "example": "Pay attention to the sign."
+      "example": "Can I have your attention, please?"
     },
     {
       "word": "attractive",
@@ -254,7 +254,7 @@
     {
       "word": "average",
       "translation": "durchschnittlich",
-      "example": "The average price has risen."
+      "example": "The average price is ten dollars."
     },
     {
       "word": "avoid",
@@ -309,7 +309,7 @@
     {
       "word": "bean",
       "translation": "die Bohne",
-      "example": "Soak the beans overnight."
+      "example": "She puts beans in the soup."
     },
     {
       "word": "bear",
@@ -324,7 +324,7 @@
     {
       "word": "beef",
       "translation": "das Rindfleisch",
-      "example": "The beef was too tough."
+      "example": "We had beef for dinner."
     },
     {
       "word": "behave",
@@ -354,7 +354,7 @@
     {
       "word": "billion",
       "translation": "die Milliarde",
-      "example": "The plan will cost a billion."
+      "example": "The world has about eight billion people."
     },
     {
       "word": "bin",
@@ -369,7 +369,7 @@
     {
       "word": "birth",
       "translation": "die Geburt",
-      "example": "The birth was recorded in May."
+      "example": "Please write your date of birth here."
     },
     {
       "word": "biscuit",
@@ -389,7 +389,7 @@
     {
       "word": "blood",
       "translation": "das Blut",
-      "example": "There was blood on the floor."
+      "example": "The heart moves blood around the body."
     },
     {
       "word": "blow",
@@ -409,7 +409,7 @@
     {
       "word": "bone",
       "translation": "der Knochen",
-      "example": "The dog buried the bone."
+      "example": "The dog is eating a bone."
     },
     {
       "word": "borrow",
@@ -419,7 +419,7 @@
     {
       "word": "boss",
       "translation": "der Chef",
-      "example": "Her boss approved the leave."
+      "example": "Her boss is very kind."
     },
     {
       "word": "bottom",
@@ -459,7 +459,7 @@
     {
       "word": "brush",
       "translation": "die Bürste",
-      "example": "Brush your shoes before you leave."
+      "example": "Brush your teeth before bed."
     },
     {
       "word": "buddy",
@@ -484,7 +484,7 @@
     {
       "word": "button",
       "translation": "der Knopf",
-      "example": "A button fell off his shirt."
+      "example": "This shirt has six buttons."
     },
     {
       "word": "camp",
@@ -494,7 +494,7 @@
     {
       "word": "care",
       "translation": "sich kümmern",
-      "example": "She takes care of her father."
+      "example": "Babies need a lot of care."
     },
     {
       "word": "carpet",
@@ -584,12 +584,12 @@
     {
       "word": "chip",
       "translation": "der Chip, die Pommes",
-      "example": "One chip fell on the floor."
+      "example": "We ordered chips and a salad."
     },
     {
       "word": "choice",
       "translation": "die Wahl",
-      "example": "It was a difficult choice."
+      "example": "We have only two choices."
     },
     {
       "word": "church",
@@ -599,7 +599,7 @@
     {
       "word": "cigarette",
       "translation": "die Zigarette",
-      "example": "He put out his cigarette."
+      "example": "He does not like cigarette smoke."
     },
     {
       "word": "circle",
@@ -614,12 +614,12 @@
     {
       "word": "clear",
       "translation": "klar",
-      "example": "The instructions were clear."
+      "example": "His answer was very clear."
     },
     {
       "word": "clever",
       "translation": "klug",
-      "example": "That was a clever solution."
+      "example": "That was a clever idea."
     },
     {
       "word": "climate",
@@ -629,7 +629,7 @@
     {
       "word": "cloud",
       "translation": "die Wolke",
-      "example": "One cloud covered the sun."
+      "example": "There is not one cloud in the sky."
     },
     {
       "word": "coach",
@@ -684,7 +684,7 @@
     {
       "word": "community",
       "translation": "die Gemeinschaft",
-      "example": "The community raised the money."
+      "example": "The whole community came to the party."
     },
     {
       "word": "compete",
@@ -714,12 +714,12 @@
     {
       "word": "connect",
       "translation": "verbinden",
-      "example": "Connect the cable to the back."
+      "example": "Connect your phone to the TV."
     },
     {
       "word": "consider",
       "translation": "überlegen",
-      "example": "Please consider the alternative."
+      "example": "Please consider my offer."
     },
     {
       "word": "contain",
@@ -729,7 +729,7 @@
     {
       "word": "context",
       "translation": "der Kontext",
-      "example": "The word means little without context."
+      "example": "The context helps you understand the word."
     },
     {
       "word": "continent",
@@ -744,7 +744,7 @@
     {
       "word": "control",
       "translation": "die Kontrolle",
-      "example": "She controls the whole budget."
+      "example": "He cannot control his dog."
     },
     {
       "word": "cooker",
@@ -789,12 +789,12 @@
     {
       "word": "crime",
       "translation": "das Verbrechen",
-      "example": "The crime was never solved."
+      "example": "Crime is low in this town."
     },
     {
       "word": "criminal",
       "translation": "der Kriminelle",
-      "example": "The criminal was caught in June."
+      "example": "The police caught the criminal."
     },
     {
       "word": "cross",
@@ -804,7 +804,7 @@
     {
       "word": "crowd",
       "translation": "die Menge",
-      "example": "A crowd gathered outside."
+      "example": "There was a big crowd outside."
     },
     {
       "word": "cry",
@@ -834,7 +834,7 @@
     {
       "word": "daily",
       "translation": "täglich",
-      "example": "The shop makes daily deliveries."
+      "example": "He reads the daily news."
     },
     {
       "word": "danger",
@@ -844,7 +844,7 @@
     {
       "word": "data",
       "translation": "die Daten",
-      "example": "The data was lost in the crash."
+      "example": "We lost all the data."
     },
     {
       "word": "dead",
@@ -864,7 +864,7 @@
     {
       "word": "death",
       "translation": "der Tod",
-      "example": "His death shocked the village."
+      "example": "The film is about life and death."
     },
     {
       "word": "decision",
@@ -889,7 +889,7 @@
     {
       "word": "dentist",
       "translation": "der Zahnarzt",
-      "example": "I have a dentist appointment."
+      "example": "My dentist is very kind."
     },
     {
       "word": "department",
@@ -929,12 +929,12 @@
     {
       "word": "device",
       "translation": "das Gerät",
-      "example": "The device runs on two batteries."
+      "example": "This device uses two batteries."
     },
     {
       "word": "diary",
       "translation": "das Tagebuch",
-      "example": "She writes in her diary nightly."
+      "example": "She writes in her diary every night."
     },
     {
       "word": "digital",
@@ -954,17 +954,17 @@
     {
       "word": "director",
       "translation": "der Regisseur",
-      "example": "The director approved the budget."
+      "example": "The director of the school is new."
     },
     {
       "word": "disagree",
       "translation": "anderer Meinung sein",
-      "example": "I disagree with that view."
+      "example": "I disagree with you on this."
     },
     {
       "word": "disappear",
       "translation": "verschwinden",
-      "example": "The keys simply disappeared."
+      "example": "My keys disappeared again."
     },
     {
       "word": "disaster",
@@ -974,17 +974,17 @@
     {
       "word": "discover",
       "translation": "entdecken",
-      "example": "They discovered the error late."
+      "example": "We discovered a quiet beach."
     },
     {
       "word": "discussion",
       "translation": "die Diskussion",
-      "example": "The discussion went on for hours."
+      "example": "We had a long discussion."
     },
     {
       "word": "disease",
       "translation": "die Krankheit",
-      "example": "The disease spreads slowly."
+      "example": "Some of the trees have a disease."
     },
     {
       "word": "distance",
@@ -1039,7 +1039,7 @@
     {
       "word": "duck",
       "translation": "die Ente",
-      "example": "A duck swam across the pond."
+      "example": "We fed the ducks in the park."
     },
     {
       "word": "earn",
@@ -1059,17 +1059,17 @@
     {
       "word": "effect",
       "translation": "der Effekt",
-      "example": "The effect was immediate."
+      "example": "The rain had a big effect on the game."
     },
     {
       "word": "electric",
       "translation": "elektrisch",
-      "example": "It is an electric kettle."
+      "example": "He drives an electric car."
     },
     {
       "word": "electronic",
       "translation": "elektronisch",
-      "example": "Keep electronic devices switched off."
+      "example": "The shop sells electronic games."
     },
     {
       "word": "employ",
@@ -1079,7 +1079,7 @@
     {
       "word": "employee",
       "translation": "der Angestellte",
-      "example": "Every employee gets a locker."
+      "example": "Every employee gets a free lunch."
     },
     {
       "word": "employer",
@@ -1099,12 +1099,12 @@
     {
       "word": "energy",
       "translation": "die Energie",
-      "example": "She has enormous energy."
+      "example": "Children have a lot of energy."
     },
     {
       "word": "engine",
       "translation": "der Motor",
-      "example": "The engine started at once."
+      "example": "The car engine is very old."
     },
     {
       "word": "engineer",
@@ -1119,22 +1119,22 @@
     {
       "word": "enter",
       "translation": "eintreten",
-      "example": "Do not enter without knocking."
+      "example": "Please do not enter this room."
     },
     {
       "word": "environment",
       "translation": "die Umwelt",
-      "example": "The factory harmed the environment."
+      "example": "Plastic is bad for the environment."
     },
     {
       "word": "equipment",
       "translation": "die Ausrüstung",
-      "example": "The equipment arrived damaged."
+      "example": "The gym has new equipment."
     },
     {
       "word": "error",
       "translation": "der Fehler",
-      "example": "One small error ruined the file."
+      "example": "There is an error in this sentence."
     },
     {
       "word": "especially",
@@ -1144,7 +1144,7 @@
     {
       "word": "essay",
       "translation": "der Aufsatz",
-      "example": "The essay is due on Monday."
+      "example": "I wrote an essay about my family."
     },
     {
       "word": "everyday",
@@ -1154,17 +1154,17 @@
     {
       "word": "everywhere",
       "translation": "überall",
-      "example": "Dust was everywhere."
+      "example": "There were people everywhere."
     },
     {
       "word": "evidence",
       "translation": "der Beweis",
-      "example": "There is little evidence for that claim."
+      "example": "The police found no evidence."
     },
     {
       "word": "exact",
       "translation": "genau",
-      "example": "I need the exact figure."
+      "example": "Tell me the exact price."
     },
     {
       "word": "excellent",
@@ -1179,7 +1179,7 @@
     {
       "word": "exist",
       "translation": "existieren",
-      "example": "Such a rule does not exist."
+      "example": "That rule does not exist."
     },
     {
       "word": "expect",
@@ -1199,12 +1199,12 @@
     {
       "word": "expert",
       "translation": "der Experte",
-      "example": "An expert examined the painting."
+      "example": "An expert looked at the painting."
     },
     {
       "word": "explanation",
       "translation": "die Erklärung",
-      "example": "His explanation made no sense."
+      "example": "Her explanation was very clear."
     },
     {
       "word": "express",
@@ -1224,7 +1224,7 @@
     {
       "word": "factor",
       "translation": "der Faktor",
-      "example": "Cost was the deciding factor."
+      "example": "Price is an important factor."
     },
     {
       "word": "factory",
@@ -1234,7 +1234,7 @@
     {
       "word": "fail",
       "translation": "scheitern",
-      "example": "The plan failed for simple reasons."
+      "example": "The first plan failed, so we tried again."
     },
     {
       "word": "fair",
@@ -1254,7 +1254,7 @@
     {
       "word": "fear",
       "translation": "die Angst",
-      "example": "His fear of heights is real."
+      "example": "I could see the fear in her eyes."
     },
     {
       "word": "feature",
@@ -1269,7 +1269,7 @@
     {
       "word": "female",
       "translation": "weiblich",
-      "example": "A female doctor saw him."
+      "example": "Most of the students are female."
     },
     {
       "word": "fiction",
@@ -1279,7 +1279,7 @@
     {
       "word": "field",
       "translation": "das Feld",
-      "example": "The field was full of sheep."
+      "example": "The farmer works in the field."
     },
     {
       "word": "fight",
@@ -1289,12 +1289,12 @@
     {
       "word": "figure",
       "translation": "die Zahl, die Figur",
-      "example": "The final figure surprised us."
+      "example": "The figure on the bill is wrong."
     },
     {
       "word": "finger",
       "translation": "der Finger",
-      "example": "She cut her finger."
+      "example": "She wears a ring on her finger."
     },
     {
       "word": "firstly",
@@ -1309,12 +1309,12 @@
     {
       "word": "fix",
       "translation": "reparieren",
-      "example": "Can you fix the tap?"
+      "example": "Can you fix my bike?"
     },
     {
       "word": "flu",
       "translation": "die Grippe",
-      "example": "He caught flu in January."
+      "example": "Many people get flu in winter."
     },
     {
       "word": "flying",
@@ -1324,7 +1324,7 @@
     {
       "word": "focus",
       "translation": "sich konzentrieren",
-      "example": "Focus on one task at a time."
+      "example": "Focus on your work."
     },
     {
       "word": "foreign",
@@ -1334,7 +1334,7 @@
     {
       "word": "forest",
       "translation": "der Wald",
-      "example": "The forest is protected."
+      "example": "They walked through the forest."
     },
     {
       "word": "fork",
@@ -1349,7 +1349,7 @@
     {
       "word": "fortunately",
       "translation": "glücklicherweise",
-      "example": "Fortunately nobody was hurt."
+      "example": "Fortunately, the rain stopped."
     },
     {
       "word": "forward",
@@ -1369,7 +1369,7 @@
     {
       "word": "frog",
       "translation": "der Frosch",
-      "example": "A frog jumped into the pond."
+      "example": "A frog jumped into the water."
     },
     {
       "word": "furniture",
@@ -1389,12 +1389,12 @@
     {
       "word": "gap",
       "translation": "die Lücke",
-      "example": "There is a gap in the fence."
+      "example": "There is a gap in the wall."
     },
     {
       "word": "gas",
       "translation": "das Gas",
-      "example": "The gas was switched off."
+      "example": "We cook with gas."
     },
     {
       "word": "gate",
@@ -1424,7 +1424,7 @@
     {
       "word": "god",
       "translation": "der Gott",
-      "example": "They prayed to their god."
+      "example": "Many people believe in god."
     },
     {
       "word": "gold",
@@ -1439,12 +1439,12 @@
     {
       "word": "government",
       "translation": "die Regierung",
-      "example": "The government announced new rules."
+      "example": "The government made new rules."
     },
     {
       "word": "grape",
       "translation": "die Traube",
-      "example": "She bought a bunch of grapes."
+      "example": "She bought some green grapes."
     },
     {
       "word": "grass",
@@ -1474,7 +1474,7 @@
     {
       "word": "gun",
       "translation": "die Waffe",
-      "example": "The gun was never loaded."
+      "example": "The children played with a water gun."
     },
     {
       "word": "guy",
@@ -1484,7 +1484,7 @@
     {
       "word": "habit",
       "translation": "die Gewohnheit",
-      "example": "It is a hard habit to break."
+      "example": "Reading is a good habit."
     },
     {
       "word": "hall",
@@ -1504,7 +1504,7 @@
     {
       "word": "heat",
       "translation": "die Hitze",
-      "example": "The heat was hard to bear."
+      "example": "I cannot sleep in this heat."
     },
     {
       "word": "heavy",
@@ -1514,7 +1514,7 @@
     {
       "word": "height",
       "translation": "die Höhe",
-      "example": "The height of the shelf is wrong."
+      "example": "The height of the door is two metres."
     },
     {
       "word": "hero",
@@ -1554,17 +1554,17 @@
     {
       "word": "horn",
       "translation": "das Horn",
-      "example": "The car horn woke everyone up."
+      "example": "The driver used his horn."
     },
     {
       "word": "huge",
       "translation": "riesig",
-      "example": "The garden is huge."
+      "example": "They live in a huge house."
     },
     {
       "word": "human",
       "translation": "menschlich",
-      "example": "It was a simple human error."
+      "example": "The human body is amazing."
     },
     {
       "word": "hurt",
@@ -1574,7 +1574,7 @@
     {
       "word": "ideal",
       "translation": "ideal",
-      "example": "This is the ideal spot."
+      "example": "This is the ideal place for a picnic."
     },
     {
       "word": "identify",
@@ -1614,7 +1614,7 @@
     {
       "word": "increase",
       "translation": "erhöhen",
-      "example": "Sales increased by a third."
+      "example": "The price of milk increased again."
     },
     {
       "word": "incredible",
@@ -1624,17 +1624,17 @@
     {
       "word": "independent",
       "translation": "unabhängig",
-      "example": "She is financially independent."
+      "example": "She lives an independent life."
     },
     {
       "word": "individual",
       "translation": "individuell",
-      "example": "Each individual gets one vote."
+      "example": "Every individual is different."
     },
     {
       "word": "industry",
       "translation": "die Industrie",
-      "example": "Tourism is the main industry here."
+      "example": "The car industry is big here."
     },
     {
       "word": "informal",
@@ -1644,12 +1644,12 @@
     {
       "word": "injury",
       "translation": "die Verletzung",
-      "example": "The injury kept him out for weeks."
+      "example": "He missed the game because of an injury."
     },
     {
       "word": "ink",
       "translation": "die Tinte",
-      "example": "The ink ran out halfway through."
+      "example": "This pen has blue ink."
     },
     {
       "word": "insect",
@@ -1669,7 +1669,7 @@
     {
       "word": "instruction",
       "translation": "die Anweisung",
-      "example": "Follow the instruction exactly."
+      "example": "Read the instructions before you start."
     },
     {
       "word": "instructor",
@@ -1704,7 +1704,7 @@
     {
       "word": "invention",
       "translation": "die Erfindung",
-      "example": "The invention changed farming."
+      "example": "The phone is a great invention."
     },
     {
       "word": "invite",
@@ -1734,7 +1734,7 @@
     {
       "word": "jewellery",
       "translation": "der Schmuck",
-      "example": "Her jewellery was insured."
+      "example": "She keeps her jewellery in a small box."
     },
     {
       "word": "joke",
@@ -1759,22 +1759,22 @@
     {
       "word": "kill",
       "translation": "töten",
-      "example": "The frost killed the plants."
+      "example": "The cold weather killed my plants."
     },
     {
       "word": "king",
       "translation": "der König",
-      "example": "The king signed the order."
+      "example": "The story is about a young king."
     },
     {
       "word": "knee",
       "translation": "das Knie",
-      "example": "He hurt his knee running."
+      "example": "The skirt is above the knee."
     },
     {
       "word": "knife",
       "translation": "das Messer",
-      "example": "The knife needs sharpening."
+      "example": "Cut the bread with this knife."
     },
     {
       "word": "knock",
@@ -1799,17 +1799,17 @@
     {
       "word": "lake",
       "translation": "der See",
-      "example": "The lake freezes in winter."
+      "example": "We swam in the lake."
     },
     {
       "word": "lamp",
       "translation": "die Lampe",
-      "example": "The lamp gives poor light."
+      "example": "There is a lamp by the bed."
     },
     {
       "word": "laptop",
       "translation": "der Laptop",
-      "example": "His laptop battery died."
+      "example": "His laptop is very old."
     },
     {
       "word": "laughter",
@@ -1819,12 +1819,12 @@
     {
       "word": "law",
       "translation": "das Gesetz",
-      "example": "The new law takes effect in June."
+      "example": "The new law starts in June."
     },
     {
       "word": "lawyer",
       "translation": "der Anwalt",
-      "example": "Her lawyer advised silence."
+      "example": "Her lawyer is very good."
     },
     {
       "word": "lazy",
@@ -1859,7 +1859,7 @@
     {
       "word": "level",
       "translation": "das Niveau",
-      "example": "The water level rose."
+      "example": "The water level is very high."
     },
     {
       "word": "lifestyle",
@@ -1884,7 +1884,7 @@
     {
       "word": "listener",
       "translation": "der Zuhörer",
-      "example": "One listener wrote in."
+      "example": "A listener called the radio show."
     },
     {
       "word": "litre",
@@ -1899,7 +1899,7 @@
     {
       "word": "lorry",
       "translation": "der Lastwagen",
-      "example": "A lorry blocked the lane."
+      "example": "A big lorry stopped outside our house."
     },
     {
       "word": "lost",
@@ -1919,12 +1919,12 @@
     {
       "word": "low",
       "translation": "niedrig",
-      "example": "The ceiling is very low."
+      "example": "The bridge is very low."
     },
     {
       "word": "luck",
       "translation": "das Glück",
-      "example": "With any luck we will arrive first."
+      "example": "Good luck with your exam!"
     },
     {
       "word": "luggage",
@@ -1954,7 +1954,7 @@
     {
       "word": "manager",
       "translation": "der Manager",
-      "example": "The manager approved the plan."
+      "example": "I want to speak to the manager."
     },
     {
       "word": "manner",
@@ -1974,7 +1974,7 @@
     {
       "word": "material",
       "translation": "das Material",
-      "example": "The material tears easily."
+      "example": "This material is very soft."
     },
     {
       "word": "mathematics",
@@ -1984,7 +1984,7 @@
     {
       "word": "maths",
       "translation": "die Mathe",
-      "example": "Maths was never his strength."
+      "example": "We have maths on Monday."
     },
     {
       "word": "matter",
@@ -1994,7 +1994,7 @@
     {
       "word": "media",
       "translation": "die Medien",
-      "example": "The media reported it wrongly."
+      "example": "The media loves this story."
     },
     {
       "word": "medical",
@@ -2009,7 +2009,7 @@
     {
       "word": "memory",
       "translation": "das Gedächtnis",
-      "example": "My memory is not what it was."
+      "example": "I have happy memories of that summer."
     },
     {
       "word": "mention",
@@ -2019,7 +2019,7 @@
     {
       "word": "metal",
       "translation": "das Metall",
-      "example": "The gate is solid metal."
+      "example": "The gate is made of metal."
     },
     {
       "word": "method",
@@ -2029,12 +2029,12 @@
     {
       "word": "middle",
       "translation": "die Mitte",
-      "example": "A table stood in the middle."
+      "example": "There is a table in the middle of the room."
     },
     {
       "word": "mind",
       "translation": "der Verstand",
-      "example": "Her mind was elsewhere."
+      "example": "A walk is good for the mind."
     },
     {
       "word": "minute",
@@ -2044,12 +2044,12 @@
     {
       "word": "mirror",
       "translation": "der Spiegel",
-      "example": "The mirror was cracked."
+      "example": "She looked in the mirror."
     },
     {
       "word": "mobile",
       "translation": "das Handy",
-      "example": "My mobile has no signal."
+      "example": "I left my mobile at home."
     },
     {
       "word": "monkey",
@@ -2074,12 +2074,12 @@
     {
       "word": "musician",
       "translation": "der Musiker",
-      "example": "The musician tuned his guitar."
+      "example": "The musician played for an hour."
     },
     {
       "word": "narrow",
       "translation": "eng",
-      "example": "The lane is very narrow."
+      "example": "The bridge is too narrow for cars."
     },
     {
       "word": "national",
@@ -2089,7 +2089,7 @@
     {
       "word": "nature",
       "translation": "die Natur",
-      "example": "Nature recovers slowly here."
+      "example": "She loves walking in nature."
     },
     {
       "word": "nearly",
@@ -2099,12 +2099,12 @@
     {
       "word": "necessary",
       "translation": "notwendig",
-      "example": "A visa is necessary for that trip."
+      "example": "Is it necessary to bring food?"
     },
     {
       "word": "neck",
       "translation": "der Hals",
-      "example": "His neck was stiff."
+      "example": "She wears a scarf around her neck."
     },
     {
       "word": "nervous",
@@ -2119,12 +2119,12 @@
     {
       "word": "network",
       "translation": "das Netzwerk",
-      "example": "The network is down again."
+      "example": "The phone network is very slow."
     },
     {
       "word": "noise",
       "translation": "der Lärm",
-      "example": "The noise stopped at last."
+      "example": "There is a lot of noise outside."
     },
     {
       "word": "normal",
@@ -2144,12 +2144,12 @@
     {
       "word": "nut",
       "translation": "die Nuss",
-      "example": "He cracked a nut with his teeth."
+      "example": "She adds nuts to her salad."
     },
     {
       "word": "ocean",
       "translation": "der Ozean",
-      "example": "The ocean was rough that day."
+      "example": "The ocean is very deep."
     },
     {
       "word": "offer",
@@ -2159,17 +2159,17 @@
     {
       "word": "officer",
       "translation": "der Beamte",
-      "example": "An officer took our names."
+      "example": "A police officer helped us."
     },
     {
       "word": "oil",
       "translation": "das Öl",
-      "example": "The oil leaked onto the floor."
+      "example": "Cook the fish in a little oil."
     },
     {
       "word": "opportunity",
       "translation": "die Gelegenheit",
-      "example": "This is a rare opportunity."
+      "example": "This job is a great opportunity."
     },
     {
       "word": "option",
@@ -2194,7 +2194,7 @@
     {
       "word": "oven",
       "translation": "der Ofen",
-      "example": "The oven takes ten minutes to heat."
+      "example": "Put the bread in the oven."
     },
     {
       "word": "owner",
@@ -2224,12 +2224,12 @@
     {
       "word": "pants",
       "translation": "die Unterhose",
-      "example": "His pants were covered in mud."
+      "example": "These pants are too short."
     },
     {
       "word": "particular",
       "translation": "besonders",
-      "example": "That particular model sold out."
+      "example": "Is there a particular book you want?"
     },
     {
       "word": "pass",
@@ -2244,17 +2244,17 @@
     {
       "word": "patient",
       "translation": "geduldig",
-      "example": "You must be patient with beginners."
+      "example": "Be patient with the children."
     },
     {
       "word": "pattern",
       "translation": "das Muster",
-      "example": "The pattern repeats every year."
+      "example": "I like the pattern on your shirt."
     },
     {
       "word": "peace",
       "translation": "der Frieden",
-      "example": "The village is full of peace."
+      "example": "They live in peace."
     },
     {
       "word": "pear",
@@ -2264,7 +2264,7 @@
     {
       "word": "penny",
       "translation": "der Penny",
-      "example": "It did not cost a penny."
+      "example": "I found a penny on the floor."
     },
     {
       "word": "per",
@@ -2274,7 +2274,7 @@
     {
       "word": "per cent",
       "translation": "Prozent",
-      "example": "Ten per cent voted against."
+      "example": "Ten per cent of the students are absent."
     },
     {
       "word": "perform",
@@ -2289,7 +2289,7 @@
     {
       "word": "permission",
       "translation": "die Erlaubnis",
-      "example": "You need written permission."
+      "example": "Ask your parents for permission."
     },
     {
       "word": "pet",
@@ -2319,7 +2319,7 @@
     {
       "word": "pilot",
       "translation": "der Pilot",
-      "example": "The pilot spoke to the cabin."
+      "example": "The pilot spoke to the passengers."
     },
     {
       "word": "pirate",
@@ -2334,7 +2334,7 @@
     {
       "word": "plastic",
       "translation": "das Plastik",
-      "example": "The handle is cheap plastic."
+      "example": "The bag is made of plastic."
     },
     {
       "word": "plate",
@@ -2354,7 +2354,7 @@
     {
       "word": "plug",
       "translation": "der Stecker",
-      "example": "Put the plug in the socket."
+      "example": "Where is the plug for the TV?"
     },
     {
       "word": "pocket",
@@ -2364,12 +2364,12 @@
     {
       "word": "polite",
       "translation": "höflich",
-      "example": "He was polite but distant."
+      "example": "She is always polite to everyone."
     },
     {
       "word": "pollution",
       "translation": "die Verschmutzung",
-      "example": "Pollution has fallen slightly."
+      "example": "Air pollution is bad in the city."
     },
     {
       "word": "pond",
@@ -2384,12 +2384,12 @@
     {
       "word": "population",
       "translation": "die Bevölkerung",
-      "example": "The population has doubled."
+      "example": "The town has a small population."
     },
     {
       "word": "position",
       "translation": "die Position",
-      "example": "She moved into a new position."
+      "example": "She has a new position at work."
     },
     {
       "word": "possession",
@@ -2404,12 +2404,12 @@
     {
       "word": "poster",
       "translation": "das Poster",
-      "example": "A poster covered the crack."
+      "example": "He has a big poster on his wall."
     },
     {
       "word": "power",
       "translation": "die Macht",
-      "example": "The power failed at midnight."
+      "example": "There was no power for two hours."
     },
     {
       "word": "predict",
@@ -2419,7 +2419,7 @@
     {
       "word": "president",
       "translation": "der Präsident",
-      "example": "The president spoke briefly."
+      "example": "The president visited our school."
     },
     {
       "word": "prevent",
@@ -2459,7 +2459,7 @@
     {
       "word": "professional",
       "translation": "professionell",
-      "example": "She wants a professional opinion."
+      "example": "He is a professional football player."
     },
     {
       "word": "professor",
@@ -2489,7 +2489,7 @@
     {
       "word": "protect",
       "translation": "schützen",
-      "example": "The fence protects the garden."
+      "example": "A hat protects your face from the sun."
     },
     {
       "word": "provide",
@@ -2529,17 +2529,17 @@
     {
       "word": "quality",
       "translation": "die Qualität",
-      "example": "The quality has dropped."
+      "example": "The quality of the food is very good."
     },
     {
       "word": "quantity",
       "translation": "die Menge",
-      "example": "A small quantity is enough."
+      "example": "We need a large quantity of rice."
     },
     {
       "word": "queen",
       "translation": "die Königin",
-      "example": "The queen opened the bridge."
+      "example": "The queen in the story is very kind."
     },
     {
       "word": "race",
@@ -2559,12 +2559,12 @@
     {
       "word": "rat",
       "translation": "die Ratte",
-      "example": "A rat ran under the shed."
+      "example": "A rat ran across the kitchen."
     },
     {
       "word": "rate",
       "translation": "die Rate",
-      "example": "The rate has not changed."
+      "example": "The hotel rate is high in summer."
     },
     {
       "word": "rather",
@@ -2579,7 +2579,7 @@
     {
       "word": "react",
       "translation": "reagieren",
-      "example": "She reacted badly to the news."
+      "example": "How did he react to the news?"
     },
     {
       "word": "realize",
@@ -2594,7 +2594,7 @@
     {
       "word": "recent",
       "translation": "kürzlich",
-      "example": "The recent changes helped."
+      "example": "This is a recent photo of my son."
     },
     {
       "word": "reception",
@@ -2634,7 +2634,7 @@
     {
       "word": "refer",
       "translation": "sich beziehen",
-      "example": "He referred to the earlier report."
+      "example": "Which book are you referring to?"
     },
     {
       "word": "region",
@@ -2649,12 +2649,12 @@
     {
       "word": "relationship",
       "translation": "die Beziehung",
-      "example": "They have a good working relationship."
+      "example": "They have a good relationship."
     },
     {
       "word": "remove",
       "translation": "entfernen",
-      "example": "Remove the lid carefully."
+      "example": "Please remove your shoes."
     },
     {
       "word": "repair",
@@ -2679,7 +2679,7 @@
     {
       "word": "request",
       "translation": "die Anfrage",
-      "example": "Your request was approved."
+      "example": "They said no to my request."
     },
     {
       "word": "research",
@@ -2689,7 +2689,7 @@
     {
       "word": "researcher",
       "translation": "der Forscher",
-      "example": "The researcher published two papers."
+      "example": "The researcher works in a lab."
     },
     {
       "word": "respond",
@@ -2699,7 +2699,7 @@
     {
       "word": "response",
       "translation": "die Antwort",
-      "example": "His response was immediate."
+      "example": "We are waiting for a response."
     },
     {
       "word": "rest",
@@ -2724,7 +2724,7 @@
     {
       "word": "rock",
       "translation": "der Fels, der Rock",
-      "example": "A rock blocked the path."
+      "example": "He sat on a big rock."
     },
     {
       "word": "role",
@@ -2734,7 +2734,7 @@
     {
       "word": "roof",
       "translation": "das Dach",
-      "example": "The roof leaks in heavy rain."
+      "example": "There is a cat on the roof."
     },
     {
       "word": "round",
@@ -2779,12 +2779,12 @@
     {
       "word": "sail",
       "translation": "segeln",
-      "example": "They sailed at first light."
+      "example": "They sailed to a small island."
     },
     {
       "word": "salary",
       "translation": "das Gehalt",
-      "example": "Her salary rose in April."
+      "example": "His salary is very good."
     },
     {
       "word": "sale",
@@ -2809,7 +2809,7 @@
     {
       "word": "scary",
       "translation": "gruselig",
-      "example": "The film was genuinely scary."
+      "example": "The film was very scary."
     },
     {
       "word": "scene",
@@ -2824,12 +2824,12 @@
     {
       "word": "score",
       "translation": "der Punktestand",
-      "example": "The final score was two all."
+      "example": "What is the score now?"
     },
     {
       "word": "screen",
       "translation": "der Bildschirm",
-      "example": "The screen went black."
+      "example": "The screen is too small."
     },
     {
       "word": "search",
@@ -2879,7 +2879,7 @@
     {
       "word": "series",
       "translation": "die Serie",
-      "example": "The series ran for six years."
+      "example": "I watched the whole series in a week."
     },
     {
       "word": "serious",
@@ -2899,7 +2899,7 @@
     {
       "word": "several",
       "translation": "mehrere",
-      "example": "Several people complained."
+      "example": "I have read this book several times."
     },
     {
       "word": "shake",
@@ -2909,7 +2909,7 @@
     {
       "word": "shape",
       "translation": "die Form",
-      "example": "The shape is slightly wrong."
+      "example": "The cake is in the shape of a heart."
     },
     {
       "word": "sheet",
@@ -2919,12 +2919,12 @@
     {
       "word": "ship",
       "translation": "das Schiff",
-      "example": "The ship left at dawn."
+      "example": "We saw a big ship on the sea."
     },
     {
       "word": "shoulder",
       "translation": "die Schulter",
-      "example": "He hurt his shoulder lifting it."
+      "example": "She put her bag on her shoulder."
     },
     {
       "word": "shout",
@@ -2944,7 +2944,7 @@
     {
       "word": "sign",
       "translation": "das Zeichen, unterschreiben",
-      "example": "A sign warned of the bend."
+      "example": "The sign says no parking."
     },
     {
       "word": "silver",
@@ -2994,17 +2994,17 @@
     {
       "word": "skin",
       "translation": "die Haut",
-      "example": "The sun burned his skin."
+      "example": "Babies have soft skin."
     },
     {
       "word": "sky",
       "translation": "der Himmel",
-      "example": "The sky cleared by noon."
+      "example": "The sky is clear today."
     },
     {
       "word": "smartphone",
       "translation": "das Smartphone",
-      "example": "Her smartphone battery died."
+      "example": "She uses her smartphone for everything."
     },
     {
       "word": "smell",
@@ -3019,7 +3019,7 @@
     {
       "word": "smoke",
       "translation": "der Rauch, rauchen",
-      "example": "Smoke filled the corridor."
+      "example": "There was smoke in the kitchen."
     },
     {
       "word": "soap",
@@ -3054,7 +3054,7 @@
     {
       "word": "soldier",
       "translation": "der Soldat",
-      "example": "A soldier guarded the gate."
+      "example": "A soldier stood at the gate."
     },
     {
       "word": "solution",
@@ -3099,7 +3099,7 @@
     {
       "word": "speed",
       "translation": "die Geschwindigkeit",
-      "example": "The speed limit is fifty."
+      "example": "The train travels at high speed."
     },
     {
       "word": "spider",
@@ -3109,7 +3109,7 @@
     {
       "word": "spoon",
       "translation": "der Löffel",
-      "example": "He stirred it with a spoon."
+      "example": "Eat the soup with a spoon."
     },
     {
       "word": "square",
@@ -3129,12 +3129,12 @@
     {
       "word": "stair",
       "translation": "die Treppenstufe",
-      "example": "He tripped on the top stair."
+      "example": "The cat sleeps on the bottom stair."
     },
     {
       "word": "stamp",
       "translation": "die Briefmarke",
-      "example": "The stamp fell off the letter."
+      "example": "I need a stamp for this letter."
     },
     {
       "word": "state",
@@ -3149,12 +3149,12 @@
     {
       "word": "step",
       "translation": "der Schritt",
-      "example": "Mind the step at the door."
+      "example": "Be careful, there is a step here."
     },
     {
       "word": "stomach",
       "translation": "der Magen",
-      "example": "His stomach hurt all morning."
+      "example": "Do not go running on an empty stomach."
     },
     {
       "word": "stone",
@@ -3174,7 +3174,7 @@
     {
       "word": "straight",
       "translation": "gerade",
-      "example": "Go straight on at the lights."
+      "example": "Go straight for two hundred metres."
     },
     {
       "word": "strange",
@@ -3189,7 +3189,7 @@
     {
       "word": "strawberry",
       "translation": "die Erdbeere",
-      "example": "I picked one red strawberry."
+      "example": "She put a strawberry on the cake."
     },
     {
       "word": "stress",
@@ -3199,7 +3199,7 @@
     {
       "word": "structure",
       "translation": "die Struktur",
-      "example": "The structure is unsafe."
+      "example": "The structure of the bridge is strong."
     },
     {
       "word": "stupid",
@@ -3214,12 +3214,12 @@
     {
       "word": "suddenly",
       "translation": "plötzlich",
-      "example": "Suddenly the lights went out."
+      "example": "Suddenly it started to rain."
     },
     {
       "word": "suggest",
       "translation": "vorschlagen",
-      "example": "He suggested a different approach."
+      "example": "He suggested a different restaurant."
     },
     {
       "word": "suggestion",
@@ -3249,7 +3249,7 @@
     {
       "word": "survey",
       "translation": "die Umfrage",
-      "example": "The survey covered two hundred homes."
+      "example": "We did a survey of our students."
     },
     {
       "word": "sweet",
@@ -3279,7 +3279,7 @@
     {
       "word": "target",
       "translation": "das Ziel",
-      "example": "They missed the target twice."
+      "example": "Our target is fifty new customers."
     },
     {
       "word": "task",
@@ -3299,7 +3299,7 @@
     {
       "word": "temperature",
       "translation": "die Temperatur",
-      "example": "The temperature dropped sharply."
+      "example": "The temperature is thirty degrees today."
     },
     {
       "word": "term",
@@ -3324,12 +3324,12 @@
     {
       "word": "thought",
       "translation": "der Gedanke",
-      "example": "A strange thought struck him."
+      "example": "Suddenly, I had a thought."
     },
     {
       "word": "throw",
       "translation": "werfen",
-      "example": "Do not throw it away."
+      "example": "Throw the ball to me."
     },
     {
       "word": "tidy",
@@ -3354,12 +3354,12 @@
     {
       "word": "tool",
       "translation": "das Werkzeug",
-      "example": "The right tool makes it easy."
+      "example": "He keeps his tools in a box."
     },
     {
       "word": "top",
       "translation": "die Spitze",
-      "example": "The top shelf is out of reach."
+      "example": "The books are on the top shelf."
     },
     {
       "word": "touch",
@@ -3384,7 +3384,7 @@
     {
       "word": "towel",
       "translation": "das Handtuch",
-      "example": "The towel was still damp."
+      "example": "Take a towel to the beach."
     },
     {
       "word": "tower",
@@ -3399,7 +3399,7 @@
     {
       "word": "track",
       "translation": "die Spur, die Strecke",
-      "example": "A narrow track leads uphill."
+      "example": "We walked along a narrow track."
     },
     {
       "word": "tradition",
@@ -3429,7 +3429,7 @@
     {
       "word": "trouble",
       "translation": "der Ärger",
-      "example": "The car gave us trouble."
+      "example": "We had trouble with the car."
     },
     {
       "word": "truck",
@@ -3494,12 +3494,12 @@
     {
       "word": "valley",
       "translation": "das Tal",
-      "example": "The valley floods each spring."
+      "example": "The village is in a green valley."
     },
     {
       "word": "van",
       "translation": "der Lieferwagen",
-      "example": "The van blocked the entrance."
+      "example": "They moved house in a small van."
     },
     {
       "word": "variety",
@@ -3509,17 +3509,17 @@
     {
       "word": "vehicle",
       "translation": "das Fahrzeug",
-      "example": "No vehicle may park here."
+      "example": "Vehicles cannot park here."
     },
     {
       "word": "view",
       "translation": "die Aussicht",
-      "example": "The view from the top is superb."
+      "example": "The view from the top is beautiful."
     },
     {
       "word": "virus",
       "translation": "das Virus",
-      "example": "The virus spread through the office."
+      "example": "There is a virus on my computer."
     },
     {
       "word": "voice",
@@ -3539,7 +3539,7 @@
     {
       "word": "weak",
       "translation": "schwach",
-      "example": "He felt weak after the illness."
+      "example": "The coffee is too weak."
     },
     {
       "word": "web",
@@ -3564,7 +3564,7 @@
     {
       "word": "wheel",
       "translation": "das Rad",
-      "example": "The front wheel was buckled."
+      "example": "A car has four wheels."
     },
     {
       "word": "while",
@@ -3589,12 +3589,12 @@
     {
       "word": "winner",
       "translation": "der Gewinner",
-      "example": "The winner received a medal."
+      "example": "The winner gets a prize."
     },
     {
       "word": "wish",
       "translation": "wünschen",
-      "example": "I wish I had known."
+      "example": "I wish I could speak French."
     },
     {
       "word": "wood",
@@ -3604,7 +3604,7 @@
     {
       "word": "wooden",
       "translation": "hölzern",
-      "example": "A wooden bridge crosses it."
+      "example": "There is a wooden bridge over the river."
     },
     {
       "word": "worry",

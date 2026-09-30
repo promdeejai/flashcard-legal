@@ -4,12 +4,12 @@
   "learn": "en",
   "native": "ja",
   "level": "A2",
-  "version": 25,
+  "version": 26,
   "items": [
     {
       "word": "ability",
       "translation": "能力",
-      "example": "She has a real ability to explain."
+      "example": "She has the ability to learn quickly."
     },
     {
       "word": "able",
@@ -24,7 +24,7 @@
     {
       "word": "accept",
       "translation": "受け入れる",
-      "example": "He accepted the offer at once."
+      "example": "She accepted his offer."
     },
     {
       "word": "accident",
@@ -34,7 +34,7 @@
     {
       "word": "according to",
       "translation": "によると",
-      "example": "According to the map, it is nearer."
+      "example": "According to the map, the station is near."
     },
     {
       "word": "achieve",
@@ -69,7 +69,7 @@
     {
       "word": "affect",
       "translation": "影響する",
-      "example": "The rain affected the harvest."
+      "example": "The rain affected our plans."
     },
     {
       "word": "ah",
@@ -79,7 +79,7 @@
     {
       "word": "airline",
       "translation": "航空会社",
-      "example": "The airline lost my case."
+      "example": "The airline lost my bag."
     },
     {
       "word": "alive",
@@ -114,17 +114,17 @@
     {
       "word": "already",
       "translation": "もう、すでに",
-      "example": "She had already left."
+      "example": "I have already eaten."
     },
     {
       "word": "alternative",
       "translation": "代替案",
-      "example": "There is no alternative route."
+      "example": "We had no alternative, so we waited."
     },
     {
       "word": "although",
       "translation": "だけれども",
-      "example": "Although it rained, we went."
+      "example": "Although it rained, we went to the beach."
     },
     {
       "word": "amount",
@@ -134,12 +134,12 @@
     {
       "word": "ancient",
       "translation": "古代の",
-      "example": "The wall is ancient."
+      "example": "We visited an ancient temple."
     },
     {
       "word": "ankle",
       "translation": "足首",
-      "example": "He hurt his ankle running."
+      "example": "The water was up to my ankles."
     },
     {
       "word": "anybody",
@@ -164,7 +164,7 @@
     {
       "word": "app",
       "translation": "アプリ",
-      "example": "The app crashes on old phones."
+      "example": "This app does not work on old phones."
     },
     {
       "word": "appear",
@@ -219,7 +219,7 @@
     {
       "word": "attack",
       "translation": "攻撃",
-      "example": "The attack lasted ten minutes."
+      "example": "Our team made a fast attack."
     },
     {
       "word": "attend",
@@ -229,7 +229,7 @@
     {
       "word": "attention",
       "translation": "注意",
-      "example": "Pay attention to the sign."
+      "example": "Can I have your attention, please?"
     },
     {
       "word": "attractive",
@@ -254,7 +254,7 @@
     {
       "word": "average",
       "translation": "平均の",
-      "example": "The average price has risen."
+      "example": "The average price is ten dollars."
     },
     {
       "word": "avoid",
@@ -309,7 +309,7 @@
     {
       "word": "bean",
       "translation": "豆",
-      "example": "Soak the beans overnight."
+      "example": "She puts beans in the soup."
     },
     {
       "word": "bear",
@@ -324,7 +324,7 @@
     {
       "word": "beef",
       "translation": "牛肉",
-      "example": "The beef was too tough."
+      "example": "We had beef for dinner."
     },
     {
       "word": "behave",
@@ -354,7 +354,7 @@
     {
       "word": "billion",
       "translation": "十億",
-      "example": "The plan will cost a billion."
+      "example": "The world has about eight billion people."
     },
     {
       "word": "bin",
@@ -369,7 +369,7 @@
     {
       "word": "birth",
       "translation": "誕生",
-      "example": "The birth was recorded in May."
+      "example": "Please write your date of birth here."
     },
     {
       "word": "biscuit",
@@ -389,7 +389,7 @@
     {
       "word": "blood",
       "translation": "血",
-      "example": "There was blood on the floor."
+      "example": "The heart moves blood around the body."
     },
     {
       "word": "blow",
@@ -409,7 +409,7 @@
     {
       "word": "bone",
       "translation": "骨",
-      "example": "The dog buried the bone."
+      "example": "The dog is eating a bone."
     },
     {
       "word": "borrow",
@@ -419,7 +419,7 @@
     {
       "word": "boss",
       "translation": "上司",
-      "example": "Her boss approved the leave."
+      "example": "Her boss is very kind."
     },
     {
       "word": "bottom",
@@ -459,7 +459,7 @@
     {
       "word": "brush",
       "translation": "ブラシ",
-      "example": "Brush your shoes before you leave."
+      "example": "Brush your teeth before bed."
     },
     {
       "word": "buddy",
@@ -484,7 +484,7 @@
     {
       "word": "button",
       "translation": "ボタン",
-      "example": "A button fell off his shirt."
+      "example": "This shirt has six buttons."
     },
     {
       "word": "camp",
@@ -494,7 +494,7 @@
     {
       "word": "care",
       "translation": "世話をする",
-      "example": "She takes care of her father."
+      "example": "Babies need a lot of care."
     },
     {
       "word": "carpet",
@@ -584,12 +584,12 @@
     {
       "word": "chip",
       "translation": "チップ、ポテトチップ",
-      "example": "One chip fell on the floor."
+      "example": "We ordered chips and a salad."
     },
     {
       "word": "choice",
       "translation": "選択",
-      "example": "It was a difficult choice."
+      "example": "We have only two choices."
     },
     {
       "word": "church",
@@ -599,7 +599,7 @@
     {
       "word": "cigarette",
       "translation": "タバコ",
-      "example": "He put out his cigarette."
+      "example": "He does not like cigarette smoke."
     },
     {
       "word": "circle",
@@ -614,12 +614,12 @@
     {
       "word": "clear",
       "translation": "明確な",
-      "example": "The instructions were clear."
+      "example": "His answer was very clear."
     },
     {
       "word": "clever",
       "translation": "賢い",
-      "example": "That was a clever solution."
+      "example": "That was a clever idea."
     },
     {
       "word": "climate",
@@ -629,7 +629,7 @@
     {
       "word": "cloud",
       "translation": "雲",
-      "example": "One cloud covered the sun."
+      "example": "There is not one cloud in the sky."
     },
     {
       "word": "coach",
@@ -684,7 +684,7 @@
     {
       "word": "community",
       "translation": "地域社会",
-      "example": "The community raised the money."
+      "example": "The whole community came to the party."
     },
     {
       "word": "compete",
@@ -714,12 +714,12 @@
     {
       "word": "connect",
       "translation": "つなぐ",
-      "example": "Connect the cable to the back."
+      "example": "Connect your phone to the TV."
     },
     {
       "word": "consider",
       "translation": "考慮する",
-      "example": "Please consider the alternative."
+      "example": "Please consider my offer."
     },
     {
       "word": "contain",
@@ -729,7 +729,7 @@
     {
       "word": "context",
       "translation": "文脈",
-      "example": "The word means little without context."
+      "example": "The context helps you understand the word."
     },
     {
       "word": "continent",
@@ -744,7 +744,7 @@
     {
       "word": "control",
       "translation": "制御する",
-      "example": "She controls the whole budget."
+      "example": "He cannot control his dog."
     },
     {
       "word": "cooker",
@@ -789,12 +789,12 @@
     {
       "word": "crime",
       "translation": "犯罪",
-      "example": "The crime was never solved."
+      "example": "Crime is low in this town."
     },
     {
       "word": "criminal",
       "translation": "犯罪者",
-      "example": "The criminal was caught in June."
+      "example": "The police caught the criminal."
     },
     {
       "word": "cross",
@@ -804,7 +804,7 @@
     {
       "word": "crowd",
       "translation": "群衆",
-      "example": "A crowd gathered outside."
+      "example": "There was a big crowd outside."
     },
     {
       "word": "cry",
@@ -834,7 +834,7 @@
     {
       "word": "daily",
       "translation": "毎日の",
-      "example": "The shop makes daily deliveries."
+      "example": "He reads the daily news."
     },
     {
       "word": "danger",
@@ -844,7 +844,7 @@
     {
       "word": "data",
       "translation": "データ",
-      "example": "The data was lost in the crash."
+      "example": "We lost all the data."
     },
     {
       "word": "dead",
@@ -864,7 +864,7 @@
     {
       "word": "death",
       "translation": "死",
-      "example": "His death shocked the village."
+      "example": "The film is about life and death."
     },
     {
       "word": "decision",
@@ -889,7 +889,7 @@
     {
       "word": "dentist",
       "translation": "歯医者",
-      "example": "I have a dentist appointment."
+      "example": "My dentist is very kind."
     },
     {
       "word": "department",
@@ -929,12 +929,12 @@
     {
       "word": "device",
       "translation": "装置",
-      "example": "The device runs on two batteries."
+      "example": "This device uses two batteries."
     },
     {
       "word": "diary",
       "translation": "日記",
-      "example": "She writes in her diary nightly."
+      "example": "She writes in her diary every night."
     },
     {
       "word": "digital",
@@ -954,17 +954,17 @@
     {
       "word": "director",
       "translation": "監督",
-      "example": "The director approved the budget."
+      "example": "The director of the school is new."
     },
     {
       "word": "disagree",
       "translation": "意見が合わない",
-      "example": "I disagree with that view."
+      "example": "I disagree with you on this."
     },
     {
       "word": "disappear",
       "translation": "消える",
-      "example": "The keys simply disappeared."
+      "example": "My keys disappeared again."
     },
     {
       "word": "disaster",
@@ -974,17 +974,17 @@
     {
       "word": "discover",
       "translation": "発見する",
-      "example": "They discovered the error late."
+      "example": "We discovered a quiet beach."
     },
     {
       "word": "discussion",
       "translation": "議論",
-      "example": "The discussion went on for hours."
+      "example": "We had a long discussion."
     },
     {
       "word": "disease",
       "translation": "病気",
-      "example": "The disease spreads slowly."
+      "example": "Some of the trees have a disease."
     },
     {
       "word": "distance",
@@ -1039,7 +1039,7 @@
     {
       "word": "duck",
       "translation": "アヒル",
-      "example": "A duck swam across the pond."
+      "example": "We fed the ducks in the park."
     },
     {
       "word": "earn",
@@ -1059,17 +1059,17 @@
     {
       "word": "effect",
       "translation": "効果",
-      "example": "The effect was immediate."
+      "example": "The rain had a big effect on the game."
     },
     {
       "word": "electric",
       "translation": "電気の",
-      "example": "It is an electric kettle."
+      "example": "He drives an electric car."
     },
     {
       "word": "electronic",
       "translation": "電子の",
-      "example": "Keep electronic devices switched off."
+      "example": "The shop sells electronic games."
     },
     {
       "word": "employ",
@@ -1079,7 +1079,7 @@
     {
       "word": "employee",
       "translation": "従業員",
-      "example": "Every employee gets a locker."
+      "example": "Every employee gets a free lunch."
     },
     {
       "word": "employer",
@@ -1099,12 +1099,12 @@
     {
       "word": "energy",
       "translation": "エネルギー",
-      "example": "She has enormous energy."
+      "example": "Children have a lot of energy."
     },
     {
       "word": "engine",
       "translation": "エンジン",
-      "example": "The engine started at once."
+      "example": "The car engine is very old."
     },
     {
       "word": "engineer",
@@ -1119,22 +1119,22 @@
     {
       "word": "enter",
       "translation": "入る",
-      "example": "Do not enter without knocking."
+      "example": "Please do not enter this room."
     },
     {
       "word": "environment",
       "translation": "環境",
-      "example": "The factory harmed the environment."
+      "example": "Plastic is bad for the environment."
     },
     {
       "word": "equipment",
       "translation": "器具",
-      "example": "The equipment arrived damaged."
+      "example": "The gym has new equipment."
     },
     {
       "word": "error",
       "translation": "間違い",
-      "example": "One small error ruined the file."
+      "example": "There is an error in this sentence."
     },
     {
       "word": "especially",
@@ -1144,7 +1144,7 @@
     {
       "word": "essay",
       "translation": "作文",
-      "example": "The essay is due on Monday."
+      "example": "I wrote an essay about my family."
     },
     {
       "word": "everyday",
@@ -1154,17 +1154,17 @@
     {
       "word": "everywhere",
       "translation": "どこでも",
-      "example": "Dust was everywhere."
+      "example": "There were people everywhere."
     },
     {
       "word": "evidence",
       "translation": "証拠",
-      "example": "There is little evidence for that claim."
+      "example": "The police found no evidence."
     },
     {
       "word": "exact",
       "translation": "正確な",
-      "example": "I need the exact figure."
+      "example": "Tell me the exact price."
     },
     {
       "word": "excellent",
@@ -1179,7 +1179,7 @@
     {
       "word": "exist",
       "translation": "存在する",
-      "example": "Such a rule does not exist."
+      "example": "That rule does not exist."
     },
     {
       "word": "expect",
@@ -1199,12 +1199,12 @@
     {
       "word": "expert",
       "translation": "専門家",
-      "example": "An expert examined the painting."
+      "example": "An expert looked at the painting."
     },
     {
       "word": "explanation",
       "translation": "説明",
-      "example": "His explanation made no sense."
+      "example": "Her explanation was very clear."
     },
     {
       "word": "express",
@@ -1224,7 +1224,7 @@
     {
       "word": "factor",
       "translation": "要因",
-      "example": "Cost was the deciding factor."
+      "example": "Price is an important factor."
     },
     {
       "word": "factory",
@@ -1234,7 +1234,7 @@
     {
       "word": "fail",
       "translation": "失敗する",
-      "example": "The plan failed for simple reasons."
+      "example": "The first plan failed, so we tried again."
     },
     {
       "word": "fair",
@@ -1254,7 +1254,7 @@
     {
       "word": "fear",
       "translation": "恐れ",
-      "example": "His fear of heights is real."
+      "example": "I could see the fear in her eyes."
     },
     {
       "word": "feature",
@@ -1269,7 +1269,7 @@
     {
       "word": "female",
       "translation": "女性の",
-      "example": "A female doctor saw him."
+      "example": "Most of the students are female."
     },
     {
       "word": "fiction",
@@ -1279,7 +1279,7 @@
     {
       "word": "field",
       "translation": "畑、分野",
-      "example": "The field was full of sheep."
+      "example": "The farmer works in the field."
     },
     {
       "word": "fight",
@@ -1289,12 +1289,12 @@
     {
       "word": "figure",
       "translation": "数字、姿",
-      "example": "The final figure surprised us."
+      "example": "The figure on the bill is wrong."
     },
     {
       "word": "finger",
       "translation": "指",
-      "example": "She cut her finger."
+      "example": "She wears a ring on her finger."
     },
     {
       "word": "firstly",
@@ -1309,12 +1309,12 @@
     {
       "word": "fix",
       "translation": "直す",
-      "example": "Can you fix the tap?"
+      "example": "Can you fix my bike?"
     },
     {
       "word": "flu",
       "translation": "インフルエンザ",
-      "example": "He caught flu in January."
+      "example": "Many people get flu in winter."
     },
     {
       "word": "flying",
@@ -1324,7 +1324,7 @@
     {
       "word": "focus",
       "translation": "集中する",
-      "example": "Focus on one task at a time."
+      "example": "Focus on your work."
     },
     {
       "word": "foreign",
@@ -1334,7 +1334,7 @@
     {
       "word": "forest",
       "translation": "森",
-      "example": "The forest is protected."
+      "example": "They walked through the forest."
     },
     {
       "word": "fork",
@@ -1349,7 +1349,7 @@
     {
       "word": "fortunately",
       "translation": "幸いにも",
-      "example": "Fortunately nobody was hurt."
+      "example": "Fortunately, the rain stopped."
     },
     {
       "word": "forward",
@@ -1369,7 +1369,7 @@
     {
       "word": "frog",
       "translation": "カエル",
-      "example": "A frog jumped into the pond."
+      "example": "A frog jumped into the water."
     },
     {
       "word": "furniture",
@@ -1389,12 +1389,12 @@
     {
       "word": "gap",
       "translation": "隙間",
-      "example": "There is a gap in the fence."
+      "example": "There is a gap in the wall."
     },
     {
       "word": "gas",
       "translation": "ガス",
-      "example": "The gas was switched off."
+      "example": "We cook with gas."
     },
     {
       "word": "gate",
@@ -1424,7 +1424,7 @@
     {
       "word": "god",
       "translation": "神",
-      "example": "They prayed to their god."
+      "example": "Many people believe in god."
     },
     {
       "word": "gold",
@@ -1439,12 +1439,12 @@
     {
       "word": "government",
       "translation": "政府",
-      "example": "The government announced new rules."
+      "example": "The government made new rules."
     },
     {
       "word": "grape",
       "translation": "ぶどう",
-      "example": "She bought a bunch of grapes."
+      "example": "She bought some green grapes."
     },
     {
       "word": "grass",
@@ -1474,7 +1474,7 @@
     {
       "word": "gun",
       "translation": "銃",
-      "example": "The gun was never loaded."
+      "example": "The children played with a water gun."
     },
     {
       "word": "guy",
@@ -1484,7 +1484,7 @@
     {
       "word": "habit",
       "translation": "習慣",
-      "example": "It is a hard habit to break."
+      "example": "Reading is a good habit."
     },
     {
       "word": "hall",
@@ -1504,7 +1504,7 @@
     {
       "word": "heat",
       "translation": "熱",
-      "example": "The heat was hard to bear."
+      "example": "I cannot sleep in this heat."
     },
     {
       "word": "heavy",
@@ -1514,7 +1514,7 @@
     {
       "word": "height",
       "translation": "高さ",
-      "example": "The height of the shelf is wrong."
+      "example": "The height of the door is two metres."
     },
     {
       "word": "hero",
@@ -1554,17 +1554,17 @@
     {
       "word": "horn",
       "translation": "角笛",
-      "example": "The car horn woke everyone up."
+      "example": "The driver used his horn."
     },
     {
       "word": "huge",
       "translation": "巨大な",
-      "example": "The garden is huge."
+      "example": "They live in a huge house."
     },
     {
       "word": "human",
       "translation": "人間の",
-      "example": "It was a simple human error."
+      "example": "The human body is amazing."
     },
     {
       "word": "hurt",
@@ -1574,7 +1574,7 @@
     {
       "word": "ideal",
       "translation": "理想的な",
-      "example": "This is the ideal spot."
+      "example": "This is the ideal place for a picnic."
     },
     {
       "word": "identify",
@@ -1614,7 +1614,7 @@
     {
       "word": "increase",
       "translation": "増える",
-      "example": "Sales increased by a third."
+      "example": "The price of milk increased again."
     },
     {
       "word": "incredible",
@@ -1624,17 +1624,17 @@
     {
       "word": "independent",
       "translation": "独立した",
-      "example": "She is financially independent."
+      "example": "She lives an independent life."
     },
     {
       "word": "individual",
       "translation": "個々の",
-      "example": "Each individual gets one vote."
+      "example": "Every individual is different."
     },
     {
       "word": "industry",
       "translation": "産業",
-      "example": "Tourism is the main industry here."
+      "example": "The car industry is big here."
     },
     {
       "word": "informal",
@@ -1644,12 +1644,12 @@
     {
       "word": "injury",
       "translation": "けが",
-      "example": "The injury kept him out for weeks."
+      "example": "He missed the game because of an injury."
     },
     {
       "word": "ink",
       "translation": "インク",
-      "example": "The ink ran out halfway through."
+      "example": "This pen has blue ink."
     },
     {
       "word": "insect",
@@ -1669,7 +1669,7 @@
     {
       "word": "instruction",
       "translation": "指示",
-      "example": "Follow the instruction exactly."
+      "example": "Read the instructions before you start."
     },
     {
       "word": "instructor",
@@ -1704,7 +1704,7 @@
     {
       "word": "invention",
       "translation": "発明",
-      "example": "The invention changed farming."
+      "example": "The phone is a great invention."
     },
     {
       "word": "invite",
@@ -1734,7 +1734,7 @@
     {
       "word": "jewellery",
       "translation": "宝石類",
-      "example": "Her jewellery was insured."
+      "example": "She keeps her jewellery in a small box."
     },
     {
       "word": "joke",
@@ -1759,22 +1759,22 @@
     {
       "word": "kill",
       "translation": "殺す",
-      "example": "The frost killed the plants."
+      "example": "The cold weather killed my plants."
     },
     {
       "word": "king",
       "translation": "王",
-      "example": "The king signed the order."
+      "example": "The story is about a young king."
     },
     {
       "word": "knee",
       "translation": "ひざ",
-      "example": "He hurt his knee running."
+      "example": "The skirt is above the knee."
     },
     {
       "word": "knife",
       "translation": "ナイフ",
-      "example": "The knife needs sharpening."
+      "example": "Cut the bread with this knife."
     },
     {
       "word": "knock",
@@ -1799,17 +1799,17 @@
     {
       "word": "lake",
       "translation": "湖",
-      "example": "The lake freezes in winter."
+      "example": "We swam in the lake."
     },
     {
       "word": "lamp",
       "translation": "ランプ",
-      "example": "The lamp gives poor light."
+      "example": "There is a lamp by the bed."
     },
     {
       "word": "laptop",
       "translation": "ノートパソコン",
-      "example": "His laptop battery died."
+      "example": "His laptop is very old."
     },
     {
       "word": "laughter",
@@ -1819,12 +1819,12 @@
     {
       "word": "law",
       "translation": "法律",
-      "example": "The new law takes effect in June."
+      "example": "The new law starts in June."
     },
     {
       "word": "lawyer",
       "translation": "弁護士",
-      "example": "Her lawyer advised silence."
+      "example": "Her lawyer is very good."
     },
     {
       "word": "lazy",
@@ -1859,7 +1859,7 @@
     {
       "word": "level",
       "translation": "レベル",
-      "example": "The water level rose."
+      "example": "The water level is very high."
     },
     {
       "word": "lifestyle",
@@ -1884,7 +1884,7 @@
     {
       "word": "listener",
       "translation": "聞き手",
-      "example": "One listener wrote in."
+      "example": "A listener called the radio show."
     },
     {
       "word": "litre",
@@ -1899,7 +1899,7 @@
     {
       "word": "lorry",
       "translation": "トラック",
-      "example": "A lorry blocked the lane."
+      "example": "A big lorry stopped outside our house."
     },
     {
       "word": "lost",
@@ -1919,12 +1919,12 @@
     {
       "word": "low",
       "translation": "低い",
-      "example": "The ceiling is very low."
+      "example": "The bridge is very low."
     },
     {
       "word": "luck",
       "translation": "運",
-      "example": "With any luck we will arrive first."
+      "example": "Good luck with your exam!"
     },
     {
       "word": "luggage",
@@ -1954,7 +1954,7 @@
     {
       "word": "manager",
       "translation": "経営者",
-      "example": "The manager approved the plan."
+      "example": "I want to speak to the manager."
     },
     {
       "word": "manner",
@@ -1974,7 +1974,7 @@
     {
       "word": "material",
       "translation": "材料",
-      "example": "The material tears easily."
+      "example": "This material is very soft."
     },
     {
       "word": "mathematics",
@@ -1984,7 +1984,7 @@
     {
       "word": "maths",
       "translation": "数学",
-      "example": "Maths was never his strength."
+      "example": "We have maths on Monday."
     },
     {
       "word": "matter",
@@ -1994,7 +1994,7 @@
     {
       "word": "media",
       "translation": "メディア",
-      "example": "The media reported it wrongly."
+      "example": "The media loves this story."
     },
     {
       "word": "medical",
@@ -2009,7 +2009,7 @@
     {
       "word": "memory",
       "translation": "記憶",
-      "example": "My memory is not what it was."
+      "example": "I have happy memories of that summer."
     },
     {
       "word": "mention",
@@ -2019,7 +2019,7 @@
     {
       "word": "metal",
       "translation": "金属",
-      "example": "The gate is solid metal."
+      "example": "The gate is made of metal."
     },
     {
       "word": "method",
@@ -2029,12 +2029,12 @@
     {
       "word": "middle",
       "translation": "真ん中",
-      "example": "A table stood in the middle."
+      "example": "There is a table in the middle of the room."
     },
     {
       "word": "mind",
       "translation": "心",
-      "example": "Her mind was elsewhere."
+      "example": "A walk is good for the mind."
     },
     {
       "word": "minute",
@@ -2044,12 +2044,12 @@
     {
       "word": "mirror",
       "translation": "鏡",
-      "example": "The mirror was cracked."
+      "example": "She looked in the mirror."
     },
     {
       "word": "mobile",
       "translation": "携帯電話",
-      "example": "My mobile has no signal."
+      "example": "I left my mobile at home."
     },
     {
       "word": "monkey",
@@ -2074,12 +2074,12 @@
     {
       "word": "musician",
       "translation": "音楽家",
-      "example": "The musician tuned his guitar."
+      "example": "The musician played for an hour."
     },
     {
       "word": "narrow",
       "translation": "狭い",
-      "example": "The lane is very narrow."
+      "example": "The bridge is too narrow for cars."
     },
     {
       "word": "national",
@@ -2089,7 +2089,7 @@
     {
       "word": "nature",
       "translation": "自然",
-      "example": "Nature recovers slowly here."
+      "example": "She loves walking in nature."
     },
     {
       "word": "nearly",
@@ -2099,12 +2099,12 @@
     {
       "word": "necessary",
       "translation": "必要な",
-      "example": "A visa is necessary for that trip."
+      "example": "Is it necessary to bring food?"
     },
     {
       "word": "neck",
       "translation": "首",
-      "example": "His neck was stiff."
+      "example": "She wears a scarf around her neck."
     },
     {
       "word": "nervous",
@@ -2119,12 +2119,12 @@
     {
       "word": "network",
       "translation": "ネットワーク",
-      "example": "The network is down again."
+      "example": "The phone network is very slow."
     },
     {
       "word": "noise",
       "translation": "騒音",
-      "example": "The noise stopped at last."
+      "example": "There is a lot of noise outside."
     },
     {
       "word": "normal",
@@ -2144,12 +2144,12 @@
     {
       "word": "nut",
       "translation": "ナッツ",
-      "example": "He cracked a nut with his teeth."
+      "example": "She adds nuts to her salad."
     },
     {
       "word": "ocean",
       "translation": "海洋",
-      "example": "The ocean was rough that day."
+      "example": "The ocean is very deep."
     },
     {
       "word": "offer",
@@ -2159,17 +2159,17 @@
     {
       "word": "officer",
       "translation": "警官、役人",
-      "example": "An officer took our names."
+      "example": "A police officer helped us."
     },
     {
       "word": "oil",
       "translation": "油",
-      "example": "The oil leaked onto the floor."
+      "example": "Cook the fish in a little oil."
     },
     {
       "word": "opportunity",
       "translation": "機会",
-      "example": "This is a rare opportunity."
+      "example": "This job is a great opportunity."
     },
     {
       "word": "option",
@@ -2194,7 +2194,7 @@
     {
       "word": "oven",
       "translation": "オーブン",
-      "example": "The oven takes ten minutes to heat."
+      "example": "Put the bread in the oven."
     },
     {
       "word": "owner",
@@ -2224,12 +2224,12 @@
     {
       "word": "pants",
       "translation": "パンツ",
-      "example": "His pants were covered in mud."
+      "example": "These pants are too short."
     },
     {
       "word": "particular",
       "translation": "特定の",
-      "example": "That particular model sold out."
+      "example": "Is there a particular book you want?"
     },
     {
       "word": "pass",
@@ -2244,17 +2244,17 @@
     {
       "word": "patient",
       "translation": "忍耐強い、患者",
-      "example": "You must be patient with beginners."
+      "example": "Be patient with the children."
     },
     {
       "word": "pattern",
       "translation": "模様",
-      "example": "The pattern repeats every year."
+      "example": "I like the pattern on your shirt."
     },
     {
       "word": "peace",
       "translation": "平和",
-      "example": "The village is full of peace."
+      "example": "They live in peace."
     },
     {
       "word": "pear",
@@ -2264,7 +2264,7 @@
     {
       "word": "penny",
       "translation": "ペニー",
-      "example": "It did not cost a penny."
+      "example": "I found a penny on the floor."
     },
     {
       "word": "per",
@@ -2274,7 +2274,7 @@
     {
       "word": "per cent",
       "translation": "パーセント",
-      "example": "Ten per cent voted against."
+      "example": "Ten per cent of the students are absent."
     },
     {
       "word": "perform",
@@ -2289,7 +2289,7 @@
     {
       "word": "permission",
       "translation": "許可",
-      "example": "You need written permission."
+      "example": "Ask your parents for permission."
     },
     {
       "word": "pet",
@@ -2319,7 +2319,7 @@
     {
       "word": "pilot",
       "translation": "パイロット",
-      "example": "The pilot spoke to the cabin."
+      "example": "The pilot spoke to the passengers."
     },
     {
       "word": "pirate",
@@ -2334,7 +2334,7 @@
     {
       "word": "plastic",
       "translation": "プラスチック",
-      "example": "The handle is cheap plastic."
+      "example": "The bag is made of plastic."
     },
     {
       "word": "plate",
@@ -2354,7 +2354,7 @@
     {
       "word": "plug",
       "translation": "プラグ",
-      "example": "Put the plug in the socket."
+      "example": "Where is the plug for the TV?"
     },
     {
       "word": "pocket",
@@ -2364,12 +2364,12 @@
     {
       "word": "polite",
       "translation": "礼儀正しい",
-      "example": "He was polite but distant."
+      "example": "She is always polite to everyone."
     },
     {
       "word": "pollution",
       "translation": "汚染",
-      "example": "Pollution has fallen slightly."
+      "example": "Air pollution is bad in the city."
     },
     {
       "word": "pond",
@@ -2384,12 +2384,12 @@
     {
       "word": "population",
       "translation": "人口",
-      "example": "The population has doubled."
+      "example": "The town has a small population."
     },
     {
       "word": "position",
       "translation": "位置",
-      "example": "She moved into a new position."
+      "example": "She has a new position at work."
     },
     {
       "word": "possession",
@@ -2404,12 +2404,12 @@
     {
       "word": "poster",
       "translation": "ポスター",
-      "example": "A poster covered the crack."
+      "example": "He has a big poster on his wall."
     },
     {
       "word": "power",
       "translation": "力",
-      "example": "The power failed at midnight."
+      "example": "There was no power for two hours."
     },
     {
       "word": "predict",
@@ -2419,7 +2419,7 @@
     {
       "word": "president",
       "translation": "大統領",
-      "example": "The president spoke briefly."
+      "example": "The president visited our school."
     },
     {
       "word": "prevent",
@@ -2459,7 +2459,7 @@
     {
       "word": "professional",
       "translation": "専門的な",
-      "example": "She wants a professional opinion."
+      "example": "He is a professional football player."
     },
     {
       "word": "professor",
@@ -2489,7 +2489,7 @@
     {
       "word": "protect",
       "translation": "守る",
-      "example": "The fence protects the garden."
+      "example": "A hat protects your face from the sun."
     },
     {
       "word": "provide",
@@ -2529,17 +2529,17 @@
     {
       "word": "quality",
       "translation": "品質",
-      "example": "The quality has dropped."
+      "example": "The quality of the food is very good."
     },
     {
       "word": "quantity",
       "translation": "量",
-      "example": "A small quantity is enough."
+      "example": "We need a large quantity of rice."
     },
     {
       "word": "queen",
       "translation": "女王",
-      "example": "The queen opened the bridge."
+      "example": "The queen in the story is very kind."
     },
     {
       "word": "race",
@@ -2559,12 +2559,12 @@
     {
       "word": "rat",
       "translation": "ネズミ",
-      "example": "A rat ran under the shed."
+      "example": "A rat ran across the kitchen."
     },
     {
       "word": "rate",
       "translation": "割合",
-      "example": "The rate has not changed."
+      "example": "The hotel rate is high in summer."
     },
     {
       "word": "rather",
@@ -2579,7 +2579,7 @@
     {
       "word": "react",
       "translation": "反応する",
-      "example": "She reacted badly to the news."
+      "example": "How did he react to the news?"
     },
     {
       "word": "realize",
@@ -2594,7 +2594,7 @@
     {
       "word": "recent",
       "translation": "最近の",
-      "example": "The recent changes helped."
+      "example": "This is a recent photo of my son."
     },
     {
       "word": "reception",
@@ -2634,7 +2634,7 @@
     {
       "word": "refer",
       "translation": "言及する",
-      "example": "He referred to the earlier report."
+      "example": "Which book are you referring to?"
     },
     {
       "word": "region",
@@ -2649,12 +2649,12 @@
     {
       "word": "relationship",
       "translation": "関係",
-      "example": "They have a good working relationship."
+      "example": "They have a good relationship."
     },
     {
       "word": "remove",
       "translation": "取り除く",
-      "example": "Remove the lid carefully."
+      "example": "Please remove your shoes."
     },
     {
       "word": "repair",
@@ -2679,7 +2679,7 @@
     {
       "word": "request",
       "translation": "要求",
-      "example": "Your request was approved."
+      "example": "They said no to my request."
     },
     {
       "word": "research",
@@ -2689,7 +2689,7 @@
     {
       "word": "researcher",
       "translation": "研究者",
-      "example": "The researcher published two papers."
+      "example": "The researcher works in a lab."
     },
     {
       "word": "respond",
@@ -2699,7 +2699,7 @@
     {
       "word": "response",
       "translation": "応答",
-      "example": "His response was immediate."
+      "example": "We are waiting for a response."
     },
     {
       "word": "rest",
@@ -2724,7 +2724,7 @@
     {
       "word": "rock",
       "translation": "岩、ロック",
-      "example": "A rock blocked the path."
+      "example": "He sat on a big rock."
     },
     {
       "word": "role",
@@ -2734,7 +2734,7 @@
     {
       "word": "roof",
       "translation": "屋根",
-      "example": "The roof leaks in heavy rain."
+      "example": "There is a cat on the roof."
     },
     {
       "word": "round",
@@ -2779,12 +2779,12 @@
     {
       "word": "sail",
       "translation": "航海する",
-      "example": "They sailed at first light."
+      "example": "They sailed to a small island."
     },
     {
       "word": "salary",
       "translation": "給料",
-      "example": "Her salary rose in April."
+      "example": "His salary is very good."
     },
     {
       "word": "sale",
@@ -2809,7 +2809,7 @@
     {
       "word": "scary",
       "translation": "怖い",
-      "example": "The film was genuinely scary."
+      "example": "The film was very scary."
     },
     {
       "word": "scene",
@@ -2824,12 +2824,12 @@
     {
       "word": "score",
       "translation": "得点",
-      "example": "The final score was two all."
+      "example": "What is the score now?"
     },
     {
       "word": "screen",
       "translation": "画面",
-      "example": "The screen went black."
+      "example": "The screen is too small."
     },
     {
       "word": "search",
@@ -2879,7 +2879,7 @@
     {
       "word": "series",
       "translation": "シリーズ",
-      "example": "The series ran for six years."
+      "example": "I watched the whole series in a week."
     },
     {
       "word": "serious",
@@ -2899,7 +2899,7 @@
     {
       "word": "several",
       "translation": "いくつかの",
-      "example": "Several people complained."
+      "example": "I have read this book several times."
     },
     {
       "word": "shake",
@@ -2909,7 +2909,7 @@
     {
       "word": "shape",
       "translation": "形",
-      "example": "The shape is slightly wrong."
+      "example": "The cake is in the shape of a heart."
     },
     {
       "word": "sheet",
@@ -2919,12 +2919,12 @@
     {
       "word": "ship",
       "translation": "船",
-      "example": "The ship left at dawn."
+      "example": "We saw a big ship on the sea."
     },
     {
       "word": "shoulder",
       "translation": "肩",
-      "example": "He hurt his shoulder lifting it."
+      "example": "She put her bag on her shoulder."
     },
     {
       "word": "shout",
@@ -2944,7 +2944,7 @@
     {
       "word": "sign",
       "translation": "標識、署名する",
-      "example": "A sign warned of the bend."
+      "example": "The sign says no parking."
     },
     {
       "word": "silver",
@@ -2994,17 +2994,17 @@
     {
       "word": "skin",
       "translation": "肌",
-      "example": "The sun burned his skin."
+      "example": "Babies have soft skin."
     },
     {
       "word": "sky",
       "translation": "空",
-      "example": "The sky cleared by noon."
+      "example": "The sky is clear today."
     },
     {
       "word": "smartphone",
       "translation": "スマートフォン",
-      "example": "Her smartphone battery died."
+      "example": "She uses her smartphone for everything."
     },
     {
       "word": "smell",
@@ -3019,7 +3019,7 @@
     {
       "word": "smoke",
       "translation": "煙、たばこを吸う",
-      "example": "Smoke filled the corridor."
+      "example": "There was smoke in the kitchen."
     },
     {
       "word": "soap",
@@ -3054,7 +3054,7 @@
     {
       "word": "soldier",
       "translation": "兵士",
-      "example": "A soldier guarded the gate."
+      "example": "A soldier stood at the gate."
     },
     {
       "word": "solution",
@@ -3099,7 +3099,7 @@
     {
       "word": "speed",
       "translation": "速度",
-      "example": "The speed limit is fifty."
+      "example": "The train travels at high speed."
     },
     {
       "word": "spider",
@@ -3109,7 +3109,7 @@
     {
       "word": "spoon",
       "translation": "スプーン",
-      "example": "He stirred it with a spoon."
+      "example": "Eat the soup with a spoon."
     },
     {
       "word": "square",
@@ -3129,12 +3129,12 @@
     {
       "word": "stair",
       "translation": "階段",
-      "example": "He tripped on the top stair."
+      "example": "The cat sleeps on the bottom stair."
     },
     {
       "word": "stamp",
       "translation": "切手",
-      "example": "The stamp fell off the letter."
+      "example": "I need a stamp for this letter."
     },
     {
       "word": "state",
@@ -3149,12 +3149,12 @@
     {
       "word": "step",
       "translation": "一歩",
-      "example": "Mind the step at the door."
+      "example": "Be careful, there is a step here."
     },
     {
       "word": "stomach",
       "translation": "胃",
-      "example": "His stomach hurt all morning."
+      "example": "Do not go running on an empty stomach."
     },
     {
       "word": "stone",
@@ -3174,7 +3174,7 @@
     {
       "word": "straight",
       "translation": "まっすぐな",
-      "example": "Go straight on at the lights."
+      "example": "Go straight for two hundred metres."
     },
     {
       "word": "strange",
@@ -3189,7 +3189,7 @@
     {
       "word": "strawberry",
       "translation": "いちご",
-      "example": "I picked one red strawberry."
+      "example": "She put a strawberry on the cake."
     },
     {
       "word": "stress",
@@ -3199,7 +3199,7 @@
     {
       "word": "structure",
       "translation": "構造",
-      "example": "The structure is unsafe."
+      "example": "The structure of the bridge is strong."
     },
     {
       "word": "stupid",
@@ -3214,12 +3214,12 @@
     {
       "word": "suddenly",
       "translation": "突然",
-      "example": "Suddenly the lights went out."
+      "example": "Suddenly it started to rain."
     },
     {
       "word": "suggest",
       "translation": "提案する",
-      "example": "He suggested a different approach."
+      "example": "He suggested a different restaurant."
     },
     {
       "word": "suggestion",
@@ -3249,7 +3249,7 @@
     {
       "word": "survey",
       "translation": "調査",
-      "example": "The survey covered two hundred homes."
+      "example": "We did a survey of our students."
     },
     {
       "word": "sweet",
@@ -3279,7 +3279,7 @@
     {
       "word": "target",
       "translation": "目標",
-      "example": "They missed the target twice."
+      "example": "Our target is fifty new customers."
     },
     {
       "word": "task",
@@ -3299,7 +3299,7 @@
     {
       "word": "temperature",
       "translation": "気温",
-      "example": "The temperature dropped sharply."
+      "example": "The temperature is thirty degrees today."
     },
     {
       "word": "term",
@@ -3324,12 +3324,12 @@
     {
       "word": "thought",
       "translation": "考え",
-      "example": "A strange thought struck him."
+      "example": "Suddenly, I had a thought."
     },
     {
       "word": "throw",
       "translation": "投げる",
-      "example": "Do not throw it away."
+      "example": "Throw the ball to me."
     },
     {
       "word": "tidy",
@@ -3354,12 +3354,12 @@
     {
       "word": "tool",
       "translation": "道具",
-      "example": "The right tool makes it easy."
+      "example": "He keeps his tools in a box."
     },
     {
       "word": "top",
       "translation": "頂上",
-      "example": "The top shelf is out of reach."
+      "example": "The books are on the top shelf."
     },
     {
       "word": "touch",
@@ -3384,7 +3384,7 @@
     {
       "word": "towel",
       "translation": "タオル",
-      "example": "The towel was still damp."
+      "example": "Take a towel to the beach."
     },
     {
       "word": "tower",
@@ -3399,7 +3399,7 @@
     {
       "word": "track",
       "translation": "道、トラック",
-      "example": "A narrow track leads uphill."
+      "example": "We walked along a narrow track."
     },
     {
       "word": "tradition",
@@ -3429,7 +3429,7 @@
     {
       "word": "trouble",
       "translation": "問題",
-      "example": "The car gave us trouble."
+      "example": "We had trouble with the car."
     },
     {
       "word": "truck",
@@ -3494,12 +3494,12 @@
     {
       "word": "valley",
       "translation": "谷",
-      "example": "The valley floods each spring."
+      "example": "The village is in a green valley."
     },
     {
       "word": "van",
       "translation": "バン",
-      "example": "The van blocked the entrance."
+      "example": "They moved house in a small van."
     },
     {
       "word": "variety",
@@ -3509,17 +3509,17 @@
     {
       "word": "vehicle",
       "translation": "乗り物",
-      "example": "No vehicle may park here."
+      "example": "Vehicles cannot park here."
     },
     {
       "word": "view",
       "translation": "眺め",
-      "example": "The view from the top is superb."
+      "example": "The view from the top is beautiful."
     },
     {
       "word": "virus",
       "translation": "ウイルス",
-      "example": "The virus spread through the office."
+      "example": "There is a virus on my computer."
     },
     {
       "word": "voice",
@@ -3539,7 +3539,7 @@
     {
       "word": "weak",
       "translation": "弱い",
-      "example": "He felt weak after the illness."
+      "example": "The coffee is too weak."
     },
     {
       "word": "web",
@@ -3564,7 +3564,7 @@
     {
       "word": "wheel",
       "translation": "車輪",
-      "example": "The front wheel was buckled."
+      "example": "A car has four wheels."
     },
     {
       "word": "while",
@@ -3589,12 +3589,12 @@
     {
       "word": "winner",
       "translation": "勝者",
-      "example": "The winner received a medal."
+      "example": "The winner gets a prize."
     },
     {
       "word": "wish",
       "translation": "願う",
-      "example": "I wish I had known."
+      "example": "I wish I could speak French."
     },
     {
       "word": "wood",
@@ -3604,7 +3604,7 @@
     {
       "word": "wooden",
       "translation": "木製の",
-      "example": "A wooden bridge crosses it."
+      "example": "There is a wooden bridge over the river."
     },
     {
       "word": "worry",
