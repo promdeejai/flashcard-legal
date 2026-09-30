@@ -4,3542 +4,4249 @@
   "learn": "en",
   "native": "th",
   "level": "A1",
-  "version": 24,
+  "version": 25,
   "items": [
     {
       "word": "action",
       "translation": "การกระทำ",
-      "example": "She took action straight away."
+      "example": "She takes action now.",
+      "exampleTranslation": "เธอลงมือทำทันที"
     },
     {
       "word": "activity",
       "translation": "กิจกรรม",
-      "example": "The main activity is swimming."
+      "example": "The main activity is swimming.",
+      "exampleTranslation": "กิจกรรมหลักคือการว่ายน้ำ"
     },
     {
       "word": "actor",
       "translation": "นักแสดงชาย",
-      "example": "The actor forgot his line."
+      "example": "The actor forgets his line.",
+      "exampleTranslation": "นักแสดงชายลืมบทพูดของเขา"
     },
     {
       "word": "actress",
       "translation": "นักแสดงหญิง",
-      "example": "The actress waved at the crowd."
+      "example": "The actress waves at people.",
+      "exampleTranslation": "นักแสดงหญิงโบกมือให้ผู้คน"
     },
     {
       "word": "add",
       "translation": "เพิ่ม, ใส่",
-      "example": "Add a little salt."
+      "example": "Add a little salt.",
+      "exampleTranslation": "ใส่เกลือนิดหน่อย"
     },
     {
       "word": "address",
       "translation": "ที่อยู่",
-      "example": "Write your address on the form."
+      "example": "Write your address on the form.",
+      "exampleTranslation": "เขียนที่อยู่ของคุณลงในแบบฟอร์ม"
     },
     {
       "word": "adult",
       "translation": "ผู้ใหญ่",
-      "example": "One adult and two children, please."
+      "example": "One adult and two children, please.",
+      "exampleTranslation": "ผู้ใหญ่หนึ่งคนกับเด็กสองคน"
     },
     {
       "word": "advice",
       "translation": "คำแนะนำ",
-      "example": "He gave me useful advice about the job."
+      "example": "Her advice always helps me.",
+      "exampleTranslation": "คำแนะนำของเธอช่วยฉันได้เสมอ"
     },
     {
       "word": "afraid",
       "translation": "กลัว",
-      "example": "She is afraid of dogs."
+      "example": "She is afraid of dogs.",
+      "exampleTranslation": "เธอกลัวสุนัข"
     },
     {
       "word": "after",
       "translation": "หลังจาก",
-      "example": "We left after lunch."
+      "example": "We talk after class.",
+      "exampleTranslation": "เราคุยกันหลังเลิกเรียน"
     },
     {
       "word": "afternoon",
       "translation": "ตอนบ่าย",
-      "example": "We met on Tuesday afternoon."
+      "example": "I study every afternoon.",
+      "exampleTranslation": "ฉันเรียนหนังสือทุกบ่าย"
     },
     {
       "word": "again",
       "translation": "อีกครั้ง",
-      "example": "Try again tomorrow."
+      "example": "Try again tomorrow.",
+      "exampleTranslation": "พรุ่งนี้ลองอีกครั้ง"
     },
     {
       "word": "age",
       "translation": "อายุ",
-      "example": "She started work at a young age."
+      "example": "Her age is twenty.",
+      "exampleTranslation": "เธออายุยี่สิบปี"
     },
     {
       "word": "ago",
       "translation": "ที่แล้ว",
-      "example": "She left two years ago."
+      "example": "She left two years ago.",
+      "exampleTranslation": "สองปีที่แล้วเธอไปจากที่นี่"
     },
     {
       "word": "agree",
       "translation": "เห็นด้วย",
-      "example": "We agreed on a later date."
+      "example": "I agree with you.",
+      "exampleTranslation": "ฉันเห็นด้วยกับคุณ"
     },
     {
       "word": "air",
       "translation": "อากาศที่หายใจ",
-      "example": "The air is cooler by the river."
+      "example": "The air is cooler by the river.",
+      "exampleTranslation": "อากาศริมแม่น้ำเย็นกว่า"
     },
     {
       "word": "airport",
       "translation": "สนามบิน",
-      "example": "The airport is an hour away."
+      "example": "The airport is an hour away.",
+      "exampleTranslation": "สนามบินอยู่ห่างออกไปหนึ่งชั่วโมง"
     },
     {
       "word": "always",
       "translation": "เสมอ",
-      "example": "She always locks the door."
+      "example": "She always locks the door.",
+      "exampleTranslation": "เธอล็อกประตูเสมอ"
     },
     {
       "word": "amazing",
       "translation": "น่าทึ่ง",
-      "example": "The view was amazing."
+      "example": "The view is amazing.",
+      "exampleTranslation": "วิวสวยจนน่าทึ่ง"
     },
     {
       "word": "angry",
       "translation": "โกรธ",
-      "example": "He was angry about the delay."
+      "example": "He is angry today.",
+      "exampleTranslation": "วันนี้เขาโกรธ"
     },
     {
       "word": "animal",
       "translation": "สัตว์",
-      "example": "No animal is allowed inside."
+      "example": "This animal lives in water.",
+      "exampleTranslation": "สัตว์ชนิดนี้อาศัยอยู่ในน้ำ"
     },
     {
       "word": "answer",
       "translation": "คำตอบ",
-      "example": "Nobody knew the answer."
+      "example": "Nobody knows the answer.",
+      "exampleTranslation": "ไม่มีใครรู้คำตอบ"
     },
     {
       "word": "anyone",
       "translation": "ใครก็ได้",
-      "example": "Anyone can join."
+      "example": "Anyone is welcome here.",
+      "exampleTranslation": "ที่นี่ยินดีต้อนรับทุกคน"
     },
     {
       "word": "anything",
       "translation": "อะไรก็ได้",
-      "example": "Anything is better than waiting."
+      "example": "Anything is better than waiting.",
+      "exampleTranslation": "อะไรก็ได้ดีกว่าการรอ"
     },
     {
       "word": "apartment",
       "translation": "อพาร์ตเมนต์",
-      "example": "Their apartment is on the top floor."
+      "example": "Their apartment is on the top floor.",
+      "exampleTranslation": "อพาร์ตเมนต์ของพวกเขาอยู่ชั้นบนสุด"
     },
     {
       "word": "apple",
       "translation": "แอปเปิล",
-      "example": "I ate an apple after lunch."
+      "example": "I eat an apple every day.",
+      "exampleTranslation": "ฉันกินแอปเปิลทุกวัน"
     },
     {
       "word": "area",
       "translation": "พื้นที่",
-      "example": "This area floods every year."
+      "example": "This area floods every year.",
+      "exampleTranslation": "พื้นที่นี้น้ำท่วมทุกปี"
     },
     {
       "word": "arm",
       "translation": "แขน",
-      "example": "He broke his arm last winter."
+      "example": "Her arm hurts today.",
+      "exampleTranslation": "วันนี้เธอปวดแขน"
     },
     {
       "word": "arrive",
       "translation": "มาถึง",
-      "example": "They arrive on Sunday evening."
+      "example": "They arrive on Sunday evening.",
+      "exampleTranslation": "พวกเขามาถึงเย็นวันอาทิตย์"
     },
     {
       "word": "art",
       "translation": "ศิลปะ",
-      "example": "She studies art in Rome."
+      "example": "She studies art in Rome.",
+      "exampleTranslation": "เธอเรียนศิลปะที่กรุงโรม"
     },
     {
       "word": "article",
       "translation": "บทความ",
-      "example": "She wrote an article about it."
+      "example": "She writes an article every week.",
+      "exampleTranslation": "เธอเขียนบทความทุกสัปดาห์"
     },
     {
       "word": "artist",
       "translation": "ศิลปิน",
-      "example": "The artist works only at night."
+      "example": "The artist works only at night.",
+      "exampleTranslation": "ศิลปินทำงานเฉพาะตอนกลางคืน"
     },
     {
       "word": "ask",
       "translation": "ถาม",
-      "example": "Ask the driver where to get off."
+      "example": "Ask him for the time.",
+      "exampleTranslation": "ถามเขาว่ากี่โมงแล้ว"
     },
     {
       "word": "aunt",
       "translation": "ป้า",
-      "example": "My aunt lives in the next town."
+      "example": "My aunt lives in the next town.",
+      "exampleTranslation": "ป้าของฉันอาศัยอยู่เมืองถัดไป"
     },
     {
       "word": "autumn",
       "translation": "ฤดูใบไม้ร่วง",
-      "example": "The garden is best in autumn."
+      "example": "The garden is best in autumn.",
+      "exampleTranslation": "สวนสวยที่สุดตอนฤดูใบไม้ร่วง"
     },
     {
       "word": "away",
       "translation": "ห่างออกไป",
-      "example": "The station is ten minutes away."
+      "example": "The station is ten minutes away.",
+      "exampleTranslation": "สถานีอยู่ห่างออกไปสิบนาที"
     },
     {
       "word": "baby",
       "translation": "ทารก",
-      "example": "The baby is asleep."
+      "example": "The baby is asleep.",
+      "exampleTranslation": "ทารกกำลังหลับ"
     },
     {
       "word": "back",
       "translation": "กลับมา",
-      "example": "He came back at six."
+      "example": "He comes back at six.",
+      "exampleTranslation": "เขากลับมาตอนหกโมงเย็น"
     },
     {
       "word": "bad",
       "translation": "แย่",
-      "example": "The weather was bad all week."
+      "example": "The weather is bad today.",
+      "exampleTranslation": "วันนี้อากาศแย่"
     },
     {
       "word": "bag",
       "translation": "กระเป๋า",
-      "example": "Her bag was under the seat."
+      "example": "Her bag is under the seat.",
+      "exampleTranslation": "กระเป๋าของเธออยู่ใต้ที่นั่ง"
     },
     {
       "word": "ball",
       "translation": "ลูกบอล",
-      "example": "The ball rolled into the road."
+      "example": "The children play with a ball.",
+      "exampleTranslation": "เด็กๆเล่นลูกบอล"
     },
     {
       "word": "banana",
       "translation": "กล้วย",
-      "example": "He eats a banana before running."
+      "example": "He eats a banana every morning.",
+      "exampleTranslation": "เขากินกล้วยทุกเช้า"
     },
     {
       "word": "band",
       "translation": "วงดนตรี",
-      "example": "The band played for two hours."
+      "example": "The band plays every Friday.",
+      "exampleTranslation": "วงดนตรีเล่นทุกวันศุกร์"
     },
     {
       "word": "bank",
       "translation": "ธนาคาร",
-      "example": "The bank closes at three."
+      "example": "The bank closes at three.",
+      "exampleTranslation": "ธนาคารปิดตอนบ่ายสาม"
     },
     {
       "word": "bath",
       "translation": "การอาบน้ำในอ่าง",
-      "example": "He had a hot bath."
+      "example": "He takes a hot bath.",
+      "exampleTranslation": "เขาอาบน้ำอุ่นในอ่าง"
     },
     {
       "word": "bathroom",
       "translation": "ห้องน้ำ",
-      "example": "The bathroom is at the end of the hall."
+      "example": "The bathroom is very small.",
+      "exampleTranslation": "ห้องน้ำเล็กมาก"
     },
     {
       "word": "beach",
       "translation": "ชายหาด",
-      "example": "The beach was empty at dawn."
+      "example": "The beach is quiet in the morning.",
+      "exampleTranslation": "ชายหาดเงียบสงบตอนเช้า"
     },
     {
       "word": "beautiful",
       "translation": "สวยงาม",
-      "example": "It was a beautiful morning."
+      "example": "The morning is beautiful today.",
+      "exampleTranslation": "เช้าวันนี้สวยงามมาก"
     },
     {
       "word": "become",
       "translation": "กลายเป็น",
-      "example": "She became a teacher in June."
+      "example": "She becomes a nurse.",
+      "exampleTranslation": "เธอกลายเป็นพยาบาล"
     },
     {
       "word": "bed",
       "translation": "เตียง",
-      "example": "The bed is next to the window."
+      "example": "The bed is next to the window.",
+      "exampleTranslation": "เตียงอยู่ข้างหน้าต่าง"
     },
     {
       "word": "bedroom",
       "translation": "ห้องนอน",
-      "example": "The bedroom faces the garden."
+      "example": "The bedroom faces the garden.",
+      "exampleTranslation": "ห้องนอนหันหน้าไปทางสวน"
     },
     {
       "word": "beer",
       "translation": "เบียร์",
-      "example": "He ordered one beer."
+      "example": "He drinks one beer.",
+      "exampleTranslation": "เขาดื่มเบียร์หนึ่งขวด"
     },
     {
       "word": "before",
       "translation": "ก่อน",
-      "example": "Call me before you leave."
+      "example": "Call me before you leave.",
+      "exampleTranslation": "โทรหาฉันก่อนที่คุณจะไป"
     },
     {
       "word": "begin",
       "translation": "เริ่มต้น",
-      "example": "The film begins at eight."
+      "example": "The film begins at eight.",
+      "exampleTranslation": "หนังเริ่มตอนสองทุ่ม"
     },
     {
       "word": "behind",
       "translation": "ข้างหลัง",
-      "example": "The garden is behind the house."
+      "example": "The garden is behind the house.",
+      "exampleTranslation": "สวนอยู่ข้างหลังบ้าน"
     },
     {
       "word": "believe",
       "translation": "เชื่อ",
-      "example": "I believe she is right."
+      "example": "I believe she is right.",
+      "exampleTranslation": "ฉันเชื่อว่าเธอพูดถูก"
     },
     {
       "word": "best",
       "translation": "ดีที่สุด",
-      "example": "This is the best one."
+      "example": "This is the best one.",
+      "exampleTranslation": "อันนี้ดีที่สุด"
     },
     {
       "word": "better",
       "translation": "ดีกว่า",
-      "example": "Her Spanish is better than mine."
+      "example": "Her Spanish is better than mine.",
+      "exampleTranslation": "ภาษาสเปนของเธอดีกว่าของฉัน"
     },
     {
       "word": "bicycle",
       "translation": "จักรยาน",
-      "example": "She rides her bicycle to class."
+      "example": "She rides her bicycle to class.",
+      "exampleTranslation": "เธอปั่นจักรยานไปเรียน"
     },
     {
       "word": "big",
       "translation": "ใหญ่",
-      "example": "They live in a big house."
+      "example": "They live in a big house.",
+      "exampleTranslation": "พวกเขาอาศัยอยู่ในบ้านหลังใหญ่"
     },
     {
       "word": "bike",
       "translation": "จักรยาน",
-      "example": "He rode his bike to school."
+      "example": "He rides his bike to school.",
+      "exampleTranslation": "เขาปั่นจักรยานไปโรงเรียน"
     },
     {
       "word": "bill",
       "translation": "ใบเสร็จ",
-      "example": "Could we have the bill, please?"
+      "example": "He pays the bill every month.",
+      "exampleTranslation": "เขาจ่ายบิลทุกเดือน"
     },
     {
       "word": "bird",
       "translation": "นก",
-      "example": "A bird woke me at dawn."
+      "example": "A bird sings in the tree.",
+      "exampleTranslation": "มีนกร้องอยู่บนต้นไม้"
     },
     {
       "word": "birthday",
       "translation": "วันเกิด",
-      "example": "His birthday is in August."
+      "example": "His birthday is in August.",
+      "exampleTranslation": "วันเกิดของเขาอยู่ในเดือนสิงหาคม"
     },
     {
       "word": "black",
       "translation": "สีดำ",
-      "example": "He carried a black bag."
+      "example": "She has a black bag.",
+      "exampleTranslation": "เธอมีกระเป๋าสีดำ"
     },
     {
       "word": "blog",
       "translation": "บล็อก",
-      "example": "She writes a travel blog."
+      "example": "She writes a travel blog.",
+      "exampleTranslation": "เธอเขียนบล็อกท่องเที่ยว"
     },
     {
       "word": "blonde",
       "translation": "ผมบลอนด์",
-      "example": "She has blonde hair."
+      "example": "She has blonde hair.",
+      "exampleTranslation": "เธอมีผมบลอนด์"
     },
     {
       "word": "blue",
       "translation": "สีน้ำเงิน",
-      "example": "The sky is very blue today."
+      "example": "The sky is very blue today.",
+      "exampleTranslation": "วันนี้ท้องฟ้าสีฟ้าจัด"
     },
     {
       "word": "boat",
       "translation": "เรือ",
-      "example": "The boat leaves at seven."
+      "example": "The boat leaves at seven.",
+      "exampleTranslation": "เรือออกตอนเจ็ดโมง"
     },
     {
       "word": "body",
       "translation": "ร่างกาย",
-      "example": "Cold water shocks the body."
+      "example": "Water is good for the body.",
+      "exampleTranslation": "น้ำดีต่อร่างกาย"
     },
     {
       "word": "book",
       "translation": "หนังสือ",
-      "example": "This book has many pictures."
+      "example": "This book has many pictures.",
+      "exampleTranslation": "หนังสือเล่มนี้มีรูปเยอะ"
     },
     {
       "word": "boot",
       "translation": "รองเท้าบูต",
-      "example": "One boot was missing."
+      "example": "One boot is missing.",
+      "exampleTranslation": "รองเท้าบูตหายไปข้างหนึ่ง"
     },
     {
       "word": "bored",
       "translation": "เบื่อ",
-      "example": "The children were bored."
+      "example": "The children are bored today.",
+      "exampleTranslation": "วันนี้เด็กๆเบื่อ"
     },
     {
       "word": "boring",
       "translation": "น่าเบื่อ",
-      "example": "The lesson was boring."
+      "example": "The lesson is boring today.",
+      "exampleTranslation": "วันนี้บทเรียนน่าเบื่อ"
     },
     {
       "word": "born",
       "translation": "เกิด",
-      "example": "She was born in Chiang Mai."
+      "example": "She was born in Chiang Mai.",
+      "exampleTranslation": "เธอเกิดที่เชียงใหม่"
     },
     {
       "word": "bottle",
       "translation": "ขวด",
-      "example": "There is one bottle left."
+      "example": "There is one bottle left.",
+      "exampleTranslation": "เหลือขวดเดียว"
     },
     {
       "word": "box",
       "translation": "กล่อง",
-      "example": "The box was heavier than it looked."
+      "example": "The box is very heavy.",
+      "exampleTranslation": "กล่องนี้หนักมาก"
     },
     {
       "word": "boy",
       "translation": "เด็กผู้ชาย",
-      "example": "The boy dropped his ball."
+      "example": "The boy plays with his ball.",
+      "exampleTranslation": "เด็กผู้ชายเล่นลูกบอลของเขา"
     },
     {
       "word": "boyfriend",
       "translation": "แฟนหนุ่ม",
-      "example": "Her boyfriend cooks well."
+      "example": "Her boyfriend cooks well.",
+      "exampleTranslation": "แฟนหนุ่มของเธอทำอาหารเก่ง"
     },
     {
       "word": "bread",
       "translation": "ขนมปัง",
-      "example": "He eats bread for breakfast."
+      "example": "He eats bread for breakfast.",
+      "exampleTranslation": "เขากินขนมปังเป็นอาหารเช้า"
     },
     {
       "word": "break",
       "translation": "การพัก",
-      "example": "Let us take a short break."
+      "example": "We take a short break.",
+      "exampleTranslation": "เราพักสักครู่"
     },
     {
       "word": "breakfast",
       "translation": "อาหารเช้า",
-      "example": "He never eats breakfast."
+      "example": "He never eats breakfast.",
+      "exampleTranslation": "เขาไม่กินอาหารเช้าเลย"
     },
     {
       "word": "bring",
       "translation": "นำมา",
-      "example": "Please bring a coat."
+      "example": "Please bring a coat.",
+      "exampleTranslation": "ช่วยนำเสื้อโค้ตมาด้วย"
     },
     {
       "word": "brother",
       "translation": "พี่ชาย",
-      "example": "My brother is taller than me."
+      "example": "My brother is taller than me.",
+      "exampleTranslation": "พี่ชายของฉันสูงกว่าฉัน"
     },
     {
       "word": "brown",
       "translation": "สีน้ำตาล",
-      "example": "She wore a brown jacket."
+      "example": "She wears a brown jacket.",
+      "exampleTranslation": "เธอใส่เสื้อแจ็กเก็ตสีน้ำตาล"
     },
     {
       "word": "build",
       "translation": "สร้าง",
-      "example": "They will build a new school."
+      "example": "This company builds new schools.",
+      "exampleTranslation": "บริษัทนี้สร้างโรงเรียนใหม่"
     },
     {
       "word": "building",
       "translation": "อาคาร",
-      "example": "That building is a hundred years old."
+      "example": "That building is a hundred years old.",
+      "exampleTranslation": "อาคารหลังนั้นอายุร้อยปีแล้ว"
     },
     {
       "word": "bus",
       "translation": "รถประจำทาง",
-      "example": "The bus was late again."
+      "example": "The bus is late again.",
+      "exampleTranslation": "รถประจำทางมาสายอีกแล้ว"
     },
     {
       "word": "business",
       "translation": "ธุรกิจ",
-      "example": "His business grew quickly."
+      "example": "His business grows every year.",
+      "exampleTranslation": "ธุรกิจของเขาเติบโตทุกปี"
     },
     {
       "word": "busy",
       "translation": "ยุ่ง",
-      "example": "The office is busy on Mondays."
+      "example": "The office is busy on Mondays.",
+      "exampleTranslation": "ออฟฟิศยุ่งทุกวันจันทร์"
     },
     {
       "word": "butter",
       "translation": "เนย",
-      "example": "There is no butter left."
+      "example": "There is no butter left.",
+      "exampleTranslation": "ไม่เหลือเนยเลย"
     },
     {
       "word": "buy",
       "translation": "ซื้อ",
-      "example": "I want to buy a ticket."
+      "example": "I want to buy a ticket.",
+      "exampleTranslation": "ฉันอยากซื้อตั๋ว"
     },
     {
       "word": "cafe",
       "translation": "ร้านกาแฟ",
-      "example": "We met at a small cafe."
+      "example": "We meet at a small cafe.",
+      "exampleTranslation": "เราเจอกันที่ร้านกาแฟเล็กๆ"
     },
     {
       "word": "cake",
       "translation": "เค้ก",
-      "example": "She made a cake for the party."
+      "example": "She makes a cake for me.",
+      "exampleTranslation": "เธอทำเค้กให้ฉัน"
     },
     {
       "word": "call",
       "translation": "โทรหา",
-      "example": "Call me after seven."
+      "example": "Call me after seven.",
+      "exampleTranslation": "โทรหาฉันหลังหนึ่งทุ่ม"
     },
     {
       "word": "camera",
       "translation": "กล้องถ่ายรูป",
-      "example": "His camera is very old."
+      "example": "His camera is very old.",
+      "exampleTranslation": "กล้องของเขาเก่ามาก"
     },
     {
       "word": "cannot",
       "translation": "ไม่สามารถ",
-      "example": "I cannot open the door."
+      "example": "I cannot open the door.",
+      "exampleTranslation": "ฉันเปิดประตูไม่ได้"
     },
     {
       "word": "capital",
       "translation": "เมืองหลวง",
-      "example": "Bangkok is the capital."
+      "example": "Bangkok is the capital.",
+      "exampleTranslation": "กรุงเทพฯเป็นเมืองหลวง"
     },
     {
       "word": "car",
       "translation": "รถยนต์",
-      "example": "Their car is very old."
+      "example": "Their car is very old.",
+      "exampleTranslation": "รถยนต์ของพวกเขาเก่ามาก"
     },
     {
       "word": "card",
       "translation": "การ์ด",
-      "example": "He sent a card in December."
+      "example": "He sends a card every year.",
+      "exampleTranslation": "เขาส่งการ์ดทุกปี"
     },
     {
       "word": "career",
       "translation": "อาชีพ, การงาน",
-      "example": "Her career started late."
+      "example": "Her career starts late.",
+      "exampleTranslation": "อาชีพของเธอเริ่มต้นช้า"
     },
     {
       "word": "carrot",
       "translation": "แครอท",
-      "example": "Cut the carrot into small pieces."
+      "example": "Cut the carrot into small pieces.",
+      "exampleTranslation": "หั่นแครอทเป็นชิ้นเล็กๆ"
     },
     {
       "word": "carry",
       "translation": "ถือ",
-      "example": "Can you carry this bag?"
+      "example": "She carries a heavy bag.",
+      "exampleTranslation": "เธอถือกระเป๋าหนัก"
     },
     {
       "word": "cat",
       "translation": "แมว",
-      "example": "My cat hates water."
+      "example": "My cat hates water.",
+      "exampleTranslation": "แมวของฉันเกลียดน้ำ"
     },
     {
       "word": "CD",
       "translation": "ซีดี",
-      "example": "The CD was scratched."
+      "example": "The CD is scratched.",
+      "exampleTranslation": "แผ่นซีดีเป็นรอยขีดข่วน"
     },
     {
       "word": "cent",
       "translation": "เซ็นต์",
-      "example": "It costs fifty cents."
+      "example": "It costs fifty cents.",
+      "exampleTranslation": "ราคาห้าสิบเซ็นต์"
     },
     {
       "word": "centre",
       "translation": "ใจกลาง",
-      "example": "The station is in the centre."
+      "example": "The station is in the centre.",
+      "exampleTranslation": "สถานีอยู่ใจกลางเมือง"
     },
     {
       "word": "century",
       "translation": "ศตวรรษ",
-      "example": "The church is a century old."
+      "example": "The church is a century old.",
+      "exampleTranslation": "โบสถ์แห่งนี้มีอายุหนึ่งศตวรรษ"
     },
     {
       "word": "chair",
       "translation": "เก้าอี้",
-      "example": "He pulled out a chair for her."
+      "example": "He sits in a chair.",
+      "exampleTranslation": "เขานั่งบนเก้าอี้"
     },
     {
       "word": "change",
       "translation": "เงินทอน",
-      "example": "He kept the change."
+      "example": "He keeps the change.",
+      "exampleTranslation": "เขาเก็บเงินทอนไว้"
     },
     {
       "word": "chart",
       "translation": "แผนภูมิ",
-      "example": "The chart shows the change."
+      "example": "The chart shows the change.",
+      "exampleTranslation": "แผนภูมิแสดงการเปลี่ยนแปลง"
     },
     {
       "word": "cheap",
       "translation": "ถูก",
-      "example": "The tickets were surprisingly cheap."
+      "example": "The tickets are very cheap.",
+      "exampleTranslation": "ตั๋วราคาถูกมาก"
     },
     {
       "word": "check",
       "translation": "ตรวจสอบ",
-      "example": "Check the time before you go."
+      "example": "Check the time before you go.",
+      "exampleTranslation": "ตรวจสอบเวลาก่อนออกไป"
     },
     {
       "word": "cheese",
       "translation": "ชีส",
-      "example": "This cheese is very strong."
+      "example": "This cheese is very strong.",
+      "exampleTranslation": "ชีสชนิดนี้มีรสจัดมาก"
     },
     {
       "word": "chicken",
       "translation": "ไก่",
-      "example": "We had chicken and rice."
+      "example": "We eat chicken and rice.",
+      "exampleTranslation": "เรากินไก่กับข้าว"
     },
     {
       "word": "child",
       "translation": "เด็ก",
-      "example": "Every child gets a free book."
+      "example": "Every child gets a free book.",
+      "exampleTranslation": "เด็กทุกคนได้รับหนังสือฟรี"
     },
     {
       "word": "chocolate",
       "translation": "ช็อกโกแลต",
-      "example": "She gave me a box of chocolate."
+      "example": "She likes dark chocolate.",
+      "exampleTranslation": "เธอชอบช็อกโกแลตดำ"
     },
     {
       "word": "choose",
       "translation": "เลือก",
-      "example": "Choose any seat you like."
+      "example": "Choose any seat you like.",
+      "exampleTranslation": "เลือกที่นั่งที่คุณชอบ"
     },
     {
       "word": "cinema",
       "translation": "โรงภาพยนตร์",
-      "example": "The cinema opens at noon."
+      "example": "The cinema opens at noon.",
+      "exampleTranslation": "โรงภาพยนตร์เปิดตอนเที่ยง"
     },
     {
       "word": "city",
       "translation": "เมือง",
-      "example": "This city has three parks."
+      "example": "This city has three parks.",
+      "exampleTranslation": "เมืองนี้มีสวนสามแห่ง"
     },
     {
       "word": "class",
       "translation": "ชั้นเรียน",
-      "example": "The class starts in ten minutes."
+      "example": "The class starts in ten minutes.",
+      "exampleTranslation": "ชั้นเรียนเริ่มในอีกสิบนาที"
     },
     {
       "word": "classroom",
       "translation": "ห้องเรียน",
-      "example": "The classroom was empty."
+      "example": "The classroom is empty.",
+      "exampleTranslation": "ห้องเรียนว่างเปล่า"
     },
     {
       "word": "clean",
       "translation": "สะอาด",
-      "example": "The room is clean now."
+      "example": "The room is clean now.",
+      "exampleTranslation": "ตอนนี้ห้องสะอาดแล้ว"
     },
     {
       "word": "climb",
       "translation": "ปีน",
-      "example": "They climbed the hill slowly."
+      "example": "They climb the hill slowly.",
+      "exampleTranslation": "พวกเขาปีนเนินเขาอย่างช้าๆ"
     },
     {
       "word": "clock",
       "translation": "นาฬิกา",
-      "example": "The clock on the wall is slow."
+      "example": "The clock on the wall is slow.",
+      "exampleTranslation": "นาฬิกาบนผนังเดินช้า"
     },
     {
       "word": "close",
       "translation": "ใกล้",
-      "example": "The shop is close to my house."
+      "example": "The shop is close to my house.",
+      "exampleTranslation": "ร้านอยู่ใกล้บ้านของฉัน"
     },
     {
       "word": "clothes",
       "translation": "เสื้อผ้า",
-      "example": "Her clothes were still wet."
+      "example": "Her clothes are still wet.",
+      "exampleTranslation": "เสื้อผ้าของเธอยังเปียกอยู่"
     },
     {
       "word": "club",
       "translation": "ชมรม",
-      "example": "He joined the tennis club."
+      "example": "He joins the tennis club.",
+      "exampleTranslation": "เขาเข้าชมรมเทนนิส"
     },
     {
       "word": "coat",
       "translation": "เสื้อโค้ท",
-      "example": "Take a coat, it is cold."
+      "example": "She wears a warm coat.",
+      "exampleTranslation": "เธอใส่เสื้อโค้ทตัวหนา"
     },
     {
       "word": "coffee",
       "translation": "กาแฟ",
-      "example": "This coffee is too strong."
+      "example": "This coffee is too strong.",
+      "exampleTranslation": "กาแฟนี้เข้มเกินไป"
     },
     {
       "word": "cold",
       "translation": "หนาว",
-      "example": "My hands are cold."
+      "example": "My hands are cold.",
+      "exampleTranslation": "มือของฉันเย็น"
     },
     {
       "word": "college",
       "translation": "วิทยาลัย",
-      "example": "She studies at a college."
+      "example": "She studies at a college.",
+      "exampleTranslation": "เธอเรียนที่วิทยาลัย"
     },
     {
       "word": "colour",
       "translation": "สี",
-      "example": "What colour is the door?"
+      "example": "What colour is the door?",
+      "exampleTranslation": "ประตูสีอะไร"
     },
     {
       "word": "come",
       "translation": "มา",
-      "example": "Please come at seven."
+      "example": "Please come at seven.",
+      "exampleTranslation": "กรุณามาตอนเจ็ดโมง"
     },
     {
       "word": "common",
       "translation": "ทั่วไป",
-      "example": "That name is very common here."
+      "example": "That name is very common here.",
+      "exampleTranslation": "ชื่อนั้นพบได้ทั่วไปที่นี่"
     },
     {
       "word": "company",
       "translation": "บริษัท",
-      "example": "She works for a small company."
+      "example": "She works for a small company.",
+      "exampleTranslation": "เธอทำงานที่บริษัทเล็กๆ"
     },
     {
       "word": "compare",
       "translation": "เปรียบเทียบ",
-      "example": "Compare the two versions carefully."
+      "example": "Compare the two versions carefully.",
+      "exampleTranslation": "เปรียบเทียบสองเวอร์ชันอย่างละเอียด"
     },
     {
       "word": "complete",
       "translation": "เสร็จสมบูรณ์",
-      "example": "The work is not complete."
+      "example": "The work is not complete.",
+      "exampleTranslation": "งานยังไม่เสร็จสมบูรณ์"
     },
     {
       "word": "computer",
       "translation": "คอมพิวเตอร์",
-      "example": "The computer is very slow today."
+      "example": "The computer is very slow today.",
+      "exampleTranslation": "วันนี้คอมพิวเตอร์ช้ามาก"
     },
     {
       "word": "concert",
       "translation": "คอนเสิร์ต",
-      "example": "The concert starts at nine."
+      "example": "The concert starts at nine.",
+      "exampleTranslation": "คอนเสิร์ตเริ่มตอนสามทุ่ม"
     },
     {
       "word": "conversation",
       "translation": "การสนทนา",
-      "example": "We had a long conversation."
+      "example": "We have a long conversation.",
+      "exampleTranslation": "เรามีบทสนทนายาว"
     },
     {
       "word": "cook",
       "translation": "ทำอาหาร",
-      "example": "He cooks for the whole family."
+      "example": "He cooks for the whole family.",
+      "exampleTranslation": "เขาทำอาหารให้ทั้งครอบครัว"
     },
     {
       "word": "cool",
       "translation": "เย็นสบาย",
-      "example": "The evening air was cool."
+      "example": "The evening air is cool.",
+      "exampleTranslation": "อากาศตอนเย็นเย็นสบาย"
     },
     {
       "word": "correct",
       "translation": "ถูกต้อง",
-      "example": "That is the correct answer."
+      "example": "That is the correct answer.",
+      "exampleTranslation": "นั่นคือคำตอบที่ถูกต้อง"
     },
     {
       "word": "cost",
       "translation": "มีราคา",
-      "example": "The repair will cost a lot."
+      "example": "This book costs a lot.",
+      "exampleTranslation": "หนังสือเล่มนี้มีราคาแพง"
     },
     {
       "word": "country",
       "translation": "ประเทศ",
-      "example": "She has visited nine countries."
+      "example": "She visits many countries.",
+      "exampleTranslation": "เธอไปเยือนหลายประเทศ"
     },
     {
       "word": "course",
       "translation": "หลักสูตร",
-      "example": "He took a course in Spanish."
+      "example": "He takes a course in art.",
+      "exampleTranslation": "เขาเรียนหลักสูตรศิลปะ"
     },
     {
       "word": "cousin",
       "translation": "ลูกพี่ลูกน้อง",
-      "example": "My cousin studies in Japan."
+      "example": "My cousin studies in Japan.",
+      "exampleTranslation": "ลูกพี่ลูกน้องของฉันเรียนอยู่ที่ญี่ปุ่น"
     },
     {
       "word": "cow",
       "translation": "วัว",
-      "example": "A cow stood in the road."
+      "example": "A cow stands in the road.",
+      "exampleTranslation": "มีวัวยืนอยู่กลางถนน"
     },
     {
       "word": "cream",
       "translation": "ครีม",
-      "example": "She put cream in her coffee."
+      "example": "She puts cream in her coffee.",
+      "exampleTranslation": "เธอใส่ครีมในกาแฟ"
     },
     {
       "word": "create",
       "translation": "สร้างสรรค์ขึ้น",
-      "example": "They created a new logo."
+      "example": "They create a new logo.",
+      "exampleTranslation": "พวกเขาสร้างสรรค์โลโก้ใหม่"
     },
     {
       "word": "culture",
       "translation": "วัฒนธรรม",
-      "example": "Food is a big part of the culture."
+      "example": "Music is part of every culture.",
+      "exampleTranslation": "ดนตรีเป็นส่วนหนึ่งของทุกวัฒนธรรม"
     },
     {
       "word": "cup",
       "translation": "ถ้วย",
-      "example": "He drank two cups of tea."
+      "example": "He drinks two cups of tea.",
+      "exampleTranslation": "เขาดื่มชาสองถ้วย"
     },
     {
       "word": "customer",
       "translation": "ลูกค้า",
-      "example": "A customer asked for a refund."
+      "example": "A customer asks for help.",
+      "exampleTranslation": "ลูกค้าคนหนึ่งขอความช่วยเหลือ"
     },
     {
       "word": "cut",
       "translation": "ตัด",
-      "example": "She cut the bread carefully."
+      "example": "She cuts the bread carefully.",
+      "exampleTranslation": "เธอตัดขนมปังอย่างระมัดระวัง"
     },
     {
       "word": "dad",
       "translation": "พ่อ (ภาษาพูด)",
-      "example": "My dad drives a lorry."
+      "example": "My dad drives a lorry.",
+      "exampleTranslation": "พ่อของฉันขับรถบรรทุก"
     },
     {
       "word": "dance",
       "translation": "เต้นรำ",
-      "example": "They danced until midnight."
+      "example": "They dance every Friday night.",
+      "exampleTranslation": "พวกเขาเต้นรำทุกคืนวันศุกร์"
     },
     {
       "word": "dancer",
       "translation": "นักเต้น",
-      "example": "The dancer trained for years."
+      "example": "The dancer trains every day.",
+      "exampleTranslation": "นักเต้นฝึกซ้อมทุกวัน"
     },
     {
       "word": "dangerous",
       "translation": "อันตราย",
-      "example": "That road is dangerous in the rain."
+      "example": "That road is dangerous in the rain.",
+      "exampleTranslation": "ถนนสายนั้นอันตรายตอนฝนตก"
     },
     {
       "word": "dark",
       "translation": "มืด",
-      "example": "The room was completely dark."
+      "example": "The room is completely dark.",
+      "exampleTranslation": "ห้องมืดสนิท"
     },
     {
       "word": "date",
       "translation": "วันที่",
-      "example": "What is the date today?"
+      "example": "What is the date today?",
+      "exampleTranslation": "วันนี้วันที่เท่าไหร่"
     },
     {
       "word": "daughter",
       "translation": "ลูกสาว",
-      "example": "Their daughter is at university."
+      "example": "Their daughter is at university.",
+      "exampleTranslation": "ลูกสาวของพวกเขาเรียนอยู่มหาวิทยาลัย"
     },
     {
       "word": "day",
       "translation": "วัน",
-      "example": "It was a long day at work."
+      "example": "Today is a long day.",
+      "exampleTranslation": "วันนี้เป็นวันที่ยาวนาน"
     },
     {
       "word": "dear",
       "translation": "ที่รัก",
-      "example": "Dear Anna, thank you for the book."
+      "example": "Dear Anna, thank you for the book.",
+      "exampleTranslation": "แอนนาที่รัก ขอบคุณสำหรับหนังสือ"
     },
     {
       "word": "decide",
       "translation": "ตัดสินใจ",
-      "example": "We decided to stay one more night."
+      "example": "We decide to stay another night.",
+      "exampleTranslation": "เราตัดสินใจพักอีกหนึ่งคืน"
     },
     {
       "word": "delicious",
       "translation": "อร่อย",
-      "example": "The soup was delicious."
+      "example": "The soup is delicious.",
+      "exampleTranslation": "ซุปนี้อร่อยมาก"
     },
     {
       "word": "describe",
       "translation": "บรรยาย",
-      "example": "Can you describe the man?"
+      "example": "Describe the man to me.",
+      "exampleTranslation": "บรรยายลักษณะผู้ชายคนนั้นให้ฉันฟัง"
     },
     {
       "word": "description",
       "translation": "คำบรรยายลักษณะ",
-      "example": "Her description was very clear."
+      "example": "Her description is very clear.",
+      "exampleTranslation": "คำบรรยายลักษณะของเธอชัดเจนมาก"
     },
     {
       "word": "design",
       "translation": "การออกแบบ",
-      "example": "The design is very simple."
+      "example": "The design is very simple.",
+      "exampleTranslation": "การออกแบบนี้เรียบง่ายมาก"
     },
     {
       "word": "desk",
       "translation": "โต๊ะทำงาน",
-      "example": "His desk is by the window."
+      "example": "His desk is by the window.",
+      "exampleTranslation": "โต๊ะทำงานของเขาอยู่ริมหน้าต่าง"
     },
     {
       "word": "detail",
       "translation": "รายละเอียด",
-      "example": "He explained every detail."
+      "example": "He explains every detail.",
+      "exampleTranslation": "เขาอธิบายทุกรายละเอียด"
     },
     {
       "word": "dialogue",
       "translation": "บทสนทนา",
-      "example": "The dialogue felt natural."
+      "example": "The dialogue sounds natural.",
+      "exampleTranslation": "บทสนทนาฟังดูเป็นธรรมชาติ"
     },
     {
       "word": "dictionary",
       "translation": "พจนานุกรม",
-      "example": "Look it up in a dictionary."
+      "example": "Check the word in a dictionary.",
+      "exampleTranslation": "ตรวจสอบคำศัพท์ในพจนานุกรม"
     },
     {
       "word": "die",
       "translation": "ตาย",
-      "example": "The plant died in winter."
+      "example": "The plant dies without water.",
+      "exampleTranslation": "ต้นไม้ตายถ้าไม่มีน้ำ"
     },
     {
       "word": "diet",
       "translation": "การควบคุมอาหาร",
-      "example": "He is on a strict diet."
+      "example": "He is on a strict diet.",
+      "exampleTranslation": "เขาควบคุมอาหารอย่างเคร่งครัด"
     },
     {
       "word": "difference",
       "translation": "ความแตกต่าง",
-      "example": "The difference is small but real."
+      "example": "The difference is small but real.",
+      "exampleTranslation": "ความแตกต่างมีน้อยแต่มีอยู่จริง"
     },
     {
       "word": "different",
       "translation": "แตกต่าง",
-      "example": "This one is different."
+      "example": "This one is different.",
+      "exampleTranslation": "อันนี้แตกต่างออกไป"
     },
     {
       "word": "difficult",
       "translation": "ยากลำบาก",
-      "example": "The exam was difficult."
+      "example": "The exam is difficult.",
+      "exampleTranslation": "ข้อสอบนี้ยาก"
     },
     {
       "word": "dinner",
       "translation": "อาหารเย็น",
-      "example": "Dinner is at seven."
+      "example": "Dinner is at seven.",
+      "exampleTranslation": "อาหารเย็นเวลาหนึ่งทุ่ม"
     },
     {
       "word": "dirty",
       "translation": "สกปรก",
-      "example": "His shoes were dirty."
+      "example": "His shoes are dirty.",
+      "exampleTranslation": "รองเท้าของเขาสกปรก"
     },
     {
       "word": "discuss",
       "translation": "อภิปราย",
-      "example": "We discussed it for an hour."
+      "example": "We discuss it every week.",
+      "exampleTranslation": "เราอภิปรายเรื่องนี้ทุกสัปดาห์"
     },
     {
       "word": "dish",
       "translation": "จาน",
-      "example": "Wash the last dish, please."
+      "example": "Wash the last dish, please.",
+      "exampleTranslation": "ล้างจานใบสุดท้ายด้วย"
     },
     {
       "word": "doctor",
       "translation": "แพทย์",
-      "example": "The doctor arrives at nine."
+      "example": "The doctor arrives at nine.",
+      "exampleTranslation": "แพทย์มาถึงตอนเก้าโมง"
     },
     {
       "word": "dog",
       "translation": "สุนัข",
-      "example": "The dog sleeps under the table."
+      "example": "The dog sleeps under the table.",
+      "exampleTranslation": "สุนัขนอนอยู่ใต้โต๊ะ"
     },
     {
       "word": "dollar",
       "translation": "ดอลลาร์",
-      "example": "It cost one dollar."
+      "example": "It costs one dollar.",
+      "exampleTranslation": "ราคาหนึ่งดอลลาร์"
     },
     {
       "word": "door",
       "translation": "ประตู",
-      "example": "Please close the door."
+      "example": "Please close the door.",
+      "exampleTranslation": "กรุณาปิดประตูด้วย"
     },
     {
       "word": "downstairs",
       "translation": "ชั้นล่าง",
-      "example": "The kitchen is downstairs."
+      "example": "The kitchen is downstairs.",
+      "exampleTranslation": "ห้องครัวอยู่ชั้นล่าง"
     },
     {
       "word": "draw",
       "translation": "วาดรูป",
-      "example": "She draws every evening."
+      "example": "She draws every evening.",
+      "exampleTranslation": "เธอวาดรูปทุกเย็น"
     },
     {
       "word": "dress",
       "translation": "ชุดกระโปรง",
-      "example": "That dress suits you."
+      "example": "That dress suits you.",
+      "exampleTranslation": "ชุดกระโปรงตัวนั้นเหมาะกับคุณ"
     },
     {
       "word": "drink",
       "translation": "ดื่ม",
-      "example": "He does not drink coffee."
+      "example": "He does not drink coffee.",
+      "exampleTranslation": "เขาไม่ดื่มกาแฟ"
     },
     {
       "word": "drive",
       "translation": "ขับรถ",
-      "example": "He drives to work on Mondays."
+      "example": "He drives to work on Mondays.",
+      "exampleTranslation": "เขาขับรถไปทำงานทุกวันจันทร์"
     },
     {
       "word": "driver",
       "translation": "คนขับ",
-      "example": "The driver waited outside."
+      "example": "The driver waits outside.",
+      "exampleTranslation": "คนขับรอข้างนอก"
     },
     {
       "word": "DVD",
       "translation": "ดีวีดี",
-      "example": "The DVD would not play."
+      "example": "The DVD does not play.",
+      "exampleTranslation": "แผ่นดีวีดีเล่นไม่ได้"
     },
     {
       "word": "ear",
       "translation": "หู",
-      "example": "The noise hurt my ear."
+      "example": "The noise hurts my ear.",
+      "exampleTranslation": "เสียงดังจนฉันเจ็บหู"
     },
     {
       "word": "early",
       "translation": "แต่เช้า",
-      "example": "He arrived early as usual."
+      "example": "He always arrives early.",
+      "exampleTranslation": "เขามาถึงแต่เช้าเสมอ"
     },
     {
       "word": "east",
       "translation": "ทิศตะวันออก",
-      "example": "The wind comes from the east."
+      "example": "The wind comes from the east.",
+      "exampleTranslation": "ลมพัดมาจากทิศตะวันออก"
     },
     {
       "word": "easy",
       "translation": "ง่าย",
-      "example": "The test was easy."
+      "example": "The test is easy.",
+      "exampleTranslation": "ข้อสอบนี้ง่าย"
     },
     {
       "word": "eat",
       "translation": "กิน",
-      "example": "We eat dinner at seven."
+      "example": "We eat dinner at seven.",
+      "exampleTranslation": "เรากินอาหารเย็นตอนหนึ่งทุ่ม"
     },
     {
       "word": "egg",
       "translation": "ไข่",
-      "example": "She boiled one egg."
+      "example": "She boils one egg.",
+      "exampleTranslation": "เธอต้มไข่หนึ่งฟอง"
     },
     {
       "word": "elephant",
       "translation": "ช้าง",
-      "example": "The elephant drank from the river."
+      "example": "The elephant drinks from the river.",
+      "exampleTranslation": "ช้างดื่มน้ำจากแม่น้ำ"
     },
     {
       "word": "else",
       "translation": "อื่น",
-      "example": "Ask somebody else."
+      "example": "Ask somebody else.",
+      "exampleTranslation": "ถามคนอื่นดูสิ"
     },
     {
       "word": "email",
       "translation": "อีเมล",
-      "example": "Send me an email tonight."
+      "example": "Send me an email tonight.",
+      "exampleTranslation": "คืนนี้ส่งอีเมลมาให้ฉัน"
     },
     {
       "word": "end",
       "translation": "ตอนจบ",
-      "example": "The end of the film surprised me."
+      "example": "The end of the movie is sad.",
+      "exampleTranslation": "ตอนจบของหนังเรื่องนี้เศร้า"
     },
     {
       "word": "enjoy",
       "translation": "เพลิดเพลินกับ",
-      "example": "I enjoy long walks."
+      "example": "I enjoy long walks.",
+      "exampleTranslation": "ฉันเพลิดเพลินกับการเดินเล่นไกลๆ"
     },
     {
       "word": "enough",
       "translation": "เพียงพอ",
-      "example": "There is not enough rice."
+      "example": "There is not enough rice.",
+      "exampleTranslation": "ข้าวมีไม่เพียงพอ"
     },
     {
       "word": "euro",
       "translation": "ยูโร",
-      "example": "It cost three euros."
+      "example": "It costs three euros.",
+      "exampleTranslation": "ราคาสามยูโร"
     },
     {
       "word": "evening",
       "translation": "ตอนเย็น",
-      "example": "We walk in the evening."
+      "example": "We walk in the evening.",
+      "exampleTranslation": "เราเดินเล่นกันตอนเย็น"
     },
     {
       "word": "event",
       "translation": "งาน, เหตุการณ์",
-      "example": "The event lasted two days."
+      "example": "The event lasts two days.",
+      "exampleTranslation": "งานนี้จัดขึ้นสองวัน"
     },
     {
       "word": "everybody",
       "translation": "ทุกคน",
-      "example": "Everybody arrived on time."
+      "example": "Everybody arrives on time.",
+      "exampleTranslation": "ทุกคนมาถึงตรงเวลา"
     },
     {
       "word": "everyone",
       "translation": "ทุกคน",
-      "example": "Everyone arrived on time."
+      "example": "Everyone arrives on time.",
+      "exampleTranslation": "ทุกคนมาถึงตรงเวลา"
     },
     {
       "word": "everything",
       "translation": "ทุกสิ่งทุกอย่าง",
-      "example": "Everything is ready."
+      "example": "Everything is ready.",
+      "exampleTranslation": "ทุกสิ่งทุกอย่างพร้อมแล้ว"
     },
     {
       "word": "exam",
       "translation": "การสอบ",
-      "example": "The exam lasted three hours."
+      "example": "The exam lasts three hours.",
+      "exampleTranslation": "การสอบใช้เวลาสามชั่วโมง"
     },
     {
       "word": "example",
       "translation": "ตัวอย่าง",
-      "example": "Give me one clear example."
+      "example": "Give me one clear example.",
+      "exampleTranslation": "ยกตัวอย่างที่ชัดเจนให้ฉันหน่อย"
     },
     {
       "word": "excited",
       "translation": "ตื่นเต้น, ดีใจ",
-      "example": "The children were excited."
+      "example": "The children are excited.",
+      "exampleTranslation": "เด็กๆตื่นเต้นกันมาก"
     },
     {
       "word": "exciting",
       "translation": "น่าตื่นเต้น",
-      "example": "It was an exciting match."
+      "example": "It is an exciting match.",
+      "exampleTranslation": "นี่คือการแข่งขันที่น่าตื่นเต้น"
     },
     {
       "word": "exercise",
       "translation": "การออกกำลังกาย",
-      "example": "She does exercise every morning."
+      "example": "She does exercise every morning.",
+      "exampleTranslation": "เธอออกกำลังกายทุกเช้า"
     },
     {
       "word": "expensive",
       "translation": "แพง",
-      "example": "That restaurant is too expensive."
+      "example": "That restaurant is too expensive.",
+      "exampleTranslation": "ร้านอาหารนั้นแพงเกินไป"
     },
     {
       "word": "explain",
       "translation": "อธิบาย",
-      "example": "Please explain the rule again."
+      "example": "Please explain the rule again.",
+      "exampleTranslation": "ช่วยอธิบายกฎอีกครั้ง"
     },
     {
       "word": "extra",
       "translation": "เพิ่มเติม, พิเศษ",
-      "example": "We need one extra chair."
+      "example": "We need one extra chair.",
+      "exampleTranslation": "เราต้องการเก้าอี้เพิ่มอีกหนึ่งตัว"
     },
     {
       "word": "eye",
       "translation": "ตา",
-      "example": "She closed one eye."
+      "example": "She closes one eye.",
+      "exampleTranslation": "เธอหลับตาข้างหนึ่ง"
     },
     {
       "word": "face",
       "translation": "ใบหน้า",
-      "example": "His face was very red."
+      "example": "His face is very red.",
+      "exampleTranslation": "หน้าของเขาแดงมาก"
     },
     {
       "word": "fact",
       "translation": "ข้อเท็จจริง",
-      "example": "That is a simple fact."
+      "example": "That is a simple fact.",
+      "exampleTranslation": "นั่นเป็นข้อเท็จจริงง่ายๆ"
     },
     {
       "word": "fall",
       "translation": "ร่วงหล่น",
-      "example": "Leaves fall in October."
+      "example": "Leaves fall in October.",
+      "exampleTranslation": "ใบไม้ร่วงในเดือนตุลาคม"
     },
     {
       "word": "false",
       "translation": "เท็จ",
-      "example": "That statement is false."
+      "example": "That statement is false.",
+      "exampleTranslation": "คำกล่าวนั้นเป็นเท็จ"
     },
     {
       "word": "family",
       "translation": "ครอบครัว",
-      "example": "My family lives in a small town."
+      "example": "My family lives in a small town.",
+      "exampleTranslation": "ครอบครัวของฉันอยู่ในเมืองเล็กๆ"
     },
     {
       "word": "famous",
       "translation": "มีชื่อเสียง",
-      "example": "The restaurant is famous for its soup."
+      "example": "The restaurant is famous for its soup.",
+      "exampleTranslation": "ร้านนี้มีชื่อเสียงเรื่องซุป"
     },
     {
       "word": "fantastic",
       "translation": "เยี่ยมยอด",
-      "example": "The concert was fantastic."
+      "example": "The concert is fantastic.",
+      "exampleTranslation": "คอนเสิร์ตนี้ยอดเยี่ยมมาก"
     },
     {
       "word": "far",
       "translation": "ไกล",
-      "example": "Their house is far from here."
+      "example": "Their house is far from here.",
+      "exampleTranslation": "บ้านของพวกเขาไกลจากที่นี่"
     },
     {
       "word": "farm",
       "translation": "ฟาร์ม",
-      "example": "They own a small farm."
+      "example": "They own a small farm.",
+      "exampleTranslation": "พวกเขามีฟาร์มเล็กๆ"
     },
     {
       "word": "farmer",
       "translation": "ชาวนา, ชาวไร่",
-      "example": "The farmer sold his cows."
+      "example": "The farmer sells his cows.",
+      "exampleTranslation": "ชาวนาขายวัวของเขา"
     },
     {
       "word": "fast",
       "translation": "เร็ว",
-      "example": "That train is very fast."
+      "example": "That train is very fast.",
+      "exampleTranslation": "รถไฟขบวนนั้นเร็วมาก"
     },
     {
       "word": "fat",
       "translation": "ไขมัน",
-      "example": "The soup is too fat."
+      "example": "This meat has too much fat.",
+      "exampleTranslation": "เนื้อชิ้นนี้มีไขมันมากเกินไป"
     },
     {
       "word": "father",
       "translation": "พ่อ",
-      "example": "His father drives a taxi."
+      "example": "His father drives a taxi.",
+      "exampleTranslation": "พ่อของเขาขับแท็กซี่"
     },
     {
       "word": "favourite",
       "translation": "ที่ชอบที่สุด",
-      "example": "This is my favourite song."
+      "example": "This is my favourite song.",
+      "exampleTranslation": "นี่คือเพลงที่ฉันชอบที่สุด"
     },
     {
       "word": "feel",
       "translation": "รู้สึก",
-      "example": "I feel much better today."
+      "example": "I feel much better today.",
+      "exampleTranslation": "วันนี้ฉันรู้สึกดีขึ้นมาก"
     },
     {
       "word": "festival",
       "translation": "เทศกาล",
-      "example": "The festival lasts four days."
+      "example": "The festival lasts four days.",
+      "exampleTranslation": "เทศกาลนี้จัดขึ้นสี่วัน"
     },
     {
       "word": "fill",
       "translation": "เติมให้เต็ม",
-      "example": "Fill the glass slowly."
+      "example": "Fill the glass slowly.",
+      "exampleTranslation": "ค่อยๆเติมให้เต็มแก้ว"
     },
     {
       "word": "film",
       "translation": "ภาพยนตร์",
-      "example": "The film was three hours long."
+      "example": "The film is three hours long.",
+      "exampleTranslation": "ภาพยนตร์เรื่องนี้ยาวสามชั่วโมง"
     },
     {
       "word": "final",
       "translation": "สุดท้าย",
-      "example": "This is the final version."
+      "example": "This is the final version.",
+      "exampleTranslation": "นี่คือเวอร์ชันสุดท้าย"
     },
     {
       "word": "find",
       "translation": "หาเจอ",
-      "example": "I cannot find my keys."
+      "example": "I cannot find my keys.",
+      "exampleTranslation": "ฉันหากุญแจของฉันไม่เจอ"
     },
     {
       "word": "fine",
       "translation": "ดี, งาม",
-      "example": "The weather was fine."
+      "example": "The weather is fine today.",
+      "exampleTranslation": "วันนี้อากาศดี"
     },
     {
       "word": "finish",
       "translation": "ทำให้เสร็จ",
-      "example": "Finish your work first."
+      "example": "Finish your work first.",
+      "exampleTranslation": "ทำงานของคุณให้เสร็จก่อน"
     },
     {
       "word": "fire",
       "translation": "ไฟ",
-      "example": "The fire burned all night."
+      "example": "The fire burns all night.",
+      "exampleTranslation": "ไฟไหม้ตลอดทั้งคืน"
     },
     {
       "word": "fish",
       "translation": "ปลา",
-      "example": "The fish was very fresh."
+      "example": "The fish is very fresh.",
+      "exampleTranslation": "ปลาสดมาก"
     },
     {
       "word": "flat",
       "translation": "แฟลต",
-      "example": "Their flat is very small."
+      "example": "Their flat is very small.",
+      "exampleTranslation": "แฟลตของพวกเขาเล็กมาก"
     },
     {
       "word": "flight",
       "translation": "เที่ยวบิน",
-      "example": "The flight was delayed."
+      "example": "The flight is delayed today.",
+      "exampleTranslation": "วันนี้เที่ยวบินล่าช้า"
     },
     {
       "word": "floor",
       "translation": "ชั้น",
-      "example": "Our office is on the third floor."
+      "example": "Our office is on the third floor.",
+      "exampleTranslation": "ออฟฟิศของเราอยู่ชั้นสาม"
     },
     {
       "word": "flower",
       "translation": "ดอกไม้",
-      "example": "She bought a yellow flower."
+      "example": "She buys a yellow flower.",
+      "exampleTranslation": "เธอซื้อดอกไม้สีเหลือง"
     },
     {
       "word": "fly",
       "translation": "บิน",
-      "example": "Birds fly south in winter."
+      "example": "Birds fly south in winter.",
+      "exampleTranslation": "นกบินไปทางใต้ในฤดูหนาว"
     },
     {
       "word": "follow",
       "translation": "ตามไป",
-      "example": "Follow me to the office."
+      "example": "Follow me to the office.",
+      "exampleTranslation": "ตามฉันไปที่สำนักงาน"
     },
     {
       "word": "food",
       "translation": "อาหาร",
-      "example": "The food here is cheap and good."
+      "example": "The food here is cheap and good.",
+      "exampleTranslation": "อาหารที่นี่ทั้งถูกและอร่อย"
     },
     {
       "word": "foot",
       "translation": "เท้า",
-      "example": "My foot still hurts."
+      "example": "My foot still hurts.",
+      "exampleTranslation": "ฉันยังเจ็บเท้าอยู่"
     },
     {
       "word": "football",
       "translation": "ฟุตบอล",
-      "example": "They play football on Sundays."
+      "example": "They play football on Sundays.",
+      "exampleTranslation": "พวกเขาเล่นฟุตบอลทุกวันอาทิตย์"
     },
     {
       "word": "forget",
       "translation": "ลืม",
-      "example": "Do not forget your keys."
+      "example": "Do not forget your keys.",
+      "exampleTranslation": "อย่าลืมกุญแจของคุณ"
     },
     {
       "word": "form",
       "translation": "แบบฟอร์ม",
-      "example": "Fill in the form in ink."
+      "example": "Write your name on the form.",
+      "exampleTranslation": "เขียนชื่อของคุณลงในแบบฟอร์ม"
     },
     {
       "word": "free",
       "translation": "ฟรี",
-      "example": "Entry is free on Mondays."
+      "example": "Entry is free on Mondays.",
+      "exampleTranslation": "เข้าฟรีทุกวันจันทร์"
     },
     {
       "word": "friend",
       "translation": "เพื่อน",
-      "example": "My friend lives next door."
+      "example": "My friend lives next door.",
+      "exampleTranslation": "เพื่อนของฉันอยู่บ้านข้างๆ"
     },
     {
       "word": "front",
       "translation": "ด้านหน้า",
-      "example": "Wait at the front of the building."
+      "example": "Wait at the front of the building.",
+      "exampleTranslation": "รอที่ด้านหน้าของอาคาร"
     },
     {
       "word": "fruit",
       "translation": "ผลไม้",
-      "example": "Fruit is cheap in summer."
+      "example": "Fruit is cheap in summer.",
+      "exampleTranslation": "ผลไม้ราคาถูกในหน้าร้อน"
     },
     {
       "word": "full",
       "translation": "เต็ม",
-      "example": "The bus was completely full."
+      "example": "The bus is completely full.",
+      "exampleTranslation": "รถบัสเต็มคันแล้ว"
     },
     {
       "word": "fun",
       "translation": "ความสนุก",
-      "example": "The trip was great fun."
+      "example": "The trip is great fun.",
+      "exampleTranslation": "ทริปนี้สนุกมาก"
     },
     {
       "word": "funny",
       "translation": "ตลก",
-      "example": "His story was very funny."
+      "example": "His story is very funny.",
+      "exampleTranslation": "เรื่องราวของเขาตลกมาก"
     },
     {
       "word": "future",
       "translation": "อนาคต",
-      "example": "Nobody knows the future."
+      "example": "Nobody knows the future.",
+      "exampleTranslation": "ไม่มีใครรู้อนาคต"
     },
     {
       "word": "game",
       "translation": "เกม",
-      "example": "The game ended in a draw."
+      "example": "The game starts at noon.",
+      "exampleTranslation": "เกมเริ่มตอนเที่ยง"
     },
     {
       "word": "garden",
       "translation": "สวน",
-      "example": "Their garden is full of flowers."
+      "example": "Their garden is full of flowers.",
+      "exampleTranslation": "สวนของพวกเขาเต็มไปด้วยดอกไม้"
     },
     {
       "word": "geography",
       "translation": "ภูมิศาสตร์",
-      "example": "She teaches geography."
+      "example": "She teaches geography.",
+      "exampleTranslation": "เธอสอนวิชาภูมิศาสตร์"
     },
     {
       "word": "girl",
       "translation": "เด็กผู้หญิง",
-      "example": "A girl waved from the window."
+      "example": "A girl waves from the window.",
+      "exampleTranslation": "มีเด็กผู้หญิงโบกมืออยู่ที่หน้าต่าง"
     },
     {
       "word": "girlfriend",
       "translation": "แฟนสาว",
-      "example": "His girlfriend studies law."
+      "example": "His girlfriend studies law.",
+      "exampleTranslation": "แฟนสาวของเขาเรียนกฎหมาย"
     },
     {
       "word": "give",
       "translation": "ให้",
-      "example": "Give me one minute."
+      "example": "Give me one minute.",
+      "exampleTranslation": "ให้เวลาฉันหนึ่งนาที"
     },
     {
       "word": "glass",
       "translation": "แก้ว",
-      "example": "She broke a glass this morning."
+      "example": "This glass is completely empty.",
+      "exampleTranslation": "แก้วใบนี้ว่างเปล่า"
     },
     {
       "word": "go",
       "translation": "ไป",
-      "example": "We go to the market on Friday."
+      "example": "We go to the market on Friday.",
+      "exampleTranslation": "เราไปตลาดทุกวันศุกร์"
     },
     {
       "word": "good",
       "translation": "ดี",
-      "example": "This is a good idea."
+      "example": "This is a good idea.",
+      "exampleTranslation": "นี่เป็นความคิดที่ดี"
     },
     {
       "word": "grandfather",
       "translation": "ปู่",
-      "example": "My grandfather was a fisherman."
+      "example": "My grandfather tells great stories.",
+      "exampleTranslation": "ปู่ของฉันเล่าเรื่องเก่งมาก"
     },
     {
       "word": "grandmother",
       "translation": "ย่า",
-      "example": "Her grandmother still cooks daily."
+      "example": "Her grandmother still cooks daily.",
+      "exampleTranslation": "ย่าของเธอยังทำอาหารทุกวัน"
     },
     {
       "word": "grandparent",
       "translation": "ปู่ย่าตายาย",
-      "example": "My grandparent still drives."
+      "example": "My grandparent still drives.",
+      "exampleTranslation": "ปู่ย่าตายายของฉันยังขับรถอยู่"
     },
     {
       "word": "great",
       "translation": "เยี่ยม",
-      "example": "That is a great idea."
+      "example": "That is a great idea.",
+      "exampleTranslation": "นั่นเป็นความคิดที่ยอดเยี่ยม"
     },
     {
       "word": "green",
       "translation": "สีเขียว",
-      "example": "The fields turn green in May."
+      "example": "The fields turn green in May.",
+      "exampleTranslation": "ทุ่งนากลายเป็นสีเขียวในเดือนพฤษภาคม"
     },
     {
       "word": "grey",
       "translation": "สีเทา",
-      "example": "The sky turned grey."
+      "example": "The sky is grey today.",
+      "exampleTranslation": "วันนี้ท้องฟ้าเป็นสีเทา"
     },
     {
       "word": "group",
       "translation": "กลุ่ม",
-      "example": "A group of students waited outside."
+      "example": "A group of students waits outside.",
+      "exampleTranslation": "มีนักเรียนกลุ่มหนึ่งรออยู่ข้างนอก"
     },
     {
       "word": "grow",
       "translation": "เติบโต",
-      "example": "These plants grow very fast."
+      "example": "These plants grow very fast.",
+      "exampleTranslation": "ต้นไม้พวกนี้เติบโตเร็วมาก"
     },
     {
       "word": "guess",
       "translation": "เดา",
-      "example": "Guess how old he is."
+      "example": "Guess how old he is.",
+      "exampleTranslation": "ลองเดาดูว่าเขาอายุเท่าไหร่"
     },
     {
       "word": "guitar",
       "translation": "กีตาร์",
-      "example": "He plays the guitar badly."
+      "example": "He plays the guitar badly.",
+      "exampleTranslation": "เขาเล่นกีตาร์ได้ไม่เก่ง"
     },
     {
       "word": "gym",
       "translation": "โรงยิม",
-      "example": "She goes to the gym daily."
+      "example": "She goes to the gym daily.",
+      "exampleTranslation": "เธอไปโรงยิมทุกวัน"
     },
     {
       "word": "hair",
       "translation": "ผม",
-      "example": "Her hair is very long."
+      "example": "Her hair is very long.",
+      "exampleTranslation": "ผมของเธอยาวมาก"
     },
     {
       "word": "half",
       "translation": "ครึ่งหนึ่ง",
-      "example": "Half the class was absent."
+      "example": "Half the class is absent.",
+      "exampleTranslation": "นักเรียนครึ่งห้องขาดเรียน"
     },
     {
       "word": "hand",
       "translation": "มือ",
-      "example": "He raised his hand."
+      "example": "He raises his hand.",
+      "exampleTranslation": "เขายกมือขึ้น"
     },
     {
       "word": "happen",
       "translation": "เกิดขึ้น",
-      "example": "What happened last night?"
+      "example": "Accidents happen without warning.",
+      "exampleTranslation": "อุบัติเหตุเกิดขึ้นโดยไม่ทันตั้งตัว"
     },
     {
       "word": "happy",
       "translation": "มีความสุข",
-      "example": "She was happy to see him."
+      "example": "She is happy today.",
+      "exampleTranslation": "วันนี้เธอมีความสุข"
     },
     {
       "word": "hard",
       "translation": "ยาก",
-      "example": "This question is hard."
+      "example": "This question is hard.",
+      "exampleTranslation": "คำถามนี้ยาก"
     },
     {
       "word": "hat",
       "translation": "หมวก",
-      "example": "He lost his hat on the bus."
+      "example": "He always loses his hat.",
+      "exampleTranslation": "เขาทำหมวกหายอยู่เสมอ"
     },
     {
       "word": "hate",
       "translation": "เกลียด",
-      "example": "I hate waiting in queues."
+      "example": "I hate waiting for buses.",
+      "exampleTranslation": "ฉันเกลียดการรอรถบัส"
     },
     {
       "word": "have to",
       "translation": "ต้อง",
-      "example": "I have to leave now."
+      "example": "I have to leave now.",
+      "exampleTranslation": "ฉันต้องออกไปเดี๋ยวนี้"
     },
     {
       "word": "head",
       "translation": "ศีรษะ",
-      "example": "He hit his head on the door."
+      "example": "My head hurts today.",
+      "exampleTranslation": "วันนี้ฉันปวดหัว"
     },
     {
       "word": "health",
       "translation": "สุขภาพ",
-      "example": "His health improved slowly."
+      "example": "His health is very good.",
+      "exampleTranslation": "สุขภาพของเขาดีมาก"
     },
     {
       "word": "hear",
       "translation": "ได้ยิน",
-      "example": "I cannot hear you."
+      "example": "I cannot hear you.",
+      "exampleTranslation": "ฉันไม่ได้ยินคุณ"
     },
     {
       "word": "help",
       "translation": "ช่วยเหลือ",
-      "example": "Can you help me lift this?"
+      "example": "Please help me with this.",
+      "exampleTranslation": "ช่วยฉันเรื่องนี้หน่อย"
     },
     {
       "word": "high",
       "translation": "สูง",
-      "example": "The wall is too high."
+      "example": "The wall is too high.",
+      "exampleTranslation": "กำแพงสูงเกินไป"
     },
     {
       "word": "history",
       "translation": "ประวัติศาสตร์",
-      "example": "He studies history."
+      "example": "He studies history.",
+      "exampleTranslation": "เขาเรียนวิชาประวัติศาสตร์"
     },
     {
       "word": "hobby",
       "translation": "งานอดิเรก",
-      "example": "Painting is her hobby."
+      "example": "Painting is her hobby.",
+      "exampleTranslation": "การวาดภาพเป็นงานอดิเรกของเธอ"
     },
     {
       "word": "holiday",
       "translation": "วันหยุด",
-      "example": "We took a short holiday in June."
+      "example": "We take a short holiday in June.",
+      "exampleTranslation": "เราไปพักผ่อนสั้นๆในเดือนมิถุนายน"
     },
     {
       "word": "home",
       "translation": "บ้าน, ที่อยู่",
-      "example": "We go home at six."
+      "example": "We go home at six.",
+      "exampleTranslation": "เรากลับบ้านตอนหกโมงเย็น"
     },
     {
       "word": "homework",
       "translation": "การบ้าน",
-      "example": "He finished his homework early."
+      "example": "He finishes his homework early.",
+      "exampleTranslation": "เขาทำการบ้านเสร็จแต่เนิ่นๆ"
     },
     {
       "word": "hope",
       "translation": "หวัง",
-      "example": "I hope she arrives soon."
+      "example": "I hope she arrives soon.",
+      "exampleTranslation": "ฉันหวังว่าเธอจะมาถึงเร็วๆนี้"
     },
     {
       "word": "horse",
       "translation": "ม้า",
-      "example": "The horse ran across the field."
+      "example": "The horse runs across the field.",
+      "exampleTranslation": "ม้าวิ่งข้ามทุ่งนา"
     },
     {
       "word": "hospital",
       "translation": "โรงพยาบาล",
-      "example": "The hospital is behind the school."
+      "example": "The hospital is behind the school.",
+      "exampleTranslation": "โรงพยาบาลอยู่หลังโรงเรียน"
     },
     {
       "word": "hot",
       "translation": "ร้อน",
-      "example": "The tea is still hot."
+      "example": "The tea is still hot.",
+      "exampleTranslation": "ชายังร้อนอยู่"
     },
     {
       "word": "hotel",
       "translation": "โรงแรม",
-      "example": "The hotel was near the beach."
+      "example": "The hotel is near the beach.",
+      "exampleTranslation": "โรงแรมอยู่ใกล้ชายหาด"
     },
     {
       "word": "hour",
       "translation": "ชั่วโมง",
-      "example": "The trip takes about an hour."
+      "example": "The trip takes about an hour.",
+      "exampleTranslation": "การเดินทางใช้เวลาประมาณหนึ่งชั่วโมง"
     },
     {
       "word": "house",
       "translation": "บ้าน",
-      "example": "Their house has a red door."
+      "example": "Their house has a red door.",
+      "exampleTranslation": "บ้านของพวกเขามีประตูสีแดง"
     },
     {
       "word": "however",
       "translation": "อย่างไรก็ตาม",
-      "example": "It rained; however, we walked."
+      "example": "It rained. However, we went out.",
+      "exampleTranslation": "ฝนตก แต่เราก็ยังออกไปข้างนอก"
     },
     {
       "word": "hungry",
       "translation": "หิว",
-      "example": "The children were hungry."
+      "example": "The children are hungry now.",
+      "exampleTranslation": "ตอนนี้เด็กๆหิว"
     },
     {
       "word": "husband",
       "translation": "สามี",
-      "example": "Her husband is a nurse."
+      "example": "Her husband is a nurse.",
+      "exampleTranslation": "สามีของเธอเป็นพยาบาล"
     },
     {
       "word": "ice",
       "translation": "น้ำแข็ง",
-      "example": "There was ice on the road."
+      "example": "There is ice on the road.",
+      "exampleTranslation": "มีน้ำแข็งอยู่บนถนน"
     },
     {
       "word": "ice cream",
       "translation": "ไอศกรีม",
-      "example": "The children wanted ice cream."
+      "example": "The children want ice cream.",
+      "exampleTranslation": "เด็กๆอยากกินไอศกรีม"
     },
     {
       "word": "idea",
       "translation": "ความคิด",
-      "example": "That is a good idea."
+      "example": "That is a good idea.",
+      "exampleTranslation": "นั่นเป็นความคิดที่ดี"
     },
     {
       "word": "imagine",
       "translation": "จินตนาการ",
-      "example": "Imagine living there."
+      "example": "Imagine living there.",
+      "exampleTranslation": "ลองจินตนาการว่าอยู่ที่นั่น"
     },
     {
       "word": "important",
       "translation": "สำคัญ",
-      "example": "This part is important."
+      "example": "This part is important.",
+      "exampleTranslation": "ส่วนนี้สำคัญมาก"
     },
     {
       "word": "improve",
       "translation": "ปรับปรุง",
-      "example": "His writing has improved a lot."
+      "example": "His writing improves every week.",
+      "exampleTranslation": "การเขียนของเขาดีขึ้นทุกสัปดาห์"
     },
     {
       "word": "include",
       "translation": "รวมถึง",
-      "example": "The price includes breakfast."
+      "example": "The price includes breakfast.",
+      "exampleTranslation": "ราคานี้รวมอาหารเช้าด้วย"
     },
     {
       "word": "information",
       "translation": "ข้อมูลข่าวสาร",
-      "example": "The information was wrong."
+      "example": "This information is wrong.",
+      "exampleTranslation": "ข้อมูลนี้ผิด"
     },
     {
       "word": "interest",
       "translation": "ความสนใจ",
-      "example": "He has no interest in sport."
+      "example": "He has no interest in sport.",
+      "exampleTranslation": "เขาไม่มีความสนใจในกีฬาเลย"
     },
     {
       "word": "internet",
       "translation": "อินเทอร์เน็ต",
-      "example": "The internet is slow here."
+      "example": "The internet is slow here.",
+      "exampleTranslation": "อินเทอร์เน็ตที่นี่ช้า"
     },
     {
       "word": "interview",
       "translation": "การสัมภาษณ์",
-      "example": "The interview lasted an hour."
+      "example": "The interview lasts one hour.",
+      "exampleTranslation": "การสัมภาษณ์ใช้เวลาหนึ่งชั่วโมง"
     },
     {
       "word": "introduce",
       "translation": "แนะนำให้รู้จัก",
-      "example": "Let me introduce my sister."
+      "example": "Let me introduce my sister.",
+      "exampleTranslation": "ขอแนะนำให้รู้จักน้องสาวของฉัน"
     },
     {
       "word": "island",
       "translation": "เกาะ",
-      "example": "The island has one shop."
+      "example": "The island has one shop.",
+      "exampleTranslation": "เกาะนี้มีร้านค้าร้านเดียว"
     },
     {
       "word": "jacket",
       "translation": "เสื้อแจ็กเก็ต",
-      "example": "He left his jacket behind."
+      "example": "He wears a warm jacket.",
+      "exampleTranslation": "เขาใส่เสื้อแจ็กเก็ตตัวหนา"
     },
     {
       "word": "jeans",
       "translation": "กางเกงยีนส์",
-      "example": "These jeans are too tight."
+      "example": "These jeans are too tight.",
+      "exampleTranslation": "กางเกงยีนส์ตัวนี้คับเกินไป"
     },
     {
       "word": "job",
       "translation": "งาน, อาชีพ",
-      "example": "She started a new job."
+      "example": "She has a new job.",
+      "exampleTranslation": "เธอมีงานใหม่"
     },
     {
       "word": "join",
       "translation": "เข้าร่วม",
-      "example": "Join us for dinner."
+      "example": "Join us for dinner.",
+      "exampleTranslation": "มาร่วมกินมื้อเย็นกับเรา"
     },
     {
       "word": "journey",
       "translation": "การเดินทาง",
-      "example": "The journey home took all day."
+      "example": "The journey home takes all day.",
+      "exampleTranslation": "การเดินทางกลับบ้านใช้เวลาทั้งวัน"
     },
     {
       "word": "juice",
       "translation": "น้ำผลไม้",
-      "example": "He drank orange juice."
+      "example": "He drinks orange juice.",
+      "exampleTranslation": "เขาดื่มน้ำส้ม"
     },
     {
       "word": "keep",
       "translation": "เก็บไว้",
-      "example": "Keep the receipt."
+      "example": "Keep the receipt.",
+      "exampleTranslation": "เก็บใบเสร็จไว้"
     },
     {
       "word": "key",
       "translation": "กุญแจ",
-      "example": "I lost the key again."
+      "example": "I always lose my key.",
+      "exampleTranslation": "ฉันทำกุญแจหายอยู่เสมอ"
     },
     {
       "word": "kilometre",
       "translation": "กิโลเมตร",
-      "example": "The village is one kilometre away."
+      "example": "The village is one kilometre away.",
+      "exampleTranslation": "หมู่บ้านอยู่ห่างออกไปหนึ่งกิโลเมตร"
     },
     {
       "word": "kind",
       "translation": "ใจดี",
-      "example": "She was very kind to us."
+      "example": "She is very kind to us.",
+      "exampleTranslation": "เธอใจดีกับเรามาก"
     },
     {
       "word": "kitchen",
       "translation": "ห้องครัว",
-      "example": "She is cooking in the kitchen."
+      "example": "She is cooking in the kitchen.",
+      "exampleTranslation": "เธอกำลังทำอาหารอยู่ในครัว"
     },
     {
       "word": "know",
       "translation": "รู้",
-      "example": "I know the answer."
+      "example": "I know the answer.",
+      "exampleTranslation": "ฉันรู้คำตอบ"
     },
     {
       "word": "land",
       "translation": "ลงจอด",
-      "example": "The plane landed safely."
+      "example": "The plane lands safely.",
+      "exampleTranslation": "เครื่องบินลงจอดอย่างปลอดภัย"
     },
     {
       "word": "language",
       "translation": "ภาษา",
-      "example": "Thai is a difficult language to write."
+      "example": "Thai is a difficult language to write.",
+      "exampleTranslation": "ภาษาไทยเป็นภาษาที่เขียนยาก"
     },
     {
       "word": "large",
       "translation": "ใหญ่โต",
-      "example": "They bought a large table."
+      "example": "They buy a large table.",
+      "exampleTranslation": "พวกเขาซื้อโต๊ะตัวใหญ่"
     },
     {
       "word": "last",
       "translation": "สุดท้าย",
-      "example": "The film was three hours long, but the last part was the best."
+      "example": "This is the last piece of cake.",
+      "exampleTranslation": "นี่คือเค้กชิ้นสุดท้าย"
     },
     {
       "word": "late",
       "translation": "สาย",
-      "example": "The train was late again."
+      "example": "The train is late again.",
+      "exampleTranslation": "รถไฟมาสายอีกแล้ว"
     },
     {
       "word": "later",
       "translation": "ภายหลัง",
-      "example": "See you later."
+      "example": "See you later.",
+      "exampleTranslation": "ไว้เจอกันทีหลัง"
     },
     {
       "word": "laugh",
       "translation": "หัวเราะ",
-      "example": "Everybody laughed at once."
+      "example": "Everybody laughs at his jokes.",
+      "exampleTranslation": "ทุกคนหัวเราะกับมุกตลกของเขา"
     },
     {
       "word": "learn",
       "translation": "เรียนรู้",
-      "example": "She wants to learn Spanish."
+      "example": "She wants to learn Spanish.",
+      "exampleTranslation": "เธออยากเรียนรู้ภาษาสเปน"
     },
     {
       "word": "leave",
       "translation": "ออกเดินทาง",
-      "example": "We leave early tomorrow."
+      "example": "We leave early tomorrow.",
+      "exampleTranslation": "พรุ่งนี้เราออกเดินทางแต่เช้า"
     },
     {
       "word": "left",
       "translation": "ซ้าย",
-      "example": "Turn left at the bank."
+      "example": "Turn left at the bank.",
+      "exampleTranslation": "เลี้ยวซ้ายตรงธนาคาร"
     },
     {
       "word": "leg",
       "translation": "ขา",
-      "example": "He hurt his leg playing football."
+      "example": "His leg hurts after football.",
+      "exampleTranslation": "เขาปวดขาหลังเล่นฟุตบอล"
     },
     {
       "word": "lesson",
       "translation": "บทเรียน",
-      "example": "The lesson lasted an hour."
+      "example": "The lesson lasts one hour.",
+      "exampleTranslation": "บทเรียนใช้เวลาหนึ่งชั่วโมง"
     },
     {
       "word": "letter",
       "translation": "จดหมาย",
-      "example": "He wrote a letter to his brother."
+      "example": "He writes a letter every month.",
+      "exampleTranslation": "เขาเขียนจดหมายทุกเดือน"
     },
     {
       "word": "library",
       "translation": "ห้องสมุด",
-      "example": "The library closes at six."
+      "example": "The library closes at six.",
+      "exampleTranslation": "ห้องสมุดปิดตอนหกโมงเย็น"
     },
     {
       "word": "lie",
       "translation": "นอนลง",
-      "example": "I like to lie on the grass and read."
+      "example": "He likes to lie on the grass.",
+      "exampleTranslation": "เขาชอบนอนบนสนามหญ้า"
     },
     {
       "word": "life",
       "translation": "ชีวิต",
-      "example": "Life here is quiet."
+      "example": "Life here is quiet.",
+      "exampleTranslation": "ชีวิตที่นี่เงียบสงบ"
     },
     {
       "word": "light",
       "translation": "เบา",
-      "example": "The bag is surprisingly light."
+      "example": "The bag is very light.",
+      "exampleTranslation": "กระเป๋าใบนี้เบามาก"
     },
     {
       "word": "like",
       "translation": "ชอบ",
-      "example": "I like this song."
+      "example": "I like this song.",
+      "exampleTranslation": "ฉันชอบเพลงนี้"
     },
     {
       "word": "line",
       "translation": "เส้น",
-      "example": "Draw a straight line."
+      "example": "Draw a straight line.",
+      "exampleTranslation": "วาดเส้นตรงหนึ่งเส้น"
     },
     {
       "word": "lion",
       "translation": "สิงโต",
-      "example": "The lion slept all afternoon."
+      "example": "The lion sleeps all afternoon.",
+      "exampleTranslation": "สิงโตนอนหลับทั้งบ่าย"
     },
     {
       "word": "list",
       "translation": "รายการ",
-      "example": "Write a list before shopping."
+      "example": "Write a list before shopping.",
+      "exampleTranslation": "เขียนรายการก่อนไปซื้อของ"
     },
     {
       "word": "listen",
       "translation": "ฟัง",
-      "example": "Listen to this song."
+      "example": "Listen to this song.",
+      "exampleTranslation": "ฟังเพลงนี้สิ"
     },
     {
       "word": "live",
       "translation": "อาศัยอยู่",
-      "example": "My grandparents live near the sea."
+      "example": "My grandparents live near the sea.",
+      "exampleTranslation": "ปู่ย่าตายายของฉันอาศัยอยู่ใกล้ทะเล"
     },
     {
       "word": "local",
       "translation": "ท้องถิ่น",
-      "example": "The local shop sells bread."
+      "example": "The local shop sells bread.",
+      "exampleTranslation": "ร้านท้องถิ่นขายขนมปัง"
     },
     {
       "word": "long",
       "translation": "ยาว",
-      "example": "It was a long walk."
+      "example": "This road is very long.",
+      "exampleTranslation": "ถนนสายนี้ยาวมาก"
     },
     {
       "word": "look",
       "translation": "มอง",
-      "example": "Look at that bird."
+      "example": "Look at that bird.",
+      "exampleTranslation": "มองนกตัวนั้นสิ"
     },
     {
       "word": "lose",
       "translation": "ทำหาย",
-      "example": "Do not lose the ticket."
+      "example": "Do not lose the ticket.",
+      "exampleTranslation": "อย่าทำตั๋วหาย"
     },
     {
       "word": "lot",
       "translation": "จำนวนมาก",
-      "example": "There is a lot of work today."
+      "example": "There is a lot of work today.",
+      "exampleTranslation": "วันนี้มีงานจำนวนมาก"
     },
     {
       "word": "love",
       "translation": "รัก",
-      "example": "They love the mountains."
+      "example": "They love the mountains.",
+      "exampleTranslation": "พวกเขารักภูเขา"
     },
     {
       "word": "lunch",
       "translation": "อาหารกลางวัน",
-      "example": "We had lunch at noon."
+      "example": "We eat lunch at noon.",
+      "exampleTranslation": "เรากินอาหารกลางวันตอนเที่ยง"
     },
     {
       "word": "machine",
       "translation": "เครื่องจักร",
-      "example": "The machine stopped working."
+      "example": "The machine stops working.",
+      "exampleTranslation": "เครื่องจักรหยุดทำงาน"
     },
     {
       "word": "magazine",
       "translation": "นิตยสาร",
-      "example": "She reads one magazine a month."
+      "example": "She reads one magazine a month.",
+      "exampleTranslation": "เธออ่านนิตยสารเดือนละเล่ม"
     },
     {
       "word": "main",
       "translation": "หลัก",
-      "example": "The main road is closed."
+      "example": "The main road is closed.",
+      "exampleTranslation": "ถนนสายหลักถูกปิด"
     },
     {
       "word": "make",
       "translation": "ทำ, สร้าง",
-      "example": "She makes her own clothes."
+      "example": "She makes her own clothes.",
+      "exampleTranslation": "เธอทำเสื้อผ้าเอง"
     },
     {
       "word": "man",
       "translation": "ผู้ชาย",
-      "example": "That man works at the bank."
+      "example": "That man works at the bank.",
+      "exampleTranslation": "ผู้ชายคนนั้นทำงานที่ธนาคาร"
     },
     {
       "word": "map",
       "translation": "แผนที่",
-      "example": "She drew a map on a napkin."
+      "example": "She draws a map for me.",
+      "exampleTranslation": "เธอวาดแผนที่ให้ฉัน"
     },
     {
       "word": "market",
       "translation": "ตลาด",
-      "example": "The market opens at dawn."
+      "example": "The market opens at dawn.",
+      "exampleTranslation": "ตลาดเปิดตั้งแต่เช้ามืด"
     },
     {
       "word": "married",
       "translation": "ที่แต่งงานแล้ว",
-      "example": "They got married in May."
+      "example": "They are married now.",
+      "exampleTranslation": "ตอนนี้พวกเขาแต่งงานกันแล้ว"
     },
     {
       "word": "match",
       "translation": "การแข่งขันนัดหนึ่ง",
-      "example": "The match ended late."
+      "example": "The match ends late.",
+      "exampleTranslation": "การแข่งขันจบช้า"
     },
     {
       "word": "maybe",
       "translation": "บางที",
-      "example": "Maybe they forgot."
+      "example": "Maybe she agrees with you.",
+      "exampleTranslation": "บางทีเธออาจเห็นด้วยกับคุณ"
     },
     {
       "word": "meal",
       "translation": "มื้ออาหาร",
-      "example": "The meal took two hours."
+      "example": "The meal takes two hours.",
+      "exampleTranslation": "มื้ออาหารใช้เวลาสองชั่วโมง"
     },
     {
       "word": "mean",
       "translation": "หมายความว่า",
-      "example": "What does this word mean?"
+      "example": "What does this word mean?",
+      "exampleTranslation": "คำนี้แปลว่าอะไร"
     },
     {
       "word": "meat",
       "translation": "เนื้อสัตว์",
-      "example": "He does not eat meat."
+      "example": "He does not eat meat.",
+      "exampleTranslation": "เขาไม่กินเนื้อสัตว์"
     },
     {
       "word": "meet",
       "translation": "พบเจอ",
-      "example": "Let us meet at six."
+      "example": "Let us meet at six.",
+      "exampleTranslation": "มาพบกันตอนหกโมงเย็น"
     },
     {
       "word": "meeting",
       "translation": "การประชุม",
-      "example": "The meeting lasted two hours."
+      "example": "The meeting lasts two hours.",
+      "exampleTranslation": "การประชุมใช้เวลาสองชั่วโมง"
     },
     {
       "word": "member",
       "translation": "สมาชิก",
-      "example": "Every member pays a fee."
+      "example": "Every member pays a fee.",
+      "exampleTranslation": "สมาชิกทุกคนต้องจ่ายค่าธรรมเนียม"
     },
     {
       "word": "menu",
       "translation": "เมนู",
-      "example": "The menu is only in Thai."
+      "example": "The menu is only in Thai.",
+      "exampleTranslation": "เมนูมีแค่ภาษาไทย"
     },
     {
       "word": "message",
       "translation": "ข้อความ",
-      "example": "I left a message for you."
+      "example": "I leave a message for you.",
+      "exampleTranslation": "ฉันฝากข้อความไว้ให้คุณ"
     },
     {
       "word": "metre",
       "translation": "เมตร",
-      "example": "The wall is two metres high."
+      "example": "The wall is two metres high.",
+      "exampleTranslation": "กำแพงสูงสองเมตร"
     },
     {
       "word": "midnight",
       "translation": "เที่ยงคืน",
-      "example": "They arrived after midnight."
+      "example": "They arrive after midnight.",
+      "exampleTranslation": "พวกเขามาถึงหลังเที่ยงคืน"
     },
     {
       "word": "mile",
       "translation": "ไมล์",
-      "example": "We walked three miles."
+      "example": "We walk three miles.",
+      "exampleTranslation": "เราเดินสามไมล์"
     },
     {
       "word": "milk",
       "translation": "นม",
-      "example": "The milk is in the fridge."
+      "example": "The milk is in the fridge.",
+      "exampleTranslation": "นมอยู่ในตู้เย็น"
     },
     {
       "word": "miss",
       "translation": "คิดถึง",
-      "example": "I miss my old school."
+      "example": "I miss my old school.",
+      "exampleTranslation": "ฉันคิดถึงโรงเรียนเก่าของฉัน"
     },
     {
       "word": "mistake",
       "translation": "ความผิดพลาด",
-      "example": "It was an honest mistake."
+      "example": "This is an honest mistake.",
+      "exampleTranslation": "นี่เป็นความผิดพลาดโดยไม่ตั้งใจ"
     },
     {
       "word": "model",
       "translation": "รุ่น, แบบ",
-      "example": "This model is cheaper."
+      "example": "This model is cheaper.",
+      "exampleTranslation": "รุ่นนี้ราคาถูกกว่า"
     },
     {
       "word": "modern",
       "translation": "ทันสมัย",
-      "example": "The building is very modern."
+      "example": "The building is very modern.",
+      "exampleTranslation": "อาคารนี้ทันสมัยมาก"
     },
     {
       "word": "moment",
       "translation": "ชั่วขณะ",
-      "example": "Wait a moment, please."
+      "example": "Wait a moment, please.",
+      "exampleTranslation": "กรุณารอสักครู่"
     },
     {
       "word": "money",
       "translation": "เงิน",
-      "example": "He saved money all year."
+      "example": "He saves money every month.",
+      "exampleTranslation": "เขาเก็บเงินทุกเดือน"
     },
     {
       "word": "month",
       "translation": "เดือน",
-      "example": "The rent is due every month."
+      "example": "The rent is due every month.",
+      "exampleTranslation": "ต้องจ่ายค่าเช่าทุกเดือน"
     },
     {
       "word": "morning",
       "translation": "เช้า",
-      "example": "I run every morning."
+      "example": "I run every morning.",
+      "exampleTranslation": "ฉันวิ่งทุกเช้า"
     },
     {
       "word": "mother",
       "translation": "แม่",
-      "example": "My mother cooks on Sundays."
+      "example": "My mother cooks on Sundays.",
+      "exampleTranslation": "แม่ของฉันทำอาหารทุกวันอาทิตย์"
     },
     {
       "word": "mountain",
       "translation": "ภูเขา",
-      "example": "The mountain is covered in snow."
+      "example": "The mountain is covered in snow.",
+      "exampleTranslation": "ภูเขาปกคลุมไปด้วยหิมะ"
     },
     {
       "word": "mouse",
       "translation": "หนู",
-      "example": "A mouse ran under the door."
+      "example": "A mouse runs under the door.",
+      "exampleTranslation": "หนูวิ่งลอดใต้ประตู"
     },
     {
       "word": "mouth",
       "translation": "ปาก",
-      "example": "She covered her mouth."
+      "example": "She covers her mouth.",
+      "exampleTranslation": "เธอปิดปากของเธอ"
     },
     {
       "word": "move",
       "translation": "ย้าย",
-      "example": "They moved to a bigger flat."
+      "example": "They move to a bigger flat.",
+      "exampleTranslation": "พวกเขาย้ายไปอยู่แฟลตที่ใหญ่กว่า"
     },
     {
       "word": "movie",
       "translation": "ภาพยนตร์",
-      "example": "The movie starts at nine."
+      "example": "The movie starts at nine.",
+      "exampleTranslation": "หนังเรื่องนี้เริ่มตอนสามทุ่ม"
     },
     {
       "word": "mum",
       "translation": "แม่ (ภาษาพูด)",
-      "example": "My mum works nights."
+      "example": "My mum works nights.",
+      "exampleTranslation": "แม่ของฉันทำงานกะกลางคืน"
     },
     {
       "word": "museum",
       "translation": "พิพิธภัณฑ์",
-      "example": "The museum is free on Mondays."
+      "example": "The museum is free on Mondays.",
+      "exampleTranslation": "พิพิธภัณฑ์เข้าฟรีทุกวันจันทร์"
     },
     {
       "word": "music",
       "translation": "ดนตรี",
-      "example": "She listens to music while working."
+      "example": "She listens to music every day.",
+      "exampleTranslation": "เธอฟังเพลงทุกวัน"
     },
     {
       "word": "name",
       "translation": "ชื่อ",
-      "example": "Please write your name at the top."
+      "example": "Please write your name at the top.",
+      "exampleTranslation": "กรุณาเขียนชื่อของคุณไว้ด้านบน"
     },
     {
       "word": "natural",
       "translation": "ตามธรรมชาติ",
-      "example": "It is a natural reaction."
+      "example": "This is a natural feeling.",
+      "exampleTranslation": "นี่คือความรู้สึกตามธรรมชาติ"
     },
     {
       "word": "near",
       "translation": "ใกล้",
-      "example": "The station is quite near."
+      "example": "The station is quite near.",
+      "exampleTranslation": "สถานีอยู่ใกล้พอสมควร"
     },
     {
       "word": "negative",
       "translation": "เชิงลบ",
-      "example": "His answer was negative."
+      "example": "His answer is negative.",
+      "exampleTranslation": "คำตอบของเขาเป็นเชิงลบ"
     },
     {
       "word": "neighbour",
       "translation": "เพื่อนบ้าน",
-      "example": "Our neighbour has three cats."
+      "example": "Our neighbour has three cats.",
+      "exampleTranslation": "เพื่อนบ้านของเรามีแมวสามตัว"
     },
     {
       "word": "never",
       "translation": "ไม่เคย",
-      "example": "He never eats breakfast."
+      "example": "He never eats breakfast.",
+      "exampleTranslation": "เขาไม่เคยกินอาหารเช้าเลย"
     },
     {
       "word": "new",
       "translation": "ใหม่",
-      "example": "They bought a new table."
+      "example": "They buy a new table.",
+      "exampleTranslation": "พวกเขาซื้อโต๊ะตัวใหม่"
     },
     {
       "word": "news",
       "translation": "ข่าว",
-      "example": "The news came late that evening."
+      "example": "The news comes on at six.",
+      "exampleTranslation": "ข่าวออกอากาศตอนหกโมงเย็น"
     },
     {
       "word": "newspaper",
       "translation": "หนังสือพิมพ์",
-      "example": "He reads a newspaper daily."
+      "example": "He reads a newspaper daily.",
+      "exampleTranslation": "เขาอ่านหนังสือพิมพ์ทุกวัน"
     },
     {
       "word": "next to",
       "translation": "ถัดจาก",
-      "example": "The bank is next to the market."
+      "example": "The bank is next to the market.",
+      "exampleTranslation": "ธนาคารอยู่ถัดจากตลาด"
     },
     {
       "word": "nice",
       "translation": "ดี, น่าพอใจ",
-      "example": "That was a nice thing to say."
+      "example": "This is a nice gift.",
+      "exampleTranslation": "นี่เป็นของขวัญที่ดี"
     },
     {
       "word": "night",
       "translation": "กลางคืน",
-      "example": "The street is dark at night."
+      "example": "The street is dark at night.",
+      "exampleTranslation": "ถนนมืดตอนกลางคืน"
     },
     {
       "word": "noon",
       "translation": "เที่ยงวัน",
-      "example": "We stopped for lunch at noon."
+      "example": "We stop for lunch at noon.",
+      "exampleTranslation": "เราหยุดกินข้าวตอนเที่ยงวัน"
     },
     {
       "word": "no one",
       "translation": "ไม่มีใคร",
-      "example": "No one answered the door."
+      "example": "No one answers the door.",
+      "exampleTranslation": "ไม่มีใครมาเปิดประตู"
     },
     {
       "word": "north",
       "translation": "ทิศเหนือ",
-      "example": "The wind came from the north."
+      "example": "The wind comes from the north.",
+      "exampleTranslation": "ลมพัดมาจากทิศเหนือ"
     },
     {
       "word": "nose",
       "translation": "จมูก",
-      "example": "His nose was red from the cold."
+      "example": "His nose is cold today.",
+      "exampleTranslation": "วันนี้จมูกของเขาเย็น"
     },
     {
       "word": "note",
       "translation": "บันทึกข้อความ",
-      "example": "She left a note on the table."
+      "example": "She leaves a note on the table.",
+      "exampleTranslation": "เธอทิ้งบันทึกข้อความไว้บนโต๊ะ"
     },
     {
       "word": "now",
       "translation": "ตอนนี้",
-      "example": "We should go now."
+      "example": "I need help now.",
+      "exampleTranslation": "ตอนนี้ฉันต้องการความช่วยเหลือ"
     },
     {
       "word": "number",
       "translation": "หมายเลข",
-      "example": "What is your room number?"
+      "example": "What is your room number?",
+      "exampleTranslation": "ห้องของคุณหมายเลขอะไร"
     },
     {
       "word": "nurse",
       "translation": "พยาบาล",
-      "example": "A nurse checked his arm."
+      "example": "A nurse checks his arm.",
+      "exampleTranslation": "พยาบาลตรวจแขนของเขา"
     },
     {
       "word": "object",
       "translation": "วัตถุ, สิ่งของ",
-      "example": "A small object fell out."
+      "example": "A small object is on the floor.",
+      "exampleTranslation": "มีวัตถุชิ้นเล็กอยู่บนพื้น"
     },
     {
       "word": "o’clock",
       "translation": "นาฬิกา (บอกเวลา)",
-      "example": "The train leaves at six o’clock."
+      "example": "The train leaves at six o’clock.",
+      "exampleTranslation": "รถไฟออกตอนหกโมงตรง"
     },
     {
       "word": "office",
       "translation": "สำนักงาน",
-      "example": "The office is empty on Fridays."
+      "example": "The office is empty on Fridays.",
+      "exampleTranslation": "สำนักงานว่างเปล่าทุกวันศุกร์"
     },
     {
       "word": "often",
       "translation": "บ่อย",
-      "example": "We often eat outside."
+      "example": "We often eat outside.",
+      "exampleTranslation": "เรากินข้าวข้างนอกบ่อยๆ"
     },
     {
       "word": "old",
       "translation": "เก่า",
-      "example": "This building is very old."
+      "example": "This building is very old.",
+      "exampleTranslation": "อาคารหลังนี้เก่ามาก"
     },
     {
       "word": "onion",
       "translation": "หัวหอม",
-      "example": "Chop one onion finely."
+      "example": "Chop one onion finely.",
+      "exampleTranslation": "หั่นหัวหอมให้ละเอียด"
     },
     {
       "word": "online",
       "translation": "ออนไลน์",
-      "example": "I bought it online."
+      "example": "I buy clothes online.",
+      "exampleTranslation": "ฉันซื้อเสื้อผ้าออนไลน์"
     },
     {
       "word": "open",
       "translation": "เปิด",
-      "example": "The shop opens at eight."
+      "example": "The shop opens at eight.",
+      "exampleTranslation": "ร้านเปิดตอนแปดโมง"
     },
     {
       "word": "opinion",
       "translation": "ความคิดเห็น",
-      "example": "Everyone had a different opinion."
+      "example": "Everyone has a different opinion.",
+      "exampleTranslation": "ทุกคนมีความคิดเห็นต่างกัน"
     },
     {
       "word": "opposite",
       "translation": "ตรงข้าม",
-      "example": "The bank is opposite the park."
+      "example": "The bank is opposite the park.",
+      "exampleTranslation": "ธนาคารอยู่ตรงข้ามสวนสาธารณะ"
     },
     {
       "word": "orange",
       "translation": "ส้ม",
-      "example": "She ate an orange."
+      "example": "She eats an orange.",
+      "exampleTranslation": "เธอกินส้ม"
     },
     {
       "word": "order",
       "translation": "สั่งอาหาร",
-      "example": "He ordered soup and bread."
+      "example": "He orders soup and bread.",
+      "exampleTranslation": "เขาสั่งซุปกับขนมปัง"
     },
     {
       "word": "outside",
       "translation": "ข้างนอก",
-      "example": "Wait outside, please."
+      "example": "Wait outside, please.",
+      "exampleTranslation": "รอข้างนอกด้วย"
     },
     {
       "word": "page",
       "translation": "หน้ากระดาษ",
-      "example": "The answer is on page ten."
+      "example": "The answer is on page ten.",
+      "exampleTranslation": "คำตอบอยู่หน้าสิบ"
     },
     {
       "word": "paint",
       "translation": "ทาสี",
-      "example": "They painted the door blue."
+      "example": "They paint the door blue.",
+      "exampleTranslation": "พวกเขาทาสีประตูเป็นสีฟ้า"
     },
     {
       "word": "painting",
       "translation": "ภาพวาดระบายสี",
-      "example": "The painting hangs by the stairs."
+      "example": "The painting hangs by the stairs.",
+      "exampleTranslation": "ภาพวาดแขวนอยู่ข้างบันได"
     },
     {
       "word": "pair",
       "translation": "คู่",
-      "example": "He bought a pair of shoes."
+      "example": "He buys a pair of shoes.",
+      "exampleTranslation": "เขาซื้อรองเท้าหนึ่งคู่"
     },
     {
       "word": "paper",
       "translation": "กระดาษ",
-      "example": "Write it on paper first."
+      "example": "Write it on paper first.",
+      "exampleTranslation": "เขียนลงกระดาษก่อน"
     },
     {
       "word": "paragraph",
       "translation": "ย่อหน้า",
-      "example": "The last paragraph is unclear."
+      "example": "The last paragraph is unclear.",
+      "exampleTranslation": "ย่อหน้าสุดท้ายไม่ชัดเจน"
     },
     {
       "word": "parent",
       "translation": "ผู้ปกครอง, พ่อแม่",
-      "example": "Every parent was invited."
+      "example": "Every parent comes to the meeting.",
+      "exampleTranslation": "ผู้ปกครองทุกคนมาประชุม"
     },
     {
       "word": "park",
       "translation": "สวนสาธารณะ",
-      "example": "We walk in the park on Sundays."
+      "example": "We walk in the park on Sundays.",
+      "exampleTranslation": "เราเดินเล่นในสวนสาธารณะทุกวันอาทิตย์"
     },
     {
       "word": "part",
       "translation": "ส่วนหนึ่ง",
-      "example": "This part is difficult."
+      "example": "This part is difficult.",
+      "exampleTranslation": "ส่วนนี้ยาก"
     },
     {
       "word": "partner",
       "translation": "คู่ครอง, หุ้นส่วน",
-      "example": "Her partner runs the shop."
+      "example": "Her partner runs the shop.",
+      "exampleTranslation": "คู่ครองของเธอดูแลร้าน"
     },
     {
       "word": "party",
       "translation": "งานเลี้ยง",
-      "example": "The party ended after midnight."
+      "example": "The party ends after midnight.",
+      "exampleTranslation": "งานเลี้ยงจบหลังเที่ยงคืน"
     },
     {
       "word": "passport",
       "translation": "หนังสือเดินทาง",
-      "example": "Keep your passport in your bag."
+      "example": "Keep your passport in your bag.",
+      "exampleTranslation": "เก็บหนังสือเดินทางไว้ในกระเป๋าของคุณ"
     },
     {
       "word": "pasta",
       "translation": "พาสต้า",
-      "example": "She cooked pasta with tomatoes."
+      "example": "She cooks pasta with tomatoes.",
+      "exampleTranslation": "เธอทำพาสต้ากับมะเขือเทศ"
     },
     {
       "word": "pay",
       "translation": "จ่ายเงิน",
-      "example": "I will pay tomorrow."
+      "example": "I pay for lunch today.",
+      "exampleTranslation": "วันนี้ฉันจ่ายค่าข้าวเที่ยง"
     },
     {
       "word": "pen",
       "translation": "ปากกา",
-      "example": "The pen has run out."
+      "example": "This pen does not work.",
+      "exampleTranslation": "ปากกาด้ามนี้เขียนไม่ออก"
     },
     {
       "word": "pencil",
       "translation": "ดินสอ",
-      "example": "Use a pencil for the draft."
+      "example": "Use a pencil for the test.",
+      "exampleTranslation": "ใช้ดินสอทำข้อสอบ"
     },
     {
       "word": "people",
       "translation": "ผู้คน",
-      "example": "Many people waited outside."
+      "example": "Many people wait outside.",
+      "exampleTranslation": "มีผู้คนจำนวนมากรออยู่ข้างนอก"
     },
     {
       "word": "pepper",
       "translation": "พริกไทย",
-      "example": "Add salt and pepper."
+      "example": "Add salt and pepper.",
+      "exampleTranslation": "เติมเกลือกับพริกไทย"
     },
     {
       "word": "perfect",
       "translation": "สมบูรณ์แบบ",
-      "example": "The weather was perfect."
+      "example": "The weather is perfect today.",
+      "exampleTranslation": "วันนี้อากาศสมบูรณ์แบบ"
     },
     {
       "word": "period",
       "translation": "ช่วงเวลา",
-      "example": "It was a difficult period."
+      "example": "This is a difficult period.",
+      "exampleTranslation": "นี่เป็นช่วงเวลาที่ยาก"
     },
     {
       "word": "person",
       "translation": "บุคคล",
-      "example": "Only one person answered."
+      "example": "Only one person answers.",
+      "exampleTranslation": "มีคนเดียวที่ตอบ"
     },
     {
       "word": "phone",
       "translation": "โทรศัพท์",
-      "example": "My phone is nearly dead."
+      "example": "My phone battery is low.",
+      "exampleTranslation": "แบตโทรศัพท์ของฉันเหลือน้อย"
     },
     {
       "word": "photo",
       "translation": "รูปถ่าย",
-      "example": "He showed me a photo of his dog."
+      "example": "He has a photo of his dog.",
+      "exampleTranslation": "เขามีรูปถ่ายสุนัขของเขา"
     },
     {
       "word": "photograph",
       "translation": "ภาพถ่าย",
-      "example": "He took a photograph of the bridge."
+      "example": "He takes a photograph of the bridge.",
+      "exampleTranslation": "เขาถ่ายภาพสะพานแห่งนั้น"
     },
     {
       "word": "phrase",
       "translation": "วลี",
-      "example": "That phrase is hard to translate."
+      "example": "That phrase is hard to translate.",
+      "exampleTranslation": "วลีนั้นแปลยาก"
     },
     {
       "word": "piano",
       "translation": "เปียโน",
-      "example": "She plays the piano well."
+      "example": "She plays the piano well.",
+      "exampleTranslation": "เธอเล่นเปียโนเก่ง"
     },
     {
       "word": "picture",
       "translation": "รูปภาพ",
-      "example": "The picture is crooked."
+      "example": "The picture is crooked.",
+      "exampleTranslation": "รูปภาพนี้เอียง"
     },
     {
       "word": "piece",
       "translation": "ชิ้น",
-      "example": "Take one piece each."
+      "example": "Take one piece each.",
+      "exampleTranslation": "หยิบคนละหนึ่งชิ้น"
     },
     {
       "word": "pig",
       "translation": "หมู",
-      "example": "The pig slept in the shade."
+      "example": "The pig sleeps in the shade.",
+      "exampleTranslation": "หมูนอนอยู่ในที่ร่ม"
     },
     {
       "word": "pink",
       "translation": "สีชมพู",
-      "example": "She wore a pink scarf."
+      "example": "She wears a pink scarf.",
+      "exampleTranslation": "เธอใส่ผ้าพันคอสีชมพู"
     },
     {
       "word": "pizza",
       "translation": "พิซซ่า",
-      "example": "We shared a large pizza."
+      "example": "We share a large pizza.",
+      "exampleTranslation": "เราแบ่งกินพิซซ่าถาดใหญ่"
     },
     {
       "word": "place",
       "translation": "สถานที่",
-      "example": "This is a good place to stop."
+      "example": "This is a good place to stop.",
+      "exampleTranslation": "ที่นี่เป็นสถานที่ที่เหมาะจะแวะพัก"
     },
     {
       "word": "plan",
       "translation": "แผน",
-      "example": "Our plan changed at the last minute."
+      "example": "Our plan works very well.",
+      "exampleTranslation": "แผนของเราได้ผลดีมาก"
     },
     {
       "word": "plane",
       "translation": "เครื่องบิน",
-      "example": "The plane was two hours late."
+      "example": "The plane is two hours late.",
+      "exampleTranslation": "เครื่องบินล่าช้าสองชั่วโมง"
     },
     {
       "word": "plant",
       "translation": "ต้นไม้, พืช",
-      "example": "Water the plant twice a week."
+      "example": "Water the plant twice a week.",
+      "exampleTranslation": "รดน้ำต้นไม้สัปดาห์ละสองครั้ง"
     },
     {
       "word": "play",
       "translation": "เล่น",
-      "example": "The children play outside."
+      "example": "The children play outside.",
+      "exampleTranslation": "เด็กๆเล่นข้างนอก"
     },
     {
       "word": "player",
       "translation": "ผู้เล่น",
-      "example": "One player was injured."
+      "example": "One player scores every game.",
+      "exampleTranslation": "ผู้เล่นคนหนึ่งทำประตูได้ทุกนัด"
     },
     {
       "word": "point",
       "translation": "ประเด็น",
-      "example": "He made a good point."
+      "example": "He makes a good point.",
+      "exampleTranslation": "เขายกประเด็นที่ดีขึ้นมา"
     },
     {
       "word": "police",
       "translation": "ตำรวจ",
-      "example": "The police arrived quickly."
+      "example": "The police arrive quickly.",
+      "exampleTranslation": "ตำรวจมาถึงอย่างรวดเร็ว"
     },
     {
       "word": "policeman",
       "translation": "ตำรวจชาย",
-      "example": "A policeman stopped the car."
+      "example": "A policeman stops the car.",
+      "exampleTranslation": "ตำรวจชายเรียกให้รถหยุด"
     },
     {
       "word": "pool",
       "translation": "สระว่ายน้ำ",
-      "example": "The pool closes at eight."
+      "example": "The pool closes at eight.",
+      "exampleTranslation": "สระว่ายน้ำปิดตอนสองทุ่ม"
     },
     {
       "word": "poor",
       "translation": "จน",
-      "example": "The village was very poor."
+      "example": "The village is very poor.",
+      "exampleTranslation": "หมู่บ้านนี้ยากจนมาก"
     },
     {
       "word": "popular",
       "translation": "เป็นที่นิยม",
-      "example": "That song is very popular."
+      "example": "That song is very popular.",
+      "exampleTranslation": "เพลงนั้นเป็นที่นิยมมาก"
     },
     {
       "word": "positive",
       "translation": "เชิงบวก",
-      "example": "The result was positive."
+      "example": "The result is positive.",
+      "exampleTranslation": "ผลลัพธ์เป็นเชิงบวก"
     },
     {
       "word": "possible",
       "translation": "เป็นไปได้",
-      "example": "It is possible but unlikely."
+      "example": "It is possible but unlikely.",
+      "exampleTranslation": "เป็นไปได้แต่ไม่น่าจะเกิดขึ้น"
     },
     {
       "word": "post",
       "translation": "ส่งไปรษณีย์",
-      "example": "I will post the letter today."
+      "example": "I post the letter today.",
+      "exampleTranslation": "วันนี้ฉันส่งจดหมายทางไปรษณีย์"
     },
     {
       "word": "potato",
       "translation": "มันฝรั่ง",
-      "example": "Peel two potatoes."
+      "example": "Peel two potatoes.",
+      "exampleTranslation": "ปอกมันฝรั่งสองหัว"
     },
     {
       "word": "pound",
       "translation": "ปอนด์",
-      "example": "The bag weighs one pound."
+      "example": "The bag weighs one pound.",
+      "exampleTranslation": "กระเป๋าใบนี้หนักหนึ่งปอนด์"
     },
     {
       "word": "practice",
       "translation": "การฝึกฝน",
-      "example": "Practice makes it easier."
+      "example": "Practice makes it easier.",
+      "exampleTranslation": "การฝึกฝนทำให้ง่ายขึ้น"
     },
     {
       "word": "practise",
       "translation": "ฝึกฝน",
-      "example": "She practises the piano every evening."
+      "example": "She practises the piano every evening.",
+      "exampleTranslation": "เธอฝึกเปียโนทุกเย็น"
     },
     {
       "word": "prefer",
       "translation": "ชอบมากกว่า",
-      "example": "I prefer tea to coffee."
+      "example": "I prefer tea to coffee.",
+      "exampleTranslation": "ฉันชอบชามากกว่ากาแฟ"
     },
     {
       "word": "prepare",
       "translation": "เตรียม",
-      "example": "Prepare the room before noon."
+      "example": "Prepare the room before noon.",
+      "exampleTranslation": "เตรียมห้องให้เสร็จก่อนเที่ยง"
     },
     {
       "word": "present",
       "translation": "ของขวัญ",
-      "example": "She gave him a present."
+      "example": "She gives him a present.",
+      "exampleTranslation": "เธอให้ของขวัญเขา"
     },
     {
       "word": "pretty",
       "translation": "สวย, น่ารัก",
-      "example": "The garden is very pretty."
+      "example": "The garden is very pretty.",
+      "exampleTranslation": "สวนนี้สวยมาก"
     },
     {
       "word": "price",
       "translation": "ราคา",
-      "example": "The price went up again."
+      "example": "The price is very high.",
+      "exampleTranslation": "ราคานี้สูงมาก"
     },
     {
       "word": "probably",
       "translation": "คงจะ",
-      "example": "He will probably arrive late."
+      "example": "He probably works on Sundays.",
+      "exampleTranslation": "เขาคงจะทำงานวันอาทิตย์"
     },
     {
       "word": "problem",
       "translation": "ปัญหา",
-      "example": "We solved the problem together."
+      "example": "We solve the problem together.",
+      "exampleTranslation": "เราแก้ปัญหาด้วยกัน"
     },
     {
       "word": "product",
       "translation": "ผลิตภัณฑ์",
-      "example": "The product sells well."
+      "example": "The product sells well.",
+      "exampleTranslation": "สินค้านี้ขายดี"
     },
     {
       "word": "programme",
       "translation": "รายการ",
-      "example": "The programme lasts an hour."
+      "example": "The programme lasts an hour.",
+      "exampleTranslation": "รายการนี้ใช้เวลาหนึ่งชั่วโมง"
     },
     {
       "word": "project",
       "translation": "โครงการ",
-      "example": "The project runs until March."
+      "example": "The project runs until March.",
+      "exampleTranslation": "โครงการนี้ดำเนินไปจนถึงเดือนมีนาคม"
     },
     {
       "word": "purple",
       "translation": "สีม่วง",
-      "example": "She painted the door purple."
+      "example": "She paints the door purple.",
+      "exampleTranslation": "เธอทาสีประตูเป็นสีม่วง"
     },
     {
       "word": "put",
       "translation": "วาง",
-      "example": "Put the box on the shelf."
+      "example": "Put the box on the shelf.",
+      "exampleTranslation": "วางกล่องไว้บนชั้น"
     },
     {
       "word": "quarter",
       "translation": "หนึ่งในสี่",
-      "example": "A quarter of the class was absent."
+      "example": "A quarter of the class is absent.",
+      "exampleTranslation": "นักเรียนหนึ่งในสี่ของห้องขาดเรียน"
     },
     {
       "word": "question",
       "translation": "คำถาม",
-      "example": "Her question surprised everyone."
+      "example": "Her question surprises everyone.",
+      "exampleTranslation": "คำถามของเธอทำให้ทุกคนแปลกใจ"
     },
     {
       "word": "quick",
       "translation": "รวดเร็ว",
-      "example": "That was a quick answer."
+      "example": "That is a quick answer.",
+      "exampleTranslation": "นั่นเป็นคำตอบที่รวดเร็ว"
     },
     {
       "word": "quiet",
       "translation": "เงียบ",
-      "example": "The library is very quiet."
+      "example": "The library is very quiet.",
+      "exampleTranslation": "ห้องสมุดเงียบมาก"
     },
     {
       "word": "quite",
       "translation": "ค่อนข้างจะ",
-      "example": "The room is quite small."
+      "example": "The room is quite small.",
+      "exampleTranslation": "ห้องนี้ค่อนข้างเล็ก"
     },
     {
       "word": "rabbit",
       "translation": "กระต่าย",
-      "example": "A small rabbit ran across the field."
+      "example": "A small rabbit runs across the field.",
+      "exampleTranslation": "กระต่ายตัวเล็กวิ่งข้ามทุ่งนา"
     },
     {
       "word": "radio",
       "translation": "วิทยุ",
-      "example": "The radio was on all night."
+      "example": "The radio is on all night.",
+      "exampleTranslation": "วิทยุเปิดอยู่ตลอดทั้งคืน"
     },
     {
       "word": "rain",
       "translation": "ฝน",
-      "example": "The rain started at noon."
+      "example": "The rain starts at noon.",
+      "exampleTranslation": "ฝนเริ่มตกตอนเที่ยงวัน"
     },
     {
       "word": "read",
       "translation": "อ่าน",
-      "example": "I read before bed."
+      "example": "I read before bed.",
+      "exampleTranslation": "ฉันอ่านหนังสือก่อนนอน"
     },
     {
       "word": "reader",
       "translation": "ผู้อ่าน",
-      "example": "A reader wrote to complain."
+      "example": "A reader writes to complain.",
+      "exampleTranslation": "ผู้อ่านคนหนึ่งเขียนมาต่อว่า"
     },
     {
       "word": "ready",
       "translation": "พร้อม",
-      "example": "Dinner is ready."
+      "example": "Dinner is ready.",
+      "exampleTranslation": "อาหารเย็นพร้อมแล้ว"
     },
     {
       "word": "real",
       "translation": "ของจริง, แท้",
-      "example": "Is that a real diamond?"
+      "example": "Is that a real diamond?",
+      "exampleTranslation": "นั่นเป็นเพชรของจริงหรือเปล่า"
     },
     {
       "word": "really",
       "translation": "จริงๆ",
-      "example": "It was really cold outside."
+      "example": "It is really cold outside.",
+      "exampleTranslation": "ข้างนอกหนาวจริงๆ"
     },
     {
       "word": "reason",
       "translation": "เหตุผล",
-      "example": "There is no reason to worry."
+      "example": "There is no reason to worry.",
+      "exampleTranslation": "ไม่มีเหตุผลที่ต้องกังวล"
     },
     {
       "word": "red",
       "translation": "สีแดง",
-      "example": "She wore a red dress."
+      "example": "She wears a red dress.",
+      "exampleTranslation": "เธอใส่ชุดสีแดง"
     },
     {
       "word": "relax",
       "translation": "ผ่อนคลาย",
-      "example": "Sit down and relax."
+      "example": "He likes to relax at home.",
+      "exampleTranslation": "เขาชอบผ่อนคลายอยู่ที่บ้าน"
     },
     {
       "word": "remember",
       "translation": "จำได้",
-      "example": "I remember his face."
+      "example": "I remember his face.",
+      "exampleTranslation": "ฉันจำใบหน้าของเขาได้"
     },
     {
       "word": "repeat",
       "translation": "พูดซ้ำ",
-      "example": "Could you repeat the question?"
+      "example": "Please repeat the question.",
+      "exampleTranslation": "กรุณาพูดคำถามซ้ำอีกครั้ง"
     },
     {
       "word": "report",
       "translation": "รายงาน",
-      "example": "She wrote the report alone."
+      "example": "She writes the report alone.",
+      "exampleTranslation": "เธอเขียนรายงานคนเดียว"
     },
     {
       "word": "restaurant",
       "translation": "ร้านอาหาร",
-      "example": "The restaurant closes on Mondays."
+      "example": "The restaurant closes on Mondays.",
+      "exampleTranslation": "ร้านอาหารปิดทุกวันจันทร์"
     },
     {
       "word": "result",
       "translation": "ผลลัพธ์",
-      "example": "The result surprised everyone."
+      "example": "The result surprises everyone.",
+      "exampleTranslation": "ผลลัพธ์ทำให้ทุกคนแปลกใจ"
     },
     {
       "word": "return",
       "translation": "กลับมา",
-      "example": "They return on Sunday."
+      "example": "They return on Sunday.",
+      "exampleTranslation": "พวกเขากลับมาวันอาทิตย์"
     },
     {
       "word": "rice",
       "translation": "ข้าว",
-      "example": "We cook rice every day."
+      "example": "We cook rice every day.",
+      "exampleTranslation": "เราหุงข้าวกินทุกวัน"
     },
     {
       "word": "rich",
       "translation": "รวย",
-      "example": "Her family is not rich."
+      "example": "Her family is not rich.",
+      "exampleTranslation": "ครอบครัวของเธอไม่ได้ร่ำรวย"
     },
     {
       "word": "ride",
       "translation": "ขี่",
-      "example": "He rides to school daily."
+      "example": "He rides a horse on Sundays.",
+      "exampleTranslation": "เขาขี่ม้าทุกวันอาทิตย์"
     },
     {
       "word": "right",
       "translation": "สิทธิ",
-      "example": "Every worker has that right."
+      "example": "Every worker has that right.",
+      "exampleTranslation": "คนงานทุกคนมีสิทธินั้น"
     },
     {
       "word": "river",
       "translation": "แม่น้ำ",
-      "example": "They swam in the river."
+      "example": "They swim in the river.",
+      "exampleTranslation": "พวกเขาว่ายน้ำในแม่น้ำ"
     },
     {
       "word": "road",
       "translation": "ถนนสายหลัก",
-      "example": "The road was closed for repairs."
+      "example": "The road is closed for repairs.",
+      "exampleTranslation": "ถนนสายนี้ปิดเพื่อซ่อมแซม"
     },
     {
       "word": "room",
       "translation": "ห้อง",
-      "example": "This room is very bright."
+      "example": "This room is very bright.",
+      "exampleTranslation": "ห้องนี้สว่างมาก"
     },
     {
       "word": "routine",
       "translation": "กิจวัตร",
-      "example": "Her morning routine is fixed."
+      "example": "Her morning routine is fixed.",
+      "exampleTranslation": "กิจวัตรตอนเช้าของเธอตายตัว"
     },
     {
       "word": "rule",
       "translation": "กฎ",
-      "example": "Everyone must follow the same rule."
+      "example": "Everyone follows the same rule.",
+      "exampleTranslation": "ทุกคนทำตามกฎเดียวกัน"
     },
     {
       "word": "run",
       "translation": "วิ่ง",
-      "example": "She runs every morning."
+      "example": "She runs every morning.",
+      "exampleTranslation": "เธอวิ่งทุกเช้า"
     },
     {
       "word": "sad",
       "translation": "เศร้า",
-      "example": "The ending was sad."
+      "example": "The ending is sad.",
+      "exampleTranslation": "ตอนจบเรื่องนี้เศร้า"
     },
     {
       "word": "salad",
       "translation": "สลัด",
-      "example": "He ordered a green salad."
+      "example": "He orders a green salad.",
+      "exampleTranslation": "เขาสั่งสลัดผัก"
     },
     {
       "word": "salt",
       "translation": "เกลือ",
-      "example": "There is too much salt."
+      "example": "There is too much salt.",
+      "exampleTranslation": "มีเกลือเยอะเกินไป"
     },
     {
       "word": "sandwich",
       "translation": "แซนด์วิช",
-      "example": "She made a cheese sandwich."
+      "example": "She makes a cheese sandwich.",
+      "exampleTranslation": "เธอทำแซนด์วิชชีส"
     },
     {
       "word": "say",
       "translation": "บอก",
-      "example": "He did not say anything."
+      "example": "He does not say much.",
+      "exampleTranslation": "เขาไม่ค่อยพูดอะไรมาก"
     },
     {
       "word": "school",
       "translation": "โรงเรียน",
-      "example": "The school opens at eight."
+      "example": "The school opens at eight.",
+      "exampleTranslation": "โรงเรียนเปิดตอนแปดโมง"
     },
     {
       "word": "science",
       "translation": "วิทยาศาสตร์",
-      "example": "Science was her best subject."
+      "example": "Science is her best subject.",
+      "exampleTranslation": "วิทยาศาสตร์เป็นวิชาที่เธอเก่งที่สุด"
     },
     {
       "word": "scientist",
       "translation": "นักวิทยาศาสตร์",
-      "example": "A scientist explained the result."
+      "example": "A scientist explains the result.",
+      "exampleTranslation": "นักวิทยาศาสตร์อธิบายผลลัพธ์"
     },
     {
       "word": "sea",
       "translation": "ทะเล",
-      "example": "The sea is calm this morning."
+      "example": "The sea is calm this morning.",
+      "exampleTranslation": "เช้านี้ทะเลสงบ"
     },
     {
       "word": "section",
       "translation": "ส่วน, ตอน",
-      "example": "The last section is missing."
+      "example": "The last section is missing.",
+      "exampleTranslation": "ส่วนสุดท้ายหายไป"
     },
     {
       "word": "see",
       "translation": "เห็น",
-      "example": "I can see the sea from here."
+      "example": "I see the sea from here.",
+      "exampleTranslation": "ฉันเห็นทะเลจากตรงนี้"
     },
     {
       "word": "sell",
       "translation": "ขาย",
-      "example": "They sell bread and milk."
+      "example": "They sell bread and milk.",
+      "exampleTranslation": "พวกเขาขายขนมปังกับนม"
     },
     {
       "word": "send",
       "translation": "ส่ง",
-      "example": "Please send the file today."
+      "example": "Please send the file today.",
+      "exampleTranslation": "กรุณาส่งไฟล์ภายในวันนี้"
     },
     {
       "word": "sentence",
       "translation": "ประโยค",
-      "example": "Write one sentence only."
+      "example": "Write one sentence only.",
+      "exampleTranslation": "เขียนแค่หนึ่งประโยค"
     },
     {
       "word": "share",
       "translation": "แบ่งปัน",
-      "example": "They shared the last apple."
+      "example": "They share the last apple.",
+      "exampleTranslation": "พวกเขาแบ่งกันกินแอปเปิลลูกสุดท้าย"
     },
     {
       "word": "sheep",
       "translation": "แกะ",
-      "example": "The sheep stayed near the wall."
+      "example": "The sheep stays near the wall.",
+      "exampleTranslation": "แกะอยู่ใกล้กำแพง"
     },
     {
       "word": "shirt",
       "translation": "เสื้อเชิ้ต",
-      "example": "His shirt was torn."
+      "example": "His shirt is torn.",
+      "exampleTranslation": "เสื้อเชิ้ตของเขาขาด"
     },
     {
       "word": "shoe",
       "translation": "รองเท้า",
-      "example": "One shoe was under the bed."
+      "example": "One shoe is under the bed.",
+      "exampleTranslation": "รองเท้าข้างหนึ่งอยู่ใต้เตียง"
     },
     {
       "word": "shop",
       "translation": "ร้านค้า",
-      "example": "The shop closes at nine."
+      "example": "The shop closes at nine.",
+      "exampleTranslation": "ร้านค้าปิดตอนสามทุ่ม"
     },
     {
       "word": "short",
       "translation": "สั้น",
-      "example": "He gave a short answer."
+      "example": "He gives a short answer.",
+      "exampleTranslation": "เขาให้คำตอบสั้นๆ"
     },
     {
       "word": "show",
       "translation": "แสดงให้ดู",
-      "example": "Show me the photograph."
+      "example": "Show me the photograph.",
+      "exampleTranslation": "เอารูปถ่ายมาให้ฉันดูหน่อย"
     },
     {
       "word": "shower",
       "translation": "การอาบน้ำฝักบัว",
-      "example": "He had a cold shower."
+      "example": "He takes a cold shower.",
+      "exampleTranslation": "เขาอาบน้ำเย็น"
     },
     {
       "word": "sick",
       "translation": "คลื่นไส้, ป่วย",
-      "example": "She felt sick on the boat."
+      "example": "She feels sick on the boat.",
+      "exampleTranslation": "เธอรู้สึกคลื่นไส้ตอนอยู่บนเรือ"
     },
     {
       "word": "similar",
       "translation": "คล้ายกัน",
-      "example": "Our jobs are quite similar."
+      "example": "Our jobs are quite similar.",
+      "exampleTranslation": "งานของเราคล้ายกันมาก"
     },
     {
       "word": "sing",
       "translation": "ร้องเพลง",
-      "example": "They sang all the way home."
+      "example": "They sing on the way home.",
+      "exampleTranslation": "พวกเขาร้องเพลงระหว่างทางกลับบ้าน"
     },
     {
       "word": "singer",
       "translation": "นักร้อง",
-      "example": "The singer forgot the words."
+      "example": "The singer forgets the words.",
+      "exampleTranslation": "นักร้องลืมเนื้อเพลง"
     },
     {
       "word": "sister",
       "translation": "พี่สาว",
-      "example": "Her sister lives abroad."
+      "example": "Her sister lives abroad.",
+      "exampleTranslation": "พี่สาวของเธออาศัยอยู่ต่างประเทศ"
     },
     {
       "word": "sit",
       "translation": "นั่ง",
-      "example": "Please sit here."
+      "example": "Please sit here.",
+      "exampleTranslation": "กรุณานั่งตรงนี้"
     },
     {
       "word": "situation",
       "translation": "สถานการณ์",
-      "example": "The situation is improving."
+      "example": "The situation is improving.",
+      "exampleTranslation": "สถานการณ์กำลังดีขึ้น"
     },
     {
       "word": "skill",
       "translation": "ทักษะ",
-      "example": "Listening is an underrated skill."
+      "example": "Cooking is a useful skill.",
+      "exampleTranslation": "การทำอาหารเป็นทักษะที่มีประโยชน์"
     },
     {
       "word": "skirt",
       "translation": "กระโปรง",
-      "example": "Her skirt was too long."
+      "example": "Her skirt is too long.",
+      "exampleTranslation": "กระโปรงของเธอยาวเกินไป"
     },
     {
       "word": "sleep",
       "translation": "นอน",
-      "example": "The baby sleeps all afternoon."
+      "example": "The baby sleeps all afternoon.",
+      "exampleTranslation": "ทารกนอนหลับทั้งบ่าย"
     },
     {
       "word": "slow",
       "translation": "ช้า",
-      "example": "The traffic was slow this morning."
+      "example": "The traffic is slow today.",
+      "exampleTranslation": "วันนี้การจราจรช้า"
     },
     {
       "word": "small",
       "translation": "เล็ก",
-      "example": "She has a small bag."
+      "example": "She has a small bag.",
+      "exampleTranslation": "เธอมีกระเป๋าใบเล็ก"
     },
     {
       "word": "snake",
       "translation": "งู",
-      "example": "A snake crossed the path."
+      "example": "A snake crosses the path.",
+      "exampleTranslation": "งูเลื้อยข้ามทางเดิน"
     },
     {
       "word": "snow",
       "translation": "หิมะ",
-      "example": "The snow lasted three days."
+      "example": "The snow lasts three days.",
+      "exampleTranslation": "หิมะตกอยู่สามวัน"
     },
     {
       "word": "sofa",
       "translation": "โซฟา",
-      "example": "The cat sleeps on the sofa."
+      "example": "The cat sleeps on the sofa.",
+      "exampleTranslation": "แมวนอนอยู่บนโซฟา"
     },
     {
       "word": "somebody",
       "translation": "ใครบางคน",
-      "example": "Somebody left the light on."
+      "example": "Somebody leaves the light on.",
+      "exampleTranslation": "ใครบางคนเปิดไฟทิ้งไว้"
     },
     {
       "word": "someone",
       "translation": "ใครบางคน",
-      "example": "Someone left a note."
+      "example": "Someone leaves a note here.",
+      "exampleTranslation": "ใครบางคนทิ้งข้อความไว้ตรงนี้"
     },
     {
       "word": "something",
       "translation": "บางสิ่งบางอย่าง",
-      "example": "Something smells burnt."
+      "example": "Something smells burnt.",
+      "exampleTranslation": "มีอะไรบางอย่างส่งกลิ่นไหม้"
     },
     {
       "word": "sometimes",
       "translation": "บางครั้ง",
-      "example": "Sometimes she walks to work."
+      "example": "Sometimes she walks to work.",
+      "exampleTranslation": "บางครั้งเธอเดินไปทำงาน"
     },
     {
       "word": "son",
       "translation": "ลูกชาย",
-      "example": "Their son studies abroad."
+      "example": "Their son studies abroad.",
+      "exampleTranslation": "ลูกชายของพวกเขาเรียนอยู่ต่างประเทศ"
     },
     {
       "word": "song",
       "translation": "เพลง",
-      "example": "That song is very old."
+      "example": "That song is very old.",
+      "exampleTranslation": "เพลงนั้นเก่ามากแล้ว"
     },
     {
       "word": "soon",
       "translation": "เร็วๆ นี้",
-      "example": "She will arrive soon."
+      "example": "The train leaves soon.",
+      "exampleTranslation": "รถไฟจะออกในอีกไม่ช้า"
     },
     {
       "word": "sound",
       "translation": "เสียง",
-      "example": "The sound came from upstairs."
+      "example": "The sound comes from upstairs.",
+      "exampleTranslation": "เสียงนั้นมาจากชั้นบน"
     },
     {
       "word": "soup",
       "translation": "ซุป",
-      "example": "The soup was too salty."
+      "example": "The soup is too salty.",
+      "exampleTranslation": "ซุปนี้เค็มเกินไป"
     },
     {
       "word": "south",
       "translation": "ทิศใต้",
-      "example": "They drove south for hours."
+      "example": "They drive south for hours.",
+      "exampleTranslation": "พวกเขาขับรถไปทางทิศใต้หลายชั่วโมง"
     },
     {
       "word": "space",
       "translation": "พื้นที่ว่าง",
-      "example": "There is space for one more."
+      "example": "There is space for one more.",
+      "exampleTranslation": "มีพื้นที่ว่างสำหรับอีกหนึ่งคน"
     },
     {
       "word": "speak",
       "translation": "พูด",
-      "example": "She speaks three languages."
+      "example": "She speaks three languages.",
+      "exampleTranslation": "เธอพูดได้สามภาษา"
     },
     {
       "word": "special",
       "translation": "พิเศษ",
-      "example": "Today is a special day."
+      "example": "Today is a special day.",
+      "exampleTranslation": "วันนี้เป็นวันพิเศษ"
     },
     {
       "word": "spell",
       "translation": "สะกดคำ",
-      "example": "How do you spell your name?"
+      "example": "How do you spell your name?",
+      "exampleTranslation": "คุณสะกดชื่อของคุณอย่างไร"
     },
     {
       "word": "spend",
       "translation": "ใช้จ่าย",
-      "example": "They spend little on food."
+      "example": "They spend little on food.",
+      "exampleTranslation": "พวกเขาใช้จ่ายกับอาหารน้อย"
     },
     {
       "word": "sport",
       "translation": "กีฬา",
-      "example": "Football is his favourite sport."
+      "example": "Football is his favourite sport.",
+      "exampleTranslation": "ฟุตบอลเป็นกีฬาที่เขาชอบที่สุด"
     },
     {
       "word": "spring",
       "translation": "ฤดูใบไม้ผลิ",
-      "example": "The garden is best in spring."
+      "example": "The garden is best in spring.",
+      "exampleTranslation": "สวนสวยที่สุดตอนฤดูใบไม้ผลิ"
     },
     {
       "word": "stand",
       "translation": "ยืน",
-      "example": "Please stand near the door."
+      "example": "Please stand near the door.",
+      "exampleTranslation": "กรุณายืนใกล้ประตู"
     },
     {
       "word": "star",
       "translation": "ดวงดาว",
-      "example": "One star appeared above the hill."
+      "example": "One star shines above the hill.",
+      "exampleTranslation": "มีดาวดวงหนึ่งส่องแสงอยู่เหนือเนินเขา"
     },
     {
       "word": "start",
       "translation": "เริ่ม",
-      "example": "The class starts at ten."
+      "example": "The class starts at ten.",
+      "exampleTranslation": "ชั้นเรียนเริ่มตอนสิบโมง"
     },
     {
       "word": "statement",
       "translation": "คำแถลง",
-      "example": "His statement was short."
+      "example": "His statement is short.",
+      "exampleTranslation": "คำแถลงของเขาสั้น"
     },
     {
       "word": "station",
       "translation": "สถานี",
-      "example": "The station is behind the market."
+      "example": "The station is behind the market.",
+      "exampleTranslation": "สถานีอยู่หลังตลาด"
     },
     {
       "word": "stay",
       "translation": "พักอยู่",
-      "example": "We stayed two nights."
+      "example": "We stay two nights.",
+      "exampleTranslation": "เราพักอยู่สองคืน"
     },
     {
       "word": "stop",
       "translation": "หยุด",
-      "example": "The bus stops here."
+      "example": "The bus stops here.",
+      "exampleTranslation": "รถบัสจอดที่นี่"
     },
     {
       "word": "story",
       "translation": "เรื่องราว",
-      "example": "He told us a funny story."
+      "example": "He tells us a funny story.",
+      "exampleTranslation": "เขาเล่าเรื่องตลกให้เราฟัง"
     },
     {
       "word": "street",
       "translation": "ถนน",
-      "example": "Their street is very narrow."
+      "example": "Their street is very narrow.",
+      "exampleTranslation": "ถนนของพวกเขาแคบมาก"
     },
     {
       "word": "strong",
       "translation": "แรง",
-      "example": "The coffee here is very strong."
+      "example": "The coffee here is very strong.",
+      "exampleTranslation": "กาแฟที่นี่เข้มมาก"
     },
     {
       "word": "student",
       "translation": "นักเรียน",
-      "example": "Every student needs a pen."
+      "example": "Every student needs a pen.",
+      "exampleTranslation": "นักเรียนทุกคนต้องมีปากกา"
     },
     {
       "word": "study",
       "translation": "ศึกษาเล่าเรียน",
-      "example": "She studies at night."
+      "example": "She studies at night.",
+      "exampleTranslation": "เธอเรียนตอนกลางคืน"
     },
     {
       "word": "style",
       "translation": "สไตล์",
-      "example": "I like her writing style."
+      "example": "I like her writing style.",
+      "exampleTranslation": "ฉันชอบสไตล์การเขียนของเธอ"
     },
     {
       "word": "subject",
       "translation": "วิชา",
-      "example": "History is my best subject."
+      "example": "History is my best subject.",
+      "exampleTranslation": "ประวัติศาสตร์เป็นวิชาที่ฉันเก่งที่สุด"
     },
     {
       "word": "success",
       "translation": "ความสำเร็จที่ได้",
-      "example": "The evening was a success."
+      "example": "The party is a big success.",
+      "exampleTranslation": "งานเลี้ยงนี้ประสบความสำเร็จอย่างมาก"
     },
     {
       "word": "sugar",
       "translation": "น้ำตาล",
-      "example": "He takes no sugar."
+      "example": "He takes no sugar.",
+      "exampleTranslation": "เขาไม่ใส่น้ำตาลเลย"
     },
     {
       "word": "summer",
       "translation": "ฤดูร้อน",
-      "example": "The summer was very dry."
+      "example": "The summer is very hot.",
+      "exampleTranslation": "ฤดูร้อนนี้ร้อนมาก"
     },
     {
       "word": "sun",
       "translation": "ดวงอาทิตย์",
-      "example": "The sun is very strong today."
+      "example": "The sun is very strong today.",
+      "exampleTranslation": "วันนี้แดดแรงมาก"
     },
     {
       "word": "supermarket",
       "translation": "ซูเปอร์มาร์เก็ต",
-      "example": "The supermarket opens early."
+      "example": "The supermarket opens early.",
+      "exampleTranslation": "ซูเปอร์มาร์เก็ตเปิดแต่เช้า"
     },
     {
       "word": "sure",
       "translation": "แน่ใจ",
-      "example": "I am not sure about the time."
+      "example": "I am not sure about the time.",
+      "exampleTranslation": "ฉันไม่แน่ใจเรื่องเวลา"
     },
     {
       "word": "sweater",
       "translation": "เสื้อกันหนาว",
-      "example": "He wore a thick sweater."
+      "example": "He wears a thick sweater.",
+      "exampleTranslation": "เขาใส่เสื้อกันหนาวตัวหนา"
     },
     {
       "word": "swim",
       "translation": "ว่ายน้ำ",
-      "example": "They swim before breakfast."
+      "example": "They swim before breakfast.",
+      "exampleTranslation": "พวกเขาว่ายน้ำก่อนอาหารเช้า"
     },
     {
       "word": "table",
       "translation": "โต๊ะ",
-      "example": "The keys are on the table."
+      "example": "The keys are on the table.",
+      "exampleTranslation": "กุญแจอยู่บนโต๊ะ"
     },
     {
       "word": "take",
       "translation": "เอาไป",
-      "example": "Take an umbrella with you."
+      "example": "Take an umbrella with you.",
+      "exampleTranslation": "เอาร่มไปด้วย"
     },
     {
       "word": "talk",
       "translation": "พูดคุย",
-      "example": "We talked for an hour."
+      "example": "We talk for an hour.",
+      "exampleTranslation": "เราคุยกันหนึ่งชั่วโมง"
     },
     {
       "word": "tall",
       "translation": "สูงโปร่ง",
-      "example": "He is taller than his father."
+      "example": "He is taller than his father.",
+      "exampleTranslation": "เขาสูงกว่าพ่อของเขา"
     },
     {
       "word": "taxi",
       "translation": "แท็กซี่",
-      "example": "We took a taxi home."
+      "example": "We take a taxi home.",
+      "exampleTranslation": "เรานั่งแท็กซี่กลับบ้าน"
     },
     {
       "word": "tea",
       "translation": "ชา",
-      "example": "She drinks tea in the evening."
+      "example": "She drinks tea in the evening.",
+      "exampleTranslation": "เธอดื่มชาตอนเย็น"
     },
     {
       "word": "teach",
       "translation": "สอน",
-      "example": "He teaches history at a school."
+      "example": "He teaches history at a school.",
+      "exampleTranslation": "เขาสอนวิชาประวัติศาสตร์ที่โรงเรียน"
     },
     {
       "word": "teacher",
       "translation": "ครู",
-      "example": "The teacher asked a question."
+      "example": "The teacher asks a question.",
+      "exampleTranslation": "ครูถามคำถาม"
     },
     {
       "word": "team",
       "translation": "ทีม",
-      "example": "Our team won on Sunday."
+      "example": "Our team wins on Sunday.",
+      "exampleTranslation": "ทีมของเราชนะวันอาทิตย์"
     },
     {
       "word": "teenager",
       "translation": "วัยรุ่น",
-      "example": "The teenager missed the bus."
+      "example": "The teenager misses the bus.",
+      "exampleTranslation": "วัยรุ่นคนนั้นตกรถบัส"
     },
     {
       "word": "telephone",
       "translation": "โทรศัพท์บ้าน",
-      "example": "The telephone rang twice."
+      "example": "The telephone rings twice.",
+      "exampleTranslation": "โทรศัพท์ดังสองครั้ง"
     },
     {
       "word": "television",
       "translation": "โทรทัศน์",
-      "example": "The television is too loud."
+      "example": "The television is too loud.",
+      "exampleTranslation": "โทรทัศน์ดังเกินไป"
     },
     {
       "word": "tell",
       "translation": "บอกเล่า",
-      "example": "Tell me what happened."
+      "example": "Tell me what happened.",
+      "exampleTranslation": "บอกฉันหน่อยว่าเกิดอะไรขึ้น"
     },
     {
       "word": "tennis",
       "translation": "เทนนิส",
-      "example": "They play tennis on Fridays."
+      "example": "They play tennis on Fridays.",
+      "exampleTranslation": "พวกเขาเล่นเทนนิสทุกวันศุกร์"
     },
     {
       "word": "terrible",
       "translation": "แย่มาก",
-      "example": "The weather was terrible."
+      "example": "The weather is terrible today.",
+      "exampleTranslation": "วันนี้อากาศแย่มาก"
     },
     {
       "word": "test",
       "translation": "การทดสอบ",
-      "example": "The test was easier than expected."
+      "example": "The test is easy today.",
+      "exampleTranslation": "วันนี้ข้อสอบง่าย"
     },
     {
       "word": "text",
       "translation": "ข้อความสั้น",
-      "example": "Send me a text when you arrive."
+      "example": "Send me a text tonight.",
+      "exampleTranslation": "คืนนี้ส่งข้อความสั้นมาให้ฉัน"
     },
     {
       "word": "theatre",
       "translation": "โรงละคร",
-      "example": "The theatre is closed in August."
+      "example": "The theatre is closed in August.",
+      "exampleTranslation": "โรงละครปิดในเดือนสิงหาคม"
     },
     {
       "word": "thing",
       "translation": "สิ่งของ",
-      "example": "One thing still worries me."
+      "example": "One thing still worries me.",
+      "exampleTranslation": "ยังมีสิ่งหนึ่งที่ทำให้ฉันกังวลอยู่"
     },
     {
       "word": "think",
       "translation": "คิด",
-      "example": "I think she is right."
+      "example": "I think she is right.",
+      "exampleTranslation": "ฉันคิดว่าเธอพูดถูก"
     },
     {
       "word": "thirsty",
       "translation": "กระหายน้ำ",
-      "example": "The children were thirsty."
+      "example": "The children are thirsty now.",
+      "exampleTranslation": "ตอนนี้เด็กๆกระหายน้ำ"
     },
     {
       "word": "ticket",
       "translation": "ตั๋ว",
-      "example": "I bought a ticket for the early train."
+      "example": "I buy a ticket every week.",
+      "exampleTranslation": "ฉันซื้อตั๋วทุกสัปดาห์"
     },
     {
       "word": "time",
       "translation": "เวลา",
-      "example": "We had a good time."
+      "example": "I have no time today.",
+      "exampleTranslation": "วันนี้ฉันไม่มีเวลา"
     },
     {
       "word": "tired",
       "translation": "เหนื่อย",
-      "example": "I felt tired after the meeting."
+      "example": "I feel tired after work.",
+      "exampleTranslation": "ฉันรู้สึกเหนื่อยหลังเลิกงาน"
     },
     {
       "word": "title",
       "translation": "ชื่อเรื่อง",
-      "example": "The title is misleading."
+      "example": "The title is very short.",
+      "exampleTranslation": "ชื่อเรื่องสั้นมาก"
     },
     {
       "word": "today",
       "translation": "วันนี้",
-      "example": "Today is my last day."
+      "example": "Today is my last day.",
+      "exampleTranslation": "วันนี้เป็นวันสุดท้ายของฉัน"
     },
     {
       "word": "together",
       "translation": "ด้วยกัน",
-      "example": "They finished the work together."
+      "example": "They finish the work together.",
+      "exampleTranslation": "พวกเขาทำงานเสร็จด้วยกัน"
     },
     {
       "word": "toilet",
       "translation": "ห้องสุขา",
-      "example": "The toilet is at the back."
+      "example": "The toilet is at the back.",
+      "exampleTranslation": "ห้องสุขาอยู่ด้านหลัง"
     },
     {
       "word": "tomato",
       "translation": "มะเขือเทศ",
-      "example": "Slice one tomato thinly."
+      "example": "Slice one tomato thinly.",
+      "exampleTranslation": "หั่นมะเขือเทศหนึ่งลูกเป็นชิ้นบางๆ"
     },
     {
       "word": "tomorrow",
       "translation": "พรุ่งนี้",
-      "example": "We leave tomorrow morning."
+      "example": "We leave tomorrow morning.",
+      "exampleTranslation": "พรุ่งนี้เช้าเราออกเดินทาง"
     },
     {
       "word": "tonight",
       "translation": "คืนนี้",
-      "example": "There is a concert tonight."
+      "example": "There is a concert tonight.",
+      "exampleTranslation": "คืนนี้มีคอนเสิร์ต"
     },
     {
       "word": "tooth",
       "translation": "ฟัน",
-      "example": "He lost a tooth playing rugby."
+      "example": "He has one broken tooth.",
+      "exampleTranslation": "เขามีฟันหักหนึ่งซี่"
     },
     {
       "word": "topic",
       "translation": "หัวข้อ",
-      "example": "The topic changed quickly."
+      "example": "The topic changes quickly.",
+      "exampleTranslation": "หัวข้อเปลี่ยนเร็วมาก"
     },
     {
       "word": "tourist",
       "translation": "นักท่องเที่ยว",
-      "example": "A tourist asked for directions."
+      "example": "A tourist asks for directions.",
+      "exampleTranslation": "นักท่องเที่ยวถามทาง"
     },
     {
       "word": "town",
       "translation": "เมืองเล็ก",
-      "example": "The town has one bank."
+      "example": "The town has one bank.",
+      "exampleTranslation": "เมืองเล็กนี้มีธนาคารแห่งเดียว"
     },
     {
       "word": "traffic",
       "translation": "การจราจร",
-      "example": "The traffic was terrible."
+      "example": "The traffic is terrible today.",
+      "exampleTranslation": "วันนี้การจราจรแย่มาก"
     },
     {
       "word": "train",
       "translation": "รถไฟ",
-      "example": "The train leaves at six."
+      "example": "The train leaves at six.",
+      "exampleTranslation": "รถไฟออกตอนหกโมงเช้า"
     },
     {
       "word": "travel",
       "translation": "เดินทาง, ท่องเที่ยว",
-      "example": "They travel every summer."
+      "example": "They travel every summer.",
+      "exampleTranslation": "พวกเขาเดินทางท่องเที่ยวทุกฤดูร้อน"
     },
     {
       "word": "tree",
       "translation": "ต้นไม้",
-      "example": "A big tree stands by the gate."
+      "example": "A big tree stands by the gate.",
+      "exampleTranslation": "มีต้นไม้ใหญ่อยู่ข้างประตู"
     },
     {
       "word": "trip",
       "translation": "การเดินทาง, ทริป",
-      "example": "The trip took two days."
+      "example": "The trip takes two days.",
+      "exampleTranslation": "การเดินทางนี้ใช้เวลาสองวัน"
     },
     {
       "word": "trousers",
       "translation": "กางเกงขายาว",
-      "example": "His trousers were too long."
+      "example": "His trousers are too long.",
+      "exampleTranslation": "กางเกงขายาวของเขายาวเกินไป"
     },
     {
       "word": "true",
       "translation": "จริง",
-      "example": "That story is true."
+      "example": "That story is true.",
+      "exampleTranslation": "เรื่องนั้นเป็นเรื่องจริง"
     },
     {
       "word": "try",
       "translation": "พยายาม, ลอง",
-      "example": "Try the other door."
+      "example": "Try the other door.",
+      "exampleTranslation": "ลองเปิดประตูอีกบานดูสิ"
     },
     {
       "word": "T-shirt",
       "translation": "เสื้อยืด",
-      "example": "He wore a plain T-shirt."
+      "example": "He wears a plain T-shirt.",
+      "exampleTranslation": "เขาใส่เสื้อยืดสีพื้น"
     },
     {
       "word": "turn",
       "translation": "เลี้ยว",
-      "example": "Turn left at the church."
+      "example": "Turn left at the church.",
+      "exampleTranslation": "เลี้ยวซ้ายตรงโบสถ์"
     },
     {
       "word": "TV",
       "translation": "ทีวี",
-      "example": "The TV was on all evening."
+      "example": "The TV is on all evening.",
+      "exampleTranslation": "ทีวีเปิดอยู่ตลอดเย็น"
     },
     {
       "word": "type",
       "translation": "ชนิดประเภท",
-      "example": "What type of bread is it?"
+      "example": "What type of bread is it?",
+      "exampleTranslation": "ขนมปังชนิดนี้คืออะไร"
     },
     {
       "word": "umbrella",
       "translation": "ร่ม",
-      "example": "Take an umbrella, it may rain."
+      "example": "She carries a small umbrella.",
+      "exampleTranslation": "เธอพกร่มคันเล็ก"
     },
     {
       "word": "uncle",
       "translation": "ลุง, อา",
-      "example": "My uncle lives in Spain."
+      "example": "My uncle lives in Spain.",
+      "exampleTranslation": "ลุงของฉันอาศัยอยู่ที่สเปน"
     },
     {
       "word": "understand",
       "translation": "เข้าใจ",
-      "example": "I do not understand this word."
+      "example": "I do not understand this word.",
+      "exampleTranslation": "ฉันไม่เข้าใจคำนี้"
     },
     {
       "word": "university",
       "translation": "มหาวิทยาลัย",
-      "example": "She starts university in October."
+      "example": "She starts university in October.",
+      "exampleTranslation": "เธอเริ่มเรียนมหาวิทยาลัยเดือนตุลาคม"
     },
     {
       "word": "upstairs",
       "translation": "ชั้นบน",
-      "example": "The bathroom is upstairs."
+      "example": "The bathroom is upstairs.",
+      "exampleTranslation": "ห้องน้ำอยู่ชั้นบน"
     },
     {
       "word": "use",
       "translation": "ใช้",
-      "example": "Use a sharp knife."
+      "example": "Use a sharp knife.",
+      "exampleTranslation": "ใช้มีดคมๆ"
     },
     {
       "word": "useful",
       "translation": "มีประโยชน์",
-      "example": "That was a useful suggestion."
+      "example": "That is a useful suggestion.",
+      "exampleTranslation": "นั่นเป็นข้อเสนอแนะที่มีประโยชน์"
     },
     {
       "word": "vacation",
       "translation": "วันหยุดพักผ่อน",
-      "example": "They took a long vacation."
+      "example": "They take a long vacation.",
+      "exampleTranslation": "พวกเขาไปพักผ่อนยาว"
     },
     {
       "word": "vegetable",
       "translation": "ผัก",
-      "example": "Eat one green vegetable daily."
+      "example": "Eat one green vegetable daily.",
+      "exampleTranslation": "กินผักสีเขียวหนึ่งอย่างทุกวัน"
     },
     {
       "word": "video",
       "translation": "วิดีโอ",
-      "example": "The video would not load."
+      "example": "The video does not load.",
+      "exampleTranslation": "วิดีโอโหลดไม่ขึ้น"
     },
     {
       "word": "village",
       "translation": "หมู่บ้าน",
-      "example": "She grew up in a small village."
+      "example": "She lives in a small village.",
+      "exampleTranslation": "เธออาศัยอยู่ในหมู่บ้านเล็กๆ"
     },
     {
       "word": "visit",
       "translation": "เยี่ยมเยียน",
-      "example": "They visit every August."
+      "example": "They visit every August.",
+      "exampleTranslation": "พวกเขามาเยี่ยมทุกเดือนสิงหาคม"
     },
     {
       "word": "visitor",
       "translation": "ผู้มาเยือน",
-      "example": "One visitor stayed behind."
+      "example": "One visitor arrives early today.",
+      "exampleTranslation": "วันนี้ผู้มาเยือนคนหนึ่งมาถึงแต่เช้า"
     },
     {
       "word": "wait",
       "translation": "รอ",
-      "example": "We waited for an hour."
+      "example": "We wait for an hour.",
+      "exampleTranslation": "เรารอหนึ่งชั่วโมง"
     },
     {
       "word": "waiter",
       "translation": "บริกร",
-      "example": "The waiter forgot the drinks."
+      "example": "The waiter forgets the drinks.",
+      "exampleTranslation": "บริกรลืมเครื่องดื่ม"
     },
     {
       "word": "wake",
       "translation": "ปลุกตื่น",
-      "example": "Wake me at seven."
+      "example": "Wake me at seven.",
+      "exampleTranslation": "ปลุกฉันตอนเจ็ดโมง"
     },
     {
       "word": "walk",
       "translation": "เดิน",
-      "example": "They walk to work every day."
+      "example": "They walk to work every day.",
+      "exampleTranslation": "พวกเขาเดินไปทำงานทุกวัน"
     },
     {
       "word": "wall",
       "translation": "กำแพง, ผนัง",
-      "example": "The wall needs painting."
+      "example": "The wall needs painting.",
+      "exampleTranslation": "กำแพงนี้ต้องทาสีใหม่"
     },
     {
       "word": "want",
       "translation": "ต้องการ",
-      "example": "I want a quiet evening."
+      "example": "I want a quiet evening.",
+      "exampleTranslation": "ฉันอยากได้ช่วงเย็นเงียบๆ"
     },
     {
       "word": "warm",
       "translation": "อบอุ่น",
-      "example": "The room is warm enough."
+      "example": "The room is warm enough.",
+      "exampleTranslation": "ห้องนี้อบอุ่นพอแล้ว"
     },
     {
       "word": "wash",
       "translation": "ล้าง",
-      "example": "Wash your hands first."
+      "example": "Wash your hands first.",
+      "exampleTranslation": "ล้างมือก่อน"
     },
     {
       "word": "watch",
       "translation": "เฝ้าดู",
-      "example": "We watched the sun set."
+      "example": "We watch the sun every evening.",
+      "exampleTranslation": "เราดูพระอาทิตย์ตกทุกเย็น"
     },
     {
       "word": "water",
       "translation": "น้ำ",
-      "example": "I drink water after running."
+      "example": "I drink water after running.",
+      "exampleTranslation": "ฉันดื่มน้ำหลังวิ่ง"
     },
     {
       "word": "way",
       "translation": "ทาง, วิธี",
-      "example": "This is the quickest way."
+      "example": "This is the quickest way.",
+      "exampleTranslation": "นี่คือทางที่เร็วที่สุด"
     },
     {
       "word": "wear",
       "translation": "สวมใส่",
-      "example": "She wears glasses to read."
+      "example": "She wears glasses to read.",
+      "exampleTranslation": "เธอสวมแว่นตาเวลาอ่านหนังสือ"
     },
     {
       "word": "weather",
       "translation": "อากาศ",
-      "example": "The weather changed suddenly."
+      "example": "The weather changes suddenly.",
+      "exampleTranslation": "อากาศเปลี่ยนแปลงกะทันหัน"
     },
     {
       "word": "website",
       "translation": "เว็บไซต์",
-      "example": "The website is very slow."
+      "example": "The website is very slow.",
+      "exampleTranslation": "เว็บไซต์นี้ช้ามาก"
     },
     {
       "word": "week",
       "translation": "สัปดาห์",
-      "example": "She will be away next week."
+      "example": "The meeting is next week.",
+      "exampleTranslation": "สัปดาห์หน้ามีประชุม"
     },
     {
       "word": "weekend",
       "translation": "สุดสัปดาห์",
-      "example": "We stayed home all weekend."
+      "example": "We stay home every weekend.",
+      "exampleTranslation": "เราอยู่บ้านทุกสุดสัปดาห์"
     },
     {
       "word": "welcome",
       "translation": "ต้อนรับ",
-      "example": "They made us very welcome."
+      "example": "Visitors are always welcome here.",
+      "exampleTranslation": "ที่นี่ยินดีต้อนรับผู้มาเยือนเสมอ"
     },
     {
       "word": "west",
       "translation": "ทิศตะวันตก",
-      "example": "The sun sets in the west."
+      "example": "The sun sets in the west.",
+      "exampleTranslation": "พระอาทิตย์ตกทางทิศตะวันตก"
     },
     {
       "word": "white",
       "translation": "สีขาว",
-      "example": "The walls are white."
+      "example": "The walls are white.",
+      "exampleTranslation": "กำแพงเป็นสีขาว"
     },
     {
       "word": "wife",
       "translation": "ภรรยา",
-      "example": "His wife teaches music."
+      "example": "His wife teaches music.",
+      "exampleTranslation": "ภรรยาของเขาสอนดนตรี"
     },
     {
       "word": "win",
       "translation": "ชนะ",
-      "example": "They won by one goal."
+      "example": "They win by one goal.",
+      "exampleTranslation": "พวกเขาชนะด้วยหนึ่งประตู"
     },
     {
       "word": "wind",
       "translation": "ลม",
-      "example": "A cold wind came from the sea."
+      "example": "A cold wind comes from the sea.",
+      "exampleTranslation": "ลมเย็นพัดมาจากทะเล"
     },
     {
       "word": "window",
       "translation": "หน้าต่าง",
-      "example": "Open the window for some air."
+      "example": "Open the window for some air.",
+      "exampleTranslation": "เปิดหน้าต่างให้อากาศเข้าหน่อย"
     },
     {
       "word": "wine",
       "translation": "ไวน์",
-      "example": "The wine was too warm."
+      "example": "The wine is too warm.",
+      "exampleTranslation": "ไวน์นี้อุ่นเกินไป"
     },
     {
       "word": "winter",
       "translation": "ฤดูหนาว",
-      "example": "The winter was very long."
+      "example": "The winter is very cold.",
+      "exampleTranslation": "ฤดูหนาวนี้หนาวมาก"
     },
     {
       "word": "woman",
       "translation": "ผู้หญิง",
-      "example": "The woman next to me is a nurse."
+      "example": "That woman is a nurse.",
+      "exampleTranslation": "ผู้หญิงคนนั้นเป็นพยาบาล"
     },
     {
       "word": "wonderful",
       "translation": "วิเศษ",
-      "example": "It was a wonderful evening."
+      "example": "This is a wonderful evening.",
+      "exampleTranslation": "ค่ำคืนนี้วิเศษมาก"
     },
     {
       "word": "word",
       "translation": "คำ",
-      "example": "I did not understand that word."
+      "example": "I do not understand that word.",
+      "exampleTranslation": "ฉันไม่เข้าใจคำนั้น"
     },
     {
       "word": "work",
       "translation": "ทำงาน",
-      "example": "She works in a hospital."
+      "example": "She works in a hospital.",
+      "exampleTranslation": "เธอทำงานอยู่ที่โรงพยาบาล"
     },
     {
       "word": "worker",
       "translation": "คนงาน",
-      "example": "Every worker got a bonus."
+      "example": "Every worker gets a bonus.",
+      "exampleTranslation": "คนงานทุกคนได้รับโบนัส"
     },
     {
       "word": "world",
       "translation": "โลก",
-      "example": "The world has changed."
+      "example": "The world changes every day.",
+      "exampleTranslation": "โลกเปลี่ยนแปลงทุกวัน"
     },
     {
       "word": "write",
       "translation": "เขียน",
-      "example": "Please write your answer here."
+      "example": "Please write your answer here.",
+      "exampleTranslation": "กรุณาเขียนคำตอบของคุณตรงนี้"
     },
     {
       "word": "writer",
       "translation": "นักเขียน",
-      "example": "The writer lives nearby."
+      "example": "The writer lives nearby.",
+      "exampleTranslation": "นักเขียนคนนั้นอาศัยอยู่ใกล้ๆ"
     },
     {
       "word": "wrong",
       "translation": "ผิด",
-      "example": "You have the wrong number."
+      "example": "You have the wrong number.",
+      "exampleTranslation": "คุณโทรผิดเบอร์"
     },
     {
       "word": "year",
       "translation": "ปี",
-      "example": "They moved here last year."
+      "example": "They live here this year.",
+      "exampleTranslation": "ปีนี้พวกเขาอาศัยอยู่ที่นี่"
     },
     {
       "word": "yellow",
       "translation": "สีเหลือง",
-      "example": "The walls were pale yellow."
+      "example": "The walls are pale yellow.",
+      "exampleTranslation": "กำแพงเป็นสีเหลืองอ่อน"
     },
     {
       "word": "yesterday",
       "translation": "เมื่อวาน",
-      "example": "It rained all day yesterday."
+      "example": "It rained all day yesterday.",
+      "exampleTranslation": "เมื่อวานฝนตกทั้งวัน"
     },
     {
       "word": "young",
       "translation": "อายุน้อย",
-      "example": "She is too young to drive."
+      "example": "She is too young to drive.",
+      "exampleTranslation": "เธอยังเด็กเกินไปที่จะขับรถ"
     }
   ]
 }
