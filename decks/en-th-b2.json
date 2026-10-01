@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "B2",
-  "version": 27,
+  "version": 28,
   "items": [
     {
       "word": "abandon",
@@ -476,7 +476,7 @@
     },
     {
       "word": "athletic",
-      "translation": "แข็งแรงบึกบึน",
+      "translation": "แข็งแรง, บึกบึน",
       "example": "He has an athletic build.",
       "exampleTranslation": "เขามีรูปร่างแข็งแรงบึกบึน"
     },
@@ -758,7 +758,7 @@
     },
     {
       "word": "bunch",
-      "translation": "ช่อพวง",
+      "translation": "ช่อ, พวง",
       "example": "He brought a bunch of flowers.",
       "exampleTranslation": "เขาถือดอกไม้มาหนึ่งช่อ"
     },
@@ -1292,7 +1292,7 @@
     },
     {
       "word": "contest",
-      "translation": "การประกวดแข่งขัน",
+      "translation": "การประกวด, การแข่งขัน",
       "example": "She won the contest easily.",
       "exampleTranslation": "เธอชนะการประกวดได้อย่างง่ายดาย"
     },
@@ -1562,7 +1562,7 @@
     },
     {
       "word": "decent",
-      "translation": "พอสมควรดี",
+      "translation": "พอใช้ได้, ดีพอสมควร",
       "example": "It is a decent enough offer.",
       "exampleTranslation": "ข้อเสนอนี้ถือว่าใช้ได้"
     },
@@ -1742,7 +1742,7 @@
     },
     {
       "word": "desperate",
-      "translation": "สิ้นหวังจนต้องดิ้นรน",
+      "translation": "สิ้นหวัง, ดิ้นรน",
       "example": "They were desperate for help.",
       "exampleTranslation": "พวกเขาต้องการความช่วยเหลืออย่างมาก"
     },
@@ -1994,7 +1994,7 @@
     },
     {
       "word": "dump",
-      "translation": "ทิ้งกอง",
+      "translation": "ทิ้ง, กอง",
       "example": "Do not dump the boxes in the hall.",
       "exampleTranslation": "อย่าเอากล่องมากองทิ้งไว้ในโถง"
     },
@@ -2012,7 +2012,7 @@
     },
     {
       "word": "eager",
-      "translation": "กระตือรือร้นอยาก",
+      "translation": "กระตือรือร้น, อยาก",
       "example": "She was eager to start.",
       "exampleTranslation": "เธอกระตือรือร้นอยากเริ่ม"
     },
@@ -2102,7 +2102,7 @@
     },
     {
       "word": "emphasize",
-      "translation": "เน้นย้ำให้เห็น",
+      "translation": "เน้นย้ำ",
       "example": "He emphasized the deadline.",
       "exampleTranslation": "เขาย้ำเรื่องกำหนดส่ง"
     },
@@ -2186,7 +2186,7 @@
     },
     {
       "word": "erupt",
-      "translation": "ระเบิดปะทุ",
+      "translation": "ระเบิด, ปะทุ",
       "example": "The volcano last erupted in 1980.",
       "exampleTranslation": "ภูเขาไฟลูกนี้ปะทุครั้งล่าสุดเมื่อปี 1980"
     },
@@ -2330,7 +2330,7 @@
     },
     {
       "word": "expose",
-      "translation": "เปิดโปงให้เห็น",
+      "translation": "เปิดโปง, เปิดเผย",
       "example": "The report exposed the error.",
       "exampleTranslation": "รายงานเปิดโปงข้อผิดพลาด"
     },
@@ -2612,7 +2612,7 @@
     },
     {
       "word": "fraction",
-      "translation": "เศษส่วนเล็กน้อย",
+      "translation": "เศษส่วน, ส่วนเล็กน้อย",
       "example": "Only a fraction of the seats were filled.",
       "exampleTranslation": "มีคนนั่งแค่ส่วนน้อยของที่นั่ง"
     },
@@ -2648,7 +2648,7 @@
     },
     {
       "word": "frustrated",
-      "translation": "หงุดหงิดคับข้องใจ",
+      "translation": "หงุดหงิด, คับข้องใจ",
       "example": "He was frustrated by the delay.",
       "exampleTranslation": "เขาหงุดหงิดกับความล่าช้า"
     },
@@ -2756,7 +2756,7 @@
     },
     {
       "word": "genre",
-      "translation": "ประเภทแนว",
+      "translation": "ประเภท, แนว",
       "example": "The film mixes two genres.",
       "exampleTranslation": "ภาพยนตร์เรื่องนี้ผสมสองแนว"
     },
@@ -2798,7 +2798,7 @@
     },
     {
       "word": "grab",
-      "translation": "คว้าจับ",
+      "translation": "คว้า, จับ",
       "example": "He grabbed the rope.",
       "exampleTranslation": "เขาคว้าจับเชือก"
     },
@@ -3338,7 +3338,7 @@
     },
     {
       "word": "intense",
-      "translation": "ที่รุนแรงเข้มข้น",
+      "translation": "รุนแรง, เข้มข้น",
       "example": "The heat was intense.",
       "exampleTranslation": "ความร้อนรุนแรงมาก"
     },
@@ -3674,7 +3674,7 @@
     },
     {
       "word": "lower",
-      "translation": "ลดลงให้ต่ำลง",
+      "translation": "ลดลง, ทำให้ต่ำลง",
       "example": "They lowered the price twice.",
       "exampleTranslation": "พวกเขาลดราคาลงสองครั้ง"
     },
@@ -3698,7 +3698,7 @@
     },
     {
       "word": "magnificent",
-      "translation": "งดงามตระการตา",
+      "translation": "งดงาม, ตระการตา",
       "example": "The cathedral is magnificent.",
       "exampleTranslation": "อาสนวิหารงดงามตระการตา"
     },
@@ -3752,13 +3752,13 @@
     },
     {
       "word": "mass",
-      "translation": "มวลจำนวนมาก",
+      "translation": "มวล, จำนวนมาก",
       "example": "A mass of people waited outside.",
       "exampleTranslation": "คนจำนวนมากรออยู่ข้างนอก"
     },
     {
       "word": "master",
-      "translation": "เชี่ยวชาญจนชำนาญ",
+      "translation": "เชี่ยวชาญ, ชำนาญ",
       "example": "She mastered the technique.",
       "exampleTranslation": "เธอฝึกจนเชี่ยวชาญเทคนิคนั้น"
     },
@@ -3860,7 +3860,7 @@
     },
     {
       "word": "minor",
-      "translation": "เล็กน้อยไม่สำคัญ",
+      "translation": "เล็กน้อย, ไม่สำคัญ",
       "example": "It was a minor problem.",
       "exampleTranslation": "เป็นแค่ปัญหาเล็กน้อย"
     },
@@ -3962,7 +3962,7 @@
     },
     {
       "word": "motivate",
-      "translation": "จูงใจกระตุ้น",
+      "translation": "จูงใจ, กระตุ้น",
       "example": "Good teachers motivate their students.",
       "exampleTranslation": "ครูที่ดีจูงใจให้นักเรียนอยากเรียน"
     },
@@ -3980,7 +3980,7 @@
     },
     {
       "word": "mount",
-      "translation": "ติดตั้งยึด",
+      "translation": "ติดตั้ง, ยึด",
       "example": "They mounted the camera on a pole.",
       "exampleTranslation": "พวกเขาติดกล้องไว้บนเสา"
     },
@@ -3992,7 +3992,7 @@
     },
     {
       "word": "multiple",
-      "translation": "หลายอย่างหลายครั้ง",
+      "translation": "หลายอย่าง, หลายครั้ง",
       "example": "There were multiple errors.",
       "exampleTranslation": "มีข้อผิดพลาดหลายจุด"
     },
@@ -4028,7 +4028,7 @@
     },
     {
       "word": "neat",
-      "translation": "เรียบร้อยเป็นระเบียบ",
+      "translation": "เรียบร้อย, เป็นระเบียบ",
       "example": "Her writing is very neat.",
       "exampleTranslation": "ลายมือของเธอเรียบร้อยมาก"
     },
@@ -4208,7 +4208,7 @@
     },
     {
       "word": "offensive",
-      "translation": "ที่ก้าวร้าวหยาบคาย",
+      "translation": "ก้าวร้าว, หยาบคาย",
       "example": "The comment was offensive.",
       "exampleTranslation": "ความเห็นนั้นหยาบคาย"
     },
@@ -4262,7 +4262,7 @@
     },
     {
       "word": "optical",
-      "translation": "ทางแสงสายตา",
+      "translation": "ทางแสง, ทางสายตา",
       "example": "The shop sells optical equipment.",
       "exampleTranslation": "ร้านนี้ขายอุปกรณ์ทางแสงสายตา"
     },
@@ -4334,7 +4334,7 @@
     },
     {
       "word": "overall",
-      "translation": "โดยรวมทั้งหมด",
+      "translation": "โดยรวม, ทั้งหมด",
       "example": "The overall cost is lower.",
       "exampleTranslation": "ต้นทุนโดยรวมต่ำกว่า"
     },
@@ -4454,7 +4454,7 @@
     },
     {
       "word": "patch",
-      "translation": "หย่อมรอยปะ",
+      "translation": "หย่อม, รอยปะ",
       "example": "There is a wet patch on the ceiling.",
       "exampleTranslation": "มีรอยเปียกเป็นหย่อมบนเพดาน"
     },
@@ -4526,7 +4526,7 @@
     },
     {
       "word": "phase",
-      "translation": "ระยะช่วง",
+      "translation": "ระยะ, ช่วง",
       "example": "The first phase ends in June.",
       "exampleTranslation": "ระยะแรกจะจบในเดือนมิถุนายน"
     },
@@ -4550,7 +4550,7 @@
     },
     {
       "word": "pile",
-      "translation": "กองซ้อน",
+      "translation": "กอง",
       "example": "A pile of papers sat on the desk.",
       "exampleTranslation": "กองเอกสารซ้อนกันอยู่บนโต๊ะ"
     },
@@ -4586,7 +4586,7 @@
     },
     {
       "word": "portion",
-      "translation": "ส่วนแบ่งปริมาณ",
+      "translation": "ส่วนแบ่ง, ปริมาณ",
       "example": "He ate a large portion of rice.",
       "exampleTranslation": "เขากินข้าวจานใหญ่"
     },
@@ -4892,7 +4892,7 @@
     },
     {
       "word": "rank",
-      "translation": "ยศระดับ",
+      "translation": "ยศ, ระดับ",
       "example": "He rose quickly through the ranks.",
       "exampleTranslation": "เขาเลื่อนยศขึ้นอย่างรวดเร็ว"
     },
@@ -5012,7 +5012,7 @@
     },
     {
       "word": "regulate",
-      "translation": "ควบคุมกำกับ",
+      "translation": "ควบคุม, กำกับ",
       "example": "The law regulates working hours.",
       "exampleTranslation": "กฎหมายกำหนดชั่วโมงทำงาน"
     },
@@ -5426,7 +5426,7 @@
     },
     {
       "word": "settle",
-      "translation": "ยุติตกลง",
+      "translation": "ยุติ, ตกลง",
       "example": "They settled the matter quietly.",
       "exampleTranslation": "พวกเขายุติเรื่องนั้นอย่างเงียบๆ"
     },
@@ -5474,7 +5474,7 @@
     },
     {
       "word": "shelter",
-      "translation": "ที่พักพิงหลบภัย",
+      "translation": "ที่พักพิง, ที่หลบภัย",
       "example": "They found shelter under a tree.",
       "exampleTranslation": "พวกเขาหาที่หลบภัยใต้ต้นไม้"
     },
@@ -5624,7 +5624,7 @@
     },
     {
       "word": "somewhat",
-      "translation": "ค่อนข้างเล็กน้อย",
+      "translation": "ค่อนข้าง",
       "example": "The room is somewhat smaller.",
       "exampleTranslation": "ห้องนี้ค่อนข้างเล็กกว่า"
     },
@@ -5738,7 +5738,7 @@
     },
     {
       "word": "sponsor",
-      "translation": "สนับสนุนเป็นผู้อุปถัมภ์",
+      "translation": "สนับสนุน, เป็นผู้อุปถัมภ์",
       "example": "A local firm sponsored the team.",
       "exampleTranslation": "บริษัทในท้องถิ่นเป็นผู้อุปถัมภ์ทีม"
     },
@@ -6362,7 +6362,7 @@
     },
     {
       "word": "undergo",
-      "translation": "เข้ารับผ่าน",
+      "translation": "เข้ารับ, ผ่าน",
       "example": "She will undergo surgery in May.",
       "exampleTranslation": "เดือนพฤษภาคมเธอจะเข้ารับการผ่าตัด"
     },
@@ -6434,7 +6434,7 @@
     },
     {
       "word": "urge",
-      "translation": "กระตุ้นเร่งเร้าให้",
+      "translation": "กระตุ้น, เร่งเร้า",
       "example": "I urge you to reconsider.",
       "exampleTranslation": "ฉันขอให้คุณคิดใหม่อีกครั้ง"
     },
@@ -6458,7 +6458,7 @@
     },
     {
       "word": "valid",
-      "translation": "ใช้ได้ถูกต้อง",
+      "translation": "ใช้ได้, ถูกต้อง",
       "example": "Your ticket is valid for a month.",
       "exampleTranslation": "ตั๋วของคุณใช้ได้หนึ่งเดือน"
     },
@@ -6536,7 +6536,7 @@
     },
     {
       "word": "visual",
-      "translation": "ทางภาพที่มองเห็น",
+      "translation": "ทางภาพ",
       "example": "The visual effect is striking.",
       "exampleTranslation": "ภาพที่เห็นสะดุดตามาก"
     },

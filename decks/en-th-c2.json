@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "C2",
-  "version": 27,
+  "version": 28,
   "items": [
     {
       "word": "abate",
@@ -20,7 +20,7 @@
     },
     {
       "word": "aberration",
-      "translation": "ความผิดปกติที่เบี่ยงเบนไป",
+      "translation": "ความผิดปกติ, การเบี่ยงเบน",
       "example": "The result was an aberration.",
       "exampleTranslation": "ผลที่ได้เป็นความผิดปกติ"
     },
@@ -44,7 +44,7 @@
     },
     {
       "word": "abiding",
-      "translation": "ที่ยั่งยืนตลอดไป",
+      "translation": "ยั่งยืน, ตลอดไป",
       "example": "He had an abiding love of maps.",
       "exampleTranslation": "เขารักแผนที่มาตลอดชีวิต"
     },
@@ -80,7 +80,7 @@
     },
     {
       "word": "absolve",
-      "translation": "ปลดเปลื้องพ้นผิด",
+      "translation": "ปลดเปลื้อง, ทำให้พ้นผิด",
       "example": "The report absolved her of blame.",
       "exampleTranslation": "รายงานปลดเปลื้องเธอให้พ้นผิด"
     },
@@ -206,7 +206,7 @@
     },
     {
       "word": "acumen",
-      "translation": "ไหวพริบเฉียบคม",
+      "translation": "ไหวพริบ, ความเฉียบคม",
       "example": "Her business acumen is well known.",
       "exampleTranslation": "เธอขึ้นชื่อเรื่องไหวพริบทางธุรกิจ"
     },
@@ -218,7 +218,7 @@
     },
     {
       "word": "adamant",
-      "translation": "ที่ยืนกรานหนักแน่น",
+      "translation": "ยืนกราน, หนักแน่น",
       "example": "She was adamant about the date.",
       "exampleTranslation": "เธอยืนกรานเรื่องวันที่"
     },
@@ -566,7 +566,7 @@
     },
     {
       "word": "arcane",
-      "translation": "ที่ลึกลับรู้กันเฉพาะกลุ่ม",
+      "translation": "ลึกลับ, รู้กันเฉพาะกลุ่ม",
       "example": "The rules are arcane and unwritten.",
       "exampleTranslation": "กฎเหล่านี้ลึกลับและไม่มีการเขียนไว้"
     },
@@ -584,7 +584,7 @@
     },
     {
       "word": "ardour",
-      "translation": "ความกระตือรือร้นแรงกล้า",
+      "translation": "ความกระตือรือร้น, ความแรงกล้า",
       "example": "His ardour for the cause never cooled.",
       "exampleTranslation": "ความกระตือรือร้นของเขาต่อเรื่องนี้ไม่เคยลดลง"
     },
@@ -788,7 +788,7 @@
     },
     {
       "word": "behemoth",
-      "translation": "สิ่งที่ใหญ่โตมโหฬาร",
+      "translation": "สิ่งที่ใหญ่โต, สิ่งมหึมา",
       "example": "The new store is a behemoth.",
       "exampleTranslation": "ร้านใหม่นี้ใหญ่โตมโหฬาร"
     },
@@ -980,7 +980,7 @@
     },
     {
       "word": "brandish",
-      "translation": "ถือชูโบก",
+      "translation": "ถือชู, โบก",
       "example": "He brandished the letter at us.",
       "exampleTranslation": "เขาชูจดหมายโบกใส่พวกเรา"
     },
@@ -1010,7 +1010,7 @@
     },
     {
       "word": "brusque",
-      "translation": "ที่ห้วนกระโชก",
+      "translation": "ห้วน, กระโชก",
       "example": "Her reply was brusque.",
       "exampleTranslation": "คำตอบของเธอห้วนๆ"
     },
@@ -1238,7 +1238,7 @@
     },
     {
       "word": "circumspect",
-      "translation": "ที่รอบคอบระมัดระวัง",
+      "translation": "รอบคอบ, ระมัดระวัง",
       "example": "She was circumspect in her reply.",
       "exampleTranslation": "เธอตอบอย่างรอบคอบระมัดระวัง"
     },
@@ -1256,7 +1256,7 @@
     },
     {
       "word": "clandestine",
-      "translation": "ที่เป็นความลับลับๆ",
+      "translation": "เป็นความลับ, ลับๆ",
       "example": "They held a clandestine meeting.",
       "exampleTranslation": "พวกเขาจัดการประชุมลับๆ"
     },
@@ -3386,7 +3386,7 @@
     },
     {
       "word": "fraught",
-      "translation": "ที่เต็มไปด้วยตึงเครียด",
+      "translation": "เต็มไปด้วย, ตึงเครียด",
       "example": "The week was fraught with delays.",
       "exampleTranslation": "สัปดาห์นั้นเต็มไปด้วยความล่าช้า"
     },
@@ -3560,7 +3560,7 @@
     },
     {
       "word": "gingerly",
-      "translation": "อย่างระมัดระวังค่อยๆ",
+      "translation": "อย่างระมัดระวัง, ค่อยๆ",
       "example": "He lifted the lid gingerly.",
       "exampleTranslation": "เขาค่อยๆ ยกฝาขึ้นอย่างระมัดระวัง"
     },
@@ -4580,7 +4580,7 @@
     },
     {
       "word": "insouciant",
-      "translation": "ที่ไม่ยี่หระใส่ใจ",
+      "translation": "ไม่ยี่หระ, ไม่ใส่ใจ",
       "example": "He gave an insouciant shrug.",
       "exampleTranslation": "เขายักไหล่อย่างไม่ยี่หระ"
     },
@@ -6086,7 +6086,7 @@
     },
     {
       "word": "ornate",
-      "translation": "ที่วิจิตรประดับประดามาก",
+      "translation": "วิจิตร, ประดับประดามาก",
       "example": "The ceiling is ornate.",
       "exampleTranslation": "เพดานวิจิตรประดับประดามาก"
     },
@@ -6116,7 +6116,7 @@
     },
     {
       "word": "ostentatious",
-      "translation": "ที่โอ้อวดหรูหราเกินงาม",
+      "translation": "โอ้อวด, หรูหราเกินงาม",
       "example": "The car is ostentatious.",
       "exampleTranslation": "รถคันนี้หรูหราเกินงาม"
     },
@@ -6494,7 +6494,7 @@
     },
     {
       "word": "peremptory",
-      "translation": "ที่เด็ดขาดไม่ให้โต้แย้ง",
+      "translation": "เด็ดขาด, ไม่ให้โต้แย้ง",
       "example": "His peremptory tone ended the talk.",
       "exampleTranslation": "น้ำเสียงเด็ดขาดของเขาทำให้การพูดคุยจบลง"
     },
@@ -6566,7 +6566,7 @@
     },
     {
       "word": "pernicious",
-      "translation": "ที่ร้ายกาจเป็นภัยเงียบ",
+      "translation": "ร้ายกาจ, เป็นภัยเงียบ",
       "example": "The rumour was pernicious.",
       "exampleTranslation": "ข่าวลือนั้นเป็นภัยร้ายแรง"
     },
@@ -6650,7 +6650,7 @@
     },
     {
       "word": "philanthropist",
-      "translation": "ผู้ใจบุญบริจาคเพื่อสังคม",
+      "translation": "ผู้ใจบุญ, ผู้บริจาคเพื่อสังคม",
       "example": "A philanthropist paid for the wing.",
       "exampleTranslation": "ผู้ใจบุญคนหนึ่งบริจาคเงินสร้างอาคารปีกใหม่"
     },
@@ -6686,7 +6686,7 @@
     },
     {
       "word": "pinnacle",
-      "translation": "จุดสูงสุดยอด",
+      "translation": "จุดสูงสุด, ยอด",
       "example": "She reached the pinnacle of the profession.",
       "exampleTranslation": "เธอขึ้นถึงจุดสูงสุดของอาชีพ"
     },
@@ -6728,7 +6728,7 @@
     },
     {
       "word": "placate",
-      "translation": "ทำให้สงบใจอ่อน",
+      "translation": "ทำให้สงบ, ทำให้ใจอ่อน",
       "example": "Nothing would placate the neighbours.",
       "exampleTranslation": "ไม่มีอะไรทำให้เพื่อนบ้านใจอ่อนลงได้"
     },
@@ -6758,7 +6758,7 @@
     },
     {
       "word": "plasticity",
-      "translation": "ความยืดหยุ่นดัดแปลงได้",
+      "translation": "ความยืดหยุ่น, ดัดแปลงได้",
       "example": "The material has surprising plasticity.",
       "exampleTranslation": "วัสดุนี้ดัดแปลงรูปร่างได้ดีอย่างน่าประหลาดใจ"
     },
@@ -6920,7 +6920,7 @@
     },
     {
       "word": "pragmatist",
-      "translation": "ผู้ที่เน้นความเป็นจริงปฏิบัติได้",
+      "translation": "ผู้ที่เน้นความเป็นจริง",
       "example": "He is a pragmatist, not a dreamer.",
       "exampleTranslation": "เขาเป็นคนเน้นความเป็นจริง ไม่ใช่นักฝัน"
     },
@@ -7442,7 +7442,7 @@
     },
     {
       "word": "quaint",
-      "translation": "ที่แปลกน่ารักแบบเก่า",
+      "translation": "แปลกตา, น่ารักแบบเก่า",
       "example": "The village is quaint.",
       "exampleTranslation": "หมู่บ้านนี้น่ารักแบบโบราณ"
     },
@@ -7694,13 +7694,13 @@
     },
     {
       "word": "recalcitrance",
-      "translation": "ความดื้อดึงไม่ยอมทำตาม",
+      "translation": "ความดื้อดึง, การไม่ยอมทำตาม",
       "example": "Their recalcitrance delayed everything.",
       "exampleTranslation": "ความดื้อดึงของพวกเขาทำให้ทุกอย่างล่าช้า"
     },
     {
       "word": "recalcitrant",
-      "translation": "ที่ดื้อรั้นไม่ยอมทำตาม",
+      "translation": "ดื้อรั้น, ไม่ยอมทำตาม",
       "example": "The committee proved recalcitrant.",
       "exampleTranslation": "คณะกรรมการดื้อรั้นไม่ยอมทำตาม"
     },
@@ -9176,7 +9176,7 @@
     },
     {
       "word": "stoic",
-      "translation": "ที่อดทนไม่แสดงอารมณ์",
+      "translation": "อดทน, ไม่แสดงอารมณ์",
       "example": "She was stoic about the loss.",
       "exampleTranslation": "เธอสงบนิ่งไม่แสดงอารมณ์เมื่อต้องสูญเสีย"
     },
@@ -9188,7 +9188,7 @@
     },
     {
       "word": "stolid",
-      "translation": "ที่เฉยเมยไม่แสดงอารมณ์",
+      "translation": "เฉยเมย, ไม่แสดงอารมณ์",
       "example": "The guard remained stolid.",
       "exampleTranslation": "ยามยังคงเฉยเมยไม่แสดงอารมณ์"
     },
@@ -9758,13 +9758,13 @@
     },
     {
       "word": "tenacious",
-      "translation": "ที่ยึดมั่นไม่ยอมปล่อย",
+      "translation": "ยึดมั่น, ไม่ยอมปล่อย",
       "example": "She is a tenacious negotiator.",
       "exampleTranslation": "เธอเป็นนักเจรจาที่ไม่ยอมถอยง่ายๆ"
     },
     {
       "word": "tenacity",
-      "translation": "ความเพียรไม่ยอมปล่อย",
+      "translation": "ความเพียร, ความไม่ยอมปล่อย",
       "example": "Her tenacity finished the work.",
       "exampleTranslation": "ความไม่ย่อท้อของเธอทำให้งานเสร็จ"
     },
@@ -10022,7 +10022,7 @@
     },
     {
       "word": "tractable",
-      "translation": "ที่จัดการได้ว่าง่าย",
+      "translation": "จัดการได้, ว่าง่าย",
       "example": "The problem is tractable.",
       "exampleTranslation": "ปัญหานี้จัดการได้ไม่ยาก"
     },
@@ -10646,13 +10646,13 @@
     },
     {
       "word": "vacillate",
-      "translation": "ลังเลไม่ตัดสินใจ",
+      "translation": "ลังเล, ไม่ตัดสินใจ",
       "example": "She vacillated for weeks.",
       "exampleTranslation": "เธอลังเลไม่ตัดสินใจอยู่หลายสัปดาห์"
     },
     {
       "word": "vacillation",
-      "translation": "ความลังเลไม่ตัดสินใจ",
+      "translation": "ความลังเล, การไม่ตัดสินใจ",
       "example": "His vacillation delayed the sale.",
       "exampleTranslation": "ความลังเลไม่ตัดสินใจของเขาทำให้การขายล่าช้า"
     },
@@ -11276,7 +11276,7 @@
     },
     {
       "word": "whimsical",
-      "translation": "ที่แปลกน่ารักตามอารมณ์",
+      "translation": "แปลกตา, น่ารัก, ตามอารมณ์",
       "example": "The design is whimsical.",
       "exampleTranslation": "การออกแบบนี้แปลกตาและน่ารัก"
     },

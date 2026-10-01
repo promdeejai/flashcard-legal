@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "C1",
-  "version": 27,
+  "version": 28,
   "items": [
     {
       "word": "abolish",
@@ -446,7 +446,7 @@
     },
     {
       "word": "augment",
-      "translation": "เสริมเพิ่ม",
+      "translation": "เสริม, เพิ่ม",
       "example": "They augmented the team with two hires.",
       "exampleTranslation": "พวกเขาเสริมทีมด้วยการจ้างเพิ่มสองคน"
     },
@@ -650,7 +650,7 @@
     },
     {
       "word": "blend",
-      "translation": "ผสมกลมกลืน",
+      "translation": "ผสม, กลมกลืน",
       "example": "Blend the flour and the butter.",
       "exampleTranslation": "ผสมแป้งกับเนยให้เข้ากัน"
     },
@@ -974,7 +974,7 @@
     },
     {
       "word": "cogent",
-      "translation": "ที่มีน้ำหนักน่าเชื่อ",
+      "translation": "มีน้ำหนัก, น่าเชื่อถือ",
       "example": "She made a cogent case for delay.",
       "exampleTranslation": "เธอให้เหตุผลที่หนักแน่นว่าควรเลื่อนออกไป"
     },
@@ -1004,7 +1004,7 @@
     },
     {
       "word": "collective",
-      "translation": "ร่วมกันเป็นหมู่คณะ",
+      "translation": "ร่วมกัน, เป็นหมู่คณะ",
       "example": "It was a collective decision.",
       "exampleTranslation": "เป็นการตัดสินใจร่วมกัน"
     },
@@ -1586,7 +1586,7 @@
     },
     {
       "word": "cynical",
-      "translation": "ที่มองโลกในแง่ร้ายไม่เชื่อใจ",
+      "translation": "มองโลกในแง่ร้าย, ไม่เชื่อใจ",
       "example": "He is cynical about promises.",
       "exampleTranslation": "เขาไม่เชื่อในคำสัญญาของใคร"
     },
@@ -2822,7 +2822,7 @@
     },
     {
       "word": "grind",
-      "translation": "บดโม่",
+      "translation": "บด, โม่",
       "example": "The mill grinds the wheat.",
       "exampleTranslation": "โรงโม่บดข้าวสาลี"
     },
@@ -3638,7 +3638,7 @@
     },
     {
       "word": "loom",
-      "translation": "ทะมึนใกล้เข้ามา",
+      "translation": "ทะมึน, ใกล้เข้ามา",
       "example": "A deadline loomed over the week.",
       "exampleTranslation": "ทั้งสัปดาห์มีกำหนดส่งงานใกล้เข้ามาทุกที"
     },
@@ -3794,7 +3794,7 @@
     },
     {
       "word": "mentor",
-      "translation": "ผู้ให้คำปรึกษาแนะนำ",
+      "translation": "ผู้ให้คำปรึกษา, พี่เลี้ยง",
       "example": "She found a mentor in her first job.",
       "exampleTranslation": "เธอได้พี่เลี้ยงคอยแนะนำตั้งแต่งานแรก"
     },
@@ -3938,7 +3938,7 @@
     },
     {
       "word": "modification",
-      "translation": "การดัดแปลงแก้ไข",
+      "translation": "การดัดแปลง, การแก้ไข",
       "example": "One modification made it fit.",
       "exampleTranslation": "แก้นิดเดียวก็ใส่ได้พอดี"
     },
@@ -4328,7 +4328,7 @@
     },
     {
       "word": "peasant",
-      "translation": "ชาวนาชาวไร่",
+      "translation": "ชาวนา, ชาวไร่",
       "example": "The painting shows a peasant at work.",
       "exampleTranslation": "ภาพวาดนี้เป็นภาพชาวนากำลังทำงาน"
     },
@@ -5300,7 +5300,7 @@
     },
     {
       "word": "sensation",
-      "translation": "ความรู้สึกสัมผัส",
+      "translation": "ความรู้สึก, สัมผัส",
       "example": "There was a sensation of falling.",
       "exampleTranslation": "มีความรู้สึกเหมือนกำลังตกลงไป"
     },
@@ -5348,7 +5348,7 @@
     },
     {
       "word": "sheer",
-      "translation": "ล้วนๆ อย่างแท้จริง",
+      "translation": "ล้วนๆ, แท้ๆ",
       "example": "The sheer size of it surprised me.",
       "exampleTranslation": "ความใหญ่โตของมันทำให้ฉันประหลาดใจ"
     },
@@ -5894,7 +5894,7 @@
     },
     {
       "word": "synthesis",
-      "translation": "การสังเคราะห์รวม",
+      "translation": "การสังเคราะห์",
       "example": "The chapter is a synthesis of both views.",
       "exampleTranslation": "บทนี้สังเคราะห์ทั้งสองมุมมองเข้าด้วยกัน"
     },
@@ -6644,7 +6644,7 @@
     },
     {
       "word": "youngster",
-      "translation": "เด็กหนุ่มสาว",
+      "translation": "เด็กหนุ่ม, เด็กสาว",
       "example": "One youngster asked a sharp question.",
       "exampleTranslation": "มีเด็กคนหนึ่งถามคำถามที่เฉียบแหลม"
     }

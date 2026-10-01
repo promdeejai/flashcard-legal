@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "A1",
-  "version": 27,
+  "version": 28,
   "items": [
     {
       "word": "action",
@@ -1070,7 +1070,7 @@
     },
     {
       "word": "difficult",
-      "translation": "ยากลำบาก",
+      "translation": "ยาก, ลำบาก",
       "example": "The exam is difficult.",
       "exampleTranslation": "ข้อสอบนี้ยาก"
     },
@@ -3596,7 +3596,7 @@
     },
     {
       "word": "study",
-      "translation": "ศึกษาเล่าเรียน",
+      "translation": "ศึกษา, เรียน",
       "example": "She studies at night.",
       "exampleTranslation": "เธอเรียนตอนกลางคืน"
     },
@@ -3938,7 +3938,7 @@
     },
     {
       "word": "type",
-      "translation": "ชนิดประเภท",
+      "translation": "ชนิด, ประเภท",
       "example": "What type of bread is it?",
       "exampleTranslation": "ขนมปังชนิดนี้คืออะไร"
     },

@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "B1",
-  "version": 27,
+  "version": 28,
   "items": [
     {
       "word": "absolutely",
@@ -278,7 +278,7 @@
     },
     {
       "word": "base",
-      "translation": "ฐานที่ตั้ง",
+      "translation": "ฐาน, ที่ตั้ง",
       "example": "The company is based in Lyon.",
       "exampleTranslation": "บริษัทมีฐานอยู่ที่เมืองลียง"
     },
@@ -1304,7 +1304,7 @@
     },
     {
       "word": "folk",
-      "translation": "ผู้คนชาวบ้าน",
+      "translation": "ผู้คน, ชาวบ้าน",
       "example": "Local folk still tell the story.",
       "exampleTranslation": "ชาวบ้านยังคงเล่าเรื่องนี้อยู่"
     },
@@ -1340,7 +1340,7 @@
     },
     {
       "word": "frighten",
-      "translation": "ทำให้ตกใจกลัว",
+      "translation": "ทำให้ตกใจ, ทำให้กลัว",
       "example": "The noise frightened the horse.",
       "exampleTranslation": "เสียงดังทำให้ม้าตกใจกลัว"
     },
@@ -1388,7 +1388,7 @@
     },
     {
       "word": "generation",
-      "translation": "รุ่นคน",
+      "translation": "รุ่น",
       "example": "Three generations live in this house.",
       "exampleTranslation": "คน 3 รุ่นอาศัยอยู่ในบ้านหลังนี้"
     },
@@ -1454,7 +1454,7 @@
     },
     {
       "word": "grade",
-      "translation": "เกรดคะแนน",
+      "translation": "เกรด, คะแนน",
       "example": "She got the top grade.",
       "exampleTranslation": "เธอได้เกรดสูงสุด"
     },
@@ -1748,7 +1748,7 @@
     },
     {
       "word": "issue",
-      "translation": "ประเด็นปัญหา",
+      "translation": "ประเด็น, ปัญหา",
       "example": "The main issue is cost.",
       "exampleTranslation": "ประเด็นปัญหาหลักคือค่าใช้จ่าย"
     },
@@ -1766,7 +1766,7 @@
     },
     {
       "word": "keen",
-      "translation": "กระตือรือร้นอยากทำ",
+      "translation": "กระตือรือร้น, อยากทำ",
       "example": "He is keen to start.",
       "exampleTranslation": "เขากระตือรือร้นอยากเริ่ม"
     },
@@ -2084,7 +2084,7 @@
     },
     {
       "word": "occasion",
-      "translation": "โอกาสวาระ",
+      "translation": "โอกาส, วาระ",
       "example": "It was a special occasion.",
       "exampleTranslation": "นั่นเป็นโอกาสพิเศษ"
     },
@@ -2138,7 +2138,7 @@
     },
     {
       "word": "package",
-      "translation": "พัสดุห่อของ",
+      "translation": "พัสดุ, ห่อของ",
       "example": "The package arrived open.",
       "exampleTranslation": "พัสดุมาถึงในสภาพที่ถูกเปิดแล้ว"
     },
@@ -2162,7 +2162,7 @@
     },
     {
       "word": "participate",
-      "translation": "เข้าร่วมมีส่วนร่วม",
+      "translation": "เข้าร่วม, มีส่วนร่วม",
       "example": "Only six people participated.",
       "exampleTranslation": "มีคนเข้าร่วมแค่ 6 คน"
     },
@@ -2234,7 +2234,7 @@
     },
     {
       "word": "plenty",
-      "translation": "มากมายเหลือเฟือ",
+      "translation": "มากมาย, เหลือเฟือ",
       "example": "There is plenty of time.",
       "exampleTranslation": "มีเวลาเหลือเฟือ"
     },
@@ -2336,7 +2336,7 @@
     },
     {
       "word": "pray",
-      "translation": "สวดมนต์อธิษฐาน",
+      "translation": "สวดมนต์, อธิษฐาน",
       "example": "They prayed for rain.",
       "exampleTranslation": "พวกเขาอธิษฐานขอฝน"
     },
@@ -2354,7 +2354,7 @@
     },
     {
       "word": "press",
-      "translation": "สื่อหนังสือพิมพ์",
+      "translation": "สื่อ, หนังสือพิมพ์",
       "example": "The press asked him many questions.",
       "exampleTranslation": "สื่อถามเขาหลายเรื่อง"
     },
@@ -2408,7 +2408,7 @@
     },
     {
       "word": "private",
-      "translation": "ส่วนตัวเฉพาะ",
+      "translation": "ส่วนตัว",
       "example": "This is a private road.",
       "exampleTranslation": "นี่เป็นถนนส่วนตัว"
     },
@@ -2498,7 +2498,7 @@
     },
     {
       "word": "queue",
-      "translation": "แถวคิว",
+      "translation": "แถว, คิว",
       "example": "The queue moved slowly.",
       "exampleTranslation": "คิวขยับช้า"
     },
@@ -2522,7 +2522,7 @@
     },
     {
       "word": "range",
-      "translation": "ช่วงขอบเขต",
+      "translation": "ช่วง, ขอบเขต",
       "example": "The shop sells a wide range of shoes.",
       "exampleTranslation": "ร้านนี้ขายรองเท้าหลากหลายแบบ"
     },
@@ -2558,13 +2558,13 @@
     },
     {
       "word": "reject",
-      "translation": "ปฏิเสธไม่รับ",
+      "translation": "ปฏิเสธ, ไม่รับ",
       "example": "They rejected the offer.",
       "exampleTranslation": "พวกเขาปฏิเสธข้อเสนอ"
     },
     {
       "word": "relate",
-      "translation": "เชื่อมโยงสัมพันธ์",
+      "translation": "เชื่อมโยง, สัมพันธ์",
       "example": "I cannot relate the two events.",
       "exampleTranslation": "ฉันเชื่อมโยงเหตุการณ์ทั้ง 2 นี้ไม่ได้"
     },
@@ -2936,7 +2936,7 @@
     },
     {
       "word": "slice",
-      "translation": "ชิ้นบางแผ่น",
+      "translation": "ชิ้นบาง, แผ่น",
       "example": "Cut one slice of bread.",
       "exampleTranslation": "ตัดขนมปัง 1 แผ่น"
     },
@@ -2948,7 +2948,7 @@
     },
     {
       "word": "smart",
-      "translation": "ฉลาดเฉียบ",
+      "translation": "ฉลาด",
       "example": "She is a smart student.",
       "exampleTranslation": "เธอเป็นนักเรียนที่ฉลาด"
     },
@@ -3236,13 +3236,13 @@
     },
     {
       "word": "throughout",
-      "translation": "ตลอดทั่ว",
+      "translation": "ตลอด, ทั่ว",
       "example": "It rained throughout the week.",
       "exampleTranslation": "ฝนตกตลอดทั้งสัปดาห์"
     },
     {
       "word": "tight",
-      "translation": "แน่นคับ",
+      "translation": "แน่น, คับ",
       "example": "The lid is too tight.",
       "exampleTranslation": "ฝาแน่นเกินไป"
     },

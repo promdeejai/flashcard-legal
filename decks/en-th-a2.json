@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "th",
   "level": "A2",
-  "version": 27,
+  "version": 28,
   "items": [
     {
       "word": "ability",
@@ -350,7 +350,7 @@
     },
     {
       "word": "based",
-      "translation": "ที่ตั้งฐานอยู่",
+      "translation": "มีฐานอยู่, ตั้งอยู่",
       "example": "The company is based in Oslo.",
       "exampleTranslation": "บริษัทนี้มีฐานอยู่ที่ออสโล"
     },
@@ -458,7 +458,7 @@
     },
     {
       "word": "blank",
-      "translation": "ว่างเปล่าไม่มีข้อความ",
+      "translation": "ว่างเปล่า, ไม่มีข้อความ",
       "example": "Leave the last line blank.",
       "exampleTranslation": "เว้นบรรทัดสุดท้ายว่างไว้"
     },
@@ -506,7 +506,7 @@
     },
     {
       "word": "bottom",
-      "translation": "ก้นล่างสุด",
+      "translation": "ก้น, ล่างสุด",
       "example": "The key was at the bottom of the bag.",
       "exampleTranslation": "กุญแจอยู่ก้นกระเป๋า"
     },
@@ -926,7 +926,7 @@
     },
     {
       "word": "cover",
-      "translation": "ปิดคลุม",
+      "translation": "ปิด, คลุม",
       "example": "Cover the pan for ten minutes.",
       "exampleTranslation": "ปิดฝากระทะไว้สิบนาที"
     },
@@ -980,7 +980,7 @@
     },
     {
       "word": "curly",
-      "translation": "หยิกเป็นลอน",
+      "translation": "หยิก, เป็นลอน",
       "example": "She has curly hair.",
       "exampleTranslation": "เธอมีผมหยิก"
     },
@@ -1004,7 +1004,7 @@
     },
     {
       "word": "danger",
-      "translation": "อันตรายที่คุกคาม",
+      "translation": "อันตราย",
       "example": "There is no danger now.",
       "exampleTranslation": "ตอนนี้ไม่มีอันตรายแล้ว"
     },
@@ -1130,7 +1130,7 @@
     },
     {
       "word": "direct",
-      "translation": "ตรงไม่ต้องเปลี่ยน",
+      "translation": "ตรง, ไม่ต้องเปลี่ยน",
       "example": "Is there a direct train?",
       "exampleTranslation": "มีรถไฟสายตรงไหม"
     },
@@ -1232,7 +1232,7 @@
     },
     {
       "word": "drug",
-      "translation": "ยาเสพติดหรือยารักษา",
+      "translation": "ยาเสพติด, ยารักษาโรค",
       "example": "The drug is not sold here.",
       "exampleTranslation": "ที่นี่ไม่มียานี้ขาย"
     },
@@ -1394,7 +1394,7 @@
     },
     {
       "word": "exact",
-      "translation": "ที่แน่นอนเป๊ะ",
+      "translation": "แน่นอน, เป๊ะ",
       "example": "Tell me the exact price.",
       "exampleTranslation": "บอกราคาที่แน่นอนให้ฉันหน่อย"
     },
@@ -1838,7 +1838,7 @@
     },
     {
       "word": "hit",
-      "translation": "กระทบชน",
+      "translation": "กระทบ, ชน",
       "example": "The ball hit the window.",
       "exampleTranslation": "ลูกบอลกระแทกหน้าต่าง"
     },
@@ -1868,7 +1868,7 @@
     },
     {
       "word": "huge",
-      "translation": "ใหญ่มหึมา",
+      "translation": "ใหญ่มาก, มหึมา",
       "example": "They live in a huge house.",
       "exampleTranslation": "พวกเขาอาศัยอยู่ในบ้านหลังใหญ่มาก"
     },
@@ -1952,7 +1952,7 @@
     },
     {
       "word": "individual",
-      "translation": "บุคคลแต่ละคน",
+      "translation": "บุคคล, แต่ละคน",
       "example": "Every individual is different.",
       "exampleTranslation": "บุคคลแต่ละคนแตกต่างกัน"
     },
@@ -2036,7 +2036,7 @@
     },
     {
       "word": "invent",
-      "translation": "ประดิษฐ์คิดค้น",
+      "translation": "ประดิษฐ์, คิดค้น",
       "example": "He invented a simple tool.",
       "exampleTranslation": "เขาประดิษฐ์เครื่องมือง่ายๆชิ้นหนึ่ง"
     },
@@ -2474,7 +2474,7 @@
     },
     {
       "word": "mostly",
-      "translation": "ส่วนใหญ่แล้วเป็น",
+      "translation": "ส่วนใหญ่",
       "example": "The guests were mostly students.",
       "exampleTranslation": "แขกส่วนใหญ่เป็นนักเรียน"
     },
@@ -2774,7 +2774,7 @@
     },
     {
       "word": "pick",
-      "translation": "เลือกหยิบ",
+      "translation": "เลือก, หยิบ",
       "example": "Pick one and keep it.",
       "exampleTranslation": "เลือกหยิบมาหนึ่งอันแล้วเก็บไว้เลย"
     },
@@ -2816,7 +2816,7 @@
     },
     {
       "word": "pleased",
-      "translation": "พอใจยินดี",
+      "translation": "พอใจ, ยินดี",
       "example": "They were pleased with the result.",
       "exampleTranslation": "พวกเขาพอใจกับผลลัพธ์"
     },
@@ -3992,7 +3992,7 @@
     },
     {
       "word": "throw",
-      "translation": "ขว้างโยน",
+      "translation": "ขว้าง, โยน",
       "example": "Throw the ball to me.",
       "exampleTranslation": "โยนลูกบอลมาให้ฉัน"
     },
