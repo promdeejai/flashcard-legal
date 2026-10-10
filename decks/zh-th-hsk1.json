@@ -1,0 +1,2993 @@
+{
+  "id": "zh-th-hsk1",
+  "name": "Chinese HSK 1",
+  "learn": "zh-CN",
+  "native": "th",
+  "level": "HSK1",
+  "version": 32,
+  "examples": false,
+  "items": [
+    {
+      "word": "爱",
+      "translation": "รัก",
+      "example": "",
+      "pronunciation": "ài"
+    },
+    {
+      "word": "爱好",
+      "translation": "งานอดิเรก",
+      "example": "",
+      "pronunciation": "àihào"
+    },
+    {
+      "word": "八",
+      "translation": "แปด",
+      "example": "",
+      "pronunciation": "bā"
+    },
+    {
+      "word": "爸爸",
+      "translation": "พ่อ",
+      "example": "",
+      "pronunciation": "bàba"
+    },
+    {
+      "word": "吧",
+      "translation": "เถอะ, สิ, ละ, นะ (คำช่วยเสริมน้ำเสียง)",
+      "example": "",
+      "pronunciation": "ba"
+    },
+    {
+      "word": "白",
+      "translation": "ขาว",
+      "example": "",
+      "pronunciation": "bái"
+    },
+    {
+      "word": "白天",
+      "translation": "กลางวัน",
+      "example": "",
+      "pronunciation": "báitiān"
+    },
+    {
+      "word": "百",
+      "translation": "ร้อย",
+      "example": "",
+      "pronunciation": "bǎi"
+    },
+    {
+      "word": "班",
+      "translation": "ชั้นเรียน, กะเข้างาน",
+      "example": "",
+      "pronunciation": "bān"
+    },
+    {
+      "word": "半",
+      "translation": "ครึ่ง",
+      "example": "",
+      "pronunciation": "bàn"
+    },
+    {
+      "word": "半年",
+      "translation": "ครึ่งปี",
+      "example": "",
+      "pronunciation": "bànnián"
+    },
+    {
+      "word": "半天",
+      "translation": "ครึ่งวัน, เป็นเวลานาน",
+      "example": "",
+      "pronunciation": "bàntiān"
+    },
+    {
+      "word": "帮",
+      "translation": "ช่วย",
+      "example": "",
+      "pronunciation": "bāng"
+    },
+    {
+      "word": "帮忙",
+      "translation": "ช่วยเหลือ",
+      "example": "",
+      "pronunciation": "bāngmáng"
+    },
+    {
+      "word": "包",
+      "translation": "กระเป๋า, ห่อ",
+      "example": "",
+      "pronunciation": "bāo"
+    },
+    {
+      "word": "包子",
+      "translation": "ซาลาเปา",
+      "example": "",
+      "pronunciation": "bāozi"
+    },
+    {
+      "word": "杯",
+      "translation": "ถ้วย, แก้ว (ลักษณนาม)",
+      "example": "",
+      "pronunciation": "bēi"
+    },
+    {
+      "word": "杯子",
+      "translation": "ถ้วย, แก้ว",
+      "example": "",
+      "pronunciation": "bēizi"
+    },
+    {
+      "word": "北",
+      "translation": "ทิศเหนือ",
+      "example": "",
+      "pronunciation": "běi"
+    },
+    {
+      "word": "北边",
+      "translation": "ภาคเหนือ, ทางทิศเหนือ",
+      "example": "",
+      "pronunciation": "běibian"
+    },
+    {
+      "word": "北京",
+      "translation": "ปักกิ่ง",
+      "example": "",
+      "pronunciation": "Běijīng"
+    },
+    {
+      "word": "本",
+      "translation": "เล่ม (ลักษณะนาม)",
+      "example": "",
+      "pronunciation": "běn"
+    },
+    {
+      "word": "本子",
+      "translation": "สมุด",
+      "example": "",
+      "pronunciation": "běnzi"
+    },
+    {
+      "word": "比",
+      "translation": "กว่า, เปรียบเทียบ",
+      "example": "",
+      "pronunciation": "bǐ"
+    },
+    {
+      "word": "别",
+      "translation": "อย่า",
+      "example": "",
+      "pronunciation": "bié"
+    },
+    {
+      "word": "别的",
+      "translation": "อื่นๆ, สิ่งอื่น",
+      "example": "",
+      "pronunciation": "biéde"
+    },
+    {
+      "word": "别人",
+      "translation": "คนอื่น",
+      "example": "",
+      "pronunciation": "biérén"
+    },
+    {
+      "word": "病",
+      "translation": "ป่วย, โรค",
+      "example": "",
+      "pronunciation": "bìng"
+    },
+    {
+      "word": "病人",
+      "translation": "ผู้ป่วย, คนไข้",
+      "example": "",
+      "pronunciation": "bìngrén"
+    },
+    {
+      "word": "不大",
+      "translation": "ไม่ใหญ่, ไม่ค่อย",
+      "example": "",
+      "pronunciation": "búdà"
+    },
+    {
+      "word": "不对",
+      "translation": "ไม่ถูกต้อง, ผิด",
+      "example": "",
+      "pronunciation": "búduì"
+    },
+    {
+      "word": "不客气",
+      "translation": "ไม่เป็นไร, ไม่ต้องเกรงใจ",
+      "example": "",
+      "pronunciation": "búkèqi"
+    },
+    {
+      "word": "不用",
+      "translation": "ไม่ต้อง",
+      "example": "",
+      "pronunciation": "búyòng"
+    },
+    {
+      "word": "不",
+      "translation": "ไม่",
+      "example": "",
+      "pronunciation": "bù/bú"
+    },
+    {
+      "word": "菜",
+      "translation": "ผัก, กับข้าว, อาหาร",
+      "example": "",
+      "pronunciation": "cài"
+    },
+    {
+      "word": "茶",
+      "translation": "ชา, น้ำชา",
+      "example": "",
+      "pronunciation": "chá"
+    },
+    {
+      "word": "差",
+      "translation": "แย่, ขาด, แตกต่าง",
+      "example": "",
+      "pronunciation": "chà/chā/chāi"
+    },
+    {
+      "word": "常",
+      "translation": "บ่อย",
+      "example": "",
+      "pronunciation": "cháng"
+    },
+    {
+      "word": "常常",
+      "translation": "บ่อยๆ",
+      "example": "",
+      "pronunciation": "chángcháng"
+    },
+    {
+      "word": "唱",
+      "translation": "ร้อง(เพลง)",
+      "example": "",
+      "pronunciation": "chàng"
+    },
+    {
+      "word": "唱歌",
+      "translation": "ร้องเพลง",
+      "example": "",
+      "pronunciation": "chànggē"
+    },
+    {
+      "word": "车",
+      "translation": "รถ",
+      "example": "",
+      "pronunciation": "chē"
+    },
+    {
+      "word": "车票",
+      "translation": "ตั๋วรถ",
+      "example": "",
+      "pronunciation": "chēpiào"
+    },
+    {
+      "word": "车上",
+      "translation": "บนรถ",
+      "example": "",
+      "pronunciation": "chēshang"
+    },
+    {
+      "word": "车站",
+      "translation": "สถานีรถ, ป้ายรถเมล์",
+      "example": "",
+      "pronunciation": "chēzhàn"
+    },
+    {
+      "word": "吃",
+      "translation": "กิน",
+      "example": "",
+      "pronunciation": "chī"
+    },
+    {
+      "word": "吃饭",
+      "translation": "กินข้าว",
+      "example": "",
+      "pronunciation": "chīfàn"
+    },
+    {
+      "word": "出",
+      "translation": "ออก",
+      "example": "",
+      "pronunciation": "chū"
+    },
+    {
+      "word": "出来",
+      "translation": "ออกมา",
+      "example": "",
+      "pronunciation": "chūlái"
+    },
+    {
+      "word": "出去",
+      "translation": "ออกไป",
+      "example": "",
+      "pronunciation": "chūqù"
+    },
+    {
+      "word": "穿",
+      "translation": "สวมใส่",
+      "example": "",
+      "pronunciation": "chuān"
+    },
+    {
+      "word": "床",
+      "translation": "เตียง",
+      "example": "",
+      "pronunciation": "chuáng"
+    },
+    {
+      "word": "次",
+      "translation": "ครั้ง (ลักษณนาม)",
+      "example": "",
+      "pronunciation": "cì"
+    },
+    {
+      "word": "从",
+      "translation": "จาก",
+      "example": "",
+      "pronunciation": "cóng"
+    },
+    {
+      "word": "错",
+      "translation": "ผิด",
+      "example": "",
+      "pronunciation": "cuò"
+    },
+    {
+      "word": "打",
+      "translation": "ตี, เล่น(กีฬา), โทร(ศัพท์)",
+      "example": "",
+      "pronunciation": "dǎ"
+    },
+    {
+      "word": "打车",
+      "translation": "เรียกรถ, นั่งแท็กซี่",
+      "example": "",
+      "pronunciation": "dǎchē"
+    },
+    {
+      "word": "打电话",
+      "translation": "โทรศัพท์",
+      "example": "",
+      "pronunciation": "dǎdiànhuà"
+    },
+    {
+      "word": "打开",
+      "translation": "เปิด",
+      "example": "",
+      "pronunciation": "dǎkāi"
+    },
+    {
+      "word": "打球",
+      "translation": "เล่นบอล",
+      "example": "",
+      "pronunciation": "dǎqiú"
+    },
+    {
+      "word": "大",
+      "translation": "ใหญ่",
+      "example": "",
+      "pronunciation": "dà"
+    },
+    {
+      "word": "大学",
+      "translation": "มหาวิทยาลัย",
+      "example": "",
+      "pronunciation": "dàxué"
+    },
+    {
+      "word": "大学生",
+      "translation": "นักศึกษา",
+      "example": "",
+      "pronunciation": "dàxuéshēng"
+    },
+    {
+      "word": "到",
+      "translation": "ถึง",
+      "example": "",
+      "pronunciation": "dào"
+    },
+    {
+      "word": "得到",
+      "translation": "ได้รับ",
+      "example": "",
+      "pronunciation": "dédào"
+    },
+    {
+      "word": "地",
+      "translation": "...อย่าง... (คำช่วย), พื้น, ดิน",
+      "example": "",
+      "pronunciation": "de, dì"
+    },
+    {
+      "word": "的",
+      "translation": "ของ, ที่ (คำช่วย)",
+      "example": "",
+      "pronunciation": "de"
+    },
+    {
+      "word": "等",
+      "translation": "รอ",
+      "example": "",
+      "pronunciation": "děng"
+    },
+    {
+      "word": "地点",
+      "translation": "สถานที่ (ที่เจาะจง)",
+      "example": "",
+      "pronunciation": "dìdiǎn"
+    },
+    {
+      "word": "地方",
+      "translation": "สถานที่",
+      "example": "",
+      "pronunciation": "dìfang"
+    },
+    {
+      "word": "地上",
+      "translation": "บนพื้น",
+      "example": "",
+      "pronunciation": "dìshang"
+    },
+    {
+      "word": "地图",
+      "translation": "แผนที่",
+      "example": "",
+      "pronunciation": "dìtú"
+    },
+    {
+      "word": "弟弟",
+      "translation": "น้องชาย",
+      "example": "",
+      "pronunciation": "dìdi"
+    },
+    {
+      "word": "第",
+      "translation": "ลำดับที่...",
+      "example": "",
+      "pronunciation": "dì"
+    },
+    {
+      "word": "点",
+      "translation": "โมง, จุด",
+      "example": "",
+      "pronunciation": "diǎn"
+    },
+    {
+      "word": "电",
+      "translation": "ไฟฟ้า",
+      "example": "",
+      "pronunciation": "diàn"
+    },
+    {
+      "word": "电话",
+      "translation": "โทรศัพท์",
+      "example": "",
+      "pronunciation": "diànhuà"
+    },
+    {
+      "word": "电脑",
+      "translation": "คอมพิวเตอร์",
+      "example": "",
+      "pronunciation": "diànnǎo"
+    },
+    {
+      "word": "电视",
+      "translation": "โทรทัศน์, ทีวี",
+      "example": "",
+      "pronunciation": "diànshì"
+    },
+    {
+      "word": "电视机",
+      "translation": "เครื่องรับโทรทัศน์",
+      "example": "",
+      "pronunciation": "diànshìjī"
+    },
+    {
+      "word": "电影",
+      "translation": "ภาพยนตร์",
+      "example": "",
+      "pronunciation": "diànyǐng"
+    },
+    {
+      "word": "电影院",
+      "translation": "โรงภาพยนตร์",
+      "example": "",
+      "pronunciation": "diànyǐngyuàn"
+    },
+    {
+      "word": "东",
+      "translation": "ทิศตะวันออก",
+      "example": "",
+      "pronunciation": "dōng"
+    },
+    {
+      "word": "东边",
+      "translation": "ทางทิศตะวันออก",
+      "example": "",
+      "pronunciation": "dōngbian"
+    },
+    {
+      "word": "东西",
+      "translation": "สิ่งของ",
+      "example": "",
+      "pronunciation": "dōngxi"
+    },
+    {
+      "word": "动",
+      "translation": "ขยับ, เคลื่อนไหว",
+      "example": "",
+      "pronunciation": "dòng"
+    },
+    {
+      "word": "动作",
+      "translation": "ท่าทาง, การกระทำ",
+      "example": "",
+      "pronunciation": "dòngzuò"
+    },
+    {
+      "word": "都",
+      "translation": "ทั้งหมด, ล้วน",
+      "example": "",
+      "pronunciation": "dōu"
+    },
+    {
+      "word": "读",
+      "translation": "อ่าน",
+      "example": "",
+      "pronunciation": "dú"
+    },
+    {
+      "word": "读书",
+      "translation": "อ่านหนังสือ, เรียนหนังสือ",
+      "example": "",
+      "pronunciation": "dúshū"
+    },
+    {
+      "word": "对",
+      "translation": "ถูกต้อง; ต่อ, กับ",
+      "example": "",
+      "pronunciation": "duì"
+    },
+    {
+      "word": "对不起",
+      "translation": "ขอโทษ",
+      "example": "",
+      "pronunciation": "duìbuqǐ"
+    },
+    {
+      "word": "多",
+      "translation": "มาก; เท่าไหร่ (ใช้ในคำถาม)",
+      "example": "",
+      "pronunciation": "duō"
+    },
+    {
+      "word": "多少",
+      "translation": "เท่าไหร่",
+      "example": "",
+      "pronunciation": "duōshao"
+    },
+    {
+      "word": "饿",
+      "translation": "หิว",
+      "example": "",
+      "pronunciation": "è"
+    },
+    {
+      "word": "儿子",
+      "translation": "ลูกชาย",
+      "example": "",
+      "pronunciation": "érzi"
+    },
+    {
+      "word": "二",
+      "translation": "สอง",
+      "example": "",
+      "pronunciation": "èr"
+    },
+    {
+      "word": "饭",
+      "translation": "ข้าว, มื้ออาหาร",
+      "example": "",
+      "pronunciation": "fàn"
+    },
+    {
+      "word": "饭店",
+      "translation": "ร้านอาหาร, โรงแรม",
+      "example": "",
+      "pronunciation": "fàndiàn"
+    },
+    {
+      "word": "房间",
+      "translation": "ห้อง",
+      "example": "",
+      "pronunciation": "fángjiān"
+    },
+    {
+      "word": "房子",
+      "translation": "บ้าน, อาคาร",
+      "example": "",
+      "pronunciation": "fángzi"
+    },
+    {
+      "word": "放",
+      "translation": "วาง, ปล่อย",
+      "example": "",
+      "pronunciation": "fàng"
+    },
+    {
+      "word": "放假",
+      "translation": "หยุดพัก, ปิดเทอม",
+      "example": "",
+      "pronunciation": "fàngjià"
+    },
+    {
+      "word": "放学",
+      "translation": "เลิกเรียน",
+      "example": "",
+      "pronunciation": "fàngxué"
+    },
+    {
+      "word": "飞",
+      "translation": "บิน",
+      "example": "",
+      "pronunciation": "fēi"
+    },
+    {
+      "word": "飞机",
+      "translation": "เครื่องบิน",
+      "example": "",
+      "pronunciation": "fēijī"
+    },
+    {
+      "word": "非常",
+      "translation": "มาก, เป็นอย่างยิ่ง",
+      "example": "",
+      "pronunciation": "fēicháng"
+    },
+    {
+      "word": "分",
+      "translation": "นาที, คะแนน",
+      "example": "",
+      "pronunciation": "fēn"
+    },
+    {
+      "word": "风",
+      "translation": "ลม",
+      "example": "",
+      "pronunciation": "fēng"
+    },
+    {
+      "word": "干",
+      "translation": "แห้ง, ทำ",
+      "example": "",
+      "pronunciation": "gān, gàn"
+    },
+    {
+      "word": "干净",
+      "translation": "สะอาด",
+      "example": "",
+      "pronunciation": "gānjìng"
+    },
+    {
+      "word": "干什么",
+      "translation": "ทำอะไร",
+      "example": "",
+      "pronunciation": "gànshénme"
+    },
+    {
+      "word": "高",
+      "translation": "สูง",
+      "example": "",
+      "pronunciation": "gāo"
+    },
+    {
+      "word": "高兴",
+      "translation": "ดีใจ, มีความสุข",
+      "example": "",
+      "pronunciation": "gāoxìng"
+    },
+    {
+      "word": "告诉",
+      "translation": "บอก",
+      "example": "",
+      "pronunciation": "gàosu"
+    },
+    {
+      "word": "哥哥",
+      "translation": "พี่ชาย",
+      "example": "",
+      "pronunciation": "gēge"
+    },
+    {
+      "word": "歌",
+      "translation": "เพลง",
+      "example": "",
+      "pronunciation": "gē"
+    },
+    {
+      "word": "个",
+      "translation": "อัน, คน, ชิ้น (ลักษณนามทั่วไป)",
+      "example": "",
+      "pronunciation": "gè"
+    },
+    {
+      "word": "给",
+      "translation": "ให้",
+      "example": "",
+      "pronunciation": "gěi"
+    },
+    {
+      "word": "跟",
+      "translation": "กับ, และ, ตาม",
+      "example": "",
+      "pronunciation": "gēn"
+    },
+    {
+      "word": "工人",
+      "translation": "คนงาน",
+      "example": "",
+      "pronunciation": "gōngrén"
+    },
+    {
+      "word": "工作",
+      "translation": "ทำงาน, งาน",
+      "example": "",
+      "pronunciation": "gōngzuò"
+    },
+    {
+      "word": "关",
+      "translation": "ปิด",
+      "example": "",
+      "pronunciation": "guān"
+    },
+    {
+      "word": "关上",
+      "translation": "ปิด (สนิท)",
+      "example": "",
+      "pronunciation": "guānshang"
+    },
+    {
+      "word": "贵",
+      "translation": "แพง",
+      "example": "",
+      "pronunciation": "guì"
+    },
+    {
+      "word": "国",
+      "translation": "ประเทศ",
+      "example": "",
+      "pronunciation": "guó"
+    },
+    {
+      "word": "国家",
+      "translation": "ประเทศชาติ",
+      "example": "",
+      "pronunciation": "guójiā"
+    },
+    {
+      "word": "国外",
+      "translation": "ต่างประเทศ",
+      "example": "",
+      "pronunciation": "guówài"
+    },
+    {
+      "word": "过",
+      "translation": "เคย; ผ่าน, ข้าม",
+      "example": "",
+      "pronunciation": "guò"
+    },
+    {
+      "word": "还",
+      "translation": "ยัง, ยังคง, คืน",
+      "example": "",
+      "pronunciation": "hái, huán"
+    },
+    {
+      "word": "还是",
+      "translation": "หรือ, ยังคงเป็น",
+      "example": "",
+      "pronunciation": "háishi"
+    },
+    {
+      "word": "还有",
+      "translation": "แล้วก็ยังมี, นอกจากนี้",
+      "example": "",
+      "pronunciation": "háiyǒu"
+    },
+    {
+      "word": "孩子",
+      "translation": "เด็ก, ลูก",
+      "example": "",
+      "pronunciation": "háizi"
+    },
+    {
+      "word": "汉语",
+      "translation": "ภาษาจีน",
+      "example": "",
+      "pronunciation": "Hànyǔ"
+    },
+    {
+      "word": "汉字",
+      "translation": "อักษรจีน",
+      "example": "",
+      "pronunciation": "Hànzì"
+    },
+    {
+      "word": "好",
+      "translation": "ดี",
+      "example": "",
+      "pronunciation": "hǎo"
+    },
+    {
+      "word": "好吃",
+      "translation": "อร่อย",
+      "example": "",
+      "pronunciation": "hǎochī"
+    },
+    {
+      "word": "好看",
+      "translation": "สวย, ดูดี, น่าดู",
+      "example": "",
+      "pronunciation": "hǎokàn"
+    },
+    {
+      "word": "好听",
+      "translation": "ไพเราะ",
+      "example": "",
+      "pronunciation": "hǎotīng"
+    },
+    {
+      "word": "好玩儿",
+      "translation": "สนุก, น่าเล่น",
+      "example": "",
+      "pronunciation": "hǎowánr"
+    },
+    {
+      "word": "号",
+      "translation": "วันที่, หมายเลข",
+      "example": "",
+      "pronunciation": "hào"
+    },
+    {
+      "word": "喝",
+      "translation": "ดื่ม",
+      "example": "",
+      "pronunciation": "hē"
+    },
+    {
+      "word": "和",
+      "translation": "และ, กับ",
+      "example": "",
+      "pronunciation": "hé"
+    },
+    {
+      "word": "很",
+      "translation": "มาก",
+      "example": "",
+      "pronunciation": "hěn"
+    },
+    {
+      "word": "后",
+      "translation": "หลัง, ข้างหลัง",
+      "example": "",
+      "pronunciation": "hòu"
+    },
+    {
+      "word": "后边",
+      "translation": "ด้านหลัง",
+      "example": "",
+      "pronunciation": "hòubian"
+    },
+    {
+      "word": "后天",
+      "translation": "มะรืนนี้",
+      "example": "",
+      "pronunciation": "hòutiān"
+    },
+    {
+      "word": "花",
+      "translation": "ดอกไม้; ใช้(เงิน, เวลา)",
+      "example": "",
+      "pronunciation": "huā"
+    },
+    {
+      "word": "话",
+      "translation": "คำพูด, ภาษา",
+      "example": "",
+      "pronunciation": "huà"
+    },
+    {
+      "word": "坏",
+      "translation": "เสีย, เลว, แย่",
+      "example": "",
+      "pronunciation": "huài"
+    },
+    {
+      "word": "回",
+      "translation": "กลับ",
+      "example": "",
+      "pronunciation": "huí"
+    },
+    {
+      "word": "回答",
+      "translation": "ตอบ, คำตอบ",
+      "example": "",
+      "pronunciation": "huídá"
+    },
+    {
+      "word": "回到",
+      "translation": "กลับถึง",
+      "example": "",
+      "pronunciation": "huídào"
+    },
+    {
+      "word": "回家",
+      "translation": "กลับบ้าน",
+      "example": "",
+      "pronunciation": "huíjiā"
+    },
+    {
+      "word": "回来",
+      "translation": "กลับมา",
+      "example": "",
+      "pronunciation": "huílái"
+    },
+    {
+      "word": "回去",
+      "translation": "กลับไป",
+      "example": "",
+      "pronunciation": "huíqù"
+    },
+    {
+      "word": "会",
+      "translation": "สามารถ, เป็น; จะ",
+      "example": "",
+      "pronunciation": "huì"
+    },
+    {
+      "word": "火车",
+      "translation": "รถไฟ",
+      "example": "",
+      "pronunciation": "huǒchē"
+    },
+    {
+      "word": "机场",
+      "translation": "สนามบิน",
+      "example": "",
+      "pronunciation": "jīchǎng"
+    },
+    {
+      "word": "机票",
+      "translation": "ตั๋วเครื่องบิน",
+      "example": "",
+      "pronunciation": "jīpiào"
+    },
+    {
+      "word": "鸡蛋",
+      "translation": "ไข่ไก่",
+      "example": "",
+      "pronunciation": "jīdàn"
+    },
+    {
+      "word": "几",
+      "translation": "กี่; สองสาม",
+      "example": "",
+      "pronunciation": "jǐ"
+    },
+    {
+      "word": "记",
+      "translation": "จำ, จดบันทึก",
+      "example": "",
+      "pronunciation": "jì"
+    },
+    {
+      "word": "记得",
+      "translation": "จำได้",
+      "example": "",
+      "pronunciation": "jìde"
+    },
+    {
+      "word": "记住",
+      "translation": "จำไว้",
+      "example": "",
+      "pronunciation": "jìzhù"
+    },
+    {
+      "word": "家",
+      "translation": "บ้าน, ครอบครัว",
+      "example": "",
+      "pronunciation": "jiā"
+    },
+    {
+      "word": "家里",
+      "translation": "ในบ้าน",
+      "example": "",
+      "pronunciation": "jiāli"
+    },
+    {
+      "word": "家人",
+      "translation": "สมาชิกในครอบครัว",
+      "example": "",
+      "pronunciation": "jiārén"
+    },
+    {
+      "word": "间",
+      "translation": "ห้อง (ลักษณนาม)",
+      "example": "",
+      "pronunciation": "jiān"
+    },
+    {
+      "word": "见",
+      "translation": "พบ, เจอ",
+      "example": "",
+      "pronunciation": "jiàn"
+    },
+    {
+      "word": "见面",
+      "translation": "พบหน้ากัน",
+      "example": "",
+      "pronunciation": "jiànmiàn"
+    },
+    {
+      "word": "教",
+      "translation": "สอน",
+      "example": "",
+      "pronunciation": "jiāo"
+    },
+    {
+      "word": "叫",
+      "translation": "เรียก, ชื่อว่า",
+      "example": "",
+      "pronunciation": "jiào"
+    },
+    {
+      "word": "教学楼",
+      "translation": "ตึกเรียน",
+      "example": "",
+      "pronunciation": "jiàoxuélóu"
+    },
+    {
+      "word": "姐姐",
+      "translation": "พี่สาว",
+      "example": "",
+      "pronunciation": "jiějie"
+    },
+    {
+      "word": "介绍",
+      "translation": "แนะนำ",
+      "example": "",
+      "pronunciation": "jièshào"
+    },
+    {
+      "word": "今年",
+      "translation": "ปีนี้",
+      "example": "",
+      "pronunciation": "jīnnián"
+    },
+    {
+      "word": "今天",
+      "translation": "วันนี้",
+      "example": "",
+      "pronunciation": "jīntiān"
+    },
+    {
+      "word": "进",
+      "translation": "เข้า",
+      "example": "",
+      "pronunciation": "jìn"
+    },
+    {
+      "word": "进来",
+      "translation": "เข้ามา",
+      "example": "",
+      "pronunciation": "jìnlái"
+    },
+    {
+      "word": "进去",
+      "translation": "เข้าไป",
+      "example": "",
+      "pronunciation": "jìnqù"
+    },
+    {
+      "word": "九",
+      "translation": "เก้า",
+      "example": "",
+      "pronunciation": "jiǔ"
+    },
+    {
+      "word": "就",
+      "translation": "ก็",
+      "example": "",
+      "pronunciation": "jiù"
+    },
+    {
+      "word": "觉得",
+      "translation": "รู้สึกว่า, คิดว่า",
+      "example": "",
+      "pronunciation": "juéde"
+    },
+    {
+      "word": "开",
+      "translation": "เปิด, ขับ(รถ), จัด(ประชุม)",
+      "example": "",
+      "pronunciation": "kāi"
+    },
+    {
+      "word": "开车",
+      "translation": "ขับรถ",
+      "example": "",
+      "pronunciation": "kāichē"
+    },
+    {
+      "word": "开会",
+      "translation": "ประชุม",
+      "example": "",
+      "pronunciation": "kāihuì"
+    },
+    {
+      "word": "开玩笑",
+      "translation": "ล้อเล่น",
+      "example": "",
+      "pronunciation": "kāiwánxiào"
+    },
+    {
+      "word": "看",
+      "translation": "ดู, มอง, อ่าน",
+      "example": "",
+      "pronunciation": "kàn"
+    },
+    {
+      "word": "看病",
+      "translation": "ไปหาหมอ",
+      "example": "",
+      "pronunciation": "kànbìng"
+    },
+    {
+      "word": "看到",
+      "translation": "มองเห็น",
+      "example": "",
+      "pronunciation": "kàndào"
+    },
+    {
+      "word": "看见",
+      "translation": "มองเห็น",
+      "example": "",
+      "pronunciation": "kànjiàn"
+    },
+    {
+      "word": "考",
+      "translation": "สอบ",
+      "example": "",
+      "pronunciation": "kǎo"
+    },
+    {
+      "word": "考试",
+      "translation": "การสอบ, สอบ",
+      "example": "",
+      "pronunciation": "kǎoshì"
+    },
+    {
+      "word": "渴",
+      "translation": "กระหายน้ำ",
+      "example": "",
+      "pronunciation": "kě"
+    },
+    {
+      "word": "课",
+      "translation": "บทเรียน, วิชา, คาบเรียน",
+      "example": "",
+      "pronunciation": "kè"
+    },
+    {
+      "word": "课本",
+      "translation": "แบบเรียน, หนังสือเรียน",
+      "example": "",
+      "pronunciation": "kèběn"
+    },
+    {
+      "word": "课文",
+      "translation": "บทเรียนในหนังสือ",
+      "example": "",
+      "pronunciation": "kèwén"
+    },
+    {
+      "word": "口",
+      "translation": "ปาก; คน (ลักษณนาม)",
+      "example": "",
+      "pronunciation": "kǒu"
+    },
+    {
+      "word": "块",
+      "translation": "ก้อน, ชิ้น; หยวน",
+      "example": "",
+      "pronunciation": "kuài"
+    },
+    {
+      "word": "快",
+      "translation": "เร็ว",
+      "example": "",
+      "pronunciation": "kuài"
+    },
+    {
+      "word": "来",
+      "translation": "มา",
+      "example": "",
+      "pronunciation": "lái"
+    },
+    {
+      "word": "来到",
+      "translation": "มาถึง",
+      "example": "",
+      "pronunciation": "láidào"
+    },
+    {
+      "word": "老",
+      "translation": "แก่, เก่า",
+      "example": "",
+      "pronunciation": "lǎo"
+    },
+    {
+      "word": "老人",
+      "translation": "คนแก่, ผู้สูงอายุ",
+      "example": "",
+      "pronunciation": "lǎorén"
+    },
+    {
+      "word": "老师",
+      "translation": "ครู, อาจารย์",
+      "example": "",
+      "pronunciation": "lǎoshī"
+    },
+    {
+      "word": "了",
+      "translation": "แล้ว",
+      "example": "",
+      "pronunciation": "le"
+    },
+    {
+      "word": "累",
+      "translation": "เหนื่อย",
+      "example": "",
+      "pronunciation": "lèi"
+    },
+    {
+      "word": "冷",
+      "translation": "หนาว, เย็น",
+      "example": "",
+      "pronunciation": "lěng"
+    },
+    {
+      "word": "里",
+      "translation": "ใน",
+      "example": "",
+      "pronunciation": "lǐ"
+    },
+    {
+      "word": "里边",
+      "translation": "ข้างใน",
+      "example": "",
+      "pronunciation": "lǐbian"
+    },
+    {
+      "word": "两",
+      "translation": "สอง (ใช้กับลักษณนาม)",
+      "example": "",
+      "pronunciation": "liǎng"
+    },
+    {
+      "word": "零",
+      "translation": "ศูนย์",
+      "example": "",
+      "pronunciation": "líng"
+    },
+    {
+      "word": "六",
+      "translation": "หก",
+      "example": "",
+      "pronunciation": "liù"
+    },
+    {
+      "word": "楼",
+      "translation": "ตึก, ชั้น (ของอาคาร)",
+      "example": "",
+      "pronunciation": "lóu"
+    },
+    {
+      "word": "楼上",
+      "translation": "ชั้นบน",
+      "example": "",
+      "pronunciation": "lóushàng"
+    },
+    {
+      "word": "楼下",
+      "translation": "ชั้นล่าง",
+      "example": "",
+      "pronunciation": "lóuxià"
+    },
+    {
+      "word": "路",
+      "translation": "ถนน",
+      "example": "",
+      "pronunciation": "lù"
+    },
+    {
+      "word": "路口",
+      "translation": "สี่แยก, ทางแยก",
+      "example": "",
+      "pronunciation": "lùkǒu"
+    },
+    {
+      "word": "路上",
+      "translation": "บนถนน, ระหว่างทาง",
+      "example": "",
+      "pronunciation": "lùshang"
+    },
+    {
+      "word": "妈妈",
+      "translation": "แม่",
+      "example": "",
+      "pronunciation": "māma"
+    },
+    {
+      "word": "马路",
+      "translation": "ถนน",
+      "example": "",
+      "pronunciation": "mǎlù"
+    },
+    {
+      "word": "马上",
+      "translation": "ทันที",
+      "example": "",
+      "pronunciation": "mǎshàng"
+    },
+    {
+      "word": "吗",
+      "translation": "ไหม (คำช่วยท้ายประโยคคำถาม)",
+      "example": "",
+      "pronunciation": "ma"
+    },
+    {
+      "word": "买",
+      "translation": "ซื้อ",
+      "example": "",
+      "pronunciation": "mǎi"
+    },
+    {
+      "word": "慢",
+      "translation": "ช้า",
+      "example": "",
+      "pronunciation": "màn"
+    },
+    {
+      "word": "忙",
+      "translation": "ยุ่ง",
+      "example": "",
+      "pronunciation": "máng"
+    },
+    {
+      "word": "毛",
+      "translation": "เหมา (หน่วยเงิน)",
+      "example": "",
+      "pronunciation": "máo"
+    },
+    {
+      "word": "没",
+      "translation": "ไม่, ไม่ได้",
+      "example": "",
+      "pronunciation": "méi"
+    },
+    {
+      "word": "没关系",
+      "translation": "ไม่เป็นไร",
+      "example": "",
+      "pronunciation": "méiguānxi"
+    },
+    {
+      "word": "没什么",
+      "translation": "ไม่มีอะไร",
+      "example": "",
+      "pronunciation": "méishénme"
+    },
+    {
+      "word": "没事儿",
+      "translation": "ไม่เป็นไร, ไม่มีธุระ",
+      "example": "",
+      "pronunciation": "méishìr"
+    },
+    {
+      "word": "没有",
+      "translation": "ไม่มี",
+      "example": "",
+      "pronunciation": "méiyǒu"
+    },
+    {
+      "word": "妹妹",
+      "translation": "น้องสาว",
+      "example": "",
+      "pronunciation": "mèimei"
+    },
+    {
+      "word": "门",
+      "translation": "ประตู",
+      "example": "",
+      "pronunciation": "mén"
+    },
+    {
+      "word": "门口",
+      "translation": "ทางเข้า, หน้าประตู",
+      "example": "",
+      "pronunciation": "ménkǒu"
+    },
+    {
+      "word": "门票",
+      "translation": "ตั๋วเข้าชม",
+      "example": "",
+      "pronunciation": "ménpiào"
+    },
+    {
+      "word": "们",
+      "translation": "พวก... (ปัจจัยต่อท้าย)",
+      "example": "",
+      "pronunciation": "men"
+    },
+    {
+      "word": "米饭",
+      "translation": "ข้าวสวย",
+      "example": "",
+      "pronunciation": "mǐfàn"
+    },
+    {
+      "word": "面包",
+      "translation": "ขนมปัง",
+      "example": "",
+      "pronunciation": "miànbāo"
+    },
+    {
+      "word": "面条儿",
+      "translation": "บะหมี่, ก๋วยเตี๋ยว",
+      "example": "",
+      "pronunciation": "miàntiáor"
+    },
+    {
+      "word": "名字",
+      "translation": "ชื่อ",
+      "example": "",
+      "pronunciation": "míngzi"
+    },
+    {
+      "word": "明白",
+      "translation": "เข้าใจ; ชัดเจน",
+      "example": "",
+      "pronunciation": "míngbai"
+    },
+    {
+      "word": "明年",
+      "translation": "ปีหน้า",
+      "example": "",
+      "pronunciation": "míngnián"
+    },
+    {
+      "word": "明天",
+      "translation": "พรุ่งนี้",
+      "example": "",
+      "pronunciation": "míngtiān"
+    },
+    {
+      "word": "拿",
+      "translation": "หยิบ, ถือ",
+      "example": "",
+      "pronunciation": "ná"
+    },
+    {
+      "word": "哪",
+      "translation": "ไหน",
+      "example": "",
+      "pronunciation": "nǎ"
+    },
+    {
+      "word": "哪里",
+      "translation": "ที่ไหน",
+      "example": "",
+      "pronunciation": "nǎlǐ"
+    },
+    {
+      "word": "哪儿",
+      "translation": "ที่ไหน",
+      "example": "",
+      "pronunciation": "nǎr"
+    },
+    {
+      "word": "哪些",
+      "translation": "เหล่าไหน, พวกไหน",
+      "example": "",
+      "pronunciation": "nǎxiē"
+    },
+    {
+      "word": "那",
+      "translation": "นั่น, นั้น",
+      "example": "",
+      "pronunciation": "nà"
+    },
+    {
+      "word": "那边",
+      "translation": "ทางนั้น, ตรงนั้น",
+      "example": "",
+      "pronunciation": "nàbian"
+    },
+    {
+      "word": "那里",
+      "translation": "ที่นั่น",
+      "example": "",
+      "pronunciation": "nàlǐ"
+    },
+    {
+      "word": "那儿",
+      "translation": "ที่นั่น",
+      "example": "",
+      "pronunciation": "nàr"
+    },
+    {
+      "word": "那些",
+      "translation": "เหล่านั้น, พวกนั้น",
+      "example": "",
+      "pronunciation": "nàxiē"
+    },
+    {
+      "word": "奶",
+      "translation": "นม",
+      "example": "",
+      "pronunciation": "nǎi"
+    },
+    {
+      "word": "奶奶",
+      "translation": "ย่า, ยาย",
+      "example": "",
+      "pronunciation": "nǎinai"
+    },
+    {
+      "word": "男",
+      "translation": "ชาย",
+      "example": "",
+      "pronunciation": "nán"
+    },
+    {
+      "word": "男孩儿",
+      "translation": "เด็กผู้ชาย",
+      "example": "",
+      "pronunciation": "nánháir"
+    },
+    {
+      "word": "男朋友",
+      "translation": "แฟน (ผู้ชาย)",
+      "example": "",
+      "pronunciation": "nánpéngyou"
+    },
+    {
+      "word": "男人",
+      "translation": "ผู้ชาย",
+      "example": "",
+      "pronunciation": "nánrén"
+    },
+    {
+      "word": "男生",
+      "translation": "นักเรียนชาย",
+      "example": "",
+      "pronunciation": "nánshēng"
+    },
+    {
+      "word": "南",
+      "translation": "ทิศใต้",
+      "example": "",
+      "pronunciation": "nán"
+    },
+    {
+      "word": "南边",
+      "translation": "ทางทิศใต้",
+      "example": "",
+      "pronunciation": "nánbian"
+    },
+    {
+      "word": "难",
+      "translation": "ยาก",
+      "example": "",
+      "pronunciation": "nán"
+    },
+    {
+      "word": "呢",
+      "translation": "ล่ะ (คำช่วยท้ายประโยคคำถาม)",
+      "example": "",
+      "pronunciation": "ne"
+    },
+    {
+      "word": "能",
+      "translation": "สามารถ, ได้",
+      "example": "",
+      "pronunciation": "néng"
+    },
+    {
+      "word": "你",
+      "translation": "คุณ, เธอ",
+      "example": "",
+      "pronunciation": "nǐ"
+    },
+    {
+      "word": "你们",
+      "translation": "พวกคุณ, พวกเธอ",
+      "example": "",
+      "pronunciation": "nǐmen"
+    },
+    {
+      "word": "年",
+      "translation": "ปี",
+      "example": "",
+      "pronunciation": "nián"
+    },
+    {
+      "word": "您",
+      "translation": "ท่าน (รูปสุภาพของ 你)",
+      "example": "",
+      "pronunciation": "nín"
+    },
+    {
+      "word": "牛奶",
+      "translation": "นมวัว",
+      "example": "",
+      "pronunciation": "niúnǎi"
+    },
+    {
+      "word": "女",
+      "translation": "หญิง",
+      "example": "",
+      "pronunciation": "nǚ"
+    },
+    {
+      "word": "女儿",
+      "translation": "ลูกสาว",
+      "example": "",
+      "pronunciation": "nǚ'ér"
+    },
+    {
+      "word": "女孩儿",
+      "translation": "เด็กผู้หญิง",
+      "example": "",
+      "pronunciation": "nǚháir"
+    },
+    {
+      "word": "女朋友",
+      "translation": "แฟน (ผู้หญิง)",
+      "example": "",
+      "pronunciation": "nǚpéngyou"
+    },
+    {
+      "word": "女人",
+      "translation": "ผู้หญิง",
+      "example": "",
+      "pronunciation": "nǚrén"
+    },
+    {
+      "word": "女生",
+      "translation": "นักเรียนหญิง",
+      "example": "",
+      "pronunciation": "nǚshēng"
+    },
+    {
+      "word": "旁边",
+      "translation": "ข้างๆ",
+      "example": "",
+      "pronunciation": "pángbiān"
+    },
+    {
+      "word": "跑",
+      "translation": "วิ่ง",
+      "example": "",
+      "pronunciation": "pǎo"
+    },
+    {
+      "word": "朋友",
+      "translation": "เพื่อน",
+      "example": "",
+      "pronunciation": "péngyou"
+    },
+    {
+      "word": "票",
+      "translation": "ตั๋ว",
+      "example": "",
+      "pronunciation": "piào"
+    },
+    {
+      "word": "七",
+      "translation": "เจ็ด",
+      "example": "",
+      "pronunciation": "qī"
+    },
+    {
+      "word": "起",
+      "translation": "ลุกขึ้น",
+      "example": "",
+      "pronunciation": "qǐ"
+    },
+    {
+      "word": "起床",
+      "translation": "ตื่นนอน",
+      "example": "",
+      "pronunciation": "qǐchuáng"
+    },
+    {
+      "word": "起来",
+      "translation": "ลุกขึ้นมา",
+      "example": "",
+      "pronunciation": "qǐlái"
+    },
+    {
+      "word": "汽车",
+      "translation": "รถยนต์",
+      "example": "",
+      "pronunciation": "qìchē"
+    },
+    {
+      "word": "前",
+      "translation": "หน้า, ก่อน",
+      "example": "",
+      "pronunciation": "qián"
+    },
+    {
+      "word": "前边",
+      "translation": "ด้านหน้า",
+      "example": "",
+      "pronunciation": "qiánbian"
+    },
+    {
+      "word": "前天",
+      "translation": "เมื่อวานซืน",
+      "example": "",
+      "pronunciation": "qiántiān"
+    },
+    {
+      "word": "钱",
+      "translation": "เงิน",
+      "example": "",
+      "pronunciation": "qián"
+    },
+    {
+      "word": "钱包",
+      "translation": "กระเป๋าสตางค์",
+      "example": "",
+      "pronunciation": "qiánbāo"
+    },
+    {
+      "word": "请",
+      "translation": "เชิญ, กรุณา, ขอ",
+      "example": "",
+      "pronunciation": "qǐng"
+    },
+    {
+      "word": "请假",
+      "translation": "ลาหยุด",
+      "example": "",
+      "pronunciation": "qǐngjià"
+    },
+    {
+      "word": "请进",
+      "translation": "เชิญเข้า",
+      "example": "",
+      "pronunciation": "qǐngjìn"
+    },
+    {
+      "word": "请问",
+      "translation": "ขอถามหน่อย",
+      "example": "",
+      "pronunciation": "qǐngwèn"
+    },
+    {
+      "word": "请坐",
+      "translation": "เชิญนั่ง",
+      "example": "",
+      "pronunciation": "qǐngzuò"
+    },
+    {
+      "word": "球",
+      "translation": "บอล, ลูกบอล",
+      "example": "",
+      "pronunciation": "qiú"
+    },
+    {
+      "word": "去",
+      "translation": "ไป",
+      "example": "",
+      "pronunciation": "qù"
+    },
+    {
+      "word": "去年",
+      "translation": "ปีที่แล้ว",
+      "example": "",
+      "pronunciation": "qùnián"
+    },
+    {
+      "word": "热",
+      "translation": "ร้อน",
+      "example": "",
+      "pronunciation": "rè"
+    },
+    {
+      "word": "人",
+      "translation": "คน",
+      "example": "",
+      "pronunciation": "rén"
+    },
+    {
+      "word": "认识",
+      "translation": "รู้จัก",
+      "example": "",
+      "pronunciation": "rènshi"
+    },
+    {
+      "word": "认真",
+      "translation": "จริงจัง, ตั้งใจ",
+      "example": "",
+      "pronunciation": "rènzhēn"
+    },
+    {
+      "word": "日",
+      "translation": "วัน, พระอาทิตย์",
+      "example": "",
+      "pronunciation": "rì"
+    },
+    {
+      "word": "日期",
+      "translation": "วันที่",
+      "example": "",
+      "pronunciation": "rìqī"
+    },
+    {
+      "word": "肉",
+      "translation": "เนื้อสัตว์",
+      "example": "",
+      "pronunciation": "ròu"
+    },
+    {
+      "word": "三",
+      "translation": "สาม",
+      "example": "",
+      "pronunciation": "sān"
+    },
+    {
+      "word": "山",
+      "translation": "ภูเขา",
+      "example": "",
+      "pronunciation": "shān"
+    },
+    {
+      "word": "商场",
+      "translation": "ห้างสรรพสินค้า",
+      "example": "",
+      "pronunciation": "shāngchǎng"
+    },
+    {
+      "word": "商店",
+      "translation": "ร้านค้า",
+      "example": "",
+      "pronunciation": "shāngdiàn"
+    },
+    {
+      "word": "上",
+      "translation": "บน, ขึ้น, เข้า(เรียน/งาน)",
+      "example": "",
+      "pronunciation": "shàng"
+    },
+    {
+      "word": "上班",
+      "translation": "เข้างาน, ไปทำงาน",
+      "example": "",
+      "pronunciation": "shàngbān"
+    },
+    {
+      "word": "上边",
+      "translation": "ด้านบน",
+      "example": "",
+      "pronunciation": "shàngbian"
+    },
+    {
+      "word": "上车",
+      "translation": "ขึ้นรถ",
+      "example": "",
+      "pronunciation": "shàngchē"
+    },
+    {
+      "word": "上次",
+      "translation": "ครั้งที่แล้ว",
+      "example": "",
+      "pronunciation": "shàngcì"
+    },
+    {
+      "word": "上课",
+      "translation": "เข้าเรียน",
+      "example": "",
+      "pronunciation": "shàngkè"
+    },
+    {
+      "word": "上网",
+      "translation": "เล่นอินเทอร์เน็ต",
+      "example": "",
+      "pronunciation": "shàngwǎng"
+    },
+    {
+      "word": "上午",
+      "translation": "ตอนเช้า",
+      "example": "",
+      "pronunciation": "shàngwǔ"
+    },
+    {
+      "word": "上学",
+      "translation": "ไปโรงเรียน",
+      "example": "",
+      "pronunciation": "shàngxué"
+    },
+    {
+      "word": "少",
+      "translation": "น้อย",
+      "example": "",
+      "pronunciation": "shǎo"
+    },
+    {
+      "word": "谁",
+      "translation": "ใคร",
+      "example": "",
+      "pronunciation": "shuí/shéi"
+    },
+    {
+      "word": "身上",
+      "translation": "บนร่างกาย, ในตัว",
+      "example": "",
+      "pronunciation": "shēnshang"
+    },
+    {
+      "word": "身体",
+      "translation": "ร่างกาย, สุขภาพ",
+      "example": "",
+      "pronunciation": "shēntǐ"
+    },
+    {
+      "word": "什么",
+      "translation": "อะไร",
+      "example": "",
+      "pronunciation": "shénme"
+    },
+    {
+      "word": "生病",
+      "translation": "ป่วย",
+      "example": "",
+      "pronunciation": "shēngbìng"
+    },
+    {
+      "word": "生气",
+      "translation": "โกรธ",
+      "example": "",
+      "pronunciation": "shēngqì"
+    },
+    {
+      "word": "生日",
+      "translation": "วันเกิด",
+      "example": "",
+      "pronunciation": "shēngrì"
+    },
+    {
+      "word": "十",
+      "translation": "สิบ",
+      "example": "",
+      "pronunciation": "shí"
+    },
+    {
+      "word": "时候",
+      "translation": "เวลา, ตอนที่",
+      "example": "",
+      "pronunciation": "shíhou"
+    },
+    {
+      "word": "时间",
+      "translation": "เวลา",
+      "example": "",
+      "pronunciation": "shíjiān"
+    },
+    {
+      "word": "事",
+      "translation": "เรื่อง, ธุระ",
+      "example": "",
+      "pronunciation": "shì"
+    },
+    {
+      "word": "试",
+      "translation": "ลอง",
+      "example": "",
+      "pronunciation": "shì"
+    },
+    {
+      "word": "是",
+      "translation": "คือ, เป็น, ใช่",
+      "example": "",
+      "pronunciation": "shì"
+    },
+    {
+      "word": "是不是",
+      "translation": "ใช่หรือไม่",
+      "example": "",
+      "pronunciation": "shìbushì"
+    },
+    {
+      "word": "手",
+      "translation": "มือ",
+      "example": "",
+      "pronunciation": "shǒu"
+    },
+    {
+      "word": "手机",
+      "translation": "โทรศัพท์มือถือ",
+      "example": "",
+      "pronunciation": "shǒujī"
+    },
+    {
+      "word": "书",
+      "translation": "หนังสือ",
+      "example": "",
+      "pronunciation": "shū"
+    },
+    {
+      "word": "书包",
+      "translation": "กระเป๋านักเรียน",
+      "example": "",
+      "pronunciation": "shūbāo"
+    },
+    {
+      "word": "书店",
+      "translation": "ร้านหนังสือ",
+      "example": "",
+      "pronunciation": "shūdiàn"
+    },
+    {
+      "word": "树",
+      "translation": "ต้นไม้",
+      "example": "",
+      "pronunciation": "shù"
+    },
+    {
+      "word": "水",
+      "translation": "น้ำ",
+      "example": "",
+      "pronunciation": "shuǐ"
+    },
+    {
+      "word": "水果",
+      "translation": "ผลไม้",
+      "example": "",
+      "pronunciation": "shuǐguǒ"
+    },
+    {
+      "word": "睡",
+      "translation": "นอน",
+      "example": "",
+      "pronunciation": "shuì"
+    },
+    {
+      "word": "睡觉",
+      "translation": "นอนหลับ",
+      "example": "",
+      "pronunciation": "shuìjiào"
+    },
+    {
+      "word": "说",
+      "translation": "พูด",
+      "example": "",
+      "pronunciation": "shuō"
+    },
+    {
+      "word": "说话",
+      "translation": "พูดคุย",
+      "example": "",
+      "pronunciation": "shuōhuà"
+    },
+    {
+      "word": "四",
+      "translation": "สี่",
+      "example": "",
+      "pronunciation": "sì"
+    },
+    {
+      "word": "送",
+      "translation": "ให้(ของขวัญ), ไปส่ง",
+      "example": "",
+      "pronunciation": "sòng"
+    },
+    {
+      "word": "岁",
+      "translation": "ขวบ, ปี (อายุ)",
+      "example": "",
+      "pronunciation": "suì"
+    },
+    {
+      "word": "他",
+      "translation": "เขา (ผู้ชาย)",
+      "example": "",
+      "pronunciation": "tā"
+    },
+    {
+      "word": "他们",
+      "translation": "พวกเขา (ผู้ชาย)",
+      "example": "",
+      "pronunciation": "tāmen"
+    },
+    {
+      "word": "她",
+      "translation": "เขา, เธอ (ผู้หญิง)",
+      "example": "",
+      "pronunciation": "tā"
+    },
+    {
+      "word": "她们",
+      "translation": "พวกเขา (ผู้หญิง)",
+      "example": "",
+      "pronunciation": "tāmen"
+    },
+    {
+      "word": "太",
+      "translation": "...เกินไป",
+      "example": "",
+      "pronunciation": "tài"
+    },
+    {
+      "word": "天",
+      "translation": "วัน, ท้องฟ้า",
+      "example": "",
+      "pronunciation": "tiān"
+    },
+    {
+      "word": "天气",
+      "translation": "อากาศ",
+      "example": "",
+      "pronunciation": "tiānqì"
+    },
+    {
+      "word": "听",
+      "translation": "ฟัง",
+      "example": "",
+      "pronunciation": "tīng"
+    },
+    {
+      "word": "听到",
+      "translation": "ได้ยิน",
+      "example": "",
+      "pronunciation": "tīngdào"
+    },
+    {
+      "word": "听见",
+      "translation": "ได้ยิน",
+      "example": "",
+      "pronunciation": "tīngjiàn"
+    },
+    {
+      "word": "听写",
+      "translation": "เขียนตามคำบอก",
+      "example": "",
+      "pronunciation": "tīngxiě"
+    },
+    {
+      "word": "同学",
+      "translation": "เพื่อนนักเรียน",
+      "example": "",
+      "pronunciation": "tóngxué"
+    },
+    {
+      "word": "图书馆",
+      "translation": "ห้องสมุด",
+      "example": "",
+      "pronunciation": "túshūguǎn"
+    },
+    {
+      "word": "外",
+      "translation": "นอก",
+      "example": "",
+      "pronunciation": "wài"
+    },
+    {
+      "word": "外边",
+      "translation": "ข้างนอก",
+      "example": "",
+      "pronunciation": "wàibian"
+    },
+    {
+      "word": "外国",
+      "translation": "ต่างประเทศ",
+      "example": "",
+      "pronunciation": "wàiguó"
+    },
+    {
+      "word": "外语",
+      "translation": "ภาษาต่างประเทศ",
+      "example": "",
+      "pronunciation": "wàiyǔ"
+    },
+    {
+      "word": "玩儿",
+      "translation": "เล่น, เที่ยว",
+      "example": "",
+      "pronunciation": "wánr"
+    },
+    {
+      "word": "晚",
+      "translation": "ดึก, ค่ำ, สาย",
+      "example": "",
+      "pronunciation": "wǎn"
+    },
+    {
+      "word": "晚饭",
+      "translation": "อาหารเย็น",
+      "example": "",
+      "pronunciation": "wǎnfàn"
+    },
+    {
+      "word": "晚上",
+      "translation": "ตอนเย็น, ตอนค่ำ",
+      "example": "",
+      "pronunciation": "wǎnshang"
+    },
+    {
+      "word": "网上",
+      "translation": "บนอินเทอร์เน็ต, ออนไลน์",
+      "example": "",
+      "pronunciation": "wǎngshang"
+    },
+    {
+      "word": "网友",
+      "translation": "เพื่อนทางอินเทอร์เน็ต",
+      "example": "",
+      "pronunciation": "wǎngyǒu"
+    },
+    {
+      "word": "忘",
+      "translation": "ลืม",
+      "example": "",
+      "pronunciation": "wàng"
+    },
+    {
+      "word": "忘记",
+      "translation": "ลืม",
+      "example": "",
+      "pronunciation": "wàngjì"
+    },
+    {
+      "word": "问",
+      "translation": "ถาม",
+      "example": "",
+      "pronunciation": "wèn"
+    },
+    {
+      "word": "我",
+      "translation": "ฉัน, ผม, ดิฉัน",
+      "example": "",
+      "pronunciation": "wǒ"
+    },
+    {
+      "word": "我们",
+      "translation": "พวกเรา",
+      "example": "",
+      "pronunciation": "wǒmen"
+    },
+    {
+      "word": "五",
+      "translation": "ห้า",
+      "example": "",
+      "pronunciation": "wǔ"
+    },
+    {
+      "word": "午饭",
+      "translation": "อาหารกลางวัน",
+      "example": "",
+      "pronunciation": "wǔfàn"
+    },
+    {
+      "word": "西",
+      "translation": "ทิศตะวันตก",
+      "example": "",
+      "pronunciation": "xī"
+    },
+    {
+      "word": "西边",
+      "translation": "ทางทิศตะวันตก",
+      "example": "",
+      "pronunciation": "xībian"
+    },
+    {
+      "word": "洗",
+      "translation": "ล้าง, ซัก",
+      "example": "",
+      "pronunciation": "xǐ"
+    },
+    {
+      "word": "洗手间",
+      "translation": "ห้องน้ำ",
+      "example": "",
+      "pronunciation": "xǐshǒujiān"
+    },
+    {
+      "word": "喜欢",
+      "translation": "ชอบ",
+      "example": "",
+      "pronunciation": "xǐhuan"
+    },
+    {
+      "word": "下",
+      "translation": "ล่าง, ลง, เลิก(เรียน/งาน)",
+      "example": "",
+      "pronunciation": "xià"
+    },
+    {
+      "word": "下班",
+      "translation": "เลิกงาน",
+      "example": "",
+      "pronunciation": "xiàbān"
+    },
+    {
+      "word": "下边",
+      "translation": "ด้านล่าง",
+      "example": "",
+      "pronunciation": "xiàbian"
+    },
+    {
+      "word": "下车",
+      "translation": "ลงรถ",
+      "example": "",
+      "pronunciation": "xiàchē"
+    },
+    {
+      "word": "下次",
+      "translation": "ครั้งหน้า",
+      "example": "",
+      "pronunciation": "xiàcì"
+    },
+    {
+      "word": "下课",
+      "translation": "เลิกเรียน",
+      "example": "",
+      "pronunciation": "xiàkè"
+    },
+    {
+      "word": "下午",
+      "translation": "ตอนบ่าย",
+      "example": "",
+      "pronunciation": "xiàwǔ"
+    },
+    {
+      "word": "下雨",
+      "translation": "ฝนตก",
+      "example": "",
+      "pronunciation": "xiàyǔ"
+    },
+    {
+      "word": "先",
+      "translation": "ก่อน",
+      "example": "",
+      "pronunciation": "xiān"
+    },
+    {
+      "word": "先生",
+      "translation": "คุณผู้ชาย, สามี",
+      "example": "",
+      "pronunciation": "xiānsheng"
+    },
+    {
+      "word": "现在",
+      "translation": "ตอนนี้",
+      "example": "",
+      "pronunciation": "xiànzài"
+    },
+    {
+      "word": "想",
+      "translation": "คิด, อยาก, คิดถึง",
+      "example": "",
+      "pronunciation": "xiǎng"
+    },
+    {
+      "word": "小",
+      "translation": "เล็ก",
+      "example": "",
+      "pronunciation": "xiǎo"
+    },
+    {
+      "word": "小孩儿",
+      "translation": "เด็กเล็ก",
+      "example": "",
+      "pronunciation": "xiǎoháir"
+    },
+    {
+      "word": "小姐",
+      "translation": "คุณผู้หญิง (ยังไม่แต่งงาน)",
+      "example": "",
+      "pronunciation": "xiǎojiě"
+    },
+    {
+      "word": "小朋友",
+      "translation": "เด็กๆ (คำเรียกที่เป็นมิตร)",
+      "example": "",
+      "pronunciation": "xiǎopéngyǒu"
+    },
+    {
+      "word": "小时",
+      "translation": "ชั่วโมง",
+      "example": "",
+      "pronunciation": "xiǎoshí"
+    },
+    {
+      "word": "小学",
+      "translation": "โรงเรียนประถม",
+      "example": "",
+      "pronunciation": "xiǎoxué"
+    },
+    {
+      "word": "小学生",
+      "translation": "นักเรียนประถม",
+      "example": "",
+      "pronunciation": "xiǎoxuéshēng"
+    },
+    {
+      "word": "笑",
+      "translation": "หัวเราะ, ยิ้ม",
+      "example": "",
+      "pronunciation": "xiào"
+    },
+    {
+      "word": "写",
+      "translation": "เขียน",
+      "example": "",
+      "pronunciation": "xiě"
+    },
+    {
+      "word": "谢谢",
+      "translation": "ขอบคุณ",
+      "example": "",
+      "pronunciation": "xièxie"
+    },
+    {
+      "word": "新",
+      "translation": "ใหม่",
+      "example": "",
+      "pronunciation": "xīn"
+    },
+    {
+      "word": "新年",
+      "translation": "ปีใหม่",
+      "example": "",
+      "pronunciation": "xīnnián"
+    },
+    {
+      "word": "星期",
+      "translation": "สัปดาห์, วัน...ในสัปดาห์",
+      "example": "",
+      "pronunciation": "xīngqī"
+    },
+    {
+      "word": "星期日",
+      "translation": "วันอาทิตย์",
+      "example": "",
+      "pronunciation": "xīngqīrì"
+    },
+    {
+      "word": "星期天",
+      "translation": "วันอาทิตย์",
+      "example": "",
+      "pronunciation": "xīngqītiān"
+    },
+    {
+      "word": "行",
+      "translation": "ได้, โอเค",
+      "example": "",
+      "pronunciation": "xíng"
+    },
+    {
+      "word": "休息",
+      "translation": "พักผ่อน",
+      "example": "",
+      "pronunciation": "xiūxi"
+    },
+    {
+      "word": "学",
+      "translation": "เรียน",
+      "example": "",
+      "pronunciation": "xué"
+    },
+    {
+      "word": "学生",
+      "translation": "นักเรียน, นักศึกษา",
+      "example": "",
+      "pronunciation": "xuésheng"
+    },
+    {
+      "word": "学习",
+      "translation": "เรียน, การเรียน",
+      "example": "",
+      "pronunciation": "xuéxí"
+    },
+    {
+      "word": "学校",
+      "translation": "โรงเรียน",
+      "example": "",
+      "pronunciation": "xuéxiào"
+    },
+    {
+      "word": "学院",
+      "translation": "วิทยาลัย, คณะ",
+      "example": "",
+      "pronunciation": "xuéyuàn"
+    },
+    {
+      "word": "要",
+      "translation": "ต้องการ, จะ, ต้อง",
+      "example": "",
+      "pronunciation": "yào"
+    },
+    {
+      "word": "爷爷",
+      "translation": "ปู่, ตา",
+      "example": "",
+      "pronunciation": "yéye"
+    },
+    {
+      "word": "也",
+      "translation": "ก็...ด้วย, ก็...เหมือนกัน",
+      "example": "",
+      "pronunciation": "yě"
+    },
+    {
+      "word": "页",
+      "translation": "หน้า (ของหนังสือ)",
+      "example": "",
+      "pronunciation": "yè"
+    },
+    {
+      "word": "一",
+      "translation": "หนึ่ง",
+      "example": "",
+      "pronunciation": "yī"
+    },
+    {
+      "word": "衣服",
+      "translation": "เสื้อผ้า",
+      "example": "",
+      "pronunciation": "yīfu"
+    },
+    {
+      "word": "医生",
+      "translation": "หมอ, แพทย์",
+      "example": "",
+      "pronunciation": "yīshēng"
+    },
+    {
+      "word": "医院",
+      "translation": "โรงพยาบาล",
+      "example": "",
+      "pronunciation": "yīyuàn"
+    },
+    {
+      "word": "一半",
+      "translation": "ครึ่งหนึ่ง",
+      "example": "",
+      "pronunciation": "yíbàn"
+    },
+    {
+      "word": "一会儿",
+      "translation": "สักครู่, แป๊บหนึ่ง",
+      "example": "",
+      "pronunciation": "yìhuǐr"
+    },
+    {
+      "word": "一块儿",
+      "translation": "ด้วยกัน",
+      "example": "",
+      "pronunciation": "yíkuàir"
+    },
+    {
+      "word": "一下儿",
+      "translation": "สักหน่อย, สักครู่",
+      "example": "",
+      "pronunciation": "yíxiàr"
+    },
+    {
+      "word": "一样",
+      "translation": "เหมือนกัน",
+      "example": "",
+      "pronunciation": "yíyàng"
+    },
+    {
+      "word": "一边",
+      "translation": "...ไปด้วย...ไปด้วย",
+      "example": "",
+      "pronunciation": "yìbiān"
+    },
+    {
+      "word": "一点儿",
+      "translation": "นิดหน่อย",
+      "example": "",
+      "pronunciation": "yìdiǎnr"
+    },
+    {
+      "word": "一起",
+      "translation": "ด้วยกัน",
+      "example": "",
+      "pronunciation": "yìqǐ"
+    },
+    {
+      "word": "一些",
+      "translation": "บ้างจำนวนหนึ่ง",
+      "example": "",
+      "pronunciation": "yìxiē"
+    },
+    {
+      "word": "用",
+      "translation": "ใช้",
+      "example": "",
+      "pronunciation": "yòng"
+    },
+    {
+      "word": "有",
+      "translation": "มี",
+      "example": "",
+      "pronunciation": "yǒu"
+    },
+    {
+      "word": "有的",
+      "translation": "บางอัน, บางคน",
+      "example": "",
+      "pronunciation": "yǒude"
+    },
+    {
+      "word": "有名",
+      "translation": "มีชื่อเสียง",
+      "example": "",
+      "pronunciation": "yǒumíng"
+    },
+    {
+      "word": "有时候",
+      "translation": "บางครั้ง",
+      "example": "",
+      "pronunciation": "yǒushíhou"
+    },
+    {
+      "word": "有一些",
+      "translation": "บางอย่าง, บ้าง",
+      "example": "",
+      "pronunciation": "yǒuyìxiē"
+    },
+    {
+      "word": "有用",
+      "translation": "มีประโยชน์",
+      "example": "",
+      "pronunciation": "yǒuyòng"
+    },
+    {
+      "word": "右",
+      "translation": "ขวา",
+      "example": "",
+      "pronunciation": "yòu"
+    },
+    {
+      "word": "右边",
+      "translation": "ด้านขวา",
+      "example": "",
+      "pronunciation": "yòubian"
+    },
+    {
+      "word": "雨",
+      "translation": "ฝน",
+      "example": "",
+      "pronunciation": "yǔ"
+    },
+    {
+      "word": "元",
+      "translation": "หยวน (หน่วยเงิน)",
+      "example": "",
+      "pronunciation": "yuán"
+    },
+    {
+      "word": "远",
+      "translation": "ไกล",
+      "example": "",
+      "pronunciation": "yuǎn"
+    },
+    {
+      "word": "月",
+      "translation": "เดือน, พระจันทร์",
+      "example": "",
+      "pronunciation": "yuè"
+    },
+    {
+      "word": "再",
+      "translation": "อีกครั้ง, ค่อย",
+      "example": "",
+      "pronunciation": "zài"
+    },
+    {
+      "word": "再见",
+      "translation": "ลาก่อน",
+      "example": "",
+      "pronunciation": "zàijiàn"
+    },
+    {
+      "word": "在",
+      "translation": "อยู่ที่, กำลัง...อยู่",
+      "example": "",
+      "pronunciation": "zài"
+    },
+    {
+      "word": "在家",
+      "translation": "อยู่บ้าน",
+      "example": "",
+      "pronunciation": "zàijiā"
+    },
+    {
+      "word": "早",
+      "translation": "เช้า, เร็ว",
+      "example": "",
+      "pronunciation": "zǎo"
+    },
+    {
+      "word": "早饭",
+      "translation": "อาหารเช้า",
+      "example": "",
+      "pronunciation": "zǎofàn"
+    },
+    {
+      "word": "早上",
+      "translation": "ตอนเช้า",
+      "example": "",
+      "pronunciation": "zǎoshang"
+    },
+    {
+      "word": "怎么",
+      "translation": "อย่างไร, ทำไม",
+      "example": "",
+      "pronunciation": "zěnme"
+    },
+    {
+      "word": "站",
+      "translation": "ยืน, สถานี, เว็บไซต์",
+      "example": "",
+      "pronunciation": "zhàn"
+    },
+    {
+      "word": "找",
+      "translation": "หา, ค้นหา, ทอนเงิน",
+      "example": "",
+      "pronunciation": "zhǎo"
+    },
+    {
+      "word": "找到",
+      "translation": "หาเจอ",
+      "example": "",
+      "pronunciation": "zhǎodào"
+    },
+    {
+      "word": "这",
+      "translation": "นี่, นี้",
+      "example": "",
+      "pronunciation": "zhè"
+    },
+    {
+      "word": "这边",
+      "translation": "ทางนี้, ตรงนี้",
+      "example": "",
+      "pronunciation": "zhèbiān"
+    },
+    {
+      "word": "这里",
+      "translation": "ที่นี่",
+      "example": "",
+      "pronunciation": "zhèlǐ"
+    },
+    {
+      "word": "这儿",
+      "translation": "ที่นี่",
+      "example": "",
+      "pronunciation": "zhèr"
+    },
+    {
+      "word": "这些",
+      "translation": "เหล่านี้, พวกนี้",
+      "example": "",
+      "pronunciation": "zhèxiē"
+    },
+    {
+      "word": "着",
+      "translation": "...อยู่ (คำช่วย)",
+      "example": "",
+      "pronunciation": "zhe"
+    },
+    {
+      "word": "真",
+      "translation": "จริงๆ",
+      "example": "",
+      "pronunciation": "zhēn"
+    },
+    {
+      "word": "真的",
+      "translation": "จริงๆ, ของจริง",
+      "example": "",
+      "pronunciation": "zhēnde"
+    },
+    {
+      "word": "正",
+      "translation": "กำลัง",
+      "example": "",
+      "pronunciation": "zhèng"
+    },
+    {
+      "word": "正在",
+      "translation": "กำลัง...อยู่",
+      "example": "",
+      "pronunciation": "zhèngzài"
+    },
+    {
+      "word": "知道",
+      "translation": "รู้, ทราบ",
+      "example": "",
+      "pronunciation": "zhīdào"
+    },
+    {
+      "word": "知识",
+      "translation": "ความรู้",
+      "example": "",
+      "pronunciation": "zhīshi"
+    },
+    {
+      "word": "中",
+      "translation": "กลาง, ใน",
+      "example": "",
+      "pronunciation": "zhōng"
+    },
+    {
+      "word": "中国",
+      "translation": "ประเทศจีน",
+      "example": "",
+      "pronunciation": "Zhōngguó"
+    },
+    {
+      "word": "中间",
+      "translation": "ตรงกลาง, ระหว่าง",
+      "example": "",
+      "pronunciation": "zhōngjiān"
+    },
+    {
+      "word": "中文",
+      "translation": "ภาษาจีน",
+      "example": "",
+      "pronunciation": "Zhōngwén"
+    },
+    {
+      "word": "中午",
+      "translation": "ตอนเที่ยง",
+      "example": "",
+      "pronunciation": "zhōngwǔ"
+    },
+    {
+      "word": "中学",
+      "translation": "โรงเรียนมัธยม",
+      "example": "",
+      "pronunciation": "zhōngxué"
+    },
+    {
+      "word": "中学生",
+      "translation": "นักเรียนมัธยม",
+      "example": "",
+      "pronunciation": "zhōngxuéshēng"
+    },
+    {
+      "word": "重",
+      "translation": "หนัก",
+      "example": "",
+      "pronunciation": "zhòng"
+    },
+    {
+      "word": "重要",
+      "translation": "สำคัญ",
+      "example": "",
+      "pronunciation": "zhòngyào"
+    },
+    {
+      "word": "住",
+      "translation": "อาศัยอยู่",
+      "example": "",
+      "pronunciation": "zhù"
+    },
+    {
+      "word": "准备",
+      "translation": "เตรียม, เตรียมตัว",
+      "example": "",
+      "pronunciation": "zhǔnbèi"
+    },
+    {
+      "word": "桌子",
+      "translation": "โต๊ะ",
+      "example": "",
+      "pronunciation": "zhuōzi"
+    },
+    {
+      "word": "字",
+      "translation": "ตัวอักษร",
+      "example": "",
+      "pronunciation": "zì"
+    },
+    {
+      "word": "子",
+      "translation": "(คำเสริมท้าย)",
+      "example": "",
+      "pronunciation": "zi"
+    },
+    {
+      "word": "走",
+      "translation": "เดิน, ไป",
+      "example": "",
+      "pronunciation": "zǒu"
+    },
+    {
+      "word": "走路",
+      "translation": "เดิน",
+      "example": "",
+      "pronunciation": "zǒulù"
+    },
+    {
+      "word": "最",
+      "translation": "ที่สุด",
+      "example": "",
+      "pronunciation": "zuì"
+    },
+    {
+      "word": "最好",
+      "translation": "ดีที่สุด; ทางที่ดีที่สุดคือ...",
+      "example": "",
+      "pronunciation": "zuìhǎo"
+    },
+    {
+      "word": "最后",
+      "translation": "สุดท้าย",
+      "example": "",
+      "pronunciation": "zuìhòu"
+    },
+    {
+      "word": "昨天",
+      "translation": "เมื่อวาน",
+      "example": "",
+      "pronunciation": "zuótiān"
+    },
+    {
+      "word": "左",
+      "translation": "ซ้าย",
+      "example": "",
+      "pronunciation": "zuǒ"
+    },
+    {
+      "word": "左边",
+      "translation": "ด้านซ้าย",
+      "example": "",
+      "pronunciation": "zuǒbian"
+    },
+    {
+      "word": "坐",
+      "translation": "นั่ง",
+      "example": "",
+      "pronunciation": "zuò"
+    },
+    {
+      "word": "坐下",
+      "translation": "นั่งลง",
+      "example": "",
+      "pronunciation": "zuòxia"
+    },
+    {
+      "word": "做",
+      "translation": "ทำ",
+      "example": "",
+      "pronunciation": "zuò"
+    }
+  ]
+}

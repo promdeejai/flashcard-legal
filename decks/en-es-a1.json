@@ -4,3542 +4,4249 @@
   "learn": "en",
   "native": "es",
   "level": "A1",
-  "version": 28,
+  "version": 32,
   "items": [
     {
       "word": "action",
       "translation": "la acción",
-      "example": "She takes action now."
+      "example": "She takes action now.",
+      "phonics": "/ˈækʃən/"
     },
     {
       "word": "activity",
       "translation": "la actividad",
-      "example": "The main activity is swimming."
+      "example": "The main activity is swimming.",
+      "phonics": "/ækˈtɪvəti/, /ækˈtɪvɪti/"
     },
     {
       "word": "actor",
       "translation": "el actor",
-      "example": "The actor forgets his line."
+      "example": "The actor forgets his line.",
+      "phonics": "/ˈæktɝ/"
     },
     {
       "word": "actress",
       "translation": "la actriz",
-      "example": "The actress waves at people."
+      "example": "The actress waves at people.",
+      "phonics": "/ˈæktrəs/"
     },
     {
       "word": "add",
       "translation": "añadir",
-      "example": "Add a little salt."
+      "example": "Add a little salt.",
+      "phonics": "/ˈæd/"
     },
     {
       "word": "address",
       "translation": "la dirección",
-      "example": "Write your address on the form."
+      "example": "Write your address on the form.",
+      "phonics": "/ˈæˌdrɛs/, /əˈdrɛs/"
     },
     {
       "word": "adult",
       "translation": "el adulto",
-      "example": "One adult and two children, please."
+      "example": "One adult and two children, please.",
+      "phonics": "/ˈædəlt/, /əˈdəlt/"
     },
     {
       "word": "advice",
       "translation": "el consejo",
-      "example": "Her advice always helps me."
+      "example": "Her advice always helps me.",
+      "phonics": "/ædˈvaɪs/, /ədˈvaɪs/"
     },
     {
       "word": "afraid",
       "translation": "asustado",
-      "example": "She is afraid of dogs."
+      "example": "She is afraid of dogs.",
+      "phonics": "/əˈfreɪd/"
     },
     {
       "word": "after",
       "translation": "después de",
-      "example": "We talk after class."
+      "example": "We talk after class.",
+      "phonics": "/ˈæftɝ/"
     },
     {
       "word": "afternoon",
       "translation": "la tarde",
-      "example": "I study every afternoon."
+      "example": "I study every afternoon.",
+      "phonics": "/ˌæftɝˈnun/"
     },
     {
       "word": "again",
       "translation": "otra vez",
-      "example": "Try again tomorrow."
+      "example": "Try again tomorrow.",
+      "phonics": "/əˈɡeɪn/, /əˈɡɛn/"
     },
     {
       "word": "age",
       "translation": "la edad",
-      "example": "Her age is twenty."
+      "example": "Her age is twenty.",
+      "phonics": "/ˈeɪdʒ/"
     },
     {
       "word": "ago",
       "translation": "hace tiempo",
-      "example": "She left two years ago."
+      "example": "She left two years ago.",
+      "phonics": "/əˈɡoʊ/"
     },
     {
       "word": "agree",
       "translation": "estar de acuerdo",
-      "example": "I agree with you."
+      "example": "I agree with you.",
+      "phonics": "/əˈɡri/"
     },
     {
       "word": "air",
       "translation": "el aire",
-      "example": "The air is cooler by the river."
+      "example": "The air is cooler by the river.",
+      "phonics": "/ˈɛr/"
     },
     {
       "word": "airport",
       "translation": "el aeropuerto",
-      "example": "The airport is an hour away."
+      "example": "The airport is an hour away.",
+      "phonics": "/ˈɛrˌpɔrt/"
     },
     {
       "word": "always",
       "translation": "siempre",
-      "example": "She always locks the door."
+      "example": "She always locks the door.",
+      "phonics": "/ˈɔlˌweɪz/, /ˈɔlwiz/"
     },
     {
       "word": "amazing",
       "translation": "asombroso",
-      "example": "The view is amazing."
+      "example": "The view is amazing.",
+      "phonics": "/əˈmeɪzɪŋ/"
     },
     {
       "word": "angry",
       "translation": "enfadado",
-      "example": "He is angry today."
+      "example": "He is angry today.",
+      "phonics": "/ˈæŋɡri/"
     },
     {
       "word": "animal",
       "translation": "el animal",
-      "example": "This animal lives in water."
+      "example": "This animal lives in water.",
+      "phonics": "/ˈænəməl/"
     },
     {
       "word": "answer",
       "translation": "la respuesta",
-      "example": "Nobody knows the answer."
+      "example": "Nobody knows the answer.",
+      "phonics": "/ˈænsɝ/"
     },
     {
       "word": "anyone",
       "translation": "cualquier persona",
-      "example": "Anyone is welcome here."
+      "example": "Anyone is welcome here.",
+      "phonics": "/ˈɛniˌwən/, /ˈɛniwən/"
     },
     {
       "word": "anything",
       "translation": "cualquier cosa",
-      "example": "Anything is better than waiting."
+      "example": "Anything is better than waiting.",
+      "phonics": "/ˈɛniˌθɪŋ/"
     },
     {
       "word": "apartment",
       "translation": "el apartamento",
-      "example": "Their apartment is on the top floor."
+      "example": "Their apartment is on the top floor.",
+      "phonics": "/əˈpɑrtmənt/"
     },
     {
       "word": "apple",
       "translation": "la manzana",
-      "example": "I eat an apple every day."
+      "example": "I eat an apple every day.",
+      "phonics": "/ˈæpəl/"
     },
     {
       "word": "area",
       "translation": "la zona",
-      "example": "This area floods every year."
+      "example": "This area floods every year.",
+      "phonics": "/ˈɛriə/"
     },
     {
       "word": "arm",
       "translation": "el brazo",
-      "example": "Her arm hurts today."
+      "example": "Her arm hurts today.",
+      "phonics": "/ˈɑrm/"
     },
     {
       "word": "arrive",
       "translation": "llegar",
-      "example": "They arrive on Sunday evening."
+      "example": "They arrive on Sunday evening.",
+      "phonics": "/ɝˈaɪv/"
     },
     {
       "word": "art",
       "translation": "el arte",
-      "example": "She studies art in Rome."
+      "example": "She studies art in Rome.",
+      "phonics": "/ˈɑrt/"
     },
     {
       "word": "article",
       "translation": "el artículo",
-      "example": "She writes an article every week."
+      "example": "She writes an article every week.",
+      "phonics": "/ˈɑrtəkəl/, /ˈɑrtɪkəl/"
     },
     {
       "word": "artist",
       "translation": "el artista",
-      "example": "The artist works only at night."
+      "example": "The artist works only at night.",
+      "phonics": "/ˈɑrtəst/, /ˈɑrtɪst/"
     },
     {
       "word": "ask",
       "translation": "preguntar",
-      "example": "Ask him for the time."
+      "example": "Ask him for the time.",
+      "phonics": "/ˈæsk/"
     },
     {
       "word": "aunt",
       "translation": "la tía",
-      "example": "My aunt lives in the next town."
+      "example": "My aunt lives in the next town.",
+      "phonics": "/ˈænt/, /ˈɔnt/"
     },
     {
       "word": "autumn",
       "translation": "el otoño",
-      "example": "The garden is best in autumn."
+      "example": "The garden is best in autumn.",
+      "phonics": "/ˈɔtəm/"
     },
     {
       "word": "away",
       "translation": "a cierta distancia",
-      "example": "The station is ten minutes away."
+      "example": "The station is ten minutes away.",
+      "phonics": "/əˈweɪ/"
     },
     {
       "word": "baby",
       "translation": "el bebé",
-      "example": "The baby is asleep."
+      "example": "The baby is asleep.",
+      "phonics": "/ˈbeɪbi/"
     },
     {
       "word": "back",
       "translation": "de vuelta",
-      "example": "He comes back at six."
+      "example": "He comes back at six.",
+      "phonics": "/ˈbæk/"
     },
     {
       "word": "bad",
       "translation": "malo",
-      "example": "The weather is bad today."
+      "example": "The weather is bad today.",
+      "phonics": "/ˈbæd/"
     },
     {
       "word": "bag",
       "translation": "la bolsa",
-      "example": "Her bag is under the seat."
+      "example": "Her bag is under the seat.",
+      "phonics": "/ˈbæɡ/"
     },
     {
       "word": "ball",
       "translation": "la pelota",
-      "example": "The children play with a ball."
+      "example": "The children play with a ball.",
+      "phonics": "/ˈbɔl/"
     },
     {
       "word": "banana",
       "translation": "el plátano",
-      "example": "He eats a banana every morning."
+      "example": "He eats a banana every morning.",
+      "phonics": "/bəˈnænə/"
     },
     {
       "word": "band",
       "translation": "la banda",
-      "example": "The band plays every Friday."
+      "example": "The band plays every Friday.",
+      "phonics": "/ˈbænd/"
     },
     {
       "word": "bank",
       "translation": "el banco",
-      "example": "The bank closes at three."
+      "example": "The bank closes at three.",
+      "phonics": "/ˈbæŋk/"
     },
     {
       "word": "bath",
       "translation": "el baño de tina",
-      "example": "He takes a hot bath."
+      "example": "He takes a hot bath.",
+      "phonics": "/ˈbæθ/"
     },
     {
       "word": "bathroom",
       "translation": "el baño",
-      "example": "The bathroom is very small."
+      "example": "The bathroom is very small.",
+      "phonics": "/ˈbæˌθrum/"
     },
     {
       "word": "beach",
       "translation": "la playa",
-      "example": "The beach is quiet in the morning."
+      "example": "The beach is quiet in the morning.",
+      "phonics": "/ˈbitʃ/"
     },
     {
       "word": "beautiful",
       "translation": "hermoso",
-      "example": "The morning is beautiful today."
+      "example": "The morning is beautiful today.",
+      "phonics": "/ˈbjutəfəl/"
     },
     {
       "word": "become",
       "translation": "llegar a ser",
-      "example": "She becomes a nurse."
+      "example": "She becomes a nurse.",
+      "phonics": "/bɪˈkəm/"
     },
     {
       "word": "bed",
       "translation": "la cama",
-      "example": "The bed is next to the window."
+      "example": "The bed is next to the window.",
+      "phonics": "/ˈbɛd/"
     },
     {
       "word": "bedroom",
       "translation": "el dormitorio",
-      "example": "The bedroom faces the garden."
+      "example": "The bedroom faces the garden.",
+      "phonics": "/ˈbɛˌdrum/"
     },
     {
       "word": "beer",
       "translation": "la cerveza",
-      "example": "He drinks one beer."
+      "example": "He drinks one beer.",
+      "phonics": "/ˈbɪr/"
     },
     {
       "word": "before",
       "translation": "antes de",
-      "example": "Call me before you leave."
+      "example": "Call me before you leave.",
+      "phonics": "/ˌbiˈfɔr/, /bɪˈfɔr/"
     },
     {
       "word": "begin",
       "translation": "comenzar",
-      "example": "The film begins at eight."
+      "example": "The film begins at eight.",
+      "phonics": "/bɪˈɡɪn/"
     },
     {
       "word": "behind",
       "translation": "detrás de",
-      "example": "The garden is behind the house."
+      "example": "The garden is behind the house.",
+      "phonics": "/bɪˈhaɪnd/"
     },
     {
       "word": "believe",
       "translation": "creer",
-      "example": "I believe she is right."
+      "example": "I believe she is right.",
+      "phonics": "/bɪˈliv/"
     },
     {
       "word": "best",
       "translation": "el mejor",
-      "example": "This is the best one."
+      "example": "This is the best one.",
+      "phonics": "/ˈbɛst/"
     },
     {
       "word": "better",
       "translation": "mejor",
-      "example": "Her Spanish is better than mine."
+      "example": "Her Spanish is better than mine.",
+      "phonics": "/ˈbɛtɝ/"
     },
     {
       "word": "bicycle",
       "translation": "la bicicleta",
-      "example": "She rides her bicycle to class."
+      "example": "She rides her bicycle to class.",
+      "phonics": "/ˈbaɪsɪkəl/"
     },
     {
       "word": "big",
       "translation": "grande",
-      "example": "They live in a big house."
+      "example": "They live in a big house.",
+      "phonics": "/ˈbɪɡ/"
     },
     {
       "word": "bike",
       "translation": "la bici",
-      "example": "He rides his bike to school."
+      "example": "He rides his bike to school.",
+      "phonics": "/ˈbaɪk/"
     },
     {
       "word": "bill",
       "translation": "la cuenta",
-      "example": "He pays the bill every month."
+      "example": "He pays the bill every month.",
+      "phonics": "/ˈbɪl/"
     },
     {
       "word": "bird",
       "translation": "el pájaro",
-      "example": "A bird sings in the tree."
+      "example": "A bird sings in the tree.",
+      "phonics": "/ˈbɝd/"
     },
     {
       "word": "birthday",
       "translation": "el cumpleaños",
-      "example": "His birthday is in August."
+      "example": "His birthday is in August.",
+      "phonics": "/ˈbɝθˌdeɪ/"
     },
     {
       "word": "black",
       "translation": "negro",
-      "example": "She has a black bag."
+      "example": "She has a black bag.",
+      "phonics": "/ˈblæk/"
     },
     {
       "word": "blog",
       "translation": "el blog",
-      "example": "She writes a travel blog."
+      "example": "She writes a travel blog.",
+      "phonics": "/ˈblɔɡ/"
     },
     {
       "word": "blonde",
       "translation": "rubia",
-      "example": "She has blonde hair."
+      "example": "She has blonde hair.",
+      "phonics": "/ˈblɑnd/"
     },
     {
       "word": "blue",
       "translation": "azul",
-      "example": "The sky is very blue today."
+      "example": "The sky is very blue today.",
+      "phonics": "/ˈblu/"
     },
     {
       "word": "boat",
       "translation": "el barco",
-      "example": "The boat leaves at seven."
+      "example": "The boat leaves at seven.",
+      "phonics": "/ˈboʊt/"
     },
     {
       "word": "body",
       "translation": "el cuerpo",
-      "example": "Water is good for the body."
+      "example": "Water is good for the body.",
+      "phonics": "/ˈbɑdi/"
     },
     {
       "word": "book",
       "translation": "el libro",
-      "example": "This book has many pictures."
+      "example": "This book has many pictures.",
+      "phonics": "/ˈbʊk/"
     },
     {
       "word": "boot",
       "translation": "la bota",
-      "example": "One boot is missing."
+      "example": "One boot is missing.",
+      "phonics": "/ˈbut/"
     },
     {
       "word": "bored",
       "translation": "aburrido",
-      "example": "The children are bored today."
+      "example": "The children are bored today.",
+      "phonics": "/ˈbɔrd/"
     },
     {
       "word": "boring",
       "translation": "aburrido de ver",
-      "example": "The lesson is boring today."
+      "example": "The lesson is boring today.",
+      "phonics": "/ˈbɔrɪŋ/"
     },
     {
       "word": "born",
       "translation": "nacido",
-      "example": "She was born in Chiang Mai."
+      "example": "She was born in Chiang Mai.",
+      "phonics": "/ˈbɔrn/"
     },
     {
       "word": "bottle",
       "translation": "la botella",
-      "example": "There is one bottle left."
+      "example": "There is one bottle left.",
+      "phonics": "/ˈbɑtəl/"
     },
     {
       "word": "box",
       "translation": "la caja",
-      "example": "The box is very heavy."
+      "example": "The box is very heavy.",
+      "phonics": "/ˈbɑks/"
     },
     {
       "word": "boy",
       "translation": "el chico",
-      "example": "The boy plays with his ball."
+      "example": "The boy plays with his ball.",
+      "phonics": "/ˈbɔɪ/"
     },
     {
       "word": "boyfriend",
       "translation": "el novio",
-      "example": "Her boyfriend cooks well."
+      "example": "Her boyfriend cooks well.",
+      "phonics": "/ˈbɔɪˌfrɛnd/"
     },
     {
       "word": "bread",
       "translation": "el pan",
-      "example": "He eats bread for breakfast."
+      "example": "He eats bread for breakfast.",
+      "phonics": "/ˈbrɛd/"
     },
     {
       "word": "break",
       "translation": "el descanso",
-      "example": "We take a short break."
+      "example": "We take a short break.",
+      "phonics": "/ˈbreɪk/"
     },
     {
       "word": "breakfast",
       "translation": "el desayuno",
-      "example": "He never eats breakfast."
+      "example": "He never eats breakfast.",
+      "phonics": "/ˈbrɛkfəst/"
     },
     {
       "word": "bring",
       "translation": "traer",
-      "example": "Please bring a coat."
+      "example": "Please bring a coat.",
+      "phonics": "/ˈbrɪŋ/"
     },
     {
       "word": "brother",
       "translation": "el hermano",
-      "example": "My brother is taller than me."
+      "example": "My brother is taller than me.",
+      "phonics": "/ˈbrəðɝ/"
     },
     {
       "word": "brown",
       "translation": "marrón",
-      "example": "She wears a brown jacket."
+      "example": "She wears a brown jacket.",
+      "phonics": "/ˈbraʊn/"
     },
     {
       "word": "build",
       "translation": "construir",
-      "example": "This company builds new schools."
+      "example": "This company builds new schools.",
+      "phonics": "/ˈbɪld/"
     },
     {
       "word": "building",
       "translation": "el edificio",
-      "example": "That building is a hundred years old."
+      "example": "That building is a hundred years old.",
+      "phonics": "/ˈbɪldɪŋ/"
     },
     {
       "word": "bus",
       "translation": "el autobús",
-      "example": "The bus is late again."
+      "example": "The bus is late again.",
+      "phonics": "/ˈbəs/"
     },
     {
       "word": "business",
       "translation": "el negocio",
-      "example": "His business grows every year."
+      "example": "His business grows every year.",
+      "phonics": "/ˈbɪznəs/, /ˈbɪznɪs/"
     },
     {
       "word": "busy",
       "translation": "ocupado",
-      "example": "The office is busy on Mondays."
+      "example": "The office is busy on Mondays.",
+      "phonics": "/ˈbɪzi/"
     },
     {
       "word": "butter",
       "translation": "la mantequilla",
-      "example": "There is no butter left."
+      "example": "There is no butter left.",
+      "phonics": "/ˈbətɝ/"
     },
     {
       "word": "buy",
       "translation": "comprar",
-      "example": "I want to buy a ticket."
+      "example": "I want to buy a ticket.",
+      "phonics": "/ˈbaɪ/"
     },
     {
       "word": "cafe",
       "translation": "la cafetería",
-      "example": "We meet at a small cafe."
+      "example": "We meet at a small cafe.",
+      "phonics": "/kæˈfeɪ/, /kəˈfeɪ/"
     },
     {
       "word": "cake",
       "translation": "el pastel",
-      "example": "She makes a cake for me."
+      "example": "She makes a cake for me.",
+      "phonics": "/ˈkeɪk/"
     },
     {
       "word": "call",
       "translation": "llamar",
-      "example": "Call me after seven."
+      "example": "Call me after seven.",
+      "phonics": "/ˈkɔl/"
     },
     {
       "word": "camera",
       "translation": "la cámara",
-      "example": "His camera is very old."
+      "example": "His camera is very old.",
+      "phonics": "/ˈkæmɝə/, /ˈkæmrə/"
     },
     {
       "word": "cannot",
       "translation": "no poder",
-      "example": "I cannot open the door."
+      "example": "I cannot open the door.",
+      "phonics": "/ˈkænɑt/, /kəˈnɑt/"
     },
     {
       "word": "capital",
       "translation": "la capital",
-      "example": "Bangkok is the capital."
+      "example": "Bangkok is the capital.",
+      "phonics": "/ˈkæpətəl/, /ˈkæpɪtəl/"
     },
     {
       "word": "car",
       "translation": "el coche",
-      "example": "Their car is very old."
+      "example": "Their car is very old.",
+      "phonics": "/ˈkɑr/"
     },
     {
       "word": "card",
       "translation": "la tarjeta",
-      "example": "He sends a card every year."
+      "example": "He sends a card every year.",
+      "phonics": "/ˈkɑrd/"
     },
     {
       "word": "career",
       "translation": "la carrera",
-      "example": "Her career starts late."
+      "example": "Her career starts late.",
+      "phonics": "/kɝˈɪr/"
     },
     {
       "word": "carrot",
       "translation": "la zanahoria",
-      "example": "Cut the carrot into small pieces."
+      "example": "Cut the carrot into small pieces.",
+      "phonics": "/ˈkærət/, /ˈkɛrət/"
     },
     {
       "word": "carry",
       "translation": "llevar",
-      "example": "She carries a heavy bag."
+      "example": "She carries a heavy bag.",
+      "phonics": "/ˈkæri/, /ˈkɛri/"
     },
     {
       "word": "cat",
       "translation": "el gato",
-      "example": "My cat hates water."
+      "example": "My cat hates water.",
+      "phonics": "/ˈkæt/"
     },
     {
       "word": "CD",
       "translation": "el CD",
-      "example": "The CD is scratched."
+      "example": "The CD is scratched.",
+      "phonics": "/ˌsiˈdi/"
     },
     {
       "word": "cent",
       "translation": "el centavo",
-      "example": "It costs fifty cents."
+      "example": "It costs fifty cents.",
+      "phonics": "/ˈsɛnt/"
     },
     {
       "word": "centre",
       "translation": "el centro",
-      "example": "The station is in the centre."
+      "example": "The station is in the centre.",
+      "phonics": "/ˈsɛntɝ/"
     },
     {
       "word": "century",
       "translation": "el siglo",
-      "example": "The church is a century old."
+      "example": "The church is a century old.",
+      "phonics": "/ˈsɛntʃɝi/"
     },
     {
       "word": "chair",
       "translation": "la silla",
-      "example": "He sits in a chair."
+      "example": "He sits in a chair.",
+      "phonics": "/ˈtʃɛr/"
     },
     {
       "word": "change",
       "translation": "el cambio",
-      "example": "He keeps the change."
+      "example": "He keeps the change.",
+      "phonics": "/ˈtʃeɪndʒ/"
     },
     {
       "word": "chart",
       "translation": "el gráfico",
-      "example": "The chart shows the change."
+      "example": "The chart shows the change.",
+      "phonics": "/ˈtʃɑrt/"
     },
     {
       "word": "cheap",
       "translation": "barato",
-      "example": "The tickets are very cheap."
+      "example": "The tickets are very cheap.",
+      "phonics": "/ˈtʃip/"
     },
     {
       "word": "check",
       "translation": "comprobar",
-      "example": "Check the time before you go."
+      "example": "Check the time before you go.",
+      "phonics": "/ˈtʃɛk/"
     },
     {
       "word": "cheese",
       "translation": "el queso",
-      "example": "This cheese is very strong."
+      "example": "This cheese is very strong.",
+      "phonics": "/ˈtʃiz/"
     },
     {
       "word": "chicken",
       "translation": "el pollo",
-      "example": "We eat chicken and rice."
+      "example": "We eat chicken and rice.",
+      "phonics": "/ˈtʃɪkən/"
     },
     {
       "word": "child",
       "translation": "el niño",
-      "example": "Every child gets a free book."
+      "example": "Every child gets a free book.",
+      "phonics": "/ˈtʃaɪld/"
     },
     {
       "word": "chocolate",
       "translation": "el chocolate",
-      "example": "She likes dark chocolate."
+      "example": "She likes dark chocolate.",
+      "phonics": "/ˈtʃɔklət/"
     },
     {
       "word": "choose",
       "translation": "elegir",
-      "example": "Choose any seat you like."
+      "example": "Choose any seat you like.",
+      "phonics": "/ˈtʃuz/"
     },
     {
       "word": "cinema",
       "translation": "el cine",
-      "example": "The cinema opens at noon."
+      "example": "The cinema opens at noon.",
+      "phonics": "/ˈsɪnəmə/"
     },
     {
       "word": "city",
       "translation": "la ciudad",
-      "example": "This city has three parks."
+      "example": "This city has three parks.",
+      "phonics": "/ˈsɪti/"
     },
     {
       "word": "class",
       "translation": "la clase",
-      "example": "The class starts in ten minutes."
+      "example": "The class starts in ten minutes.",
+      "phonics": "/ˈklæs/"
     },
     {
       "word": "classroom",
       "translation": "el aula",
-      "example": "The classroom is empty."
+      "example": "The classroom is empty.",
+      "phonics": "/ˈklæsˌrum/"
     },
     {
       "word": "clean",
       "translation": "limpio",
-      "example": "The room is clean now."
+      "example": "The room is clean now.",
+      "phonics": "/ˈklin/"
     },
     {
       "word": "climb",
       "translation": "escalar",
-      "example": "They climb the hill slowly."
+      "example": "They climb the hill slowly.",
+      "phonics": "/ˈklaɪm/"
     },
     {
       "word": "clock",
       "translation": "el reloj",
-      "example": "The clock on the wall is slow."
+      "example": "The clock on the wall is slow.",
+      "phonics": "/ˈklɑk/"
     },
     {
       "word": "close",
       "translation": "cerca",
-      "example": "The shop is close to my house."
+      "example": "The shop is close to my house.",
+      "phonics": "/ˈkloʊs/, /ˈkloʊz/"
     },
     {
       "word": "clothes",
       "translation": "la ropa",
-      "example": "Her clothes are still wet."
+      "example": "Her clothes are still wet.",
+      "phonics": "/ˈkloʊðz/, /ˈkloʊz/"
     },
     {
       "word": "club",
       "translation": "el club",
-      "example": "He joins the tennis club."
+      "example": "He joins the tennis club.",
+      "phonics": "/ˈkləb/"
     },
     {
       "word": "coat",
       "translation": "el abrigo",
-      "example": "She wears a warm coat."
+      "example": "She wears a warm coat.",
+      "phonics": "/ˈkoʊt/"
     },
     {
       "word": "coffee",
       "translation": "el café",
-      "example": "This coffee is too strong."
+      "example": "This coffee is too strong.",
+      "phonics": "/ˈkɑfi/, /ˈkɔfi/"
     },
     {
       "word": "cold",
       "translation": "frío",
-      "example": "My hands are cold."
+      "example": "My hands are cold.",
+      "phonics": "/ˈkoʊld/"
     },
     {
       "word": "college",
       "translation": "la universidad",
-      "example": "She studies at a college."
+      "example": "She studies at a college.",
+      "phonics": "/ˈkɑlɪdʒ/"
     },
     {
       "word": "colour",
       "translation": "el color",
-      "example": "What colour is the door?"
+      "example": "What colour is the door?",
+      "phonics": "/ˈkəlɝ/"
     },
     {
       "word": "come",
       "translation": "venir",
-      "example": "Please come at seven."
+      "example": "Please come at seven.",
+      "phonics": "/ˈkəm/"
     },
     {
       "word": "common",
       "translation": "común",
-      "example": "That name is very common here."
+      "example": "That name is very common here.",
+      "phonics": "/ˈkɑmən/"
     },
     {
       "word": "company",
       "translation": "la empresa",
-      "example": "She works for a small company."
+      "example": "She works for a small company.",
+      "phonics": "/ˈkəmpəˌni/"
     },
     {
       "word": "compare",
       "translation": "comparar",
-      "example": "Compare the two versions carefully."
+      "example": "Compare the two versions carefully.",
+      "phonics": "/kəmˈpɛr/"
     },
     {
       "word": "complete",
       "translation": "completo",
-      "example": "The work is not complete."
+      "example": "The work is not complete.",
+      "phonics": "/kəmˈplit/"
     },
     {
       "word": "computer",
       "translation": "el ordenador",
-      "example": "The computer is very slow today."
+      "example": "The computer is very slow today.",
+      "phonics": "/kəmˈpjutɝ/"
     },
     {
       "word": "concert",
       "translation": "el concierto",
-      "example": "The concert starts at nine."
+      "example": "The concert starts at nine.",
+      "phonics": "/ˈkɑnsɝt/, /kənˈsɝt/"
     },
     {
       "word": "conversation",
       "translation": "la conversación",
-      "example": "We have a long conversation."
+      "example": "We have a long conversation.",
+      "phonics": "/ˌkɑnvɝˈseɪʃən/"
     },
     {
       "word": "cook",
       "translation": "cocinar",
-      "example": "He cooks for the whole family."
+      "example": "He cooks for the whole family.",
+      "phonics": "/ˈkʊk/"
     },
     {
       "word": "cool",
       "translation": "fresco de temperatura",
-      "example": "The evening air is cool."
+      "example": "The evening air is cool.",
+      "phonics": "/ˈkul/"
     },
     {
       "word": "correct",
       "translation": "correcto",
-      "example": "That is the correct answer."
+      "example": "That is the correct answer.",
+      "phonics": "/kɝˈɛkt/"
     },
     {
       "word": "cost",
       "translation": "costar",
-      "example": "This book costs a lot."
+      "example": "This book costs a lot.",
+      "phonics": "/ˈkɑst/, /ˈkɔst/"
     },
     {
       "word": "country",
       "translation": "el país",
-      "example": "She visits many countries."
+      "example": "She visits many countries.",
+      "phonics": "/ˈkəntri/"
     },
     {
       "word": "course",
       "translation": "el curso",
-      "example": "He takes a course in art."
+      "example": "He takes a course in art.",
+      "phonics": "/ˈkɔrs/"
     },
     {
       "word": "cousin",
       "translation": "el primo",
-      "example": "My cousin studies in Japan."
+      "example": "My cousin studies in Japan.",
+      "phonics": "/ˈkəzən/"
     },
     {
       "word": "cow",
       "translation": "la vaca",
-      "example": "A cow stands in the road."
+      "example": "A cow stands in the road.",
+      "phonics": "/ˈkaʊ/"
     },
     {
       "word": "cream",
       "translation": "la nata",
-      "example": "She puts cream in her coffee."
+      "example": "She puts cream in her coffee.",
+      "phonics": "/ˈkrim/"
     },
     {
       "word": "create",
       "translation": "crear",
-      "example": "They create a new logo."
+      "example": "They create a new logo.",
+      "phonics": "/kriˈeɪt/"
     },
     {
       "word": "culture",
       "translation": "la cultura",
-      "example": "Music is part of every culture."
+      "example": "Music is part of every culture.",
+      "phonics": "/ˈkəltʃɝ/"
     },
     {
       "word": "cup",
       "translation": "la taza",
-      "example": "He drinks two cups of tea."
+      "example": "He drinks two cups of tea.",
+      "phonics": "/ˈkəp/"
     },
     {
       "word": "customer",
       "translation": "el cliente",
-      "example": "A customer asks for help."
+      "example": "A customer asks for help.",
+      "phonics": "/ˈkəstəmɝ/"
     },
     {
       "word": "cut",
       "translation": "cortar",
-      "example": "She cuts the bread carefully."
+      "example": "She cuts the bread carefully.",
+      "phonics": "/ˈkət/"
     },
     {
       "word": "dad",
       "translation": "papá",
-      "example": "My dad drives a lorry."
+      "example": "My dad drives a lorry.",
+      "phonics": "/ˈdæd/"
     },
     {
       "word": "dance",
       "translation": "bailar",
-      "example": "They dance every Friday night."
+      "example": "They dance every Friday night.",
+      "phonics": "/ˈdæns/"
     },
     {
       "word": "dancer",
       "translation": "el bailarín",
-      "example": "The dancer trains every day."
+      "example": "The dancer trains every day.",
+      "phonics": "/ˈdænsɝ/"
     },
     {
       "word": "dangerous",
       "translation": "peligroso",
-      "example": "That road is dangerous in the rain."
+      "example": "That road is dangerous in the rain.",
+      "phonics": "/ˈdeɪndʒɝəs/"
     },
     {
       "word": "dark",
       "translation": "oscuro",
-      "example": "The room is completely dark."
+      "example": "The room is completely dark.",
+      "phonics": "/ˈdɑrk/"
     },
     {
       "word": "date",
       "translation": "la fecha",
-      "example": "What is the date today?"
+      "example": "What is the date today?",
+      "phonics": "/ˈdeɪt/"
     },
     {
       "word": "daughter",
       "translation": "la hija",
-      "example": "Their daughter is at university."
+      "example": "Their daughter is at university.",
+      "phonics": "/ˈdɔtɝ/"
     },
     {
       "word": "day",
       "translation": "el día",
-      "example": "Today is a long day."
+      "example": "Today is a long day.",
+      "phonics": "/ˈdeɪ/"
     },
     {
       "word": "dear",
       "translation": "querido",
-      "example": "Dear Anna, thank you for the book."
+      "example": "Dear Anna, thank you for the book.",
+      "phonics": "/ˈdɪr/"
     },
     {
       "word": "decide",
       "translation": "decidir",
-      "example": "We decide to stay another night."
+      "example": "We decide to stay another night.",
+      "phonics": "/ˌdɪˈsaɪd/"
     },
     {
       "word": "delicious",
       "translation": "delicioso",
-      "example": "The soup is delicious."
+      "example": "The soup is delicious.",
+      "phonics": "/dɪˈlɪʃəs/"
     },
     {
       "word": "describe",
       "translation": "describir",
-      "example": "Describe the man to me."
+      "example": "Describe the man to me.",
+      "phonics": "/dɪsˈkraɪb/"
     },
     {
       "word": "description",
       "translation": "la descripción",
-      "example": "Her description is very clear."
+      "example": "Her description is very clear.",
+      "phonics": "/dɪsˈkrɪpʃən/"
     },
     {
       "word": "design",
       "translation": "el diseño",
-      "example": "The design is very simple."
+      "example": "The design is very simple.",
+      "phonics": "/dɪˈzaɪn/"
     },
     {
       "word": "desk",
       "translation": "el escritorio",
-      "example": "His desk is by the window."
+      "example": "His desk is by the window.",
+      "phonics": "/ˈdɛsk/"
     },
     {
       "word": "detail",
       "translation": "el detalle",
-      "example": "He explains every detail."
+      "example": "He explains every detail.",
+      "phonics": "/ˈditeɪl/, /dɪˈteɪl/"
     },
     {
       "word": "dialogue",
       "translation": "el diálogo",
-      "example": "The dialogue sounds natural."
+      "example": "The dialogue sounds natural.",
+      "phonics": "/ˈdaɪəˌlɔɡ/"
     },
     {
       "word": "dictionary",
       "translation": "el diccionario",
-      "example": "Check the word in a dictionary."
+      "example": "Check the word in a dictionary.",
+      "phonics": "/ˈdɪkʃəˌnɛri/"
     },
     {
       "word": "die",
       "translation": "morir",
-      "example": "The plant dies without water."
+      "example": "The plant dies without water.",
+      "phonics": "/ˈdaɪ/"
     },
     {
       "word": "diet",
       "translation": "la dieta",
-      "example": "He is on a strict diet."
+      "example": "He is on a strict diet.",
+      "phonics": "/ˈdaɪət/"
     },
     {
       "word": "difference",
       "translation": "la diferencia",
-      "example": "The difference is small but real."
+      "example": "The difference is small but real.",
+      "phonics": "/ˈdɪfɝəns/, /ˈdɪfrəns/"
     },
     {
       "word": "different",
       "translation": "diferente",
-      "example": "This one is different."
+      "example": "This one is different.",
+      "phonics": "/ˈdɪfɝənt/, /ˈdɪfrənt/"
     },
     {
       "word": "difficult",
       "translation": "difícil",
-      "example": "The exam is difficult."
+      "example": "The exam is difficult.",
+      "phonics": "/ˈdɪfəkəlt/"
     },
     {
       "word": "dinner",
       "translation": "la cena",
-      "example": "Dinner is at seven."
+      "example": "Dinner is at seven.",
+      "phonics": "/ˈdɪnɝ/"
     },
     {
       "word": "dirty",
       "translation": "sucio",
-      "example": "His shoes are dirty."
+      "example": "His shoes are dirty.",
+      "phonics": "/ˈdɝti/"
     },
     {
       "word": "discuss",
       "translation": "discutir a fondo",
-      "example": "We discuss it every week."
+      "example": "We discuss it every week.",
+      "phonics": "/dɪˈskəs/"
     },
     {
       "word": "dish",
       "translation": "el plato",
-      "example": "Wash the last dish, please."
+      "example": "Wash the last dish, please.",
+      "phonics": "/ˈdɪʃ/"
     },
     {
       "word": "doctor",
       "translation": "el médico",
-      "example": "The doctor arrives at nine."
+      "example": "The doctor arrives at nine.",
+      "phonics": "/ˈdɑktɝ/, /ˈdɔktɝ/"
     },
     {
       "word": "dog",
       "translation": "el perro",
-      "example": "The dog sleeps under the table."
+      "example": "The dog sleeps under the table.",
+      "phonics": "/ˈdɔɡ/"
     },
     {
       "word": "dollar",
       "translation": "el dólar",
-      "example": "It costs one dollar."
+      "example": "It costs one dollar.",
+      "phonics": "/ˈdɑlɝ/, /ˈdɔlɝ/"
     },
     {
       "word": "door",
       "translation": "la puerta",
-      "example": "Please close the door."
+      "example": "Please close the door.",
+      "phonics": "/ˈdɔr/"
     },
     {
       "word": "downstairs",
       "translation": "abajo",
-      "example": "The kitchen is downstairs."
+      "example": "The kitchen is downstairs.",
+      "phonics": "/ˈdaʊnˈstɛrz/"
     },
     {
       "word": "draw",
       "translation": "dibujar",
-      "example": "She draws every evening."
+      "example": "She draws every evening.",
+      "phonics": "/ˈdrɔ/"
     },
     {
       "word": "dress",
       "translation": "el vestido",
-      "example": "That dress suits you."
+      "example": "That dress suits you.",
+      "phonics": "/ˈdrɛs/"
     },
     {
       "word": "drink",
       "translation": "beber",
-      "example": "He does not drink coffee."
+      "example": "He does not drink coffee.",
+      "phonics": "/ˈdrɪŋk/"
     },
     {
       "word": "drive",
       "translation": "conducir",
-      "example": "He drives to work on Mondays."
+      "example": "He drives to work on Mondays.",
+      "phonics": "/ˈdraɪv/"
     },
     {
       "word": "driver",
       "translation": "el conductor",
-      "example": "The driver waits outside."
+      "example": "The driver waits outside.",
+      "phonics": "/ˈdraɪvɝ/"
     },
     {
       "word": "DVD",
       "translation": "el DVD",
-      "example": "The DVD does not play."
+      "example": "The DVD does not play.",
+      "phonics": "/ˌdiˌviˈdi/"
     },
     {
       "word": "ear",
       "translation": "la oreja",
-      "example": "The noise hurts my ear."
+      "example": "The noise hurts my ear.",
+      "phonics": "/ˈir/, /ˈɪr/"
     },
     {
       "word": "early",
       "translation": "temprano",
-      "example": "He always arrives early."
+      "example": "He always arrives early.",
+      "phonics": "/ˈɝli/"
     },
     {
       "word": "east",
       "translation": "el este",
-      "example": "The wind comes from the east."
+      "example": "The wind comes from the east.",
+      "phonics": "/ˈist/"
     },
     {
       "word": "easy",
       "translation": "fácil",
-      "example": "The test is easy."
+      "example": "The test is easy.",
+      "phonics": "/ˈizi/"
     },
     {
       "word": "eat",
       "translation": "comer",
-      "example": "We eat dinner at seven."
+      "example": "We eat dinner at seven.",
+      "phonics": "/ˈit/"
     },
     {
       "word": "egg",
       "translation": "el huevo",
-      "example": "She boils one egg."
+      "example": "She boils one egg.",
+      "phonics": "/ˈɛɡ/"
     },
     {
       "word": "elephant",
       "translation": "el elefante",
-      "example": "The elephant drinks from the river."
+      "example": "The elephant drinks from the river.",
+      "phonics": "/ˈɛləfənt/"
     },
     {
       "word": "else",
       "translation": "otro más",
-      "example": "Ask somebody else."
+      "example": "Ask somebody else.",
+      "phonics": "/ˈɛls/"
     },
     {
       "word": "email",
       "translation": "el correo electrónico",
-      "example": "Send me an email tonight."
+      "example": "Send me an email tonight.",
+      "phonics": "/iˈmeɪl/"
     },
     {
       "word": "end",
       "translation": "el final",
-      "example": "The end of the movie is sad."
+      "example": "The end of the movie is sad.",
+      "phonics": "/ˈɛnd/"
     },
     {
       "word": "enjoy",
       "translation": "disfrutar",
-      "example": "I enjoy long walks."
+      "example": "I enjoy long walks.",
+      "phonics": "/ˌɛnˈdʒɔɪ/, /ɪnˈdʒɔɪ/"
     },
     {
       "word": "enough",
       "translation": "suficiente",
-      "example": "There is not enough rice."
+      "example": "There is not enough rice.",
+      "phonics": "/iˈnəf/, /ɪˈnəf/"
     },
     {
       "word": "euro",
       "translation": "el euro",
-      "example": "It costs three euros."
+      "example": "It costs three euros.",
+      "phonics": "/ˈjuroʊ/, /ˈjʊrə/"
     },
     {
       "word": "evening",
       "translation": "la tarde, la noche",
-      "example": "We walk in the evening."
+      "example": "We walk in the evening.",
+      "phonics": "/ˈivnɪŋ/"
     },
     {
       "word": "event",
       "translation": "el evento",
-      "example": "The event lasts two days."
+      "example": "The event lasts two days.",
+      "phonics": "/iˈvɛnt/, /ɪˈvɛnt/"
     },
     {
       "word": "everybody",
       "translation": "todo el mundo",
-      "example": "Everybody arrives on time."
+      "example": "Everybody arrives on time.",
+      "phonics": "/ˈɛvriˌbɑdi/"
     },
     {
       "word": "everyone",
       "translation": "todos",
-      "example": "Everyone arrives on time."
+      "example": "Everyone arrives on time.",
+      "phonics": "/ˈɛvriˌwən/"
     },
     {
       "word": "everything",
       "translation": "todo",
-      "example": "Everything is ready."
+      "example": "Everything is ready.",
+      "phonics": "/ˈɛvriˌθɪŋ/"
     },
     {
       "word": "exam",
       "translation": "el examen",
-      "example": "The exam lasts three hours."
+      "example": "The exam lasts three hours.",
+      "phonics": "/ɪɡˈzæm/"
     },
     {
       "word": "example",
       "translation": "el ejemplo",
-      "example": "Give me one clear example."
+      "example": "Give me one clear example.",
+      "phonics": "/ɪɡˈzæmpəl/"
     },
     {
       "word": "excited",
       "translation": "emocionado",
-      "example": "The children are excited."
+      "example": "The children are excited.",
+      "phonics": "/ɪkˈsaɪtəd/, /ɪkˈsaɪtɪd/"
     },
     {
       "word": "exciting",
       "translation": "emocionante",
-      "example": "It is an exciting match."
+      "example": "It is an exciting match.",
+      "phonics": "/ɪkˈsaɪtɪŋ/"
     },
     {
       "word": "exercise",
       "translation": "el ejercicio",
-      "example": "She does exercise every morning."
+      "example": "She does exercise every morning.",
+      "phonics": "/ˈɛksɝˌsaɪz/"
     },
     {
       "word": "expensive",
       "translation": "caro",
-      "example": "That restaurant is too expensive."
+      "example": "That restaurant is too expensive.",
+      "phonics": "/ɪkˈspɛnsɪv/"
     },
     {
       "word": "explain",
       "translation": "explicar",
-      "example": "Please explain the rule again."
+      "example": "Please explain the rule again.",
+      "phonics": "/ɪksˈpleɪn/"
     },
     {
       "word": "extra",
       "translation": "extra",
-      "example": "We need one extra chair."
+      "example": "We need one extra chair.",
+      "phonics": "/ˈɛkstrə/"
     },
     {
       "word": "eye",
       "translation": "el ojo",
-      "example": "She closes one eye."
+      "example": "She closes one eye.",
+      "phonics": "/ˈaɪ/"
     },
     {
       "word": "face",
       "translation": "la cara",
-      "example": "His face is very red."
+      "example": "His face is very red.",
+      "phonics": "/ˈfeɪs/"
     },
     {
       "word": "fact",
       "translation": "el hecho",
-      "example": "That is a simple fact."
+      "example": "That is a simple fact.",
+      "phonics": "/ˈfækt/"
     },
     {
       "word": "fall",
       "translation": "caer",
-      "example": "Leaves fall in October."
+      "example": "Leaves fall in October.",
+      "phonics": "/ˈfɑl/, /ˈfɔl/"
     },
     {
       "word": "false",
       "translation": "falso",
-      "example": "That statement is false."
+      "example": "That statement is false.",
+      "phonics": "/ˈfɔls/"
     },
     {
       "word": "family",
       "translation": "la familia",
-      "example": "My family lives in a small town."
+      "example": "My family lives in a small town.",
+      "phonics": "/ˈfæməli/, /ˈfæmli/"
     },
     {
       "word": "famous",
       "translation": "famoso",
-      "example": "The restaurant is famous for its soup."
+      "example": "The restaurant is famous for its soup.",
+      "phonics": "/ˈfeɪməs/"
     },
     {
       "word": "fantastic",
       "translation": "fantástico",
-      "example": "The concert is fantastic."
+      "example": "The concert is fantastic.",
+      "phonics": "/fænˈtæstɪk/"
     },
     {
       "word": "far",
       "translation": "lejos",
-      "example": "Their house is far from here."
+      "example": "Their house is far from here.",
+      "phonics": "/ˈfɑr/"
     },
     {
       "word": "farm",
       "translation": "la granja",
-      "example": "They own a small farm."
+      "example": "They own a small farm.",
+      "phonics": "/ˈfɑrm/"
     },
     {
       "word": "farmer",
       "translation": "el granjero",
-      "example": "The farmer sells his cows."
+      "example": "The farmer sells his cows.",
+      "phonics": "/ˈfɑrmɝ/"
     },
     {
       "word": "fast",
       "translation": "rápido",
-      "example": "That train is very fast."
+      "example": "That train is very fast.",
+      "phonics": "/ˈfæst/"
     },
     {
       "word": "fat",
       "translation": "graso",
-      "example": "This meat has too much fat."
+      "example": "This meat has too much fat.",
+      "phonics": "/ˈfæt/"
     },
     {
       "word": "father",
       "translation": "el padre",
-      "example": "His father drives a taxi."
+      "example": "His father drives a taxi.",
+      "phonics": "/ˈfɑðɝ/"
     },
     {
       "word": "favourite",
       "translation": "favorito",
-      "example": "This is my favourite song."
+      "example": "This is my favourite song.",
+      "phonics": "/ˈfeɪvɝɪt/"
     },
     {
       "word": "feel",
       "translation": "sentir",
-      "example": "I feel much better today."
+      "example": "I feel much better today.",
+      "phonics": "/ˈfil/"
     },
     {
       "word": "festival",
       "translation": "el festival",
-      "example": "The festival lasts four days."
+      "example": "The festival lasts four days.",
+      "phonics": "/ˈfɛstəvəl/, /ˈfɛstɪvəl/"
     },
     {
       "word": "fill",
       "translation": "llenar",
-      "example": "Fill the glass slowly."
+      "example": "Fill the glass slowly.",
+      "phonics": "/ˈfɪl/"
     },
     {
       "word": "film",
       "translation": "la película",
-      "example": "The film is three hours long."
+      "example": "The film is three hours long.",
+      "phonics": "/ˈfɪlm/"
     },
     {
       "word": "final",
       "translation": "final",
-      "example": "This is the final version."
+      "example": "This is the final version.",
+      "phonics": "/ˈfaɪnəl/"
     },
     {
       "word": "find",
       "translation": "encontrar",
-      "example": "I cannot find my keys."
+      "example": "I cannot find my keys.",
+      "phonics": "/ˈfaɪnd/"
     },
     {
       "word": "fine",
       "translation": "bien",
-      "example": "The weather is fine today."
+      "example": "The weather is fine today.",
+      "phonics": "/ˈfaɪn/"
     },
     {
       "word": "finish",
       "translation": "terminar",
-      "example": "Finish your work first."
+      "example": "Finish your work first.",
+      "phonics": "/ˈfɪnɪʃ/"
     },
     {
       "word": "fire",
       "translation": "el fuego",
-      "example": "The fire burns all night."
+      "example": "The fire burns all night.",
+      "phonics": "/ˈfaɪɝ/, /ˈfaɪr/"
     },
     {
       "word": "fish",
       "translation": "el pescado",
-      "example": "The fish is very fresh."
+      "example": "The fish is very fresh.",
+      "phonics": "/ˈfɪʃ/"
     },
     {
       "word": "flat",
       "translation": "el piso",
-      "example": "Their flat is very small."
+      "example": "Their flat is very small.",
+      "phonics": "/ˈflæt/"
     },
     {
       "word": "flight",
       "translation": "el vuelo",
-      "example": "The flight is delayed today."
+      "example": "The flight is delayed today.",
+      "phonics": "/ˈflaɪt/"
     },
     {
       "word": "floor",
       "translation": "el piso",
-      "example": "Our office is on the third floor."
+      "example": "Our office is on the third floor.",
+      "phonics": "/ˈflɔr/"
     },
     {
       "word": "flower",
       "translation": "la flor",
-      "example": "She buys a yellow flower."
+      "example": "She buys a yellow flower.",
+      "phonics": "/ˈflaʊɝ/"
     },
     {
       "word": "fly",
       "translation": "volar",
-      "example": "Birds fly south in winter."
+      "example": "Birds fly south in winter.",
+      "phonics": "/ˈflaɪ/"
     },
     {
       "word": "follow",
       "translation": "seguir",
-      "example": "Follow me to the office."
+      "example": "Follow me to the office.",
+      "phonics": "/ˈfɑloʊ/"
     },
     {
       "word": "food",
       "translation": "la comida",
-      "example": "The food here is cheap and good."
+      "example": "The food here is cheap and good.",
+      "phonics": "/ˈfud/"
     },
     {
       "word": "foot",
       "translation": "el pie",
-      "example": "My foot still hurts."
+      "example": "My foot still hurts.",
+      "phonics": "/ˈfʊt/"
     },
     {
       "word": "football",
       "translation": "el fútbol",
-      "example": "They play football on Sundays."
+      "example": "They play football on Sundays.",
+      "phonics": "/ˈfʊtˌbɔl/"
     },
     {
       "word": "forget",
       "translation": "olvidar",
-      "example": "Do not forget your keys."
+      "example": "Do not forget your keys.",
+      "phonics": "/fɝˈɡɛt/, /fɔrˈɡɛt/"
     },
     {
       "word": "form",
       "translation": "el formulario",
-      "example": "Write your name on the form."
+      "example": "Write your name on the form.",
+      "phonics": "/ˈfɔrm/"
     },
     {
       "word": "free",
       "translation": "gratis",
-      "example": "Entry is free on Mondays."
+      "example": "Entry is free on Mondays.",
+      "phonics": "/ˈfri/"
     },
     {
       "word": "friend",
       "translation": "el amigo",
-      "example": "My friend lives next door."
+      "example": "My friend lives next door.",
+      "phonics": "/ˈfrɛnd/"
     },
     {
       "word": "front",
       "translation": "el frente",
-      "example": "Wait at the front of the building."
+      "example": "Wait at the front of the building.",
+      "phonics": "/ˈfrənt/"
     },
     {
       "word": "fruit",
       "translation": "la fruta",
-      "example": "Fruit is cheap in summer."
+      "example": "Fruit is cheap in summer.",
+      "phonics": "/ˈfrut/"
     },
     {
       "word": "full",
       "translation": "lleno",
-      "example": "The bus is completely full."
+      "example": "The bus is completely full.",
+      "phonics": "/ˈfʊl/"
     },
     {
       "word": "fun",
       "translation": "la diversión",
-      "example": "The trip is great fun."
+      "example": "The trip is great fun.",
+      "phonics": "/ˈfən/"
     },
     {
       "word": "funny",
       "translation": "divertido",
-      "example": "His story is very funny."
+      "example": "His story is very funny.",
+      "phonics": "/ˈfəni/"
     },
     {
       "word": "future",
       "translation": "el futuro",
-      "example": "Nobody knows the future."
+      "example": "Nobody knows the future.",
+      "phonics": "/ˈfjutʃɝ/"
     },
     {
       "word": "game",
       "translation": "el juego",
-      "example": "The game starts at noon."
+      "example": "The game starts at noon.",
+      "phonics": "/ˈɡeɪm/"
     },
     {
       "word": "garden",
       "translation": "el jardín",
-      "example": "Their garden is full of flowers."
+      "example": "Their garden is full of flowers.",
+      "phonics": "/ˈɡɑrdən/"
     },
     {
       "word": "geography",
       "translation": "la geografía",
-      "example": "She teaches geography."
+      "example": "She teaches geography.",
+      "phonics": "/dʒiˈɑɡrəfi/"
     },
     {
       "word": "girl",
       "translation": "la chica",
-      "example": "A girl waves from the window."
+      "example": "A girl waves from the window.",
+      "phonics": "/ˈɡɝl/"
     },
     {
       "word": "girlfriend",
       "translation": "la novia",
-      "example": "His girlfriend studies law."
+      "example": "His girlfriend studies law.",
+      "phonics": "/ˈɡɝlˌfrɛnd/"
     },
     {
       "word": "give",
       "translation": "dar",
-      "example": "Give me one minute."
+      "example": "Give me one minute.",
+      "phonics": "/ˈɡɪv/"
     },
     {
       "word": "glass",
       "translation": "el vaso",
-      "example": "This glass is completely empty."
+      "example": "This glass is completely empty.",
+      "phonics": "/ˈɡlæs/"
     },
     {
       "word": "go",
       "translation": "ir",
-      "example": "We go to the market on Friday."
+      "example": "We go to the market on Friday.",
+      "phonics": "/ˈɡoʊ/"
     },
     {
       "word": "good",
       "translation": "bueno",
-      "example": "This is a good idea."
+      "example": "This is a good idea.",
+      "phonics": "/ˈɡʊd/, /ɡɪd/"
     },
     {
       "word": "grandfather",
       "translation": "el abuelo",
-      "example": "My grandfather tells great stories."
+      "example": "My grandfather tells great stories.",
+      "phonics": "/ˈɡrænˌfɑðɝ/, /ˈɡrændˌfɑðɝ/"
     },
     {
       "word": "grandmother",
       "translation": "la abuela",
-      "example": "Her grandmother still cooks daily."
+      "example": "Her grandmother still cooks daily.",
+      "phonics": "/ˈɡrændˌməðɝ/"
     },
     {
       "word": "grandparent",
       "translation": "el abuelo o la abuela",
-      "example": "My grandparent still drives."
+      "example": "My grandparent still drives.",
+      "phonics": "/ˈɡrændˌpɛrənt/"
     },
     {
       "word": "great",
       "translation": "estupendo",
-      "example": "That is a great idea."
+      "example": "That is a great idea.",
+      "phonics": "/ˈɡreɪt/"
     },
     {
       "word": "green",
       "translation": "verde",
-      "example": "The fields turn green in May."
+      "example": "The fields turn green in May.",
+      "phonics": "/ˈɡrin/"
     },
     {
       "word": "grey",
       "translation": "gris",
-      "example": "The sky is grey today."
+      "example": "The sky is grey today.",
+      "phonics": "/ˈɡreɪ/"
     },
     {
       "word": "group",
       "translation": "el grupo",
-      "example": "A group of students waits outside."
+      "example": "A group of students waits outside.",
+      "phonics": "/ˈɡrup/"
     },
     {
       "word": "grow",
       "translation": "crecer",
-      "example": "These plants grow very fast."
+      "example": "These plants grow very fast.",
+      "phonics": "/ˈɡroʊ/"
     },
     {
       "word": "guess",
       "translation": "adivinar",
-      "example": "Guess how old he is."
+      "example": "Guess how old he is.",
+      "phonics": "/ˈɡɛs/"
     },
     {
       "word": "guitar",
       "translation": "la guitarra",
-      "example": "He plays the guitar badly."
+      "example": "He plays the guitar badly.",
+      "phonics": "/ɡɪˈtɑr/"
     },
     {
       "word": "gym",
       "translation": "el gimnasio",
-      "example": "She goes to the gym daily."
+      "example": "She goes to the gym daily.",
+      "phonics": "/ˈdʒɪm/"
     },
     {
       "word": "hair",
       "translation": "el pelo",
-      "example": "Her hair is very long."
+      "example": "Her hair is very long.",
+      "phonics": "/ˈhɛr/"
     },
     {
       "word": "half",
       "translation": "la mitad",
-      "example": "Half the class is absent."
+      "example": "Half the class is absent.",
+      "phonics": "/ˈhæf/"
     },
     {
       "word": "hand",
       "translation": "la mano",
-      "example": "He raises his hand."
+      "example": "He raises his hand.",
+      "phonics": "/ˈhænd/"
     },
     {
       "word": "happen",
       "translation": "ocurrir",
-      "example": "Accidents happen without warning."
+      "example": "Accidents happen without warning.",
+      "phonics": "/ˈhæpən/"
     },
     {
       "word": "happy",
       "translation": "feliz",
-      "example": "She is happy today."
+      "example": "She is happy today.",
+      "phonics": "/ˈhæpi/"
     },
     {
       "word": "hard",
       "translation": "difícil",
-      "example": "This question is hard."
+      "example": "This question is hard.",
+      "phonics": "/ˈhɑrd/"
     },
     {
       "word": "hat",
       "translation": "el sombrero",
-      "example": "He always loses his hat."
+      "example": "He always loses his hat.",
+      "phonics": "/ˈhæt/"
     },
     {
       "word": "hate",
       "translation": "odiar",
-      "example": "I hate waiting for buses."
+      "example": "I hate waiting for buses.",
+      "phonics": "/ˈheɪt/"
     },
     {
       "word": "have to",
       "translation": "tener que",
-      "example": "I have to leave now."
+      "example": "I have to leave now.",
+      "phonics": "/ˈhæv ˈtu/"
     },
     {
       "word": "head",
       "translation": "la cabeza",
-      "example": "My head hurts today."
+      "example": "My head hurts today.",
+      "phonics": "/ˈhɛd/"
     },
     {
       "word": "health",
       "translation": "la salud",
-      "example": "His health is very good."
+      "example": "His health is very good.",
+      "phonics": "/ˈhɛlθ/"
     },
     {
       "word": "hear",
       "translation": "oír",
-      "example": "I cannot hear you."
+      "example": "I cannot hear you.",
+      "phonics": "/ˈhir/"
     },
     {
       "word": "help",
       "translation": "ayudar",
-      "example": "Please help me with this."
+      "example": "Please help me with this.",
+      "phonics": "/ˈhɛlp/"
     },
     {
       "word": "high",
       "translation": "alto",
-      "example": "The wall is too high."
+      "example": "The wall is too high.",
+      "phonics": "/ˈhaɪ/"
     },
     {
       "word": "history",
       "translation": "la historia",
-      "example": "He studies history."
+      "example": "He studies history.",
+      "phonics": "/ˈhɪstɝi/, /ˈhɪstri/"
     },
     {
       "word": "hobby",
       "translation": "el pasatiempo",
-      "example": "Painting is her hobby."
+      "example": "Painting is her hobby.",
+      "phonics": "/ˈhɑbi/"
     },
     {
       "word": "holiday",
       "translation": "las vacaciones",
-      "example": "We take a short holiday in June."
+      "example": "We take a short holiday in June.",
+      "phonics": "/ˈhɑləˌdeɪ/, /ˈhɑlɪˌdeɪ/"
     },
     {
       "word": "home",
       "translation": "el hogar",
-      "example": "We go home at six."
+      "example": "We go home at six.",
+      "phonics": "/ˈhoʊm/"
     },
     {
       "word": "homework",
       "translation": "los deberes",
-      "example": "He finishes his homework early."
+      "example": "He finishes his homework early.",
+      "phonics": "/ˈhoʊmˌwɝk/"
     },
     {
       "word": "hope",
       "translation": "esperar con ilusión",
-      "example": "I hope she arrives soon."
+      "example": "I hope she arrives soon.",
+      "phonics": "/ˈhoʊp/"
     },
     {
       "word": "horse",
       "translation": "el caballo",
-      "example": "The horse runs across the field."
+      "example": "The horse runs across the field.",
+      "phonics": "/ˈhɔrs/"
     },
     {
       "word": "hospital",
       "translation": "el hospital",
-      "example": "The hospital is behind the school."
+      "example": "The hospital is behind the school.",
+      "phonics": "/ˈhɑˌspɪtəl/"
     },
     {
       "word": "hot",
       "translation": "caliente",
-      "example": "The tea is still hot."
+      "example": "The tea is still hot.",
+      "phonics": "/ˈhɑt/"
     },
     {
       "word": "hotel",
       "translation": "el hotel",
-      "example": "The hotel is near the beach."
+      "example": "The hotel is near the beach.",
+      "phonics": "/hoʊˈtɛl/"
     },
     {
       "word": "hour",
       "translation": "la hora",
-      "example": "The trip takes about an hour."
+      "example": "The trip takes about an hour.",
+      "phonics": "/ˈaʊɝ/, /ˈaʊr/"
     },
     {
       "word": "house",
       "translation": "la casa",
-      "example": "Their house has a red door."
+      "example": "Their house has a red door.",
+      "phonics": "/ˈhaʊs/"
     },
     {
       "word": "however",
       "translation": "sin embargo",
-      "example": "It rained. However, we went out."
+      "example": "It rained. However, we went out.",
+      "phonics": "/ˌhaʊˈɛvɝ/"
     },
     {
       "word": "hungry",
       "translation": "hambriento",
-      "example": "The children are hungry now."
+      "example": "The children are hungry now.",
+      "phonics": "/ˈhəŋɡri/"
     },
     {
       "word": "husband",
       "translation": "el marido",
-      "example": "Her husband is a nurse."
+      "example": "Her husband is a nurse.",
+      "phonics": "/ˈhəzbənd/"
     },
     {
       "word": "ice",
       "translation": "el hielo",
-      "example": "There is ice on the road."
+      "example": "There is ice on the road.",
+      "phonics": "/ˈaɪs/"
     },
     {
       "word": "ice cream",
       "translation": "el helado",
-      "example": "The children want ice cream."
+      "example": "The children want ice cream.",
+      "phonics": "/ˈaɪs ˈkrim/"
     },
     {
       "word": "idea",
       "translation": "la idea",
-      "example": "That is a good idea."
+      "example": "That is a good idea.",
+      "phonics": "/aɪˈdiə/"
     },
     {
       "word": "imagine",
       "translation": "imaginar",
-      "example": "Imagine living there."
+      "example": "Imagine living there.",
+      "phonics": "/ˌɪˈmædʒən/"
     },
     {
       "word": "important",
       "translation": "importante",
-      "example": "This part is important."
+      "example": "This part is important.",
+      "phonics": "/ˌɪmˈpɔrtənt/"
     },
     {
       "word": "improve",
       "translation": "mejorar",
-      "example": "His writing improves every week."
+      "example": "His writing improves every week.",
+      "phonics": "/ˌɪmˈpruv/"
     },
     {
       "word": "include",
       "translation": "incluir",
-      "example": "The price includes breakfast."
+      "example": "The price includes breakfast.",
+      "phonics": "/ˌɪnˈklud/"
     },
     {
       "word": "information",
       "translation": "la información",
-      "example": "This information is wrong."
+      "example": "This information is wrong.",
+      "phonics": "/ˌɪnfɝˈmeɪʃən/, /ɪnˈfɔrˈmeɪʃən/"
     },
     {
       "word": "interest",
       "translation": "el interés",
-      "example": "He has no interest in sport."
+      "example": "He has no interest in sport.",
+      "phonics": "/ˈɪntɝəst/, /ˈɪntɝɪst/"
     },
     {
       "word": "internet",
       "translation": "internet",
-      "example": "The internet is slow here."
+      "example": "The internet is slow here.",
+      "phonics": "/ˈɪntɝˌnɛt/"
     },
     {
       "word": "interview",
       "translation": "la entrevista",
-      "example": "The interview lasts one hour."
+      "example": "The interview lasts one hour.",
+      "phonics": "/ˈɪntɝvˌju/"
     },
     {
       "word": "introduce",
       "translation": "presentar",
-      "example": "Let me introduce my sister."
+      "example": "Let me introduce my sister.",
+      "phonics": "/ˌɪntrəˈdus/, /ˌɪntroʊˈdus/"
     },
     {
       "word": "island",
       "translation": "la isla",
-      "example": "The island has one shop."
+      "example": "The island has one shop.",
+      "phonics": "/ˈaɪlənd/"
     },
     {
       "word": "jacket",
       "translation": "la chaqueta",
-      "example": "He wears a warm jacket."
+      "example": "He wears a warm jacket.",
+      "phonics": "/ˈdʒækət/, /ˈdʒækɪt/"
     },
     {
       "word": "jeans",
       "translation": "los vaqueros",
-      "example": "These jeans are too tight."
+      "example": "These jeans are too tight.",
+      "phonics": "/ˈdʒinz/"
     },
     {
       "word": "job",
       "translation": "el trabajo",
-      "example": "She has a new job."
+      "example": "She has a new job.",
+      "phonics": "/ˈdʒɑb/, /ˈdʒoʊb/"
     },
     {
       "word": "join",
       "translation": "unirse",
-      "example": "Join us for dinner."
+      "example": "Join us for dinner.",
+      "phonics": "/ˈdʒɔɪn/"
     },
     {
       "word": "journey",
       "translation": "el trayecto",
-      "example": "The journey home takes all day."
+      "example": "The journey home takes all day.",
+      "phonics": "/ˈdʒɝni/"
     },
     {
       "word": "juice",
       "translation": "el zumo",
-      "example": "He drinks orange juice."
+      "example": "He drinks orange juice.",
+      "phonics": "/ˈdʒus/"
     },
     {
       "word": "keep",
       "translation": "guardar",
-      "example": "Keep the receipt."
+      "example": "Keep the receipt.",
+      "phonics": "/ˈkip/"
     },
     {
       "word": "key",
       "translation": "la llave",
-      "example": "I always lose my key."
+      "example": "I always lose my key.",
+      "phonics": "/ˈki/"
     },
     {
       "word": "kilometre",
       "translation": "el kilómetro",
-      "example": "The village is one kilometre away."
+      "example": "The village is one kilometre away.",
+      "phonics": "/ˌkɪˈlɔˌmətɝ/, /ˌkɪləˈmitɝ/"
     },
     {
       "word": "kind",
       "translation": "amable de corazón",
-      "example": "She is very kind to us."
+      "example": "She is very kind to us.",
+      "phonics": "/ˈkaɪnd/"
     },
     {
       "word": "kitchen",
       "translation": "la cocina",
-      "example": "She is cooking in the kitchen."
+      "example": "She is cooking in the kitchen.",
+      "phonics": "/ˈkɪtʃən/"
     },
     {
       "word": "know",
       "translation": "saber",
-      "example": "I know the answer."
+      "example": "I know the answer.",
+      "phonics": "/ˈnoʊ/"
     },
     {
       "word": "land",
       "translation": "aterrizar",
-      "example": "The plane lands safely."
+      "example": "The plane lands safely.",
+      "phonics": "/ˈlænd/"
     },
     {
       "word": "language",
       "translation": "el idioma",
-      "example": "Thai is a difficult language to write."
+      "example": "Thai is a difficult language to write.",
+      "phonics": "/ˈlæŋɡwədʒ/, /ˈlæŋɡwɪdʒ/"
     },
     {
       "word": "large",
       "translation": "grande de tamaño",
-      "example": "They buy a large table."
+      "example": "They buy a large table.",
+      "phonics": "/ˈlɑrdʒ/"
     },
     {
       "word": "last",
       "translation": "último",
-      "example": "This is the last piece of cake."
+      "example": "This is the last piece of cake.",
+      "phonics": "/ˈlæs/, /ˈlæst/"
     },
     {
       "word": "late",
       "translation": "tarde",
-      "example": "The train is late again."
+      "example": "The train is late again.",
+      "phonics": "/ˈleɪt/"
     },
     {
       "word": "later",
       "translation": "más tarde",
-      "example": "See you later."
+      "example": "See you later.",
+      "phonics": "/ˈleɪtɝ/"
     },
     {
       "word": "laugh",
       "translation": "reír",
-      "example": "Everybody laughs at his jokes."
+      "example": "Everybody laughs at his jokes.",
+      "phonics": "/ˈlæf/"
     },
     {
       "word": "learn",
       "translation": "aprender",
-      "example": "She wants to learn Spanish."
+      "example": "She wants to learn Spanish.",
+      "phonics": "/ˈlɝn/"
     },
     {
       "word": "leave",
       "translation": "salir",
-      "example": "We leave early tomorrow."
+      "example": "We leave early tomorrow.",
+      "phonics": "/ˈliv/"
     },
     {
       "word": "left",
       "translation": "izquierda",
-      "example": "Turn left at the bank."
+      "example": "Turn left at the bank.",
+      "phonics": "/ˈlɛft/"
     },
     {
       "word": "leg",
       "translation": "la pierna",
-      "example": "His leg hurts after football."
+      "example": "His leg hurts after football.",
+      "phonics": "/ˈlɛɡ/"
     },
     {
       "word": "lesson",
       "translation": "la lección",
-      "example": "The lesson lasts one hour."
+      "example": "The lesson lasts one hour.",
+      "phonics": "/ˈlɛsən/"
     },
     {
       "word": "letter",
       "translation": "la carta",
-      "example": "He writes a letter every month."
+      "example": "He writes a letter every month.",
+      "phonics": "/ˈlɛtɝ/"
     },
     {
       "word": "library",
       "translation": "la biblioteca",
-      "example": "The library closes at six."
+      "example": "The library closes at six.",
+      "phonics": "/ˈlaɪbrɛˌri/"
     },
     {
       "word": "lie",
       "translation": "tumbarse",
-      "example": "He likes to lie on the grass."
+      "example": "He likes to lie on the grass.",
+      "phonics": "/ˈlaɪ/"
     },
     {
       "word": "life",
       "translation": "la vida",
-      "example": "Life here is quiet."
+      "example": "Life here is quiet.",
+      "phonics": "/ˈlaɪf/"
     },
     {
       "word": "light",
       "translation": "ligero",
-      "example": "The bag is very light."
+      "example": "The bag is very light.",
+      "phonics": "/ˈlaɪt/"
     },
     {
       "word": "like",
       "translation": "gustar",
-      "example": "I like this song."
+      "example": "I like this song.",
+      "phonics": "/ˈlaɪk/"
     },
     {
       "word": "line",
       "translation": "la línea",
-      "example": "Draw a straight line."
+      "example": "Draw a straight line.",
+      "phonics": "/ˈlaɪn/"
     },
     {
       "word": "lion",
       "translation": "el león",
-      "example": "The lion sleeps all afternoon."
+      "example": "The lion sleeps all afternoon.",
+      "phonics": "/ˈlaɪən/"
     },
     {
       "word": "list",
       "translation": "la lista",
-      "example": "Write a list before shopping."
+      "example": "Write a list before shopping.",
+      "phonics": "/ˈlɪst/"
     },
     {
       "word": "listen",
       "translation": "escuchar",
-      "example": "Listen to this song."
+      "example": "Listen to this song.",
+      "phonics": "/ˈlɪsən/"
     },
     {
       "word": "live",
       "translation": "vivir",
-      "example": "My grandparents live near the sea."
+      "example": "My grandparents live near the sea.",
+      "phonics": "/ˈlaɪv/, /ˈlɪv/"
     },
     {
       "word": "local",
       "translation": "local",
-      "example": "The local shop sells bread."
+      "example": "The local shop sells bread.",
+      "phonics": "/ˈloʊkəl/"
     },
     {
       "word": "long",
       "translation": "largo",
-      "example": "This road is very long."
+      "example": "This road is very long.",
+      "phonics": "/ˈlɔŋ/"
     },
     {
       "word": "look",
       "translation": "mirar",
-      "example": "Look at that bird."
+      "example": "Look at that bird.",
+      "phonics": "/ˈlʊk/"
     },
     {
       "word": "lose",
       "translation": "perder",
-      "example": "Do not lose the ticket."
+      "example": "Do not lose the ticket.",
+      "phonics": "/ˈluz/"
     },
     {
       "word": "lot",
       "translation": "mucho",
-      "example": "There is a lot of work today."
+      "example": "There is a lot of work today.",
+      "phonics": "/ˈlɑt/, /ˈlɔt/"
     },
     {
       "word": "love",
       "translation": "amar",
-      "example": "They love the mountains."
+      "example": "They love the mountains.",
+      "phonics": "/ˈləv/"
     },
     {
       "word": "lunch",
       "translation": "el almuerzo",
-      "example": "We eat lunch at noon."
+      "example": "We eat lunch at noon.",
+      "phonics": "/ˈləntʃ/"
     },
     {
       "word": "machine",
       "translation": "la máquina",
-      "example": "The machine stops working."
+      "example": "The machine stops working.",
+      "phonics": "/məˈʃin/"
     },
     {
       "word": "magazine",
       "translation": "la revista",
-      "example": "She reads one magazine a month."
+      "example": "She reads one magazine a month.",
+      "phonics": "/ˈmæɡəˌzin/"
     },
     {
       "word": "main",
       "translation": "principal",
-      "example": "The main road is closed."
+      "example": "The main road is closed.",
+      "phonics": "/ˈmeɪn/"
     },
     {
       "word": "make",
       "translation": "hacer",
-      "example": "She makes her own clothes."
+      "example": "She makes her own clothes.",
+      "phonics": "/ˈmeɪk/"
     },
     {
       "word": "man",
       "translation": "el hombre",
-      "example": "That man works at the bank."
+      "example": "That man works at the bank.",
+      "phonics": "/ˈmæn/"
     },
     {
       "word": "map",
       "translation": "el mapa",
-      "example": "She draws a map for me."
+      "example": "She draws a map for me.",
+      "phonics": "/ˈmæp/"
     },
     {
       "word": "market",
       "translation": "el mercado",
-      "example": "The market opens at dawn."
+      "example": "The market opens at dawn.",
+      "phonics": "/ˈmɑrkət/, /ˈmɑrkɪt/"
     },
     {
       "word": "married",
       "translation": "casado",
-      "example": "They are married now."
+      "example": "They are married now.",
+      "phonics": "/ˈmɛrid/"
     },
     {
       "word": "match",
       "translation": "el partido",
-      "example": "The match ends late."
+      "example": "The match ends late.",
+      "phonics": "/ˈmætʃ/"
     },
     {
       "word": "maybe",
       "translation": "quizás",
-      "example": "Maybe she agrees with you."
+      "example": "Maybe she agrees with you.",
+      "phonics": "/ˈmeɪbi/"
     },
     {
       "word": "meal",
       "translation": "la comida",
-      "example": "The meal takes two hours."
+      "example": "The meal takes two hours.",
+      "phonics": "/ˈmil/"
     },
     {
       "word": "mean",
       "translation": "significar",
-      "example": "What does this word mean?"
+      "example": "What does this word mean?",
+      "phonics": "/ˈmin/"
     },
     {
       "word": "meat",
       "translation": "la carne",
-      "example": "He does not eat meat."
+      "example": "He does not eat meat.",
+      "phonics": "/ˈmit/"
     },
     {
       "word": "meet",
       "translation": "encontrarse",
-      "example": "Let us meet at six."
+      "example": "Let us meet at six.",
+      "phonics": "/ˈmit/"
     },
     {
       "word": "meeting",
       "translation": "la reunión",
-      "example": "The meeting lasts two hours."
+      "example": "The meeting lasts two hours.",
+      "phonics": "/ˈmitɪŋ/"
     },
     {
       "word": "member",
       "translation": "el miembro",
-      "example": "Every member pays a fee."
+      "example": "Every member pays a fee.",
+      "phonics": "/ˈmɛmbɝ/"
     },
     {
       "word": "menu",
       "translation": "el menú",
-      "example": "The menu is only in Thai."
+      "example": "The menu is only in Thai.",
+      "phonics": "/ˈmɛnju/"
     },
     {
       "word": "message",
       "translation": "el mensaje",
-      "example": "I leave a message for you."
+      "example": "I leave a message for you.",
+      "phonics": "/ˈmɛsədʒ/, /ˈmɛsɪdʒ/"
     },
     {
       "word": "metre",
       "translation": "el metro",
-      "example": "The wall is two metres high."
+      "example": "The wall is two metres high.",
+      "phonics": "/ˈmitɝ/"
     },
     {
       "word": "midnight",
       "translation": "la medianoche",
-      "example": "They arrive after midnight."
+      "example": "They arrive after midnight.",
+      "phonics": "/ˈmɪdˌnaɪt/"
     },
     {
       "word": "mile",
       "translation": "la milla",
-      "example": "We walk three miles."
+      "example": "We walk three miles.",
+      "phonics": "/ˈmaɪl/"
     },
     {
       "word": "milk",
       "translation": "la leche",
-      "example": "The milk is in the fridge."
+      "example": "The milk is in the fridge.",
+      "phonics": "/ˈmɪlk/"
     },
     {
       "word": "miss",
       "translation": "echar de menos",
-      "example": "I miss my old school."
+      "example": "I miss my old school.",
+      "phonics": "/ˈmɪs/"
     },
     {
       "word": "mistake",
       "translation": "el error",
-      "example": "This is an honest mistake."
+      "example": "This is an honest mistake.",
+      "phonics": "/mɪˈsteɪk/"
     },
     {
       "word": "model",
       "translation": "el modelo",
-      "example": "This model is cheaper."
+      "example": "This model is cheaper.",
+      "phonics": "/ˈmɑdəl/"
     },
     {
       "word": "modern",
       "translation": "moderno",
-      "example": "The building is very modern."
+      "example": "The building is very modern.",
+      "phonics": "/ˈmɑdɝn/"
     },
     {
       "word": "moment",
       "translation": "el momento",
-      "example": "Wait a moment, please."
+      "example": "Wait a moment, please.",
+      "phonics": "/ˈmoʊmənt/"
     },
     {
       "word": "money",
       "translation": "el dinero",
-      "example": "He saves money every month."
+      "example": "He saves money every month.",
+      "phonics": "/ˈməni/"
     },
     {
       "word": "month",
       "translation": "el mes",
-      "example": "The rent is due every month."
+      "example": "The rent is due every month.",
+      "phonics": "/ˈmənθ/"
     },
     {
       "word": "morning",
       "translation": "la mañana",
-      "example": "I run every morning."
+      "example": "I run every morning.",
+      "phonics": "/ˈmɔrnɪŋ/"
     },
     {
       "word": "mother",
       "translation": "la madre",
-      "example": "My mother cooks on Sundays."
+      "example": "My mother cooks on Sundays.",
+      "phonics": "/ˈməðɝ/"
     },
     {
       "word": "mountain",
       "translation": "la montaña",
-      "example": "The mountain is covered in snow."
+      "example": "The mountain is covered in snow.",
+      "phonics": "/ˈmaʊntən/"
     },
     {
       "word": "mouse",
       "translation": "el ratón",
-      "example": "A mouse runs under the door."
+      "example": "A mouse runs under the door.",
+      "phonics": "/ˈmaʊs/"
     },
     {
       "word": "mouth",
       "translation": "la boca",
-      "example": "She covers her mouth."
+      "example": "She covers her mouth.",
+      "phonics": "/ˈmaʊθ/"
     },
     {
       "word": "move",
       "translation": "mudarse",
-      "example": "They move to a bigger flat."
+      "example": "They move to a bigger flat.",
+      "phonics": "/ˈmuv/"
     },
     {
       "word": "movie",
       "translation": "la película de cine",
-      "example": "The movie starts at nine."
+      "example": "The movie starts at nine.",
+      "phonics": "/ˈmuvi/"
     },
     {
       "word": "mum",
       "translation": "mamá",
-      "example": "My mum works nights."
+      "example": "My mum works nights.",
+      "phonics": "/ˈməm/"
     },
     {
       "word": "museum",
       "translation": "el museo",
-      "example": "The museum is free on Mondays."
+      "example": "The museum is free on Mondays.",
+      "phonics": "/ˈmjuziəm/, /mjuˈziəm/"
     },
     {
       "word": "music",
       "translation": "la música",
-      "example": "She listens to music every day."
+      "example": "She listens to music every day.",
+      "phonics": "/ˈmjuzɪk/"
     },
     {
       "word": "name",
       "translation": "el nombre",
-      "example": "Please write your name at the top."
+      "example": "Please write your name at the top.",
+      "phonics": "/ˈneɪm/"
     },
     {
       "word": "natural",
       "translation": "natural",
-      "example": "This is a natural feeling."
+      "example": "This is a natural feeling.",
+      "phonics": "/ˈnætʃɝəl/, /ˈnætʃrəl/"
     },
     {
       "word": "near",
       "translation": "cerca",
-      "example": "The station is quite near."
+      "example": "The station is quite near.",
+      "phonics": "/ˈnɪr/"
     },
     {
       "word": "negative",
       "translation": "negativo",
-      "example": "His answer is negative."
+      "example": "His answer is negative.",
+      "phonics": "/ˈnɛɡətɪv/"
     },
     {
       "word": "neighbour",
       "translation": "el vecino",
-      "example": "Our neighbour has three cats."
+      "example": "Our neighbour has three cats.",
+      "phonics": "/ˈneɪbɝ/"
     },
     {
       "word": "never",
       "translation": "nunca",
-      "example": "He never eats breakfast."
+      "example": "He never eats breakfast.",
+      "phonics": "/ˈnɛvɝ/"
     },
     {
       "word": "new",
       "translation": "nuevo",
-      "example": "They buy a new table."
+      "example": "They buy a new table.",
+      "phonics": "/ˈnju/, /ˈnu/"
     },
     {
       "word": "news",
       "translation": "la noticia",
-      "example": "The news comes on at six."
+      "example": "The news comes on at six.",
+      "phonics": "/ˈnjuz/, /ˈnuz/"
     },
     {
       "word": "newspaper",
       "translation": "el periódico",
-      "example": "He reads a newspaper daily."
+      "example": "He reads a newspaper daily.",
+      "phonics": "/ˈnuzˌpeɪpɝ/"
     },
     {
       "word": "next to",
       "translation": "al lado de",
-      "example": "The bank is next to the market."
+      "example": "The bank is next to the market.",
+      "phonics": "/ˈnɛks ˈtu/"
     },
     {
       "word": "nice",
       "translation": "agradable",
-      "example": "This is a nice gift."
+      "example": "This is a nice gift.",
+      "phonics": "/ˈnaɪs/, /ˈnis/"
     },
     {
       "word": "night",
       "translation": "la noche",
-      "example": "The street is dark at night."
+      "example": "The street is dark at night.",
+      "phonics": "/ˈnaɪt/"
     },
     {
       "word": "noon",
       "translation": "el mediodía",
-      "example": "We stop for lunch at noon."
+      "example": "We stop for lunch at noon.",
+      "phonics": "/ˈnun/"
     },
     {
       "word": "no one",
       "translation": "nadie",
-      "example": "No one answers the door."
+      "example": "No one answers the door.",
+      "phonics": "/ˈnoʊ ˈwən/"
     },
     {
       "word": "north",
       "translation": "el norte",
-      "example": "The wind comes from the north."
+      "example": "The wind comes from the north.",
+      "phonics": "/ˈnɔrθ/"
     },
     {
       "word": "nose",
       "translation": "la nariz",
-      "example": "His nose is cold today."
+      "example": "His nose is cold today.",
+      "phonics": "/ˈnoʊz/"
     },
     {
       "word": "note",
       "translation": "la nota",
-      "example": "She leaves a note on the table."
+      "example": "She leaves a note on the table.",
+      "phonics": "/ˈnoʊt/"
     },
     {
       "word": "now",
       "translation": "ahora",
-      "example": "I need help now."
+      "example": "I need help now.",
+      "phonics": "/ˈnaʊ/"
     },
     {
       "word": "number",
       "translation": "el número",
-      "example": "What is your room number?"
+      "example": "What is your room number?",
+      "phonics": "/ˈnəmbɝ/"
     },
     {
       "word": "nurse",
       "translation": "el enfermero",
-      "example": "A nurse checks his arm."
+      "example": "A nurse checks his arm.",
+      "phonics": "/ˈnɝs/"
     },
     {
       "word": "object",
       "translation": "el objeto",
-      "example": "A small object is on the floor."
+      "example": "A small object is on the floor.",
+      "phonics": "/ˈɑbdʒɛkt/, /əbˈdʒɛkt/"
     },
     {
       "word": "o’clock",
       "translation": "en punto",
-      "example": "The train leaves at six o’clock."
+      "example": "The train leaves at six o’clock.",
+      "phonics": "/əˈklɑk/"
     },
     {
       "word": "office",
       "translation": "la oficina",
-      "example": "The office is empty on Fridays."
+      "example": "The office is empty on Fridays.",
+      "phonics": "/ˈɔfɪs/"
     },
     {
       "word": "often",
       "translation": "a menudo",
-      "example": "We often eat outside."
+      "example": "We often eat outside.",
+      "phonics": "/ˈɔfən/, /ˈɔftən/"
     },
     {
       "word": "old",
       "translation": "viejo",
-      "example": "This building is very old."
+      "example": "This building is very old.",
+      "phonics": "/ˈoʊld/"
     },
     {
       "word": "onion",
       "translation": "la cebolla",
-      "example": "Chop one onion finely."
+      "example": "Chop one onion finely.",
+      "phonics": "/ˈənjən/"
     },
     {
       "word": "online",
       "translation": "en línea",
-      "example": "I buy clothes online."
+      "example": "I buy clothes online.",
+      "phonics": "/ˈɔnˌlaɪn/"
     },
     {
       "word": "open",
       "translation": "abrir",
-      "example": "The shop opens at eight."
+      "example": "The shop opens at eight.",
+      "phonics": "/ˈoʊpən/"
     },
     {
       "word": "opinion",
       "translation": "la opinión",
-      "example": "Everyone has a different opinion."
+      "example": "Everyone has a different opinion.",
+      "phonics": "/əˈpɪnjən/"
     },
     {
       "word": "opposite",
       "translation": "enfrente de",
-      "example": "The bank is opposite the park."
+      "example": "The bank is opposite the park.",
+      "phonics": "/ˈɑpəzət/, /ˈɑpzət/"
     },
     {
       "word": "orange",
       "translation": "la naranja",
-      "example": "She eats an orange."
+      "example": "She eats an orange.",
+      "phonics": "/ˈɔrəndʒ/, /ˈɔrɪndʒ/"
     },
     {
       "word": "order",
       "translation": "pedir",
-      "example": "He orders soup and bread."
+      "example": "He orders soup and bread.",
+      "phonics": "/ˈɔrdɝ/"
     },
     {
       "word": "outside",
       "translation": "fuera",
-      "example": "Wait outside, please."
+      "example": "Wait outside, please.",
+      "phonics": "/ˈaʊtˈsaɪd/"
     },
     {
       "word": "page",
       "translation": "la página",
-      "example": "The answer is on page ten."
+      "example": "The answer is on page ten.",
+      "phonics": "/ˈpeɪdʒ/"
     },
     {
       "word": "paint",
       "translation": "pintar",
-      "example": "They paint the door blue."
+      "example": "They paint the door blue.",
+      "phonics": "/ˈpeɪnt/"
     },
     {
       "word": "painting",
       "translation": "el cuadro",
-      "example": "The painting hangs by the stairs."
+      "example": "The painting hangs by the stairs.",
+      "phonics": "/ˈpeɪntɪŋ/"
     },
     {
       "word": "pair",
       "translation": "el par",
-      "example": "He buys a pair of shoes."
+      "example": "He buys a pair of shoes.",
+      "phonics": "/ˈpɛr/"
     },
     {
       "word": "paper",
       "translation": "el papel",
-      "example": "Write it on paper first."
+      "example": "Write it on paper first.",
+      "phonics": "/ˈpeɪpɝ/"
     },
     {
       "word": "paragraph",
       "translation": "el párrafo",
-      "example": "The last paragraph is unclear."
+      "example": "The last paragraph is unclear.",
+      "phonics": "/ˈpærəˌɡræf/, /ˈpɛrəˌɡræf/"
     },
     {
       "word": "parent",
       "translation": "el padre o la madre",
-      "example": "Every parent comes to the meeting."
+      "example": "Every parent comes to the meeting.",
+      "phonics": "/ˈpɛrənt/"
     },
     {
       "word": "park",
       "translation": "el parque",
-      "example": "We walk in the park on Sundays."
+      "example": "We walk in the park on Sundays.",
+      "phonics": "/ˈpɑrk/"
     },
     {
       "word": "part",
       "translation": "la parte",
-      "example": "This part is difficult."
+      "example": "This part is difficult.",
+      "phonics": "/ˈpɑrt/"
     },
     {
       "word": "partner",
       "translation": "la pareja",
-      "example": "Her partner runs the shop."
+      "example": "Her partner runs the shop.",
+      "phonics": "/ˈpɑrtnɝ/"
     },
     {
       "word": "party",
       "translation": "la fiesta",
-      "example": "The party ends after midnight."
+      "example": "The party ends after midnight.",
+      "phonics": "/ˈpɑrti/"
     },
     {
       "word": "passport",
       "translation": "el pasaporte",
-      "example": "Keep your passport in your bag."
+      "example": "Keep your passport in your bag.",
+      "phonics": "/ˈpæsˌpɔrt/"
     },
     {
       "word": "pasta",
       "translation": "la pasta",
-      "example": "She cooks pasta with tomatoes."
+      "example": "She cooks pasta with tomatoes.",
+      "phonics": "/ˈpɑstə/"
     },
     {
       "word": "pay",
       "translation": "pagar",
-      "example": "I pay for lunch today."
+      "example": "I pay for lunch today.",
+      "phonics": "/ˈpeɪ/"
     },
     {
       "word": "pen",
       "translation": "el bolígrafo",
-      "example": "This pen does not work."
+      "example": "This pen does not work.",
+      "phonics": "/ˈpɛn/"
     },
     {
       "word": "pencil",
       "translation": "el lápiz",
-      "example": "Use a pencil for the test."
+      "example": "Use a pencil for the test.",
+      "phonics": "/ˈpɛnsəl/"
     },
     {
       "word": "people",
       "translation": "la gente",
-      "example": "Many people wait outside."
+      "example": "Many people wait outside.",
+      "phonics": "/ˈpipəl/"
     },
     {
       "word": "pepper",
       "translation": "la pimienta",
-      "example": "Add salt and pepper."
+      "example": "Add salt and pepper.",
+      "phonics": "/ˈpɛpɝ/"
     },
     {
       "word": "perfect",
       "translation": "perfecto",
-      "example": "The weather is perfect today."
+      "example": "The weather is perfect today.",
+      "phonics": "/ˈpɝˌfɪkt/, /pɝˈfɛkt/"
     },
     {
       "word": "period",
       "translation": "el periodo",
-      "example": "This is a difficult period."
+      "example": "This is a difficult period.",
+      "phonics": "/ˈpɪriəd/"
     },
     {
       "word": "person",
       "translation": "la persona",
-      "example": "Only one person answers."
+      "example": "Only one person answers.",
+      "phonics": "/ˈpɝsən/"
     },
     {
       "word": "phone",
       "translation": "el teléfono",
-      "example": "My phone battery is low."
+      "example": "My phone battery is low.",
+      "phonics": "/ˈfoʊn/"
     },
     {
       "word": "photo",
       "translation": "la foto",
-      "example": "He has a photo of his dog."
+      "example": "He has a photo of his dog.",
+      "phonics": "/ˈfoʊˌtoʊ/"
     },
     {
       "word": "photograph",
       "translation": "la fotografía",
-      "example": "He takes a photograph of the bridge."
+      "example": "He takes a photograph of the bridge.",
+      "phonics": "/ˈfoʊtəˌɡræf/"
     },
     {
       "word": "phrase",
       "translation": "la frase hecha",
-      "example": "That phrase is hard to translate."
+      "example": "That phrase is hard to translate.",
+      "phonics": "/ˈfreɪz/"
     },
     {
       "word": "piano",
       "translation": "el piano",
-      "example": "She plays the piano well."
+      "example": "She plays the piano well.",
+      "phonics": "/piˈænə/, /piˈænoʊ/"
     },
     {
       "word": "picture",
       "translation": "la imagen",
-      "example": "The picture is crooked."
+      "example": "The picture is crooked.",
+      "phonics": "/ˈpɪktʃɝ/"
     },
     {
       "word": "piece",
       "translation": "el trozo",
-      "example": "Take one piece each."
+      "example": "Take one piece each.",
+      "phonics": "/ˈpis/"
     },
     {
       "word": "pig",
       "translation": "el cerdo",
-      "example": "The pig sleeps in the shade."
+      "example": "The pig sleeps in the shade.",
+      "phonics": "/ˈpɪɡ/"
     },
     {
       "word": "pink",
       "translation": "rosa",
-      "example": "She wears a pink scarf."
+      "example": "She wears a pink scarf.",
+      "phonics": "/ˈpɪŋk/"
     },
     {
       "word": "pizza",
       "translation": "la pizza",
-      "example": "We share a large pizza."
+      "example": "We share a large pizza.",
+      "phonics": "/ˈpitsə/"
     },
     {
       "word": "place",
       "translation": "el lugar",
-      "example": "This is a good place to stop."
+      "example": "This is a good place to stop.",
+      "phonics": "/ˈpleɪs/"
     },
     {
       "word": "plan",
       "translation": "el plan",
-      "example": "Our plan works very well."
+      "example": "Our plan works very well.",
+      "phonics": "/ˈplæn/"
     },
     {
       "word": "plane",
       "translation": "el avión",
-      "example": "The plane is two hours late."
+      "example": "The plane is two hours late.",
+      "phonics": "/ˈpleɪn/"
     },
     {
       "word": "plant",
       "translation": "la planta",
-      "example": "Water the plant twice a week."
+      "example": "Water the plant twice a week.",
+      "phonics": "/ˈplænt/"
     },
     {
       "word": "play",
       "translation": "jugar",
-      "example": "The children play outside."
+      "example": "The children play outside.",
+      "phonics": "/ˈpleɪ/"
     },
     {
       "word": "player",
       "translation": "el jugador",
-      "example": "One player scores every game."
+      "example": "One player scores every game.",
+      "phonics": "/ˈpleɪɝ/"
     },
     {
       "word": "point",
       "translation": "el punto",
-      "example": "He makes a good point."
+      "example": "He makes a good point.",
+      "phonics": "/ˈpɔɪnt/"
     },
     {
       "word": "police",
       "translation": "la policía",
-      "example": "The police arrive quickly."
+      "example": "The police arrive quickly.",
+      "phonics": "/pəˈlis/"
     },
     {
       "word": "policeman",
       "translation": "el policía",
-      "example": "A policeman stops the car."
+      "example": "A policeman stops the car.",
+      "phonics": "/pəˈlismən/"
     },
     {
       "word": "pool",
       "translation": "la piscina",
-      "example": "The pool closes at eight."
+      "example": "The pool closes at eight.",
+      "phonics": "/ˈpul/"
     },
     {
       "word": "poor",
       "translation": "pobre",
-      "example": "The village is very poor."
+      "example": "The village is very poor.",
+      "phonics": "/ˈpur/"
     },
     {
       "word": "popular",
       "translation": "popular",
-      "example": "That song is very popular."
+      "example": "That song is very popular.",
+      "phonics": "/ˈpɑpjəlɝ/"
     },
     {
       "word": "positive",
       "translation": "positivo",
-      "example": "The result is positive."
+      "example": "The result is positive.",
+      "phonics": "/ˈpɑzətɪv/"
     },
     {
       "word": "possible",
       "translation": "posible",
-      "example": "It is possible but unlikely."
+      "example": "It is possible but unlikely.",
+      "phonics": "/ˈpɑsəbəl/"
     },
     {
       "word": "post",
       "translation": "enviar por correo",
-      "example": "I post the letter today."
+      "example": "I post the letter today.",
+      "phonics": "/ˈpoʊst/"
     },
     {
       "word": "potato",
       "translation": "la patata",
-      "example": "Peel two potatoes."
+      "example": "Peel two potatoes.",
+      "phonics": "/pəˈteɪˌtoʊ/"
     },
     {
       "word": "pound",
       "translation": "la libra",
-      "example": "The bag weighs one pound."
+      "example": "The bag weighs one pound.",
+      "phonics": "/ˈpaʊnd/"
     },
     {
       "word": "practice",
       "translation": "la práctica",
-      "example": "Practice makes it easier."
+      "example": "Practice makes it easier.",
+      "phonics": "/ˈpræktəs/, /ˈpræktɪs/"
     },
     {
       "word": "practise",
       "translation": "practicar",
-      "example": "She practises the piano every evening."
+      "example": "She practises the piano every evening.",
+      "phonics": "/ˈpræktɪs/"
     },
     {
       "word": "prefer",
       "translation": "preferir",
-      "example": "I prefer tea to coffee."
+      "example": "I prefer tea to coffee.",
+      "phonics": "/prəˈfɝ/, /priˈfɝ/"
     },
     {
       "word": "prepare",
       "translation": "preparar",
-      "example": "Prepare the room before noon."
+      "example": "Prepare the room before noon.",
+      "phonics": "/priˈpɛr/"
     },
     {
       "word": "present",
       "translation": "el regalo",
-      "example": "She gives him a present."
+      "example": "She gives him a present.",
+      "phonics": "/ˈprɛzənt/, /pɝˈzɛnt/"
     },
     {
       "word": "pretty",
       "translation": "bonito",
-      "example": "The garden is very pretty."
+      "example": "The garden is very pretty.",
+      "phonics": "/ˈprɪti/"
     },
     {
       "word": "price",
       "translation": "el precio",
-      "example": "The price is very high."
+      "example": "The price is very high.",
+      "phonics": "/ˈpraɪs/"
     },
     {
       "word": "probably",
       "translation": "probablemente",
-      "example": "He probably works on Sundays."
+      "example": "He probably works on Sundays.",
+      "phonics": "/ˈprɑbəˌbli/, /ˈprɑbli/"
     },
     {
       "word": "problem",
       "translation": "el problema",
-      "example": "We solve the problem together."
+      "example": "We solve the problem together.",
+      "phonics": "/ˈprɑbləm/"
     },
     {
       "word": "product",
       "translation": "el producto",
-      "example": "The product sells well."
+      "example": "The product sells well.",
+      "phonics": "/ˈprɑdəkt/"
     },
     {
       "word": "programme",
       "translation": "el programa",
-      "example": "The programme lasts an hour."
+      "example": "The programme lasts an hour.",
+      "phonics": "/ˈproʊˌɡræm/"
     },
     {
       "word": "project",
       "translation": "el proyecto",
-      "example": "The project runs until March."
+      "example": "The project runs until March.",
+      "phonics": "/ˈprɑdʒɛkt/, /prəˈdʒɛkt/"
     },
     {
       "word": "purple",
       "translation": "morado",
-      "example": "She paints the door purple."
+      "example": "She paints the door purple.",
+      "phonics": "/ˈpɝpəl/"
     },
     {
       "word": "put",
       "translation": "poner",
-      "example": "Put the box on the shelf."
+      "example": "Put the box on the shelf.",
+      "phonics": "/ˈpʊt/"
     },
     {
       "word": "quarter",
       "translation": "el cuarto",
-      "example": "A quarter of the class is absent."
+      "example": "A quarter of the class is absent.",
+      "phonics": "/ˈkwɔrtɝ/"
     },
     {
       "word": "question",
       "translation": "la pregunta",
-      "example": "Her question surprises everyone."
+      "example": "Her question surprises everyone.",
+      "phonics": "/ˈkwɛstʃən/, /ˈkwɛʃən/"
     },
     {
       "word": "quick",
       "translation": "rápido de reacción",
-      "example": "That is a quick answer."
+      "example": "That is a quick answer.",
+      "phonics": "/ˈkwɪk/"
     },
     {
       "word": "quiet",
       "translation": "silencioso",
-      "example": "The library is very quiet."
+      "example": "The library is very quiet.",
+      "phonics": "/ˈkwaɪət/"
     },
     {
       "word": "quite",
       "translation": "bastante",
-      "example": "The room is quite small."
+      "example": "The room is quite small.",
+      "phonics": "/ˈkwaɪt/"
     },
     {
       "word": "rabbit",
       "translation": "el conejo",
-      "example": "A small rabbit runs across the field."
+      "example": "A small rabbit runs across the field.",
+      "phonics": "/ˈræbət/, /ˈræbɪt/"
     },
     {
       "word": "radio",
       "translation": "la radio",
-      "example": "The radio is on all night."
+      "example": "The radio is on all night.",
+      "phonics": "/ˈreɪdiˌoʊ/"
     },
     {
       "word": "rain",
       "translation": "la lluvia",
-      "example": "The rain starts at noon."
+      "example": "The rain starts at noon.",
+      "phonics": "/ˈreɪn/"
     },
     {
       "word": "read",
       "translation": "leer",
-      "example": "I read before bed."
+      "example": "I read before bed.",
+      "phonics": "/ˈrɛd/, /ˈrid/"
     },
     {
       "word": "reader",
       "translation": "el lector",
-      "example": "A reader writes to complain."
+      "example": "A reader writes to complain.",
+      "phonics": "/ˈridɝ/"
     },
     {
       "word": "ready",
       "translation": "listo",
-      "example": "Dinner is ready."
+      "example": "Dinner is ready.",
+      "phonics": "/ˈrɛdi/"
     },
     {
       "word": "real",
       "translation": "verdadero",
-      "example": "Is that a real diamond?"
+      "example": "Is that a real diamond?",
+      "phonics": "/ˈril/"
     },
     {
       "word": "really",
       "translation": "realmente",
-      "example": "It is really cold outside."
+      "example": "It is really cold outside.",
+      "phonics": "/ˈrili/, /ˈrɪli/"
     },
     {
       "word": "reason",
       "translation": "la razón",
-      "example": "There is no reason to worry."
+      "example": "There is no reason to worry.",
+      "phonics": "/ˈrizən/"
     },
     {
       "word": "red",
       "translation": "rojo",
-      "example": "She wears a red dress."
+      "example": "She wears a red dress.",
+      "phonics": "/ˈrɛd/"
     },
     {
       "word": "relax",
       "translation": "relajarse",
-      "example": "He likes to relax at home."
+      "example": "He likes to relax at home.",
+      "phonics": "/riˈlæks/, /rɪˈlæks/"
     },
     {
       "word": "remember",
       "translation": "recordar",
-      "example": "I remember his face."
+      "example": "I remember his face.",
+      "phonics": "/riˈmɛmbɝ/, /rɪˈmɛmbɝ/"
     },
     {
       "word": "repeat",
       "translation": "repetir",
-      "example": "Please repeat the question."
+      "example": "Please repeat the question.",
+      "phonics": "/riˈpit/, /rɪˈpit/"
     },
     {
       "word": "report",
       "translation": "el informe",
-      "example": "She writes the report alone."
+      "example": "She writes the report alone.",
+      "phonics": "/riˈpɔrt/, /rɪˈpɔrt/"
     },
     {
       "word": "restaurant",
       "translation": "el restaurante",
-      "example": "The restaurant closes on Mondays."
+      "example": "The restaurant closes on Mondays.",
+      "phonics": "/ˈrɛsˌtrɑnt/, /ˈrɛstɝˌɑnt/"
     },
     {
       "word": "result",
       "translation": "el resultado",
-      "example": "The result surprises everyone."
+      "example": "The result surprises everyone.",
+      "phonics": "/riˈzəlt/, /rɪˈzəlt/"
     },
     {
       "word": "return",
       "translation": "regresar",
-      "example": "They return on Sunday."
+      "example": "They return on Sunday.",
+      "phonics": "/riˈtɝn/, /rɪˈtɝn/"
     },
     {
       "word": "rice",
       "translation": "el arroz",
-      "example": "We cook rice every day."
+      "example": "We cook rice every day.",
+      "phonics": "/ˈraɪs/"
     },
     {
       "word": "rich",
       "translation": "rico",
-      "example": "Her family is not rich."
+      "example": "Her family is not rich.",
+      "phonics": "/ˈrɪtʃ/"
     },
     {
       "word": "ride",
       "translation": "montar",
-      "example": "He rides a horse on Sundays."
+      "example": "He rides a horse on Sundays.",
+      "phonics": "/ˈraɪd/"
     },
     {
       "word": "right",
       "translation": "el derecho",
-      "example": "Every worker has that right."
+      "example": "Every worker has that right.",
+      "phonics": "/ˈraɪt/"
     },
     {
       "word": "river",
       "translation": "el río",
-      "example": "They swim in the river."
+      "example": "They swim in the river.",
+      "phonics": "/ˈrɪvɝ/"
     },
     {
       "word": "road",
       "translation": "la carretera",
-      "example": "The road is closed for repairs."
+      "example": "The road is closed for repairs.",
+      "phonics": "/ˈroʊd/"
     },
     {
       "word": "room",
       "translation": "la habitación",
-      "example": "This room is very bright."
+      "example": "This room is very bright.",
+      "phonics": "/ˈrum/"
     },
     {
       "word": "routine",
       "translation": "la rutina",
-      "example": "Her morning routine is fixed."
+      "example": "Her morning routine is fixed.",
+      "phonics": "/ruˈtin/"
     },
     {
       "word": "rule",
       "translation": "la regla",
-      "example": "Everyone follows the same rule."
+      "example": "Everyone follows the same rule.",
+      "phonics": "/ˈrul/"
     },
     {
       "word": "run",
       "translation": "correr",
-      "example": "She runs every morning."
+      "example": "She runs every morning.",
+      "phonics": "/ˈrən/"
     },
     {
       "word": "sad",
       "translation": "triste",
-      "example": "The ending is sad."
+      "example": "The ending is sad.",
+      "phonics": "/ˈsæd/"
     },
     {
       "word": "salad",
       "translation": "la ensalada",
-      "example": "He orders a green salad."
+      "example": "He orders a green salad.",
+      "phonics": "/ˈsæləd/"
     },
     {
       "word": "salt",
       "translation": "la sal",
-      "example": "There is too much salt."
+      "example": "There is too much salt.",
+      "phonics": "/ˈsɔlt/"
     },
     {
       "word": "sandwich",
       "translation": "el bocadillo",
-      "example": "She makes a cheese sandwich."
+      "example": "She makes a cheese sandwich.",
+      "phonics": "/ˈsæmwɪtʃ/, /ˈsændwɪtʃ/"
     },
     {
       "word": "say",
       "translation": "decir",
-      "example": "He does not say much."
+      "example": "He does not say much.",
+      "phonics": "/ˈseɪ/"
     },
     {
       "word": "school",
       "translation": "la escuela",
-      "example": "The school opens at eight."
+      "example": "The school opens at eight.",
+      "phonics": "/ˈskul/"
     },
     {
       "word": "science",
       "translation": "la ciencia",
-      "example": "Science is her best subject."
+      "example": "Science is her best subject.",
+      "phonics": "/ˈsaɪəns/"
     },
     {
       "word": "scientist",
       "translation": "el científico",
-      "example": "A scientist explains the result."
+      "example": "A scientist explains the result.",
+      "phonics": "/ˈsaɪəntɪst/"
     },
     {
       "word": "sea",
       "translation": "el mar",
-      "example": "The sea is calm this morning."
+      "example": "The sea is calm this morning.",
+      "phonics": "/ˈsi/"
     },
     {
       "word": "section",
       "translation": "la sección",
-      "example": "The last section is missing."
+      "example": "The last section is missing.",
+      "phonics": "/ˈsɛkʃən/"
     },
     {
       "word": "see",
       "translation": "ver",
-      "example": "I see the sea from here."
+      "example": "I see the sea from here.",
+      "phonics": "/ˈsi/"
     },
     {
       "word": "sell",
       "translation": "vender",
-      "example": "They sell bread and milk."
+      "example": "They sell bread and milk.",
+      "phonics": "/ˈsɛl/"
     },
     {
       "word": "send",
       "translation": "enviar",
-      "example": "Please send the file today."
+      "example": "Please send the file today.",
+      "phonics": "/ˈsɛnd/"
     },
     {
       "word": "sentence",
       "translation": "la oración",
-      "example": "Write one sentence only."
+      "example": "Write one sentence only.",
+      "phonics": "/ˈsɛntəns/"
     },
     {
       "word": "share",
       "translation": "compartir",
-      "example": "They share the last apple."
+      "example": "They share the last apple.",
+      "phonics": "/ˈʃɛr/"
     },
     {
       "word": "sheep",
       "translation": "la oveja",
-      "example": "The sheep stays near the wall."
+      "example": "The sheep stays near the wall.",
+      "phonics": "/ˈʃip/"
     },
     {
       "word": "shirt",
       "translation": "la camisa",
-      "example": "His shirt is torn."
+      "example": "His shirt is torn.",
+      "phonics": "/ˈʃɝt/"
     },
     {
       "word": "shoe",
       "translation": "el zapato",
-      "example": "One shoe is under the bed."
+      "example": "One shoe is under the bed.",
+      "phonics": "/ˈʃu/"
     },
     {
       "word": "shop",
       "translation": "la tienda",
-      "example": "The shop closes at nine."
+      "example": "The shop closes at nine.",
+      "phonics": "/ˈʃɑp/"
     },
     {
       "word": "short",
       "translation": "corto",
-      "example": "He gives a short answer."
+      "example": "He gives a short answer.",
+      "phonics": "/ˈʃɔrt/"
     },
     {
       "word": "show",
       "translation": "mostrar",
-      "example": "Show me the photograph."
+      "example": "Show me the photograph.",
+      "phonics": "/ˈʃoʊ/"
     },
     {
       "word": "shower",
       "translation": "la ducha",
-      "example": "He takes a cold shower."
+      "example": "He takes a cold shower.",
+      "phonics": "/ˈʃaʊɝ/"
     },
     {
       "word": "sick",
       "translation": "mareado",
-      "example": "She feels sick on the boat."
+      "example": "She feels sick on the boat.",
+      "phonics": "/ˈsɪk/"
     },
     {
       "word": "similar",
       "translation": "similar",
-      "example": "Our jobs are quite similar."
+      "example": "Our jobs are quite similar.",
+      "phonics": "/ˈsɪməlɝ/"
     },
     {
       "word": "sing",
       "translation": "cantar",
-      "example": "They sing on the way home."
+      "example": "They sing on the way home.",
+      "phonics": "/ˈsɪŋ/"
     },
     {
       "word": "singer",
       "translation": "el cantante",
-      "example": "The singer forgets the words."
+      "example": "The singer forgets the words.",
+      "phonics": "/ˈsɪŋɝ/"
     },
     {
       "word": "sister",
       "translation": "la hermana",
-      "example": "Her sister lives abroad."
+      "example": "Her sister lives abroad.",
+      "phonics": "/ˈsɪstɝ/"
     },
     {
       "word": "sit",
       "translation": "sentarse",
-      "example": "Please sit here."
+      "example": "Please sit here.",
+      "phonics": "/ˈsɪt/"
     },
     {
       "word": "situation",
       "translation": "la situación",
-      "example": "The situation is improving."
+      "example": "The situation is improving.",
+      "phonics": "/ˌsɪtʃuˈeɪʃən/"
     },
     {
       "word": "skill",
       "translation": "la habilidad",
-      "example": "Cooking is a useful skill."
+      "example": "Cooking is a useful skill.",
+      "phonics": "/ˈskɪl/"
     },
     {
       "word": "skirt",
       "translation": "la falda",
-      "example": "Her skirt is too long."
+      "example": "Her skirt is too long.",
+      "phonics": "/ˈskɝt/"
     },
     {
       "word": "sleep",
       "translation": "dormir",
-      "example": "The baby sleeps all afternoon."
+      "example": "The baby sleeps all afternoon.",
+      "phonics": "/ˈslip/"
     },
     {
       "word": "slow",
       "translation": "lento",
-      "example": "The traffic is slow today."
+      "example": "The traffic is slow today.",
+      "phonics": "/ˈsloʊ/"
     },
     {
       "word": "small",
       "translation": "pequeño",
-      "example": "She has a small bag."
+      "example": "She has a small bag.",
+      "phonics": "/ˈsmɔl/"
     },
     {
       "word": "snake",
       "translation": "la serpiente",
-      "example": "A snake crosses the path."
+      "example": "A snake crosses the path.",
+      "phonics": "/ˈsneɪk/"
     },
     {
       "word": "snow",
       "translation": "la nieve",
-      "example": "The snow lasts three days."
+      "example": "The snow lasts three days.",
+      "phonics": "/ˈsnoʊ/"
     },
     {
       "word": "sofa",
       "translation": "el sofá",
-      "example": "The cat sleeps on the sofa."
+      "example": "The cat sleeps on the sofa.",
+      "phonics": "/ˈsoʊfə/"
     },
     {
       "word": "somebody",
       "translation": "alguien",
-      "example": "Somebody leaves the light on."
+      "example": "Somebody leaves the light on.",
+      "phonics": "/ˈsəmˌbɑdi/, /ˈsəmbəˌdi/"
     },
     {
       "word": "someone",
       "translation": "alguien",
-      "example": "Someone leaves a note here."
+      "example": "Someone leaves a note here.",
+      "phonics": "/ˈsəmˌwən/"
     },
     {
       "word": "something",
       "translation": "algo",
-      "example": "Something smells burnt."
+      "example": "Something smells burnt.",
+      "phonics": "/ˈsəmθɪŋ/"
     },
     {
       "word": "sometimes",
       "translation": "a veces",
-      "example": "Sometimes she walks to work."
+      "example": "Sometimes she walks to work.",
+      "phonics": "/ˈsəmˌtaɪmz/, /səmˈtaɪmz/"
     },
     {
       "word": "son",
       "translation": "el hijo",
-      "example": "Their son studies abroad."
+      "example": "Their son studies abroad.",
+      "phonics": "/ˈsən/"
     },
     {
       "word": "song",
       "translation": "la canción",
-      "example": "That song is very old."
+      "example": "That song is very old.",
+      "phonics": "/ˈsɔŋ/"
     },
     {
       "word": "soon",
       "translation": "pronto",
-      "example": "The train leaves soon."
+      "example": "The train leaves soon.",
+      "phonics": "/ˈsun/"
     },
     {
       "word": "sound",
       "translation": "el sonido",
-      "example": "The sound comes from upstairs."
+      "example": "The sound comes from upstairs.",
+      "phonics": "/ˈsaʊnd/"
     },
     {
       "word": "soup",
       "translation": "la sopa",
-      "example": "The soup is too salty."
+      "example": "The soup is too salty.",
+      "phonics": "/ˈsup/"
     },
     {
       "word": "south",
       "translation": "el sur",
-      "example": "They drive south for hours."
+      "example": "They drive south for hours.",
+      "phonics": "/ˈsaʊθ/"
     },
     {
       "word": "space",
       "translation": "el espacio",
-      "example": "There is space for one more."
+      "example": "There is space for one more.",
+      "phonics": "/ˈspeɪs/"
     },
     {
       "word": "speak",
       "translation": "hablar",
-      "example": "She speaks three languages."
+      "example": "She speaks three languages.",
+      "phonics": "/ˈspik/"
     },
     {
       "word": "special",
       "translation": "especial",
-      "example": "Today is a special day."
+      "example": "Today is a special day.",
+      "phonics": "/ˈspɛʃəl/"
     },
     {
       "word": "spell",
       "translation": "deletrear",
-      "example": "How do you spell your name?"
+      "example": "How do you spell your name?",
+      "phonics": "/ˈspɛl/"
     },
     {
       "word": "spend",
       "translation": "gastar",
-      "example": "They spend little on food."
+      "example": "They spend little on food.",
+      "phonics": "/ˈspɛnd/"
     },
     {
       "word": "sport",
       "translation": "el deporte",
-      "example": "Football is his favourite sport."
+      "example": "Football is his favourite sport.",
+      "phonics": "/ˈspɔrt/"
     },
     {
       "word": "spring",
       "translation": "la primavera",
-      "example": "The garden is best in spring."
+      "example": "The garden is best in spring.",
+      "phonics": "/ˈsprɪŋ/, /spɝˈɪŋ/"
     },
     {
       "word": "stand",
       "translation": "estar de pie",
-      "example": "Please stand near the door."
+      "example": "Please stand near the door.",
+      "phonics": "/ˈstænd/"
     },
     {
       "word": "star",
       "translation": "la estrella",
-      "example": "One star shines above the hill."
+      "example": "One star shines above the hill.",
+      "phonics": "/ˈstɑr/"
     },
     {
       "word": "start",
       "translation": "empezar",
-      "example": "The class starts at ten."
+      "example": "The class starts at ten.",
+      "phonics": "/ˈstɑrt/"
     },
     {
       "word": "statement",
       "translation": "la declaración",
-      "example": "His statement is short."
+      "example": "His statement is short.",
+      "phonics": "/ˈsteɪtmənt/"
     },
     {
       "word": "station",
       "translation": "la estación",
-      "example": "The station is behind the market."
+      "example": "The station is behind the market.",
+      "phonics": "/ˈsteɪʃən/"
     },
     {
       "word": "stay",
       "translation": "quedarse",
-      "example": "We stay two nights."
+      "example": "We stay two nights.",
+      "phonics": "/ˈsteɪ/"
     },
     {
       "word": "stop",
       "translation": "parar",
-      "example": "The bus stops here."
+      "example": "The bus stops here.",
+      "phonics": "/ˈstɑp/"
     },
     {
       "word": "story",
       "translation": "la historia",
-      "example": "He tells us a funny story."
+      "example": "He tells us a funny story.",
+      "phonics": "/ˈstɔri/"
     },
     {
       "word": "street",
       "translation": "la calle",
-      "example": "Their street is very narrow."
+      "example": "Their street is very narrow.",
+      "phonics": "/ˈstrit/"
     },
     {
       "word": "strong",
       "translation": "fuerte",
-      "example": "The coffee here is very strong."
+      "example": "The coffee here is very strong.",
+      "phonics": "/ˈstrɔŋ/"
     },
     {
       "word": "student",
       "translation": "el estudiante",
-      "example": "Every student needs a pen."
+      "example": "Every student needs a pen.",
+      "phonics": "/ˈstudənt/"
     },
     {
       "word": "study",
       "translation": "estudiar",
-      "example": "She studies at night."
+      "example": "She studies at night.",
+      "phonics": "/ˈstədi/"
     },
     {
       "word": "style",
       "translation": "el estilo",
-      "example": "I like her writing style."
+      "example": "I like her writing style.",
+      "phonics": "/ˈstaɪl/"
     },
     {
       "word": "subject",
       "translation": "la asignatura",
-      "example": "History is my best subject."
+      "example": "History is my best subject.",
+      "phonics": "/ˈsəbdʒɪkt/, /səbˈdʒɛkt/"
     },
     {
       "word": "success",
       "translation": "el éxito",
-      "example": "The party is a big success."
+      "example": "The party is a big success.",
+      "phonics": "/səkˈsɛs/"
     },
     {
       "word": "sugar",
       "translation": "el azúcar",
-      "example": "He takes no sugar."
+      "example": "He takes no sugar.",
+      "phonics": "/ˈʃʊɡɝ/"
     },
     {
       "word": "summer",
       "translation": "el verano",
-      "example": "The summer is very hot."
+      "example": "The summer is very hot.",
+      "phonics": "/ˈsəmɝ/"
     },
     {
       "word": "sun",
       "translation": "el sol",
-      "example": "The sun is very strong today."
+      "example": "The sun is very strong today.",
+      "phonics": "/ˈsən/"
     },
     {
       "word": "supermarket",
       "translation": "el supermercado",
-      "example": "The supermarket opens early."
+      "example": "The supermarket opens early.",
+      "phonics": "/ˈsupɝˌmɑrkɪt/"
     },
     {
       "word": "sure",
       "translation": "seguro de estar",
-      "example": "I am not sure about the time."
+      "example": "I am not sure about the time.",
+      "phonics": "/ˈʃʊr/"
     },
     {
       "word": "sweater",
       "translation": "el jersey",
-      "example": "He wears a thick sweater."
+      "example": "He wears a thick sweater.",
+      "phonics": "/ˈswɛtɝ/"
     },
     {
       "word": "swim",
       "translation": "nadar",
-      "example": "They swim before breakfast."
+      "example": "They swim before breakfast.",
+      "phonics": "/ˈswɪm/"
     },
     {
       "word": "table",
       "translation": "la mesa",
-      "example": "The keys are on the table."
+      "example": "The keys are on the table.",
+      "phonics": "/ˈteɪbəl/"
     },
     {
       "word": "take",
       "translation": "tomar",
-      "example": "Take an umbrella with you."
+      "example": "Take an umbrella with you.",
+      "phonics": "/ˈteɪk/"
     },
     {
       "word": "talk",
       "translation": "hablar con",
-      "example": "We talk for an hour."
+      "example": "We talk for an hour.",
+      "phonics": "/ˈtɔk/"
     },
     {
       "word": "tall",
       "translation": "alto de estatura",
-      "example": "He is taller than his father."
+      "example": "He is taller than his father.",
+      "phonics": "/ˈtɔl/"
     },
     {
       "word": "taxi",
       "translation": "el taxi",
-      "example": "We take a taxi home."
+      "example": "We take a taxi home.",
+      "phonics": "/ˈtæksi/"
     },
     {
       "word": "tea",
       "translation": "el té",
-      "example": "She drinks tea in the evening."
+      "example": "She drinks tea in the evening.",
+      "phonics": "/ˈti/"
     },
     {
       "word": "teach",
       "translation": "enseñar",
-      "example": "He teaches history at a school."
+      "example": "He teaches history at a school.",
+      "phonics": "/ˈtitʃ/"
     },
     {
       "word": "teacher",
       "translation": "el profesor",
-      "example": "The teacher asks a question."
+      "example": "The teacher asks a question.",
+      "phonics": "/ˈtitʃɝ/"
     },
     {
       "word": "team",
       "translation": "el equipo",
-      "example": "Our team wins on Sunday."
+      "example": "Our team wins on Sunday.",
+      "phonics": "/ˈtim/"
     },
     {
       "word": "teenager",
       "translation": "el adolescente",
-      "example": "The teenager misses the bus."
+      "example": "The teenager misses the bus.",
+      "phonics": "/ˈtiˌneɪdʒɝ/"
     },
     {
       "word": "telephone",
       "translation": "el teléfono",
-      "example": "The telephone rings twice."
+      "example": "The telephone rings twice.",
+      "phonics": "/ˈtɛləˌfoʊn/"
     },
     {
       "word": "television",
       "translation": "la televisión",
-      "example": "The television is too loud."
+      "example": "The television is too loud.",
+      "phonics": "/ˈtɛləˌvɪʒən/"
     },
     {
       "word": "tell",
       "translation": "contar",
-      "example": "Tell me what happened."
+      "example": "Tell me what happened.",
+      "phonics": "/ˈtɛl/"
     },
     {
       "word": "tennis",
       "translation": "el tenis",
-      "example": "They play tennis on Fridays."
+      "example": "They play tennis on Fridays.",
+      "phonics": "/ˈtɛnəs/, /ˈtɛnɪs/"
     },
     {
       "word": "terrible",
       "translation": "terrible",
-      "example": "The weather is terrible today."
+      "example": "The weather is terrible today.",
+      "phonics": "/ˈtɛrəbəl/"
     },
     {
       "word": "test",
       "translation": "la prueba",
-      "example": "The test is easy today."
+      "example": "The test is easy today.",
+      "phonics": "/ˈtɛst/"
     },
     {
       "word": "text",
       "translation": "el mensaje de texto",
-      "example": "Send me a text tonight."
+      "example": "Send me a text tonight.",
+      "phonics": "/ˈtɛkst/"
     },
     {
       "word": "theatre",
       "translation": "el teatro",
-      "example": "The theatre is closed in August."
+      "example": "The theatre is closed in August.",
+      "phonics": "/ˈθiətɝ/"
     },
     {
       "word": "thing",
       "translation": "la cosa",
-      "example": "One thing still worries me."
+      "example": "One thing still worries me.",
+      "phonics": "/ˈθɪŋ/"
     },
     {
       "word": "think",
       "translation": "pensar",
-      "example": "I think she is right."
+      "example": "I think she is right.",
+      "phonics": "/ˈθɪŋk/"
     },
     {
       "word": "thirsty",
       "translation": "sediento",
-      "example": "The children are thirsty now."
+      "example": "The children are thirsty now.",
+      "phonics": "/ˈθɝsti/"
     },
     {
       "word": "ticket",
       "translation": "el billete",
-      "example": "I buy a ticket every week."
+      "example": "I buy a ticket every week.",
+      "phonics": "/ˈtɪkət/, /ˈtɪkɪt/"
     },
     {
       "word": "time",
       "translation": "el tiempo",
-      "example": "I have no time today."
+      "example": "I have no time today.",
+      "phonics": "/ˈtaɪm/"
     },
     {
       "word": "tired",
       "translation": "cansado",
-      "example": "I feel tired after work."
+      "example": "I feel tired after work.",
+      "phonics": "/ˈtaɪɝd/"
     },
     {
       "word": "title",
       "translation": "el título",
-      "example": "The title is very short."
+      "example": "The title is very short.",
+      "phonics": "/ˈtaɪtəl/"
     },
     {
       "word": "today",
       "translation": "hoy",
-      "example": "Today is my last day."
+      "example": "Today is my last day.",
+      "phonics": "/təˈdeɪ/, /tuˈdeɪ/"
     },
     {
       "word": "together",
       "translation": "juntos",
-      "example": "They finish the work together."
+      "example": "They finish the work together.",
+      "phonics": "/təˈɡɛðɝ/"
     },
     {
       "word": "toilet",
       "translation": "el aseo",
-      "example": "The toilet is at the back."
+      "example": "The toilet is at the back.",
+      "phonics": "/ˈtɔɪlət/"
     },
     {
       "word": "tomato",
       "translation": "el tomate",
-      "example": "Slice one tomato thinly."
+      "example": "Slice one tomato thinly.",
+      "phonics": "/təˈmɑˌtoʊ/, /təˈmeɪˌtoʊ/"
     },
     {
       "word": "tomorrow",
       "translation": "mañana",
-      "example": "We leave tomorrow morning."
+      "example": "We leave tomorrow morning.",
+      "phonics": "/təˈmɑˌroʊ/, /tuˈmɑˌroʊ/"
     },
     {
       "word": "tonight",
       "translation": "esta noche",
-      "example": "There is a concert tonight."
+      "example": "There is a concert tonight.",
+      "phonics": "/təˈnaɪt/, /tʊˈnaɪt/"
     },
     {
       "word": "tooth",
       "translation": "el diente",
-      "example": "He has one broken tooth."
+      "example": "He has one broken tooth.",
+      "phonics": "/ˈtuθ/"
     },
     {
       "word": "topic",
       "translation": "el tema",
-      "example": "The topic changes quickly."
+      "example": "The topic changes quickly.",
+      "phonics": "/ˈtɑpɪk/"
     },
     {
       "word": "tourist",
       "translation": "el turista",
-      "example": "A tourist asks for directions."
+      "example": "A tourist asks for directions.",
+      "phonics": "/ˈtʊrəst/, /ˈtʊrɪst/"
     },
     {
       "word": "town",
       "translation": "el pueblo",
-      "example": "The town has one bank."
+      "example": "The town has one bank.",
+      "phonics": "/ˈtaʊn/"
     },
     {
       "word": "traffic",
       "translation": "el tráfico",
-      "example": "The traffic is terrible today."
+      "example": "The traffic is terrible today.",
+      "phonics": "/ˈtræfɪk/"
     },
     {
       "word": "train",
       "translation": "el tren",
-      "example": "The train leaves at six."
+      "example": "The train leaves at six.",
+      "phonics": "/ˈtreɪn/"
     },
     {
       "word": "travel",
       "translation": "viajar",
-      "example": "They travel every summer."
+      "example": "They travel every summer.",
+      "phonics": "/ˈtrævəl/"
     },
     {
       "word": "tree",
       "translation": "el árbol",
-      "example": "A big tree stands by the gate."
+      "example": "A big tree stands by the gate.",
+      "phonics": "/ˈtri/"
     },
     {
       "word": "trip",
       "translation": "el viaje",
-      "example": "The trip takes two days."
+      "example": "The trip takes two days.",
+      "phonics": "/ˈtrɪp/"
     },
     {
       "word": "trousers",
       "translation": "los pantalones",
-      "example": "His trousers are too long."
+      "example": "His trousers are too long.",
+      "phonics": "/ˈtraʊzɝz/"
     },
     {
       "word": "true",
       "translation": "cierto",
-      "example": "That story is true."
+      "example": "That story is true.",
+      "phonics": "/ˈtru/"
     },
     {
       "word": "try",
       "translation": "intentar",
-      "example": "Try the other door."
+      "example": "Try the other door.",
+      "phonics": "/ˈtraɪ/"
     },
     {
       "word": "T-shirt",
       "translation": "la camiseta",
-      "example": "He wears a plain T-shirt."
+      "example": "He wears a plain T-shirt.",
+      "phonics": "/ˈtiˌsɝt/"
     },
     {
       "word": "turn",
       "translation": "girar",
-      "example": "Turn left at the church."
+      "example": "Turn left at the church.",
+      "phonics": "/ˈtɝn/"
     },
     {
       "word": "TV",
       "translation": "la tele",
-      "example": "The TV is on all evening."
+      "example": "The TV is on all evening.",
+      "phonics": "/ˈtiˈvi/, /ˌtɛləˈvɪʒən/"
     },
     {
       "word": "type",
       "translation": "el tipo, la clase",
-      "example": "What type of bread is it?"
+      "example": "What type of bread is it?",
+      "phonics": "/ˈtaɪp/"
     },
     {
       "word": "umbrella",
       "translation": "el paraguas",
-      "example": "She carries a small umbrella."
+      "example": "She carries a small umbrella.",
+      "phonics": "/ˈəmˌbrɛlə/, /əmˈbrɛlə/"
     },
     {
       "word": "uncle",
       "translation": "el tío",
-      "example": "My uncle lives in Spain."
+      "example": "My uncle lives in Spain.",
+      "phonics": "/ˈəŋkəl/"
     },
     {
       "word": "understand",
       "translation": "entender",
-      "example": "I do not understand this word."
+      "example": "I do not understand this word.",
+      "phonics": "/ˌəndɝˈstænd/"
     },
     {
       "word": "university",
       "translation": "la universidad",
-      "example": "She starts university in October."
+      "example": "She starts university in October.",
+      "phonics": "/ˌjunəˈvɝsəti/"
     },
     {
       "word": "upstairs",
       "translation": "arriba",
-      "example": "The bathroom is upstairs."
+      "example": "The bathroom is upstairs.",
+      "phonics": "/əpˈstɛrz/"
     },
     {
       "word": "use",
       "translation": "usar",
-      "example": "Use a sharp knife."
+      "example": "Use a sharp knife.",
+      "phonics": "/ˈjus/, /ˈjuz/"
     },
     {
       "word": "useful",
       "translation": "útil",
-      "example": "That is a useful suggestion."
+      "example": "That is a useful suggestion.",
+      "phonics": "/ˈjusfəl/"
     },
     {
       "word": "vacation",
       "translation": "las vacaciones",
-      "example": "They take a long vacation."
+      "example": "They take a long vacation.",
+      "phonics": "/veɪˈkeɪʃən/"
     },
     {
       "word": "vegetable",
       "translation": "la verdura",
-      "example": "Eat one green vegetable daily."
+      "example": "Eat one green vegetable daily.",
+      "phonics": "/ˈvɛdʒtəbəl/"
     },
     {
       "word": "video",
       "translation": "el vídeo",
-      "example": "The video does not load."
+      "example": "The video does not load.",
+      "phonics": "/ˈvɪdioʊ/"
     },
     {
       "word": "village",
       "translation": "el pueblo",
-      "example": "She lives in a small village."
+      "example": "She lives in a small village.",
+      "phonics": "/ˈvɪlədʒ/, /ˈvɪlɪdʒ/"
     },
     {
       "word": "visit",
       "translation": "visitar",
-      "example": "They visit every August."
+      "example": "They visit every August.",
+      "phonics": "/ˈvɪzɪt/"
     },
     {
       "word": "visitor",
       "translation": "el visitante",
-      "example": "One visitor arrives early today."
+      "example": "One visitor arrives early today.",
+      "phonics": "/ˈvɪzɪtɝ/"
     },
     {
       "word": "wait",
       "translation": "esperar",
-      "example": "We wait for an hour."
+      "example": "We wait for an hour.",
+      "phonics": "/ˈweɪt/"
     },
     {
       "word": "waiter",
       "translation": "el camarero",
-      "example": "The waiter forgets the drinks."
+      "example": "The waiter forgets the drinks.",
+      "phonics": "/ˈweɪtɝ/"
     },
     {
       "word": "wake",
       "translation": "despertar",
-      "example": "Wake me at seven."
+      "example": "Wake me at seven.",
+      "phonics": "/ˈweɪk/"
     },
     {
       "word": "walk",
       "translation": "caminar",
-      "example": "They walk to work every day."
+      "example": "They walk to work every day.",
+      "phonics": "/ˈwɑk/, /ˈwɔk/"
     },
     {
       "word": "wall",
       "translation": "la pared",
-      "example": "The wall needs painting."
+      "example": "The wall needs painting.",
+      "phonics": "/ˈwɔl/"
     },
     {
       "word": "want",
       "translation": "querer",
-      "example": "I want a quiet evening."
+      "example": "I want a quiet evening.",
+      "phonics": "/ˈwɑnt/, /ˈwɔnt/"
     },
     {
       "word": "warm",
       "translation": "cálido",
-      "example": "The room is warm enough."
+      "example": "The room is warm enough.",
+      "phonics": "/ˈwɔrm/"
     },
     {
       "word": "wash",
       "translation": "lavar",
-      "example": "Wash your hands first."
+      "example": "Wash your hands first.",
+      "phonics": "/ˈwɑʃ/"
     },
     {
       "word": "watch",
       "translation": "ver, mirar",
-      "example": "We watch the sun every evening."
+      "example": "We watch the sun every evening.",
+      "phonics": "/ˈwɑtʃ/, /ˈwɔtʃ/"
     },
     {
       "word": "water",
       "translation": "el agua",
-      "example": "I drink water after running."
+      "example": "I drink water after running.",
+      "phonics": "/ˈwɔtɝ/"
     },
     {
       "word": "way",
       "translation": "el camino",
-      "example": "This is the quickest way."
+      "example": "This is the quickest way.",
+      "phonics": "/ˈweɪ/"
     },
     {
       "word": "wear",
       "translation": "llevar puesto",
-      "example": "She wears glasses to read."
+      "example": "She wears glasses to read.",
+      "phonics": "/ˈwɛr/"
     },
     {
       "word": "weather",
       "translation": "el tiempo",
-      "example": "The weather changes suddenly."
+      "example": "The weather changes suddenly.",
+      "phonics": "/ˈwɛðɝ/"
     },
     {
       "word": "website",
       "translation": "el sitio web",
-      "example": "The website is very slow."
+      "example": "The website is very slow.",
+      "phonics": "/ˈwɛbˌsaɪt/"
     },
     {
       "word": "week",
       "translation": "la semana",
-      "example": "The meeting is next week."
+      "example": "The meeting is next week.",
+      "phonics": "/ˈwik/"
     },
     {
       "word": "weekend",
       "translation": "el fin de semana",
-      "example": "We stay home every weekend."
+      "example": "We stay home every weekend.",
+      "phonics": "/ˈwiˌkɛnd/, /ˈwiˌkɪnd/"
     },
     {
       "word": "welcome",
       "translation": "dar la bienvenida",
-      "example": "Visitors are always welcome here."
+      "example": "Visitors are always welcome here.",
+      "phonics": "/ˈwɛlkəm/"
     },
     {
       "word": "west",
       "translation": "el oeste",
-      "example": "The sun sets in the west."
+      "example": "The sun sets in the west.",
+      "phonics": "/ˈwɛst/"
     },
     {
       "word": "white",
       "translation": "blanco",
-      "example": "The walls are white."
+      "example": "The walls are white.",
+      "phonics": "/ˈhwaɪt/, /ˈwaɪt/"
     },
     {
       "word": "wife",
       "translation": "la esposa",
-      "example": "His wife teaches music."
+      "example": "His wife teaches music.",
+      "phonics": "/ˈwaɪf/"
     },
     {
       "word": "win",
       "translation": "ganar",
-      "example": "They win by one goal."
+      "example": "They win by one goal.",
+      "phonics": "/ˈwɪn/"
     },
     {
       "word": "wind",
       "translation": "el viento",
-      "example": "A cold wind comes from the sea."
+      "example": "A cold wind comes from the sea.",
+      "phonics": "/ˈwaɪnd/, /ˈwɪnd/"
     },
     {
       "word": "window",
       "translation": "la ventana",
-      "example": "Open the window for some air."
+      "example": "Open the window for some air.",
+      "phonics": "/ˈwɪndoʊ/"
     },
     {
       "word": "wine",
       "translation": "el vino",
-      "example": "The wine is too warm."
+      "example": "The wine is too warm.",
+      "phonics": "/ˈwaɪn/"
     },
     {
       "word": "winter",
       "translation": "el invierno",
-      "example": "The winter is very cold."
+      "example": "The winter is very cold.",
+      "phonics": "/ˈwɪntɝ/"
     },
     {
       "word": "woman",
       "translation": "la mujer",
-      "example": "That woman is a nurse."
+      "example": "That woman is a nurse.",
+      "phonics": "/ˈwʊmən/"
     },
     {
       "word": "wonderful",
       "translation": "maravilloso",
-      "example": "This is a wonderful evening."
+      "example": "This is a wonderful evening.",
+      "phonics": "/ˈwəndɝfəl/"
     },
     {
       "word": "word",
       "translation": "la palabra",
-      "example": "I do not understand that word."
+      "example": "I do not understand that word.",
+      "phonics": "/ˈwɝd/"
     },
     {
       "word": "work",
       "translation": "trabajar",
-      "example": "She works in a hospital."
+      "example": "She works in a hospital.",
+      "phonics": "/ˈwɝk/"
     },
     {
       "word": "worker",
       "translation": "el trabajador",
-      "example": "Every worker gets a bonus."
+      "example": "Every worker gets a bonus.",
+      "phonics": "/ˈwɝkɝ/"
     },
     {
       "word": "world",
       "translation": "el mundo",
-      "example": "The world changes every day."
+      "example": "The world changes every day.",
+      "phonics": "/ˈwɝld/"
     },
     {
       "word": "write",
       "translation": "escribir",
-      "example": "Please write your answer here."
+      "example": "Please write your answer here.",
+      "phonics": "/ˈraɪt/"
     },
     {
       "word": "writer",
       "translation": "el escritor",
-      "example": "The writer lives nearby."
+      "example": "The writer lives nearby.",
+      "phonics": "/ˈraɪtɝ/"
     },
     {
       "word": "wrong",
       "translation": "equivocado",
-      "example": "You have the wrong number."
+      "example": "You have the wrong number.",
+      "phonics": "/ˈrɔŋ/"
     },
     {
       "word": "year",
       "translation": "el año",
-      "example": "They live here this year."
+      "example": "They live here this year.",
+      "phonics": "/ˈjɪr/"
     },
     {
       "word": "yellow",
       "translation": "amarillo",
-      "example": "The walls are pale yellow."
+      "example": "The walls are pale yellow.",
+      "phonics": "/ˈjɛloʊ/"
     },
     {
       "word": "yesterday",
       "translation": "ayer",
-      "example": "It rained all day yesterday."
+      "example": "It rained all day yesterday.",
+      "phonics": "/ˈjɛstɝˌdeɪ/, /ˈjɛstɝdi/"
     },
     {
       "word": "young",
       "translation": "joven",
-      "example": "She is too young to drive."
+      "example": "She is too young to drive.",
+      "phonics": "/ˈjəŋ/"
     }
   ]
 }

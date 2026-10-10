@@ -1,0 +1,5981 @@
+{
+  "id": "zh-en-hsk4",
+  "name": "Chinese HSK 4",
+  "learn": "zh-CN",
+  "native": "en",
+  "level": "HSK4",
+  "version": 32,
+  "examples": false,
+  "items": [
+    {
+      "word": "阿姨",
+      "translation": "aunt",
+      "example": "",
+      "pronunciation": "āyí"
+    },
+    {
+      "word": "啊",
+      "translation": "ah",
+      "example": "",
+      "pronunciation": "a"
+    },
+    {
+      "word": "矮",
+      "translation": "short",
+      "example": "",
+      "pronunciation": "ǎi"
+    },
+    {
+      "word": "矮小",
+      "translation": "short and small, low and small, undersized",
+      "example": "",
+      "pronunciation": "ǎixiǎo"
+    },
+    {
+      "word": "爱国",
+      "translation": "love one's country, be patriotic",
+      "example": "",
+      "pronunciation": "àiguó"
+    },
+    {
+      "word": "爱护",
+      "translation": "take good care of, cherish",
+      "example": "",
+      "pronunciation": "àihù"
+    },
+    {
+      "word": "安",
+      "translation": "quiet, safe, secure, install, fix, fit",
+      "example": "",
+      "pronunciation": "ān"
+    },
+    {
+      "word": "安置",
+      "translation": "put, arrange for",
+      "example": "",
+      "pronunciation": "ānzhì"
+    },
+    {
+      "word": "按时",
+      "translation": "on time",
+      "example": "",
+      "pronunciation": "ànshí"
+    },
+    {
+      "word": "暗",
+      "translation": "dark",
+      "example": "",
+      "pronunciation": "àn"
+    },
+    {
+      "word": "暗示",
+      "translation": "hint, suggest",
+      "example": "",
+      "pronunciation": "ànshì"
+    },
+    {
+      "word": "巴士",
+      "translation": "bus",
+      "example": "",
+      "pronunciation": "bāshì"
+    },
+    {
+      "word": "百货",
+      "translation": "department store, general merchandise",
+      "example": "",
+      "pronunciation": "bǎihuò"
+    },
+    {
+      "word": "摆",
+      "translation": "put, place, arrange, swing",
+      "example": "",
+      "pronunciation": "bǎi"
+    },
+    {
+      "word": "摆动",
+      "translation": "swing, sway, oscillate, vibrate",
+      "example": "",
+      "pronunciation": "bǎidòng"
+    },
+    {
+      "word": "摆脱",
+      "translation": "get rid of, break free from",
+      "example": "",
+      "pronunciation": "bǎituō"
+    },
+    {
+      "word": "败",
+      "translation": "defeat, beat, fail, lose",
+      "example": "",
+      "pronunciation": "bài"
+    },
+    {
+      "word": "办事",
+      "translation": "handle affairs, work",
+      "example": "",
+      "pronunciation": "bànshì"
+    },
+    {
+      "word": "包裹",
+      "translation": "package",
+      "example": "",
+      "pronunciation": "bāoguǒ"
+    },
+    {
+      "word": "包含",
+      "translation": "contain",
+      "example": "",
+      "pronunciation": "bāohán"
+    },
+    {
+      "word": "包括",
+      "translation": "include",
+      "example": "",
+      "pronunciation": "bāokuò"
+    },
+    {
+      "word": "薄",
+      "translation": "thin",
+      "example": "",
+      "pronunciation": "báo"
+    },
+    {
+      "word": "宝",
+      "translation": "treasure, precious, treasured",
+      "example": "",
+      "pronunciation": "bǎo"
+    },
+    {
+      "word": "宝宝",
+      "translation": "baby, darling",
+      "example": "",
+      "pronunciation": "bǎobao"
+    },
+    {
+      "word": "宝贝",
+      "translation": "baby",
+      "example": "",
+      "pronunciation": "bǎobèi"
+    },
+    {
+      "word": "宝贵",
+      "translation": "valuable",
+      "example": "",
+      "pronunciation": "bǎoguì"
+    },
+    {
+      "word": "宝石",
+      "translation": "gemstone, gem, cameo, precious stone",
+      "example": "",
+      "pronunciation": "bǎoshí"
+    },
+    {
+      "word": "保密",
+      "translation": "keep secret",
+      "example": "",
+      "pronunciation": "bǎomì"
+    },
+    {
+      "word": "保守",
+      "translation": "conservative",
+      "example": "",
+      "pronunciation": "bǎoshǒu"
+    },
+    {
+      "word": "抱",
+      "translation": "hold, hug",
+      "example": "",
+      "pronunciation": "bào"
+    },
+    {
+      "word": "背景",
+      "translation": "background",
+      "example": "",
+      "pronunciation": "bèijǐng"
+    },
+    {
+      "word": "倍",
+      "translation": "times, -fold",
+      "example": "",
+      "pronunciation": "bèi"
+    },
+    {
+      "word": "被迫",
+      "translation": "be compelled, be forced, be constrained",
+      "example": "",
+      "pronunciation": "bèipò"
+    },
+    {
+      "word": "本科",
+      "translation": "undergraduate",
+      "example": "",
+      "pronunciation": "běnkē"
+    },
+    {
+      "word": "笨",
+      "translation": "stupid",
+      "example": "",
+      "pronunciation": "bèn"
+    },
+    {
+      "word": "比分",
+      "translation": "score",
+      "example": "",
+      "pronunciation": "bǐfēn"
+    },
+    {
+      "word": "毕业",
+      "translation": "graduate, graduation",
+      "example": "",
+      "pronunciation": "bìyè"
+    },
+    {
+      "word": "毕业生",
+      "translation": "graduate",
+      "example": "",
+      "pronunciation": "bìyèshēng"
+    },
+    {
+      "word": "避",
+      "translation": "avoid, evade, dodge, keep away, repel",
+      "example": "",
+      "pronunciation": "bì"
+    },
+    {
+      "word": "避免",
+      "translation": "avoid",
+      "example": "",
+      "pronunciation": "bìmiǎn"
+    },
+    {
+      "word": "编",
+      "translation": "invent, make up, plait, edit, compile, compose, write",
+      "example": "",
+      "pronunciation": "biān"
+    },
+    {
+      "word": "辩论",
+      "translation": "debate",
+      "example": "",
+      "pronunciation": "biànlùn"
+    },
+    {
+      "word": "标志",
+      "translation": "sign, mark, symbol",
+      "example": "",
+      "pronunciation": "biāozhì"
+    },
+    {
+      "word": "表情",
+      "translation": "expression",
+      "example": "",
+      "pronunciation": "biǎoqíng"
+    },
+    {
+      "word": "表扬",
+      "translation": "praise",
+      "example": "",
+      "pronunciation": "biǎoyáng"
+    },
+    {
+      "word": "别",
+      "translation": "do not, leave, separate, pin",
+      "example": "",
+      "pronunciation": "bié"
+    },
+    {
+      "word": "冰",
+      "translation": "ice",
+      "example": "",
+      "pronunciation": "bīng"
+    },
+    {
+      "word": "冰箱",
+      "translation": "refrigerator",
+      "example": "",
+      "pronunciation": "bīngxiāng"
+    },
+    {
+      "word": "冰雪",
+      "translation": "ice and snow",
+      "example": "",
+      "pronunciation": "bīngxuě"
+    },
+    {
+      "word": "兵",
+      "translation": "arms, soldier, force, weapon, military",
+      "example": "",
+      "pronunciation": "bīng"
+    },
+    {
+      "word": "并",
+      "translation": "combine, merge, incorporate",
+      "example": "",
+      "pronunciation": "bìng"
+    },
+    {
+      "word": "不要紧",
+      "translation": "never mind",
+      "example": "",
+      "pronunciation": "búyàojǐn"
+    },
+    {
+      "word": "不在乎",
+      "translation": "not mind, not care",
+      "example": "",
+      "pronunciation": "búzàihū"
+    },
+    {
+      "word": "不管",
+      "translation": "no matter",
+      "example": "",
+      "pronunciation": "bùguǎn"
+    },
+    {
+      "word": "不然",
+      "translation": "otherwise",
+      "example": "",
+      "pronunciation": "bùrán"
+    },
+    {
+      "word": "布置",
+      "translation": "arrange, decorate",
+      "example": "",
+      "pronunciation": "bùzhì"
+    },
+    {
+      "word": "步行",
+      "translation": "go on foot, walk",
+      "example": "",
+      "pronunciation": "bùxíng"
+    },
+    {
+      "word": "擦",
+      "translation": "wipe",
+      "example": "",
+      "pronunciation": "cā"
+    },
+    {
+      "word": "才",
+      "translation": "ability, talent, gift, endowment",
+      "example": "",
+      "pronunciation": "cái"
+    },
+    {
+      "word": "材料",
+      "translation": "materials",
+      "example": "",
+      "pronunciation": "cáiliào"
+    },
+    {
+      "word": "财产",
+      "translation": "property",
+      "example": "",
+      "pronunciation": "cáichǎn"
+    },
+    {
+      "word": "财富",
+      "translation": "wealth",
+      "example": "",
+      "pronunciation": "cáifù"
+    },
+    {
+      "word": "采访",
+      "translation": "interview",
+      "example": "",
+      "pronunciation": "cǎifǎng"
+    },
+    {
+      "word": "参考",
+      "translation": "refer to, reference",
+      "example": "",
+      "pronunciation": "cānkǎo"
+    },
+    {
+      "word": "参与",
+      "translation": "participate in",
+      "example": "",
+      "pronunciation": "cānyù"
+    },
+    {
+      "word": "操场",
+      "translation": "playground",
+      "example": "",
+      "pronunciation": "cāochǎng"
+    },
+    {
+      "word": "操作",
+      "translation": "operate, operation",
+      "example": "",
+      "pronunciation": "cāozuò"
+    },
+    {
+      "word": "测",
+      "translation": "survey, fathom, measure, conjecture, infer",
+      "example": "",
+      "pronunciation": "cè"
+    },
+    {
+      "word": "测量",
+      "translation": "measure",
+      "example": "",
+      "pronunciation": "cèliáng"
+    },
+    {
+      "word": "测试",
+      "translation": "test, examination",
+      "example": "",
+      "pronunciation": "cèshì"
+    },
+    {
+      "word": "曾",
+      "translation": "once, already, at some time in the past",
+      "example": "",
+      "pronunciation": "céng"
+    },
+    {
+      "word": "茶叶",
+      "translation": "tea, tea-leaves",
+      "example": "",
+      "pronunciation": "cháyè"
+    },
+    {
+      "word": "产品",
+      "translation": "product",
+      "example": "",
+      "pronunciation": "chǎnpǐn"
+    },
+    {
+      "word": "长途",
+      "translation": "long-distance",
+      "example": "",
+      "pronunciation": "chángtú"
+    },
+    {
+      "word": "常识",
+      "translation": "common sense",
+      "example": "",
+      "pronunciation": "chángshí"
+    },
+    {
+      "word": "唱片",
+      "translation": "record, disc, phonogram",
+      "example": "",
+      "pronunciation": "chàngpiàn"
+    },
+    {
+      "word": "抄",
+      "translation": "copy",
+      "example": "",
+      "pronunciation": "chāo"
+    },
+    {
+      "word": "抄写",
+      "translation": "copy, transcribe",
+      "example": "",
+      "pronunciation": "chāoxiě"
+    },
+    {
+      "word": "潮",
+      "translation": "moist, damp, humid, tide",
+      "example": "",
+      "pronunciation": "cháo"
+    },
+    {
+      "word": "潮流",
+      "translation": "trend",
+      "example": "",
+      "pronunciation": "cháoliú"
+    },
+    {
+      "word": "潮湿",
+      "translation": "damp",
+      "example": "",
+      "pronunciation": "cháoshī"
+    },
+    {
+      "word": "彻底",
+      "translation": "thorough",
+      "example": "",
+      "pronunciation": "chèdǐ"
+    },
+    {
+      "word": "沉",
+      "translation": "sink, keep down, lower, deep, profound, heavy",
+      "example": "",
+      "pronunciation": "chén"
+    },
+    {
+      "word": "沉默",
+      "translation": "silent, silence",
+      "example": "",
+      "pronunciation": "chénmò"
+    },
+    {
+      "word": "沉重",
+      "translation": "heavy",
+      "example": "",
+      "pronunciation": "chénzhòng"
+    },
+    {
+      "word": "称赞",
+      "translation": "praise",
+      "example": "",
+      "pronunciation": "chēngzàn"
+    },
+    {
+      "word": "成人",
+      "translation": "adult",
+      "example": "",
+      "pronunciation": "chéngrén"
+    },
+    {
+      "word": "诚实",
+      "translation": "honest",
+      "example": "",
+      "pronunciation": "chéngshí"
+    },
+    {
+      "word": "诚信",
+      "translation": "honesty, integrity",
+      "example": "",
+      "pronunciation": "chéngxìn"
+    },
+    {
+      "word": "承担",
+      "translation": "bear, undertake, take on",
+      "example": "",
+      "pronunciation": "chéngdān"
+    },
+    {
+      "word": "承认",
+      "translation": "admit",
+      "example": "",
+      "pronunciation": "chéngrèn"
+    },
+    {
+      "word": "承受",
+      "translation": "bear, endure",
+      "example": "",
+      "pronunciation": "chéngshòu"
+    },
+    {
+      "word": "程序",
+      "translation": "program",
+      "example": "",
+      "pronunciation": "chéngxù"
+    },
+    {
+      "word": "吃惊",
+      "translation": "be surprised, be amazed",
+      "example": "",
+      "pronunciation": "chījīng"
+    },
+    {
+      "word": "迟到",
+      "translation": "be late, arrive late",
+      "example": "",
+      "pronunciation": "chídào"
+    },
+    {
+      "word": "尺",
+      "translation": "rule, ruler",
+      "example": "",
+      "pronunciation": "chǐ"
+    },
+    {
+      "word": "尺寸",
+      "translation": "size, measurement, dimension",
+      "example": "",
+      "pronunciation": "chǐcùn"
+    },
+    {
+      "word": "尺子",
+      "translation": "ruler",
+      "example": "",
+      "pronunciation": "chǐzi"
+    },
+    {
+      "word": "冲",
+      "translation": "rush, dash, rinse",
+      "example": "",
+      "pronunciation": "chōng"
+    },
+    {
+      "word": "充电",
+      "translation": "recharge, charge",
+      "example": "",
+      "pronunciation": "chōngdiàn"
+    },
+    {
+      "word": "充电器",
+      "translation": "charger",
+      "example": "",
+      "pronunciation": "chōngdiànqì"
+    },
+    {
+      "word": "充分",
+      "translation": "to the full",
+      "example": "",
+      "pronunciation": "chōngfèn"
+    },
+    {
+      "word": "虫子",
+      "translation": "insect, worm, bug",
+      "example": "",
+      "pronunciation": "chóngzi"
+    },
+    {
+      "word": "抽",
+      "translation": "pump, take out, shrink, pick out",
+      "example": "",
+      "pronunciation": "chōu"
+    },
+    {
+      "word": "抽奖",
+      "translation": "lottery, lottery draw",
+      "example": "",
+      "pronunciation": "chōujiǎng"
+    },
+    {
+      "word": "抽烟",
+      "translation": "smoke",
+      "example": "",
+      "pronunciation": "chōuyān"
+    },
+    {
+      "word": "出口",
+      "translation": "exit, export",
+      "example": "",
+      "pronunciation": "chūkǒu"
+    },
+    {
+      "word": "出色",
+      "translation": "excellent, outstanding",
+      "example": "",
+      "pronunciation": "chūsè"
+    },
+    {
+      "word": "出售",
+      "translation": "offer for sale, sell",
+      "example": "",
+      "pronunciation": "chūshòu"
+    },
+    {
+      "word": "出席",
+      "translation": "attend",
+      "example": "",
+      "pronunciation": "chūxí"
+    },
+    {
+      "word": "处于",
+      "translation": "be in, be (in a certain condition)",
+      "example": "",
+      "pronunciation": "chǔyú"
+    },
+    {
+      "word": "处",
+      "translation": "dwell, live, be in a position of",
+      "example": "",
+      "pronunciation": "chǔ"
+    },
+    {
+      "word": "穿上",
+      "translation": "put on",
+      "example": "",
+      "pronunciation": "chuānshàng"
+    },
+    {
+      "word": "传统",
+      "translation": "tradition",
+      "example": "",
+      "pronunciation": "chuántǒng"
+    },
+    {
+      "word": "窗户",
+      "translation": "window",
+      "example": "",
+      "pronunciation": "chuānghu"
+    },
+    {
+      "word": "窗台",
+      "translation": "windowsill, sill",
+      "example": "",
+      "pronunciation": "chuāngtái"
+    },
+    {
+      "word": "窗子",
+      "translation": "window",
+      "example": "",
+      "pronunciation": "chuāngzi"
+    },
+    {
+      "word": "春季",
+      "translation": "spring, springtime",
+      "example": "",
+      "pronunciation": "chūnjì"
+    },
+    {
+      "word": "纯",
+      "translation": "pure, unmixed, simple, skilful, practised",
+      "example": "",
+      "pronunciation": "chún"
+    },
+    {
+      "word": "纯净水",
+      "translation": "pure water",
+      "example": "",
+      "pronunciation": "chúnjìngshuǐ"
+    },
+    {
+      "word": "词汇",
+      "translation": "vocabulary",
+      "example": "",
+      "pronunciation": "cíhuì"
+    },
+    {
+      "word": "此",
+      "translation": "this, these, now, here",
+      "example": "",
+      "pronunciation": "cǐ"
+    },
+    {
+      "word": "此外",
+      "translation": "in addition",
+      "example": "",
+      "pronunciation": "cǐwài"
+    },
+    {
+      "word": "次",
+      "translation": "second-rate, secondary",
+      "example": "",
+      "pronunciation": "cì"
+    },
+    {
+      "word": "刺",
+      "translation": "thorn",
+      "example": "",
+      "pronunciation": "cì"
+    },
+    {
+      "word": "刺激",
+      "translation": "stimulate",
+      "example": "",
+      "pronunciation": "cìjī"
+    },
+    {
+      "word": "从此",
+      "translation": "from then on",
+      "example": "",
+      "pronunciation": "cóngcǐ"
+    },
+    {
+      "word": "粗",
+      "translation": "wide, thick, coarse, rough, gruff, careless, rude",
+      "example": "",
+      "pronunciation": "cū"
+    },
+    {
+      "word": "粗心",
+      "translation": "careless",
+      "example": "",
+      "pronunciation": "cūxīn"
+    },
+    {
+      "word": "促进",
+      "translation": "promote",
+      "example": "",
+      "pronunciation": "cùjìn"
+    },
+    {
+      "word": "促使",
+      "translation": "urge",
+      "example": "",
+      "pronunciation": "cùshǐ"
+    },
+    {
+      "word": "促销",
+      "translation": "sales promotion",
+      "example": "",
+      "pronunciation": "cùxiāo"
+    },
+    {
+      "word": "措施",
+      "translation": "measures",
+      "example": "",
+      "pronunciation": "cuòshī"
+    },
+    {
+      "word": "打",
+      "translation": "strike, hit, break, fight, build, beat",
+      "example": "",
+      "pronunciation": "dǎ"
+    },
+    {
+      "word": "答案",
+      "translation": "answer",
+      "example": "",
+      "pronunciation": "dá'àn"
+    },
+    {
+      "word": "打败",
+      "translation": "defeat, beat, be defeated",
+      "example": "",
+      "pronunciation": "dǎbài"
+    },
+    {
+      "word": "打雷",
+      "translation": "thunder",
+      "example": "",
+      "pronunciation": "dǎléi"
+    },
+    {
+      "word": "打扫",
+      "translation": "clean",
+      "example": "",
+      "pronunciation": "dǎsǎo"
+    },
+    {
+      "word": "打折",
+      "translation": "discount",
+      "example": "",
+      "pronunciation": "dǎzhé"
+    },
+    {
+      "word": "打针",
+      "translation": "give or get an injection",
+      "example": "",
+      "pronunciation": "dǎzhēn"
+    },
+    {
+      "word": "大巴",
+      "translation": "bus",
+      "example": "",
+      "pronunciation": "dàbā"
+    },
+    {
+      "word": "大多",
+      "translation": "mostly, for the most part",
+      "example": "",
+      "pronunciation": "dàduō"
+    },
+    {
+      "word": "大方",
+      "translation": "generous",
+      "example": "",
+      "pronunciation": "dàfang"
+    },
+    {
+      "word": "大哥",
+      "translation": "big brother, elder brother",
+      "example": "",
+      "pronunciation": "dàgē"
+    },
+    {
+      "word": "大规模",
+      "translation": "large-scale, extensive",
+      "example": "",
+      "pronunciation": "dàguīmó"
+    },
+    {
+      "word": "大会",
+      "translation": "convention, general meeting, General Assembly",
+      "example": "",
+      "pronunciation": "dàhuì"
+    },
+    {
+      "word": "大姐",
+      "translation": "elder sister",
+      "example": "",
+      "pronunciation": "dàjiě"
+    },
+    {
+      "word": "大楼",
+      "translation": "building, large building",
+      "example": "",
+      "pronunciation": "dàlóu"
+    },
+    {
+      "word": "大陆",
+      "translation": "continent, mainland",
+      "example": "",
+      "pronunciation": "dàlù"
+    },
+    {
+      "word": "大妈",
+      "translation": "aunt, father's elder brother's wife",
+      "example": "",
+      "pronunciation": "dàmā"
+    },
+    {
+      "word": "大型",
+      "translation": "large, large-scale",
+      "example": "",
+      "pronunciation": "dàxíng"
+    },
+    {
+      "word": "大爷",
+      "translation": "uncle, father's elder brother",
+      "example": "",
+      "pronunciation": "dàye"
+    },
+    {
+      "word": "大众",
+      "translation": "public, the masses, people",
+      "example": "",
+      "pronunciation": "dàzhòng"
+    },
+    {
+      "word": "代替",
+      "translation": "replace",
+      "example": "",
+      "pronunciation": "dàitì"
+    },
+    {
+      "word": "待遇",
+      "translation": "treatment, pay, benefits",
+      "example": "",
+      "pronunciation": "dàiyù"
+    },
+    {
+      "word": "袋",
+      "translation": "bag, sack, pocket, pouch",
+      "example": "",
+      "pronunciation": "dài"
+    },
+    {
+      "word": "戴",
+      "translation": "wear",
+      "example": "",
+      "pronunciation": "dài"
+    },
+    {
+      "word": "担保",
+      "translation": "guarantee, vouch for",
+      "example": "",
+      "pronunciation": "dānbǎo"
+    },
+    {
+      "word": "担任",
+      "translation": "serve as, hold the post of",
+      "example": "",
+      "pronunciation": "dānrèn"
+    },
+    {
+      "word": "担心",
+      "translation": "worry",
+      "example": "",
+      "pronunciation": "dānxīn"
+    },
+    {
+      "word": "单",
+      "translation": "single, odd, unlined, thin, weak, only, alone",
+      "example": "",
+      "pronunciation": "dān"
+    },
+    {
+      "word": "单纯",
+      "translation": "simple",
+      "example": "",
+      "pronunciation": "dānchún"
+    },
+    {
+      "word": "单调",
+      "translation": "monotonous",
+      "example": "",
+      "pronunciation": "dāndiào"
+    },
+    {
+      "word": "单独",
+      "translation": "alone",
+      "example": "",
+      "pronunciation": "dāndú"
+    },
+    {
+      "word": "淡",
+      "translation": "light, weak, bland",
+      "example": "",
+      "pronunciation": "dàn"
+    },
+    {
+      "word": "导游",
+      "translation": "tour guide",
+      "example": "",
+      "pronunciation": "dǎoyóu"
+    },
+    {
+      "word": "导致",
+      "translation": "cause",
+      "example": "",
+      "pronunciation": "dǎozhì"
+    },
+    {
+      "word": "倒闭",
+      "translation": "go bankrupt, close down",
+      "example": "",
+      "pronunciation": "dǎobì"
+    },
+    {
+      "word": "倒车",
+      "translation": "change trains or buses, back a car, reverse",
+      "example": "",
+      "pronunciation": "dǎochē, dàochē"
+    },
+    {
+      "word": "得意",
+      "translation": "pleased with oneself, proud",
+      "example": "",
+      "pronunciation": "déyì"
+    },
+    {
+      "word": "得",
+      "translation": "need, must, have to, be sure to",
+      "example": "",
+      "pronunciation": "děi"
+    },
+    {
+      "word": "灯光",
+      "translation": "light, stage lighting",
+      "example": "",
+      "pronunciation": "dēngguāng"
+    },
+    {
+      "word": "登",
+      "translation": "ascend, mount, scale, step on, pedal, publish",
+      "example": "",
+      "pronunciation": "dēng"
+    },
+    {
+      "word": "登记",
+      "translation": "register",
+      "example": "",
+      "pronunciation": "dēngjì"
+    },
+    {
+      "word": "登录",
+      "translation": "sign in",
+      "example": "",
+      "pronunciation": "dēnglù"
+    },
+    {
+      "word": "登山",
+      "translation": "mountaineer, mountain-climbing",
+      "example": "",
+      "pronunciation": "dēngshān"
+    },
+    {
+      "word": "的确",
+      "translation": "indeed, be certain to",
+      "example": "",
+      "pronunciation": "díquè"
+    },
+    {
+      "word": "敌人",
+      "translation": "enemy",
+      "example": "",
+      "pronunciation": "dírén"
+    },
+    {
+      "word": "底",
+      "translation": "bottom",
+      "example": "",
+      "pronunciation": "dǐ"
+    },
+    {
+      "word": "地方",
+      "translation": "local, regional",
+      "example": "",
+      "pronunciation": "dìfāng"
+    },
+    {
+      "word": "地面",
+      "translation": "ground, floor, surface",
+      "example": "",
+      "pronunciation": "dìmiàn"
+    },
+    {
+      "word": "地位",
+      "translation": "status, position",
+      "example": "",
+      "pronunciation": "dìwèi"
+    },
+    {
+      "word": "地下",
+      "translation": "underground, subterranean, secret",
+      "example": "",
+      "pronunciation": "dìxià"
+    },
+    {
+      "word": "地址",
+      "translation": "address",
+      "example": "",
+      "pronunciation": "dìzhǐ"
+    },
+    {
+      "word": "典型",
+      "translation": "typical",
+      "example": "",
+      "pronunciation": "diǎnxíng"
+    },
+    {
+      "word": "点名",
+      "translation": "call the roll, mention by name",
+      "example": "",
+      "pronunciation": "diǎnmíng"
+    },
+    {
+      "word": "电灯",
+      "translation": "electric light",
+      "example": "",
+      "pronunciation": "diàndēng"
+    },
+    {
+      "word": "电动车",
+      "translation": "electric vehicle, e-bike",
+      "example": "",
+      "pronunciation": "diàndòngchē"
+    },
+    {
+      "word": "电梯",
+      "translation": "elevator",
+      "example": "",
+      "pronunciation": "diàntī"
+    },
+    {
+      "word": "电源",
+      "translation": "power supply",
+      "example": "",
+      "pronunciation": "diànyuán"
+    },
+    {
+      "word": "顶",
+      "translation": "top",
+      "example": "",
+      "pronunciation": "dǐng"
+    },
+    {
+      "word": "定",
+      "translation": "decide, fix, book, order, calm, stable",
+      "example": "",
+      "pronunciation": "dìng"
+    },
+    {
+      "word": "冬季",
+      "translation": "winter",
+      "example": "",
+      "pronunciation": "dōngjì"
+    },
+    {
+      "word": "动画片",
+      "translation": "cartoon",
+      "example": "",
+      "pronunciation": "dònghuàpiàn"
+    },
+    {
+      "word": "动摇",
+      "translation": "shake, vacillate, waver, be indecisive",
+      "example": "",
+      "pronunciation": "dòngyáo"
+    },
+    {
+      "word": "豆腐",
+      "translation": "tofu",
+      "example": "",
+      "pronunciation": "dòufu"
+    },
+    {
+      "word": "独立",
+      "translation": "independent",
+      "example": "",
+      "pronunciation": "dúlì"
+    },
+    {
+      "word": "独特",
+      "translation": "unique",
+      "example": "",
+      "pronunciation": "dútè"
+    },
+    {
+      "word": "独自",
+      "translation": "alone, by oneself, one's own",
+      "example": "",
+      "pronunciation": "dúzì"
+    },
+    {
+      "word": "堵",
+      "translation": "stop up, block up, stifled, suffocated, oppressed",
+      "example": "",
+      "pronunciation": "dǔ"
+    },
+    {
+      "word": "堵车",
+      "translation": "traffic jam",
+      "example": "",
+      "pronunciation": "dǔchē"
+    },
+    {
+      "word": "肚子",
+      "translation": "belly",
+      "example": "",
+      "pronunciation": "dùzi"
+    },
+    {
+      "word": "度过",
+      "translation": "spend (time), pass",
+      "example": "",
+      "pronunciation": "dùguò"
+    },
+    {
+      "word": "锻炼",
+      "translation": "exercise, physical training",
+      "example": "",
+      "pronunciation": "duànliàn"
+    },
+    {
+      "word": "对比",
+      "translation": "contrast, compare",
+      "example": "",
+      "pronunciation": "duìbǐ"
+    },
+    {
+      "word": "对付",
+      "translation": "deal with",
+      "example": "",
+      "pronunciation": "duìfu"
+    },
+    {
+      "word": "对于",
+      "translation": "about, regarding, for",
+      "example": "",
+      "pronunciation": "duìyú"
+    },
+    {
+      "word": "多次",
+      "translation": "repeatedly, many a time",
+      "example": "",
+      "pronunciation": "duōcì"
+    },
+    {
+      "word": "多年",
+      "translation": "many years",
+      "example": "",
+      "pronunciation": "duōnián"
+    },
+    {
+      "word": "多样",
+      "translation": "diverse, varied",
+      "example": "",
+      "pronunciation": "duōyàng"
+    },
+    {
+      "word": "多种",
+      "translation": "multiple, various, diversified, manifold",
+      "example": "",
+      "pronunciation": "duōzhǒng"
+    },
+    {
+      "word": "恶心",
+      "translation": "nauseous, disgusting",
+      "example": "",
+      "pronunciation": "ěxin"
+    },
+    {
+      "word": "儿童",
+      "translation": "child, children",
+      "example": "",
+      "pronunciation": "értóng"
+    },
+    {
+      "word": "而",
+      "translation": "and, but, while",
+      "example": "",
+      "pronunciation": "ér"
+    },
+    {
+      "word": "而是",
+      "translation": "but rather",
+      "example": "",
+      "pronunciation": "érshì"
+    },
+    {
+      "word": "耳机",
+      "translation": "earphone, headphone, headset",
+      "example": "",
+      "pronunciation": "ěrjī"
+    },
+    {
+      "word": "二手",
+      "translation": "second-hand",
+      "example": "",
+      "pronunciation": "èrshǒu"
+    },
+    {
+      "word": "发挥",
+      "translation": "bring into play, make full use of",
+      "example": "",
+      "pronunciation": "fāhuī"
+    },
+    {
+      "word": "发票",
+      "translation": "invoice",
+      "example": "",
+      "pronunciation": "fāpiào"
+    },
+    {
+      "word": "发烧",
+      "translation": "have a fever",
+      "example": "",
+      "pronunciation": "fāshāo"
+    },
+    {
+      "word": "法",
+      "translation": "law, way, method, example, rule",
+      "example": "",
+      "pronunciation": "fǎ"
+    },
+    {
+      "word": "法官",
+      "translation": "judge",
+      "example": "",
+      "pronunciation": "fǎguān"
+    },
+    {
+      "word": "法律",
+      "translation": "law",
+      "example": "",
+      "pronunciation": "fǎlǜ"
+    },
+    {
+      "word": "法院",
+      "translation": "court",
+      "example": "",
+      "pronunciation": "fǎyuàn"
+    },
+    {
+      "word": "翻",
+      "translation": "turn",
+      "example": "",
+      "pronunciation": "fān"
+    },
+    {
+      "word": "翻译",
+      "translation": "translate",
+      "example": "",
+      "pronunciation": "fānyì"
+    },
+    {
+      "word": "烦",
+      "translation": "annoyed, bother",
+      "example": "",
+      "pronunciation": "fán"
+    },
+    {
+      "word": "反",
+      "translation": "turn over, rebel, on the contrary, instead",
+      "example": "",
+      "pronunciation": "fǎn"
+    },
+    {
+      "word": "反而",
+      "translation": "instead",
+      "example": "",
+      "pronunciation": "fǎn'ér"
+    },
+    {
+      "word": "反映",
+      "translation": "reflect",
+      "example": "",
+      "pronunciation": "fǎnyìng"
+    },
+    {
+      "word": "方",
+      "translation": "square, side, direction",
+      "example": "",
+      "pronunciation": "fāng"
+    },
+    {
+      "word": "方案",
+      "translation": "plan, scheme, program",
+      "example": "",
+      "pronunciation": "fāng'àn"
+    },
+    {
+      "word": "方针",
+      "translation": "policy",
+      "example": "",
+      "pronunciation": "fāngzhēn"
+    },
+    {
+      "word": "放松",
+      "translation": "relax",
+      "example": "",
+      "pronunciation": "fàngsōng"
+    },
+    {
+      "word": "非",
+      "translation": "not, non-, wrong",
+      "example": "",
+      "pronunciation": "fēi"
+    },
+    {
+      "word": "肥",
+      "translation": "fat, fertile",
+      "example": "",
+      "pronunciation": "féi"
+    },
+    {
+      "word": "分布",
+      "translation": "be distributed, distribution",
+      "example": "",
+      "pronunciation": "fēnbù"
+    },
+    {
+      "word": "分散",
+      "translation": "disperse, scatter",
+      "example": "",
+      "pronunciation": "fēnsàn"
+    },
+    {
+      "word": "分手",
+      "translation": "break up",
+      "example": "",
+      "pronunciation": "fēnshǒu"
+    },
+    {
+      "word": "分为",
+      "translation": "divide into",
+      "example": "",
+      "pronunciation": "fēnwéi"
+    },
+    {
+      "word": "…分之…",
+      "translation": "fraction (三分之一 = one third)",
+      "example": "",
+      "pronunciation": "…fēnzhī…"
+    },
+    {
+      "word": "纷纷",
+      "translation": "one after another",
+      "example": "",
+      "pronunciation": "fēnfēn"
+    },
+    {
+      "word": "奋斗",
+      "translation": "struggle",
+      "example": "",
+      "pronunciation": "fèndòu"
+    },
+    {
+      "word": "风格",
+      "translation": "style",
+      "example": "",
+      "pronunciation": "fēnggé"
+    },
+    {
+      "word": "风景",
+      "translation": "scenery",
+      "example": "",
+      "pronunciation": "fēngjǐng"
+    },
+    {
+      "word": "风俗",
+      "translation": "customs",
+      "example": "",
+      "pronunciation": "fēngsú"
+    },
+    {
+      "word": "封闭",
+      "translation": "close, seal off, closed",
+      "example": "",
+      "pronunciation": "fēngbì"
+    },
+    {
+      "word": "否则",
+      "translation": "otherwise",
+      "example": "",
+      "pronunciation": "fǒuzé"
+    },
+    {
+      "word": "夫妇",
+      "translation": "couple",
+      "example": "",
+      "pronunciation": "fūfù"
+    },
+    {
+      "word": "夫妻",
+      "translation": "husband and wife",
+      "example": "",
+      "pronunciation": "fūqī"
+    },
+    {
+      "word": "夫人",
+      "translation": "madam, wife, lady",
+      "example": "",
+      "pronunciation": "fūrén"
+    },
+    {
+      "word": "符号",
+      "translation": "symbol",
+      "example": "",
+      "pronunciation": "fúhào"
+    },
+    {
+      "word": "符合",
+      "translation": "accord with",
+      "example": "",
+      "pronunciation": "fúhé"
+    },
+    {
+      "word": "付出",
+      "translation": "pay, give, devote",
+      "example": "",
+      "pronunciation": "fùchū"
+    },
+    {
+      "word": "负担",
+      "translation": "burden",
+      "example": "",
+      "pronunciation": "fùdān"
+    },
+    {
+      "word": "附近",
+      "translation": "nearby",
+      "example": "",
+      "pronunciation": "fùjìn"
+    },
+    {
+      "word": "复制",
+      "translation": "copy",
+      "example": "",
+      "pronunciation": "fùzhì"
+    },
+    {
+      "word": "改善",
+      "translation": "improve",
+      "example": "",
+      "pronunciation": "gǎishàn"
+    },
+    {
+      "word": "改正",
+      "translation": "correct, put right",
+      "example": "",
+      "pronunciation": "gǎizhèng"
+    },
+    {
+      "word": "盖",
+      "translation": "cover",
+      "example": "",
+      "pronunciation": "gài"
+    },
+    {
+      "word": "概括",
+      "translation": "summarize, generalize",
+      "example": "",
+      "pronunciation": "gàikuò"
+    },
+    {
+      "word": "感兴趣",
+      "translation": "be interested in",
+      "example": "",
+      "pronunciation": "gǎnxìngqù"
+    },
+    {
+      "word": "高潮",
+      "translation": "climax",
+      "example": "",
+      "pronunciation": "gāocháo"
+    },
+    {
+      "word": "高价",
+      "translation": "high price",
+      "example": "",
+      "pronunciation": "gāojià"
+    },
+    {
+      "word": "高尚",
+      "translation": "noble",
+      "example": "",
+      "pronunciation": "gāoshàng"
+    },
+    {
+      "word": "高铁",
+      "translation": "high-speed train, high-speed rail",
+      "example": "",
+      "pronunciation": "gāotiě"
+    },
+    {
+      "word": "格外",
+      "translation": "especially, exceptionally",
+      "example": "",
+      "pronunciation": "géwài"
+    },
+    {
+      "word": "隔",
+      "translation": "partition, separate, divide",
+      "example": "",
+      "pronunciation": "gé"
+    },
+    {
+      "word": "隔开",
+      "translation": "separate, space out, separation, partition",
+      "example": "",
+      "pronunciation": "gékāi"
+    },
+    {
+      "word": "个别",
+      "translation": "individual, specific, very few",
+      "example": "",
+      "pronunciation": "gèbié"
+    },
+    {
+      "word": "个体",
+      "translation": "individual",
+      "example": "",
+      "pronunciation": "gètǐ"
+    },
+    {
+      "word": "各个",
+      "translation": "each",
+      "example": "",
+      "pronunciation": "gègè"
+    },
+    {
+      "word": "根",
+      "translation": "root",
+      "example": "",
+      "pronunciation": "gēn"
+    },
+    {
+      "word": "根据",
+      "translation": "according to",
+      "example": "",
+      "pronunciation": "gēnjù"
+    },
+    {
+      "word": "工程",
+      "translation": "engineering, project",
+      "example": "",
+      "pronunciation": "gōngchéng"
+    },
+    {
+      "word": "公元",
+      "translation": "A.D., Common Era",
+      "example": "",
+      "pronunciation": "gōngyuán"
+    },
+    {
+      "word": "供应",
+      "translation": "supply, provide",
+      "example": "",
+      "pronunciation": "gōngyìng"
+    },
+    {
+      "word": "共",
+      "translation": "common, general, share, together, altogether",
+      "example": "",
+      "pronunciation": "gòng"
+    },
+    {
+      "word": "构成",
+      "translation": "constitute",
+      "example": "",
+      "pronunciation": "gòuchéng"
+    },
+    {
+      "word": "构造",
+      "translation": "structure, construction",
+      "example": "",
+      "pronunciation": "gòuzào"
+    },
+    {
+      "word": "购买",
+      "translation": "buy, purchase",
+      "example": "",
+      "pronunciation": "gòumǎi"
+    },
+    {
+      "word": "购物",
+      "translation": "shopping",
+      "example": "",
+      "pronunciation": "gòuwù"
+    },
+    {
+      "word": "骨头",
+      "translation": "bone",
+      "example": "",
+      "pronunciation": "gǔtou"
+    },
+    {
+      "word": "固定",
+      "translation": "fixed",
+      "example": "",
+      "pronunciation": "gùdìng"
+    },
+    {
+      "word": "瓜",
+      "translation": "melon",
+      "example": "",
+      "pronunciation": "guā"
+    },
+    {
+      "word": "怪",
+      "translation": "strange, odd, bewildering, very, quite, rather",
+      "example": "",
+      "pronunciation": "guài"
+    },
+    {
+      "word": "关",
+      "translation": "pass, check point, customhouse, mechanism, barrier",
+      "example": "",
+      "pronunciation": "guān"
+    },
+    {
+      "word": "关闭",
+      "translation": "close, shut",
+      "example": "",
+      "pronunciation": "guānbì"
+    },
+    {
+      "word": "关于",
+      "translation": "about",
+      "example": "",
+      "pronunciation": "guānyú"
+    },
+    {
+      "word": "官",
+      "translation": "officer",
+      "example": "",
+      "pronunciation": "guān"
+    },
+    {
+      "word": "官方",
+      "translation": "official, government",
+      "example": "",
+      "pronunciation": "guānfāng"
+    },
+    {
+      "word": "光临",
+      "translation": "presence (of a guest)",
+      "example": "",
+      "pronunciation": "guānglín"
+    },
+    {
+      "word": "光盘",
+      "translation": "CD",
+      "example": "",
+      "pronunciation": "guāngpán"
+    },
+    {
+      "word": "逛",
+      "translation": "stroll",
+      "example": "",
+      "pronunciation": "guàng"
+    },
+    {
+      "word": "归",
+      "translation": "return, go back",
+      "example": "",
+      "pronunciation": "guī"
+    },
+    {
+      "word": "规律",
+      "translation": "law, regular pattern",
+      "example": "",
+      "pronunciation": "guīlǜ"
+    },
+    {
+      "word": "规模",
+      "translation": "scale",
+      "example": "",
+      "pronunciation": "guīmó"
+    },
+    {
+      "word": "规则",
+      "translation": "rule",
+      "example": "",
+      "pronunciation": "guīzé"
+    },
+    {
+      "word": "果实",
+      "translation": "fruit",
+      "example": "",
+      "pronunciation": "guǒshí"
+    },
+    {
+      "word": "过分",
+      "translation": "excessive",
+      "example": "",
+      "pronunciation": "guòfèn"
+    },
+    {
+      "word": "海水",
+      "translation": "seawater, brine, sea",
+      "example": "",
+      "pronunciation": "hǎishuǐ"
+    },
+    {
+      "word": "海鲜",
+      "translation": "seafood",
+      "example": "",
+      "pronunciation": "hǎixiān"
+    },
+    {
+      "word": "含",
+      "translation": "contain, cherish, nurse, keep",
+      "example": "",
+      "pronunciation": "hán"
+    },
+    {
+      "word": "含量",
+      "translation": "content",
+      "example": "",
+      "pronunciation": "hánliàng"
+    },
+    {
+      "word": "含义",
+      "translation": "meaning, implication",
+      "example": "",
+      "pronunciation": "hányì"
+    },
+    {
+      "word": "含有",
+      "translation": "contain, have",
+      "example": "",
+      "pronunciation": "hányǒu"
+    },
+    {
+      "word": "寒假",
+      "translation": "winter vacation",
+      "example": "",
+      "pronunciation": "hánjià"
+    },
+    {
+      "word": "寒冷",
+      "translation": "cold, frigid, chill, frigidity",
+      "example": "",
+      "pronunciation": "hánlěng"
+    },
+    {
+      "word": "行业",
+      "translation": "industry",
+      "example": "",
+      "pronunciation": "hángyè"
+    },
+    {
+      "word": "航班",
+      "translation": "flight",
+      "example": "",
+      "pronunciation": "hángbān"
+    },
+    {
+      "word": "航空",
+      "translation": "aviation",
+      "example": "",
+      "pronunciation": "hángkōng"
+    },
+    {
+      "word": "毫米",
+      "translation": "millimeter",
+      "example": "",
+      "pronunciation": "háomǐ"
+    },
+    {
+      "word": "毫升",
+      "translation": "milliliter",
+      "example": "",
+      "pronunciation": "háoshēng"
+    },
+    {
+      "word": "好友",
+      "translation": "friend",
+      "example": "",
+      "pronunciation": "hǎoyǒu"
+    },
+    {
+      "word": "号码",
+      "translation": "number",
+      "example": "",
+      "pronunciation": "hàomǎ"
+    },
+    {
+      "word": "好",
+      "translation": "like, be fond of",
+      "example": "",
+      "pronunciation": "hào"
+    },
+    {
+      "word": "合同",
+      "translation": "contract",
+      "example": "",
+      "pronunciation": "hétong"
+    },
+    {
+      "word": "黑暗",
+      "translation": "dark, darkness, murk",
+      "example": "",
+      "pronunciation": "hēi'àn"
+    },
+    {
+      "word": "红包",
+      "translation": "red envelope, red packet",
+      "example": "",
+      "pronunciation": "hóngbāo"
+    },
+    {
+      "word": "后头",
+      "translation": "back, behind, later",
+      "example": "",
+      "pronunciation": "hòutou"
+    },
+    {
+      "word": "厚",
+      "translation": "thick",
+      "example": "",
+      "pronunciation": "hòu"
+    },
+    {
+      "word": "呼吸",
+      "translation": "breathe, breathing",
+      "example": "",
+      "pronunciation": "hūxī"
+    },
+    {
+      "word": "忽视",
+      "translation": "ignore",
+      "example": "",
+      "pronunciation": "hūshì"
+    },
+    {
+      "word": "户",
+      "translation": "household, family, door",
+      "example": "",
+      "pronunciation": "hù"
+    },
+    {
+      "word": "护士",
+      "translation": "nurse",
+      "example": "",
+      "pronunciation": "hùshi"
+    },
+    {
+      "word": "花",
+      "translation": "multicoloured, coloured, flowery",
+      "example": "",
+      "pronunciation": "huā"
+    },
+    {
+      "word": "划",
+      "translation": "paddle, row, plan, assign, transfer, differentiate",
+      "example": "",
+      "pronunciation": "huá, huà"
+    },
+    {
+      "word": "怀念",
+      "translation": "miss, cherish the memory of",
+      "example": "",
+      "pronunciation": "huáiniàn"
+    },
+    {
+      "word": "怀疑",
+      "translation": "doubt",
+      "example": "",
+      "pronunciation": "huáiyí"
+    },
+    {
+      "word": "缓解",
+      "translation": "relieve",
+      "example": "",
+      "pronunciation": "huǎnjiě"
+    },
+    {
+      "word": "黄瓜",
+      "translation": "cucumber, cuke",
+      "example": "",
+      "pronunciation": "huángguā"
+    },
+    {
+      "word": "黄金",
+      "translation": "gold",
+      "example": "",
+      "pronunciation": "huángjīn"
+    },
+    {
+      "word": "回复",
+      "translation": "reply",
+      "example": "",
+      "pronunciation": "huífù"
+    },
+    {
+      "word": "汇",
+      "translation": "remit, converge, collection, collected things",
+      "example": "",
+      "pronunciation": "huì"
+    },
+    {
+      "word": "汇报",
+      "translation": "report (to superiors)",
+      "example": "",
+      "pronunciation": "huìbào"
+    },
+    {
+      "word": "汇率",
+      "translation": "exchange rate",
+      "example": "",
+      "pronunciation": "huìlǜ"
+    },
+    {
+      "word": "婚礼",
+      "translation": "wedding",
+      "example": "",
+      "pronunciation": "hūnlǐ"
+    },
+    {
+      "word": "火",
+      "translation": "fiery, flaming, urgent",
+      "example": "",
+      "pronunciation": "huǒ"
+    },
+    {
+      "word": "伙",
+      "translation": "partner, partnership",
+      "example": "",
+      "pronunciation": "huǒ"
+    },
+    {
+      "word": "伙伴",
+      "translation": "partner",
+      "example": "",
+      "pronunciation": "huǒbàn"
+    },
+    {
+      "word": "或许",
+      "translation": "maybe, probably",
+      "example": "",
+      "pronunciation": "huòxǔ"
+    },
+    {
+      "word": "货",
+      "translation": "goods, commodity, money",
+      "example": "",
+      "pronunciation": "huò"
+    },
+    {
+      "word": "获",
+      "translation": "obtain, win, reap, capture, catch",
+      "example": "",
+      "pronunciation": "huò"
+    },
+    {
+      "word": "获得",
+      "translation": "get",
+      "example": "",
+      "pronunciation": "huòdé"
+    },
+    {
+      "word": "获奖",
+      "translation": "win a prize, receive an award",
+      "example": "",
+      "pronunciation": "huòjiǎng"
+    },
+    {
+      "word": "获取",
+      "translation": "gain, obtain",
+      "example": "",
+      "pronunciation": "huòqǔ"
+    },
+    {
+      "word": "几乎",
+      "translation": "almost",
+      "example": "",
+      "pronunciation": "jīhū"
+    },
+    {
+      "word": "机构",
+      "translation": "organization, institution",
+      "example": "",
+      "pronunciation": "jīgòu"
+    },
+    {
+      "word": "机遇",
+      "translation": "opportunity",
+      "example": "",
+      "pronunciation": "jīyù"
+    },
+    {
+      "word": "积累",
+      "translation": "accumulate, accumulation",
+      "example": "",
+      "pronunciation": "jīlěi"
+    },
+    {
+      "word": "激动",
+      "translation": "excited, moved",
+      "example": "",
+      "pronunciation": "jīdòng"
+    },
+    {
+      "word": "激烈",
+      "translation": "fierce",
+      "example": "",
+      "pronunciation": "jīliè"
+    },
+    {
+      "word": "及格",
+      "translation": "pass (an exam)",
+      "example": "",
+      "pronunciation": "jígé"
+    },
+    {
+      "word": "极",
+      "translation": "extremely",
+      "example": "",
+      "pronunciation": "jí"
+    },
+    {
+      "word": "极其",
+      "translation": "extremely",
+      "example": "",
+      "pronunciation": "jíqí"
+    },
+    {
+      "word": "即将",
+      "translation": "soon",
+      "example": "",
+      "pronunciation": "jíjiāng"
+    },
+    {
+      "word": "急忙",
+      "translation": "hastily",
+      "example": "",
+      "pronunciation": "jímáng"
+    },
+    {
+      "word": "集合",
+      "translation": "gather, assemble",
+      "example": "",
+      "pronunciation": "jíhé"
+    },
+    {
+      "word": "记载",
+      "translation": "record, write down",
+      "example": "",
+      "pronunciation": "jìzǎi"
+    },
+    {
+      "word": "纪律",
+      "translation": "discipline",
+      "example": "",
+      "pronunciation": "jìlǜ"
+    },
+    {
+      "word": "技巧",
+      "translation": "skill",
+      "example": "",
+      "pronunciation": "jìqiǎo"
+    },
+    {
+      "word": "系",
+      "translation": "department (of a university)",
+      "example": "",
+      "pronunciation": "xì"
+    },
+    {
+      "word": "季",
+      "translation": "season, period",
+      "example": "",
+      "pronunciation": "jì"
+    },
+    {
+      "word": "季度",
+      "translation": "quarter (of a year)",
+      "example": "",
+      "pronunciation": "jìdù"
+    },
+    {
+      "word": "季节",
+      "translation": "season",
+      "example": "",
+      "pronunciation": "jìjié"
+    },
+    {
+      "word": "既",
+      "translation": "already, since, as",
+      "example": "",
+      "pronunciation": "jì"
+    },
+    {
+      "word": "既然",
+      "translation": "since",
+      "example": "",
+      "pronunciation": "jìrán"
+    },
+    {
+      "word": "寄",
+      "translation": "send",
+      "example": "",
+      "pronunciation": "jì"
+    },
+    {
+      "word": "加班",
+      "translation": "work overtime",
+      "example": "",
+      "pronunciation": "jiābān"
+    },
+    {
+      "word": "加入",
+      "translation": "add, mix, join, become a member",
+      "example": "",
+      "pronunciation": "jiārù"
+    },
+    {
+      "word": "加油站",
+      "translation": "gas station",
+      "example": "",
+      "pronunciation": "jiāyóuzhàn"
+    },
+    {
+      "word": "家务",
+      "translation": "housework",
+      "example": "",
+      "pronunciation": "jiāwù"
+    },
+    {
+      "word": "假如",
+      "translation": "if",
+      "example": "",
+      "pronunciation": "jiǎrú"
+    },
+    {
+      "word": "坚固",
+      "translation": "strong, solid, sturdy",
+      "example": "",
+      "pronunciation": "jiāngù"
+    },
+    {
+      "word": "检测",
+      "translation": "detect, test",
+      "example": "",
+      "pronunciation": "jiǎncè"
+    },
+    {
+      "word": "减",
+      "translation": "subtract, reduce, decrease, cut, minus",
+      "example": "",
+      "pronunciation": "jiǎn"
+    },
+    {
+      "word": "减肥",
+      "translation": "lose weight",
+      "example": "",
+      "pronunciation": "jiǎnféi"
+    },
+    {
+      "word": "减少",
+      "translation": "reduce",
+      "example": "",
+      "pronunciation": "jiǎnshǎo"
+    },
+    {
+      "word": "简历",
+      "translation": "résumé, CV",
+      "example": "",
+      "pronunciation": "jiǎnlì"
+    },
+    {
+      "word": "健身",
+      "translation": "work out, keep fit",
+      "example": "",
+      "pronunciation": "jiànshēn"
+    },
+    {
+      "word": "渐渐",
+      "translation": "gradually, step by step",
+      "example": "",
+      "pronunciation": "jiànjiàn"
+    },
+    {
+      "word": "江",
+      "translation": "river",
+      "example": "",
+      "pronunciation": "jiāng"
+    },
+    {
+      "word": "讲究",
+      "translation": "be particular about, pay attention to",
+      "example": "",
+      "pronunciation": "jiǎngjiu"
+    },
+    {
+      "word": "讲座",
+      "translation": "lecture",
+      "example": "",
+      "pronunciation": "jiǎngzuò"
+    },
+    {
+      "word": "奖",
+      "translation": "award, prize, reward",
+      "example": "",
+      "pronunciation": "jiǎng"
+    },
+    {
+      "word": "奖金",
+      "translation": "bonus",
+      "example": "",
+      "pronunciation": "jiǎngjīn"
+    },
+    {
+      "word": "奖学金",
+      "translation": "scholarship, fellowship",
+      "example": "",
+      "pronunciation": "jiǎngxuéjīn"
+    },
+    {
+      "word": "降",
+      "translation": "fall, drop, descend, come down, lower",
+      "example": "",
+      "pronunciation": "jiàng"
+    },
+    {
+      "word": "降低",
+      "translation": "reduce",
+      "example": "",
+      "pronunciation": "jiàngdī"
+    },
+    {
+      "word": "降价",
+      "translation": "cut price, reduce price",
+      "example": "",
+      "pronunciation": "jiàngjià"
+    },
+    {
+      "word": "降落",
+      "translation": "land",
+      "example": "",
+      "pronunciation": "jiàngluò"
+    },
+    {
+      "word": "降温",
+      "translation": "lower the temperature, drop in temperature",
+      "example": "",
+      "pronunciation": "jiàngwēn"
+    },
+    {
+      "word": "交换",
+      "translation": "exchange",
+      "example": "",
+      "pronunciation": "jiāohuàn"
+    },
+    {
+      "word": "交际",
+      "translation": "socialize, social interaction",
+      "example": "",
+      "pronunciation": "jiāojì"
+    },
+    {
+      "word": "教授",
+      "translation": "professor",
+      "example": "",
+      "pronunciation": "jiàoshòu"
+    },
+    {
+      "word": "教训",
+      "translation": "lesson, teach a lesson",
+      "example": "",
+      "pronunciation": "jiàoxùn"
+    },
+    {
+      "word": "阶段",
+      "translation": "stage",
+      "example": "",
+      "pronunciation": "jiēduàn"
+    },
+    {
+      "word": "街道",
+      "translation": "street",
+      "example": "",
+      "pronunciation": "jiēdào"
+    },
+    {
+      "word": "节省",
+      "translation": "save, economize",
+      "example": "",
+      "pronunciation": "jiéshěng"
+    },
+    {
+      "word": "结",
+      "translation": "tie, knot, bear (fruit), form",
+      "example": "",
+      "pronunciation": "jié"
+    },
+    {
+      "word": "结构",
+      "translation": "structure",
+      "example": "",
+      "pronunciation": "jiégòu"
+    },
+    {
+      "word": "结论",
+      "translation": "conclusion",
+      "example": "",
+      "pronunciation": "jiélùn"
+    },
+    {
+      "word": "姐妹",
+      "translation": "sisters",
+      "example": "",
+      "pronunciation": "jiěmèi"
+    },
+    {
+      "word": "解释",
+      "translation": "explain",
+      "example": "",
+      "pronunciation": "jiěshì"
+    },
+    {
+      "word": "尽快",
+      "translation": "as soon as possible",
+      "example": "",
+      "pronunciation": "jǐnkuài"
+    },
+    {
+      "word": "紧密",
+      "translation": "close, inseparable",
+      "example": "",
+      "pronunciation": "jǐnmì"
+    },
+    {
+      "word": "尽力",
+      "translation": "do one's best",
+      "example": "",
+      "pronunciation": "jìnlì"
+    },
+    {
+      "word": "进口",
+      "translation": "import, imported",
+      "example": "",
+      "pronunciation": "jìnkǒu"
+    },
+    {
+      "word": "近代",
+      "translation": "modern times",
+      "example": "",
+      "pronunciation": "jìndài"
+    },
+    {
+      "word": "禁止",
+      "translation": "prohibit",
+      "example": "",
+      "pronunciation": "jìnzhǐ"
+    },
+    {
+      "word": "经典",
+      "translation": "classic, classics",
+      "example": "",
+      "pronunciation": "jīngdiǎn"
+    },
+    {
+      "word": "精力",
+      "translation": "energy",
+      "example": "",
+      "pronunciation": "jīnglì"
+    },
+    {
+      "word": "竟然",
+      "translation": "unexpectedly",
+      "example": "",
+      "pronunciation": "jìngrán"
+    },
+    {
+      "word": "镜头",
+      "translation": "camera lens",
+      "example": "",
+      "pronunciation": "jìngtóu"
+    },
+    {
+      "word": "镜子",
+      "translation": "mirror",
+      "example": "",
+      "pronunciation": "jìngzi"
+    },
+    {
+      "word": "究竟",
+      "translation": "exactly, after all",
+      "example": "",
+      "pronunciation": "jiūjìng"
+    },
+    {
+      "word": "酒吧",
+      "translation": "bar",
+      "example": "",
+      "pronunciation": "jiǔbā"
+    },
+    {
+      "word": "居民",
+      "translation": "resident",
+      "example": "",
+      "pronunciation": "jūmín"
+    },
+    {
+      "word": "居住",
+      "translation": "live",
+      "example": "",
+      "pronunciation": "jūzhù"
+    },
+    {
+      "word": "局",
+      "translation": "bureau, part, portion, innings, gathering",
+      "example": "",
+      "pronunciation": "jú"
+    },
+    {
+      "word": "巨大",
+      "translation": "huge",
+      "example": "",
+      "pronunciation": "jùdà"
+    },
+    {
+      "word": "具备",
+      "translation": "have, possess",
+      "example": "",
+      "pronunciation": "jùbèi"
+    },
+    {
+      "word": "距离",
+      "translation": "distance",
+      "example": "",
+      "pronunciation": "jùlí"
+    },
+    {
+      "word": "聚",
+      "translation": "assemble, gather, get together",
+      "example": "",
+      "pronunciation": "jù"
+    },
+    {
+      "word": "聚会",
+      "translation": "party",
+      "example": "",
+      "pronunciation": "jùhuì"
+    },
+    {
+      "word": "卷",
+      "translation": "roll, curly, reel, volume, file, test paper",
+      "example": "",
+      "pronunciation": "juǎn, juàn"
+    },
+    {
+      "word": "角色",
+      "translation": "role",
+      "example": "",
+      "pronunciation": "juésè"
+    },
+    {
+      "word": "开花",
+      "translation": "flower, bloom, blossom",
+      "example": "",
+      "pronunciation": "kāihuā"
+    },
+    {
+      "word": "开水",
+      "translation": "boiling water",
+      "example": "",
+      "pronunciation": "kāishuǐ"
+    },
+    {
+      "word": "看不起",
+      "translation": "despise",
+      "example": "",
+      "pronunciation": "kànbuqǐ"
+    },
+    {
+      "word": "看来",
+      "translation": "it seems, it appears",
+      "example": "",
+      "pronunciation": "kànlái"
+    },
+    {
+      "word": "看望",
+      "translation": "visit",
+      "example": "",
+      "pronunciation": "kànwàng"
+    },
+    {
+      "word": "考察",
+      "translation": "inspect, investigate",
+      "example": "",
+      "pronunciation": "kǎochá"
+    },
+    {
+      "word": "考虑",
+      "translation": "consider",
+      "example": "",
+      "pronunciation": "kǎolǜ"
+    },
+    {
+      "word": "棵",
+      "translation": "tree (measure word)",
+      "example": "",
+      "pronunciation": "kē"
+    },
+    {
+      "word": "可见",
+      "translation": "it is clear that, so",
+      "example": "",
+      "pronunciation": "kějiàn"
+    },
+    {
+      "word": "空间",
+      "translation": "space",
+      "example": "",
+      "pronunciation": "kōngjiān"
+    },
+    {
+      "word": "空",
+      "translation": "empty",
+      "example": "",
+      "pronunciation": "kōng"
+    },
+    {
+      "word": "口袋",
+      "translation": "pocket",
+      "example": "",
+      "pronunciation": "kǒudài"
+    },
+    {
+      "word": "口语",
+      "translation": "spoken language",
+      "example": "",
+      "pronunciation": "kǒuyǔ"
+    },
+    {
+      "word": "苦",
+      "translation": "bitter, hard",
+      "example": "",
+      "pronunciation": "kǔ"
+    },
+    {
+      "word": "会计",
+      "translation": "accountant",
+      "example": "",
+      "pronunciation": "kuàijì"
+    },
+    {
+      "word": "快递",
+      "translation": "express delivery",
+      "example": "",
+      "pronunciation": "kuàidì"
+    },
+    {
+      "word": "宽",
+      "translation": "wide",
+      "example": "",
+      "pronunciation": "kuān"
+    },
+    {
+      "word": "宽广",
+      "translation": "broad, vast, extensive",
+      "example": "",
+      "pronunciation": "kuānguǎng"
+    },
+    {
+      "word": "矿泉水",
+      "translation": "mineral water",
+      "example": "",
+      "pronunciation": "kuàngquánshuǐ"
+    },
+    {
+      "word": "扩大",
+      "translation": "expand",
+      "example": "",
+      "pronunciation": "kuòdà"
+    },
+    {
+      "word": "扩展",
+      "translation": "expand, extend, spread, develop",
+      "example": "",
+      "pronunciation": "kuòzhǎn"
+    },
+    {
+      "word": "括号",
+      "translation": "brackets, parentheses",
+      "example": "",
+      "pronunciation": "kuòhào"
+    },
+    {
+      "word": "垃圾",
+      "translation": "rubbish, garbage, refuse, waste",
+      "example": "",
+      "pronunciation": "lājī"
+    },
+    {
+      "word": "拉开",
+      "translation": "pull open, draw (curtains), widen (a gap)",
+      "example": "",
+      "pronunciation": "lākāi"
+    },
+    {
+      "word": "辣",
+      "translation": "hot, spicy",
+      "example": "",
+      "pronunciation": "là"
+    },
+    {
+      "word": "来不及",
+      "translation": "there's not enough time",
+      "example": "",
+      "pronunciation": "láibují"
+    },
+    {
+      "word": "来得及",
+      "translation": "in time",
+      "example": "",
+      "pronunciation": "láidejí"
+    },
+    {
+      "word": "来源",
+      "translation": "source",
+      "example": "",
+      "pronunciation": "láiyuán"
+    },
+    {
+      "word": "老公",
+      "translation": "husband",
+      "example": "",
+      "pronunciation": "lǎogōng"
+    },
+    {
+      "word": "老家",
+      "translation": "hometown, home state",
+      "example": "",
+      "pronunciation": "lǎojiā"
+    },
+    {
+      "word": "老婆",
+      "translation": "wife",
+      "example": "",
+      "pronunciation": "lǎopó"
+    },
+    {
+      "word": "老实",
+      "translation": "honest",
+      "example": "",
+      "pronunciation": "lǎoshi"
+    },
+    {
+      "word": "乐趣",
+      "translation": "pleasure, fun",
+      "example": "",
+      "pronunciation": "lèqù"
+    },
+    {
+      "word": "泪",
+      "translation": "tear, teardrop",
+      "example": "",
+      "pronunciation": "lèi"
+    },
+    {
+      "word": "泪水",
+      "translation": "tear, teardrop",
+      "example": "",
+      "pronunciation": "lèishuǐ"
+    },
+    {
+      "word": "类型",
+      "translation": "type",
+      "example": "",
+      "pronunciation": "lèixíng"
+    },
+    {
+      "word": "冷静",
+      "translation": "calm, calm down",
+      "example": "",
+      "pronunciation": "lěngjìng"
+    },
+    {
+      "word": "厘米",
+      "translation": "centimeter",
+      "example": "",
+      "pronunciation": "límǐ"
+    },
+    {
+      "word": "离不开",
+      "translation": "can't do without",
+      "example": "",
+      "pronunciation": "líbùkāi"
+    },
+    {
+      "word": "力气",
+      "translation": "strength",
+      "example": "",
+      "pronunciation": "lìqi"
+    },
+    {
+      "word": "历史",
+      "translation": "history",
+      "example": "",
+      "pronunciation": "lìshǐ"
+    },
+    {
+      "word": "立即",
+      "translation": "immediately",
+      "example": "",
+      "pronunciation": "lìjí"
+    },
+    {
+      "word": "利息",
+      "translation": "interest (on money)",
+      "example": "",
+      "pronunciation": "lìxī"
+    },
+    {
+      "word": "利益",
+      "translation": "benefit, interest",
+      "example": "",
+      "pronunciation": "lìyì"
+    },
+    {
+      "word": "俩",
+      "translation": "two, both",
+      "example": "",
+      "pronunciation": "liǎ"
+    },
+    {
+      "word": "良好",
+      "translation": "good, fine",
+      "example": "",
+      "pronunciation": "liánghǎo"
+    },
+    {
+      "word": "量",
+      "translation": "measure, estimate, amount",
+      "example": "",
+      "pronunciation": "liáng"
+    },
+    {
+      "word": "粮食",
+      "translation": "grain, food",
+      "example": "",
+      "pronunciation": "liángshi"
+    },
+    {
+      "word": "两边",
+      "translation": "both sides",
+      "example": "",
+      "pronunciation": "liǎngbiān"
+    },
+    {
+      "word": "疗养",
+      "translation": "recuperate, convalesce",
+      "example": "",
+      "pronunciation": "liáoyǎng"
+    },
+    {
+      "word": "了不起",
+      "translation": "amazing, remarkable",
+      "example": "",
+      "pronunciation": "liǎobuqǐ"
+    },
+    {
+      "word": "了解",
+      "translation": "understand",
+      "example": "",
+      "pronunciation": "liǎojiě"
+    },
+    {
+      "word": "列",
+      "translation": "arrange, line up, list",
+      "example": "",
+      "pronunciation": "liè"
+    },
+    {
+      "word": "列车",
+      "translation": "train",
+      "example": "",
+      "pronunciation": "lièchē"
+    },
+    {
+      "word": "列入",
+      "translation": "be included in, put on (a list)",
+      "example": "",
+      "pronunciation": "lièrù"
+    },
+    {
+      "word": "列为",
+      "translation": "be classified as, listed as",
+      "example": "",
+      "pronunciation": "lièwéi"
+    },
+    {
+      "word": "临时",
+      "translation": "temporary",
+      "example": "",
+      "pronunciation": "línshí"
+    },
+    {
+      "word": "零食",
+      "translation": "snacks",
+      "example": "",
+      "pronunciation": "língshí"
+    },
+    {
+      "word": "流传",
+      "translation": "spread, be passed down",
+      "example": "",
+      "pronunciation": "liúchuán"
+    },
+    {
+      "word": "楼梯",
+      "translation": "stairs, staircase, stairway",
+      "example": "",
+      "pronunciation": "lóutī"
+    },
+    {
+      "word": "陆地",
+      "translation": "land",
+      "example": "",
+      "pronunciation": "lùdì"
+    },
+    {
+      "word": "陆续",
+      "translation": "one after another",
+      "example": "",
+      "pronunciation": "lùxù"
+    },
+    {
+      "word": "录取",
+      "translation": "admit (to a school), enroll",
+      "example": "",
+      "pronunciation": "lùqǔ"
+    },
+    {
+      "word": "律师",
+      "translation": "lawyer",
+      "example": "",
+      "pronunciation": "lǜshī"
+    },
+    {
+      "word": "轮",
+      "translation": "wheel, ring, take turns",
+      "example": "",
+      "pronunciation": "lún"
+    },
+    {
+      "word": "轮船",
+      "translation": "ship",
+      "example": "",
+      "pronunciation": "lúnchuán"
+    },
+    {
+      "word": "轮椅",
+      "translation": "wheelchair",
+      "example": "",
+      "pronunciation": "lúnyǐ"
+    },
+    {
+      "word": "轮子",
+      "translation": "wheel",
+      "example": "",
+      "pronunciation": "lúnzi"
+    },
+    {
+      "word": "论文",
+      "translation": "paper, thesis",
+      "example": "",
+      "pronunciation": "lùnwén"
+    },
+    {
+      "word": "落",
+      "translation": "fall, drop, go down, set, decline, drop behind",
+      "example": "",
+      "pronunciation": "luò"
+    },
+    {
+      "word": "毛巾",
+      "translation": "towel",
+      "example": "",
+      "pronunciation": "máojīn"
+    },
+    {
+      "word": "毛衣",
+      "translation": "sweater, wool sweater",
+      "example": "",
+      "pronunciation": "máoyī"
+    },
+    {
+      "word": "帽子",
+      "translation": "hat",
+      "example": "",
+      "pronunciation": "màozi"
+    },
+    {
+      "word": "没错",
+      "translation": "that's right",
+      "example": "",
+      "pronunciation": "méicuò"
+    },
+    {
+      "word": "没法儿",
+      "translation": "can't, no way",
+      "example": "",
+      "pronunciation": "méifǎr"
+    },
+    {
+      "word": "没想到",
+      "translation": "didn't expect",
+      "example": "",
+      "pronunciation": "méixiǎngdào"
+    },
+    {
+      "word": "美金",
+      "translation": "USD, dollar",
+      "example": "",
+      "pronunciation": "měijīn"
+    },
+    {
+      "word": "美女",
+      "translation": "belle, beauty, beautiful woman",
+      "example": "",
+      "pronunciation": "měinǚ"
+    },
+    {
+      "word": "梦",
+      "translation": "dream",
+      "example": "",
+      "pronunciation": "mèng"
+    },
+    {
+      "word": "梦见",
+      "translation": "see in a dream, dream about, dream",
+      "example": "",
+      "pronunciation": "mèngjiàn"
+    },
+    {
+      "word": "梦想",
+      "translation": "dream, wish",
+      "example": "",
+      "pronunciation": "mèngxiǎng"
+    },
+    {
+      "word": "秘密",
+      "translation": "secret",
+      "example": "",
+      "pronunciation": "mìmì"
+    },
+    {
+      "word": "秘书",
+      "translation": "secretary",
+      "example": "",
+      "pronunciation": "mìshū"
+    },
+    {
+      "word": "密",
+      "translation": "thick, secret, close, dense",
+      "example": "",
+      "pronunciation": "mì"
+    },
+    {
+      "word": "密码",
+      "translation": "password",
+      "example": "",
+      "pronunciation": "mìmǎ"
+    },
+    {
+      "word": "密切",
+      "translation": "close",
+      "example": "",
+      "pronunciation": "mìqiè"
+    },
+    {
+      "word": "免费",
+      "translation": "free of charge",
+      "example": "",
+      "pronunciation": "miǎnfèi"
+    },
+    {
+      "word": "面临",
+      "translation": "face, be faced with",
+      "example": "",
+      "pronunciation": "miànlín"
+    },
+    {
+      "word": "面试",
+      "translation": "interview, audition",
+      "example": "",
+      "pronunciation": "miànshì"
+    },
+    {
+      "word": "描述",
+      "translation": "describe, depict, description",
+      "example": "",
+      "pronunciation": "miáoshù"
+    },
+    {
+      "word": "描写",
+      "translation": "describe",
+      "example": "",
+      "pronunciation": "miáoxiě"
+    },
+    {
+      "word": "名牌儿",
+      "translation": "famous brand",
+      "example": "",
+      "pronunciation": "míngpáir"
+    },
+    {
+      "word": "名片",
+      "translation": "business card",
+      "example": "",
+      "pronunciation": "míngpiàn"
+    },
+    {
+      "word": "名人",
+      "translation": "celebrity, famous person",
+      "example": "",
+      "pronunciation": "míngrén"
+    },
+    {
+      "word": "摸",
+      "translation": "touch, feel",
+      "example": "",
+      "pronunciation": "mō"
+    },
+    {
+      "word": "模特儿",
+      "translation": "model",
+      "example": "",
+      "pronunciation": "mótèr"
+    },
+    {
+      "word": "模型",
+      "translation": "model",
+      "example": "",
+      "pronunciation": "móxíng"
+    },
+    {
+      "word": "末",
+      "translation": "end, last, final stage",
+      "example": "",
+      "pronunciation": "mò"
+    },
+    {
+      "word": "默默",
+      "translation": "silently",
+      "example": "",
+      "pronunciation": "mòmò"
+    },
+    {
+      "word": "哪怕",
+      "translation": "even if",
+      "example": "",
+      "pronunciation": "nǎpà"
+    },
+    {
+      "word": "哪",
+      "translation": "which",
+      "example": "",
+      "pronunciation": "nǎ"
+    },
+    {
+      "word": "男女",
+      "translation": "men and women, male and female",
+      "example": "",
+      "pronunciation": "nánnǚ"
+    },
+    {
+      "word": "男士",
+      "translation": "man, gentleman",
+      "example": "",
+      "pronunciation": "nánshì"
+    },
+    {
+      "word": "难免",
+      "translation": "unavoidable",
+      "example": "",
+      "pronunciation": "nánmiǎn"
+    },
+    {
+      "word": "脑袋",
+      "translation": "head",
+      "example": "",
+      "pronunciation": "nǎodai"
+    },
+    {
+      "word": "闹",
+      "translation": "noisy, make a noise, suffer, be troubled",
+      "example": "",
+      "pronunciation": "nào"
+    },
+    {
+      "word": "闹钟",
+      "translation": "alarm clock",
+      "example": "",
+      "pronunciation": "nàozhōng"
+    },
+    {
+      "word": "内部",
+      "translation": "inside, internal",
+      "example": "",
+      "pronunciation": "nèibù"
+    },
+    {
+      "word": "内科",
+      "translation": "internal medicine",
+      "example": "",
+      "pronunciation": "nèikē"
+    },
+    {
+      "word": "能干",
+      "translation": "capable",
+      "example": "",
+      "pronunciation": "nénggàn"
+    },
+    {
+      "word": "宁静",
+      "translation": "peaceful, tranquil, quiet",
+      "example": "",
+      "pronunciation": "níngjìng"
+    },
+    {
+      "word": "浓",
+      "translation": "strong, thick, dense",
+      "example": "",
+      "pronunciation": "nóng"
+    },
+    {
+      "word": "女士",
+      "translation": "lady, Ms., madam",
+      "example": "",
+      "pronunciation": "nǚshì"
+    },
+    {
+      "word": "暖气",
+      "translation": "central heating, heating, heater",
+      "example": "",
+      "pronunciation": "nuǎnqì"
+    },
+    {
+      "word": "拍照",
+      "translation": "take a picture, photograph",
+      "example": "",
+      "pronunciation": "pāizhào"
+    },
+    {
+      "word": "排列",
+      "translation": "arrange, put in order",
+      "example": "",
+      "pronunciation": "páiliè"
+    },
+    {
+      "word": "牌",
+      "translation": "brand, cards, plate, tablet",
+      "example": "",
+      "pronunciation": "pái"
+    },
+    {
+      "word": "盘",
+      "translation": "plate, tray, dish, (measure word for games, dishes)",
+      "example": "",
+      "pronunciation": "pán"
+    },
+    {
+      "word": "盘子",
+      "translation": "plate",
+      "example": "",
+      "pronunciation": "pánzi"
+    },
+    {
+      "word": "胖子",
+      "translation": "fat person, fatty",
+      "example": "",
+      "pronunciation": "pàngzi"
+    },
+    {
+      "word": "培训",
+      "translation": "train (staff), training",
+      "example": "",
+      "pronunciation": "péixùn"
+    },
+    {
+      "word": "培训班",
+      "translation": "training class",
+      "example": "",
+      "pronunciation": "péixùnbān"
+    },
+    {
+      "word": "培养",
+      "translation": "cultivate, train, foster",
+      "example": "",
+      "pronunciation": "péiyǎng"
+    },
+    {
+      "word": "培育",
+      "translation": "cultivate, breed",
+      "example": "",
+      "pronunciation": "péiyù"
+    },
+    {
+      "word": "批",
+      "translation": "criticize, batch, (measure word for batches)",
+      "example": "",
+      "pronunciation": "pī"
+    },
+    {
+      "word": "片面",
+      "translation": "one-sided",
+      "example": "",
+      "pronunciation": "piànmiàn"
+    },
+    {
+      "word": "品质",
+      "translation": "quality",
+      "example": "",
+      "pronunciation": "pǐnzhì"
+    },
+    {
+      "word": "平方",
+      "translation": "square (metre), square",
+      "example": "",
+      "pronunciation": "píngfāng"
+    },
+    {
+      "word": "平静",
+      "translation": "calm",
+      "example": "",
+      "pronunciation": "píngjìng"
+    },
+    {
+      "word": "平均",
+      "translation": "average",
+      "example": "",
+      "pronunciation": "píngjūn"
+    },
+    {
+      "word": "平稳",
+      "translation": "smooth, steady",
+      "example": "",
+      "pronunciation": "píngwěn"
+    },
+    {
+      "word": "迫切",
+      "translation": "urgent, pressing",
+      "example": "",
+      "pronunciation": "pòqiè"
+    },
+    {
+      "word": "破产",
+      "translation": "go bankrupt, bankruptcy",
+      "example": "",
+      "pronunciation": "pòchǎn"
+    },
+    {
+      "word": "妻子",
+      "translation": "wife",
+      "example": "",
+      "pronunciation": "qīzi"
+    },
+    {
+      "word": "期待",
+      "translation": "expect, look forward to",
+      "example": "",
+      "pronunciation": "qīdài"
+    },
+    {
+      "word": "期间",
+      "translation": "period",
+      "example": "",
+      "pronunciation": "qījiān"
+    },
+    {
+      "word": "期末",
+      "translation": "end of term",
+      "example": "",
+      "pronunciation": "qīmò"
+    },
+    {
+      "word": "期限",
+      "translation": "deadline, time limit",
+      "example": "",
+      "pronunciation": "qīxiàn"
+    },
+    {
+      "word": "期中",
+      "translation": "midterm",
+      "example": "",
+      "pronunciation": "qīzhōng"
+    },
+    {
+      "word": "其余",
+      "translation": "the rest, the remainder",
+      "example": "",
+      "pronunciation": "qíyú"
+    },
+    {
+      "word": "企业",
+      "translation": "enterprise",
+      "example": "",
+      "pronunciation": "qǐyè"
+    },
+    {
+      "word": "气球",
+      "translation": "balloon",
+      "example": "",
+      "pronunciation": "qìqiú"
+    },
+    {
+      "word": "汽水",
+      "translation": "soda, soda water, aerated water, sparkling water",
+      "example": "",
+      "pronunciation": "qìshuǐ"
+    },
+    {
+      "word": "汽油",
+      "translation": "gasoline",
+      "example": "",
+      "pronunciation": "qìyóu"
+    },
+    {
+      "word": "器官",
+      "translation": "organ",
+      "example": "",
+      "pronunciation": "qìguān"
+    },
+    {
+      "word": "前头",
+      "translation": "front, ahead",
+      "example": "",
+      "pronunciation": "qiántou"
+    },
+    {
+      "word": "前途",
+      "translation": "future",
+      "example": "",
+      "pronunciation": "qiántú"
+    },
+    {
+      "word": "浅",
+      "translation": "shallow",
+      "example": "",
+      "pronunciation": "qiǎn"
+    },
+    {
+      "word": "巧克力",
+      "translation": "chocolate",
+      "example": "",
+      "pronunciation": "qiǎokèlì"
+    },
+    {
+      "word": "切",
+      "translation": "cut",
+      "example": "",
+      "pronunciation": "qiē"
+    },
+    {
+      "word": "亲爱",
+      "translation": "dear",
+      "example": "",
+      "pronunciation": "qīn'ài"
+    },
+    {
+      "word": "亲密",
+      "translation": "close",
+      "example": "",
+      "pronunciation": "qīnmì"
+    },
+    {
+      "word": "青春",
+      "translation": "youth",
+      "example": "",
+      "pronunciation": "qīngchūn"
+    },
+    {
+      "word": "轻松",
+      "translation": "relaxed",
+      "example": "",
+      "pronunciation": "qīngsōng"
+    },
+    {
+      "word": "轻易",
+      "translation": "easily, lightly",
+      "example": "",
+      "pronunciation": "qīngyì"
+    },
+    {
+      "word": "清醒",
+      "translation": "sober, clear-headed, awake",
+      "example": "",
+      "pronunciation": "qīngxǐng"
+    },
+    {
+      "word": "情景",
+      "translation": "scene, situation",
+      "example": "",
+      "pronunciation": "qíngjǐng"
+    },
+    {
+      "word": "穷",
+      "translation": "poor",
+      "example": "",
+      "pronunciation": "qióng"
+    },
+    {
+      "word": "穷人",
+      "translation": "poor people, the poor",
+      "example": "",
+      "pronunciation": "qióngrén"
+    },
+    {
+      "word": "秋季",
+      "translation": "autumn, fall",
+      "example": "",
+      "pronunciation": "qiūjì"
+    },
+    {
+      "word": "趋势",
+      "translation": "trend",
+      "example": "",
+      "pronunciation": "qūshì"
+    },
+    {
+      "word": "圈",
+      "translation": "circle, ring",
+      "example": "",
+      "pronunciation": "quān"
+    },
+    {
+      "word": "权利",
+      "translation": "right",
+      "example": "",
+      "pronunciation": "quánlì"
+    },
+    {
+      "word": "却",
+      "translation": "but",
+      "example": "",
+      "pronunciation": "què"
+    },
+    {
+      "word": "确认",
+      "translation": "confirm",
+      "example": "",
+      "pronunciation": "quèrèn"
+    },
+    {
+      "word": "然而",
+      "translation": "however",
+      "example": "",
+      "pronunciation": "rán'ér"
+    },
+    {
+      "word": "燃料",
+      "translation": "fuel",
+      "example": "",
+      "pronunciation": "ránliào"
+    },
+    {
+      "word": "燃烧",
+      "translation": "burn, burning",
+      "example": "",
+      "pronunciation": "ránshāo"
+    },
+    {
+      "word": "热闹",
+      "translation": "lively",
+      "example": "",
+      "pronunciation": "rènao"
+    },
+    {
+      "word": "热心",
+      "translation": "enthusiastic",
+      "example": "",
+      "pronunciation": "rèxīn"
+    },
+    {
+      "word": "人家",
+      "translation": "household, family, others",
+      "example": "",
+      "pronunciation": "rénjiā"
+    },
+    {
+      "word": "日记",
+      "translation": "diary",
+      "example": "",
+      "pronunciation": "rìjì"
+    },
+    {
+      "word": "日历",
+      "translation": "calendar",
+      "example": "",
+      "pronunciation": "rìlì"
+    },
+    {
+      "word": "如今",
+      "translation": "nowadays",
+      "example": "",
+      "pronunciation": "rújīn"
+    },
+    {
+      "word": "弱",
+      "translation": "weak",
+      "example": "",
+      "pronunciation": "ruò"
+    },
+    {
+      "word": "伞",
+      "translation": "umbrella",
+      "example": "",
+      "pronunciation": "sǎn"
+    },
+    {
+      "word": "散",
+      "translation": "break up, disperse, distribute, disseminate, give out",
+      "example": "",
+      "pronunciation": "sàn"
+    },
+    {
+      "word": "扫",
+      "translation": "sweep, broom",
+      "example": "",
+      "pronunciation": "sǎo"
+    },
+    {
+      "word": "色",
+      "translation": "colour, look, expression, scene, quality",
+      "example": "",
+      "pronunciation": "sè"
+    },
+    {
+      "word": "色彩",
+      "translation": "color",
+      "example": "",
+      "pronunciation": "sècǎi"
+    },
+    {
+      "word": "森林",
+      "translation": "forest",
+      "example": "",
+      "pronunciation": "sēnlín"
+    },
+    {
+      "word": "晒",
+      "translation": "dry in the sun, bask, tan",
+      "example": "",
+      "pronunciation": "shài"
+    },
+    {
+      "word": "闪",
+      "translation": "dodge, get out of the way, sprain, flash, sparkle, shine, lightning",
+      "example": "",
+      "pronunciation": "shǎn"
+    },
+    {
+      "word": "闪电",
+      "translation": "lightning",
+      "example": "",
+      "pronunciation": "shǎndiàn"
+    },
+    {
+      "word": "善良",
+      "translation": "kind, virtuous",
+      "example": "",
+      "pronunciation": "shànliáng"
+    },
+    {
+      "word": "善于",
+      "translation": "be good at",
+      "example": "",
+      "pronunciation": "shànyú"
+    },
+    {
+      "word": "伤害",
+      "translation": "hurt, harm",
+      "example": "",
+      "pronunciation": "shānghài"
+    },
+    {
+      "word": "商务",
+      "translation": "business",
+      "example": "",
+      "pronunciation": "shāngwù"
+    },
+    {
+      "word": "赏",
+      "translation": "appreciate, enjoy, reward",
+      "example": "",
+      "pronunciation": "shǎng"
+    },
+    {
+      "word": "上个月",
+      "translation": "last month",
+      "example": "",
+      "pronunciation": "shànggèyuè"
+    },
+    {
+      "word": "上楼",
+      "translation": "go upstairs",
+      "example": "",
+      "pronunciation": "shànglóu"
+    },
+    {
+      "word": "上门",
+      "translation": "drop in, visit",
+      "example": "",
+      "pronunciation": "shàngmén"
+    },
+    {
+      "word": "烧",
+      "translation": "burn, cook, bake, roast, run a fever",
+      "example": "",
+      "pronunciation": "shāo"
+    },
+    {
+      "word": "设施",
+      "translation": "facilities",
+      "example": "",
+      "pronunciation": "shèshī"
+    },
+    {
+      "word": "设置",
+      "translation": "set up, install",
+      "example": "",
+      "pronunciation": "shèzhì"
+    },
+    {
+      "word": "申请",
+      "translation": "apply, application",
+      "example": "",
+      "pronunciation": "shēnqǐng"
+    },
+    {
+      "word": "身材",
+      "translation": "figure, build",
+      "example": "",
+      "pronunciation": "shēncái"
+    },
+    {
+      "word": "身份",
+      "translation": "identity",
+      "example": "",
+      "pronunciation": "shēnfèn"
+    },
+    {
+      "word": "身高",
+      "translation": "height",
+      "example": "",
+      "pronunciation": "shēngāo"
+    },
+    {
+      "word": "深厚",
+      "translation": "deep, profound, solid, deep-seated",
+      "example": "",
+      "pronunciation": "shēnhòu"
+    },
+    {
+      "word": "神话",
+      "translation": "myth",
+      "example": "",
+      "pronunciation": "shénhuà"
+    },
+    {
+      "word": "神秘",
+      "translation": "mysterious",
+      "example": "",
+      "pronunciation": "shénmì"
+    },
+    {
+      "word": "甚至",
+      "translation": "even",
+      "example": "",
+      "pronunciation": "shènzhì"
+    },
+    {
+      "word": "失败",
+      "translation": "fail, failure",
+      "example": "",
+      "pronunciation": "shībài"
+    },
+    {
+      "word": "失望",
+      "translation": "disappointed, disappointment",
+      "example": "",
+      "pronunciation": "shīwàng"
+    },
+    {
+      "word": "失业",
+      "translation": "lose one's job, unemployment",
+      "example": "",
+      "pronunciation": "shīyè"
+    },
+    {
+      "word": "诗",
+      "translation": "poem, poetry",
+      "example": "",
+      "pronunciation": "shī"
+    },
+    {
+      "word": "诗人",
+      "translation": "poet",
+      "example": "",
+      "pronunciation": "shīrén"
+    },
+    {
+      "word": "湿",
+      "translation": "wet, damp, humid",
+      "example": "",
+      "pronunciation": "shī"
+    },
+    {
+      "word": "实施",
+      "translation": "implement, carry out",
+      "example": "",
+      "pronunciation": "shíshī"
+    },
+    {
+      "word": "实用",
+      "translation": "practical",
+      "example": "",
+      "pronunciation": "shíyòng"
+    },
+    {
+      "word": "食堂",
+      "translation": "dining room, mess hall, canteen",
+      "example": "",
+      "pronunciation": "shítáng"
+    },
+    {
+      "word": "使劲",
+      "translation": "exert all one's strength, put in energy",
+      "example": "",
+      "pronunciation": "shǐjìn"
+    },
+    {
+      "word": "士兵",
+      "translation": "soldier",
+      "example": "",
+      "pronunciation": "shìbīng"
+    },
+    {
+      "word": "市区",
+      "translation": "downtown area, urban district",
+      "example": "",
+      "pronunciation": "shìqū"
+    },
+    {
+      "word": "似的",
+      "translation": "as if, like",
+      "example": "",
+      "pronunciation": "shìde"
+    },
+    {
+      "word": "事物",
+      "translation": "thing",
+      "example": "",
+      "pronunciation": "shìwù"
+    },
+    {
+      "word": "事先",
+      "translation": "in advance, beforehand",
+      "example": "",
+      "pronunciation": "shìxiān"
+    },
+    {
+      "word": "试卷",
+      "translation": "test paper",
+      "example": "",
+      "pronunciation": "shìjuàn"
+    },
+    {
+      "word": "是否",
+      "translation": "whether, whether or not",
+      "example": "",
+      "pronunciation": "shìfǒu"
+    },
+    {
+      "word": "收回",
+      "translation": "withdraw, regain, call in, countermand",
+      "example": "",
+      "pronunciation": "shōuhuí"
+    },
+    {
+      "word": "收获",
+      "translation": "harvest, gains",
+      "example": "",
+      "pronunciation": "shōuhuò"
+    },
+    {
+      "word": "收益",
+      "translation": "income, profit",
+      "example": "",
+      "pronunciation": "shōuyì"
+    },
+    {
+      "word": "手工",
+      "translation": "handmade, manual",
+      "example": "",
+      "pronunciation": "shǒugōng"
+    },
+    {
+      "word": "手里",
+      "translation": "in one's hands",
+      "example": "",
+      "pronunciation": "shǒulǐ"
+    },
+    {
+      "word": "手术",
+      "translation": "operation, surgery",
+      "example": "",
+      "pronunciation": "shǒushù"
+    },
+    {
+      "word": "手套",
+      "translation": "glove",
+      "example": "",
+      "pronunciation": "shǒutào"
+    },
+    {
+      "word": "守",
+      "translation": "guard, defend, observe",
+      "example": "",
+      "pronunciation": "shǒu"
+    },
+    {
+      "word": "首",
+      "translation": "(measure word for songs, poems)",
+      "example": "",
+      "pronunciation": "shǒu"
+    },
+    {
+      "word": "受不了",
+      "translation": "can't stand, can't bear",
+      "example": "",
+      "pronunciation": "shòubuliǎo"
+    },
+    {
+      "word": "售货员",
+      "translation": "salesperson",
+      "example": "",
+      "pronunciation": "shòuhuòyuán"
+    },
+    {
+      "word": "叔叔",
+      "translation": "uncle",
+      "example": "",
+      "pronunciation": "shūshu"
+    },
+    {
+      "word": "舒适",
+      "translation": "comfortable",
+      "example": "",
+      "pronunciation": "shūshì"
+    },
+    {
+      "word": "熟练",
+      "translation": "skilled, proficient",
+      "example": "",
+      "pronunciation": "shúliàn"
+    },
+    {
+      "word": "暑假",
+      "translation": "summer vacation",
+      "example": "",
+      "pronunciation": "shǔjià"
+    },
+    {
+      "word": "树林",
+      "translation": "wood, grove, forest",
+      "example": "",
+      "pronunciation": "shùlín"
+    },
+    {
+      "word": "树叶",
+      "translation": "leaf, tree leaf",
+      "example": "",
+      "pronunciation": "shùyè"
+    },
+    {
+      "word": "数据",
+      "translation": "data",
+      "example": "",
+      "pronunciation": "shùjù"
+    },
+    {
+      "word": "数码",
+      "translation": "digital, numeral",
+      "example": "",
+      "pronunciation": "shùmǎ"
+    },
+    {
+      "word": "刷",
+      "translation": "brush, scrub, paste up",
+      "example": "",
+      "pronunciation": "shuā"
+    },
+    {
+      "word": "刷牙",
+      "translation": "brush one's teeth",
+      "example": "",
+      "pronunciation": "shuāyá"
+    },
+    {
+      "word": "刷子",
+      "translation": "brush, scrub",
+      "example": "",
+      "pronunciation": "shuāzi"
+    },
+    {
+      "word": "帅",
+      "translation": "handsome",
+      "example": "",
+      "pronunciation": "shuài"
+    },
+    {
+      "word": "帅哥",
+      "translation": "handsome guy",
+      "example": "",
+      "pronunciation": "shuàigē"
+    },
+    {
+      "word": "率先",
+      "translation": "lead, take the lead",
+      "example": "",
+      "pronunciation": "shuàixiān"
+    },
+    {
+      "word": "睡着",
+      "translation": "fall asleep",
+      "example": "",
+      "pronunciation": "shuìzháo"
+    },
+    {
+      "word": "顺序",
+      "translation": "order",
+      "example": "",
+      "pronunciation": "shùnxù"
+    },
+    {
+      "word": "说不定",
+      "translation": "maybe, perhaps",
+      "example": "",
+      "pronunciation": "shuōbudìng"
+    },
+    {
+      "word": "说服",
+      "translation": "persuade",
+      "example": "",
+      "pronunciation": "shuōfú"
+    },
+    {
+      "word": "思考",
+      "translation": "think, ponder",
+      "example": "",
+      "pronunciation": "sīkǎo"
+    },
+    {
+      "word": "似乎",
+      "translation": "it seems that",
+      "example": "",
+      "pronunciation": "sìhū"
+    },
+    {
+      "word": "松",
+      "translation": "pine, loose, slack, loosen, relax, slacken",
+      "example": "",
+      "pronunciation": "sōng"
+    },
+    {
+      "word": "松树",
+      "translation": "pine tree, pine",
+      "example": "",
+      "pronunciation": "sōngshù"
+    },
+    {
+      "word": "塑料",
+      "translation": "plastic",
+      "example": "",
+      "pronunciation": "sùliào"
+    },
+    {
+      "word": "塑料袋",
+      "translation": "plastic bag",
+      "example": "",
+      "pronunciation": "sùliàodài"
+    },
+    {
+      "word": "酸",
+      "translation": "sour, acid, sore",
+      "example": "",
+      "pronunciation": "suān"
+    },
+    {
+      "word": "酸奶",
+      "translation": "yogurt",
+      "example": "",
+      "pronunciation": "suānnǎi"
+    },
+    {
+      "word": "随手",
+      "translation": "conveniently, in passing",
+      "example": "",
+      "pronunciation": "suíshǒu"
+    },
+    {
+      "word": "孙女",
+      "translation": "granddaughter",
+      "example": "",
+      "pronunciation": "sūnnǚ"
+    },
+    {
+      "word": "孙子",
+      "translation": "grandson",
+      "example": "",
+      "pronunciation": "sūnzi"
+    },
+    {
+      "word": "缩短",
+      "translation": "shorten",
+      "example": "",
+      "pronunciation": "suōduǎn"
+    },
+    {
+      "word": "缩小",
+      "translation": "reduce, lessen, narrow, shrink, zoom out",
+      "example": "",
+      "pronunciation": "suōxiǎo"
+    },
+    {
+      "word": "台阶",
+      "translation": "steps, stairs",
+      "example": "",
+      "pronunciation": "táijiē"
+    },
+    {
+      "word": "台上",
+      "translation": "on the stage",
+      "example": "",
+      "pronunciation": "táishàng"
+    },
+    {
+      "word": "躺",
+      "translation": "lie (down)",
+      "example": "",
+      "pronunciation": "tǎng"
+    },
+    {
+      "word": "套餐",
+      "translation": "set meal",
+      "example": "",
+      "pronunciation": "tàocān"
+    },
+    {
+      "word": "特价",
+      "translation": "special offer, bargain price",
+      "example": "",
+      "pronunciation": "tèjià"
+    },
+    {
+      "word": "特殊",
+      "translation": "special",
+      "example": "",
+      "pronunciation": "tèshū"
+    },
+    {
+      "word": "特征",
+      "translation": "feature, characteristic",
+      "example": "",
+      "pronunciation": "tèzhēng"
+    },
+    {
+      "word": "提供",
+      "translation": "provide",
+      "example": "",
+      "pronunciation": "tígōng"
+    },
+    {
+      "word": "提醒",
+      "translation": "remind",
+      "example": "",
+      "pronunciation": "tíxǐng"
+    },
+    {
+      "word": "体操",
+      "translation": "gymnastics",
+      "example": "",
+      "pronunciation": "tǐcāo"
+    },
+    {
+      "word": "体检",
+      "translation": "physical examination",
+      "example": "",
+      "pronunciation": "tǐjiǎn"
+    },
+    {
+      "word": "体重",
+      "translation": "body weight",
+      "example": "",
+      "pronunciation": "tǐzhòng"
+    },
+    {
+      "word": "替",
+      "translation": "replace, substitute, take the place of, for, on behalf of",
+      "example": "",
+      "pronunciation": "tì"
+    },
+    {
+      "word": "替代",
+      "translation": "replace, substitute",
+      "example": "",
+      "pronunciation": "tìdài"
+    },
+    {
+      "word": "天真",
+      "translation": "naive, innocent",
+      "example": "",
+      "pronunciation": "tiānzhēn"
+    },
+    {
+      "word": "填",
+      "translation": "fill, stuff, fill in, write",
+      "example": "",
+      "pronunciation": "tián"
+    },
+    {
+      "word": "填空",
+      "translation": "fill in the blank",
+      "example": "",
+      "pronunciation": "tiánkòng"
+    },
+    {
+      "word": "挑",
+      "translation": "choose, pick, select, lift up, raise, poke, incite",
+      "example": "",
+      "pronunciation": "tiāo, tiǎo"
+    },
+    {
+      "word": "挑选",
+      "translation": "pick, choose, select, pick out",
+      "example": "",
+      "pronunciation": "tiāoxuǎn"
+    },
+    {
+      "word": "调皮",
+      "translation": "naughty",
+      "example": "",
+      "pronunciation": "tiáopí"
+    },
+    {
+      "word": "挑战",
+      "translation": "challenge",
+      "example": "",
+      "pronunciation": "tiǎozhàn"
+    },
+    {
+      "word": "贴",
+      "translation": "stick, paste, glue, nestle up to, keep close to",
+      "example": "",
+      "pronunciation": "tiē"
+    },
+    {
+      "word": "停下",
+      "translation": "stop",
+      "example": "",
+      "pronunciation": "tíngxià"
+    },
+    {
+      "word": "挺",
+      "translation": "stand straight, hold out, endure",
+      "example": "",
+      "pronunciation": "tǐng"
+    },
+    {
+      "word": "通知书",
+      "translation": "notice, letter of notification",
+      "example": "",
+      "pronunciation": "tōngzhīshū"
+    },
+    {
+      "word": "同情",
+      "translation": "sympathize, sympathy",
+      "example": "",
+      "pronunciation": "tóngqíng"
+    },
+    {
+      "word": "童话",
+      "translation": "fairy tale",
+      "example": "",
+      "pronunciation": "tónghuà"
+    },
+    {
+      "word": "童年",
+      "translation": "childhood, babyhood",
+      "example": "",
+      "pronunciation": "tóngnián"
+    },
+    {
+      "word": "统计",
+      "translation": "statistics, count",
+      "example": "",
+      "pronunciation": "tǒngjì"
+    },
+    {
+      "word": "统一",
+      "translation": "unify, unified",
+      "example": "",
+      "pronunciation": "tǒngyī"
+    },
+    {
+      "word": "痛快",
+      "translation": "happy, to one's heart's content",
+      "example": "",
+      "pronunciation": "tòngkuài"
+    },
+    {
+      "word": "投",
+      "translation": "throw, fling, hurl, cast, drop, put in, send, go to",
+      "example": "",
+      "pronunciation": "tóu"
+    },
+    {
+      "word": "投入",
+      "translation": "put into, invest, devote oneself",
+      "example": "",
+      "pronunciation": "tóurù"
+    },
+    {
+      "word": "投诉",
+      "translation": "complain, complaint",
+      "example": "",
+      "pronunciation": "tóusù"
+    },
+    {
+      "word": "投资",
+      "translation": "invest, investment",
+      "example": "",
+      "pronunciation": "tóuzī"
+    },
+    {
+      "word": "透",
+      "translation": "penetrate, pass through, tell secretly, show, through",
+      "example": "",
+      "pronunciation": "tòu"
+    },
+    {
+      "word": "透明",
+      "translation": "transparent",
+      "example": "",
+      "pronunciation": "tòumíng"
+    },
+    {
+      "word": "图案",
+      "translation": "pattern, design",
+      "example": "",
+      "pronunciation": "tú'àn"
+    },
+    {
+      "word": "途中",
+      "translation": "on the way to, en route",
+      "example": "",
+      "pronunciation": "túzhōng"
+    },
+    {
+      "word": "土地",
+      "translation": "land",
+      "example": "",
+      "pronunciation": "tǔdì"
+    },
+    {
+      "word": "推迟",
+      "translation": "postpone, delay",
+      "example": "",
+      "pronunciation": "tuīchí"
+    },
+    {
+      "word": "推销",
+      "translation": "sell, market, promote sales",
+      "example": "",
+      "pronunciation": "tuīxiāo"
+    },
+    {
+      "word": "脱",
+      "translation": "take off",
+      "example": "",
+      "pronunciation": "tuō"
+    },
+    {
+      "word": "袜子",
+      "translation": "socks",
+      "example": "",
+      "pronunciation": "wàzi"
+    },
+    {
+      "word": "外汇",
+      "translation": "foreign exchange, foreign currency",
+      "example": "",
+      "pronunciation": "wàihuì"
+    },
+    {
+      "word": "外交官",
+      "translation": "diplomat",
+      "example": "",
+      "pronunciation": "wàijiāoguān"
+    },
+    {
+      "word": "外套",
+      "translation": "coat",
+      "example": "",
+      "pronunciation": "wàitào"
+    },
+    {
+      "word": "弯",
+      "translation": "curved, bend, turn, crooked",
+      "example": "",
+      "pronunciation": "wān"
+    },
+    {
+      "word": "晚点",
+      "translation": "late, behind schedule",
+      "example": "",
+      "pronunciation": "wǎndiǎn"
+    },
+    {
+      "word": "万一",
+      "translation": "in case",
+      "example": "",
+      "pronunciation": "wànyī"
+    },
+    {
+      "word": "王",
+      "translation": "king, monarch, head, chief",
+      "example": "",
+      "pronunciation": "wáng"
+    },
+    {
+      "word": "网络",
+      "translation": "network",
+      "example": "",
+      "pronunciation": "wǎngluò"
+    },
+    {
+      "word": "网址",
+      "translation": "website address, URL",
+      "example": "",
+      "pronunciation": "wǎngzhǐ"
+    },
+    {
+      "word": "微笑",
+      "translation": "smile",
+      "example": "",
+      "pronunciation": "wēixiào"
+    },
+    {
+      "word": "微信",
+      "translation": "WeChat",
+      "example": "",
+      "pronunciation": "wēixìn"
+    },
+    {
+      "word": "围巾",
+      "translation": "scarf",
+      "example": "",
+      "pronunciation": "wéijīn"
+    },
+    {
+      "word": "维持",
+      "translation": "maintain",
+      "example": "",
+      "pronunciation": "wéichí"
+    },
+    {
+      "word": "维护",
+      "translation": "protect, maintain, safeguard",
+      "example": "",
+      "pronunciation": "wéihù"
+    },
+    {
+      "word": "维修",
+      "translation": "repair",
+      "example": "",
+      "pronunciation": "wéixiū"
+    },
+    {
+      "word": "尾巴",
+      "translation": "tail",
+      "example": "",
+      "pronunciation": "wěiba"
+    },
+    {
+      "word": "未必",
+      "translation": "not necessarily",
+      "example": "",
+      "pronunciation": "wèibì"
+    },
+    {
+      "word": "未来",
+      "translation": "future",
+      "example": "",
+      "pronunciation": "wèilái"
+    },
+    {
+      "word": "位于",
+      "translation": "be located in",
+      "example": "",
+      "pronunciation": "wèiyú"
+    },
+    {
+      "word": "位置",
+      "translation": "position",
+      "example": "",
+      "pronunciation": "wèizhì"
+    },
+    {
+      "word": "味儿",
+      "translation": "flavor, taste, smell",
+      "example": "",
+      "pronunciation": "wèir"
+    },
+    {
+      "word": "喂",
+      "translation": "feed",
+      "example": "",
+      "pronunciation": "wèi"
+    },
+    {
+      "word": "稳",
+      "translation": "steady, stable, sure, certain",
+      "example": "",
+      "pronunciation": "wěn"
+    },
+    {
+      "word": "稳定",
+      "translation": "stable",
+      "example": "",
+      "pronunciation": "wěndìng"
+    },
+    {
+      "word": "问候",
+      "translation": "greet, send regards",
+      "example": "",
+      "pronunciation": "wènhòu"
+    },
+    {
+      "word": "无",
+      "translation": "not have, nothing, without",
+      "example": "",
+      "pronunciation": "wú"
+    },
+    {
+      "word": "无法",
+      "translation": "unable, incapable",
+      "example": "",
+      "pronunciation": "wúfǎ"
+    },
+    {
+      "word": "无聊",
+      "translation": "boring",
+      "example": "",
+      "pronunciation": "wúliáo"
+    },
+    {
+      "word": "无论",
+      "translation": "no matter",
+      "example": "",
+      "pronunciation": "wúlùn"
+    },
+    {
+      "word": "无数",
+      "translation": "countless",
+      "example": "",
+      "pronunciation": "wúshù"
+    },
+    {
+      "word": "无所谓",
+      "translation": "not care, doesn't matter",
+      "example": "",
+      "pronunciation": "wúsuǒwèi"
+    },
+    {
+      "word": "无限",
+      "translation": "infinite, limitless, unlimited",
+      "example": "",
+      "pronunciation": "wúxiàn"
+    },
+    {
+      "word": "五颜六色",
+      "translation": "colourful, multicolored",
+      "example": "",
+      "pronunciation": "wǔyánliùsè"
+    },
+    {
+      "word": "误会",
+      "translation": "misunderstand, misunderstanding",
+      "example": "",
+      "pronunciation": "wùhuì"
+    },
+    {
+      "word": "西瓜",
+      "translation": "watermelon",
+      "example": "",
+      "pronunciation": "xīguā"
+    },
+    {
+      "word": "吸",
+      "translation": "inhale, breathe, absorb, suck in",
+      "example": "",
+      "pronunciation": "xī"
+    },
+    {
+      "word": "吸管",
+      "translation": "straw",
+      "example": "",
+      "pronunciation": "xīguǎn"
+    },
+    {
+      "word": "吸收",
+      "translation": "absorb",
+      "example": "",
+      "pronunciation": "xīshōu"
+    },
+    {
+      "word": "吸烟",
+      "translation": "smoke",
+      "example": "",
+      "pronunciation": "xīyān"
+    },
+    {
+      "word": "吸引",
+      "translation": "attract",
+      "example": "",
+      "pronunciation": "xīyǐn"
+    },
+    {
+      "word": "喜爱",
+      "translation": "like, love, be fond of",
+      "example": "",
+      "pronunciation": "xǐ'ài"
+    },
+    {
+      "word": "系列",
+      "translation": "series",
+      "example": "",
+      "pronunciation": "xìliè"
+    },
+    {
+      "word": "系统",
+      "translation": "system",
+      "example": "",
+      "pronunciation": "xìtǒng"
+    },
+    {
+      "word": "细",
+      "translation": "thin, slender, delicate, careful, trifling",
+      "example": "",
+      "pronunciation": "xì"
+    },
+    {
+      "word": "细节",
+      "translation": "detail",
+      "example": "",
+      "pronunciation": "xìjié"
+    },
+    {
+      "word": "细致",
+      "translation": "careful, meticulous",
+      "example": "",
+      "pronunciation": "xìzhì"
+    },
+    {
+      "word": "下个月",
+      "translation": "next month",
+      "example": "",
+      "pronunciation": "xiàgèyuè"
+    },
+    {
+      "word": "下降",
+      "translation": "decline, drop, decrease, fall, go down",
+      "example": "",
+      "pronunciation": "xiàjiàng"
+    },
+    {
+      "word": "下楼",
+      "translation": "go downstairs, come downstairs",
+      "example": "",
+      "pronunciation": "xiàlóu"
+    },
+    {
+      "word": "下载",
+      "translation": "download",
+      "example": "",
+      "pronunciation": "xiàzài"
+    },
+    {
+      "word": "夏季",
+      "translation": "summer",
+      "example": "",
+      "pronunciation": "xiàjì"
+    },
+    {
+      "word": "鲜",
+      "translation": "fresh, bright, delicious, little, rare",
+      "example": "",
+      "pronunciation": "xiān"
+    },
+    {
+      "word": "鲜花",
+      "translation": "fresh flower",
+      "example": "",
+      "pronunciation": "xiānhuā"
+    },
+    {
+      "word": "鲜明",
+      "translation": "distinct, bright",
+      "example": "",
+      "pronunciation": "xiānmíng"
+    },
+    {
+      "word": "咸",
+      "translation": "salty",
+      "example": "",
+      "pronunciation": "xián"
+    },
+    {
+      "word": "显著",
+      "translation": "remarkable, notable",
+      "example": "",
+      "pronunciation": "xiǎnzhù"
+    },
+    {
+      "word": "县",
+      "translation": "county",
+      "example": "",
+      "pronunciation": "xiàn"
+    },
+    {
+      "word": "限制",
+      "translation": "limit",
+      "example": "",
+      "pronunciation": "xiànzhì"
+    },
+    {
+      "word": "相处",
+      "translation": "get along (with)",
+      "example": "",
+      "pronunciation": "xiāngchǔ"
+    },
+    {
+      "word": "相反",
+      "translation": "opposite, on the contrary",
+      "example": "",
+      "pronunciation": "xiāngfǎn"
+    },
+    {
+      "word": "箱",
+      "translation": "chest, box, case, trunk",
+      "example": "",
+      "pronunciation": "xiāng"
+    },
+    {
+      "word": "箱子",
+      "translation": "chest, bin, box, case, trunk",
+      "example": "",
+      "pronunciation": "xiāngzi"
+    },
+    {
+      "word": "想念",
+      "translation": "miss",
+      "example": "",
+      "pronunciation": "xiǎngniàn"
+    },
+    {
+      "word": "想象",
+      "translation": "imagine",
+      "example": "",
+      "pronunciation": "xiǎngxiàng"
+    },
+    {
+      "word": "项",
+      "translation": "item, term",
+      "example": "",
+      "pronunciation": "xiàng"
+    },
+    {
+      "word": "项目",
+      "translation": "project",
+      "example": "",
+      "pronunciation": "xiàngmù"
+    },
+    {
+      "word": "相片",
+      "translation": "photo, photograph",
+      "example": "",
+      "pronunciation": "xiàngpiàn"
+    },
+    {
+      "word": "消化",
+      "translation": "digest, digestion",
+      "example": "",
+      "pronunciation": "xiāohuà"
+    },
+    {
+      "word": "销售",
+      "translation": "sell, sales",
+      "example": "",
+      "pronunciation": "xiāoshòu"
+    },
+    {
+      "word": "小吃",
+      "translation": "snack",
+      "example": "",
+      "pronunciation": "xiǎochī"
+    },
+    {
+      "word": "小伙子",
+      "translation": "young man, lad",
+      "example": "",
+      "pronunciation": "xiǎohuǒzi"
+    },
+    {
+      "word": "小型",
+      "translation": "small-size, small-scale",
+      "example": "",
+      "pronunciation": "xiǎoxíng"
+    },
+    {
+      "word": "效率",
+      "translation": "efficiency",
+      "example": "",
+      "pronunciation": "xiàolǜ"
+    },
+    {
+      "word": "些",
+      "translation": "some",
+      "example": "",
+      "pronunciation": "xiē"
+    },
+    {
+      "word": "心理",
+      "translation": "psychology, mentality",
+      "example": "",
+      "pronunciation": "xīnlǐ"
+    },
+    {
+      "word": "新郎",
+      "translation": "groom",
+      "example": "",
+      "pronunciation": "xīnláng"
+    },
+    {
+      "word": "新娘",
+      "translation": "bride",
+      "example": "",
+      "pronunciation": "xīnniáng"
+    },
+    {
+      "word": "新鲜",
+      "translation": "fresh",
+      "example": "",
+      "pronunciation": "xīnxiān"
+    },
+    {
+      "word": "新型",
+      "translation": "new type, new kind",
+      "example": "",
+      "pronunciation": "xīnxíng"
+    },
+    {
+      "word": "兴奋",
+      "translation": "excited, excitement",
+      "example": "",
+      "pronunciation": "xīngfèn"
+    },
+    {
+      "word": "形容",
+      "translation": "describe",
+      "example": "",
+      "pronunciation": "xíngróng"
+    },
+    {
+      "word": "形势",
+      "translation": "situation",
+      "example": "",
+      "pronunciation": "xíngshì"
+    },
+    {
+      "word": "型",
+      "translation": "mould, model, type, pattern",
+      "example": "",
+      "pronunciation": "xíng"
+    },
+    {
+      "word": "型号",
+      "translation": "model, type, pattern",
+      "example": "",
+      "pronunciation": "xínghào"
+    },
+    {
+      "word": "醒",
+      "translation": "wake up",
+      "example": "",
+      "pronunciation": "xǐng"
+    },
+    {
+      "word": "兴趣",
+      "translation": "interest",
+      "example": "",
+      "pronunciation": "xìngqù"
+    },
+    {
+      "word": "性质",
+      "translation": "nature",
+      "example": "",
+      "pronunciation": "xìngzhì"
+    },
+    {
+      "word": "兄弟",
+      "translation": "brother",
+      "example": "",
+      "pronunciation": "xiōngdì"
+    },
+    {
+      "word": "胸部",
+      "translation": "chest, thorax, breast",
+      "example": "",
+      "pronunciation": "xiōngbù"
+    },
+    {
+      "word": "修理",
+      "translation": "repair",
+      "example": "",
+      "pronunciation": "xiūlǐ"
+    },
+    {
+      "word": "选择",
+      "translation": "choose, choice",
+      "example": "",
+      "pronunciation": "xuǎnzé"
+    },
+    {
+      "word": "学分",
+      "translation": "credit, academic credit",
+      "example": "",
+      "pronunciation": "xuéfēn"
+    },
+    {
+      "word": "学年",
+      "translation": "school year, academic year",
+      "example": "",
+      "pronunciation": "xuénián"
+    },
+    {
+      "word": "学时",
+      "translation": "class hour, period",
+      "example": "",
+      "pronunciation": "xuéshí"
+    },
+    {
+      "word": "学术",
+      "translation": "academic, learning",
+      "example": "",
+      "pronunciation": "xuéshù"
+    },
+    {
+      "word": "学问",
+      "translation": "knowledge",
+      "example": "",
+      "pronunciation": "xuéwen"
+    },
+    {
+      "word": "寻找",
+      "translation": "seek, look for",
+      "example": "",
+      "pronunciation": "xúnzhǎo"
+    },
+    {
+      "word": "迅速",
+      "translation": "rapid, quick",
+      "example": "",
+      "pronunciation": "xùnsù"
+    },
+    {
+      "word": "牙",
+      "translation": "tooth, ivory, tooth-like thing",
+      "example": "",
+      "pronunciation": "yá"
+    },
+    {
+      "word": "牙刷",
+      "translation": "toothbrush",
+      "example": "",
+      "pronunciation": "yáshuā"
+    },
+    {
+      "word": "亚运会",
+      "translation": "Asian Games",
+      "example": "",
+      "pronunciation": "yàyùnhuì"
+    },
+    {
+      "word": "呀",
+      "translation": "ah",
+      "example": "",
+      "pronunciation": "ya"
+    },
+    {
+      "word": "延长",
+      "translation": "extend",
+      "example": "",
+      "pronunciation": "yáncháng"
+    },
+    {
+      "word": "延期",
+      "translation": "postpone, delay",
+      "example": "",
+      "pronunciation": "yánqī"
+    },
+    {
+      "word": "延续",
+      "translation": "continue",
+      "example": "",
+      "pronunciation": "yánxù"
+    },
+    {
+      "word": "严",
+      "translation": "strict, tight, severe, stern",
+      "example": "",
+      "pronunciation": "yán"
+    },
+    {
+      "word": "严格",
+      "translation": "strict",
+      "example": "",
+      "pronunciation": "yángé"
+    },
+    {
+      "word": "严重",
+      "translation": "serious",
+      "example": "",
+      "pronunciation": "yánzhòng"
+    },
+    {
+      "word": "研究",
+      "translation": "research, study",
+      "example": "",
+      "pronunciation": "yánjiū"
+    },
+    {
+      "word": "研究生",
+      "translation": "postgraduate, graduate student",
+      "example": "",
+      "pronunciation": "yánjiūshēng"
+    },
+    {
+      "word": "研制",
+      "translation": "prepare, manufacture, develop",
+      "example": "",
+      "pronunciation": "yánzhì"
+    },
+    {
+      "word": "盐",
+      "translation": "salt",
+      "example": "",
+      "pronunciation": "yán"
+    },
+    {
+      "word": "眼镜",
+      "translation": "glasses",
+      "example": "",
+      "pronunciation": "yǎnjìng"
+    },
+    {
+      "word": "眼泪",
+      "translation": "tear, tears",
+      "example": "",
+      "pronunciation": "yǎnlèi"
+    },
+    {
+      "word": "眼里",
+      "translation": "within one's vision, in one's eyes",
+      "example": "",
+      "pronunciation": "yǎnlǐ"
+    },
+    {
+      "word": "演讲",
+      "translation": "give a speech, speech",
+      "example": "",
+      "pronunciation": "yǎnjiǎng"
+    },
+    {
+      "word": "阳台",
+      "translation": "balcony",
+      "example": "",
+      "pronunciation": "yángtái"
+    },
+    {
+      "word": "养成",
+      "translation": "develop (a habit), form",
+      "example": "",
+      "pronunciation": "yǎngchéng"
+    },
+    {
+      "word": "腰",
+      "translation": "waist",
+      "example": "",
+      "pronunciation": "yāo"
+    },
+    {
+      "word": "摇",
+      "translation": "shake",
+      "example": "",
+      "pronunciation": "yáo"
+    },
+    {
+      "word": "药物",
+      "translation": "drug, medicine",
+      "example": "",
+      "pronunciation": "yàowù"
+    },
+    {
+      "word": "要",
+      "translation": "if",
+      "example": "",
+      "pronunciation": "yào"
+    },
+    {
+      "word": "业余",
+      "translation": "amateur, spare time",
+      "example": "",
+      "pronunciation": "yèyú"
+    },
+    {
+      "word": "叶子",
+      "translation": "leaf",
+      "example": "",
+      "pronunciation": "yèzi"
+    },
+    {
+      "word": "医疗",
+      "translation": "medical treatment",
+      "example": "",
+      "pronunciation": "yīliáo"
+    },
+    {
+      "word": "医学",
+      "translation": "medical science, medicine",
+      "example": "",
+      "pronunciation": "yīxué"
+    },
+    {
+      "word": "依靠",
+      "translation": "rely on, depend on",
+      "example": "",
+      "pronunciation": "yīkào"
+    },
+    {
+      "word": "依然",
+      "translation": "still, as before",
+      "example": "",
+      "pronunciation": "yīrán"
+    },
+    {
+      "word": "一律",
+      "translation": "all, without exception",
+      "example": "",
+      "pronunciation": "yílǜ"
+    },
+    {
+      "word": "一再",
+      "translation": "repeatedly",
+      "example": "",
+      "pronunciation": "yízài"
+    },
+    {
+      "word": "一致",
+      "translation": "unanimous, consistent, agreement",
+      "example": "",
+      "pronunciation": "yízhì"
+    },
+    {
+      "word": "移",
+      "translation": "move, remove, shift, change, alter",
+      "example": "",
+      "pronunciation": "yí"
+    },
+    {
+      "word": "移动",
+      "translation": "move",
+      "example": "",
+      "pronunciation": "yídòng"
+    },
+    {
+      "word": "移民",
+      "translation": "immigrate, immigrant",
+      "example": "",
+      "pronunciation": "yímín"
+    },
+    {
+      "word": "遗产",
+      "translation": "heritage, inheritance, legacy",
+      "example": "",
+      "pronunciation": "yíchǎn"
+    },
+    {
+      "word": "遗传",
+      "translation": "heredity, inherit",
+      "example": "",
+      "pronunciation": "yíchuán"
+    },
+    {
+      "word": "疑问",
+      "translation": "doubt",
+      "example": "",
+      "pronunciation": "yíwèn"
+    },
+    {
+      "word": "以及",
+      "translation": "as well as",
+      "example": "",
+      "pronunciation": "yǐjí"
+    },
+    {
+      "word": "以内",
+      "translation": "within",
+      "example": "",
+      "pronunciation": "yǐnèi"
+    },
+    {
+      "word": "一般来说",
+      "translation": "generally speaking",
+      "example": "",
+      "pronunciation": "yìbānláishuō"
+    },
+    {
+      "word": "义务",
+      "translation": "obligation",
+      "example": "",
+      "pronunciation": "yìwù"
+    },
+    {
+      "word": "议论",
+      "translation": "discuss, talk about, discussion",
+      "example": "",
+      "pronunciation": "yìlùn"
+    },
+    {
+      "word": "引",
+      "translation": "lead, guide, draw, stretch, lure, attract, cause",
+      "example": "",
+      "pronunciation": "yǐn"
+    },
+    {
+      "word": "引导",
+      "translation": "guide",
+      "example": "",
+      "pronunciation": "yǐndǎo"
+    },
+    {
+      "word": "引进",
+      "translation": "introduce, bring in",
+      "example": "",
+      "pronunciation": "yǐnjìn"
+    },
+    {
+      "word": "引起",
+      "translation": "cause",
+      "example": "",
+      "pronunciation": "yǐnqǐ"
+    },
+    {
+      "word": "应",
+      "translation": "should, ought to, answer, respond, promise",
+      "example": "",
+      "pronunciation": "yīng"
+    },
+    {
+      "word": "英勇",
+      "translation": "heroic",
+      "example": "",
+      "pronunciation": "yīngyǒng"
+    },
+    {
+      "word": "营业",
+      "translation": "do business, be open",
+      "example": "",
+      "pronunciation": "yíngyè"
+    },
+    {
+      "word": "赢得",
+      "translation": "gain, win",
+      "example": "",
+      "pronunciation": "yíngdé"
+    },
+    {
+      "word": "影子",
+      "translation": "shadow",
+      "example": "",
+      "pronunciation": "yǐngzi"
+    },
+    {
+      "word": "勇敢",
+      "translation": "brave",
+      "example": "",
+      "pronunciation": "yǒnggǎn"
+    },
+    {
+      "word": "勇气",
+      "translation": "courage",
+      "example": "",
+      "pronunciation": "yǒngqì"
+    },
+    {
+      "word": "用途",
+      "translation": "use, purpose",
+      "example": "",
+      "pronunciation": "yòngtú"
+    },
+    {
+      "word": "优良",
+      "translation": "fine, good, excellent",
+      "example": "",
+      "pronunciation": "yōuliáng"
+    },
+    {
+      "word": "优美",
+      "translation": "graceful, beautiful",
+      "example": "",
+      "pronunciation": "yōuměi"
+    },
+    {
+      "word": "优秀",
+      "translation": "excellent",
+      "example": "",
+      "pronunciation": "yōuxiù"
+    },
+    {
+      "word": "邮局",
+      "translation": "post office",
+      "example": "",
+      "pronunciation": "yóujú"
+    },
+    {
+      "word": "有劲儿",
+      "translation": "strong, energetic",
+      "example": "",
+      "pronunciation": "yǒujìnr"
+    },
+    {
+      "word": "有趣",
+      "translation": "interesting",
+      "example": "",
+      "pronunciation": "yǒuqù"
+    },
+    {
+      "word": "有限",
+      "translation": "limited, finite",
+      "example": "",
+      "pronunciation": "yǒuxiàn"
+    },
+    {
+      "word": "幼儿园",
+      "translation": "kindergarten",
+      "example": "",
+      "pronunciation": "yòu'éryuán"
+    },
+    {
+      "word": "于是",
+      "translation": "so, therefore",
+      "example": "",
+      "pronunciation": "yúshì"
+    },
+    {
+      "word": "语法",
+      "translation": "grammar",
+      "example": "",
+      "pronunciation": "yǔfǎ"
+    },
+    {
+      "word": "语音",
+      "translation": "pronunciation, speech sound, voice",
+      "example": "",
+      "pronunciation": "yǔyīn"
+    },
+    {
+      "word": "玉",
+      "translation": "jade",
+      "example": "",
+      "pronunciation": "yù"
+    },
+    {
+      "word": "玉米",
+      "translation": "corn",
+      "example": "",
+      "pronunciation": "yùmǐ"
+    },
+    {
+      "word": "预测",
+      "translation": "predict, forecast",
+      "example": "",
+      "pronunciation": "yùcè"
+    },
+    {
+      "word": "预订",
+      "translation": "book, reserve",
+      "example": "",
+      "pronunciation": "yùdìng"
+    },
+    {
+      "word": "遇",
+      "translation": "meet, encounter",
+      "example": "",
+      "pronunciation": "yù"
+    },
+    {
+      "word": "遇到",
+      "translation": "encounter",
+      "example": "",
+      "pronunciation": "yùdào"
+    },
+    {
+      "word": "遇见",
+      "translation": "meet, come across",
+      "example": "",
+      "pronunciation": "yùjiàn"
+    },
+    {
+      "word": "原料",
+      "translation": "raw material",
+      "example": "",
+      "pronunciation": "yuánliào"
+    },
+    {
+      "word": "原则",
+      "translation": "principle",
+      "example": "",
+      "pronunciation": "yuánzé"
+    },
+    {
+      "word": "圆",
+      "translation": "round, circle",
+      "example": "",
+      "pronunciation": "yuán"
+    },
+    {
+      "word": "圆满",
+      "translation": "satisfactory, successful",
+      "example": "",
+      "pronunciation": "yuánmǎn"
+    },
+    {
+      "word": "约会",
+      "translation": "date, appointment",
+      "example": "",
+      "pronunciation": "yuēhuì"
+    },
+    {
+      "word": "月底",
+      "translation": "end of the month",
+      "example": "",
+      "pronunciation": "yuèdǐ"
+    },
+    {
+      "word": "阅读",
+      "translation": "read",
+      "example": "",
+      "pronunciation": "yuèdú"
+    },
+    {
+      "word": "运动会",
+      "translation": "sports meet",
+      "example": "",
+      "pronunciation": "yùndònghuì"
+    },
+    {
+      "word": "运动员",
+      "translation": "athlete, sportsman",
+      "example": "",
+      "pronunciation": "yùndòngyuán"
+    },
+    {
+      "word": "运气",
+      "translation": "luck",
+      "example": "",
+      "pronunciation": "yùnqi"
+    },
+    {
+      "word": "运用",
+      "translation": "use, apply",
+      "example": "",
+      "pronunciation": "yùnyòng"
+    },
+    {
+      "word": "再三",
+      "translation": "repeatedly",
+      "example": "",
+      "pronunciation": "zàisān"
+    },
+    {
+      "word": "在乎",
+      "translation": "care about",
+      "example": "",
+      "pronunciation": "zàihu"
+    },
+    {
+      "word": "在于",
+      "translation": "lie in, rest with",
+      "example": "",
+      "pronunciation": "zàiyú"
+    },
+    {
+      "word": "赞成",
+      "translation": "agree",
+      "example": "",
+      "pronunciation": "zànchéng"
+    },
+    {
+      "word": "赞赏",
+      "translation": "appreciate, admire, praise",
+      "example": "",
+      "pronunciation": "zànshǎng"
+    },
+    {
+      "word": "赞助",
+      "translation": "sponsor",
+      "example": "",
+      "pronunciation": "zànzhù"
+    },
+    {
+      "word": "造型",
+      "translation": "shape, style, model",
+      "example": "",
+      "pronunciation": "zàoxíng"
+    },
+    {
+      "word": "战斗",
+      "translation": "battle, fight",
+      "example": "",
+      "pronunciation": "zhàndòu"
+    },
+    {
+      "word": "战胜",
+      "translation": "defeat, conquer",
+      "example": "",
+      "pronunciation": "zhànshèng"
+    },
+    {
+      "word": "战士",
+      "translation": "warrior, soldier, fighter",
+      "example": "",
+      "pronunciation": "zhànshì"
+    },
+    {
+      "word": "战争",
+      "translation": "war",
+      "example": "",
+      "pronunciation": "zhànzhēng"
+    },
+    {
+      "word": "丈夫",
+      "translation": "husband",
+      "example": "",
+      "pronunciation": "zhàngfu"
+    },
+    {
+      "word": "招呼",
+      "translation": "call, greet",
+      "example": "",
+      "pronunciation": "zhāohu"
+    },
+    {
+      "word": "着",
+      "translation": "(particle for an ongoing action)",
+      "example": "",
+      "pronunciation": "zhe"
+    },
+    {
+      "word": "着火",
+      "translation": "catch fire, on fire",
+      "example": "",
+      "pronunciation": "zháohuǒ"
+    },
+    {
+      "word": "着急",
+      "translation": "worried, anxious",
+      "example": "",
+      "pronunciation": "zháojí"
+    },
+    {
+      "word": "召开",
+      "translation": "convene, hold (a meeting)",
+      "example": "",
+      "pronunciation": "zhàokāi"
+    },
+    {
+      "word": "折",
+      "translation": "break, fold, discount",
+      "example": "",
+      "pronunciation": "zhé"
+    },
+    {
+      "word": "针",
+      "translation": "needle, injection",
+      "example": "",
+      "pronunciation": "zhēn"
+    },
+    {
+      "word": "针对",
+      "translation": "aim at, target",
+      "example": "",
+      "pronunciation": "zhēnduì"
+    },
+    {
+      "word": "阵",
+      "translation": "burst, spell, (measure word for short periods)",
+      "example": "",
+      "pronunciation": "zhèn"
+    },
+    {
+      "word": "争论",
+      "translation": "argue, debate",
+      "example": "",
+      "pronunciation": "zhēnglùn"
+    },
+    {
+      "word": "征服",
+      "translation": "conquer",
+      "example": "",
+      "pronunciation": "zhēngfú"
+    },
+    {
+      "word": "征求",
+      "translation": "seek, ask for",
+      "example": "",
+      "pronunciation": "zhēngqiú"
+    },
+    {
+      "word": "政府",
+      "translation": "government",
+      "example": "",
+      "pronunciation": "zhèngfǔ"
+    },
+    {
+      "word": "政治",
+      "translation": "politics",
+      "example": "",
+      "pronunciation": "zhèngzhì"
+    },
+    {
+      "word": "之后",
+      "translation": "later, after, afterwards",
+      "example": "",
+      "pronunciation": "zhīhòu"
+    },
+    {
+      "word": "之间",
+      "translation": "between, among",
+      "example": "",
+      "pronunciation": "zhījiān"
+    },
+    {
+      "word": "之前",
+      "translation": "before, prior to",
+      "example": "",
+      "pronunciation": "zhīqián"
+    },
+    {
+      "word": "之一",
+      "translation": "one of",
+      "example": "",
+      "pronunciation": "zhīyī"
+    },
+    {
+      "word": "支",
+      "translation": "put up, protrude, support, send away",
+      "example": "",
+      "pronunciation": "zhī"
+    },
+    {
+      "word": "植物",
+      "translation": "plant",
+      "example": "",
+      "pronunciation": "zhíwù"
+    },
+    {
+      "word": "指挥",
+      "translation": "command",
+      "example": "",
+      "pronunciation": "zhǐhuī"
+    },
+    {
+      "word": "制订",
+      "translation": "formulate, work out, map out",
+      "example": "",
+      "pronunciation": "zhìdìng"
+    },
+    {
+      "word": "质量",
+      "translation": "quality",
+      "example": "",
+      "pronunciation": "zhìliàng"
+    },
+    {
+      "word": "治",
+      "translation": "rule, govern, manage, cure, treatment",
+      "example": "",
+      "pronunciation": "zhì"
+    },
+    {
+      "word": "治疗",
+      "translation": "treat, treatment",
+      "example": "",
+      "pronunciation": "zhìliáo"
+    },
+    {
+      "word": "智力",
+      "translation": "intelligence",
+      "example": "",
+      "pronunciation": "zhìlì"
+    },
+    {
+      "word": "智能",
+      "translation": "smart, intelligent",
+      "example": "",
+      "pronunciation": "zhìnéng"
+    },
+    {
+      "word": "中介",
+      "translation": "intermediary",
+      "example": "",
+      "pronunciation": "zhōngjiè"
+    },
+    {
+      "word": "种类",
+      "translation": "type, kind",
+      "example": "",
+      "pronunciation": "zhǒnglèi"
+    },
+    {
+      "word": "中奖",
+      "translation": "win a lottery",
+      "example": "",
+      "pronunciation": "zhòngjiǎng"
+    },
+    {
+      "word": "种",
+      "translation": "kind, type, species, seed",
+      "example": "",
+      "pronunciation": "zhǒng"
+    },
+    {
+      "word": "种植",
+      "translation": "plant, grow",
+      "example": "",
+      "pronunciation": "zhòngzhí"
+    },
+    {
+      "word": "重量",
+      "translation": "weight",
+      "example": "",
+      "pronunciation": "zhòngliàng"
+    },
+    {
+      "word": "逐步",
+      "translation": "gradually",
+      "example": "",
+      "pronunciation": "zhúbù"
+    },
+    {
+      "word": "逐渐",
+      "translation": "gradually",
+      "example": "",
+      "pronunciation": "zhújiàn"
+    },
+    {
+      "word": "主题",
+      "translation": "theme",
+      "example": "",
+      "pronunciation": "zhǔtí"
+    },
+    {
+      "word": "主席",
+      "translation": "chairman, chairperson",
+      "example": "",
+      "pronunciation": "zhǔxí"
+    },
+    {
+      "word": "祝福",
+      "translation": "bless, blessing",
+      "example": "",
+      "pronunciation": "zhùfú"
+    },
+    {
+      "word": "著名",
+      "translation": "famous",
+      "example": "",
+      "pronunciation": "zhùmíng"
+    },
+    {
+      "word": "著作",
+      "translation": "work (book), writings",
+      "example": "",
+      "pronunciation": "zhùzuò"
+    },
+    {
+      "word": "抓紧",
+      "translation": "pay close attention to, grasp",
+      "example": "",
+      "pronunciation": "zhuājǐn"
+    },
+    {
+      "word": "专心",
+      "translation": "concentrate, attentively",
+      "example": "",
+      "pronunciation": "zhuānxīn"
+    },
+    {
+      "word": "转动",
+      "translation": "turn, move, turn round",
+      "example": "",
+      "pronunciation": "zhuǎndòng"
+    },
+    {
+      "word": "转告",
+      "translation": "pass on (a message)",
+      "example": "",
+      "pronunciation": "zhuǎngào"
+    },
+    {
+      "word": "转身",
+      "translation": "turn round, face about",
+      "example": "",
+      "pronunciation": "zhuǎnshēn"
+    },
+    {
+      "word": "转弯",
+      "translation": "make a turn, turn a corner",
+      "example": "",
+      "pronunciation": "zhuǎnwān"
+    },
+    {
+      "word": "转移",
+      "translation": "transfer",
+      "example": "",
+      "pronunciation": "zhuǎnyí"
+    },
+    {
+      "word": "装修",
+      "translation": "decorate, renovate",
+      "example": "",
+      "pronunciation": "zhuāngxiū"
+    },
+    {
+      "word": "装置",
+      "translation": "device, equipment",
+      "example": "",
+      "pronunciation": "zhuāngzhì"
+    },
+    {
+      "word": "追求",
+      "translation": "pursue, pursuit",
+      "example": "",
+      "pronunciation": "zhuīqiú"
+    },
+    {
+      "word": "准时",
+      "translation": "on time",
+      "example": "",
+      "pronunciation": "zhǔnshí"
+    },
+    {
+      "word": "资料",
+      "translation": "data, materials",
+      "example": "",
+      "pronunciation": "zīliào"
+    },
+    {
+      "word": "资源",
+      "translation": "resources",
+      "example": "",
+      "pronunciation": "zīyuán"
+    },
+    {
+      "word": "自",
+      "translation": "from, since, self, oneself",
+      "example": "",
+      "pronunciation": "zì"
+    },
+    {
+      "word": "自信",
+      "translation": "self-confident, self-confidence",
+      "example": "",
+      "pronunciation": "zìxìn"
+    },
+    {
+      "word": "字母",
+      "translation": "letter (of an alphabet)",
+      "example": "",
+      "pronunciation": "zìmǔ"
+    },
+    {
+      "word": "综合",
+      "translation": "comprehensive",
+      "example": "",
+      "pronunciation": "zōnghé"
+    },
+    {
+      "word": "总共",
+      "translation": "in total",
+      "example": "",
+      "pronunciation": "zǒnggòng"
+    },
+    {
+      "word": "总理",
+      "translation": "prime minister",
+      "example": "",
+      "pronunciation": "zǒnglǐ"
+    },
+    {
+      "word": "总统",
+      "translation": "president",
+      "example": "",
+      "pronunciation": "zǒngtǒng"
+    },
+    {
+      "word": "总之",
+      "translation": "in short",
+      "example": "",
+      "pronunciation": "zǒngzhī"
+    },
+    {
+      "word": "阻止",
+      "translation": "prevent",
+      "example": "",
+      "pronunciation": "zǔzhǐ"
+    },
+    {
+      "word": "嘴巴",
+      "translation": "mouth",
+      "example": "",
+      "pronunciation": "zuǐba"
+    },
+    {
+      "word": "最初",
+      "translation": "at first, initially",
+      "example": "",
+      "pronunciation": "zuìchū"
+    },
+    {
+      "word": "作出",
+      "translation": "make (a decision, etc.)",
+      "example": "",
+      "pronunciation": "zuòchū"
+    },
+    {
+      "word": "作为",
+      "translation": "as, act as",
+      "example": "",
+      "pronunciation": "zuòwéi"
+    },
+    {
+      "word": "做梦",
+      "translation": "dream, daydream",
+      "example": "",
+      "pronunciation": "zuòmèng"
+    }
+  ]
+}
