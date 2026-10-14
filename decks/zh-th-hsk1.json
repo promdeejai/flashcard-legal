@@ -4,7 +4,7 @@
   "learn": "zh-CN",
   "native": "th",
   "level": "HSK1",
-  "version": 32,
+  "version": 33,
   "examples": false,
   "items": [
     {
@@ -549,7 +549,7 @@
     },
     {
       "word": "对",
-      "translation": "ถูกต้อง; ต่อ, กับ",
+      "translation": "ถูกต้อง, ต่อ, กับ",
       "example": "",
       "pronunciation": "duì"
     },
@@ -561,7 +561,7 @@
     },
     {
       "word": "多",
-      "translation": "มาก; เท่าไหร่ (ใช้ในคำถาม)",
+      "translation": "มาก, เท่าไหร่ (ใช้ในคำถาม)",
       "example": "",
       "pronunciation": "duō"
     },
@@ -777,7 +777,7 @@
     },
     {
       "word": "过",
-      "translation": "เคย; ผ่าน, ข้าม",
+      "translation": "เคย, ผ่าน, ข้าม",
       "example": "",
       "pronunciation": "guò"
     },
@@ -891,7 +891,7 @@
     },
     {
       "word": "花",
-      "translation": "ดอกไม้; ใช้(เงิน, เวลา)",
+      "translation": "ดอกไม้, ใช้(เงิน, เวลา)",
       "example": "",
       "pronunciation": "huā"
     },
@@ -945,7 +945,7 @@
     },
     {
       "word": "会",
-      "translation": "สามารถ, เป็น; จะ",
+      "translation": "สามารถ, เป็น, จะ",
       "example": "",
       "pronunciation": "huì"
     },
@@ -975,7 +975,7 @@
     },
     {
       "word": "几",
-      "translation": "กี่; สองสาม",
+      "translation": "กี่, สองสาม",
       "example": "",
       "pronunciation": "jǐ"
     },
@@ -1197,13 +1197,13 @@
     },
     {
       "word": "口",
-      "translation": "ปาก; คน (ลักษณนาม)",
+      "translation": "ปาก, คน (ลักษณนาม)",
       "example": "",
       "pronunciation": "kǒu"
     },
     {
       "word": "块",
-      "translation": "ก้อน, ชิ้น; หยวน",
+      "translation": "ก้อน, ชิ้น, หยวน",
       "example": "",
       "pronunciation": "kuài"
     },
@@ -1461,7 +1461,7 @@
     },
     {
       "word": "明白",
-      "translation": "เข้าใจ; ชัดเจน",
+      "translation": "เข้าใจ, ชัดเจน",
       "example": "",
       "pronunciation": "míngbai"
     },
@@ -2943,7 +2943,7 @@
     },
     {
       "word": "最好",
-      "translation": "ดีที่สุด; ทางที่ดีที่สุดคือ...",
+      "translation": "ดีที่สุด, ทางที่ดีที่สุดคือ...",
       "example": "",
       "pronunciation": "zuìhǎo"
     },
