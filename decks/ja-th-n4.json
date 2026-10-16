@@ -4,7 +4,7 @@
   "learn": "ja",
   "native": "th",
   "level": "N4",
-  "version": 37,
+  "version": 38,
   "items": [
     {
       "word": "あいさつ",
@@ -26,38 +26,44 @@
     },
     {
       "word": "赤ちゃん",
-      "translation": "あかちゃん: ทารก, เด็กอ่อน",
+      "translation": "ทารก, เด็กอ่อน",
       "example": "赤ちゃんが寝ている。",
+      "pronunciation": "あかちゃん",
       "exampleTranslation": "ทารกกำลังหลับ"
     },
     {
       "word": "上がる",
-      "translation": "あがる: ขึ้น, สูงขึ้น, เพิ่มขึ้น",
+      "translation": "ขึ้น, สูงขึ้น, เพิ่มขึ้น",
       "example": "物の値段が上がった。",
+      "pronunciation": "あがる",
       "exampleTranslation": "ราคาสินค้าสูงขึ้น"
     },
     {
       "word": "秋",
-      "translation": "あき: ฤดูใบไม้ร่วง",
+      "translation": "ฤดูใบไม้ร่วง",
       "example": "秋は涼しくて気持ちがいい。",
+      "pronunciation": "あき",
       "exampleTranslation": "ฤดูใบไม้ร่วงอากาศเย็นสบาย"
     },
     {
       "word": "開ける",
-      "translation": "あける: เปิด",
+      "translation": "เปิด",
       "example": "窓を開けてください。",
+      "pronunciation": "あける",
       "exampleTranslation": "กรุณาเปิดหน้าต่าง"
     },
     {
       "word": "上げる",
-      "translation": "あげる: ยกขึ้น, เงยขึ้น",
+      "translation": "ยกขึ้น, เงยขึ้น",
       "example": "質問がある人は手を上げてください。",
+      "pronunciation": "あげる",
       "exampleTranslation": "ใครมีคำถามกรุณายกมือ"
     },
     {
       "word": "味",
-      "translation": "あじ: รสชาติ",
+      "translation": "รสชาติ",
       "example": "このスープは味がいい。",
+      "pronunciation": "あじ",
       "exampleTranslation": "ซุปนี้รสชาติดี"
     },
     {
@@ -68,8 +74,9 @@
     },
     {
       "word": "頭がいい",
-      "translation": "あたまがいい: ฉลาด, หัวดี",
+      "translation": "ฉลาด, หัวดี",
       "example": "彼はとても頭がいい。",
+      "pronunciation": "あたまがいい",
       "exampleTranslation": "เขาฉลาดมาก"
     },
     {
@@ -80,14 +87,16 @@
     },
     {
       "word": "集まる",
-      "translation": "あつまる: รวมตัว, มารวมกัน",
+      "translation": "รวมตัว, มารวมกัน",
       "example": "駅の前に人が集まっている。",
+      "pronunciation": "あつまる",
       "exampleTranslation": "มีคนมารวมตัวกันหน้าสถานี"
     },
     {
       "word": "集める",
-      "translation": "あつめる: สะสม, รวบรวม",
+      "translation": "สะสม, รวบรวม",
       "example": "弟は切手を集めている。",
+      "pronunciation": "あつめる",
       "exampleTranslation": "น้องชายสะสมแสตมป์"
     },
     {
@@ -128,8 +137,9 @@
     },
     {
       "word": "雨の日",
-      "translation": "あめのひ: วันฝนตก",
+      "translation": "วันฝนตก",
       "example": "雨の日は家にいる。",
+      "pronunciation": "あめのひ",
       "exampleTranslation": "วันฝนตกอยู่บ้าน"
     },
     {
@@ -152,62 +162,72 @@
     },
     {
       "word": "安心",
-      "translation": "あんしん: สบายใจ, โล่งใจ",
+      "translation": "สบายใจ, โล่งใจ",
       "example": "母の声を聞いて安心した。",
+      "pronunciation": "あんしん",
       "exampleTranslation": "ได้ยินเสียงแม่แล้วโล่งใจ"
     },
     {
       "word": "安全",
-      "translation": "あんぜん: ความปลอดภัย, ปลอดภัย",
+      "translation": "ความปลอดภัย, ปลอดภัย",
       "example": "この町は安全です。",
+      "pronunciation": "あんぜん",
       "exampleTranslation": "เมืองนี้ปลอดภัย"
     },
     {
       "word": "案内（を）する",
-      "translation": "あんないする: นำทาง, แนะนำ, พาชม",
+      "translation": "นำทาง, แนะนำ, พาชม",
       "example": "友だちに町を案内した。",
+      "pronunciation": "あんないする",
       "exampleTranslation": "พาเพื่อนเที่ยวชมเมือง"
     },
     {
       "word": "～以下",
-      "translation": "～いか: ไม่เกิน..., ต่ำกว่า...",
+      "translation": "ไม่เกิน..., ต่ำกว่า...",
       "example": "6歳以下の子どもは無料です。",
+      "pronunciation": "～いか",
       "exampleTranslation": "เด็กอายุไม่เกินหกขวบเข้าฟรี"
     },
     {
       "word": "～以外",
-      "translation": "～いがい: นอกจาก..., ยกเว้น...",
+      "translation": "นอกจาก..., ยกเว้น...",
       "example": "日曜日以外は働いている。",
+      "pronunciation": "～いがい",
       "exampleTranslation": "ทำงานทุกวันยกเว้นวันอาทิตย์"
     },
     {
       "word": "生き物",
-      "translation": "いきもの: สิ่งมีชีวิต, สัตว์",
+      "translation": "สิ่งมีชีวิต, สัตว์",
       "example": "海にはいろいろな生き物がいる。",
+      "pronunciation": "いきもの",
       "exampleTranslation": "ในทะเลมีสิ่งมีชีวิตหลายชนิด"
     },
     {
       "word": "意見",
-      "translation": "いけん: ความคิดเห็น",
+      "translation": "ความคิดเห็น",
       "example": "あなたの意見を聞かせてください。",
+      "pronunciation": "いけん",
       "exampleTranslation": "ขอฟังความคิดเห็นของคุณหน่อย"
     },
     {
       "word": "～以上",
-      "translation": "～いじょう: ตั้งแต่...ขึ้นไป, มากกว่า...",
+      "translation": "ตั้งแต่...ขึ้นไป, มากกว่า...",
       "example": "20歳以上の人はお酒を飲める。",
+      "pronunciation": "～いじょう",
       "exampleTranslation": "คนอายุยี่สิบปีขึ้นไปดื่มเหล้าได้"
     },
     {
       "word": "急ぎ",
-      "translation": "いそぎ: ความเร่งรีบ, ด่วน",
+      "translation": "ความเร่งรีบ, ด่วน",
       "example": "急ぎの仕事があります。",
+      "pronunciation": "いそぎ",
       "exampleTranslation": "มีงานด่วน"
     },
     {
       "word": "一度",
-      "translation": "いちど: หนึ่งครั้ง, ครั้งหนึ่ง",
+      "translation": "หนึ่งครั้ง, ครั้งหนึ่ง",
       "example": "一度日本に行ってみたい。",
+      "pronunciation": "いちど",
       "exampleTranslation": "อยากไปญี่ปุ่นสักครั้ง"
     },
     {
@@ -224,20 +244,23 @@
     },
     {
       "word": "～以内",
-      "translation": "～いない: ภายใน...",
+      "translation": "ภายใน...",
       "example": "1時間以内に戻ります。",
+      "pronunciation": "～いない",
       "exampleTranslation": "จะกลับมาภายในหนึ่งชั่วโมง"
     },
     {
       "word": "今すぐ",
-      "translation": "いますぐ: เดี๋ยวนี้, ทันที",
+      "translation": "เดี๋ยวนี้, ทันที",
       "example": "今すぐ来てください。",
+      "pronunciation": "いますぐ",
       "exampleTranslation": "มาเดี๋ยวนี้เลย"
     },
     {
       "word": "意味",
-      "translation": "いみ: ความหมาย",
+      "translation": "ความหมาย",
       "example": "この言葉の意味がわからない。",
+      "pronunciation": "いみ",
       "exampleTranslation": "ไม่เข้าใจความหมายของคำนี้"
     },
     {
@@ -248,14 +271,16 @@
     },
     {
       "word": "入口",
-      "translation": "いりぐち: ทางเข้า",
+      "translation": "ทางเข้า",
       "example": "入口はあちらです。",
+      "pronunciation": "いりぐち",
       "exampleTranslation": "ทางเข้าอยู่ทางโน้น"
     },
     {
       "word": "色えんぴつ",
-      "translation": "いろえんぴつ: ดินสอสี",
+      "translation": "ดินสอสี",
       "example": "色えんぴつで絵をかいた。",
+      "pronunciation": "いろえんぴつ",
       "exampleTranslation": "วาดรูปด้วยดินสอสี"
     },
     {
@@ -278,8 +303,9 @@
     },
     {
       "word": "植える",
-      "translation": "うえる: ปลูก",
+      "translation": "ปลูก",
       "example": "庭に花を植えた。",
+      "pronunciation": "うえる",
       "exampleTranslation": "ปลูกดอกไม้ในสวน"
     },
     {
@@ -290,20 +316,23 @@
     },
     {
       "word": "受ける",
-      "translation": "うける: เข้ารับ, เข้าเรียน, เข้าสอบ",
+      "translation": "เข้ารับ, เข้าเรียน, เข้าสอบ",
       "example": "来月、試験を受ける。",
+      "pronunciation": "うける",
       "exampleTranslation": "เดือนหน้าจะเข้าสอบ"
     },
     {
       "word": "動かす",
-      "translation": "うごかす: ขยับ, เคลื่อนย้าย",
+      "translation": "ขยับ, เคลื่อนย้าย",
       "example": "机を窓のそばに動かした。",
+      "pronunciation": "うごかす",
       "exampleTranslation": "ย้ายโต๊ะไปข้างหน้าต่าง"
     },
     {
       "word": "動く",
-      "translation": "うごく: เคลื่อนไหว, ขยับ, ทำงาน",
+      "translation": "เคลื่อนไหว, ขยับ, ทำงาน",
       "example": "時計が動かない。",
+      "pronunciation": "うごく",
       "exampleTranslation": "นาฬิกาไม่เดิน"
     },
     {
@@ -314,50 +343,58 @@
     },
     {
       "word": "内側",
-      "translation": "うちがわ: ด้านใน, ข้างใน",
+      "translation": "ด้านใน, ข้างใน",
       "example": "白い線の内側で待ってください。",
+      "pronunciation": "うちがわ",
       "exampleTranslation": "กรุณารอหลังเส้นสีขาว"
     },
     {
       "word": "打つ",
-      "translation": "うつ: ตี, พิมพ์",
+      "translation": "ตี, พิมพ์",
       "example": "ボールをバットで打った。",
+      "pronunciation": "うつ",
       "exampleTranslation": "ตีลูกบอลด้วยไม้"
     },
     {
       "word": "美しい",
-      "translation": "うつくしい: สวยงาม",
+      "translation": "สวยงาม",
       "example": "美しい景色を見た。",
+      "pronunciation": "うつくしい",
       "exampleTranslation": "เห็นทิวทัศน์ที่สวยงาม"
     },
     {
       "word": "売れる",
-      "translation": "うれる: ขายได้, ขายดี",
+      "translation": "ขายได้, ขายดี",
       "example": "この本はよく売れている。",
+      "pronunciation": "うれる",
       "exampleTranslation": "หนังสือเล่มนี้ขายดี"
     },
     {
       "word": "運転",
-      "translation": "うんてん: การขับขี่",
+      "translation": "การขับขี่",
       "example": "運転は楽しい。",
+      "pronunciation": "うんてん",
       "exampleTranslation": "การขับรถสนุก"
     },
     {
       "word": "運転（を）する",
-      "translation": "うんてんする: ขับรถ",
+      "translation": "ขับรถ",
       "example": "父は毎日車を運転する。",
+      "pronunciation": "うんてんする",
       "exampleTranslation": "พ่อขับรถทุกวัน"
     },
     {
       "word": "運動会",
-      "translation": "うんどうかい: งานกีฬาสี",
+      "translation": "งานกีฬาสี",
       "example": "子どもの運動会を見に行った。",
+      "pronunciation": "うんどうかい",
       "exampleTranslation": "ไปดูงานกีฬาสีของลูก"
     },
     {
       "word": "運動（を）する",
-      "translation": "うんどうする: ออกกำลังกาย",
+      "translation": "ออกกำลังกาย",
       "example": "毎朝運動している。",
+      "pronunciation": "うんどうする",
       "exampleTranslation": "ออกกำลังกายทุกเช้า"
     },
     {
@@ -368,20 +405,23 @@
     },
     {
       "word": "笑顔",
-      "translation": "えがお: ใบหน้ายิ้มแย้ม, รอยยิ้ม",
+      "translation": "ใบหน้ายิ้มแย้ม, รอยยิ้ม",
       "example": "彼女の笑顔はすてきだ。",
+      "pronunciation": "えがお",
       "exampleTranslation": "รอยยิ้มของเธอน่ารัก"
     },
     {
       "word": "駅員",
-      "translation": "えきいん: พนักงานสถานี",
+      "translation": "พนักงานสถานี",
       "example": "駅員に道を聞いた。",
+      "pronunciation": "えきいん",
       "exampleTranslation": "ถามทางพนักงานสถานี"
     },
     {
       "word": "駅前",
-      "translation": "えきまえ: หน้าสถานี",
+      "translation": "หน้าสถานี",
       "example": "駅前で待っています。",
+      "pronunciation": "えきまえ",
       "exampleTranslation": "รออยู่หน้าสถานี"
     },
     {
@@ -410,8 +450,9 @@
     },
     {
       "word": "追いかける",
-      "translation": "おいかける: ไล่ตาม",
+      "translation": "ไล่ตาม",
       "example": "犬が猫を追いかけている。",
+      "pronunciation": "おいかける",
       "exampleTranslation": "สุนัขไล่ตามแมว"
     },
     {
@@ -440,14 +481,16 @@
     },
     {
       "word": "大きな",
-      "translation": "おおきな: ใหญ่, ยิ่งใหญ่",
+      "translation": "ใหญ่, ยิ่งใหญ่",
       "example": "大きな家に住みたい。",
+      "pronunciation": "おおきな",
       "exampleTranslation": "อยากอยู่บ้านหลังใหญ่"
     },
     {
       "word": "大阪城",
-      "translation": "おおさかじょう: ปราสาทโอซากา",
+      "translation": "ปราสาทโอซากา",
       "example": "大阪城を見に行った。",
+      "pronunciation": "おおさかじょう",
       "exampleTranslation": "ไปชมปราสาทโอซากา"
     },
     {
@@ -476,38 +519,44 @@
     },
     {
       "word": "遅れる",
-      "translation": "おくれる: มาสาย, ล่าช้า",
+      "translation": "มาสาย, ล่าช้า",
       "example": "電車が10分遅れた。",
+      "pronunciation": "おくれる",
       "exampleTranslation": "รถไฟล่าช้าสิบนาที"
     },
     {
       "word": "起こす",
-      "translation": "おこす: ปลุก, ทำให้เกิด",
+      "translation": "ปลุก, ทำให้เกิด",
       "example": "明日6時に起こしてください。",
+      "pronunciation": "おこす",
       "exampleTranslation": "พรุ่งนี้ช่วยปลุกตอนหกโมงด้วย"
     },
     {
       "word": "行う",
-      "translation": "おこなう: จัด, ดำเนินการ, ทำ",
+      "translation": "จัด, ดำเนินการ, ทำ",
       "example": "来週テストを行います。",
+      "pronunciation": "おこなう",
       "exampleTranslation": "สัปดาห์หน้าจะจัดสอบ"
     },
     {
       "word": "お先に失礼します",
-      "translation": "おさきにしつれいします: ขอตัวกลับก่อน",
+      "translation": "ขอตัวกลับก่อน",
       "example": "お先に失礼します。また明日。",
+      "pronunciation": "おさきにしつれいします",
       "exampleTranslation": "ขอตัวกลับก่อนนะ พรุ่งนี้เจอกัน"
     },
     {
       "word": "教える",
-      "translation": "おしえる: สอน, บอก",
+      "translation": "สอน, บอก",
       "example": "駅への道を教えてください。",
+      "pronunciation": "おしえる",
       "exampleTranslation": "ช่วยบอกทางไปสถานีหน่อย"
     },
     {
       "word": "押す",
-      "translation": "おす: กด, ผลัก",
+      "translation": "กด, ผลัก",
       "example": "このボタンを押してください。",
+      "pronunciation": "おす",
       "exampleTranslation": "กรุณากดปุ่มนี้"
     },
     {
@@ -518,8 +567,9 @@
     },
     {
       "word": "遅い",
-      "translation": "おそい: ช้า, สาย, ดึก",
+      "translation": "ช้า, สาย, ดึก",
       "example": "今日は帰りが遅い。",
+      "pronunciation": "おそい",
       "exampleTranslation": "วันนี้กลับดึก"
     },
     {
@@ -536,14 +586,16 @@
     },
     {
       "word": "お手伝い",
-      "translation": "おてつだい: ความช่วยเหลือ, การช่วยงาน",
+      "translation": "ความช่วยเหลือ, การช่วยงาน",
       "example": "何かお手伝いしましょうか。",
+      "pronunciation": "おてつだい",
       "exampleTranslation": "มีอะไรให้ช่วยไหม"
     },
     {
       "word": "音",
-      "translation": "おと: เสียง",
+      "translation": "เสียง",
       "example": "外で大きな音がした。",
+      "pronunciation": "おと",
       "exampleTranslation": "ข้างนอกมีเสียงดัง"
     },
     {
@@ -560,14 +612,16 @@
     },
     {
       "word": "お願い（を）する",
-      "translation": "おねがいする: ขอร้อง, ฝาก",
+      "translation": "ขอร้อง, ฝาก",
       "example": "友だちに手伝いをお願いした。",
+      "pronunciation": "おねがいする",
       "exampleTranslation": "ขอให้เพื่อนช่วย"
     },
     {
       "word": "おふろに入る",
-      "translation": "おふろにはいる: อาบน้ำ, แช่อ่างอาบน้ำ",
+      "translation": "อาบน้ำ, แช่อ่างอาบน้ำ",
       "example": "寝る前におふろに入る。",
+      "pronunciation": "おふろにはいる",
       "exampleTranslation": "อาบน้ำก่อนนอน"
     },
     {
@@ -578,26 +632,30 @@
     },
     {
       "word": "思い出",
-      "translation": "おもいで: ความทรงจำ",
+      "translation": "ความทรงจำ",
       "example": "旅行はいい思い出になった。",
+      "pronunciation": "おもいで",
       "exampleTranslation": "การเที่ยวกลายเป็นความทรงจำที่ดี"
     },
     {
       "word": "お湯",
-      "translation": "おゆ: น้ำร้อน",
+      "translation": "น้ำร้อน",
       "example": "お湯でお茶を入れた。",
+      "pronunciation": "おゆ",
       "exampleTranslation": "ชงชาด้วยน้ำร้อน"
     },
     {
       "word": "降りる",
-      "translation": "おりる: ลงจากพาหนะ, ลง",
+      "translation": "ลงจากพาหนะ, ลง",
       "example": "次の駅で降ります。",
+      "pronunciation": "おりる",
       "exampleTranslation": "จะลงสถานีหน้า"
     },
     {
       "word": "お礼",
-      "translation": "おれい: การขอบคุณ, ของขอบคุณ",
+      "translation": "การขอบคุณ, ของขอบคุณ",
       "example": "お礼に花を送った。",
+      "pronunciation": "おれい",
       "exampleTranslation": "ส่งดอกไม้ไปเพื่อขอบคุณ"
     },
     {
@@ -626,20 +684,23 @@
     },
     {
       "word": "海外",
-      "translation": "かいがい: ต่างประเทศ",
+      "translation": "ต่างประเทศ",
       "example": "夏休みに海外旅行をした。",
+      "pronunciation": "かいがい",
       "exampleTranslation": "ปิดเทอมฤดูร้อนไปเที่ยวต่างประเทศ"
     },
     {
       "word": "会議室",
-      "translation": "かいぎしつ: ห้องประชุม",
+      "translation": "ห้องประชุม",
       "example": "会議室は3階です。",
+      "pronunciation": "かいぎしつ",
       "exampleTranslation": "ห้องประชุมอยู่ชั้นสาม"
     },
     {
       "word": "外出（を）する",
-      "translation": "がいしゅつする: ออกไปข้างนอก",
+      "translation": "ออกไปข้างนอก",
       "example": "部長は今外出しています。",
+      "pronunciation": "がいしゅつする",
       "exampleTranslation": "ตอนนี้ผู้จัดการออกไปข้างนอก"
     },
     {
@@ -650,32 +711,37 @@
     },
     {
       "word": "返す",
-      "translation": "かえす: คืน, ส่งคืน",
+      "translation": "คืน, ส่งคืน",
       "example": "借りた本を返した。",
+      "pronunciation": "かえす",
       "exampleTranslation": "คืนหนังสือที่ยืมมา"
     },
     {
       "word": "帰りが遅い",
-      "translation": "かえりがおそい: กลับบ้านดึก",
+      "translation": "กลับบ้านดึก",
       "example": "父は毎日帰りが遅い。",
+      "pronunciation": "かえりがおそい",
       "exampleTranslation": "พ่อกลับบ้านดึกทุกวัน"
     },
     {
       "word": "帰り道",
-      "translation": "かえりみち: ทางกลับบ้าน",
+      "translation": "ทางกลับบ้าน",
       "example": "帰り道で友だちに会った。",
+      "pronunciation": "かえりみち",
       "exampleTranslation": "เจอเพื่อนระหว่างทางกลับบ้าน"
     },
     {
       "word": "変える",
-      "translation": "かえる: เปลี่ยน",
+      "translation": "เปลี่ยน",
       "example": "髪型を変えた。",
+      "pronunciation": "かえる",
       "exampleTranslation": "เปลี่ยนทรงผม"
     },
     {
       "word": "係の人",
-      "translation": "かかりのひと: เจ้าหน้าที่, ผู้รับผิดชอบ",
+      "translation": "เจ้าหน้าที่, ผู้รับผิดชอบ",
       "example": "わからない時は係の人に聞いてください。",
+      "pronunciation": "かかりのひと",
       "exampleTranslation": "ถ้าไม่เข้าใจกรุณาถามเจ้าหน้าที่"
     },
     {
@@ -686,8 +752,9 @@
     },
     {
       "word": "学園祭",
-      "translation": "がくえんさい: งานเทศกาลของโรงเรียน",
+      "translation": "งานเทศกาลของโรงเรียน",
       "example": "学園祭でカレーを売った。",
+      "pronunciation": "がくえんさい",
       "exampleTranslation": "ขายแกงกะหรี่ในงานเทศกาลของโรงเรียน"
     },
     {
@@ -704,14 +771,16 @@
     },
     {
       "word": "火事",
-      "translation": "かじ: ไฟไหม้",
+      "translation": "ไฟไหม้",
       "example": "近所で火事があった。",
+      "pronunciation": "かじ",
       "exampleTranslation": "เกิดไฟไหม้ใกล้บ้าน"
     },
     {
       "word": "貸す",
-      "translation": "かす: ให้ยืม",
+      "translation": "ให้ยืม",
       "example": "友だちにペンを貸した。",
+      "pronunciation": "かす",
       "exampleTranslation": "ให้เพื่อนยืมปากกา"
     },
     {
@@ -722,8 +791,9 @@
     },
     {
       "word": "風",
-      "translation": "かぜ: ลม",
+      "translation": "ลม",
       "example": "今日は風が強い。",
+      "pronunciation": "かぜ",
       "exampleTranslation": "วันนี้ลมแรง"
     },
     {
@@ -740,14 +810,16 @@
     },
     {
       "word": "片付く",
-      "translation": "かたづく: เรียบร้อย, เสร็จเรียบร้อย",
+      "translation": "เรียบร้อย, เสร็จเรียบร้อย",
       "example": "部屋がやっと片付いた。",
+      "pronunciation": "かたづく",
       "exampleTranslation": "ห้องเรียบร้อยในที่สุด"
     },
     {
       "word": "片付ける",
-      "translation": "かたづける: เก็บกวาด, จัดให้เรียบร้อย",
+      "translation": "เก็บกวาด, จัดให้เรียบร้อย",
       "example": "部屋を片付けてください。",
+      "pronunciation": "かたづける",
       "exampleTranslation": "กรุณาเก็บห้องให้เรียบร้อย"
     },
     {
@@ -758,8 +830,9 @@
     },
     {
       "word": "課長",
-      "translation": "かちょう: หัวหน้าแผนก",
+      "translation": "หัวหน้าแผนก",
       "example": "課長に書類を出した。",
+      "pronunciation": "かちょう",
       "exampleTranslation": "ส่งเอกสารให้หัวหน้าแผนก"
     },
     {
@@ -800,20 +873,23 @@
     },
     {
       "word": "彼女",
-      "translation": "かのじょ: เธอ, แฟนสาว",
+      "translation": "เธอ, แฟนสาว",
       "example": "彼女は私の同僚です。",
+      "pronunciation": "かのじょ",
       "exampleTranslation": "เธอเป็นเพื่อนร่วมงานของฉัน"
     },
     {
       "word": "花びん",
-      "translation": "かびん: แจกัน",
+      "translation": "แจกัน",
       "example": "花びんに花を入れた。",
+      "pronunciation": "かびん",
       "exampleTranslation": "ใส่ดอกไม้ในแจกัน"
     },
     {
       "word": "歌舞伎",
-      "translation": "かぶき: คาบูกิ, ละครคาบูกิ",
+      "translation": "คาบูกิ, ละครคาบูกิ",
       "example": "東京で歌舞伎を見た。",
+      "pronunciation": "かぶき",
       "exampleTranslation": "ดูคาบูกิที่โตเกียว"
     },
     {
@@ -830,8 +906,9 @@
     },
     {
       "word": "（動物が）かむ",
-      "translation": "かむ: กัด, เคี้ยว",
+      "translation": "กัด, เคี้ยว",
       "example": "犬に手をかまれた。",
+      "pronunciation": "かむ",
       "exampleTranslation": "ถูกสุนัขกัดมือ"
     },
     {
@@ -842,8 +919,9 @@
     },
     {
       "word": "通う",
-      "translation": "かよう: ไปเป็นประจำ, ไปกลับ",
+      "translation": "ไปเป็นประจำ, ไปกลับ",
       "example": "毎日バスで学校に通っている。",
+      "pronunciation": "かよう",
       "exampleTranslation": "ไปโรงเรียนด้วยรถบัสทุกวัน"
     },
     {
@@ -854,8 +932,9 @@
     },
     {
       "word": "彼",
-      "translation": "かれ: เขา, แฟนหนุ่ม",
+      "translation": "เขา, แฟนหนุ่ม",
       "example": "彼は日本人です。",
+      "pronunciation": "かれ",
       "exampleTranslation": "เขาเป็นคนญี่ปุ่น"
     },
     {
@@ -866,14 +945,16 @@
     },
     {
       "word": "（食べ物の）かわ",
-      "translation": "かわ: เปลือก, หนัง",
+      "translation": "เปลือก, หนัง",
       "example": "りんごのかわをむいた。",
+      "pronunciation": "かわ",
       "exampleTranslation": "ปอกเปลือกแอปเปิล"
     },
     {
       "word": "～側",
-      "translation": "～がわ: ฝั่ง..., ด้าน...",
+      "translation": "ฝั่ง..., ด้าน...",
       "example": "駅は道の右側にあります。",
+      "pronunciation": "～がわ",
       "exampleTranslation": "สถานีอยู่ฝั่งขวาของถนน"
     },
     {
@@ -896,8 +977,9 @@
     },
     {
       "word": "変わる",
-      "translation": "かわる: เปลี่ยน, เปลี่ยนไป",
+      "translation": "เปลี่ยน, เปลี่ยนไป",
       "example": "信号が赤に変わった。",
+      "pronunciation": "かわる",
       "exampleTranslation": "สัญญาณไฟเปลี่ยนเป็นสีแดง"
     },
     {
@@ -908,20 +990,23 @@
     },
     {
       "word": "黄色い",
-      "translation": "きいろい: สีเหลือง",
+      "translation": "สีเหลือง",
       "example": "黄色い花がさいている。",
+      "pronunciation": "きいろい",
       "exampleTranslation": "ดอกไม้สีเหลืองบานอยู่"
     },
     {
       "word": "消える",
-      "translation": "きえる: ดับ, หายไป",
+      "translation": "ดับ, หายไป",
       "example": "急に電気が消えた。",
+      "pronunciation": "きえる",
       "exampleTranslation": "ไฟดับกะทันหัน"
     },
     {
       "word": "気温",
-      "translation": "きおん: อุณหภูมิอากาศ",
+      "translation": "อุณหภูมิอากาศ",
       "example": "今日は気温が高い。",
+      "pronunciation": "きおん",
       "exampleTranslation": "วันนี้อุณหภูมิสูง"
     },
     {
@@ -932,32 +1017,37 @@
     },
     {
       "word": "気がつく",
-      "translation": "きがつく: สังเกตเห็น, รู้ตัว",
+      "translation": "สังเกตเห็น, รู้ตัว",
       "example": "間違いに気がついた。",
+      "pronunciation": "きがつく",
       "exampleTranslation": "สังเกตเห็นข้อผิดพลาด"
     },
     {
       "word": "危険",
-      "translation": "きけん: อันตราย",
+      "translation": "อันตราย",
       "example": "この川で泳ぐのは危険だ。",
+      "pronunciation": "きけん",
       "exampleTranslation": "ว่ายน้ำในแม่น้ำนี้อันตราย"
     },
     {
       "word": "聞こえる",
-      "translation": "きこえる: ได้ยิน",
+      "translation": "ได้ยิน",
       "example": "鳥の声が聞こえる。",
+      "pronunciation": "きこえる",
       "exampleTranslation": "ได้ยินเสียงนก"
     },
     {
       "word": "帰国（を）する",
-      "translation": "きこくする: กลับประเทศ",
+      "translation": "กลับประเทศ",
       "example": "来月、国に帰国する。",
+      "pronunciation": "きこくする",
       "exampleTranslation": "เดือนหน้าจะกลับประเทศ"
     },
     {
       "word": "切手",
-      "translation": "きって: แสตมป์",
+      "translation": "แสตมป์",
       "example": "手紙に切手をはった。",
+      "pronunciation": "きって",
       "exampleTranslation": "ติดแสตมป์บนจดหมาย"
     },
     {
@@ -968,26 +1058,30 @@
     },
     {
       "word": "記入（を）する",
-      "translation": "きにゅうする: กรอก, เขียนลงในแบบฟอร์ม",
+      "translation": "กรอก, เขียนลงในแบบฟอร์ม",
       "example": "ここに名前を記入してください。",
+      "pronunciation": "きにゅうする",
       "exampleTranslation": "กรุณากรอกชื่อตรงนี้"
     },
     {
       "word": "気分が悪い",
-      "translation": "きぶんがわるい: รู้สึกไม่สบาย, คลื่นไส้",
+      "translation": "รู้สึกไม่สบาย, คลื่นไส้",
       "example": "バスで気分が悪くなった。",
+      "pronunciation": "きぶんがわるい",
       "exampleTranslation": "รู้สึกไม่สบายบนรถบัส"
     },
     {
       "word": "気持ち",
-      "translation": "きもち: ความรู้สึก",
+      "translation": "ความรู้สึก",
       "example": "彼女の気持ちがわからない。",
+      "pronunciation": "きもち",
       "exampleTranslation": "ไม่เข้าใจความรู้สึกของเธอ"
     },
     {
       "word": "着物",
-      "translation": "きもの: กิโมโน",
+      "translation": "กิโมโน",
       "example": "お正月に着物を着た。",
+      "pronunciation": "きもの",
       "exampleTranslation": "ใส่กิโมโนในวันปีใหม่"
     },
     {
@@ -998,8 +1092,9 @@
     },
     {
       "word": "キャンプ場",
-      "translation": "キャンプじょう: ลานกางเต็นท์",
+      "translation": "ลานกางเต็นท์",
       "example": "キャンプ場は川の近くです。",
+      "pronunciation": "キャンプじょう",
       "exampleTranslation": "ลานกางเต็นท์อยู่ใกล้แม่น้ำ"
     },
     {
@@ -1022,8 +1117,9 @@
     },
     {
       "word": "曲",
-      "translation": "きょく: เพลง, บทเพลง",
+      "translation": "เพลง, บทเพลง",
       "example": "この曲が好きです。",
+      "pronunciation": "きょく",
       "exampleTranslation": "ชอบเพลงนี้"
     },
     {
@@ -1040,14 +1136,16 @@
     },
     {
       "word": "禁止",
-      "translation": "きんし: การห้าม",
+      "translation": "การห้าม",
       "example": "ここは駐車禁止です。",
+      "pronunciation": "きんし",
       "exampleTranslation": "ที่นี่ห้ามจอดรถ"
     },
     {
       "word": "空気が悪い",
-      "translation": "くうきがわるい: อากาศไม่ดี, อากาศอับ",
+      "translation": "อากาศไม่ดี, อากาศอับ",
       "example": "この部屋は空気が悪い。",
+      "pronunciation": "くうきがわるい",
       "exampleTranslation": "ห้องนี้อากาศอับ"
     },
     {
@@ -1070,8 +1168,9 @@
     },
     {
       "word": "暗い",
-      "translation": "くらい: มืด",
+      "translation": "มืด",
       "example": "外はもう暗い。",
+      "pronunciation": "くらい",
       "exampleTranslation": "ข้างนอกมืดแล้ว"
     },
     {
@@ -1124,8 +1223,9 @@
     },
     {
       "word": "ケーキ屋",
-      "translation": "ケーキや: ร้านเค้ก",
+      "translation": "ร้านเค้ก",
       "example": "駅前のケーキ屋でケーキを買った。",
+      "pronunciation": "ケーキや",
       "exampleTranslation": "ซื้อเค้กที่ร้านเค้กหน้าสถานี"
     },
     {
@@ -1142,26 +1242,30 @@
     },
     {
       "word": "景色",
-      "translation": "けしき: ทิวทัศน์, วิว",
+      "translation": "ทิวทัศน์, วิว",
       "example": "山の上からの景色はきれいだ。",
+      "pronunciation": "けしき",
       "exampleTranslation": "วิวจากบนภูเขาสวย"
     },
     {
       "word": "結果",
-      "translation": "けっか: ผลลัพธ์",
+      "translation": "ผลลัพธ์",
       "example": "試験の結果はどうでしたか。",
+      "pronunciation": "けっか",
       "exampleTranslation": "ผลสอบเป็นอย่างไร"
     },
     {
       "word": "けっこん式",
-      "translation": "けっこんしき: งานแต่งงาน",
+      "translation": "งานแต่งงาน",
       "example": "友だちのけっこん式に行った。",
+      "pronunciation": "けっこんしき",
       "exampleTranslation": "ไปงานแต่งงานของเพื่อน"
     },
     {
       "word": "原因",
-      "translation": "げんいん: สาเหตุ",
+      "translation": "สาเหตุ",
       "example": "火事の原因はたばこだった。",
+      "pronunciation": "げんいん",
       "exampleTranslation": "สาเหตุของไฟไหม้คือบุหรี่"
     },
     {
@@ -1178,20 +1282,23 @@
     },
     {
       "word": "見学（を）する",
-      "translation": "けんがくする: ไปเยี่ยมชม, ทัศนศึกษา",
+      "translation": "ไปเยี่ยมชม, ทัศนศึกษา",
       "example": "工場を見学した。",
+      "pronunciation": "けんがくする",
       "exampleTranslation": "ไปเยี่ยมชมโรงงาน"
     },
     {
       "word": "研究室",
-      "translation": "けんきゅうしつ: ห้องวิจัย, ห้องแล็บ",
+      "translation": "ห้องวิจัย, ห้องแล็บ",
       "example": "先生は研究室にいます。",
+      "pronunciation": "けんきゅうしつ",
       "exampleTranslation": "อาจารย์อยู่ที่ห้องวิจัย"
     },
     {
       "word": "研究（を）する",
-      "translation": "けんきゅうする: วิจัย, ศึกษาค้นคว้า",
+      "translation": "วิจัย, ศึกษาค้นคว้า",
       "example": "日本の文化を研究している。",
+      "pronunciation": "けんきゅうする",
       "exampleTranslation": "ศึกษาค้นคว้าวัฒนธรรมญี่ปุ่น"
     },
     {
@@ -1208,44 +1315,51 @@
     },
     {
       "word": "恋人",
-      "translation": "こいびと: คนรัก, แฟน",
+      "translation": "คนรัก, แฟน",
       "example": "恋人と映画を見た。",
+      "pronunciation": "こいびと",
       "exampleTranslation": "ดูหนังกับแฟน"
     },
     {
       "word": "校外学習",
-      "translation": "こうがいがくしゅう: การเรียนนอกสถานที่",
+      "translation": "การเรียนนอกสถานที่",
       "example": "校外学習で博物館に行った。",
+      "pronunciation": "こうがいがくしゅう",
       "exampleTranslation": "ไปพิพิธภัณฑ์ในการเรียนนอกสถานที่"
     },
     {
       "word": "合格（を）する",
-      "translation": "ごうかくする: สอบผ่าน",
+      "translation": "สอบผ่าน",
       "example": "大学の試験に合格した。",
+      "pronunciation": "ごうかくする",
       "exampleTranslation": "สอบเข้ามหาวิทยาลัยผ่าน"
     },
     {
       "word": "工場",
-      "translation": "こうじょう: โรงงาน",
+      "translation": "โรงงาน",
       "example": "父は車の工場で働いている。",
+      "pronunciation": "こうじょう",
       "exampleTranslation": "พ่อทำงานที่โรงงานรถยนต์"
     },
     {
       "word": "交通",
-      "translation": "こうつう: การจราจร, การคมนาคม",
+      "translation": "การจราจร, การคมนาคม",
       "example": "この町は交通が便利だ。",
+      "pronunciation": "こうつう",
       "exampleTranslation": "เมืองนี้การคมนาคมสะดวก"
     },
     {
       "word": "紅葉",
-      "translation": "こうよう: ใบไม้เปลี่ยนสี",
+      "translation": "ใบไม้เปลี่ยนสี",
       "example": "秋に京都で紅葉を見た。",
+      "pronunciation": "こうよう",
       "exampleTranslation": "ฤดูใบไม้ร่วงไปชมใบไม้เปลี่ยนสีที่เกียวโต"
     },
     {
       "word": "声",
-      "translation": "こえ: เสียง",
+      "translation": "เสียง",
       "example": "もう少し大きい声で話してください。",
+      "pronunciation": "こえ",
       "exampleTranslation": "กรุณาพูดเสียงดังขึ้นอีกหน่อย"
     },
     {
@@ -1262,20 +1376,23 @@
     },
     {
       "word": "ご希望",
-      "translation": "ごきぼう: ความต้องการ, ความประสงค์",
+      "translation": "ความต้องการ, ความประสงค์",
       "example": "ご希望の日を教えてください。",
+      "pronunciation": "ごきぼう",
       "exampleTranslation": "กรุณาบอกวันที่ต้องการ"
     },
     {
       "word": "国際",
-      "translation": "こくさい: นานาชาติ, สากล",
+      "translation": "นานาชาติ, สากล",
       "example": "国際電話をかけた。",
+      "pronunciation": "こくさい",
       "exampleTranslation": "โทรทางไกลต่างประเทศ"
     },
     {
       "word": "ご自由に",
-      "translation": "ごじゆうに: ตามสบาย, ฟรี",
+      "translation": "ตามสบาย, ฟรี",
       "example": "パンフレットはご自由にお取りください。",
+      "pronunciation": "ごじゆうに",
       "exampleTranslation": "หยิบแผ่นพับได้ตามสบาย"
     },
     {
@@ -1286,8 +1403,9 @@
     },
     {
       "word": "午前中",
-      "translation": "ごぜんちゅう: ช่วงเช้า, ภายในช่วงเช้า",
+      "translation": "ช่วงเช้า, ภายในช่วงเช้า",
       "example": "午前中に宿題をした。",
+      "pronunciation": "ごぜんちゅう",
       "exampleTranslation": "ทำการบ้านช่วงเช้า"
     },
     {
@@ -1298,8 +1416,9 @@
     },
     {
       "word": "国歌",
-      "translation": "こっか: เพลงชาติ",
+      "translation": "เพลงชาติ",
       "example": "試合の前に国歌を歌った。",
+      "pronunciation": "こっか",
       "exampleTranslation": "ร้องเพลงชาติก่อนการแข่งขัน"
     },
     {
@@ -1310,20 +1429,23 @@
     },
     {
       "word": "言葉",
-      "translation": "ことば: คำ, ภาษา, คำพูด",
+      "translation": "คำ, ภาษา, คำพูด",
       "example": "この言葉の意味は何ですか。",
+      "pronunciation": "ことば",
       "exampleTranslation": "คำนี้มีความหมายว่าอะไร"
     },
     {
       "word": "子どものころ",
-      "translation": "こどものころ: ตอนเด็ก, วัยเด็ก",
+      "translation": "ตอนเด็ก, วัยเด็ก",
       "example": "子どものころ、よく川で遊んだ。",
+      "pronunciation": "こどものころ",
       "exampleTranslation": "ตอนเด็กเล่นที่แม่น้ำบ่อย"
     },
     {
       "word": "この間",
-      "translation": "このあいだ: เมื่อวันก่อน, เมื่อไม่นานมานี้",
+      "translation": "เมื่อวันก่อน, เมื่อไม่นานมานี้",
       "example": "この間はありがとうございました。",
+      "pronunciation": "このあいだ",
       "exampleTranslation": "ขอบคุณสำหรับเมื่อวันก่อน"
     },
     {
@@ -1334,14 +1456,16 @@
     },
     {
       "word": "コピー機",
-      "translation": "コピーき: เครื่องถ่ายเอกสาร",
+      "translation": "เครื่องถ่ายเอกสาร",
       "example": "コピー機が壊れている。",
+      "pronunciation": "コピーき",
       "exampleTranslation": "เครื่องถ่ายเอกสารเสีย"
     },
     {
       "word": "困る",
-      "translation": "こまる: ลำบาก, เดือดร้อน, แย่",
+      "translation": "ลำบาก, เดือดร้อน, แย่",
       "example": "お金がなくて困っている。",
+      "pronunciation": "こまる",
       "exampleTranslation": "ลำบากเพราะไม่มีเงิน"
     },
     {
@@ -1364,14 +1488,16 @@
     },
     {
       "word": "米",
-      "translation": "こめ: ข้าวสาร",
+      "translation": "ข้าวสาร",
       "example": "日本人は米をよく食べる。",
+      "pronunciation": "こめ",
       "exampleTranslation": "คนญี่ปุ่นกินข้าวบ่อย"
     },
     {
       "word": "米作り",
-      "translation": "こめづくり: การปลูกข้าว",
+      "translation": "การปลูกข้าว",
       "example": "この村は米作りが盛んだ。",
+      "pronunciation": "こめづくり",
       "exampleTranslation": "หมู่บ้านนี้ปลูกข้าวกันมาก"
     },
     {
@@ -1400,44 +1526,51 @@
     },
     {
       "word": "今回",
-      "translation": "こんかい: ครั้งนี้",
+      "translation": "ครั้งนี้",
       "example": "今回の旅行は楽しかった。",
+      "pronunciation": "こんかい",
       "exampleTranslation": "การเดินทางครั้งนี้สนุก"
     },
     {
       "word": "今月",
-      "translation": "こんげつ: เดือนนี้",
+      "translation": "เดือนนี้",
       "example": "今月は忙しい。",
+      "pronunciation": "こんげつ",
       "exampleTranslation": "เดือนนี้ยุ่ง"
     },
     {
       "word": "今週",
-      "translation": "こんしゅう: สัปดาห์นี้",
+      "translation": "สัปดาห์นี้",
       "example": "今週の金曜日に会いましょう。",
+      "pronunciation": "こんしゅう",
       "exampleTranslation": "เจอกันวันศุกร์สัปดาห์นี้"
     },
     {
       "word": "今夜",
-      "translation": "こんや: คืนนี้",
+      "translation": "คืนนี้",
       "example": "今夜は雨が降るそうだ。",
+      "pronunciation": "こんや",
       "exampleTranslation": "ได้ยินว่าคืนนี้ฝนจะตก"
     },
     {
       "word": "最近",
-      "translation": "さいきん: ช่วงนี้, เร็ว ๆ นี้",
+      "translation": "ช่วงนี้, เร็ว ๆ นี้",
       "example": "最近、よく眠れない。",
+      "pronunciation": "さいきん",
       "exampleTranslation": "ช่วงนี้นอนไม่ค่อยหลับ"
     },
     {
       "word": "最後",
-      "translation": "さいご: สุดท้าย",
+      "translation": "สุดท้าย",
       "example": "最後まで話を聞いてください。",
+      "pronunciation": "さいご",
       "exampleTranslation": "กรุณาฟังให้จบ"
     },
     {
       "word": "最高気温",
-      "translation": "さいこうきおん: อุณหภูมิสูงสุด",
+      "translation": "อุณหภูมิสูงสุด",
       "example": "今日の最高気温は35度だ。",
+      "pronunciation": "さいこうきおん",
       "exampleTranslation": "อุณหภูมิสูงสุดวันนี้คือ 35 องศา"
     },
     {
@@ -1454,8 +1587,9 @@
     },
     {
       "word": "材料",
-      "translation": "ざいりょう: วัตถุดิบ, ส่วนผสม",
+      "translation": "วัตถุดิบ, ส่วนผสม",
       "example": "カレーの材料を買った。",
+      "pronunciation": "ざいりょう",
       "exampleTranslation": "ซื้อวัตถุดิบทำแกงกะหรี่"
     },
     {
@@ -1472,8 +1606,9 @@
     },
     {
       "word": "下がる",
-      "translation": "さがる: ลดลง, ต่ำลง",
+      "translation": "ลดลง, ต่ำลง",
       "example": "熱が下がった。",
+      "pronunciation": "さがる",
       "exampleTranslation": "ไข้ลดลงแล้ว"
     },
     {
@@ -1484,8 +1619,9 @@
     },
     {
       "word": "桜",
-      "translation": "さくら: ดอกซากุระ",
+      "translation": "ดอกซากุระ",
       "example": "公園の桜がきれいだ。",
+      "pronunciation": "さくら",
       "exampleTranslation": "ซากุระในสวนสวยมาก"
     },
     {
@@ -1514,8 +1650,9 @@
     },
     {
       "word": "お皿",
-      "translation": "おさら: จาน",
+      "translation": "จาน",
       "example": "お皿を洗ってください。",
+      "pronunciation": "おさら",
       "exampleTranslation": "กรุณาล้างจาน"
     },
     {
@@ -1532,14 +1669,16 @@
     },
     {
       "word": "参加",
-      "translation": "さんか: การเข้าร่วม",
+      "translation": "การเข้าร่วม",
       "example": "参加は自由です。",
+      "pronunciation": "さんか",
       "exampleTranslation": "จะเข้าร่วมหรือไม่ก็ได้"
     },
     {
       "word": "参加（を）する",
-      "translation": "さんかする: เข้าร่วม",
+      "translation": "เข้าร่วม",
       "example": "パーティーに参加した。",
+      "pronunciation": "さんかする",
       "exampleTranslation": "ไปร่วมงานปาร์ตี้"
     },
     {
@@ -1562,8 +1701,9 @@
     },
     {
       "word": "事故",
-      "translation": "じこ: อุบัติเหตุ",
+      "translation": "อุบัติเหตุ",
       "example": "道で交通事故があった。",
+      "pronunciation": "じこ",
       "exampleTranslation": "เกิดอุบัติเหตุบนถนน"
     },
     {
@@ -1574,26 +1714,30 @@
     },
     {
       "word": "実は",
-      "translation": "じつは: ที่จริงแล้ว",
+      "translation": "ที่จริงแล้ว",
       "example": "実は明日国に帰ります。",
+      "pronunciation": "じつは",
       "exampleTranslation": "ที่จริงแล้วพรุ่งนี้จะกลับประเทศ"
     },
     {
       "word": "失礼",
-      "translation": "しつれい: การเสียมารยาท, ไม่สุภาพ",
+      "translation": "การเสียมารยาท, ไม่สุภาพ",
       "example": "それは失礼ですよ。",
+      "pronunciation": "しつれい",
       "exampleTranslation": "นั่นเสียมารยาทนะ"
     },
     {
       "word": "自転車置き場",
-      "translation": "じてんしゃおきば: ที่จอดจักรยาน",
+      "translation": "ที่จอดจักรยาน",
       "example": "自転車は自転車置き場に止めてください。",
+      "pronunciation": "じてんしゃおきば",
       "exampleTranslation": "กรุณาจอดจักรยานที่ที่จอดจักรยาน"
     },
     {
       "word": "自動車",
-      "translation": "じどうしゃ: รถยนต์",
+      "translation": "รถยนต์",
       "example": "父は自動車の会社で働いている。",
+      "pronunciation": "じどうしゃ",
       "exampleTranslation": "พ่อทำงานที่บริษัทรถยนต์"
     },
     {
@@ -1604,50 +1748,58 @@
     },
     {
       "word": "自分",
-      "translation": "じぶん: ตัวเอง",
+      "translation": "ตัวเอง",
       "example": "自分のことは自分でしなさい。",
+      "pronunciation": "じぶん",
       "exampleTranslation": "เรื่องของตัวเองก็ทำเองนะ"
     },
     {
       "word": "（物を）しまう",
-      "translation": "しまう: เก็บเข้าที่",
+      "translation": "เก็บเข้าที่",
       "example": "おもちゃを箱にしまった。",
+      "pronunciation": "しまう",
       "exampleTranslation": "เก็บของเล่นใส่กล่อง"
     },
     {
       "word": "閉まる",
-      "translation": "しまる: ปิด",
+      "translation": "ปิด",
       "example": "店は8時に閉まる。",
+      "pronunciation": "しまる",
       "exampleTranslation": "ร้านปิดสองทุ่ม"
     },
     {
       "word": "事務所",
-      "translation": "じむしょ: สำนักงาน",
+      "translation": "สำนักงาน",
       "example": "事務所は2階にあります。",
+      "pronunciation": "じむしょ",
       "exampleTranslation": "สำนักงานอยู่ชั้นสอง"
     },
     {
       "word": "閉める",
-      "translation": "しめる: ปิด",
+      "translation": "ปิด",
       "example": "ドアを閉めてください。",
+      "pronunciation": "しめる",
       "exampleTranslation": "กรุณาปิดประตู"
     },
     {
       "word": "社員",
-      "translation": "しゃいん: พนักงานบริษัท",
+      "translation": "พนักงานบริษัท",
       "example": "この会社の社員は100人です。",
+      "pronunciation": "しゃいん",
       "exampleTranslation": "บริษัทนี้มีพนักงานร้อยคน"
     },
     {
       "word": "社会",
-      "translation": "しゃかい: สังคม",
+      "translation": "สังคม",
       "example": "社会のルールを守る。",
+      "pronunciation": "しゃかい",
       "exampleTranslation": "ปฏิบัติตามกฎของสังคม"
     },
     {
       "word": "市役所",
-      "translation": "しやくしょ: ศาลาว่าการเมือง, สำนักงานเทศบาล",
+      "translation": "ศาลาว่าการเมือง, สำนักงานเทศบาล",
       "example": "市役所で手続きをした。",
+      "pronunciation": "しやくしょ",
       "exampleTranslation": "ทำเรื่องที่สำนักงานเทศบาล"
     },
     {
@@ -1658,8 +1810,9 @@
     },
     {
       "word": "社長",
-      "translation": "しゃちょう: ประธานบริษัท",
+      "translation": "ประธานบริษัท",
       "example": "社長に会いました。",
+      "pronunciation": "しゃちょう",
       "exampleTranslation": "ได้พบประธานบริษัท"
     },
     {
@@ -1676,56 +1829,65 @@
     },
     {
       "word": "習慣",
-      "translation": "しゅうかん: นิสัย, ธรรมเนียม",
+      "translation": "นิสัย, ธรรมเนียม",
       "example": "早く寝る習慣をつけたい。",
+      "pronunciation": "しゅうかん",
       "exampleTranslation": "อยากสร้างนิสัยเข้านอนเร็ว"
     },
     {
       "word": "自由に",
-      "translation": "じゆうに: อย่างอิสระ, ตามสบาย",
+      "translation": "อย่างอิสระ, ตามสบาย",
       "example": "自由に使ってください。",
+      "pronunciation": "じゆうに",
       "exampleTranslation": "ใช้ได้ตามสบาย"
     },
     {
       "word": "週末",
-      "translation": "しゅうまつ: สุดสัปดาห์",
+      "translation": "สุดสัปดาห์",
       "example": "週末は何をしますか。",
+      "pronunciation": "しゅうまつ",
       "exampleTranslation": "สุดสัปดาห์จะทำอะไร"
     },
     {
       "word": "修理（を）する",
-      "translation": "しゅうりする: ซ่อม",
+      "translation": "ซ่อม",
       "example": "自転車を修理した。",
+      "pronunciation": "しゅうりする",
       "exampleTranslation": "ซ่อมจักรยาน"
     },
     {
       "word": "首相",
-      "translation": "しゅしょう: นายกรัฐมนตรี",
+      "translation": "นายกรัฐมนตรี",
       "example": "首相がテレビで話した。",
+      "pronunciation": "しゅしょう",
       "exampleTranslation": "นายกรัฐมนตรีพูดทางทีวี"
     },
     {
       "word": "出場（を）する",
-      "translation": "しゅつじょうする: ลงแข่งขัน, เข้าร่วมการแข่งขัน",
+      "translation": "ลงแข่งขัน, เข้าร่วมการแข่งขัน",
       "example": "マラソン大会に出場した。",
+      "pronunciation": "しゅつじょうする",
       "exampleTranslation": "ลงแข่งวิ่งมาราธอน"
     },
     {
       "word": "出席（を）する",
-      "translation": "しゅっせきする: เข้าร่วม, เข้าเรียน",
+      "translation": "เข้าร่วม, เข้าเรียน",
       "example": "会議に出席した。",
+      "pronunciation": "しゅっせきする",
       "exampleTranslation": "เข้าร่วมประชุม"
     },
     {
       "word": "出張",
-      "translation": "しゅっちょう: การเดินทางไปทำงานนอกสถานที่",
+      "translation": "การเดินทางไปทำงานนอกสถานที่",
       "example": "来週は大阪へ出張です。",
+      "pronunciation": "しゅっちょう",
       "exampleTranslation": "สัปดาห์หน้าไปทำงานที่โอซากา"
     },
     {
       "word": "出張（を）する",
-      "translation": "しゅっちょうする: ไปทำงานต่างจังหวัด, ไปทำงานต่างประเทศ",
+      "translation": "ไปทำงานต่างจังหวัด, ไปทำงานต่างประเทศ",
       "example": "父は北海道に出張した。",
+      "pronunciation": "しゅっちょうする",
       "exampleTranslation": "พ่อไปทำงานที่ฮอกไกโด"
     },
     {
@@ -1754,8 +1916,9 @@
     },
     {
       "word": "使用",
-      "translation": "しよう: การใช้งาน",
+      "translation": "การใช้งาน",
       "example": "このトイレは使用中です。",
+      "pronunciation": "しよう",
       "exampleTranslation": "ห้องน้ำนี้มีคนใช้อยู่"
     },
     {
@@ -1766,20 +1929,23 @@
     },
     {
       "word": "しょうがく金",
-      "translation": "しょうがくきん: ทุนการศึกษา",
+      "translation": "ทุนการศึกษา",
       "example": "しょうがく金をもらって留学した。",
+      "pronunciation": "しょうがくきん",
       "exampleTranslation": "ได้ทุนการศึกษาไปเรียนต่างประเทศ"
     },
     {
       "word": "少々",
-      "translation": "しょうしょう: นิดหน่อย, สักครู่",
+      "translation": "นิดหน่อย, สักครู่",
       "example": "少々お待ちください。",
+      "pronunciation": "しょうしょう",
       "exampleTranslation": "กรุณารอสักครู่"
     },
     {
       "word": "小説",
-      "translation": "しょうせつ: นวนิยาย",
+      "translation": "นวนิยาย",
       "example": "寝る前に小説を読む。",
+      "pronunciation": "しょうせつ",
       "exampleTranslation": "อ่านนวนิยายก่อนนอน"
     },
     {
@@ -1802,8 +1968,9 @@
     },
     {
       "word": "将来",
-      "translation": "しょうらい: อนาคต",
+      "translation": "อนาคต",
       "example": "将来は先生になりたい。",
+      "pronunciation": "しょうらい",
       "exampleTranslation": "ในอนาคตอยากเป็นครู"
     },
     {
@@ -1814,8 +1981,9 @@
     },
     {
       "word": "女性",
-      "translation": "じょせい: ผู้หญิง",
+      "translation": "ผู้หญิง",
       "example": "あの女性は誰ですか。",
+      "pronunciation": "じょせい",
       "exampleTranslation": "ผู้หญิงคนนั้นคือใคร"
     },
     {
@@ -1826,32 +1994,37 @@
     },
     {
       "word": "書類",
-      "translation": "しょるい: เอกสาร",
+      "translation": "เอกสาร",
       "example": "この書類にサインしてください。",
+      "pronunciation": "しょるい",
       "exampleTranslation": "กรุณาเซ็นเอกสารนี้"
     },
     {
       "word": "新幹線",
-      "translation": "しんかんせん: รถไฟชินคันเซ็น",
+      "translation": "รถไฟชินคันเซ็น",
       "example": "新幹線で京都へ行った。",
+      "pronunciation": "しんかんせん",
       "exampleTranslation": "ไปเกียวโตด้วยรถไฟชินคันเซ็น"
     },
     {
       "word": "信号",
-      "translation": "しんごう: สัญญาณไฟจราจร",
+      "translation": "สัญญาณไฟจราจร",
       "example": "信号が青になったら渡ろう。",
+      "pronunciation": "しんごう",
       "exampleTranslation": "พอไฟเขียวแล้วค่อยข้าม"
     },
     {
       "word": "人口",
-      "translation": "じんこう: ประชากร",
+      "translation": "ประชากร",
       "example": "東京は人口が多い。",
+      "pronunciation": "じんこう",
       "exampleTranslation": "โตเกียวมีประชากรมาก"
     },
     {
       "word": "新せいひん",
-      "translation": "しんせいひん: สินค้าใหม่, ผลิตภัณฑ์ใหม่",
+      "translation": "สินค้าใหม่, ผลิตภัณฑ์ใหม่",
       "example": "新せいひんの説明を聞いた。",
+      "pronunciation": "しんせいひん",
       "exampleTranslation": "ฟังคำอธิบายสินค้าใหม่"
     },
     {
@@ -1862,8 +2035,9 @@
     },
     {
       "word": "水道",
-      "translation": "すいどう: น้ำประปา, ระบบประปา",
+      "translation": "น้ำประปา, ระบบประปา",
       "example": "水道の水を飲んでも大丈夫です。",
+      "pronunciation": "すいどう",
       "exampleTranslation": "ดื่มน้ำประปาได้ไม่เป็นไร"
     },
     {
@@ -1880,8 +2054,9 @@
     },
     {
       "word": "少ない",
-      "translation": "すくない: น้อย",
+      "translation": "น้อย",
       "example": "この町は人が少ない。",
+      "pronunciation": "すくない",
       "exampleTranslation": "เมืองนี้คนน้อย"
     },
     {
@@ -1916,8 +2091,9 @@
     },
     {
       "word": "ずっと前",
-      "translation": "ずっとまえ: นานมาแล้ว",
+      "translation": "นานมาแล้ว",
       "example": "ずっと前にこの町に住んでいた。",
+      "pronunciation": "ずっとまえ",
       "exampleTranslation": "นานมาแล้วเคยอยู่เมืองนี้"
     },
     {
@@ -1964,8 +2140,9 @@
     },
     {
       "word": "スポーツ新聞",
-      "translation": "スポーツしんぶん: หนังสือพิมพ์กีฬา",
+      "translation": "หนังสือพิมพ์กีฬา",
       "example": "父は毎朝スポーツ新聞を読む。",
+      "pronunciation": "スポーツしんぶん",
       "exampleTranslation": "พ่ออ่านหนังสือพิมพ์กีฬาทุกเช้า"
     },
     {
@@ -1976,50 +2153,58 @@
     },
     {
       "word": "生活",
-      "translation": "せいかつ: การใช้ชีวิต, ความเป็นอยู่",
+      "translation": "การใช้ชีวิต, ความเป็นอยู่",
       "example": "日本の生活にもう慣れた。",
+      "pronunciation": "せいかつ",
       "exampleTranslation": "ชินกับการใช้ชีวิตในญี่ปุ่นแล้ว"
     },
     {
       "word": "政治家",
-      "translation": "せいじか: นักการเมือง",
+      "translation": "นักการเมือง",
       "example": "彼は有名な政治家だ。",
+      "pronunciation": "せいじか",
       "exampleTranslation": "เขาเป็นนักการเมืองที่มีชื่อเสียง"
     },
     {
       "word": "世界",
-      "translation": "せかい: โลก",
+      "translation": "โลก",
       "example": "世界中を旅行したい。",
+      "pronunciation": "せかい",
       "exampleTranslation": "อยากเที่ยวรอบโลก"
     },
     {
       "word": "世界一",
-      "translation": "せかいいち: ที่หนึ่งของโลก",
+      "translation": "ที่หนึ่งของโลก",
       "example": "このタワーは世界一高い。",
+      "pronunciation": "せかいいち",
       "exampleTranslation": "หอคอยนี้สูงที่สุดในโลก"
     },
     {
       "word": "世界旅行",
-      "translation": "せかいりょこう: การเดินทางรอบโลก",
+      "translation": "การเดินทางรอบโลก",
       "example": "いつか世界旅行をしたい。",
+      "pronunciation": "せかいりょこう",
       "exampleTranslation": "สักวันอยากเดินทางรอบโลก"
     },
     {
       "word": "背が高い",
-      "translation": "せがたかい: ตัวสูง",
+      "translation": "ตัวสูง",
       "example": "兄は背が高い。",
+      "pronunciation": "せがたかい",
       "exampleTranslation": "พี่ชายตัวสูง"
     },
     {
       "word": "席",
-      "translation": "せき: ที่นั่ง",
+      "translation": "ที่นั่ง",
       "example": "この席は空いていますか。",
+      "pronunciation": "せき",
       "exampleTranslation": "ที่นั่งนี้ว่างไหม"
     },
     {
       "word": "石油",
-      "translation": "せきゆ: น้ำมันดิบ, ปิโตรเลียม",
+      "translation": "น้ำมันดิบ, ปิโตรเลียม",
       "example": "この国は石油が多い。",
+      "pronunciation": "せきゆ",
       "exampleTranslation": "ประเทศนี้มีน้ำมันมาก"
     },
     {
@@ -2030,20 +2215,23 @@
     },
     {
       "word": "説明",
-      "translation": "せつめい: คำอธิบาย",
+      "translation": "คำอธิบาย",
       "example": "先生の説明はわかりやすい。",
+      "pronunciation": "せつめい",
       "exampleTranslation": "คำอธิบายของครูเข้าใจง่าย"
     },
     {
       "word": "説明（を）する",
-      "translation": "せつめいする: อธิบาย",
+      "translation": "อธิบาย",
       "example": "使い方を説明した。",
+      "pronunciation": "せつめいする",
       "exampleTranslation": "อธิบายวิธีใช้"
     },
     {
       "word": "説明会",
-      "translation": "せつめいかい: งานชี้แจง, งานแนะแนว",
+      "translation": "งานชี้แจง, งานแนะแนว",
       "example": "会社の説明会に行った。",
+      "pronunciation": "せつめいかい",
       "exampleTranslation": "ไปงานแนะนำบริษัท"
     },
     {
@@ -2054,14 +2242,16 @@
     },
     {
       "word": "線",
-      "translation": "せん: เส้น, สาย",
+      "translation": "เส้น, สาย",
       "example": "白い線の内側に立ってください。",
+      "pronunciation": "せん",
       "exampleTranslation": "กรุณายืนหลังเส้นสีขาว"
     },
     {
       "word": "先月",
-      "translation": "せんげつ: เดือนที่แล้ว",
+      "translation": "เดือนที่แล้ว",
       "example": "先月引っ越しをした。",
+      "pronunciation": "せんげつ",
       "exampleTranslation": "ย้ายบ้านเมื่อเดือนที่แล้ว"
     },
     {
@@ -2072,32 +2262,37 @@
     },
     {
       "word": "洗濯機",
-      "translation": "せんたくき: เครื่องซักผ้า",
+      "translation": "เครื่องซักผ้า",
       "example": "新しい洗濯機を買った。",
+      "pronunciation": "せんたくき",
       "exampleTranslation": "ซื้อเครื่องซักผ้าใหม่"
     },
     {
       "word": "洗濯（を）する",
-      "translation": "せんたくする: ซักผ้า",
+      "translation": "ซักผ้า",
       "example": "日曜日に洗濯する。",
+      "pronunciation": "せんたくする",
       "exampleTranslation": "ซักผ้าวันอาทิตย์"
     },
     {
       "word": "全日本",
-      "translation": "ぜんにほん: ทั่วประเทศญี่ปุ่น, ทีมชาติญี่ปุ่น",
+      "translation": "ทั่วประเทศญี่ปุ่น, ทีมชาติญี่ปุ่น",
       "example": "全日本の大会で優勝した。",
+      "pronunciation": "ぜんにほん",
       "exampleTranslation": "ชนะเลิศการแข่งขันระดับประเทศญี่ปุ่น"
     },
     {
       "word": "先輩",
-      "translation": "せんぱい: รุ่นพี่",
+      "translation": "รุ่นพี่",
       "example": "先輩に仕事を教えてもらった。",
+      "pronunciation": "せんぱい",
       "exampleTranslation": "รุ่นพี่สอนงานให้"
     },
     {
       "word": "専門学校",
-      "translation": "せんもんがっこう: โรงเรียนอาชีวะ, วิทยาลัยวิชาชีพ",
+      "translation": "โรงเรียนอาชีวะ, วิทยาลัยวิชาชีพ",
       "example": "料理の専門学校に通っている。",
+      "pronunciation": "せんもんがっこう",
       "exampleTranslation": "เรียนที่วิทยาลัยการทำอาหาร"
     },
     {
@@ -2108,26 +2303,30 @@
     },
     {
       "word": "育つ",
-      "translation": "そだつ: เติบโต",
+      "translation": "เติบโต",
       "example": "この町で育った。",
+      "pronunciation": "そだつ",
       "exampleTranslation": "เติบโตที่เมืองนี้"
     },
     {
       "word": "育てる",
-      "translation": "そだてる: เลี้ยงดู, ปลูก",
+      "translation": "เลี้ยงดู, ปลูก",
       "example": "母は三人の子どもを育てた。",
+      "pronunciation": "そだてる",
       "exampleTranslation": "แม่เลี้ยงลูกสามคน"
     },
     {
       "word": "卒業式",
-      "translation": "そつぎょうしき: พิธีจบการศึกษา",
+      "translation": "พิธีจบการศึกษา",
       "example": "卒業式で泣いた。",
+      "pronunciation": "そつぎょうしき",
       "exampleTranslation": "ร้องไห้ในพิธีจบการศึกษา"
     },
     {
       "word": "卒業（を）する",
-      "translation": "そつぎょうする: จบการศึกษา",
+      "translation": "จบการศึกษา",
       "example": "来年大学を卒業する。",
+      "pronunciation": "そつぎょうする",
       "exampleTranslation": "ปีหน้าจะเรียนจบมหาวิทยาลัย"
     },
     {
@@ -2186,44 +2385,51 @@
     },
     {
       "word": "体育館",
-      "translation": "たいいくかん: โรงยิม",
+      "translation": "โรงยิม",
       "example": "体育館でバスケットボールをした。",
+      "pronunciation": "たいいくかん",
       "exampleTranslation": "เล่นบาสเกตบอลในโรงยิม"
     },
     {
       "word": "大会",
-      "translation": "たいかい: การแข่งขัน, การประชุมใหญ่",
+      "translation": "การแข่งขัน, การประชุมใหญ่",
       "example": "水泳の大会に出た。",
+      "pronunciation": "たいかい",
       "exampleTranslation": "ลงแข่งว่ายน้ำ"
     },
     {
       "word": "大学院",
-      "translation": "だいがくいん: บัณฑิตวิทยาลัย, ปริญญาโท",
+      "translation": "บัณฑิตวิทยาลัย, ปริญญาโท",
       "example": "大学院で勉強したい。",
+      "pronunciation": "だいがくいん",
       "exampleTranslation": "อยากเรียนต่อปริญญาโท"
     },
     {
       "word": "大学生",
-      "translation": "だいがくせい: นักศึกษามหาวิทยาลัย",
+      "translation": "นักศึกษามหาวิทยาลัย",
       "example": "姉は大学生です。",
+      "pronunciation": "だいがくせい",
       "exampleTranslation": "พี่สาวเป็นนักศึกษามหาวิทยาลัย"
     },
     {
       "word": "タイ語",
-      "translation": "タイご: ภาษาไทย",
+      "translation": "ภาษาไทย",
       "example": "友だちにタイ語を教えている。",
+      "pronunciation": "タイご",
       "exampleTranslation": "สอนภาษาไทยให้เพื่อน"
     },
     {
       "word": "大切",
-      "translation": "たいせつ: สำคัญ, มีค่า",
+      "translation": "สำคัญ, มีค่า",
       "example": "家族は大切です。",
+      "pronunciation": "たいせつ",
       "exampleTranslation": "ครอบครัวเป็นสิ่งสำคัญ"
     },
     {
       "word": "台風",
-      "translation": "たいふう: พายุไต้ฝุ่น",
+      "translation": "พายุไต้ฝุ่น",
       "example": "台風が来るので外に出ないで。",
+      "pronunciation": "たいふう",
       "exampleTranslation": "ไต้ฝุ่นกำลังมา อย่าออกไปข้างนอก"
     },
     {
@@ -2246,8 +2452,9 @@
     },
     {
       "word": "タクシー乗り場",
-      "translation": "タクシーのりば: จุดขึ้นแท็กซี่",
+      "translation": "จุดขึ้นแท็กซี่",
       "example": "タクシー乗り場は駅の前です。",
+      "pronunciation": "タクシーのりば",
       "exampleTranslation": "จุดขึ้นแท็กซี่อยู่หน้าสถานี"
     },
     {
@@ -2258,50 +2465,58 @@
     },
     {
       "word": "（服をクリーニングに）出す",
-      "translation": "だす: ส่ง, เอาออก, ส่งไปซัก",
+      "translation": "ส่ง, เอาออก, ส่งไปซัก",
       "example": "服をクリーニングに出した。",
+      "pronunciation": "だす",
       "exampleTranslation": "ส่งเสื้อผ้าไปซักแห้ง"
     },
     {
       "word": "助け合う",
-      "translation": "たすけあう: ช่วยเหลือกัน",
+      "translation": "ช่วยเหลือกัน",
       "example": "家族で助け合って生活している。",
+      "pronunciation": "たすけあう",
       "exampleTranslation": "ครอบครัวช่วยเหลือกันในการใช้ชีวิต"
     },
     {
       "word": "助ける",
-      "translation": "たすける: ช่วยเหลือ",
+      "translation": "ช่วยเหลือ",
       "example": "困っている人を助けた。",
+      "pronunciation": "たすける",
       "exampleTranslation": "ช่วยคนที่เดือดร้อน"
     },
     {
       "word": "ただ今",
-      "translation": "ただいま: ขณะนี้, เดี๋ยวนี้, กลับมาแล้ว",
+      "translation": "ขณะนี้, เดี๋ยวนี้, กลับมาแล้ว",
       "example": "ただ今、会議中です。",
+      "pronunciation": "ただいま",
       "exampleTranslation": "ขณะนี้กำลังประชุมอยู่"
     },
     {
       "word": "卓球",
-      "translation": "たっきゅう: ปิงปอง",
+      "translation": "ปิงปอง",
       "example": "友だちと卓球をした。",
+      "pronunciation": "たっきゅう",
       "exampleTranslation": "เล่นปิงปองกับเพื่อน"
     },
     {
       "word": "建物",
-      "translation": "たてもの: อาคาร, สิ่งปลูกสร้าง",
+      "translation": "อาคาร, สิ่งปลูกสร้าง",
       "example": "あの白い建物は病院です。",
+      "pronunciation": "たてもの",
       "exampleTranslation": "อาคารสีขาวนั้นคือโรงพยาบาล"
     },
     {
       "word": "建てる",
-      "translation": "たてる: สร้าง",
+      "translation": "สร้าง",
       "example": "新しい家を建てた。",
+      "pronunciation": "たてる",
       "exampleTranslation": "สร้างบ้านใหม่"
     },
     {
       "word": "立てる",
-      "translation": "たてる: ตั้ง, วางแผน",
+      "translation": "ตั้ง, วางแผน",
       "example": "夏休みの計画を立てた。",
+      "pronunciation": "たてる",
       "exampleTranslation": "วางแผนช่วงปิดเทอมฤดูร้อน"
     },
     {
@@ -2312,14 +2527,16 @@
     },
     {
       "word": "楽しみ",
-      "translation": "たのしみ: ความสนุก, สิ่งที่ตั้งตารอ",
+      "translation": "ความสนุก, สิ่งที่ตั้งตารอ",
       "example": "旅行が楽しみです。",
+      "pronunciation": "たのしみ",
       "exampleTranslation": "ตั้งตารอการเดินทาง"
     },
     {
       "word": "頼む",
-      "translation": "たのむ: ขอร้อง, สั่ง",
+      "translation": "ขอร้อง, สั่ง",
       "example": "友だちに荷物を頼んだ。",
+      "pronunciation": "たのむ",
       "exampleTranslation": "ฝากเพื่อนดูแลกระเป๋า"
     },
     {
@@ -2330,20 +2547,23 @@
     },
     {
       "word": "足りる",
-      "translation": "たりる: เพียงพอ",
+      "translation": "เพียงพอ",
       "example": "お金が足りない。",
+      "pronunciation": "たりる",
       "exampleTranslation": "เงินไม่พอ"
     },
     {
       "word": "たんじょう日",
-      "translation": "たんじょうび: วันเกิด",
+      "translation": "วันเกิด",
       "example": "明日は母のたんじょう日です。",
+      "pronunciation": "たんじょうび",
       "exampleTranslation": "พรุ่งนี้เป็นวันเกิดแม่"
     },
     {
       "word": "男性",
-      "translation": "だんせい: ผู้ชาย",
+      "translation": "ผู้ชาย",
       "example": "あの男性は先生です。",
+      "pronunciation": "だんせい",
       "exampleTranslation": "ผู้ชายคนนั้นเป็นครู"
     },
     {
@@ -2360,8 +2580,9 @@
     },
     {
       "word": "遅刻",
-      "translation": "ちこく: การมาสาย",
+      "translation": "การมาสาย",
       "example": "遅刻は3回目です。",
+      "pronunciation": "ちこく",
       "exampleTranslation": "มาสายเป็นครั้งที่สาม"
     },
     {
@@ -2372,8 +2593,9 @@
     },
     {
       "word": "地図",
-      "translation": "ちず: แผนที่",
+      "translation": "แผนที่",
       "example": "地図を見て道を探した。",
+      "pronunciation": "ちず",
       "exampleTranslation": "ดูแผนที่หาทาง"
     },
     {
@@ -2390,44 +2612,51 @@
     },
     {
       "word": "注意（を）する",
-      "translation": "ちゅういする: ระวัง, ตักเตือน",
+      "translation": "ระวัง, ตักเตือน",
       "example": "車に注意してください。",
+      "pronunciation": "ちゅういする",
       "exampleTranslation": "ระวังรถด้วย"
     },
     {
       "word": "中学",
-      "translation": "ちゅうがく: โรงเรียนมัธยมต้น",
+      "translation": "โรงเรียนมัธยมต้น",
       "example": "弟は中学2年生です。",
+      "pronunciation": "ちゅうがく",
       "exampleTranslation": "น้องชายเรียนมัธยมต้นปีสอง"
     },
     {
       "word": "中止",
-      "translation": "ちゅうし: การยกเลิก, การงด",
+      "translation": "การยกเลิก, การงด",
       "example": "雨で試合は中止です。",
+      "pronunciation": "ちゅうし",
       "exampleTranslation": "การแข่งขันยกเลิกเพราะฝน"
     },
     {
       "word": "中止する",
-      "translation": "ちゅうしする: ยกเลิก, งด",
+      "translation": "ยกเลิก, งด",
       "example": "台風でイベントを中止した。",
+      "pronunciation": "ちゅうしする",
       "exampleTranslation": "ยกเลิกงานเพราะไต้ฝุ่น"
     },
     {
       "word": "駐車",
-      "translation": "ちゅうしゃ: การจอดรถ",
+      "translation": "การจอดรถ",
       "example": "ここに駐車しないでください。",
+      "pronunciation": "ちゅうしゃ",
       "exampleTranslation": "กรุณาอย่าจอดรถตรงนี้"
     },
     {
       "word": "中心",
-      "translation": "ちゅうしん: ศูนย์กลาง, ใจกลาง",
+      "translation": "ศูนย์กลาง, ใจกลาง",
       "example": "ホテルは町の中心にある。",
+      "pronunciation": "ちゅうしん",
       "exampleTranslation": "โรงแรมอยู่ใจกลางเมือง"
     },
     {
       "word": "調子",
-      "translation": "ちょうし: สภาพ, อาการ",
+      "translation": "สภาพ, อาการ",
       "example": "今日は体の調子がいい。",
+      "pronunciation": "ちょうし",
       "exampleTranslation": "วันนี้ร่างกายสบายดี"
     },
     {
@@ -2462,26 +2691,30 @@
     },
     {
       "word": "付き合う",
-      "translation": "つきあう: คบหา, ไปเป็นเพื่อน",
+      "translation": "คบหา, ไปเป็นเพื่อน",
       "example": "二人は3年付き合っている。",
+      "pronunciation": "つきあう",
       "exampleTranslation": "ทั้งสองคบกันมาสามปี"
     },
     {
       "word": "次の",
-      "translation": "つぎの: ถัดไป, ต่อไป",
+      "translation": "ถัดไป, ต่อไป",
       "example": "次の駅で降ります。",
+      "pronunciation": "つぎの",
       "exampleTranslation": "จะลงสถานีถัดไป"
     },
     {
       "word": "（電気が）つく",
-      "translation": "つく: เปิด, ติด",
+      "translation": "เปิด, ติด",
       "example": "部屋の電気がついている。",
+      "pronunciation": "つく",
       "exampleTranslation": "ไฟในห้องเปิดอยู่"
     },
     {
       "word": "（会社を）作る",
-      "translation": "つくる: ก่อตั้ง, สร้าง",
+      "translation": "ก่อตั้ง, สร้าง",
       "example": "父は30歳で会社を作った。",
+      "pronunciation": "つくる",
       "exampleTranslation": "พ่อก่อตั้งบริษัทตอนอายุสามสิบ"
     },
     {
@@ -2492,50 +2725,58 @@
     },
     {
       "word": "伝える",
-      "translation": "つたえる: บอกต่อ, ถ่ายทอด",
+      "translation": "บอกต่อ, ถ่ายทอด",
       "example": "先生によろしく伝えてください。",
+      "pronunciation": "つたえる",
       "exampleTranslation": "ฝากความคิดถึงถึงอาจารย์ด้วย"
     },
     {
       "word": "続く",
-      "translation": "つづく: ดำเนินต่อไป, ต่อเนื่อง",
+      "translation": "ดำเนินต่อไป, ต่อเนื่อง",
       "example": "雨が一週間続いた。",
+      "pronunciation": "つづく",
       "exampleTranslation": "ฝนตกต่อเนื่องหนึ่งสัปดาห์"
     },
     {
       "word": "続ける",
-      "translation": "つづける: ทำต่อ",
+      "translation": "ทำต่อ",
       "example": "日本語の勉強を続けたい。",
+      "pronunciation": "つづける",
       "exampleTranslation": "อยากเรียนภาษาญี่ปุ่นต่อไป"
     },
     {
       "word": "勤める",
-      "translation": "つとめる: ทำงานที่",
+      "translation": "ทำงานที่",
       "example": "兄は銀行に勤めている。",
+      "pronunciation": "つとめる",
       "exampleTranslation": "พี่ชายทำงานที่ธนาคาร"
     },
     {
       "word": "強い",
-      "translation": "つよい: แข็งแรง, แรง, เก่ง",
+      "translation": "แข็งแรง, แรง, เก่ง",
       "example": "今日は風が強い。",
+      "pronunciation": "つよい",
       "exampleTranslation": "วันนี้ลมแรง"
     },
     {
       "word": "（魚を）つる",
-      "translation": "つる: ตกปลา",
+      "translation": "ตกปลา",
       "example": "川で魚をつった。",
+      "pronunciation": "つる",
       "exampleTranslation": "ตกปลาที่แม่น้ำ"
     },
     {
       "word": "連れていく",
-      "translation": "つれていく: พาไป",
+      "translation": "พาไป",
       "example": "子どもを公園に連れていった。",
+      "pronunciation": "つれていく",
       "exampleTranslation": "พาลูกไปสวนสาธารณะ"
     },
     {
       "word": "連れてくる",
-      "translation": "つれてくる: พามา",
+      "translation": "พามา",
       "example": "友だちをパーティーに連れてきた。",
+      "pronunciation": "つれてくる",
       "exampleTranslation": "พาเพื่อนมางานปาร์ตี้"
     },
     {
@@ -2564,8 +2805,9 @@
     },
     {
       "word": "出口",
-      "translation": "でぐち: ทางออก",
+      "translation": "ทางออก",
       "example": "出口はあちらです。",
+      "pronunciation": "でぐち",
       "exampleTranslation": "ทางออกอยู่ทางโน้น"
     },
     {
@@ -2582,38 +2824,44 @@
     },
     {
       "word": "手伝う",
-      "translation": "てつだう: ช่วย",
+      "translation": "ช่วย",
       "example": "母の料理を手伝った。",
+      "pronunciation": "てつだう",
       "exampleTranslation": "ช่วยแม่ทำอาหาร"
     },
     {
       "word": "手をつなぐ",
-      "translation": "てをつなぐ: จับมือกัน",
+      "translation": "จับมือกัน",
       "example": "子どもと手をつないで歩いた。",
+      "pronunciation": "てをつなぐ",
       "exampleTranslation": "เดินจับมือกับลูก"
     },
     {
       "word": "～点",
-      "translation": "～てん: ...คะแนน",
+      "translation": "...คะแนน",
       "example": "テストで80点を取った。",
+      "pronunciation": "～てん",
       "exampleTranslation": "ได้แปดสิบคะแนนในการสอบ"
     },
     {
       "word": "店員",
-      "translation": "てんいん: พนักงานร้าน",
+      "translation": "พนักงานร้าน",
       "example": "店員にサイズを聞いた。",
+      "pronunciation": "てんいん",
       "exampleTranslation": "ถามไซซ์กับพนักงานร้าน"
     },
     {
       "word": "電気",
-      "translation": "でんき: ไฟฟ้า, ไฟ",
+      "translation": "ไฟฟ้า, ไฟ",
       "example": "部屋の電気を消してください。",
+      "pronunciation": "でんき",
       "exampleTranslation": "กรุณาปิดไฟในห้อง"
     },
     {
       "word": "天気予報",
-      "translation": "てんきよほう: พยากรณ์อากาศ",
+      "translation": "พยากรณ์อากาศ",
       "example": "天気予報によると明日は雨だ。",
+      "pronunciation": "てんきよほう",
       "exampleTranslation": "พยากรณ์อากาศบอกว่าพรุ่งนี้ฝนตก"
     },
     {
@@ -2624,8 +2872,9 @@
     },
     {
       "word": "電車",
-      "translation": "でんしゃ: รถไฟ",
+      "translation": "รถไฟ",
       "example": "毎朝電車で学校に行く。",
+      "pronunciation": "でんしゃ",
       "exampleTranslation": "ไปโรงเรียนด้วยรถไฟทุกเช้า"
     },
     {
@@ -2672,8 +2921,9 @@
     },
     {
       "word": "遠い",
-      "translation": "とおい: ไกล",
+      "translation": "ไกล",
       "example": "駅は家から遠い。",
+      "pronunciation": "とおい",
       "exampleTranslation": "สถานีไกลจากบ้าน"
     },
     {
@@ -2690,8 +2940,9 @@
     },
     {
       "word": "途中",
-      "translation": "とちゅう: ระหว่างทาง, กลางคัน",
+      "translation": "ระหว่างทาง, กลางคัน",
       "example": "帰る途中でパンを買った。",
+      "pronunciation": "とちゅう",
       "exampleTranslation": "ซื้อขนมปังระหว่างทางกลับ"
     },
     {
@@ -2714,20 +2965,23 @@
     },
     {
       "word": "泊まる",
-      "translation": "とまる: พักค้างคืน",
+      "translation": "พักค้างคืน",
       "example": "ホテルに2日泊まった。",
+      "pronunciation": "とまる",
       "exampleTranslation": "พักโรงแรมสองคืน"
     },
     {
       "word": "（車が）止まる",
-      "translation": "とまる: หยุด, จอด",
+      "translation": "หยุด, จอด",
       "example": "家の前に車が止まった。",
+      "pronunciation": "とまる",
       "exampleTranslation": "รถจอดหน้าบ้าน"
     },
     {
       "word": "（車を）止める",
-      "translation": "とめる: หยุด, จอด",
+      "translation": "หยุด, จอด",
       "example": "駐車場に車を止めた。",
+      "pronunciation": "とめる",
       "exampleTranslation": "จอดรถที่ลานจอด"
     },
     {
@@ -2744,8 +2998,9 @@
     },
     {
       "word": "（よごれが）取れる",
-      "translation": "とれる: หลุดออก, ออก",
+      "translation": "หลุดออก, ออก",
       "example": "シャツのよごれが取れた。",
+      "pronunciation": "とれる",
       "exampleTranslation": "รอยเปื้อนบนเสื้อออกแล้ว"
     },
     {
@@ -2756,26 +3011,30 @@
     },
     {
       "word": "（作文を）直す",
-      "translation": "なおす: แก้ไข",
+      "translation": "แก้ไข",
       "example": "先生が作文を直してくれた。",
+      "pronunciation": "なおす",
       "exampleTranslation": "ครูช่วยแก้เรียงความให้"
     },
     {
       "word": "（病気を）なおす",
-      "translation": "なおす: รักษาให้หาย",
+      "translation": "รักษาให้หาย",
       "example": "早くかぜをなおしてね。",
+      "pronunciation": "なおす",
       "exampleTranslation": "รีบหายหวัดนะ"
     },
     {
       "word": "直る",
-      "translation": "なおる: ซ่อมเสร็จ, กลับเป็นปกติ",
+      "translation": "ซ่อมเสร็จ, กลับเป็นปกติ",
       "example": "パソコンが直った。",
+      "pronunciation": "なおる",
       "exampleTranslation": "คอมพิวเตอร์ซ่อมเสร็จแล้ว"
     },
     {
       "word": "（病気が）なおる",
-      "translation": "なおる: หายป่วย",
+      "translation": "หายป่วย",
       "example": "かぜがなおった。",
+      "pronunciation": "なおる",
       "exampleTranslation": "หายหวัดแล้ว"
     },
     {
@@ -2786,14 +3045,16 @@
     },
     {
       "word": "仲間",
-      "translation": "なかま: เพื่อนพ้อง, พวกพ้อง",
+      "translation": "เพื่อนพ้อง, พวกพ้อง",
       "example": "仲間とサッカーをした。",
+      "pronunciation": "なかま",
       "exampleTranslation": "เตะฟุตบอลกับเพื่อน ๆ"
     },
     {
       "word": "泣く",
-      "translation": "なく: ร้องไห้",
+      "translation": "ร้องไห้",
       "example": "赤ちゃんが泣いている。",
+      "pronunciation": "なく",
       "exampleTranslation": "ทารกกำลังร้องไห้"
     },
     {
@@ -2810,8 +3071,9 @@
     },
     {
       "word": "夏",
-      "translation": "なつ: ฤดูร้อน",
+      "translation": "ฤดูร้อน",
       "example": "夏は海に行きたい。",
+      "pronunciation": "なつ",
       "exampleTranslation": "ฤดูร้อนอยากไปทะเล"
     },
     {
@@ -2822,20 +3084,23 @@
     },
     {
       "word": "夏目漱石",
-      "translation": "なつめそうせき: นัตสึเมะ โซเซกิ",
+      "translation": "นัตสึเมะ โซเซกิ",
       "example": "夏目漱石の小説を読んだ。",
+      "pronunciation": "なつめそうせき",
       "exampleTranslation": "อ่านนวนิยายของนัตสึเมะ โซเซกิ"
     },
     {
       "word": "並ぶ",
-      "translation": "ならぶ: เข้าแถว, เรียงกัน",
+      "translation": "เข้าแถว, เรียงกัน",
       "example": "店の前に人が並んでいる。",
+      "pronunciation": "ならぶ",
       "exampleTranslation": "มีคนเข้าแถวหน้าร้าน"
     },
     {
       "word": "並べる",
-      "translation": "ならべる: จัดเรียง, วางเรียง",
+      "translation": "จัดเรียง, วางเรียง",
       "example": "机の上に本を並べた。",
+      "pronunciation": "ならべる",
       "exampleTranslation": "วางหนังสือเรียงบนโต๊ะ"
     },
     {
@@ -2852,50 +3117,58 @@
     },
     {
       "word": "肉",
-      "translation": "にく: เนื้อ",
+      "translation": "เนื้อ",
       "example": "肉と野菜を買った。",
+      "pronunciation": "にく",
       "exampleTranslation": "ซื้อเนื้อกับผัก"
     },
     {
       "word": "2、3日",
-      "translation": "にさんにち: สองสามวัน",
+      "translation": "สองสามวัน",
       "example": "2、3日休みます。",
+      "pronunciation": "にさんにち",
       "exampleTranslation": "จะหยุดสองสามวัน"
     },
     {
       "word": "日時",
-      "translation": "にちじ: วันและเวลา",
+      "translation": "วันและเวลา",
       "example": "会議の日時を教えてください。",
+      "pronunciation": "にちじ",
       "exampleTranslation": "กรุณาบอกวันเวลาประชุม"
     },
     {
       "word": "似ている",
-      "translation": "にている: คล้าย, เหมือน",
+      "translation": "คล้าย, เหมือน",
       "example": "私は母に似ている。",
+      "pronunciation": "にている",
       "exampleTranslation": "ฉันหน้าเหมือนแม่"
     },
     {
       "word": "日本酒",
-      "translation": "にほんしゅ: สาเกญี่ปุ่น",
+      "translation": "สาเกญี่ปุ่น",
       "example": "日本酒を少し飲んだ。",
+      "pronunciation": "にほんしゅ",
       "exampleTranslation": "ดื่มสาเกญี่ปุ่นเล็กน้อย"
     },
     {
       "word": "入院（を）する",
-      "translation": "にゅういんする: เข้าโรงพยาบาล",
+      "translation": "เข้าโรงพยาบาล",
       "example": "祖父が入院した。",
+      "pronunciation": "にゅういんする",
       "exampleTranslation": "ปู่เข้าโรงพยาบาล"
     },
     {
       "word": "入学式",
-      "translation": "にゅうがくしき: พิธีเปิดภาคเรียน, พิธีรับนักเรียนใหม่",
+      "translation": "พิธีเปิดภาคเรียน, พิธีรับนักเรียนใหม่",
       "example": "4月に入学式がある。",
+      "pronunciation": "にゅうがくしき",
       "exampleTranslation": "เดือนเมษายนมีพิธีรับนักเรียนใหม่"
     },
     {
       "word": "入場料",
-      "translation": "にゅうじょうりょう: ค่าเข้าชม",
+      "translation": "ค่าเข้าชม",
       "example": "入場料は500円です。",
+      "pronunciation": "にゅうじょうりょう",
       "exampleTranslation": "ค่าเข้าชมห้าร้อยเยน"
     },
     {
@@ -2906,14 +3179,16 @@
     },
     {
       "word": "人気がある",
-      "translation": "にんきがある: เป็นที่นิยม",
+      "translation": "เป็นที่นิยม",
       "example": "この歌手は若い人に人気がある。",
+      "pronunciation": "にんきがある",
       "exampleTranslation": "นักร้องคนนี้เป็นที่นิยมในหมู่คนหนุ่มสาว"
     },
     {
       "word": "人形",
-      "translation": "にんぎょう: ตุ๊กตา",
+      "translation": "ตุ๊กตา",
       "example": "妹に人形をあげた。",
+      "pronunciation": "にんぎょう",
       "exampleTranslation": "ให้ตุ๊กตาน้องสาว"
     },
     {
@@ -2966,8 +3241,9 @@
     },
     {
       "word": "能力",
-      "translation": "のうりょく: ความสามารถ",
+      "translation": "ความสามารถ",
       "example": "日本語能力試験を受けた。",
+      "pronunciation": "のうりょく",
       "exampleTranslation": "สอบวัดระดับความสามารถภาษาญี่ปุ่น"
     },
     {
@@ -2996,20 +3272,23 @@
     },
     {
       "word": "（山に）登る",
-      "translation": "のぼる: ปีน, ขึ้น",
+      "translation": "ปีน, ขึ้น",
       "example": "日曜日に山に登った。",
+      "pronunciation": "のぼる",
       "exampleTranslation": "วันอาทิตย์ไปปีนเขา"
     },
     {
       "word": "飲み水",
-      "translation": "のみみず: น้ำดื่ม",
+      "translation": "น้ำดื่ม",
       "example": "ここの水は飲み水ではありません。",
+      "pronunciation": "のみみず",
       "exampleTranslation": "น้ำที่นี่ไม่ใช่น้ำดื่ม"
     },
     {
       "word": "歯",
-      "translation": "は: ฟัน",
+      "translation": "ฟัน",
       "example": "毎晩歯をみがく。",
+      "pronunciation": "は",
       "exampleTranslation": "แปรงฟันทุกคืน"
     },
     {
@@ -3020,8 +3299,9 @@
     },
     {
       "word": "歯医者",
-      "translation": "はいしゃ: หมอฟัน, คลินิกทันตกรรม",
+      "translation": "หมอฟัน, คลินิกทันตกรรม",
       "example": "歯が痛くて歯医者に行った。",
+      "pronunciation": "はいしゃ",
       "exampleTranslation": "ปวดฟันเลยไปหาหมอฟัน"
     },
     {
@@ -3038,14 +3318,16 @@
     },
     {
       "word": "運ぶ",
-      "translation": "はこぶ: ขน, ยก, นำส่ง",
+      "translation": "ขน, ยก, นำส่ง",
       "example": "荷物を部屋に運んだ。",
+      "pronunciation": "はこぶ",
       "exampleTranslation": "ขนกระเป๋าเข้าห้อง"
     },
     {
       "word": "橋",
-      "translation": "はし: สะพาน",
+      "translation": "สะพาน",
       "example": "川に新しい橋ができた。",
+      "pronunciation": "はし",
       "exampleTranslation": "มีสะพานใหม่ข้ามแม่น้ำ"
     },
     {
@@ -3056,14 +3338,16 @@
     },
     {
       "word": "始める",
-      "translation": "はじめる: เริ่ม",
+      "translation": "เริ่ม",
       "example": "来月からピアノを始める。",
+      "pronunciation": "はじめる",
       "exampleTranslation": "จะเริ่มเรียนเปียโนตั้งแต่เดือนหน้า"
     },
     {
       "word": "走る",
-      "translation": "はしる: วิ่ง",
+      "translation": "วิ่ง",
       "example": "毎朝公園を走っている。",
+      "pronunciation": "はしる",
       "exampleTranslation": "วิ่งในสวนทุกเช้า"
     },
     {
@@ -3080,20 +3364,23 @@
     },
     {
       "word": "発見（を）する",
-      "translation": "はっけんする: ค้นพบ",
+      "translation": "ค้นพบ",
       "example": "新しい星を発見した。",
+      "pronunciation": "はっけんする",
       "exampleTranslation": "ค้นพบดาวดวงใหม่"
     },
     {
       "word": "発表",
-      "translation": "はっぴょう: การนำเสนอ, การประกาศ",
+      "translation": "การนำเสนอ, การประกาศ",
       "example": "明日、授業で発表があります。",
+      "pronunciation": "はっぴょう",
       "exampleTranslation": "พรุ่งนี้มีนำเสนองานในชั้นเรียน"
     },
     {
       "word": "発明（を）する",
-      "translation": "はつめいする: ประดิษฐ์",
+      "translation": "ประดิษฐ์",
       "example": "ベルは電話を発明した。",
+      "pronunciation": "はつめいする",
       "exampleTranslation": "เบลล์ประดิษฐ์โทรศัพท์"
     },
     {
@@ -3104,14 +3391,16 @@
     },
     {
       "word": "お花",
-      "translation": "おはな: ดอกไม้",
+      "translation": "ดอกไม้",
       "example": "先生にお花をあげた。",
+      "pronunciation": "おはな",
       "exampleTranslation": "ให้ดอกไม้กับครู"
     },
     {
       "word": "花火",
-      "translation": "はなび: ดอกไม้ไฟ",
+      "translation": "ดอกไม้ไฟ",
       "example": "夏の夜に花火を見た。",
+      "pronunciation": "はなび",
       "exampleTranslation": "ดูดอกไม้ไฟในคืนฤดูร้อน"
     },
     {
@@ -3122,20 +3411,23 @@
     },
     {
       "word": "速い",
-      "translation": "はやい: เร็ว",
+      "translation": "เร็ว",
       "example": "新幹線はとても速い。",
+      "pronunciation": "はやい",
       "exampleTranslation": "รถไฟชินคันเซ็นเร็วมาก"
     },
     {
       "word": "早く",
-      "translation": "はやく: เร็ว ๆ, แต่เช้า",
+      "translation": "เร็ว ๆ, แต่เช้า",
       "example": "早く起きてください。",
+      "pronunciation": "はやく",
       "exampleTranslation": "ตื่นเร็ว ๆ หน่อย"
     },
     {
       "word": "（お金を）はらう",
-      "translation": "はらう: จ่าย",
+      "translation": "จ่าย",
       "example": "レジでお金をはらった。",
+      "pronunciation": "はらう",
       "exampleTranslation": "จ่ายเงินที่แคชเชียร์"
     },
     {
@@ -3164,14 +3456,16 @@
     },
     {
       "word": "～番",
-      "translation": "～ばん: หมายเลข..., ลำดับที่...",
+      "translation": "หมายเลข..., ลำดับที่...",
       "example": "3番のバスに乗ってください。",
+      "pronunciation": "～ばん",
       "exampleTranslation": "กรุณาขึ้นรถบัสสายสาม"
     },
     {
       "word": "番号",
-      "translation": "ばんごう: หมายเลข",
+      "translation": "หมายเลข",
       "example": "電話番号を教えてください。",
+      "pronunciation": "ばんごう",
       "exampleTranslation": "ขอเบอร์โทรศัพท์หน่อย"
     },
     {
@@ -3188,14 +3482,16 @@
     },
     {
       "word": "半分",
-      "translation": "はんぶん: ครึ่งหนึ่ง",
+      "translation": "ครึ่งหนึ่ง",
       "example": "ケーキを半分に切った。",
+      "pronunciation": "はんぶん",
       "exampleTranslation": "ตัดเค้กเป็นสองส่วน"
     },
     {
       "word": "火",
-      "translation": "ひ: ไฟ",
+      "translation": "ไฟ",
       "example": "火に気をつけてください。",
+      "pronunciation": "ひ",
       "exampleTranslation": "ระวังไฟด้วย"
     },
     {
@@ -3206,14 +3502,16 @@
     },
     {
       "word": "冷える",
-      "translation": "ひえる: เย็นลง, เย็นเจี๊ยบ",
+      "translation": "เย็นลง, เย็นเจี๊ยบ",
       "example": "冷えたビールがおいしい。",
+      "pronunciation": "ひえる",
       "exampleTranslation": "เบียร์เย็น ๆ อร่อย"
     },
     {
       "word": "引き出し",
-      "translation": "ひきだし: ลิ้นชัก",
+      "translation": "ลิ้นชัก",
       "example": "ペンは引き出しに入っている。",
+      "pronunciation": "ひきだし",
       "exampleTranslation": "ปากกาอยู่ในลิ้นชัก"
     },
     {
@@ -3224,8 +3522,9 @@
     },
     {
       "word": "（いすが）低い",
-      "translation": "ひくい: ต่ำ, เตี้ย",
+      "translation": "ต่ำ, เตี้ย",
       "example": "このいすは低い。",
+      "pronunciation": "ひくい",
       "exampleTranslation": "เก้าอี้ตัวนี้เตี้ย"
     },
     {
@@ -3254,8 +3553,9 @@
     },
     {
       "word": "必要",
-      "translation": "ひつよう: ความจำเป็น, จำเป็น",
+      "translation": "ความจำเป็น, จำเป็น",
       "example": "パスポートが必要です。",
+      "pronunciation": "ひつよう",
       "exampleTranslation": "ต้องใช้หนังสือเดินทาง"
     },
     {
@@ -3272,20 +3572,23 @@
     },
     {
       "word": "冷やす",
-      "translation": "ひやす: ทำให้เย็น, แช่เย็น",
+      "translation": "ทำให้เย็น, แช่เย็น",
       "example": "ジュースを冷やしておいた。",
+      "pronunciation": "ひやす",
       "exampleTranslation": "แช่น้ำผลไม้ให้เย็นไว้"
     },
     {
       "word": "（パーティーを）開く",
-      "translation": "ひらく: จัด, เปิด",
+      "translation": "จัด, เปิด",
       "example": "誕生日パーティーを開いた。",
+      "pronunciation": "ひらく",
       "exampleTranslation": "จัดงานวันเกิด"
     },
     {
       "word": "広場",
-      "translation": "ひろば: ลาน, จัตุรัส",
+      "translation": "ลาน, จัตุรัส",
       "example": "駅前の広場で待ち合わせた。",
+      "pronunciation": "ひろば",
       "exampleTranslation": "นัดเจอกันที่ลานหน้าสถานี"
     },
     {
@@ -3314,8 +3617,9 @@
     },
     {
       "word": "（風が）ふく",
-      "translation": "ふく: พัด",
+      "translation": "พัด",
       "example": "冷たい風がふいている。",
+      "pronunciation": "ふく",
       "exampleTranslation": "ลมเย็นพัดอยู่"
     },
     {
@@ -3326,14 +3630,16 @@
     },
     {
       "word": "復習（を）する",
-      "translation": "ふくしゅうする: ทบทวนบทเรียน",
+      "translation": "ทบทวนบทเรียน",
       "example": "家で授業を復習した。",
+      "pronunciation": "ふくしゅうする",
       "exampleTranslation": "ทบทวนบทเรียนที่บ้าน"
     },
     {
       "word": "部長",
-      "translation": "ぶちょう: ผู้จัดการฝ่าย",
+      "translation": "ผู้จัดการฝ่าย",
       "example": "部長は会議中です。",
+      "pronunciation": "ぶちょう",
       "exampleTranslation": "ผู้จัดการฝ่ายกำลังประชุม"
     },
     {
@@ -3350,8 +3656,9 @@
     },
     {
       "word": "不便",
-      "translation": "ふべん: ไม่สะดวก",
+      "translation": "ไม่สะดวก",
       "example": "この町は交通が不便だ。",
+      "pronunciation": "ふべん",
       "exampleTranslation": "เมืองนี้การเดินทางไม่สะดวก"
     },
     {
@@ -3374,8 +3681,9 @@
     },
     {
       "word": "フランス語",
-      "translation": "フランスご: ภาษาฝรั่งเศส",
+      "translation": "ภาษาฝรั่งเศส",
       "example": "大学でフランス語を習った。",
+      "pronunciation": "フランスご",
       "exampleTranslation": "เรียนภาษาฝรั่งเศสที่มหาวิทยาลัย"
     },
     {
@@ -3398,20 +3706,23 @@
     },
     {
       "word": "文",
-      "translation": "ぶん: ประโยค",
+      "translation": "ประโยค",
       "example": "この文を読んでください。",
+      "pronunciation": "ぶん",
       "exampleTranslation": "กรุณาอ่านประโยคนี้"
     },
     {
       "word": "文化",
-      "translation": "ぶんか: วัฒนธรรม",
+      "translation": "วัฒนธรรม",
       "example": "日本の文化に興味がある。",
+      "pronunciation": "ぶんか",
       "exampleTranslation": "สนใจวัฒนธรรมญี่ปุ่น"
     },
     {
       "word": "文法",
-      "translation": "ぶんぽう: ไวยากรณ์",
+      "translation": "ไวยากรณ์",
       "example": "日本語の文法は難しい。",
+      "pronunciation": "ぶんぽう",
       "exampleTranslation": "ไวยากรณ์ภาษาญี่ปุ่นยาก"
     },
     {
@@ -3428,8 +3739,9 @@
     },
     {
       "word": "返事",
-      "translation": "へんじ: คำตอบ, การตอบกลับ",
+      "translation": "คำตอบ, การตอบกลับ",
       "example": "メールの返事が来ない。",
+      "pronunciation": "へんじ",
       "exampleTranslation": "อีเมลยังไม่มีคำตอบ"
     },
     {
@@ -3524,8 +3836,9 @@
     },
     {
       "word": "本日",
-      "translation": "ほんじつ: วันนี้",
+      "translation": "วันนี้",
       "example": "本日は休みです。",
+      "pronunciation": "ほんじつ",
       "exampleTranslation": "วันนี้ปิดทำการ"
     },
     {
@@ -3542,26 +3855,30 @@
     },
     {
       "word": "毎年",
-      "translation": "まいとし: ทุกปี",
+      "translation": "ทุกปี",
       "example": "毎年夏に海へ行く。",
+      "pronunciation": "まいとし",
       "exampleTranslation": "ทุกปีไปทะเลช่วงฤดูร้อน"
     },
     {
       "word": "前から",
-      "translation": "まえから: ตั้งแต่ก่อนหน้านี้, มานานแล้ว",
+      "translation": "ตั้งแต่ก่อนหน้านี้, มานานแล้ว",
       "example": "前から日本に来たかった。",
+      "pronunciation": "まえから",
       "exampleTranslation": "อยากมาญี่ปุ่นมานานแล้ว"
     },
     {
       "word": "（右に/角を）曲がる",
-      "translation": "まがる: เลี้ยว",
+      "translation": "เลี้ยว",
       "example": "次の角を右に曲がってください。",
+      "pronunciation": "まがる",
       "exampleTranslation": "กรุณาเลี้ยวขวาที่หัวมุมถัดไป"
     },
     {
       "word": "負ける",
-      "translation": "まける: แพ้",
+      "translation": "แพ้",
       "example": "試合に負けてしまった。",
+      "pronunciation": "まける",
       "exampleTranslation": "แพ้การแข่งขัน"
     },
     {
@@ -3578,8 +3895,9 @@
     },
     {
       "word": "混ぜる",
-      "translation": "まぜる: ผสม, คน",
+      "translation": "ผสม, คน",
       "example": "卵と砂糖を混ぜた。",
+      "pronunciation": "まぜる",
       "exampleTranslation": "ผสมไข่กับน้ำตาล"
     },
     {
@@ -3596,14 +3914,16 @@
     },
     {
       "word": "学ぶ",
-      "translation": "まなぶ: เรียน, ศึกษา",
+      "translation": "เรียน, ศึกษา",
       "example": "大学で経済を学んでいる。",
+      "pronunciation": "まなぶ",
       "exampleTranslation": "เรียนเศรษฐศาสตร์ที่มหาวิทยาลัย"
     },
     {
       "word": "間に合う",
-      "translation": "まにあう: ทันเวลา",
+      "translation": "ทันเวลา",
       "example": "走ったので電車に間に合った。",
+      "pronunciation": "まにあう",
       "exampleTranslation": "วิ่งไปเลยทันรถไฟ"
     },
     {
@@ -3620,8 +3940,9 @@
     },
     {
       "word": "回す",
-      "translation": "まわす: หมุน, ส่งต่อ",
+      "translation": "หมุน, ส่งต่อ",
       "example": "かぎを右に回してください。",
+      "pronunciation": "まわす",
       "exampleTranslation": "กรุณาหมุนกุญแจไปทางขวา"
     },
     {
@@ -3632,20 +3953,23 @@
     },
     {
       "word": "回る",
-      "translation": "まわる: หมุน, วนรอบ, ตระเวน",
+      "translation": "หมุน, วนรอบ, ตระเวน",
       "example": "地球は太陽のまわりを回っている。",
+      "pronunciation": "まわる",
       "exampleTranslation": "โลกหมุนรอบดวงอาทิตย์"
     },
     {
       "word": "見える",
-      "translation": "みえる: มองเห็น",
+      "translation": "มองเห็น",
       "example": "窓から海が見える。",
+      "pronunciation": "みえる",
       "exampleTranslation": "มองเห็นทะเลจากหน้าต่าง"
     },
     {
       "word": "（歯を）みがく",
-      "translation": "みがく: แปรง, ขัด",
+      "translation": "แปรง, ขัด",
       "example": "食べた後で歯をみがく。",
+      "pronunciation": "みがく",
       "exampleTranslation": "แปรงฟันหลังกินข้าว"
     },
     {
@@ -3656,20 +3980,23 @@
     },
     {
       "word": "湖",
-      "translation": "みずうみ: ทะเลสาบ",
+      "translation": "ทะเลสาบ",
       "example": "湖でボートに乗った。",
+      "pronunciation": "みずうみ",
       "exampleTranslation": "นั่งเรือในทะเลสาบ"
     },
     {
       "word": "見つかる",
-      "translation": "みつかる: หาเจอ, ถูกพบ",
+      "translation": "หาเจอ, ถูกพบ",
       "example": "なくしたかぎが見つかった。",
+      "pronunciation": "みつかる",
       "exampleTranslation": "เจอกุญแจที่หายแล้ว"
     },
     {
       "word": "見つける",
-      "translation": "みつける: ค้นพบ, หาเจอ",
+      "translation": "ค้นพบ, หาเจอ",
       "example": "いいアルバイトを見つけた。",
+      "pronunciation": "みつける",
       "exampleTranslation": "หางานพาร์ทไทม์ดี ๆ เจอแล้ว"
     },
     {
@@ -3692,14 +4019,16 @@
     },
     {
       "word": "むかえに行く",
-      "translation": "むかえにいく: ไปรับ",
+      "translation": "ไปรับ",
       "example": "駅まで母をむかえに行った。",
+      "pronunciation": "むかえにいく",
       "exampleTranslation": "ไปรับแม่ที่สถานี"
     },
     {
       "word": "昔",
-      "translation": "むかし: สมัยก่อน, อดีต",
+      "translation": "สมัยก่อน, อดีต",
       "example": "昔、この町に住んでいた。",
+      "pronunciation": "むかし",
       "exampleTranslation": "สมัยก่อนเคยอยู่เมืองนี้"
     },
     {
@@ -3710,8 +4039,9 @@
     },
     {
       "word": "難しい",
-      "translation": "むずかしい: ยาก",
+      "translation": "ยาก",
       "example": "この問題は難しい。",
+      "pronunciation": "むずかしい",
       "exampleTranslation": "โจทย์ข้อนี้ยาก"
     },
     {
@@ -3728,8 +4058,9 @@
     },
     {
       "word": "～名",
-      "translation": "～めい: ...ท่าน, ...คน",
+      "translation": "...ท่าน, ...คน",
       "example": "参加者は20名です。",
+      "pronunciation": "～めい",
       "exampleTranslation": "มีผู้เข้าร่วมยี่สิบท่าน"
     },
     {
@@ -3752,8 +4083,9 @@
     },
     {
       "word": "目が悪い",
-      "translation": "めがわるい: สายตาไม่ดี",
+      "translation": "สายตาไม่ดี",
       "example": "目が悪いのでめがねをかけている。",
+      "pronunciation": "めがわるい",
       "exampleTranslation": "สายตาไม่ดีเลยใส่แว่น"
     },
     {
@@ -3782,8 +4114,9 @@
     },
     {
       "word": "面接官",
-      "translation": "めんせつかん: ผู้สัมภาษณ์",
+      "translation": "ผู้สัมภาษณ์",
       "example": "面接官の質問に答えた。",
+      "pronunciation": "めんせつかん",
       "exampleTranslation": "ตอบคำถามของผู้สัมภาษณ์"
     },
     {
@@ -3794,26 +4127,30 @@
     },
     {
       "word": "申し込み",
-      "translation": "もうしこみ: การสมัคร",
+      "translation": "การสมัคร",
       "example": "申し込みは金曜日までです。",
+      "pronunciation": "もうしこみ",
       "exampleTranslation": "รับสมัครถึงวันศุกร์"
     },
     {
       "word": "申込書",
-      "translation": "もうしこみしょ: ใบสมัคร",
+      "translation": "ใบสมัคร",
       "example": "申込書に名前を書いた。",
+      "pronunciation": "もうしこみしょ",
       "exampleTranslation": "เขียนชื่อในใบสมัคร"
     },
     {
       "word": "申し込む",
-      "translation": "もうしこむ: สมัคร, ยื่นขอ",
+      "translation": "สมัคร, ยื่นขอ",
       "example": "日本語のクラスに申し込んだ。",
+      "pronunciation": "もうしこむ",
       "exampleTranslation": "สมัครเรียนชั้นภาษาญี่ปุ่น"
     },
     {
       "word": "申し訳ございません",
-      "translation": "もうしわけございません: ต้องขออภัยอย่างยิ่ง",
+      "translation": "ต้องขออภัยอย่างยิ่ง",
       "example": "お待たせして申し訳ございません。",
+      "pronunciation": "もうしわけございません",
       "exampleTranslation": "ต้องขออภัยที่ให้รอ"
     },
     {
@@ -3842,14 +4179,16 @@
     },
     {
       "word": "持っていく",
-      "translation": "もっていく: นำไป, พกไป",
+      "translation": "นำไป, พกไป",
       "example": "かさを持っていってください。",
+      "pronunciation": "もっていく",
       "exampleTranslation": "เอาร่มไปด้วยนะ"
     },
     {
       "word": "約～",
-      "translation": "やく～: ประมาณ...",
+      "translation": "ประมาณ...",
       "example": "駅まで約10分です。",
+      "pronunciation": "やく～",
       "exampleTranslation": "ไปสถานีประมาณสิบนาที"
     },
     {
@@ -3872,8 +4211,9 @@
     },
     {
       "word": "役に立つ",
-      "translation": "やくにたつ: มีประโยชน์",
+      "translation": "มีประโยชน์",
       "example": "この本はとても役に立つ。",
+      "pronunciation": "やくにたつ",
       "exampleTranslation": "หนังสือเล่มนี้มีประโยชน์มาก"
     },
     {
@@ -3890,20 +4230,23 @@
     },
     {
       "word": "休み",
-      "translation": "やすみ: วันหยุด, การพัก",
+      "translation": "วันหยุด, การพัก",
       "example": "明日は休みです。",
+      "pronunciation": "やすみ",
       "exampleTranslation": "พรุ่งนี้เป็นวันหยุด"
     },
     {
       "word": "休みの日",
-      "translation": "やすみのひ: วันหยุด",
+      "translation": "วันหยุด",
       "example": "休みの日は家でゆっくりする。",
+      "pronunciation": "やすみのひ",
       "exampleTranslation": "วันหยุดพักผ่อนที่บ้าน"
     },
     {
       "word": "屋台",
-      "translation": "やたい: แผงลอย, ร้านรถเข็น",
+      "translation": "แผงลอย, ร้านรถเข็น",
       "example": "お祭りで屋台のやきそばを食べた。",
+      "pronunciation": "やたい",
       "exampleTranslation": "กินยากิโซบะจากแผงลอยในงานเทศกาล"
     },
     {
@@ -3920,8 +4263,9 @@
     },
     {
       "word": "山登り",
-      "translation": "やまのぼり: การปีนเขา",
+      "translation": "การปีนเขา",
       "example": "趣味は山登りです。",
+      "pronunciation": "やまのぼり",
       "exampleTranslation": "งานอดิเรกคือการปีนเขา"
     },
     {
@@ -3938,8 +4282,9 @@
     },
     {
       "word": "遊園地",
-      "translation": "ゆうえんち: สวนสนุก",
+      "translation": "สวนสนุก",
       "example": "子どもと遊園地に行った。",
+      "pronunciation": "ゆうえんち",
       "exampleTranslation": "ไปสวนสนุกกับลูก"
     },
     {
@@ -3956,20 +4301,23 @@
     },
     {
       "word": "夕飯",
-      "translation": "ゆうはん: อาหารเย็น",
+      "translation": "อาหารเย็น",
       "example": "夕飯にカレーを作った。",
+      "pronunciation": "ゆうはん",
       "exampleTranslation": "ทำแกงกะหรี่เป็นมื้อเย็น"
     },
     {
       "word": "郵便局",
-      "translation": "ゆうびんきょく: ที่ทำการไปรษณีย์",
+      "translation": "ที่ทำการไปรษณีย์",
       "example": "郵便局で切手を買った。",
+      "pronunciation": "ゆうびんきょく",
       "exampleTranslation": "ซื้อแสตมป์ที่ไปรษณีย์"
     },
     {
       "word": "有名人",
-      "translation": "ゆうめいじん: คนดัง, คนมีชื่อเสียง",
+      "translation": "คนดัง, คนมีชื่อเสียง",
       "example": "駅で有名人を見た。",
+      "pronunciation": "ゆうめいじん",
       "exampleTranslation": "เห็นคนดังที่สถานี"
     },
     {
@@ -3980,8 +4328,9 @@
     },
     {
       "word": "雪まつり",
-      "translation": "ゆきまつり: เทศกาลหิมะ",
+      "translation": "เทศกาลหิมะ",
       "example": "札幌の雪まつりに行った。",
+      "pronunciation": "ゆきまつり",
       "exampleTranslation": "ไปเทศกาลหิมะที่ซัปโปโร"
     },
     {
@@ -4010,32 +4359,37 @@
     },
     {
       "word": "～用",
-      "translation": "～よう: สำหรับ...",
+      "translation": "สำหรับ...",
       "example": "これは子ども用のいすです。",
+      "pronunciation": "～よう",
       "exampleTranslation": "นี่เป็นเก้าอี้สำหรับเด็ก"
     },
     {
       "word": "用紙",
-      "translation": "ようし: แบบฟอร์ม, กระดาษสำหรับเขียน",
+      "translation": "แบบฟอร์ม, กระดาษสำหรับเขียน",
       "example": "この用紙に記入してください。",
+      "pronunciation": "ようし",
       "exampleTranslation": "กรุณากรอกแบบฟอร์มนี้"
     },
     {
       "word": "用事",
-      "translation": "ようじ: ธุระ",
+      "translation": "ธุระ",
       "example": "今日は用事があって行けない。",
+      "pronunciation": "ようじ",
       "exampleTranslation": "วันนี้มีธุระไปไม่ได้"
     },
     {
       "word": "洋室",
-      "translation": "ようしつ: ห้องแบบตะวันตก",
+      "translation": "ห้องแบบตะวันตก",
       "example": "洋室にはベッドがある。",
+      "pronunciation": "ようしつ",
       "exampleTranslation": "ห้องแบบตะวันตกมีเตียง"
     },
     {
       "word": "（病気が）よくなる",
-      "translation": "よくなる: ดีขึ้น, หายป่วย",
+      "translation": "ดีขึ้น, หายป่วย",
       "example": "かぜがよくなった。",
+      "pronunciation": "よくなる",
       "exampleTranslation": "หวัดดีขึ้นแล้ว"
     },
     {
@@ -4052,8 +4406,9 @@
     },
     {
       "word": "よてい表",
-      "translation": "よていひょう: ตารางกำหนดการ",
+      "translation": "ตารางกำหนดการ",
       "example": "旅行のよてい表を作った。",
+      "pronunciation": "よていひょう",
       "exampleTranslation": "ทำตารางกำหนดการเดินทาง"
     },
     {
@@ -4088,20 +4443,23 @@
     },
     {
       "word": "弱い",
-      "translation": "よわい: อ่อนแอ, อ่อน",
+      "translation": "อ่อนแอ, อ่อน",
       "example": "私は寒さに弱い。",
+      "pronunciation": "よわい",
       "exampleTranslation": "ฉันไม่ทนหนาว"
     },
     {
       "word": "ラーメン屋",
-      "translation": "ラーメンや: ร้านราเม็ง",
+      "translation": "ร้านราเม็ง",
       "example": "駅前のラーメン屋はおいしい。",
+      "pronunciation": "ラーメンや",
       "exampleTranslation": "ร้านราเม็งหน้าสถานีอร่อย"
     },
     {
       "word": "楽",
-      "translation": "らく: สบาย, ง่าย",
+      "translation": "สบาย, ง่าย",
       "example": "この仕事は楽だ。",
+      "pronunciation": "らく",
       "exampleTranslation": "งานนี้สบาย"
     },
     {
@@ -4130,20 +4488,23 @@
     },
     {
       "word": "留学",
-      "translation": "りゅうがく: การไปเรียนต่างประเทศ",
+      "translation": "การไปเรียนต่างประเทศ",
       "example": "留学の準備をしている。",
+      "pronunciation": "りゅうがく",
       "exampleTranslation": "กำลังเตรียมตัวไปเรียนต่างประเทศ"
     },
     {
       "word": "留学（を）する",
-      "translation": "りゅうがくする: ไปเรียนต่างประเทศ",
+      "translation": "ไปเรียนต่างประเทศ",
       "example": "来年日本に留学する。",
+      "pronunciation": "りゅうがくする",
       "exampleTranslation": "ปีหน้าจะไปเรียนที่ญี่ปุ่น"
     },
     {
       "word": "留学生",
-      "translation": "りゅうがくせい: นักเรียนต่างชาติ",
+      "translation": "นักเรียนต่างชาติ",
       "example": "この大学は留学生が多い。",
+      "pronunciation": "りゅうがくせい",
       "exampleTranslation": "มหาวิทยาลัยนี้มีนักเรียนต่างชาติเยอะ"
     },
     {
@@ -4154,20 +4515,23 @@
     },
     {
       "word": "量",
-      "translation": "りょう: ปริมาณ",
+      "translation": "ปริมาณ",
       "example": "この店は料理の量が多い。",
+      "pronunciation": "りょう",
       "exampleTranslation": "ร้านนี้ให้อาหารปริมาณเยอะ"
     },
     {
       "word": "利用（を）する",
-      "translation": "りようする: ใช้, ใช้บริการ",
+      "translation": "ใช้, ใช้บริการ",
       "example": "図書館を利用する。",
+      "pronunciation": "りようする",
       "exampleTranslation": "ใช้บริการห้องสมุด"
     },
     {
       "word": "旅館",
-      "translation": "りょかん: เรียวกัง, โรงแรมแบบญี่ปุ่น",
+      "translation": "เรียวกัง, โรงแรมแบบญี่ปุ่น",
       "example": "温泉の旅館に泊まった。",
+      "pronunciation": "りょかん",
       "exampleTranslation": "พักเรียวกังที่มีออนเซ็น"
     },
     {
@@ -4184,8 +4548,9 @@
     },
     {
       "word": "留守電",
-      "translation": "るすでん: ข้อความฝากในโทรศัพท์, เครื่องตอบรับ",
+      "translation": "ข้อความฝากในโทรศัพท์, เครื่องตอบรับ",
       "example": "留守電にメッセージを入れた。",
+      "pronunciation": "るすでん",
       "exampleTranslation": "ฝากข้อความไว้ในเครื่องตอบรับ"
     },
     {
@@ -4232,56 +4597,65 @@
     },
     {
       "word": "若い人",
-      "translation": "わかいひと: คนหนุ่มสาว",
+      "translation": "คนหนุ่มสาว",
       "example": "この店は若い人に人気がある。",
+      "pronunciation": "わかいひと",
       "exampleTranslation": "ร้านนี้เป็นที่นิยมในหมู่คนหนุ่มสาว"
     },
     {
       "word": "（お湯を）わかす",
-      "translation": "わかす: ต้มให้เดือด",
+      "translation": "ต้มให้เดือด",
       "example": "お湯をわかしてお茶を入れた。",
+      "pronunciation": "わかす",
       "exampleTranslation": "ต้มน้ำร้อนชงชา"
     },
     {
       "word": "（お湯が）わく",
-      "translation": "わく: เดือด",
+      "translation": "เดือด",
       "example": "お湯がわいた。",
+      "pronunciation": "わく",
       "exampleTranslation": "น้ำเดือดแล้ว"
     },
     {
       "word": "分ける",
-      "translation": "わける: แบ่ง, แยก",
+      "translation": "แบ่ง, แยก",
       "example": "ケーキを4つに分けた。",
+      "pronunciation": "わける",
       "exampleTranslation": "แบ่งเค้กเป็นสี่ชิ้น"
     },
     {
       "word": "和室",
-      "translation": "わしつ: ห้องแบบญี่ปุ่น",
+      "translation": "ห้องแบบญี่ปุ่น",
       "example": "和室でお茶を飲んだ。",
+      "pronunciation": "わしつ",
       "exampleTranslation": "ดื่มชาในห้องแบบญี่ปุ่น"
     },
     {
       "word": "忘れ物",
-      "translation": "わすれもの: ของที่ลืมไว้",
+      "translation": "ของที่ลืมไว้",
       "example": "電車に忘れ物をした。",
+      "pronunciation": "わすれもの",
       "exampleTranslation": "ลืมของไว้บนรถไฟ"
     },
     {
       "word": "（物を）渡す",
-      "translation": "わたす: ยื่นให้, ส่งให้",
+      "translation": "ยื่นให้, ส่งให้",
       "example": "先生にレポートを渡した。",
+      "pronunciation": "わたす",
       "exampleTranslation": "ยื่นรายงานให้ครู"
     },
     {
       "word": "（橋/道を）渡る",
-      "translation": "わたる: ข้าม",
+      "translation": "ข้าม",
       "example": "道を渡る時は気をつけて。",
+      "pronunciation": "わたる",
       "exampleTranslation": "ระวังตอนข้ามถนนนะ"
     },
     {
       "word": "笑う",
-      "translation": "わらう: หัวเราะ, ยิ้ม",
+      "translation": "หัวเราะ, ยิ้ม",
       "example": "みんなが大きな声で笑った。",
+      "pronunciation": "わらう",
       "exampleTranslation": "ทุกคนหัวเราะเสียงดัง"
     },
     {
