@@ -4,7 +4,7 @@
   "learn": "ja",
   "native": "th",
   "level": "N2",
-  "version": 39,
+  "version": 40,
   "items": [
     {
       "word": "お知らせ",
@@ -2128,7 +2128,7 @@
     },
     {
       "word": "(電話が)つながる",
-      "translation": "ติดต่อได้, โทรติด, เชื่อมต่อ",
+      "translation": "โทรติด, ติดต่อได้",
       "example": "電話がなかなかつながらない。",
       "pronunciation": "つながる",
       "exampleTranslation": "โทรศัพท์โทรไม่ค่อยติด"
@@ -2440,7 +2440,7 @@
     },
     {
       "word": "(アイデアが)浮かぶ",
-      "translation": "นึกออก, ผุดขึ้นมา, ลอย",
+      "translation": "นึกออก, ผุดขึ้นมา",
       "example": "いいアイデアが浮かんだ。",
       "pronunciation": "うかぶ",
       "exampleTranslation": "นึกไอเดียดี ๆ ออกแล้ว"
@@ -2601,7 +2601,7 @@
     },
     {
       "word": "面倒（な）",
-      "translation": "ยุ่งยาก, น่ารำคาญ, การดูแล",
+      "translation": "ยุ่งยาก, น่ารำคาญ",
       "example": "料理は面倒だけど楽しい。",
       "pronunciation": "めんどう",
       "exampleTranslation": "ทำอาหารยุ่งยากแต่สนุก"
@@ -2893,7 +2893,7 @@
     },
     {
       "word": "高度（な）",
-      "translation": "ระดับสูง, ขั้นสูง, ความสูง",
+      "translation": "ระดับสูง, ขั้นสูง",
       "example": "この仕事には高度な技術が必要だ。",
       "pronunciation": "こうど",
       "exampleTranslation": "งานนี้ต้องใช้เทคนิคขั้นสูง"
@@ -5169,7 +5169,7 @@
     },
     {
       "word": "(メンバーから)外す",
-      "translation": "เอาออก, ตัดออก, ถอด",
+      "translation": "เอาออก, ตัดออก",
       "example": "彼は試合のメンバーから外された。",
       "pronunciation": "はずす",
       "exampleTranslation": "เขาถูกตัดชื่อออกจากผู้เล่นในนัดนี้"
@@ -5843,7 +5843,7 @@
     },
     {
       "word": "余計（な）",
-      "translation": "เกินจำเป็น, ไม่จำเป็น, ยิ่งกว่าเดิม",
+      "translation": "เกินจำเป็น, ไม่จำเป็น",
       "example": "余計なことを言わないで。",
       "pronunciation": "よけい",
       "exampleTranslation": "อย่าพูดเรื่องที่ไม่จำเป็น"
@@ -6772,7 +6772,7 @@
     },
     {
       "word": "(家族を)亡くす",
-      "translation": "สูญเสียคนในครอบครัว, เสียชีวิตจากไป",
+      "translation": "สูญเสียคนในครอบครัว",
       "example": "彼は去年父親を亡くした。",
       "pronunciation": "なくす",
       "exampleTranslation": "เขาเสียพ่อไปเมื่อปีที่แล้ว"

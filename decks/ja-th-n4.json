@@ -4,7 +4,7 @@
   "learn": "ja",
   "native": "th",
   "level": "N4",
-  "version": 39,
+  "version": 40,
   "items": [
     {
       "word": "あいさつ",
@@ -746,7 +746,7 @@
     },
     {
       "word": "(かぎが)かかる",
-      "translation": "ล็อกอยู่, ใช้เวลา, เสียเงิน",
+      "translation": "ล็อก, ล็อกอยู่",
       "example": "ドアにかぎがかかっている。",
       "exampleTranslation": "ประตูล็อกอยู่"
     },
@@ -906,7 +906,7 @@
     },
     {
       "word": "(動物が)かむ",
-      "translation": "กัด, เคี้ยว",
+      "translation": "กัด",
       "example": "犬に手をかまれた。",
       "pronunciation": "かむ",
       "exampleTranslation": "ถูกสุนัขกัดมือ"
@@ -2465,7 +2465,7 @@
     },
     {
       "word": "(服をクリーニングに)出す",
-      "translation": "ส่ง, เอาออก, ส่งไปซัก",
+      "translation": "ส่งไปซัก",
       "example": "服をクリーニングに出した。",
       "pronunciation": "だす",
       "exampleTranslation": "ส่งเสื้อผ้าไปซักแห้ง"
@@ -2705,7 +2705,7 @@
     },
     {
       "word": "(電気が)つく",
-      "translation": "เปิด, ติด",
+      "translation": "ติด, สว่าง",
       "example": "部屋の電気がついている。",
       "pronunciation": "つく",
       "exampleTranslation": "ไฟในห้องเปิดอยู่"
@@ -3516,7 +3516,7 @@
     },
     {
       "word": "(かぜを)ひく",
-      "translation": "เป็นหวัด, ดึง",
+      "translation": "เป็นหวัด",
       "example": "かぜをひいてしまった。",
       "exampleTranslation": "เป็นหวัดเสียแล้ว"
     },
@@ -3579,7 +3579,7 @@
     },
     {
       "word": "(パーティーを)開く",
-      "translation": "จัด, เปิด",
+      "translation": "จัด",
       "example": "誕生日パーティーを開いた。",
       "pronunciation": "ひらく",
       "exampleTranslation": "จัดงานวันเกิด"
@@ -3967,7 +3967,7 @@
     },
     {
       "word": "(歯を)みがく",
-      "translation": "แปรง, ขัด",
+      "translation": "แปรง",
       "example": "食べた後で歯をみがく。",
       "pronunciation": "みがく",
       "exampleTranslation": "แปรงฟันหลังกินข้าว"

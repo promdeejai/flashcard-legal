@@ -4,7 +4,7 @@
   "learn": "ja",
   "native": "th",
   "level": "N3",
-  "version": 39,
+  "version": 40,
   "items": [
     {
       "word": "IOC",
@@ -135,7 +135,7 @@
     },
     {
       "word": "(賞品が)当たる",
-      "translation": "ถูกรางวัล, โดน, ถูก",
+      "translation": "ถูกรางวัล, ได้รางวัล",
       "example": "くじで旅行が当たった。",
       "pronunciation": "あたる",
       "exampleTranslation": "จับฉลากได้รางวัลเที่ยว"
@@ -502,7 +502,7 @@
     },
     {
       "word": "(空気が)薄い",
-      "translation": "เบาบาง, บาง, จาง",
+      "translation": "เบาบาง, เจือจาง",
       "example": "山の上は空気が薄い。",
       "pronunciation": "うすい",
       "exampleTranslation": "บนภูเขาอากาศเบาบาง"
@@ -719,7 +719,7 @@
     },
     {
       "word": "(傷を)負う",
-      "translation": "ได้รับบาดเจ็บ, แบกรับ",
+      "translation": "ได้รับบาดเจ็บ",
       "example": "事故で大きな傷を負った。",
       "pronunciation": "おう",
       "exampleTranslation": "ได้รับบาดเจ็บสาหัสจากอุบัติเหตุ"
@@ -1642,7 +1642,7 @@
     },
     {
       "word": "(角度が)急な",
-      "translation": "ชัน, ลาดชัน, กะทันหัน",
+      "translation": "ชัน, ลาดชัน",
       "example": "急な坂を上った。",
       "pronunciation": "きゅうな",
       "exampleTranslation": "เดินขึ้นเนินที่ชัน"
@@ -2594,7 +2594,7 @@
     },
     {
       "word": "(虫が)刺す",
-      "translation": "ต่อย, กัด, แทง",
+      "translation": "ต่อย, กัด",
       "example": "はちに刺された。",
       "pronunciation": "さす",
       "exampleTranslation": "ถูกผึ้งต่อย"
@@ -5680,7 +5680,7 @@
     },
     {
       "word": "(手を)離す",
-      "translation": "ปล่อย, แยกออก",
+      "translation": "ปล่อย",
       "example": "子どもの手を離さないでください。",
       "pronunciation": "はなす",
       "exampleTranslation": "อย่าปล่อยมือเด็กนะ"
@@ -7115,7 +7115,7 @@
     },
     {
       "word": "(雨が)やむ",
-      "translation": "หยุดตก, ลมสงบ, หยุด",
+      "translation": "หยุดตก",
       "example": "雨がやんだら出かけよう。",
       "pronunciation": "やむ",
       "exampleTranslation": "ฝนหยุดแล้วค่อยออกไปกัน"
