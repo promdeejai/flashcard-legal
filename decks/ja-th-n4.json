@@ -4,7 +4,7 @@
   "learn": "ja",
   "native": "th",
   "level": "N4",
-  "version": 38,
+  "version": 39,
   "items": [
     {
       "word": "あいさつ",
@@ -745,7 +745,7 @@
       "exampleTranslation": "ถ้าไม่เข้าใจกรุณาถามเจ้าหน้าที่"
     },
     {
-      "word": "（かぎが）かかる",
+      "word": "(かぎが)かかる",
       "translation": "ล็อกอยู่, ใช้เวลา, เสียเงิน",
       "example": "ドアにかぎがかかっている。",
       "exampleTranslation": "ประตูล็อกอยู่"
@@ -905,7 +905,7 @@
       "exampleTranslation": "ตัดผมสั้น"
     },
     {
-      "word": "（動物が）かむ",
+      "word": "(動物が)かむ",
       "translation": "กัด, เคี้ยว",
       "example": "犬に手をかまれた。",
       "pronunciation": "かむ",
@@ -944,7 +944,7 @@
       "exampleTranslation": "กินข้าวแกงกะหรี่เป็นมื้อกลางวัน"
     },
     {
-      "word": "（食べ物の）かわ",
+      "word": "(食べ物の)かわ",
       "translation": "เปลือก, หนัง",
       "example": "りんごのかわをむいた。",
       "pronunciation": "かわ",
@@ -1625,7 +1625,7 @@
       "exampleTranslation": "ซากุระในสวนสวยมาก"
     },
     {
-      "word": "（かさを）さす",
+      "word": "(かさを)さす",
       "translation": "กางร่ม",
       "example": "雨なのでかさをさした。",
       "exampleTranslation": "ฝนตกเลยกางร่ม"
@@ -1754,7 +1754,7 @@
       "exampleTranslation": "เรื่องของตัวเองก็ทำเองนะ"
     },
     {
-      "word": "（物を）しまう",
+      "word": "(物を)しまう",
       "translation": "เก็บเข้าที่",
       "example": "おもちゃを箱にしまった。",
       "pronunciation": "しまう",
@@ -2464,7 +2464,7 @@
       "exampleTranslation": "กรุณาตรวจสอบอีกครั้ง"
     },
     {
-      "word": "（服をクリーニングに）出す",
+      "word": "(服をクリーニングに)出す",
       "translation": "ส่ง, เอาออก, ส่งไปซัก",
       "example": "服をクリーニングに出した。",
       "pronunciation": "だす",
@@ -2704,14 +2704,14 @@
       "exampleTranslation": "จะลงสถานีถัดไป"
     },
     {
-      "word": "（電気が）つく",
+      "word": "(電気が)つく",
       "translation": "เปิด, ติด",
       "example": "部屋の電気がついている。",
       "pronunciation": "つく",
       "exampleTranslation": "ไฟในห้องเปิดอยู่"
     },
     {
-      "word": "（会社を）作る",
+      "word": "(会社を)作る",
       "translation": "ก่อตั้ง, สร้าง",
       "example": "父は30歳で会社を作った。",
       "pronunciation": "つくる",
@@ -2759,7 +2759,7 @@
       "exampleTranslation": "วันนี้ลมแรง"
     },
     {
-      "word": "（魚を）つる",
+      "word": "(魚を)つる",
       "translation": "ตกปลา",
       "example": "川で魚をつった。",
       "pronunciation": "つる",
@@ -2971,14 +2971,14 @@
       "exampleTranslation": "พักโรงแรมสองคืน"
     },
     {
-      "word": "（車が）止まる",
+      "word": "(車が)止まる",
       "translation": "หยุด, จอด",
       "example": "家の前に車が止まった。",
       "pronunciation": "とまる",
       "exampleTranslation": "รถจอดหน้าบ้าน"
     },
     {
-      "word": "（車を）止める",
+      "word": "(車を)止める",
       "translation": "หยุด, จอด",
       "example": "駐車場に車を止めた。",
       "pronunciation": "とめる",
@@ -2997,7 +2997,7 @@
       "exampleTranslation": "ช่วยหยิบเกลือให้หน่อย"
     },
     {
-      "word": "（よごれが）取れる",
+      "word": "(よごれが)取れる",
       "translation": "หลุดออก, ออก",
       "example": "シャツのよごれが取れた。",
       "pronunciation": "とれる",
@@ -3010,14 +3010,14 @@
       "exampleTranslation": "ถูกขโมยกระเป๋าสตางค์"
     },
     {
-      "word": "（作文を）直す",
+      "word": "(作文を)直す",
       "translation": "แก้ไข",
       "example": "先生が作文を直してくれた。",
       "pronunciation": "なおす",
       "exampleTranslation": "ครูช่วยแก้เรียงความให้"
     },
     {
-      "word": "（病気を）なおす",
+      "word": "(病気を)なおす",
       "translation": "รักษาให้หาย",
       "example": "早くかぜをなおしてね。",
       "pronunciation": "なおす",
@@ -3031,7 +3031,7 @@
       "exampleTranslation": "คอมพิวเตอร์ซ่อมเสร็จแล้ว"
     },
     {
-      "word": "（病気が）なおる",
+      "word": "(病気が)なおる",
       "translation": "หายป่วย",
       "example": "かぜがなおった。",
       "pronunciation": "なおる",
@@ -3271,7 +3271,7 @@
       "exampleTranslation": "กำลังไว้ผมยาว"
     },
     {
-      "word": "（山に）登る",
+      "word": "(山に)登る",
       "translation": "ปีน, ขึ้น",
       "example": "日曜日に山に登った。",
       "pronunciation": "のぼる",
@@ -3424,7 +3424,7 @@
       "exampleTranslation": "ตื่นเร็ว ๆ หน่อย"
     },
     {
-      "word": "（お金を）はらう",
+      "word": "(お金を)はらう",
       "translation": "จ่าย",
       "example": "レジでお金をはらった。",
       "pronunciation": "はらう",
@@ -3515,13 +3515,13 @@
       "exampleTranslation": "ปากกาอยู่ในลิ้นชัก"
     },
     {
-      "word": "（かぜを）ひく",
+      "word": "(かぜを)ひく",
       "translation": "เป็นหวัด, ดึง",
       "example": "かぜをひいてしまった。",
       "exampleTranslation": "เป็นหวัดเสียแล้ว"
     },
     {
-      "word": "（いすが）低い",
+      "word": "(いすが)低い",
       "translation": "ต่ำ, เตี้ย",
       "example": "このいすは低い。",
       "pronunciation": "ひくい",
@@ -3578,7 +3578,7 @@
       "exampleTranslation": "แช่น้ำผลไม้ให้เย็นไว้"
     },
     {
-      "word": "（パーティーを）開く",
+      "word": "(パーティーを)開く",
       "translation": "จัด, เปิด",
       "example": "誕生日パーティーを開いた。",
       "pronunciation": "ひらく",
@@ -3616,7 +3616,7 @@
       "exampleTranslation": "นักเรียนต่างชาติเพิ่มขึ้น"
     },
     {
-      "word": "（風が）ふく",
+      "word": "(風が)ふく",
       "translation": "พัด",
       "example": "冷たい風がふいている。",
       "pronunciation": "ふく",
@@ -3868,7 +3868,7 @@
       "exampleTranslation": "อยากมาญี่ปุ่นมานานแล้ว"
     },
     {
-      "word": "（右に/角を）曲がる",
+      "word": "(右に/角を)曲がる",
       "translation": "เลี้ยว",
       "example": "次の角を右に曲がってください。",
       "pronunciation": "まがる",
@@ -3966,7 +3966,7 @@
       "exampleTranslation": "มองเห็นทะเลจากหน้าต่าง"
     },
     {
-      "word": "（歯を）みがく",
+      "word": "(歯を)みがく",
       "translation": "แปรง, ขัด",
       "example": "食べた後で歯をみがく。",
       "pronunciation": "みがく",
@@ -4386,7 +4386,7 @@
       "exampleTranslation": "ห้องแบบตะวันตกมีเตียง"
     },
     {
-      "word": "（病気が）よくなる",
+      "word": "(病気が)よくなる",
       "translation": "ดีขึ้น, หายป่วย",
       "example": "かぜがよくなった。",
       "pronunciation": "よくなる",
@@ -4436,7 +4436,7 @@
       "exampleTranslation": "นั่งตรงนี้ได้ไหมคะ"
     },
     {
-      "word": "（～さんに）よろしく",
+      "word": "(～さんに)よろしく",
       "translation": "ฝากความคิดถึง, ฝากสวัสดี",
       "example": "ご家族によろしくお伝えください。",
       "exampleTranslation": "ฝากความคิดถึงถึงครอบครัวด้วย"
@@ -4603,14 +4603,14 @@
       "exampleTranslation": "ร้านนี้เป็นที่นิยมในหมู่คนหนุ่มสาว"
     },
     {
-      "word": "（お湯を）わかす",
+      "word": "(お湯を)わかす",
       "translation": "ต้มให้เดือด",
       "example": "お湯をわかしてお茶を入れた。",
       "pronunciation": "わかす",
       "exampleTranslation": "ต้มน้ำร้อนชงชา"
     },
     {
-      "word": "（お湯が）わく",
+      "word": "(お湯が)わく",
       "translation": "เดือด",
       "example": "お湯がわいた。",
       "pronunciation": "わく",
@@ -4638,14 +4638,14 @@
       "exampleTranslation": "ลืมของไว้บนรถไฟ"
     },
     {
-      "word": "（物を）渡す",
+      "word": "(物を)渡す",
       "translation": "ยื่นให้, ส่งให้",
       "example": "先生にレポートを渡した。",
       "pronunciation": "わたす",
       "exampleTranslation": "ยื่นรายงานให้ครู"
     },
     {
-      "word": "（橋/道を）渡る",
+      "word": "(橋/道を)渡る",
       "translation": "ข้าม",
       "example": "道を渡る時は気をつけて。",
       "pronunciation": "わたる",
