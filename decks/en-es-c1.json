@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "es",
   "level": "C1",
-  "version": 40,
+  "version": 41,
   "items": [
     {
       "word": "abolish",
@@ -21,13 +21,13 @@
     {
       "word": "absence",
       "translation": "la ausencia",
-      "example": "Her absence was noticed at once.",
+      "example": "Everyone noticed her absence at once.",
       "phonics": "/ˈæbsəns/"
     },
     {
       "word": "absurd",
       "translation": "absurdo",
-      "example": "The suggestion is absurd.",
+      "example": "His suggestion to cancel the trip is absurd.",
       "phonics": "/əbˈsɝd/"
     },
     {
@@ -51,7 +51,7 @@
     {
       "word": "accelerate",
       "translation": "acelerar",
-      "example": "The plan accelerated after the vote.",
+      "example": "The car accelerated on the motorway.",
       "phonics": "/ækˈsɛlɝˌeɪt/"
     },
     {
@@ -69,7 +69,7 @@
     {
       "word": "accountability",
       "translation": "la rendición de cuentas",
-      "example": "The reform is about accountability.",
+      "example": "Voters want more accountability from politicians.",
       "phonics": "/əˈkaʊnəbɪlɪti/, /əˈkaʊntəˌbɪlɪti/"
     },
     {
@@ -117,13 +117,13 @@
     {
       "word": "administrative",
       "translation": "administrativo",
-      "example": "The delay was administrative.",
+      "example": "The office handles administrative work.",
       "phonics": "/ədˈmɪnəˌstreɪtɪv/"
     },
     {
       "word": "administrator",
       "translation": "el administrador",
-      "example": "The administrator keeps the records.",
+      "example": "The hospital administrator keeps the records.",
       "phonics": "/ədˈmɪnəˌstreɪtɝ/"
     },
     {
@@ -141,7 +141,7 @@
     {
       "word": "adoption",
       "translation": "la adopción",
-      "example": "The adoption of the rule was quick.",
+      "example": "The adoption of the new rule took a year.",
       "phonics": "/əˈdɑpʃən/"
     },
     {
@@ -201,7 +201,7 @@
     {
       "word": "align",
       "translation": "alinear",
-      "example": "Align the edges before you glue them.",
+      "example": "The carpenter aligns the edges before he glues them.",
       "phonics": "/əˈlaɪn/"
     },
     {
@@ -213,7 +213,7 @@
     {
       "word": "allege",
       "translation": "alegar",
-      "example": "They allege that the form was altered.",
+      "example": "They allege that someone altered the form.",
       "phonics": "/əˈlɛdʒ/"
     },
     {
@@ -243,7 +243,7 @@
     {
       "word": "aluminium",
       "translation": "el aluminio",
-      "example": "The frame is light aluminium.",
+      "example": "The bike has a light aluminium frame.",
       "phonics": "/ˌælˈjumɪnəm/, /əˈlumɪnəm/"
     },
     {
@@ -279,7 +279,7 @@
     {
       "word": "analogy",
       "translation": "la analogía",
-      "example": "He drew an analogy with a river.",
+      "example": "He drew an analogy between the heart and a pump.",
       "phonics": "/əˈnælədʒi/"
     },
     {
@@ -297,7 +297,7 @@
     {
       "word": "anonymous",
       "translation": "anónimo",
-      "example": "The letter was anonymous.",
+      "example": "She received an anonymous letter.",
       "phonics": "/əˈnɑnəməs/"
     },
     {
@@ -327,7 +327,7 @@
     {
       "word": "applicable",
       "translation": "aplicable",
-      "example": "The discount is not applicable here.",
+      "example": "The student discount is not applicable on weekends.",
       "phonics": "/ˈæpləkəbəl/"
     },
     {
@@ -345,7 +345,7 @@
     {
       "word": "archive",
       "translation": "el archivo",
-      "example": "The archive holds every issue.",
+      "example": "The archive holds every issue of the newspaper.",
       "phonics": "/ˈɑrˌkaɪv/"
     },
     {
@@ -363,7 +363,7 @@
     {
       "word": "articulate",
       "translation": "elocuente",
-      "example": "She is articulate under pressure.",
+      "example": "She is an articulate speaker.",
       "phonics": "/ɑrˈtɪkjəˌleɪt/, /ɑrˈtɪkjələt/"
     },
     {
@@ -393,7 +393,7 @@
     {
       "word": "assemble",
       "translation": "montar",
-      "example": "The parts assemble in ten minutes.",
+      "example": "He assembled the new desk in ten minutes.",
       "phonics": "/əˈsɛmbəl/"
     },
     {
@@ -453,7 +453,7 @@
     {
       "word": "authentic",
       "translation": "auténtico",
-      "example": "The signature is authentic.",
+      "example": "The signature on the painting is authentic.",
       "phonics": "/əˈθɛnɪk/, /əˈθɛntɪk/"
     },
     {
@@ -471,7 +471,7 @@
     {
       "word": "availability",
       "translation": "la disponibilidad",
-      "example": "Check availability before you travel.",
+      "example": "The website shows the availability of rooms.",
       "phonics": "/əˌveɪləˈbɪləti/, /əˌveɪləˈbɪlɪti/"
     },
     {
@@ -495,7 +495,7 @@
     {
       "word": "backup",
       "translation": "la copia de seguridad",
-      "example": "Keep a backup of the file.",
+      "example": "She keeps a backup of every file.",
       "phonics": "/ˈbæˌkəp/"
     },
     {
@@ -525,7 +525,7 @@
     {
       "word": "bare",
       "translation": "desnudo",
-      "example": "The walls were bare.",
+      "example": "The walls of the new flat were bare.",
       "phonics": "/ˈbɛr/"
     },
     {
@@ -591,7 +591,7 @@
     {
       "word": "beneficiary",
       "translation": "el beneficiario",
-      "example": "She is the main beneficiary.",
+      "example": "She is the main beneficiary of the will.",
       "phonics": "/ˌbɛnəˈfɪʃiˌɛri/"
     },
     {
@@ -651,7 +651,7 @@
     {
       "word": "blend",
       "translation": "mezclar",
-      "example": "Blend the flour and the butter.",
+      "example": "The cook blends the flour and the butter.",
       "phonics": "/ˈblɛnd/"
     },
     {
@@ -705,7 +705,7 @@
     {
       "word": "breakdown",
       "translation": "la avería",
-      "example": "The breakdown cost us a day.",
+      "example": "The car's breakdown cost us a day.",
       "phonics": "/ˈbreɪkˌdaʊn/"
     },
     {
@@ -729,7 +729,7 @@
     {
       "word": "browser",
       "translation": "el navegador",
-      "example": "Open the link in another browser.",
+      "example": "She opens the link in another browser.",
       "phonics": "/ˈbraʊzɝ/"
     },
     {
@@ -771,13 +771,13 @@
     {
       "word": "calculation",
       "translation": "el cálculo",
-      "example": "One calculation was wrong.",
+      "example": "One calculation in the report was wrong.",
       "phonics": "/ˌkælkjəˈleɪʃən/"
     },
     {
       "word": "canvas",
       "translation": "el lienzo",
-      "example": "The canvas was still wet.",
+      "example": "The artist's canvas was still wet.",
       "phonics": "/ˈkænvəs/"
     },
     {
@@ -819,7 +819,7 @@
     {
       "word": "casualty",
       "translation": "la víctima",
-      "example": "There was one casualty.",
+      "example": "There was one casualty in the crash.",
       "phonics": "/ˈkæʒəlti/, /ˈkæʒəwəlti/"
     },
     {
@@ -843,7 +843,7 @@
     {
       "word": "caution",
       "translation": "la cautela",
-      "example": "Treat the figures with caution.",
+      "example": "Scientists treat the figures with caution.",
       "phonics": "/ˈkɑʃən/, /ˈkɔʃən/"
     },
     {
@@ -873,7 +873,7 @@
     {
       "word": "chamber",
       "translation": "la cámara",
-      "example": "The chamber was cold and quiet.",
+      "example": "The council meets in a large chamber.",
       "phonics": "/ˈtʃeɪmbɝ/"
     },
     {
@@ -885,7 +885,7 @@
     {
       "word": "charter",
       "translation": "la carta",
-      "example": "The charter dates from 1420.",
+      "example": "The town received its charter in 1420.",
       "phonics": "/ˈtʃɑrtɝ/"
     },
     {
@@ -915,19 +915,19 @@
     {
       "word": "civic",
       "translation": "cívico",
-      "example": "The hall is used for civic events.",
+      "example": "The town uses the hall for civic events.",
       "phonics": "/ˈsɪvɪk/"
     },
     {
       "word": "civilian",
       "translation": "el civil",
-      "example": "No civilian was allowed in.",
+      "example": "The soldiers let no civilian in.",
       "phonics": "/səˈvɪljən/"
     },
     {
       "word": "clarity",
       "translation": "la claridad",
-      "example": "The clarity of her writing helps.",
+      "example": "The clarity of her writing helps the readers.",
       "phonics": "/ˈklɛrəti/, /ˈklɛrɪti/"
     },
     {
@@ -939,7 +939,7 @@
     {
       "word": "classification",
       "translation": "la clasificación",
-      "example": "The classification is out of date.",
+      "example": "The classification of these plants is out of date.",
       "phonics": "/ˌklæsəfəˈkeɪʃən/"
     },
     {
@@ -999,7 +999,7 @@
     {
       "word": "collaboration",
       "translation": "la colaboración",
-      "example": "The book is a collaboration.",
+      "example": "The book is a collaboration between two writers.",
       "phonics": "/kəˌlæbɝˈeɪʃən/"
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "word": "commentary",
       "translation": "el comentario",
-      "example": "His commentary made the match.",
+      "example": "His commentary made the match more exciting.",
       "phonics": "/ˈkɑmənˌtɛri/"
     },
     {
@@ -1119,7 +1119,7 @@
     {
       "word": "composition",
       "translation": "la composición",
-      "example": "The composition of the soil matters.",
+      "example": "The composition of the soil affects the crops.",
       "phonics": "/ˌkɑmpəˈzɪʃən/"
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "word": "condemn",
       "translation": "condenar",
-      "example": "The report condemns the delay.",
+      "example": "World leaders condemned the attack.",
       "phonics": "/kənˈdɛm/"
     },
     {
@@ -1179,7 +1179,7 @@
     {
       "word": "confine",
       "translation": "confinar",
-      "example": "Keep the dog confined to the yard.",
+      "example": "The farmer keeps the dog confined to the yard.",
       "phonics": "/kənˈfaɪn/"
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "word": "conjecture",
       "translation": "la conjetura",
-      "example": "The rest is pure conjecture.",
+      "example": "The rest of the story is pure conjecture.",
       "phonics": "/kənˈdʒɛkʃɝ/, /kənˈdʒɛktʃɝ/"
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "word": "conquer",
       "translation": "conquistar",
-      "example": "The fear is hard to conquer.",
+      "example": "She finally conquered her fear of flying.",
       "phonics": "/ˈkɑŋkɝ/"
     },
     {
@@ -1251,7 +1251,7 @@
     {
       "word": "consistency",
       "translation": "la consistencia",
-      "example": "The consistency of the result matters.",
+      "example": "Consistency is important in training.",
       "phonics": "/kənˈsɪstənsi/"
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "word": "contributor",
       "translation": "el colaborador",
-      "example": "She is a regular contributor.",
+      "example": "She is a regular contributor to the magazine.",
       "phonics": "/kənˈtrɪbjətɝ/"
     },
     {
@@ -1389,13 +1389,13 @@
     {
       "word": "copyright",
       "translation": "los derechos de autor",
-      "example": "The photograph is still in copyright.",
+      "example": "The author owns the copyright to the book.",
       "phonics": "/ˈkɑpiˌraɪt/"
     },
     {
       "word": "correction",
       "translation": "la corrección",
-      "example": "One small correction and it is done.",
+      "example": "The teacher made one correction to my essay.",
       "phonics": "/kɝˈɛkʃən/"
     },
     {
@@ -1407,13 +1407,13 @@
     {
       "word": "correlation",
       "translation": "la correlación",
-      "example": "There is a clear correlation here.",
+      "example": "There is a clear correlation between sleep and health.",
       "phonics": "/ˌkɔrəˈleɪʃən/"
     },
     {
       "word": "correspond",
       "translation": "corresponder",
-      "example": "The dates do not correspond.",
+      "example": "The dates on the two forms do not correspond.",
       "phonics": "/ˌkɔrəˈspɑnd/"
     },
     {
@@ -1461,7 +1461,7 @@
     {
       "word": "countless",
       "translation": "incontable",
-      "example": "She has read it countless times.",
+      "example": "She has read the book countless times.",
       "phonics": "/ˈkaʊntləs/"
     },
     {
@@ -1515,7 +1515,7 @@
     {
       "word": "crown",
       "translation": "la corona",
-      "example": "The crown is kept in the tower.",
+      "example": "The museum keeps the crown in the tower.",
       "phonics": "/ˈkraʊn/"
     },
     {
@@ -1557,7 +1557,7 @@
     {
       "word": "curiosity",
       "translation": "la curiosidad",
-      "example": "Curiosity took her down the lane.",
+      "example": "Out of curiosity, she opened the box.",
       "phonics": "/ˌkjʊriˈɑsəti/"
     },
     {
@@ -1569,7 +1569,7 @@
     {
       "word": "curtail",
       "translation": "recortar",
-      "example": "The trip was curtailed by illness.",
+      "example": "Illness curtailed their trip.",
       "phonics": "/kɝˈteɪl/"
     },
     {
@@ -1623,7 +1623,7 @@
     {
       "word": "decisive",
       "translation": "decisivo",
-      "example": "Her reply was decisive.",
+      "example": "The second goal was decisive.",
       "phonics": "/dɪˈsaɪsɪv/"
     },
     {
@@ -1653,7 +1653,7 @@
     {
       "word": "default",
       "translation": "el valor predeterminado",
-      "example": "The default setting is fine.",
+      "example": "The default language of the phone is English.",
       "phonics": "/dɪˈfɔlt/"
     },
     {
@@ -1677,7 +1677,7 @@
     {
       "word": "deficit",
       "translation": "el déficit",
-      "example": "The deficit grew again this year.",
+      "example": "The country's budget deficit grew again this year.",
       "phonics": "/ˈdɛfəsət/"
     },
     {
@@ -1725,7 +1725,7 @@
     {
       "word": "dense",
       "translation": "denso",
-      "example": "The fog was dense by six.",
+      "example": "The fog was so dense that we could not see the road.",
       "phonics": "/ˈdɛns/"
     },
     {
@@ -1773,7 +1773,7 @@
     {
       "word": "destructive",
       "translation": "destructivo",
-      "example": "The habit is destructive.",
+      "example": "Smoking is a destructive habit.",
       "phonics": "/dɪˈstrəktɪv/"
     },
     {
@@ -1821,7 +1821,7 @@
     {
       "word": "diagnose",
       "translation": "diagnosticar",
-      "example": "The doctor diagnosed a virus.",
+      "example": "The doctor diagnosed a virus in the boy.",
       "phonics": "/ˌdaɪəɡˈnoʊs/"
     },
     {
@@ -1839,13 +1839,13 @@
     {
       "word": "differentiate",
       "translation": "diferenciar",
-      "example": "It is hard to differentiate the two versions.",
+      "example": "Young children cannot differentiate between the two colours.",
       "phonics": "/ˌdɪfɝˈɛnʃiˌeɪt/, /ˌdɪfɝˈɛntʃiˌeɪt/"
     },
     {
       "word": "dignity",
       "translation": "la dignidad",
-      "example": "She kept her dignity throughout.",
+      "example": "She faced her illness with dignity.",
       "phonics": "/ˈdɪɡnəti/"
     },
     {
@@ -1869,31 +1869,31 @@
     {
       "word": "diplomatic",
       "translation": "diplomático",
-      "example": "The reply was diplomatic.",
+      "example": "She gave a diplomatic answer to the difficult question.",
       "phonics": "/ˌdɪpləˈmætɪk/"
     },
     {
       "word": "directory",
       "translation": "el directorio",
-      "example": "Her name is not in the directory.",
+      "example": "Her name is not in the phone directory.",
       "phonics": "/daɪˈrɛktɝi/, /dɝˈɛktɝi/"
     },
     {
       "word": "disastrous",
       "translation": "desastroso",
-      "example": "The first night was disastrous.",
+      "example": "The first night of the trip was disastrous.",
       "phonics": "/dɪˈzæstrəs/"
     },
     {
       "word": "discard",
       "translation": "desechar",
-      "example": "Discard any bent nails.",
+      "example": "The carpenter discards any bent nails.",
       "phonics": "/dɪˈskɑrd/"
     },
     {
       "word": "discern",
       "translation": "discernir",
-      "example": "It is hard to discern a pattern.",
+      "example": "It is hard to discern a pattern in the data.",
       "phonics": "/dɪˈsɝn/"
     },
     {
@@ -1911,7 +1911,7 @@
     {
       "word": "disclosure",
       "translation": "la divulgación",
-      "example": "The disclosure came too late.",
+      "example": "The disclosure of the secret came too late.",
       "phonics": "/dɪˈskloʊʒɝ/"
     },
     {
@@ -1935,7 +1935,7 @@
     {
       "word": "discretion",
       "translation": "la discreción",
-      "example": "Use your discretion about the time.",
+      "example": "The manager uses her discretion in these cases.",
       "phonics": "/dɪsˈkrɛʃən/"
     },
     {
@@ -1947,7 +1947,7 @@
     {
       "word": "disparate",
       "translation": "dispar",
-      "example": "The team brought disparate skills.",
+      "example": "The team brought together disparate skills.",
       "phonics": "/ˈdɪspɝɪt/, /dɪˈspɛrɪt/"
     },
     {
@@ -2001,13 +2001,13 @@
     {
       "word": "disruption",
       "translation": "la interrupción",
-      "example": "There was disruption on the line all day.",
+      "example": "The strike caused disruption on the railway all day.",
       "phonics": "/dɪsˈrəpʃən/"
     },
     {
       "word": "dissolve",
       "translation": "disolver",
-      "example": "Dissolve the powder in warm water.",
+      "example": "The sugar dissolves in warm water.",
       "phonics": "/dɪˈzɑlv/"
     },
     {
@@ -2037,7 +2037,7 @@
     {
       "word": "doctrine",
       "translation": "la doctrina",
-      "example": "The doctrine has changed little.",
+      "example": "The church's doctrine has changed little.",
       "phonics": "/ˈdɑktrən/, /ˈdɔktɝɪn/"
     },
     {
@@ -2061,7 +2061,7 @@
     {
       "word": "dose",
       "translation": "la dosis",
-      "example": "Take one dose at night.",
+      "example": "The patient takes one dose at night.",
       "phonics": "/ˈdoʊs/"
     },
     {
@@ -2103,7 +2103,7 @@
     {
       "word": "dumb",
       "translation": "tonto",
-      "example": "It was a dumb thing to say.",
+      "example": "It was a dumb thing to say to your boss.",
       "phonics": "/ˈdəm/"
     },
     {
@@ -2145,7 +2145,7 @@
     {
       "word": "efficiency",
       "translation": "la eficiencia",
-      "example": "Efficiency improved after the change.",
+      "example": "The new machine improved efficiency in the factory.",
       "phonics": "/ɪˈfɪʃənsi/"
     },
     {
@@ -2157,7 +2157,7 @@
     {
       "word": "elaborate",
       "translation": "elaborado",
-      "example": "The plan was elaborate and slow.",
+      "example": "They made an elaborate plan for the wedding.",
       "phonics": "/ɪˈlæbɝˌeɪt/, /ɪˈlæbrət/"
     },
     {
@@ -2181,7 +2181,7 @@
     {
       "word": "elusive",
       "translation": "esquivo",
-      "example": "A solution has proved elusive.",
+      "example": "A solution to the problem has proved elusive.",
       "phonics": "/ɪˈlusɪv/"
     },
     {
@@ -2193,7 +2193,7 @@
     {
       "word": "embarrassment",
       "translation": "la vergüenza",
-      "example": "The mistake was an embarrassment.",
+      "example": "The mistake was an embarrassment for the team.",
       "phonics": "/ɪmˈbɛrəsmənt/"
     },
     {
@@ -2217,7 +2217,7 @@
     {
       "word": "emphatic",
       "translation": "rotundo",
-      "example": "The answer was an emphatic no.",
+      "example": "Her answer was an emphatic no.",
       "phonics": "/ɛmˈfætɪk/"
     },
     {
@@ -2241,13 +2241,13 @@
     {
       "word": "encompass",
       "translation": "abarcar",
-      "example": "The course encompasses four centuries.",
+      "example": "The history course encompasses four centuries.",
       "phonics": "/ɛnˈkəmpəs/"
     },
     {
       "word": "endeavour",
       "translation": "el esfuerzo",
-      "example": "The endeavour took ten years.",
+      "example": "The scientific endeavour took ten years.",
       "phonics": "/ɪnˈdɛvɝ/"
     },
     {
@@ -2283,13 +2283,13 @@
     {
       "word": "enrol",
       "translation": "matricularse",
-      "example": "You can enrol online until Friday.",
+      "example": "Students can enrol online until Friday.",
       "phonics": "/ɛnˈroʊl/, /ɪnˈroʊl/"
     },
     {
       "word": "ensue",
       "translation": "seguir",
-      "example": "A long silence ensued.",
+      "example": "A long silence ensued after his question.",
       "phonics": "/ɪnˈsu/"
     },
     {
@@ -2319,7 +2319,7 @@
     {
       "word": "entity",
       "translation": "la entidad",
-      "example": "The trust is a separate entity.",
+      "example": "The charity is a separate legal entity.",
       "phonics": "/ˈɛntəti/, /ˈɛntɪti/"
     },
     {
@@ -2337,7 +2337,7 @@
     {
       "word": "equation",
       "translation": "la ecuación",
-      "example": "Solve the equation for x.",
+      "example": "The students solve the equation for x.",
       "phonics": "/ɪˈkweɪʒən/"
     },
     {
@@ -2373,13 +2373,13 @@
     {
       "word": "eternal",
       "translation": "eterno",
-      "example": "The garden feels eternal in June.",
+      "example": "The poem speaks of eternal love.",
       "phonics": "/iˈtɝnəl/, /ɪˈtɝnəl/"
     },
     {
       "word": "evacuate",
       "translation": "evacuar",
-      "example": "They evacuated the building at noon.",
+      "example": "The police evacuated the building at noon.",
       "phonics": "/iˈvækjəˌeɪt/, /ɪˈvækjəˌeɪt/"
     },
     {
@@ -2427,19 +2427,19 @@
     {
       "word": "exclusion",
       "translation": "la exclusión",
-      "example": "The exclusion of one group was unfair.",
+      "example": "The exclusion of women from the club was unfair.",
       "phonics": "/ɪkˈskluʒən/"
     },
     {
       "word": "exclusive",
       "translation": "exclusivo",
-      "example": "The interview was exclusive.",
+      "example": "The magazine has an exclusive interview with the singer.",
       "phonics": "/ɪkˈsklusɪv/"
     },
     {
       "word": "execute",
       "translation": "ejecutar",
-      "example": "They executed the plan without delay.",
+      "example": "The team executed the plan without delay.",
       "phonics": "/ˈɛksəkˌjut/"
     },
     {
@@ -2463,13 +2463,13 @@
     {
       "word": "expedite",
       "translation": "agilizar",
-      "example": "A courier will expedite delivery.",
+      "example": "A courier will expedite the delivery.",
       "phonics": "/ˈɛkspɪˌdaɪt/"
     },
     {
       "word": "expenditure",
       "translation": "el gasto",
-      "example": "Expenditure rose sharply in May.",
+      "example": "Government expenditure rose sharply this year.",
       "phonics": "/ɪkˈspɛndətʃɝ/, /ɪkˈspɛndɪtʃɝ/"
     },
     {
@@ -2481,7 +2481,7 @@
     {
       "word": "explosive",
       "translation": "explosivo",
-      "example": "The mixture is explosive.",
+      "example": "The police found explosives in the car.",
       "phonics": "/ɪksˈploʊsɪv/"
     },
     {
@@ -2511,7 +2511,7 @@
     {
       "word": "fairness",
       "translation": "la equidad",
-      "example": "The fairness of the test was questioned.",
+      "example": "Students questioned the fairness of the test.",
       "phonics": "/ˈfɛrnəs/"
     },
     {
@@ -2529,19 +2529,19 @@
     {
       "word": "fate",
       "translation": "el destino",
-      "example": "The fate of the building is undecided.",
+      "example": "Nobody knows the fate of the old building.",
       "phonics": "/ˈfeɪt/"
     },
     {
       "word": "feat",
       "translation": "la hazaña",
-      "example": "Crossing alone was a real feat.",
+      "example": "Crossing the desert alone was a real feat.",
       "phonics": "/ˈfit/"
     },
     {
       "word": "felony",
       "translation": "el delito grave",
-      "example": "In that state it counts as a felony.",
+      "example": "Theft of a car counts as a felony in that state.",
       "phonics": "/ˈfɛləni/"
     },
     {
@@ -2559,7 +2559,7 @@
     {
       "word": "fierce",
       "translation": "feroz",
-      "example": "The competition is fierce.",
+      "example": "The competition for the job is fierce.",
       "phonics": "/ˈfɪrs/"
     },
     {
@@ -2571,13 +2571,13 @@
     {
       "word": "filter",
       "translation": "el filtro",
-      "example": "A filter keeps the dust out.",
+      "example": "The filter keeps the dust out of the machine.",
       "phonics": "/ˈfɪltɝ/"
     },
     {
       "word": "firearm",
       "translation": "el arma de fuego",
-      "example": "No firearm is allowed on site.",
+      "example": "Visitors cannot bring a firearm into the building.",
       "phonics": "/ˈfaɪˌrɑrm/, /ˈfaɪɝˌɑrm/"
     },
     {
@@ -2589,7 +2589,7 @@
     {
       "word": "fixture",
       "translation": "la lámpara",
-      "example": "The light fixture needs replacing.",
+      "example": "The old light fixture needs replacing.",
       "phonics": "/ˈfɪkstʃɝ/"
     },
     {
@@ -2607,7 +2607,7 @@
     {
       "word": "fleet",
       "translation": "la flota",
-      "example": "The fleet returned in spring.",
+      "example": "The fishing fleet returned in spring.",
       "phonics": "/ˈflit/"
     },
     {
@@ -2631,13 +2631,13 @@
     {
       "word": "fluid",
       "translation": "el líquido",
-      "example": "Drink plenty of fluid.",
+      "example": "The doctor told him to drink plenty of fluids.",
       "phonics": "/ˈfluəd/, /ˈfluɪd/"
     },
     {
       "word": "footage",
       "translation": "las imágenes",
-      "example": "The footage shows the whole street.",
+      "example": "The camera footage shows the whole street.",
       "phonics": "/ˈfʊtɪdʒ/"
     },
     {
@@ -2667,13 +2667,13 @@
     {
       "word": "formula",
       "translation": "la fórmula",
-      "example": "The formula has not changed.",
+      "example": "The secret formula of the drink has not changed.",
       "phonics": "/ˈfɔrmjələ/"
     },
     {
       "word": "formulate",
       "translation": "formular",
-      "example": "She formulated a clearer question.",
+      "example": "The team formulated a new plan.",
       "phonics": "/ˈfɔrmjəˌleɪt/"
     },
     {
@@ -2685,7 +2685,7 @@
     {
       "word": "forthcoming",
       "translation": "próximo",
-      "example": "Details of the forthcoming trip will follow.",
+      "example": "We will send details of the forthcoming trip next week.",
       "phonics": "/ˈfɔrθˈkəmɪŋ/"
     },
     {
@@ -2697,7 +2697,7 @@
     {
       "word": "fragile",
       "translation": "frágil",
-      "example": "The parcel is fragile.",
+      "example": "The parcel is fragile, so handle it with care.",
       "phonics": "/ˈfrædʒəl/"
     },
     {
@@ -2715,13 +2715,13 @@
     {
       "word": "fraudulent",
       "translation": "fraudulento",
-      "example": "The claim was fraudulent.",
+      "example": "The insurance claim was fraudulent.",
       "phonics": "/ˈfrɔdʒələnt/"
     },
     {
       "word": "frustrating",
       "translation": "frustrante",
-      "example": "The delay is frustrating.",
+      "example": "The long delay at the airport was frustrating.",
       "phonics": "/ˈfrəsˌtreɪtɪŋ/"
     },
     {
@@ -2733,7 +2733,7 @@
     {
       "word": "fundraising",
       "translation": "la recaudación de fondos",
-      "example": "The fundraising took all autumn.",
+      "example": "The school's fundraising took all autumn.",
       "phonics": "/ˈfənˌdreɪsɪŋ/"
     },
     {
@@ -2751,13 +2751,13 @@
     {
       "word": "gear",
       "translation": "la marcha",
-      "example": "Change gear before the hill.",
+      "example": "The driver changes gear before the hill.",
       "phonics": "/ˈɡɪr/"
     },
     {
       "word": "generic",
       "translation": "genérico",
-      "example": "The generic version costs less.",
+      "example": "The generic version of the medicine costs less.",
       "phonics": "/dʒəˈnɛrɪk/"
     },
     {
@@ -2781,7 +2781,7 @@
     {
       "word": "glory",
       "translation": "la gloria",
-      "example": "The team had its day of glory.",
+      "example": "The team had its day of glory in 1998.",
       "phonics": "/ˈɡlɔri/"
     },
     {
@@ -2811,7 +2811,7 @@
     {
       "word": "grief",
       "translation": "el dolor",
-      "example": "Her grief was private.",
+      "example": "She could not hide her grief at the funeral.",
       "phonics": "/ˈɡrif/"
     },
     {
@@ -2829,13 +2829,13 @@
     {
       "word": "grip",
       "translation": "el agarre",
-      "example": "Keep a firm grip on the rail.",
+      "example": "She keeps a firm grip on the rail.",
       "phonics": "/ˈɡrɪp/"
     },
     {
       "word": "gross",
       "translation": "bruto",
-      "example": "The gross figure includes tax.",
+      "example": "His gross salary includes tax.",
       "phonics": "/ˈɡroʊs/"
     },
     {
@@ -2865,7 +2865,7 @@
     {
       "word": "halt",
       "translation": "la parada",
-      "example": "The work came to a halt.",
+      "example": "The strike brought the work to a halt.",
       "phonics": "/ˈhɔlt/"
     },
     {
@@ -2877,7 +2877,7 @@
     {
       "word": "handy",
       "translation": "útil",
-      "example": "A small torch is handy here.",
+      "example": "A small torch is handy in a power cut.",
       "phonics": "/ˈhændi/"
     },
     {
@@ -2889,7 +2889,7 @@
     {
       "word": "hardware",
       "translation": "el hardware",
-      "example": "The hardware is five years old.",
+      "example": "The computer hardware is five years old.",
       "phonics": "/ˈhɑrdˌwɛr/"
     },
     {
@@ -2901,13 +2901,13 @@
     {
       "word": "harsh",
       "translation": "duro",
-      "example": "The criticism was harsh.",
+      "example": "The critic's review of the film was harsh.",
       "phonics": "/ˈhɑrʃ/"
     },
     {
       "word": "harvest",
       "translation": "la cosecha",
-      "example": "The harvest was late that year.",
+      "example": "The rice harvest was late that year.",
       "phonics": "/ˈhɑrvəst/"
     },
     {
@@ -2925,7 +2925,7 @@
     {
       "word": "hazard",
       "translation": "el peligro",
-      "example": "The wet floor is a hazard.",
+      "example": "The wet floor is a hazard for customers.",
       "phonics": "/ˈhæzɝd/"
     },
     {
@@ -2973,13 +2973,13 @@
     {
       "word": "hostage",
       "translation": "el rehén",
-      "example": "The novel opens with a hostage.",
+      "example": "The novel opens with a bank robber taking a hostage.",
       "phonics": "/ˈhɑstɪdʒ/"
     },
     {
       "word": "hostile",
       "translation": "hostil",
-      "example": "The reception was hostile.",
+      "example": "The crowd gave him a hostile reception.",
       "phonics": "/ˈhɑstəl/, /hɑˈstaɪl/"
     },
     {
@@ -3003,13 +3003,13 @@
     {
       "word": "identification",
       "translation": "la identificación",
-      "example": "Identification of the fault took a day.",
+      "example": "You need identification to open a bank account.",
       "phonics": "/aɪˌdɛntəfəˈkeɪʃən/"
     },
     {
       "word": "ideological",
       "translation": "ideológico",
-      "example": "The split was ideological.",
+      "example": "The split in the party was ideological.",
       "phonics": "/ˌaɪdiəˈlɑdʒɪkəl/"
     },
     {
@@ -3027,19 +3027,19 @@
     {
       "word": "immense",
       "translation": "inmenso",
-      "example": "The task is immense.",
+      "example": "Cleaning up after the flood is an immense task.",
       "phonics": "/ˌɪˈmɛns/"
     },
     {
       "word": "imminent",
       "translation": "inminente",
-      "example": "A decision is imminent.",
+      "example": "A decision on the new airport is imminent.",
       "phonics": "/ˈɪmənənt/"
     },
     {
       "word": "impede",
       "translation": "impedir",
-      "example": "Nothing should impede the work.",
+      "example": "Heavy snow impeded the rescue.",
       "phonics": "/ˌɪmˈpid/"
     },
     {
@@ -3063,7 +3063,7 @@
     {
       "word": "inappropriate",
       "translation": "inapropiado",
-      "example": "The comment was inappropriate.",
+      "example": "His comment at the funeral was inappropriate.",
       "phonics": "/ˌɪnəˈproʊpriɪt/"
     },
     {
@@ -3099,25 +3099,25 @@
     {
       "word": "inclusion",
       "translation": "la inclusión",
-      "example": "The inclusion of the map helps a lot.",
+      "example": "The inclusion of a map helps readers a lot.",
       "phonics": "/ˌɪnˈkluʒən/"
     },
     {
       "word": "incremental",
       "translation": "incremental",
-      "example": "The gains were incremental but real.",
+      "example": "The gains in sales were incremental but real.",
       "phonics": "/ˌɪnkrəˈmɛntəl/"
     },
     {
       "word": "incur",
       "translation": "incurrir",
-      "example": "They incurred a heavy fine.",
+      "example": "They incurred a heavy fine for late payment.",
       "phonics": "/ˌɪnˈkɝ/"
     },
     {
       "word": "indicator",
       "translation": "el indicador",
-      "example": "Rainfall is a useful indicator.",
+      "example": "Rainfall is a useful indicator of the harvest.",
       "phonics": "/ˈɪndəˌkeɪtɝ/"
     },
     {
@@ -3165,7 +3165,7 @@
     {
       "word": "infect",
       "translation": "infectar",
-      "example": "One machine infected the whole network.",
+      "example": "One computer infected the whole network with a virus.",
       "phonics": "/ˌɪnˈfɛkt/"
     },
     {
@@ -3183,7 +3183,7 @@
     {
       "word": "inherent",
       "translation": "inherente",
-      "example": "There is an inherent risk in the method.",
+      "example": "There is an inherent risk in every sport.",
       "phonics": "/ɪnˈhɛrənt/, /ɪnˈhɪrənt/"
     },
     {
@@ -3195,13 +3195,13 @@
     {
       "word": "inject",
       "translation": "inyectar",
-      "example": "The nurse injected the dye first.",
+      "example": "The nurse injected the medicine into his arm.",
       "phonics": "/ˌɪnˈdʒɛkt/"
     },
     {
       "word": "injection",
       "translation": "la inyección",
-      "example": "The injection takes a second.",
+      "example": "The injection only takes a second.",
       "phonics": "/ˌɪnˈdʒɛkʃən/"
     },
     {
@@ -3225,13 +3225,13 @@
     {
       "word": "insertion",
       "translation": "la inserción",
-      "example": "The insertion of one line fixed it.",
+      "example": "The insertion of one line fixed the program.",
       "phonics": "/ˌɪnˈsɝʃən/"
     },
     {
       "word": "insider",
       "translation": "el infiltrado",
-      "example": "An insider leaked the date.",
+      "example": "An insider leaked the date of the launch.",
       "phonics": "/ˌɪnˈsaɪdɝ/"
     },
     {
@@ -3255,19 +3255,19 @@
     {
       "word": "insufficient",
       "translation": "insuficiente",
-      "example": "The evidence was insufficient.",
+      "example": "The court found the evidence insufficient.",
       "phonics": "/ˌɪnsəˈfɪʃənt/"
     },
     {
       "word": "insult",
       "translation": "el insulto",
-      "example": "The remark was a plain insult.",
+      "example": "His remark about her cooking was a plain insult.",
       "phonics": "/ˈɪnˌsəlt/, /ˌɪnˈsəlt/"
     },
     {
       "word": "intact",
       "translation": "intacto",
-      "example": "The seal was still intact.",
+      "example": "The seal on the jar was still intact.",
       "phonics": "/ˌɪnˈtækt/"
     },
     {
@@ -3285,7 +3285,7 @@
     {
       "word": "integration",
       "translation": "la integración",
-      "example": "Integration took longer than planned.",
+      "example": "The integration of the two systems took longer than planned.",
       "phonics": "/ˌɪnəˈɡreɪʃən/, /ˌɪntəˈɡreɪʃən/"
     },
     {
@@ -3303,13 +3303,13 @@
     {
       "word": "interface",
       "translation": "la interfaz",
-      "example": "The interface is easy to learn.",
+      "example": "The interface of the app is easy to learn.",
       "phonics": "/ˈɪnɝˌfeɪs/, /ˈɪntɝˌfeɪs/"
     },
     {
       "word": "interfere",
       "translation": "interferir",
-      "example": "Do not interfere with the settings.",
+      "example": "Parents should not interfere with the game.",
       "phonics": "/ˌɪnɝˈfɪr/, /ˌɪntɝˈfɪr/"
     },
     {
@@ -3321,7 +3321,7 @@
     {
       "word": "interior",
       "translation": "el interior",
-      "example": "The interior is darker than it looks.",
+      "example": "The interior of the church is darker than it looks.",
       "phonics": "/ˌɪnˈtɪriɝ/"
     },
     {
@@ -3333,7 +3333,7 @@
     {
       "word": "intersection",
       "translation": "el cruce",
-      "example": "Turn left at the intersection.",
+      "example": "The bus turns left at the intersection.",
       "phonics": "/ˌɪntɝˈsɛkʃən/"
     },
     {
@@ -3345,7 +3345,7 @@
     {
       "word": "intervention",
       "translation": "la intervención",
-      "example": "The intervention came too late.",
+      "example": "The government's intervention came too late.",
       "phonics": "/ˌɪntɝˈvɛnʃən/"
     },
     {
@@ -3369,7 +3369,7 @@
     {
       "word": "intriguing",
       "translation": "intrigante",
-      "example": "The result is intriguing.",
+      "example": "The result of the experiment is intriguing.",
       "phonics": "/ˌɪnˈtriɡɪŋ/"
     },
     {
@@ -3387,7 +3387,7 @@
     {
       "word": "invisible",
       "translation": "invisible",
-      "example": "The join is almost invisible.",
+      "example": "The join in the wood is almost invisible.",
       "phonics": "/ˌɪnˈvɪzəbəl/"
     },
     {
@@ -3399,13 +3399,13 @@
     {
       "word": "irony",
       "translation": "la ironía",
-      "example": "The irony was lost on him.",
+      "example": "The irony of the situation was lost on him.",
       "phonics": "/ˈaɪrəni/"
     },
     {
       "word": "irrelevant",
       "translation": "irrelevante",
-      "example": "That detail is irrelevant here.",
+      "example": "His age is irrelevant to the job.",
       "phonics": "/ˌɪˈrɛləvənt/"
     },
     {
@@ -3423,7 +3423,7 @@
     {
       "word": "junction",
       "translation": "el cruce",
-      "example": "Turn right at the junction.",
+      "example": "The car turns right at the junction.",
       "phonics": "/ˈdʒəŋkʃən/"
     },
     {
@@ -3477,7 +3477,7 @@
     {
       "word": "lawmaker",
       "translation": "el legislador",
-      "example": "One lawmaker opposed the bill.",
+      "example": "One lawmaker opposed the new bill.",
       "phonics": "/ˈlɔˌmeɪkɝ/"
     },
     {
@@ -3495,7 +3495,7 @@
     {
       "word": "layout",
       "translation": "el diseño",
-      "example": "The layout of the page is clear.",
+      "example": "The layout of the new kitchen is very practical.",
       "phonics": "/ˈleɪˌaʊt/"
     },
     {
@@ -3543,19 +3543,19 @@
     {
       "word": "lesser",
       "translation": "menor",
-      "example": "Choose the lesser cost.",
+      "example": "He chose the lesser of two evils.",
       "phonics": "/ˈlɛsɝ/"
     },
     {
       "word": "lethal",
       "translation": "letal",
-      "example": "The dose would be lethal.",
+      "example": "A lethal dose of the drug killed the horse.",
       "phonics": "/ˈliθəl/"
     },
     {
       "word": "liability",
       "translation": "la responsabilidad",
-      "example": "The debt is a serious liability.",
+      "example": "The old car became a liability.",
       "phonics": "/ˌlaɪəˈbɪlɪti/"
     },
     {
@@ -3573,7 +3573,7 @@
     {
       "word": "liberation",
       "translation": "la liberación",
-      "example": "The liberation of the city was in 1944.",
+      "example": "The liberation of the city came in 1944.",
       "phonics": "/ˌlɪˌbɝˈeɪʃən/"
     },
     {
@@ -3597,13 +3597,13 @@
     {
       "word": "linear",
       "translation": "lineal",
-      "example": "The story is not linear.",
+      "example": "The story of the film is not linear.",
       "phonics": "/ˈlɪniɝ/"
     },
     {
       "word": "line-up",
       "translation": "la alineación",
-      "example": "The line-up changed twice.",
+      "example": "The festival line-up changed twice.",
       "phonics": "/ˈlaɪˌnəp/"
     },
     {
@@ -3627,7 +3627,7 @@
     {
       "word": "long-standing",
       "translation": "de larga data",
-      "example": "It is a long-standing arrangement.",
+      "example": "The two families have a long-standing friendship.",
       "phonics": "/ˈlɔŋ ˈstændɪŋ/"
     },
     {
@@ -3663,7 +3663,7 @@
     {
       "word": "magnetic",
       "translation": "magnético",
-      "example": "The catch is magnetic.",
+      "example": "The catch on the door is magnetic.",
       "phonics": "/mæɡˈnɛtɪk/"
     },
     {
@@ -3687,13 +3687,13 @@
     {
       "word": "maintenance",
       "translation": "el mantenimiento",
-      "example": "Maintenance is done every spring.",
+      "example": "Workers do maintenance on the bridge every spring.",
       "phonics": "/ˈmeɪntənəns/, /ˈmeɪntnəns/"
     },
     {
       "word": "mandate",
       "translation": "el mandato",
-      "example": "The council has no mandate for this.",
+      "example": "The council has no mandate for this plan.",
       "phonics": "/ˈmænˌdeɪt/"
     },
     {
@@ -3705,7 +3705,7 @@
     {
       "word": "manipulate",
       "translation": "manipular",
-      "example": "The figures were manipulated.",
+      "example": "The company manipulated the figures.",
       "phonics": "/məˈnɪpjəˌleɪt/"
     },
     {
@@ -3729,7 +3729,7 @@
     {
       "word": "marketplace",
       "translation": "el mercado",
-      "example": "The idea failed in the marketplace.",
+      "example": "The new phone failed in the marketplace.",
       "phonics": "/ˈmɑrkətˌpleɪs/, /ˈmɑrkɪtˌpleɪs/"
     },
     {
@@ -3747,25 +3747,25 @@
     {
       "word": "mature",
       "translation": "madurar",
-      "example": "The wine needs to mature.",
+      "example": "The wine needs two years to mature.",
       "phonics": "/məˈtʃʊr/, /mətˈjʊr/"
     },
     {
       "word": "maximize",
       "translation": "maximizar",
-      "example": "We want to maximize the light.",
+      "example": "Large windows maximize the light in the room.",
       "phonics": "/ˈmæksəˌmaɪz/"
     },
     {
       "word": "meantime",
       "translation": "mientras tanto",
-      "example": "In the meantime, wait here.",
+      "example": "The bus is late. In the meantime, we can get a coffee.",
       "phonics": "/ˈminˌtaɪm/"
     },
     {
       "word": "medieval",
       "translation": "medieval",
-      "example": "The church is medieval.",
+      "example": "The church in the village is medieval.",
       "phonics": "/miˈdivəl/, /mɪˈdivəl/"
     },
     {
@@ -3777,13 +3777,13 @@
     {
       "word": "melody",
       "translation": "la melodía",
-      "example": "The melody stayed with me.",
+      "example": "The melody of the song stayed with me all day.",
       "phonics": "/ˈmɛlədi/"
     },
     {
       "word": "memo",
       "translation": "el memorándum",
-      "example": "He sent a short memo.",
+      "example": "The manager sent a short memo to all staff.",
       "phonics": "/ˈmɛˌmoʊ/"
     },
     {
@@ -3807,7 +3807,7 @@
     {
       "word": "mercy",
       "translation": "la misericordia",
-      "example": "He asked for mercy.",
+      "example": "The prisoner asked the king for mercy.",
       "phonics": "/ˈmɝsi/"
     },
     {
@@ -3819,13 +3819,13 @@
     {
       "word": "merge",
       "translation": "fusionar",
-      "example": "The two files merge automatically.",
+      "example": "The two companies will merge next year.",
       "phonics": "/ˈmɝdʒ/"
     },
     {
       "word": "merger",
       "translation": "la fusión",
-      "example": "The merger was announced in June.",
+      "example": "The two banks announced their merger in June.",
       "phonics": "/ˈmɝdʒɝ/"
     },
     {
@@ -3837,7 +3837,7 @@
     {
       "word": "methodology",
       "translation": "la metodología",
-      "example": "The methodology is described in chapter two.",
+      "example": "The methodology of the study is in chapter two.",
       "phonics": "/ˌmɛθəˈdɑlədʒi/"
     },
     {
@@ -3867,7 +3867,7 @@
     {
       "word": "minimal",
       "translation": "mínimo",
-      "example": "The damage was minimal.",
+      "example": "The storm caused minimal damage.",
       "phonics": "/ˈmɪnəməl/"
     },
     {
@@ -3879,7 +3879,7 @@
     {
       "word": "mining",
       "translation": "la minería",
-      "example": "Mining stopped here in 1985.",
+      "example": "Mining stopped in this valley in 1985.",
       "phonics": "/ˈmaɪnɪŋ/"
     },
     {
@@ -3897,13 +3897,13 @@
     {
       "word": "misery",
       "translation": "la miseria",
-      "example": "The delay caused real misery.",
+      "example": "The war brought misery to millions.",
       "phonics": "/ˈmɪzɝi/"
     },
     {
       "word": "misleading",
       "translation": "engañoso",
-      "example": "The label is misleading.",
+      "example": "The label on the food is misleading.",
       "phonics": "/mɪˈslidɪŋ/"
     },
     {
@@ -3921,7 +3921,7 @@
     {
       "word": "mitigate",
       "translation": "mitigar",
-      "example": "Steps were taken to mitigate the risk.",
+      "example": "The city planted trees to mitigate the heat.",
       "phonics": "/ˈmɪtəˌɡeɪt/"
     },
     {
@@ -3933,19 +3933,19 @@
     {
       "word": "moderate",
       "translation": "moderado",
-      "example": "The climate here is moderate.",
+      "example": "She does moderate exercise every day.",
       "phonics": "/ˈmɑdɝˌeɪt/, /ˈmɑdɝət/"
     },
     {
       "word": "modification",
       "translation": "la modificación",
-      "example": "One modification made it fit.",
+      "example": "One small modification made the plan work.",
       "phonics": "/ˌmɑdəfəˈkeɪʃən/"
     },
     {
       "word": "module",
       "translation": "el módulo",
-      "example": "The first module covers grammar.",
+      "example": "The first module of the course covers grammar.",
       "phonics": "/ˈmɑdʒul/"
     },
     {
@@ -3981,7 +3981,7 @@
     {
       "word": "mutual",
       "translation": "mutuo",
-      "example": "The respect was mutual.",
+      "example": "The two friends have great mutual respect.",
       "phonics": "/ˈmjutʃuəl/"
     },
     {
@@ -4017,13 +4017,13 @@
     {
       "word": "negligible",
       "translation": "insignificante",
-      "example": "The cost difference is negligible.",
+      "example": "The difference in price is negligible.",
       "phonics": "/ˈnɛɡlədʒəbəl/, /ˈnɛɡlɪdʒəbəl/"
     },
     {
       "word": "newsletter",
       "translation": "el boletín",
-      "example": "The newsletter goes out monthly.",
+      "example": "The school newsletter goes out every month.",
       "phonics": "/ˈnuzˌlɛtɝ/"
     },
     {
@@ -4035,7 +4035,7 @@
     {
       "word": "noble",
       "translation": "noble",
-      "example": "It was a noble attempt.",
+      "example": "He fought for a noble cause.",
       "phonics": "/ˈnoʊbəl/"
     },
     {
@@ -4059,7 +4059,7 @@
     {
       "word": "nominee",
       "translation": "el candidato",
-      "example": "The nominee withdrew on Monday.",
+      "example": "One nominee for the prize withdrew on Monday.",
       "phonics": "/ˌnɑməˈni/"
     },
     {
@@ -4083,25 +4083,25 @@
     {
       "word": "notable",
       "translation": "notable",
-      "example": "There was one notable exception.",
+      "example": "The book has one notable weakness.",
       "phonics": "/ˈnoʊtəbəl/"
     },
     {
       "word": "notify",
       "translation": "notificar",
-      "example": "Notify the office if you cannot come.",
+      "example": "Staff notify the office if they cannot come.",
       "phonics": "/ˈnoʊtəˌfaɪ/"
     },
     {
       "word": "notorious",
       "translation": "notorio",
-      "example": "The junction is notorious.",
+      "example": "The junction is notorious for accidents.",
       "phonics": "/noʊˈtɔriəs/"
     },
     {
       "word": "nuance",
       "translation": "el matiz",
-      "example": "The translation lost every nuance.",
+      "example": "The translation lost every nuance of the poem.",
       "phonics": "/ˈnuɑns/"
     },
     {
@@ -4113,7 +4113,7 @@
     {
       "word": "objection",
       "translation": "la objeción",
-      "example": "She raised one objection.",
+      "example": "She raised one objection to the plan.",
       "phonics": "/əbˈdʒɛkʃən/"
     },
     {
@@ -4131,7 +4131,7 @@
     {
       "word": "odds",
       "translation": "las probabilidades",
-      "example": "The odds are against us.",
+      "example": "The odds of winning the lottery are very low.",
       "phonics": "/ˈɑdz/"
     },
     {
@@ -4143,7 +4143,7 @@
     {
       "word": "opaque",
       "translation": "opaco",
-      "example": "The wording is deliberately opaque.",
+      "example": "The bathroom window is made of opaque glass.",
       "phonics": "/oʊˈpeɪk/"
     },
     {
@@ -4155,7 +4155,7 @@
     {
       "word": "optimism",
       "translation": "el optimismo",
-      "example": "There is quiet optimism about the year.",
+      "example": "There is new optimism about the economy.",
       "phonics": "/ˈɑptəˌmɪzəm/"
     },
     {
@@ -4167,7 +4167,7 @@
     {
       "word": "orientation",
       "translation": "la orientación",
-      "example": "The orientation runs on Monday morning.",
+      "example": "The orientation for new students runs on Monday.",
       "phonics": "/ˌɔriɛnˈteɪʃən/"
     },
     {
@@ -4197,7 +4197,7 @@
     {
       "word": "outlook",
       "translation": "la perspectiva",
-      "example": "The outlook for summer is dry.",
+      "example": "The outlook for the economy is good.",
       "phonics": "/ˈaʊtˌlʊk/"
     },
     {
@@ -4215,13 +4215,13 @@
     {
       "word": "outsider",
       "translation": "el forastero",
-      "example": "As an outsider she saw it clearly.",
+      "example": "As an outsider, she saw the problem clearly.",
       "phonics": "/aʊtˈsaɪdɝ/"
     },
     {
       "word": "overlook",
       "translation": "pasar por alto",
-      "example": "It is easy to overlook that line.",
+      "example": "Our hotel room overlooks the sea.",
       "phonics": "/ˈoʊvɝˌlʊk/"
     },
     {
@@ -4239,7 +4239,7 @@
     {
       "word": "overt",
       "translation": "manifiesto",
-      "example": "There was no overt hostility.",
+      "example": "There was no overt hostility at the meeting.",
       "phonics": "/ˈoʊvɝt/, /oʊˈvɝt/"
     },
     {
@@ -4257,19 +4257,19 @@
     {
       "word": "paradigm",
       "translation": "el paradigma",
-      "example": "The discovery changed the whole paradigm.",
+      "example": "The discovery changed the whole paradigm of medicine.",
       "phonics": "/ˈpɛrəˌdaɪm/"
     },
     {
       "word": "paradox",
       "translation": "la paradoja",
-      "example": "It is a paradox worth examining.",
+      "example": "It is a paradox that the richest country has the most poor people.",
       "phonics": "/ˈpɛrəˌdɑks/"
     },
     {
       "word": "parameter",
       "translation": "el parámetro",
-      "example": "One parameter controls the speed.",
+      "example": "One parameter controls the speed of the machine.",
       "phonics": "/pɝˈæmətɝ/"
     },
     {
@@ -4305,13 +4305,13 @@
     {
       "word": "pathway",
       "translation": "la vía",
-      "example": "There is a clear pathway to a licence.",
+      "example": "A narrow pathway leads to the beach.",
       "phonics": "/ˈpæθˌweɪ/"
     },
     {
       "word": "patrol",
       "translation": "la patrulla",
-      "example": "A patrol passes every hour.",
+      "example": "A police patrol passes every hour.",
       "phonics": "/pəˈtroʊl/"
     },
     {
@@ -4359,7 +4359,7 @@
     {
       "word": "pervasive",
       "translation": "omnipresente",
-      "example": "The smell was pervasive.",
+      "example": "The smell of smoke was pervasive.",
       "phonics": "/pɝˈveɪsɪv/"
     },
     {
@@ -4395,7 +4395,7 @@
     {
       "word": "pit",
       "translation": "el hoyo",
-      "example": "The pit was fenced off.",
+      "example": "The workers fenced off the deep pit.",
       "phonics": "/ˈpɪt/"
     },
     {
@@ -4437,7 +4437,7 @@
     {
       "word": "poll",
       "translation": "la encuesta",
-      "example": "The poll put them six points ahead.",
+      "example": "The latest poll put them six points ahead.",
       "phonics": "/ˈpoʊl/"
     },
     {
@@ -4461,19 +4461,19 @@
     {
       "word": "post-war",
       "translation": "de posguerra",
-      "example": "The post-war years were lean.",
+      "example": "The post-war years were hard for many families.",
       "phonics": "/ˈpoʊst ˈwɔr/"
     },
     {
       "word": "practitioner",
       "translation": "el profesional",
-      "example": "She is a general practitioner.",
+      "example": "She is a general practitioner in a small town.",
       "phonics": "/prækˈtɪʃənɝ/, /prækˈtɪʃnɝ/"
     },
     {
       "word": "pragmatic",
       "translation": "pragmático",
-      "example": "They took a pragmatic view.",
+      "example": "They took a pragmatic approach to the problem.",
       "phonics": "/præɡˈmætɪk/"
     },
     {
@@ -4503,7 +4503,7 @@
     {
       "word": "predator",
       "translation": "el depredador",
-      "example": "The wolf is the main predator here.",
+      "example": "The wolf is the main predator in the forest.",
       "phonics": "/ˈprɛdətɝ/"
     },
     {
@@ -4527,13 +4527,13 @@
     {
       "word": "preliminary",
       "translation": "preliminar",
-      "example": "These are preliminary results.",
+      "example": "These are only the preliminary results.",
       "phonics": "/priˈlɪməˌnɛri/, /prɪˈlɪməˌnɛri/"
     },
     {
       "word": "premier",
       "translation": "principal",
-      "example": "She is the premier violinist of her age.",
+      "example": "She is the premier violinist of her generation.",
       "phonics": "/prɛˈmɪr/, /priˈmɪr/"
     },
     {
@@ -4545,25 +4545,25 @@
     {
       "word": "premium",
       "translation": "la prima",
-      "example": "You pay a premium for the view.",
+      "example": "Customers pay a premium for a sea view.",
       "phonics": "/ˈprimiəm/"
     },
     {
       "word": "prescribe",
       "translation": "recetar",
-      "example": "The doctor prescribed rest.",
+      "example": "The doctor prescribed rest and water.",
       "phonics": "/prəsˈkraɪb/, /prisˈkraɪb/"
     },
     {
       "word": "prescription",
       "translation": "la receta",
-      "example": "Take the prescription to the pharmacy.",
+      "example": "She takes the prescription to the pharmacy.",
       "phonics": "/prəsˈkrɪpʃən/"
     },
     {
       "word": "presently",
       "translation": "dentro de poco",
-      "example": "She will be down presently.",
+      "example": "The doctor will see you presently.",
       "phonics": "/ˈprɛzəntli/"
     },
     {
@@ -4575,13 +4575,13 @@
     {
       "word": "prestigious",
       "translation": "prestigioso",
-      "example": "It is a prestigious award.",
+      "example": "She won a prestigious award for her book.",
       "phonics": "/pɝˈstidʒəs/, /prɛˈstɪdʒəs/"
     },
     {
       "word": "presume",
       "translation": "presumir",
-      "example": "I presume the shop is shut.",
+      "example": "I presume the shop is shut on Sundays.",
       "phonics": "/prɪˈzum/"
     },
     {
@@ -4605,7 +4605,7 @@
     {
       "word": "prevention",
       "translation": "la prevención",
-      "example": "Prevention is cheaper than repair.",
+      "example": "Prevention is better than cure.",
       "phonics": "/priˈvɛnʃən/"
     },
     {
@@ -4617,19 +4617,19 @@
     {
       "word": "privilege",
       "translation": "el privilegio",
-      "example": "It was a privilege to hear her.",
+      "example": "It was a privilege to meet the famous writer.",
       "phonics": "/ˈprɪvɪlədʒ/, /ˈprɪvɪlɪdʒ/"
     },
     {
       "word": "probe",
       "translation": "la investigación",
-      "example": "The probe found no fault.",
+      "example": "The police probe found no evidence.",
       "phonics": "/ˈproʊb/"
     },
     {
       "word": "problematic",
       "translation": "problemático",
-      "example": "The timing is problematic.",
+      "example": "The timing of the meeting is problematic for me.",
       "phonics": "/ˌprɑbləˈmætɪk/"
     },
     {
@@ -4641,19 +4641,19 @@
     {
       "word": "processor",
       "translation": "el procesador",
-      "example": "The processor runs hot.",
+      "example": "The phone has a fast processor.",
       "phonics": "/ˈprɑˌsɛsɝ/"
     },
     {
       "word": "proclaim",
       "translation": "proclamar",
-      "example": "They proclaimed the day a holiday.",
+      "example": "The king proclaimed the day a holiday.",
       "phonics": "/proʊˈkleɪm/"
     },
     {
       "word": "projection",
       "translation": "la proyección",
-      "example": "The projection assumes steady growth.",
+      "example": "The sales projection assumes steady growth.",
       "phonics": "/prəˈdʒɛkʃən/"
     },
     {
@@ -4665,7 +4665,7 @@
     {
       "word": "pronounced",
       "translation": "pronunciado",
-      "example": "There is a pronounced difference.",
+      "example": "She walks with a pronounced limp.",
       "phonics": "/prəˈnaʊnst/"
     },
     {
@@ -4683,7 +4683,7 @@
     {
       "word": "proposition",
       "translation": "la propuesta",
-      "example": "It is an attractive proposition.",
+      "example": "Buying the old house is an attractive proposition.",
       "phonics": "/ˌprɑpəˈzɪʃən/"
     },
     {
@@ -4707,19 +4707,19 @@
     {
       "word": "prosperity",
       "translation": "la prosperidad",
-      "example": "The port brought prosperity.",
+      "example": "The new port brought prosperity to the town.",
       "phonics": "/prɑˈspɛrəti/"
     },
     {
       "word": "protocol",
       "translation": "el protocolo",
-      "example": "Follow the safety protocol.",
+      "example": "Hospital staff follow a strict safety protocol.",
       "phonics": "/ˈproʊtəˌkɑl/, /ˈproʊtəˌkɔl/"
     },
     {
       "word": "province",
       "translation": "la provincia",
-      "example": "The province has its own tax.",
+      "example": "The province has its own tax rules.",
       "phonics": "/ˈprɑvəns/, /ˈprɑvɪns/"
     },
     {
@@ -4737,7 +4737,7 @@
     {
       "word": "prudent",
       "translation": "prudente",
-      "example": "It would be prudent to wait.",
+      "example": "It would be prudent to wait for the results.",
       "phonics": "/ˈprudənt/"
     },
     {
@@ -4761,13 +4761,13 @@
     {
       "word": "quest",
       "translation": "la búsqueda",
-      "example": "The book is a quest for the truth.",
+      "example": "The film follows a knight on a quest for gold.",
       "phonics": "/ˈkwɛst/"
     },
     {
       "word": "quota",
       "translation": "la cuota",
-      "example": "Each region has a quota.",
+      "example": "Each country has a fishing quota.",
       "phonics": "/ˈkwoʊtə/"
     },
     {
@@ -4785,37 +4785,37 @@
     {
       "word": "raid",
       "translation": "la redada",
-      "example": "The raid took place at dawn.",
+      "example": "The police raid took place at dawn.",
       "phonics": "/ˈreɪd/"
     },
     {
       "word": "rally",
       "translation": "la concentración",
-      "example": "The rally filled the square.",
+      "example": "The rally filled the main square.",
       "phonics": "/ˈræli/"
     },
     {
       "word": "ratio",
       "translation": "la proporción",
-      "example": "The ratio is two to one.",
+      "example": "The ratio of boys to girls in the class is two to one.",
       "phonics": "/ˈreɪʃiˌoʊ/"
     },
     {
       "word": "rational",
       "translation": "racional",
-      "example": "Try to make a rational choice.",
+      "example": "She made a rational choice.",
       "phonics": "/ˈræʃənəl/, /ˈræʃnəl/"
     },
     {
       "word": "ray",
       "translation": "el rayo",
-      "example": "A ray of sun crossed the table.",
+      "example": "A ray of sunlight crossed the table.",
       "phonics": "/ˈreɪ/"
     },
     {
       "word": "realm",
       "translation": "el ámbito",
-      "example": "That is outside the realm of science.",
+      "example": "Time travel is outside the realm of science.",
       "phonics": "/ˈrɛlm/"
     },
     {
@@ -4851,13 +4851,13 @@
     {
       "word": "recipient",
       "translation": "el destinatario",
-      "example": "The recipient must sign for it.",
+      "example": "The recipient of the parcel must sign for it.",
       "phonics": "/rəˈsɪpiənt/, /rɪˈsɪpiənt/"
     },
     {
       "word": "reconcile",
       "translation": "conciliar",
-      "example": "It is hard to reconcile the two accounts.",
+      "example": "The brothers finally reconciled after years apart.",
       "phonics": "/ˈrɛkənˌsaɪl/"
     },
     {
@@ -4875,13 +4875,13 @@
     {
       "word": "redundant",
       "translation": "redundante",
-      "example": "The second clause is redundant.",
+      "example": "The second sentence in the paragraph is redundant.",
       "phonics": "/rɪˈdəndənt/"
     },
     {
       "word": "referendum",
       "translation": "el referéndum",
-      "example": "The referendum settled nothing.",
+      "example": "The country held a referendum on the new law.",
       "phonics": "/ˌrɛfɝˈɛndəm/"
     },
     {
@@ -4893,7 +4893,7 @@
     {
       "word": "reform",
       "translation": "la reforma",
-      "example": "The reform took ten years.",
+      "example": "The reform of the school system took ten years.",
       "phonics": "/rəˈfɔrm/, /rɪˈfɔrm/"
     },
     {
@@ -4911,7 +4911,7 @@
     {
       "word": "regime",
       "translation": "el régimen",
-      "example": "The regime fell in 1989.",
+      "example": "The old regime fell in 1989.",
       "phonics": "/reɪˈʒim/, /rəˈʒim/"
     },
     {
@@ -4923,7 +4923,7 @@
     {
       "word": "rehabilitation",
       "translation": "la rehabilitación",
-      "example": "Rehabilitation took eight months.",
+      "example": "His rehabilitation after the accident took eight months.",
       "phonics": "/ˌriəˌbɪləˈteɪʃən/, /ˌrihəˌbɪləˈteɪʃən/"
     },
     {
@@ -4935,19 +4935,19 @@
     {
       "word": "rejection",
       "translation": "el rechazo",
-      "example": "The rejection was polite but firm.",
+      "example": "Her rejection of the offer was polite but firm.",
       "phonics": "/riˈdʒɛkʃən/, /rɪˈdʒɛkʃən/"
     },
     {
       "word": "relevance",
       "translation": "la relevancia",
-      "example": "The letter has no relevance now.",
+      "example": "The old letter has no relevance to the case now.",
       "phonics": "/ˈrɛləvəns/"
     },
     {
       "word": "reliability",
       "translation": "la fiabilidad",
-      "example": "The reliability of the data is good.",
+      "example": "The reliability of this car is excellent.",
       "phonics": "/riˌlaɪəˈbɪləti/"
     },
     {
@@ -4971,13 +4971,13 @@
     {
       "word": "remedy",
       "translation": "el remedio",
-      "example": "There is no easy remedy.",
+      "example": "Honey is an old remedy for a sore throat.",
       "phonics": "/ˈrɛmədi/"
     },
     {
       "word": "reminder",
       "translation": "el recordatorio",
-      "example": "The card was a gentle reminder.",
+      "example": "The phone sends me a reminder before each meeting.",
       "phonics": "/riˈmaɪndɝ/"
     },
     {
@@ -5001,13 +5001,13 @@
     {
       "word": "reproduce",
       "translation": "reproducir",
-      "example": "The colours reproduce badly in print.",
+      "example": "The printer cannot reproduce the colours well.",
       "phonics": "/ˌriprəˈdus/"
     },
     {
       "word": "reproduction",
       "translation": "la reproducción",
-      "example": "The reproduction hangs in the hall.",
+      "example": "A reproduction of the famous painting hangs in the hall.",
       "phonics": "/ˌriprəˈdəkʃən/"
     },
     {
@@ -5037,7 +5037,7 @@
     {
       "word": "resilient",
       "translation": "resiliente",
-      "example": "The economy proved surprisingly resilient.",
+      "example": "Children are often very resilient.",
       "phonics": "/rɪˈzɪljənt/"
     },
     {
@@ -5049,7 +5049,7 @@
     {
       "word": "restraint",
       "translation": "la moderación",
-      "example": "He showed great restraint.",
+      "example": "He showed great restraint in the argument.",
       "phonics": "/riˈstreɪnt/, /rɪˈstreɪnt/"
     },
     {
@@ -5061,7 +5061,7 @@
     {
       "word": "resurgence",
       "translation": "el resurgimiento",
-      "example": "There has been a resurgence of interest.",
+      "example": "There has been a resurgence of interest in old films.",
       "phonics": "/riˈsɝdʒəns/"
     },
     {
@@ -5079,7 +5079,7 @@
     {
       "word": "revelation",
       "translation": "la revelación",
-      "example": "The letter was a revelation.",
+      "example": "The letter contained a shocking revelation.",
       "phonics": "/ˌrɛvəˈleɪʃən/"
     },
     {
@@ -5091,7 +5091,7 @@
     {
       "word": "reverse",
       "translation": "invertir",
-      "example": "Reverse the order of the last two.",
+      "example": "She reversed the car into the garage.",
       "phonics": "/riˈvɝs/, /rɪˈvɝs/"
     },
     {
@@ -5103,19 +5103,19 @@
     {
       "word": "revolutionary",
       "translation": "revolucionario",
-      "example": "The design was revolutionary.",
+      "example": "The new design was revolutionary.",
       "phonics": "/ˌrɛvəˈluʃəˌnɛri/"
     },
     {
       "word": "rhetoric",
       "translation": "la retórica",
-      "example": "The speech was mostly rhetoric.",
+      "example": "The politician's speech was mostly empty rhetoric.",
       "phonics": "/ˈrɛtɝɪk/"
     },
     {
       "word": "riot",
       "translation": "el disturbio",
-      "example": "One riot closed the street.",
+      "example": "The riot closed the main street.",
       "phonics": "/ˈraɪət/"
     },
     {
@@ -5127,79 +5127,79 @@
     {
       "word": "ritual",
       "translation": "el ritual",
-      "example": "Tea at four is a family ritual.",
+      "example": "Tea at four is a daily ritual in the family.",
       "phonics": "/ˈrɪtʃuəl/"
     },
     {
       "word": "robust",
       "translation": "robusto",
-      "example": "The method is robust enough.",
+      "example": "The new bridge is robust enough for heavy trucks.",
       "phonics": "/roʊˈbəst/"
     },
     {
       "word": "rod",
       "translation": "la vara",
-      "example": "The rod bent under the weight.",
+      "example": "His fishing rod bent under the weight of the fish.",
       "phonics": "/ˈrɑd/"
     },
     {
       "word": "rookie",
       "translation": "el novato",
-      "example": "He is still a rookie.",
+      "example": "The rookie scored in his first game.",
       "phonics": "/ˈrʊki/"
     },
     {
       "word": "roster",
       "translation": "la lista",
-      "example": "Your name is on the roster.",
+      "example": "Her name is on the work roster for Sunday.",
       "phonics": "/ˈrɑstɝ/"
     },
     {
       "word": "rotate",
       "translation": "rotar",
-      "example": "Rotate the tyres every year.",
+      "example": "The Earth rotates once a day.",
       "phonics": "/ˈroʊˌteɪt/"
     },
     {
       "word": "rotation",
       "translation": "la rotación",
-      "example": "The crop rotation improves the soil.",
+      "example": "Crop rotation improves the soil.",
       "phonics": "/roʊˈteɪʃən/"
     },
     {
       "word": "ruling",
       "translation": "el fallo",
-      "example": "The ruling favoured the tenant.",
+      "example": "The court's ruling favoured the tenant.",
       "phonics": "/ˈrulɪŋ/"
     },
     {
       "word": "rumour",
       "translation": "el rumor",
-      "example": "The rumour spread in a day.",
+      "example": "The rumour about the wedding spread in a day.",
       "phonics": "/ˈrumɝ/"
     },
     {
       "word": "sack",
       "translation": "despedir",
-      "example": "He was sacked in April.",
+      "example": "The company sacked him in April.",
       "phonics": "/ˈsæk/"
     },
     {
       "word": "sacred",
       "translation": "sagrado",
-      "example": "The grove is sacred to the village.",
+      "example": "The villagers believe the old tree is sacred.",
       "phonics": "/ˈseɪkrəd/, /ˈseɪkrɪd/"
     },
     {
       "word": "sacrifice",
       "translation": "el sacrificio",
-      "example": "They made a real sacrifice for her.",
+      "example": "Her parents made many sacrifices for her education.",
       "phonics": "/ˈsækrəˌfaɪs/"
     },
     {
       "word": "safeguard",
       "translation": "la salvaguarda",
-      "example": "The rule is a safeguard against abuse.",
+      "example": "The new rule is a safeguard against fraud.",
       "phonics": "/ˈseɪfˌɡɑrd/"
     },
     {
@@ -5217,31 +5217,31 @@
     {
       "word": "salient",
       "translation": "destacado",
-      "example": "He listed the salient points.",
+      "example": "He listed the salient points of the report.",
       "phonics": "/ˈseɪliənt/, /ˈseɪljənt/"
     },
     {
       "word": "sanction",
       "translation": "la sanción",
-      "example": "The committee imposed a sanction.",
+      "example": "The UN imposed sanctions on the country.",
       "phonics": "/ˈsæŋkʃən/"
     },
     {
       "word": "saviour",
       "translation": "el salvador",
-      "example": "The rain was the saviour of the harvest.",
+      "example": "The new coach was the saviour of the team.",
       "phonics": "/ˈseɪvjɝ/"
     },
     {
       "word": "scattered",
       "translation": "esparcido",
-      "example": "Papers were scattered across the desk.",
+      "example": "Toys were scattered across the floor.",
       "phonics": "/ˈskætɝd/"
     },
     {
       "word": "sceptical",
       "translation": "escéptico",
-      "example": "She was sceptical about the claim.",
+      "example": "She was sceptical about his story.",
       "phonics": "/ˈskɛptəkəl/, /ˈskɛptɪkəl/"
     },
     {
@@ -5253,79 +5253,79 @@
     {
       "word": "screw",
       "translation": "el tornillo",
-      "example": "One screw was missing.",
+      "example": "One screw on the shelf was missing.",
       "phonics": "/ˈskru/"
     },
     {
       "word": "scrutiny",
       "translation": "el escrutinio",
-      "example": "The accounts came under close scrutiny.",
+      "example": "The company's accounts came under close scrutiny.",
       "phonics": "/ˈskrutəni/"
     },
     {
       "word": "seal",
       "translation": "el sello",
-      "example": "The seal on the jar was broken.",
+      "example": "The seal on the medicine bottle was broken.",
       "phonics": "/ˈsil/"
     },
     {
       "word": "secular",
       "translation": "laico",
-      "example": "The school is secular.",
+      "example": "She went to a secular school.",
       "phonics": "/ˈsɛkjəlɝ/"
     },
     {
       "word": "segment",
       "translation": "el segmento",
-      "example": "This segment of the market is growing.",
+      "example": "This segment of the market is growing fast.",
       "phonics": "/ˈsɛɡmənt/, /ˌsɛɡˈmɛnt/"
     },
     {
       "word": "seize",
       "translation": "incautar",
-      "example": "Police seized the van.",
+      "example": "The police seized the van.",
       "phonics": "/ˈsiz/"
     },
     {
       "word": "seldom",
       "translation": "rara vez",
-      "example": "She seldom writes now.",
+      "example": "She seldom writes letters now.",
       "phonics": "/ˈsɛldəm/"
     },
     {
       "word": "senator",
       "translation": "el senador",
-      "example": "The senator voted against it.",
+      "example": "The senator voted against the new law.",
       "phonics": "/ˈsɛnətɝ/"
     },
     {
       "word": "sensation",
       "translation": "la sensación",
-      "example": "There was a sensation of falling.",
+      "example": "He felt a strange sensation in his leg.",
       "phonics": "/sɛnˈseɪʃən/"
     },
     {
       "word": "sentiment",
       "translation": "el sentimiento",
-      "example": "Public sentiment turned against them.",
+      "example": "Public sentiment turned against the government.",
       "phonics": "/ˈsɛnəmənt/, /ˈsɛntəmənt/"
     },
     {
       "word": "separation",
       "translation": "la separación",
-      "example": "The separation lasted a year.",
+      "example": "Their separation lasted a year.",
       "phonics": "/ˌsɛpɝˈeɪʃən/"
     },
     {
       "word": "serial",
       "translation": "por entregas",
-      "example": "The magazine ran the story as a serial.",
+      "example": "The magazine published the story as a serial.",
       "phonics": "/ˈsɪˌriəl/"
     },
     {
       "word": "setup",
       "translation": "la configuración",
-      "example": "The setup takes about an hour.",
+      "example": "The setup of the new computer takes an hour.",
       "phonics": "/ˈsɛˌtəp/"
     },
     {
@@ -5343,13 +5343,13 @@
     {
       "word": "shed",
       "translation": "el cobertizo",
-      "example": "The tools are in the shed.",
+      "example": "My father keeps his tools in the shed.",
       "phonics": "/ˈʃɛd/"
     },
     {
       "word": "sheer",
       "translation": "puro",
-      "example": "The sheer size of it surprised me.",
+      "example": "The sheer size of the building surprised me.",
       "phonics": "/ˈʃɪr/"
     },
     {
@@ -5379,7 +5379,7 @@
     {
       "word": "simulation",
       "translation": "la simulación",
-      "example": "The simulation runs for an hour.",
+      "example": "The flight simulation runs for an hour.",
       "phonics": "/ˌsɪmjəˈleɪʃən/"
     },
     {
@@ -5391,7 +5391,7 @@
     {
       "word": "sin",
       "translation": "el pecado",
-      "example": "In the story greed is the worst sin.",
+      "example": "Many people believe that lying is a sin.",
       "phonics": "/ˈsɪn/"
     },
     {
@@ -5409,31 +5409,31 @@
     {
       "word": "slash",
       "translation": "recortar",
-      "example": "They slashed the price by half.",
+      "example": "The shop slashed its prices by half.",
       "phonics": "/ˈslæʃ/"
     },
     {
       "word": "slot",
       "translation": "el hueco",
-      "example": "There is one slot left on Friday.",
+      "example": "The dentist has one free slot on Friday.",
       "phonics": "/ˈslɑt/"
     },
     {
       "word": "smash",
       "translation": "romper",
-      "example": "The plate smashed on the tiles.",
+      "example": "The plate smashed on the floor.",
       "phonics": "/ˈsmæʃ/"
     },
     {
       "word": "snap",
       "translation": "romperse",
-      "example": "The dry branch snapped.",
+      "example": "The dry branch snapped under his foot.",
       "phonics": "/ˈsnæp/"
     },
     {
       "word": "soak",
       "translation": "remojar",
-      "example": "Soak the beans overnight.",
+      "example": "She soaks the beans overnight.",
       "phonics": "/ˈsoʊk/"
     },
     {
@@ -5445,7 +5445,7 @@
     {
       "word": "socialist",
       "translation": "socialista",
-      "example": "The party has a socialist tradition.",
+      "example": "The party has a socialist past.",
       "phonics": "/ˈsoʊʃələst/, /ˈsoʊʃəlɪst/"
     },
     {
@@ -5463,13 +5463,13 @@
     {
       "word": "solidarity",
       "translation": "la solidaridad",
-      "example": "The strike showed real solidarity.",
+      "example": "The workers showed solidarity with the nurses.",
       "phonics": "/ˌsɑləˈdɛrəti/"
     },
     {
       "word": "solo",
       "translation": "el solo",
-      "example": "She played a short solo.",
+      "example": "She played a guitar solo.",
       "phonics": "/ˈsoʊˌloʊ/"
     },
     {
@@ -5493,25 +5493,25 @@
     {
       "word": "specimen",
       "translation": "la muestra",
-      "example": "The specimen went to the lab.",
+      "example": "The doctor sent a blood specimen to the lab.",
       "phonics": "/ˈspɛsəmən/"
     },
     {
       "word": "spectacle",
       "translation": "el espectáculo",
-      "example": "The opening was quite a spectacle.",
+      "example": "The fireworks were quite a spectacle.",
       "phonics": "/ˈspɛktəkəl/"
     },
     {
       "word": "spectrum",
       "translation": "el espectro",
-      "example": "Opinions cover the whole spectrum.",
+      "example": "The class has students from across the age spectrum.",
       "phonics": "/ˈspɛktrəm/"
     },
     {
       "word": "sphere",
       "translation": "la esfera",
-      "example": "That is outside my sphere.",
+      "example": "The Earth is not a perfect sphere.",
       "phonics": "/ˈsfɪr/"
     },
     {
@@ -5523,7 +5523,7 @@
     {
       "word": "spine",
       "translation": "el lomo",
-      "example": "The book's spine is cracked.",
+      "example": "He injured his spine in the fall.",
       "phonics": "/ˈspaɪn/"
     },
     {
@@ -5535,19 +5535,19 @@
     {
       "word": "spouse",
       "translation": "el cónyuge",
-      "example": "Bring your spouse if you like.",
+      "example": "Employees can bring their spouse to the party.",
       "phonics": "/ˈspaʊs/"
     },
     {
       "word": "squad",
       "translation": "el equipo",
-      "example": "The squad trains on Tuesdays.",
+      "example": "The football squad trains on Tuesdays.",
       "phonics": "/ˈskwɑd/"
     },
     {
       "word": "squeeze",
       "translation": "exprimir",
-      "example": "Squeeze the lemon over the fish.",
+      "example": "She squeezes a lemon over the fish.",
       "phonics": "/ˈskwiz/"
     },
     {
@@ -5559,7 +5559,7 @@
     {
       "word": "stability",
       "translation": "la estabilidad",
-      "example": "The stability of the roof worries me.",
+      "example": "The country needs political stability.",
       "phonics": "/stəˈbɪlɪti/"
     },
     {
@@ -5571,7 +5571,7 @@
     {
       "word": "stake",
       "translation": "lo que está en juego",
-      "example": "There is a lot at stake here.",
+      "example": "His job is at stake.",
       "phonics": "/ˈsteɪk/"
     },
     {
@@ -5583,7 +5583,7 @@
     {
       "word": "stark",
       "translation": "marcado",
-      "example": "The contrast is stark.",
+      "example": "The contrast between rich and poor is stark.",
       "phonics": "/ˈstɑrk/"
     },
     {
@@ -5595,7 +5595,7 @@
     {
       "word": "stem",
       "translation": "el tallo",
-      "example": "Cut the stem at an angle.",
+      "example": "She cuts the flower stems at an angle.",
       "phonics": "/ˈstɛm/"
     },
     {
@@ -5607,31 +5607,31 @@
     {
       "word": "stereotype",
       "translation": "el estereotipo",
-      "example": "The film avoids every stereotype.",
+      "example": "The film avoids the usual stereotypes.",
       "phonics": "/ˈstɛriəˌtaɪp/, /ˈstɛrioʊˌtaɪp/"
     },
     {
       "word": "stigma",
       "translation": "el estigma",
-      "example": "The stigma has faded over time.",
+      "example": "There is still a stigma around mental illness.",
       "phonics": "/ˈstɪɡmə/"
     },
     {
       "word": "stimulus",
       "translation": "el estímulo",
-      "example": "The grant acted as a stimulus.",
+      "example": "The tax cut was a stimulus to the economy.",
       "phonics": "/ˈstɪmjələs/"
     },
     {
       "word": "stir",
       "translation": "remover",
-      "example": "Stir the sauce slowly.",
+      "example": "He stirs the sauce slowly.",
       "phonics": "/ˈstɝ/"
     },
     {
       "word": "storage",
       "translation": "el almacenamiento",
-      "example": "Storage costs are rising.",
+      "example": "The phone has a lot of storage.",
       "phonics": "/ˈstɔrədʒ/, /ˈstɔrɪdʒ/"
     },
     {
@@ -5643,19 +5643,19 @@
     {
       "word": "strain",
       "translation": "la tensión",
-      "example": "The rope took the strain.",
+      "example": "The long hours put a strain on her health.",
       "phonics": "/ˈstreɪn/"
     },
     {
       "word": "strand",
       "translation": "la hebra",
-      "example": "One strand of wire had broken.",
+      "example": "A strand of hair fell across her face.",
       "phonics": "/ˈstrænd/"
     },
     {
       "word": "strategic",
       "translation": "estratégico",
-      "example": "It was a strategic decision.",
+      "example": "Moving the office was a strategic decision.",
       "phonics": "/strəˈtidʒɪk/"
     },
     {
@@ -5667,13 +5667,13 @@
     {
       "word": "strip",
       "translation": "la tira",
-      "example": "Cut the paper into thin strips.",
+      "example": "She cuts the paper into thin strips.",
       "phonics": "/ˈstrɪp/"
     },
     {
       "word": "strive",
       "translation": "esforzarse",
-      "example": "They strive to keep the price low.",
+      "example": "The shop strives to keep prices low.",
       "phonics": "/ˈstraɪv/"
     },
     {
@@ -5685,7 +5685,7 @@
     {
       "word": "submission",
       "translation": "la presentación",
-      "example": "The submission is due on Friday.",
+      "example": "The deadline for submission is Friday.",
       "phonics": "/səbˈmɪʃən/"
     },
     {
@@ -5697,7 +5697,7 @@
     {
       "word": "subscription",
       "translation": "la suscripción",
-      "example": "The subscription runs for a year.",
+      "example": "Her magazine subscription runs for a year.",
       "phonics": "/səbsˈkrɪpʃən/"
     },
     {
@@ -5715,37 +5715,37 @@
     {
       "word": "substitute",
       "translation": "el sustituto",
-      "example": "Use oil as a substitute for butter.",
+      "example": "She uses oil as a substitute for butter.",
       "phonics": "/ˈsəbstəˌtut/"
     },
     {
       "word": "substitution",
       "translation": "la sustitución",
-      "example": "One substitution changed the game.",
+      "example": "The coach made one substitution in the second half.",
       "phonics": "/ˌsəbstɪˈtuʃən/"
     },
     {
       "word": "subtle",
       "translation": "sutil",
-      "example": "There is a subtle difference in colour.",
+      "example": "There is a subtle difference between the two colours.",
       "phonics": "/ˈsətəl/"
     },
     {
       "word": "suburban",
       "translation": "suburbano",
-      "example": "They live in a suburban street.",
+      "example": "They live on a quiet suburban street.",
       "phonics": "/səˈbɝbən/"
     },
     {
       "word": "succession",
       "translation": "la sucesión",
-      "example": "There were three delays in succession.",
+      "example": "The team lost three games in succession.",
       "phonics": "/səkˈsɛʃən/"
     },
     {
       "word": "successor",
       "translation": "el sucesor",
-      "example": "Her successor started in June.",
+      "example": "Her successor started work in June.",
       "phonics": "/səkˈsɛsɝ/"
     },
     {
@@ -5763,31 +5763,31 @@
     {
       "word": "suite",
       "translation": "la suite",
-      "example": "They booked a small suite.",
+      "example": "They booked a suite at the hotel.",
       "phonics": "/ˈswit/"
     },
     {
       "word": "summit",
       "translation": "la cumbre",
-      "example": "The summit was covered in cloud.",
+      "example": "They reached the summit of the mountain at noon.",
       "phonics": "/ˈsəmət/, /ˈsəmɪt/"
     },
     {
       "word": "superb",
       "translation": "magnífico",
-      "example": "The meal was superb.",
+      "example": "The meal at the new restaurant was superb.",
       "phonics": "/sʊˈpɝb/"
     },
     {
       "word": "superintendent",
       "translation": "el superintendente",
-      "example": "The superintendent signed the report.",
+      "example": "The police superintendent signed the report.",
       "phonics": "/ˌsupɝənˈtɛndənt/, /ˌsupɝɪnˈtɛndənt/"
     },
     {
       "word": "superior",
       "translation": "superior",
-      "example": "This cloth is superior to the other.",
+      "example": "This cloth is superior to the cheaper one.",
       "phonics": "/suˈpɪriɝ/"
     },
     {
@@ -5799,19 +5799,19 @@
     {
       "word": "supervise",
       "translation": "supervisar",
-      "example": "She supervises four students.",
+      "example": "She supervises four new staff.",
       "phonics": "/ˈsupɝˌvaɪz/"
     },
     {
       "word": "supervision",
       "translation": "la supervisión",
-      "example": "The work needs close supervision.",
+      "example": "Young children need close supervision at the pool.",
       "phonics": "/ˌsupɝˈvɪʒən/"
     },
     {
       "word": "supervisor",
       "translation": "el supervisor",
-      "example": "Ask your supervisor first.",
+      "example": "He asks his supervisor for a day off.",
       "phonics": "/ˈsupɝˌvaɪzɝ/"
     },
     {
@@ -5823,103 +5823,103 @@
     {
       "word": "suppress",
       "translation": "suprimir",
-      "example": "They suppressed the report for a year.",
+      "example": "She suppressed a laugh.",
       "phonics": "/səˈprɛs/"
     },
     {
       "word": "supreme",
       "translation": "supremo",
-      "example": "The court is the supreme authority.",
+      "example": "The Supreme Court made the final decision.",
       "phonics": "/səˈprim/, /sɝˈprim/"
     },
     {
       "word": "surge",
       "translation": "el aumento repentino",
-      "example": "There was a surge in demand.",
+      "example": "There was a surge in demand for umbrellas.",
       "phonics": "/ˈsɝdʒ/"
     },
     {
       "word": "surgical",
       "translation": "quirúrgico",
-      "example": "She needs a surgical repair.",
+      "example": "The surgeon wore a surgical mask.",
       "phonics": "/ˈsɝdʒɪkəl/"
     },
     {
       "word": "surplus",
       "translation": "el excedente",
-      "example": "There is a surplus of apples this year.",
+      "example": "The farm has a surplus of apples this year.",
       "phonics": "/ˈsɝpləs/"
     },
     {
       "word": "surrender",
       "translation": "rendirse",
-      "example": "The town surrendered without a fight.",
+      "example": "The soldiers surrendered without a fight.",
       "phonics": "/sɝˈɛndɝ/"
     },
     {
       "word": "surveillance",
       "translation": "la vigilancia",
-      "example": "The building is under surveillance.",
+      "example": "The police kept the house under surveillance.",
       "phonics": "/sɝˈveɪləns/"
     },
     {
       "word": "suspension",
       "translation": "la suspensión",
-      "example": "The suspension lasted two matches.",
+      "example": "The player got a two-match suspension.",
       "phonics": "/səˈspɛnʃən/"
     },
     {
       "word": "suspicion",
       "translation": "la sospecha",
-      "example": "There was no suspicion at the time.",
+      "example": "The police arrested him on suspicion of theft.",
       "phonics": "/səˈspɪʃən/"
     },
     {
       "word": "suspicious",
       "translation": "sospechoso",
-      "example": "The neighbour saw something suspicious.",
+      "example": "The neighbour saw a suspicious man near the car.",
       "phonics": "/səˈspɪʃəs/"
     },
     {
       "word": "symbolic",
       "translation": "simbólico",
-      "example": "The gesture was symbolic.",
+      "example": "The dove is a symbolic bird of peace.",
       "phonics": "/sɪmˈbɑlɪk/"
     },
     {
       "word": "syndrome",
       "translation": "el síndrome",
-      "example": "The syndrome was named in 1962.",
+      "example": "Doctors named the syndrome in 1962.",
       "phonics": "/ˈsɪnˌdroʊm/"
     },
     {
       "word": "synthesis",
       "translation": "la síntesis",
-      "example": "The chapter is a synthesis of both views.",
+      "example": "The book is a synthesis of two theories.",
       "phonics": "/ˈsɪnθəsəs/"
     },
     {
       "word": "systematic",
       "translation": "sistemático",
-      "example": "They took a systematic approach.",
+      "example": "The police made a systematic search of the house.",
       "phonics": "/ˌsɪstəˈmætɪk/"
     },
     {
       "word": "tactic",
       "translation": "la táctica",
-      "example": "The tactic worked well.",
+      "example": "The coach's new tactic worked well.",
       "phonics": "/ˈtæktɪk/"
     },
     {
       "word": "taxpayer",
       "translation": "el contribuyente",
-      "example": "The taxpayer pays for the repair.",
+      "example": "Taxpayers pay for the new road.",
       "phonics": "/ˈtækˌspeɪɝ/"
     },
     {
       "word": "tempt",
       "translation": "tentar",
-      "example": "The price tempted us to buy.",
+      "example": "The cakes in the window tempt me every day.",
       "phonics": "/ˈtɛmpt/"
     },
     {
@@ -5943,31 +5943,31 @@
     {
       "word": "tenuous",
       "translation": "tenue",
-      "example": "The link between them is tenuous.",
+      "example": "The link between the two crimes is tenuous.",
       "phonics": "/ˈtɛnjəwəs/"
     },
     {
       "word": "tenure",
       "translation": "el mandato",
-      "example": "Her tenure ended last year.",
+      "example": "Her tenure as head teacher ended last year.",
       "phonics": "/ˈtɛnjɝ/"
     },
     {
       "word": "terminate",
       "translation": "rescindir",
-      "example": "They terminated the contract early.",
+      "example": "The company terminated his contract early.",
       "phonics": "/ˈtɝməˌneɪt/"
     },
     {
       "word": "terrain",
       "translation": "el terreno",
-      "example": "The terrain is rough after the bridge.",
+      "example": "The terrain in the mountains is rough.",
       "phonics": "/tɝˈeɪn/"
     },
     {
       "word": "terrific",
       "translation": "estupendo",
-      "example": "The response was terrific.",
+      "example": "We had a terrific time at the beach.",
       "phonics": "/tɝˈɪfɪk/"
     },
     {
@@ -5979,7 +5979,7 @@
     {
       "word": "testimony",
       "translation": "el testimonio",
-      "example": "Her testimony took an hour.",
+      "example": "Her testimony in court took an hour.",
       "phonics": "/ˈtɛstəˌmoʊni/"
     },
     {
@@ -5991,13 +5991,13 @@
     {
       "word": "thankfully",
       "translation": "afortunadamente",
-      "example": "Thankfully the rain held off.",
+      "example": "Thankfully, nobody was hurt in the fire.",
       "phonics": "/ˈθæŋkfəli/"
     },
     {
       "word": "theatrical",
       "translation": "teatral",
-      "example": "His manner is rather theatrical.",
+      "example": "His gestures are rather theatrical.",
       "phonics": "/θiˈætrɪkəl/"
     },
     {
@@ -6009,19 +6009,19 @@
     {
       "word": "theoretical",
       "translation": "teórico",
-      "example": "The risk is only theoretical.",
+      "example": "The risk of a crash is only theoretical.",
       "phonics": "/ˌθiɝˈɛtɪkəl/"
     },
     {
       "word": "thereafter",
       "translation": "a partir de entonces",
-      "example": "She left in June and wrote thereafter.",
+      "example": "She left in June and moved to Paris shortly thereafter.",
       "phonics": "/ðɛˈræftɝ/"
     },
     {
       "word": "thereby",
       "translation": "de ese modo",
-      "example": "The wall was raised, thereby blocking the view.",
+      "example": "He worked late, thereby missing the last bus.",
       "phonics": "/ˈðɛrˈbaɪ/"
     },
     {
@@ -6039,37 +6039,37 @@
     {
       "word": "threshold",
       "translation": "el umbral",
-      "example": "Sales are just below the threshold.",
+      "example": "Your income is below the tax threshold.",
       "phonics": "/ˈθrɛˌʃoʊld/"
     },
     {
       "word": "thrilled",
       "translation": "encantado",
-      "example": "She was thrilled with the result.",
+      "example": "She was thrilled with her exam result.",
       "phonics": "/ˈθrɪld/"
     },
     {
       "word": "thrive",
       "translation": "prosperar",
-      "example": "The plant thrives in shade.",
+      "example": "This plant thrives in the shade.",
       "phonics": "/ˈθraɪv/"
     },
     {
       "word": "tide",
       "translation": "la marea",
-      "example": "The tide turned at four.",
+      "example": "The tide comes in at four.",
       "phonics": "/ˈtaɪd/"
     },
     {
       "word": "tighten",
       "translation": "apretar",
-      "example": "Tighten the last screw.",
+      "example": "He tightens the last screw.",
       "phonics": "/ˈtaɪtən/"
     },
     {
       "word": "timber",
       "translation": "la madera",
-      "example": "The roof is held by old timber.",
+      "example": "The old house is built of timber.",
       "phonics": "/ˈtɪmbɝ/"
     },
     {
@@ -6081,7 +6081,7 @@
     {
       "word": "tolerance",
       "translation": "la tolerancia",
-      "example": "The design allows a small tolerance.",
+      "example": "The teacher has little tolerance for lateness.",
       "phonics": "/ˈtɑlɝəns/"
     },
     {
@@ -6099,7 +6099,7 @@
     {
       "word": "torture",
       "translation": "la tortura",
-      "example": "The treaty bans torture.",
+      "example": "The new law bans torture.",
       "phonics": "/ˈtɔrtʃɝ/"
     },
     {
@@ -6117,31 +6117,31 @@
     {
       "word": "trail",
       "translation": "el sendero",
-      "example": "The trail runs beside the stream.",
+      "example": "The walking trail runs beside the stream.",
       "phonics": "/ˈtreɪl/"
     },
     {
       "word": "traitor",
       "translation": "el traidor",
-      "example": "In the play he is called a traitor.",
+      "example": "Many people called him a traitor.",
       "phonics": "/ˈtreɪtɝ/"
     },
     {
       "word": "trajectory",
       "translation": "la trayectoria",
-      "example": "The company is on a steady trajectory.",
+      "example": "The company's growth is on a steady trajectory.",
       "phonics": "/trəˈdʒɛktɝi/"
     },
     {
       "word": "transaction",
       "translation": "la transacción",
-      "example": "Every transaction is recorded.",
+      "example": "The bank records every transaction.",
       "phonics": "/trænˈzækʃən/"
     },
     {
       "word": "transcript",
       "translation": "la transcripción",
-      "example": "She asked for a transcript of the call.",
+      "example": "She asked for a transcript of the phone call.",
       "phonics": "/ˈtrænsˌkrɪpt/"
     },
     {
@@ -6153,37 +6153,37 @@
     {
       "word": "transmission",
       "translation": "la transmisión",
-      "example": "The transmission was poor that night.",
+      "example": "The TV transmission was poor that night.",
       "phonics": "/trænsˈmɪʃən/, /trænzˈmɪʃən/"
     },
     {
       "word": "transparency",
       "translation": "la transparencia",
-      "example": "The rules demand transparency.",
+      "example": "Voters want more transparency from the government.",
       "phonics": "/trænˈspɛrənsi/"
     },
     {
       "word": "transparent",
       "translation": "transparente",
-      "example": "The process must be transparent.",
+      "example": "The bag is made of transparent plastic.",
       "phonics": "/trænˈspɛrənt/"
     },
     {
       "word": "trauma",
       "translation": "el trauma",
-      "example": "The trauma took years to fade.",
+      "example": "The trauma of the war stayed with him for years.",
       "phonics": "/ˈtrɔmə/"
     },
     {
       "word": "treaty",
       "translation": "el tratado",
-      "example": "The treaty was signed in Vienna.",
+      "example": "The two countries signed a peace treaty.",
       "phonics": "/ˈtriti/"
     },
     {
       "word": "tremendous",
       "translation": "tremendo",
-      "example": "The response was tremendous.",
+      "example": "The new job is a tremendous opportunity.",
       "phonics": "/trəˈmɛndəs/, /trɪˈmɛndəs/"
     },
     {
@@ -6201,55 +6201,55 @@
     {
       "word": "trio",
       "translation": "el trío",
-      "example": "The trio played after supper.",
+      "example": "A jazz trio played after dinner.",
       "phonics": "/ˈtriˌoʊ/"
     },
     {
       "word": "triumph",
       "translation": "el triunfo",
-      "example": "The evening was a triumph.",
+      "example": "The concert was a triumph.",
       "phonics": "/ˈtraɪəmf/"
     },
     {
       "word": "trophy",
       "translation": "el trofeo",
-      "example": "The trophy sits in the hall.",
+      "example": "The team lifted the trophy.",
       "phonics": "/ˈtroʊfi/"
     },
     {
       "word": "trustee",
       "translation": "el fideicomisario",
-      "example": "A trustee signs every cheque.",
+      "example": "The trustees of the charity meet every month.",
       "phonics": "/ˌtrəsˈti/"
     },
     {
       "word": "tuition",
       "translation": "la matrícula",
-      "example": "Tuition costs have risen.",
+      "example": "University tuition fees have risen.",
       "phonics": "/tjuˈɪʃən/"
     },
     {
       "word": "tumour",
       "translation": "el tumor",
-      "example": "The tumour was found early.",
+      "example": "Doctors found the tumour early.",
       "phonics": "/ˈtumɝ/"
     },
     {
       "word": "turnout",
       "translation": "la participación",
-      "example": "The turnout was low.",
+      "example": "The turnout for the election was low.",
       "phonics": "/ˈtɝˌnaʊt/"
     },
     {
       "word": "turnover",
       "translation": "la facturación",
-      "example": "Turnover doubled in three years.",
+      "example": "The company's turnover doubled in three years.",
       "phonics": "/ˈtɝˌnoʊvɝ/"
     },
     {
       "word": "twist",
       "translation": "el giro",
-      "example": "There is a twist at the end.",
+      "example": "The story has a twist at the end.",
       "phonics": "/ˈtwɪst/"
     },
     {
@@ -6267,7 +6267,7 @@
     {
       "word": "underlying",
       "translation": "subyacente",
-      "example": "The underlying cause is damp.",
+      "example": "The underlying cause of the damage is damp.",
       "phonics": "/ˌəndɝˈlaɪɪŋ/"
     },
     {
@@ -6285,37 +6285,37 @@
     {
       "word": "unify",
       "translation": "unificar",
-      "example": "The reform unified the two systems.",
+      "example": "The new leader unified the party.",
       "phonics": "/ˈjunəˌfaɪ/"
     },
     {
       "word": "unprecedented",
       "translation": "sin precedentes",
-      "example": "The demand was unprecedented.",
+      "example": "The demand for tickets was unprecedented.",
       "phonics": "/ənˈprɛsɪˌdɛntɪd/"
     },
     {
       "word": "unveil",
       "translation": "desvelar",
-      "example": "They unveiled the design in May.",
+      "example": "The company unveiled its new car in May.",
       "phonics": "/ənˈveɪl/"
     },
     {
       "word": "upcoming",
       "translation": "próximo",
-      "example": "The upcoming election is close.",
+      "example": "The upcoming election will be close.",
       "phonics": "/ˈəpˌkəmɪŋ/"
     },
     {
       "word": "upgrade",
       "translation": "la actualización",
-      "example": "The upgrade takes ten minutes.",
+      "example": "The airline gave us a free upgrade to business class.",
       "phonics": "/ˈəpˈɡreɪd/, /əpˈɡreɪd/"
     },
     {
       "word": "upheaval",
       "translation": "la agitación",
-      "example": "The merger caused real upheaval.",
+      "example": "Moving house is a big upheaval for children.",
       "phonics": "/əpˈhivəl/"
     },
     {
@@ -6327,13 +6327,13 @@
     {
       "word": "utility",
       "translation": "el servicio público",
-      "example": "The utility bill arrived late.",
+      "example": "The utility bills arrived late this month.",
       "phonics": "/juˈtɪləti/"
     },
     {
       "word": "utilize",
       "translation": "utilizar",
-      "example": "They utilize every scrap of wood.",
+      "example": "The factory utilizes every scrap of wood.",
       "phonics": "/ˈjutəˌlaɪz/"
     },
     {
@@ -6345,19 +6345,19 @@
     {
       "word": "vacuum",
       "translation": "el vacío",
-      "example": "The room felt like a vacuum.",
+      "example": "She vacuums the carpet every Saturday.",
       "phonics": "/ˈvækjum/"
     },
     {
       "word": "vague",
       "translation": "vago",
-      "example": "His answer was vague.",
+      "example": "His answer to my question was vague.",
       "phonics": "/ˈveɪɡ/"
     },
     {
       "word": "vanish",
       "translation": "desaparecer",
-      "example": "The path vanishes into the wood.",
+      "example": "The cat vanished into the garden.",
       "phonics": "/ˈvænɪʃ/"
     },
     {
@@ -6369,31 +6369,31 @@
     {
       "word": "vein",
       "translation": "la vena",
-      "example": "A vein of copper runs through the rock.",
+      "example": "The nurse found a vein in his arm.",
       "phonics": "/ˈveɪn/"
     },
     {
       "word": "venture",
       "translation": "la empresa",
-      "example": "The venture failed within a year.",
+      "example": "Their new business venture failed within a year.",
       "phonics": "/ˈvɛntʃɝ/"
     },
     {
       "word": "verbal",
       "translation": "verbal",
-      "example": "We had a verbal agreement only.",
+      "example": "We only had a verbal agreement.",
       "phonics": "/ˈvɝbəl/"
     },
     {
       "word": "verdict",
       "translation": "el veredicto",
-      "example": "The verdict took four hours.",
+      "example": "The jury reached a verdict after four hours.",
       "phonics": "/ˈvɝdɪkt/"
     },
     {
       "word": "verify",
       "translation": "verificar",
-      "example": "Please verify the total.",
+      "example": "The bank verifies every signature.",
       "phonics": "/ˈvɛrəˌfaɪ/"
     },
     {
@@ -6405,13 +6405,13 @@
     {
       "word": "verse",
       "translation": "el verso",
-      "example": "She read one verse aloud.",
+      "example": "She read one verse of the poem aloud.",
       "phonics": "/ˈvɝs/"
     },
     {
       "word": "versus",
       "translation": "frente a",
-      "example": "It is quality versus price.",
+      "example": "Tonight's game is Brazil versus Spain.",
       "phonics": "/ˈvɝsəs/, /ˈvɝsəz/"
     },
     {
@@ -6423,13 +6423,13 @@
     {
       "word": "vestige",
       "translation": "el vestigio",
-      "example": "Not a vestige of the wall remains.",
+      "example": "Not a vestige of the old wall remains.",
       "phonics": "/ˈvɛstɪdʒ/"
     },
     {
       "word": "veteran",
       "translation": "el veterano",
-      "example": "He is a veteran of the trade.",
+      "example": "The war veteran told us his story.",
       "phonics": "/ˈvɛtɝən/, /ˈvɛtrən/"
     },
     {
@@ -6441,13 +6441,13 @@
     {
       "word": "vice",
       "translation": "vice",
-      "example": "The club is run by the vice president.",
+      "example": "Smoking is his only vice.",
       "phonics": "/ˈvaɪs/"
     },
     {
       "word": "vicious",
       "translation": "feroz",
-      "example": "The dog has a vicious streak.",
+      "example": "A vicious dog attacked the postman.",
       "phonics": "/ˈvɪʃəs/"
     },
     {
@@ -6465,7 +6465,7 @@
     {
       "word": "violation",
       "translation": "la infracción",
-      "example": "The fine was for a parking violation.",
+      "example": "He got a fine for a parking violation.",
       "phonics": "/vaɪəˈleɪʃən/"
     },
     {
@@ -6477,19 +6477,19 @@
     {
       "word": "vocal",
       "translation": "vocal",
-      "example": "She was vocal about the change.",
+      "example": "She was vocal about the changes.",
       "phonics": "/ˈvoʊkəl/"
     },
     {
       "word": "vow",
       "translation": "jurar",
-      "example": "He vowed to return.",
+      "example": "He vowed to return to his village.",
       "phonics": "/ˈvaʊ/"
     },
     {
       "word": "vulnerability",
       "translation": "la vulnerabilidad",
-      "example": "The report notes one vulnerability.",
+      "example": "The report found a vulnerability in the software.",
       "phonics": "/ˌvəlnɝəˈbɪlɪti/"
     },
     {
@@ -6519,79 +6519,79 @@
     {
       "word": "warrant",
       "translation": "merecer",
-      "example": "The situation warrants immediate action.",
+      "example": "The police had a warrant to search the house.",
       "phonics": "/ˈwɔrənt/"
     },
     {
       "word": "warrior",
       "translation": "el guerrero",
-      "example": "The carving shows a warrior.",
+      "example": "The old carving shows a warrior on a horse.",
       "phonics": "/ˈwɔriɝ/, /ˈwɔrjɝ/"
     },
     {
       "word": "watershed",
       "translation": "el punto de inflexión",
-      "example": "The ruling was a watershed for the industry.",
+      "example": "The new law was a watershed for workers.",
       "phonics": "/ˈwɑtɝˌʃɛd/, /ˈwɔtɝˌʃɛd/"
     },
     {
       "word": "weaken",
       "translation": "debilitar",
-      "example": "The frost weakened the wall.",
+      "example": "The illness weakened her heart.",
       "phonics": "/ˈwikən/"
     },
     {
       "word": "weave",
       "translation": "tejer",
-      "example": "She learned to weave in Chiang Mai.",
+      "example": "She learned to weave silk in Chiang Mai.",
       "phonics": "/ˈwiv/"
     },
     {
       "word": "weed",
       "translation": "la mala hierba",
-      "example": "Pull the weeds before they seed.",
+      "example": "He pulls the weeds in the garden every week.",
       "phonics": "/ˈwid/"
     },
     {
       "word": "well-being",
       "translation": "el bienestar",
-      "example": "The scheme improves staff well-being.",
+      "example": "The company cares about staff well-being.",
       "phonics": "/ˌwɛlˈbiɪŋ/"
     },
     {
       "word": "whatsoever",
       "translation": "en absoluto",
-      "example": "There was no reason whatsoever.",
+      "example": "He has no interest whatsoever in football.",
       "phonics": "/ˌhwətsoʊˈɛvɝ/, /ˌwətsoʊˈɛvɝ/"
     },
     {
       "word": "whereby",
       "translation": "mediante el cual",
-      "example": "This is a system whereby everyone votes.",
+      "example": "It is a system whereby everyone gets a vote.",
       "phonics": "/hwɛrˈbaɪ/, /wɛrˈbaɪ/"
     },
     {
       "word": "whilst",
       "translation": "mientras",
-      "example": "She read whilst the kettle boiled.",
+      "example": "She read a book whilst the water boiled.",
       "phonics": "/ˈwaɪlst/"
     },
     {
       "word": "whip",
       "translation": "batir",
-      "example": "Whip the cream until it thickens.",
+      "example": "She whips the cream until it is thick.",
       "phonics": "/ˈhwɪp/, /ˈwɪp/"
     },
     {
       "word": "widen",
       "translation": "ensanchar",
-      "example": "They widened the road last year.",
+      "example": "The city widened the road last year.",
       "phonics": "/ˈwaɪdən/"
     },
     {
       "word": "width",
       "translation": "la anchura",
-      "example": "Measure the width first.",
+      "example": "He measures the width of the door.",
       "phonics": "/ˈwɪdθ/"
     },
     {
@@ -6603,13 +6603,13 @@
     {
       "word": "wipe",
       "translation": "limpiar",
-      "example": "Wipe the table before you go.",
+      "example": "She wipes the table after dinner.",
       "phonics": "/ˈwaɪp/"
     },
     {
       "word": "wit",
       "translation": "el ingenio",
-      "example": "Her wit carried the evening.",
+      "example": "Her quick wit made everyone laugh.",
       "phonics": "/ˈwɪt/"
     },
     {
@@ -6621,13 +6621,13 @@
     {
       "word": "worship",
       "translation": "el culto",
-      "example": "The hall is used for worship.",
+      "example": "People come to the temple for worship.",
       "phonics": "/ˈwɝʃəp/, /ˈwɝʃɪp/"
     },
     {
       "word": "worthwhile",
       "translation": "que vale la pena",
-      "example": "The trip was worthwhile.",
+      "example": "The long trip was worthwhile.",
       "phonics": "/ˈwɝθˈwaɪl/"
     },
     {
@@ -6645,7 +6645,7 @@
     {
       "word": "youngster",
       "translation": "el joven",
-      "example": "One youngster asked a sharp question.",
+      "example": "The youngster asked a clever question.",
       "phonics": "/ˈjəŋstɝ/"
     }
   ]

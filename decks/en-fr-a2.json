@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "fr",
   "level": "A2",
-  "version": 40,
+  "version": 41,
   "items": [
     {
       "word": "ability",
@@ -15,7 +15,7 @@
     {
       "word": "able",
       "translation": "capable",
-      "example": "She was able to finish alone.",
+      "example": "She was able to finish the work alone.",
       "phonics": "/ˈeɪbəl/"
     },
     {
@@ -57,13 +57,13 @@
     {
       "word": "actually",
       "translation": "en fait",
-      "example": "It is actually much simpler.",
+      "example": "The test was actually very easy.",
       "phonics": "/ˈækˌtʃuəli/, /ˈækʃəli/"
     },
     {
       "word": "advantage",
       "translation": "l'avantage",
-      "example": "Speed is our main advantage.",
+      "example": "Speaking English is a big advantage in this job.",
       "phonics": "/ædˈvæntɪdʒ/"
     },
     {
@@ -111,7 +111,7 @@
     {
       "word": "all right",
       "translation": "d'accord",
-      "example": "It is all right, do not worry.",
+      "example": "Are you all right after the fall?",
       "phonics": "/ˈɔl ˈraɪt/"
     },
     {
@@ -189,7 +189,7 @@
     {
       "word": "anywhere",
       "translation": "n'importe où",
-      "example": "I cannot find it anywhere.",
+      "example": "I cannot find my glasses anywhere.",
       "phonics": "/ˈɛniˌwɛr/, /ˈɛnihˌwɛr/"
     },
     {
@@ -249,7 +249,7 @@
     {
       "word": "assistant",
       "translation": "l'assistant",
-      "example": "The assistant found the file.",
+      "example": "My assistant found the lost file.",
       "phonics": "/əˈsɪstənt/"
     },
     {
@@ -273,13 +273,13 @@
     {
       "word": "attention",
       "translation": "l'attention",
-      "example": "Can I have your attention, please?",
+      "example": "The children pay attention to the teacher.",
       "phonics": "/əˈtɛnʃən/"
     },
     {
       "word": "attractive",
       "translation": "attirant, séduisant",
-      "example": "It is an attractive offer.",
+      "example": "The company made him an attractive offer.",
       "phonics": "/əˈtræktɪv/"
     },
     {
@@ -309,7 +309,7 @@
     {
       "word": "avoid",
       "translation": "éviter",
-      "example": "Try to avoid the main road.",
+      "example": "Drivers avoid the main road at rush hour.",
       "phonics": "/əˈvɔɪd/"
     },
     {
@@ -333,7 +333,7 @@
     {
       "word": "badly",
       "translation": "mal",
-      "example": "The car was badly damaged.",
+      "example": "The storm badly damaged the car.",
       "phonics": "/ˈbædli/"
     },
     {
@@ -417,7 +417,7 @@
     {
       "word": "benefit",
       "translation": "l'avantage, le bénéfice",
-      "example": "The main benefit is lower cost.",
+      "example": "Exercise has many health benefits.",
       "phonics": "/ˈbɛnəfɪt/"
     },
     {
@@ -429,19 +429,19 @@
     {
       "word": "bin",
       "translation": "la poubelle",
-      "example": "Put the paper in the bin.",
+      "example": "She puts the paper in the bin.",
       "phonics": "/ˈbɪn/"
     },
     {
       "word": "biology",
       "translation": "la biologie",
-      "example": "She teaches biology.",
+      "example": "She teaches biology at a high school.",
       "phonics": "/baɪˈɑlədʒi/"
     },
     {
       "word": "birth",
       "translation": "la naissance",
-      "example": "Please write your date of birth here.",
+      "example": "The form asks for your date of birth.",
       "phonics": "/ˈbɝθ/"
     },
     {
@@ -453,13 +453,13 @@
     {
       "word": "bit",
       "translation": "le morceau, un peu",
-      "example": "Wait a bit longer.",
+      "example": "I am a bit tired today.",
       "phonics": "/ˈbɪt/"
     },
     {
       "word": "blank",
       "translation": "vide",
-      "example": "Leave the last line blank.",
+      "example": "She leaves the last line blank.",
       "phonics": "/ˈblæŋk/"
     },
     {
@@ -477,13 +477,13 @@
     {
       "word": "board",
       "translation": "le tableau, la planche",
-      "example": "Write the answer on the board.",
+      "example": "The teacher writes the answer on the board.",
       "phonics": "/ˈbɔrd/"
     },
     {
       "word": "boil",
       "translation": "bouillir",
-      "example": "Boil the water first.",
+      "example": "My mother boils the water first.",
       "phonics": "/ˈbɔɪl/"
     },
     {
@@ -543,13 +543,13 @@
     {
       "word": "broken",
       "translation": "cassé",
-      "example": "The chair is broken.",
+      "example": "The leg of this chair is broken.",
       "phonics": "/ˈbroʊkən/"
     },
     {
       "word": "brush",
       "translation": "la brosse",
-      "example": "Brush your teeth before bed.",
+      "example": "She brushes her hair every morning.",
       "phonics": "/ˈbrəʃ/"
     },
     {
@@ -609,7 +609,7 @@
     {
       "word": "case",
       "translation": "le cas",
-      "example": "In that case, we should wait.",
+      "example": "The police are working on the case.",
       "phonics": "/ˈkeɪs/"
     },
     {
@@ -633,7 +633,7 @@
     {
       "word": "catch",
       "translation": "attraper",
-      "example": "Catch the ball with both hands.",
+      "example": "The boy catches the ball with both hands.",
       "phonics": "/ˈkætʃ/"
     },
     {
@@ -645,13 +645,13 @@
     {
       "word": "celebrate",
       "translation": "fêter",
-      "example": "They celebrated all evening.",
+      "example": "They celebrated her birthday all evening.",
       "phonics": "/ˈsɛləˌbreɪt/"
     },
     {
       "word": "celebrity",
       "translation": "la célébrité",
-      "example": "A celebrity opened the shop.",
+      "example": "A famous celebrity opened the new shop.",
       "phonics": "/səˈlɛbrɪti/"
     },
     {
@@ -663,7 +663,7 @@
     {
       "word": "chance",
       "translation": "la chance, l'occasion",
-      "example": "This is your last chance.",
+      "example": "This is your last chance to buy a ticket.",
       "phonics": "/ˈtʃæns/"
     },
     {
@@ -675,7 +675,7 @@
     {
       "word": "charity",
       "translation": "l'association caritative",
-      "example": "The money went to charity.",
+      "example": "She gave the money to charity.",
       "phonics": "/ˈtʃɛrɪti/"
     },
     {
@@ -723,7 +723,7 @@
     {
       "word": "circle",
       "translation": "le cercle",
-      "example": "Draw a circle around the answer.",
+      "example": "The teacher draws a circle on the board.",
       "phonics": "/ˈsɝkəl/"
     },
     {
@@ -735,13 +735,13 @@
     {
       "word": "clear",
       "translation": "clair",
-      "example": "His answer was very clear.",
+      "example": "The teacher gives a very clear answer.",
       "phonics": "/ˈklɪr/"
     },
     {
       "word": "clever",
       "translation": "intelligent",
-      "example": "That was a clever idea.",
+      "example": "My little sister is very clever.",
       "phonics": "/ˈklɛvɝ/"
     },
     {
@@ -759,19 +759,19 @@
     {
       "word": "coach",
       "translation": "l'entraîneur",
-      "example": "The coach chose the team.",
+      "example": "The coach chose five new players for the team.",
       "phonics": "/ˈkoʊtʃ/"
     },
     {
       "word": "coast",
       "translation": "la côte",
-      "example": "The coast is an hour away.",
+      "example": "We drive to the coast every summer.",
       "phonics": "/ˈkoʊst/"
     },
     {
       "word": "code",
       "translation": "le code",
-      "example": "The door needs a code.",
+      "example": "You need a code to open this door.",
       "phonics": "/ˈkoʊd/"
     },
     {
@@ -789,13 +789,13 @@
     {
       "word": "column",
       "translation": "la colonne",
-      "example": "The answer is in the third column.",
+      "example": "The answer is in the third column of the table.",
       "phonics": "/ˈkɑləm/"
     },
     {
       "word": "comedy",
       "translation": "la comédie",
-      "example": "The film is a comedy.",
+      "example": "We watched a funny comedy last night.",
       "phonics": "/ˈkɑmədi/"
     },
     {
@@ -807,7 +807,7 @@
     {
       "word": "comment",
       "translation": "le commentaire",
-      "example": "She made no comment.",
+      "example": "She made no comment about the plan.",
       "phonics": "/ˈkɑmɛnt/"
     },
     {
@@ -825,7 +825,7 @@
     {
       "word": "compete",
       "translation": "concourir, rivaliser",
-      "example": "Six schools competed this year.",
+      "example": "Six schools competed in the race this year.",
       "phonics": "/kəmˈpit/"
     },
     {
@@ -843,25 +843,25 @@
     {
       "word": "condition",
       "translation": "la condition, l'état",
-      "example": "The car is in good condition.",
+      "example": "This old car is still in good condition.",
       "phonics": "/kənˈdɪʃən/"
     },
     {
       "word": "conference",
       "translation": "la conférence",
-      "example": "The conference lasts three days.",
+      "example": "The science conference lasts three days.",
       "phonics": "/ˈkɑnfɝəns/, /ˈkɑnfrəns/"
     },
     {
       "word": "connect",
       "translation": "connecter",
-      "example": "Connect your phone to the TV.",
+      "example": "He connects his phone to the TV.",
       "phonics": "/kəˈnɛkt/"
     },
     {
       "word": "consider",
       "translation": "considérer",
-      "example": "Please consider my offer.",
+      "example": "She will consider my offer this week.",
       "phonics": "/kənˈsɪdɝ/"
     },
     {
@@ -897,25 +897,25 @@
     {
       "word": "cooker",
       "translation": "la cuisinière",
-      "example": "The cooker is very old.",
+      "example": "Our cooker in the kitchen is very old.",
       "phonics": "/ˈkʊkɝ/"
     },
     {
       "word": "copy",
       "translation": "copier",
-      "example": "Make a copy before you sign.",
+      "example": "She makes a copy of the letter before she signs it.",
       "phonics": "/ˈkɑpi/"
     },
     {
       "word": "corner",
       "translation": "le coin",
-      "example": "The shop is on the corner.",
+      "example": "The shop is on the corner of the street.",
       "phonics": "/ˈkɔrnɝ/"
     },
     {
       "word": "count",
       "translation": "compter",
-      "example": "Count the chairs again.",
+      "example": "The teacher counts the chairs again.",
       "phonics": "/ˈkaʊnt/"
     },
     {
@@ -927,13 +927,13 @@
     {
       "word": "cover",
       "translation": "couvrir",
-      "example": "Cover the pan for ten minutes.",
+      "example": "She covers the pan for ten minutes.",
       "phonics": "/ˈkəvɝ/"
     },
     {
       "word": "crazy",
       "translation": "fou",
-      "example": "That was a crazy idea.",
+      "example": "Everyone thought his plan was crazy.",
       "phonics": "/ˈkreɪzi/"
     },
     {
@@ -957,7 +957,7 @@
     {
       "word": "cross",
       "translation": "traverser",
-      "example": "Cross the road at the lights.",
+      "example": "The children cross the road at the lights.",
       "phonics": "/ˈkrɔs/"
     },
     {
@@ -999,25 +999,25 @@
     {
       "word": "daily",
       "translation": "quotidien",
-      "example": "He reads the daily news.",
+      "example": "He reads the daily newspaper at breakfast.",
       "phonics": "/ˈdeɪli/"
     },
     {
       "word": "danger",
       "translation": "le danger",
-      "example": "There is no danger now.",
+      "example": "The sign warns people about the danger.",
       "phonics": "/ˈdeɪndʒɝ/"
     },
     {
       "word": "data",
       "translation": "les données",
-      "example": "We lost all the data.",
+      "example": "We lost all the data on the computer.",
       "phonics": "/ˈdætə/, /ˈdeɪtə/"
     },
     {
       "word": "dead",
       "translation": "mort",
-      "example": "The battery is completely dead.",
+      "example": "The battery in my phone is dead.",
       "phonics": "/ˈdɛd/"
     },
     {
@@ -1041,19 +1041,19 @@
     {
       "word": "decision",
       "translation": "la décision",
-      "example": "It was a difficult decision.",
+      "example": "Moving to a new city was a difficult decision.",
       "phonics": "/dɪˈsɪʒən/"
     },
     {
       "word": "deep",
       "translation": "profond",
-      "example": "The water is deeper here.",
+      "example": "The water is deeper in the middle of the lake.",
       "phonics": "/ˈdip/"
     },
     {
       "word": "definitely",
       "translation": "certainement",
-      "example": "She is definitely coming.",
+      "example": "She is definitely coming to the party.",
       "phonics": "/ˈdɛfənətli/"
     },
     {
@@ -1077,7 +1077,7 @@
     {
       "word": "depend",
       "translation": "dépendre",
-      "example": "It depends on the weather.",
+      "example": "Our plan depends on the weather.",
       "phonics": "/dɪˈpɛnd/"
     },
     {
@@ -1089,7 +1089,7 @@
     {
       "word": "designer",
       "translation": "le designer, le créateur",
-      "example": "The designer chose blue.",
+      "example": "The designer chose blue for the new logo.",
       "phonics": "/dɪˈzaɪnɝ/"
     },
     {
@@ -1101,7 +1101,7 @@
     {
       "word": "detective",
       "translation": "le détective",
-      "example": "A detective visited the house.",
+      "example": "A detective asked us many questions.",
       "phonics": "/dɪˈtɛktɪv/"
     },
     {
@@ -1125,13 +1125,13 @@
     {
       "word": "digital",
       "translation": "numérique",
-      "example": "The digital version is free.",
+      "example": "The digital version of the book is free.",
       "phonics": "/ˈdɪdʒətəl/, /ˈdɪdʒɪtəl/"
     },
     {
       "word": "direct",
       "translation": "direct",
-      "example": "Is there a direct train?",
+      "example": "Is there a direct train to the airport?",
       "phonics": "/daɪˈrɛkt/, /dɝˈɛkt/"
     },
     {
@@ -1173,7 +1173,7 @@
     {
       "word": "discussion",
       "translation": "la discussion",
-      "example": "We had a long discussion.",
+      "example": "We had a long discussion about the trip.",
       "phonics": "/dɪˈskəʃən/"
     },
     {
@@ -1185,7 +1185,7 @@
     {
       "word": "distance",
       "translation": "la distance",
-      "example": "The distance is about ten miles.",
+      "example": "The distance from here to the beach is ten miles.",
       "phonics": "/ˈdɪstəns/"
     },
     {
@@ -1197,19 +1197,19 @@
     {
       "word": "document",
       "translation": "le document",
-      "example": "Sign the document at the bottom.",
+      "example": "She signs the document at the bottom.",
       "phonics": "/ˈdɑkjəmɛnt/, /ˈdɑkjumɛnt/"
     },
     {
       "word": "double",
       "translation": "double",
-      "example": "Ask for a double room.",
+      "example": "We booked a double room at the hotel.",
       "phonics": "/ˈdəbəl/"
     },
     {
       "word": "download",
       "translation": "télécharger",
-      "example": "The download took an hour.",
+      "example": "The download of the film took an hour.",
       "phonics": "/ˈdaʊnˌloʊd/"
     },
     {
@@ -1221,19 +1221,19 @@
     {
       "word": "dream",
       "translation": "le rêve",
-      "example": "I had a strange dream.",
+      "example": "I had a strange dream last night.",
       "phonics": "/ˈdrim/"
     },
     {
       "word": "drop",
       "translation": "laisser tomber",
-      "example": "Do not drop the glass.",
+      "example": "He dropped his glass on the floor.",
       "phonics": "/ˈdrɑp/, /ˈdrɔp/"
     },
     {
       "word": "drug",
       "translation": "le médicament, la drogue",
-      "example": "The drug is not sold here.",
+      "example": "This drug helps with the pain.",
       "phonics": "/ˈdrəɡ/"
     },
     {
@@ -1263,7 +1263,7 @@
     {
       "word": "education",
       "translation": "l'éducation",
-      "example": "Education is free until sixteen.",
+      "example": "Education is free for all children here.",
       "phonics": "/ˌɛdʒəˈkeɪʃən/, /ˌɛdʒjuˈkeɪʃən/"
     },
     {
@@ -1305,13 +1305,13 @@
     {
       "word": "empty",
       "translation": "vide",
-      "example": "The room was empty.",
+      "example": "The room was empty after the party.",
       "phonics": "/ˈɛmpti/, /ˈɛmti/"
     },
     {
       "word": "ending",
       "translation": "la fin",
-      "example": "The ending was a surprise.",
+      "example": "The ending of the book was a surprise.",
       "phonics": "/ˈɛndɪŋ/"
     },
     {
@@ -1335,13 +1335,13 @@
     {
       "word": "enormous",
       "translation": "énorme",
-      "example": "The garden is enormous.",
+      "example": "Their new house has an enormous garden.",
       "phonics": "/iˈnɔrməs/, /iˈnɔrmɪs/"
     },
     {
       "word": "enter",
       "translation": "entrer",
-      "example": "Please do not enter this room.",
+      "example": "Students cannot enter this room.",
       "phonics": "/ˈɛnɝ/, /ˈɛntɝ/"
     },
     {
@@ -1359,7 +1359,7 @@
     {
       "word": "error",
       "translation": "l'erreur",
-      "example": "There is an error in this sentence.",
+      "example": "There is an error in the first sentence.",
       "phonics": "/ˈɛrɝ/"
     },
     {
@@ -1377,7 +1377,7 @@
     {
       "word": "everyday",
       "translation": "quotidien",
-      "example": "These are everyday problems.",
+      "example": "Traffic is an everyday problem in this city.",
       "phonics": "/ˈɛvriˈdeɪ/"
     },
     {
@@ -1395,13 +1395,13 @@
     {
       "word": "exact",
       "translation": "exact",
-      "example": "Tell me the exact price.",
+      "example": "I do not know the exact price.",
       "phonics": "/ɪɡˈzækt/"
     },
     {
       "word": "excellent",
       "translation": "excellent",
-      "example": "The food was excellent.",
+      "example": "The food at the wedding was excellent.",
       "phonics": "/ˈɛksələnt/"
     },
     {
@@ -1449,7 +1449,7 @@
     {
       "word": "express",
       "translation": "exprimer",
-      "example": "She could not express the feeling.",
+      "example": "She could not express her feelings in words.",
       "phonics": "/ɪksˈprɛs/"
     },
     {
@@ -1461,13 +1461,13 @@
     {
       "word": "extreme",
       "translation": "extrême",
-      "example": "The heat was extreme.",
+      "example": "The heat in the desert was extreme.",
       "phonics": "/ɛkˈstrim/"
     },
     {
       "word": "factor",
       "translation": "le facteur",
-      "example": "Price is an important factor.",
+      "example": "Price is an important factor when we buy a car.",
       "phonics": "/ˈfæktɝ/"
     },
     {
@@ -1485,7 +1485,7 @@
     {
       "word": "fair",
       "translation": "juste",
-      "example": "The decision was not fair.",
+      "example": "The referee's decision was not fair.",
       "phonics": "/ˈfɛr/"
     },
     {
@@ -1509,13 +1509,13 @@
     {
       "word": "feature",
       "translation": "la caractéristique",
-      "example": "The best feature is the garden.",
+      "example": "The best feature of the house is the garden.",
       "phonics": "/ˈfitʃɝ/"
     },
     {
       "word": "feed",
       "translation": "nourrir",
-      "example": "Feed the cat before you go.",
+      "example": "She feeds the cat before she goes to work.",
       "phonics": "/ˈfid/"
     },
     {
@@ -1557,19 +1557,19 @@
     {
       "word": "firstly",
       "translation": "premièrement",
-      "example": "Firstly, check the date.",
+      "example": "Firstly, we need to check the date.",
       "phonics": "/ˈfɝstli/"
     },
     {
       "word": "fit",
       "translation": "en forme",
-      "example": "The jacket does not fit.",
+      "example": "The new jacket does not fit him.",
       "phonics": "/ˈfɪt/"
     },
     {
       "word": "fix",
       "translation": "réparer",
-      "example": "Can you fix my bike?",
+      "example": "My father fixed my bike yesterday.",
       "phonics": "/ˈfɪks/"
     },
     {
@@ -1587,7 +1587,7 @@
     {
       "word": "focus",
       "translation": "se concentrer",
-      "example": "Focus on your work.",
+      "example": "She cannot focus on her work in a noisy room.",
       "phonics": "/ˈfoʊkəs/, /ˈfoʊkɪs/"
     },
     {
@@ -1611,7 +1611,7 @@
     {
       "word": "formal",
       "translation": "formel",
-      "example": "The letter was very formal.",
+      "example": "The letter from the bank was very formal.",
       "phonics": "/ˈfɔrməl/"
     },
     {
@@ -1629,7 +1629,7 @@
     {
       "word": "fresh",
       "translation": "frais",
-      "example": "The bread is fresh today.",
+      "example": "The bread at this bakery is always fresh.",
       "phonics": "/ˈfrɛʃ/"
     },
     {
@@ -1647,7 +1647,7 @@
     {
       "word": "furniture",
       "translation": "les meubles",
-      "example": "The furniture arrived late.",
+      "example": "The new furniture arrived late.",
       "phonics": "/ˈfɝnɪtʃɝ/"
     },
     {
@@ -1659,31 +1659,31 @@
     {
       "word": "gallery",
       "translation": "la galerie",
-      "example": "The gallery opens at ten.",
+      "example": "The art gallery opens at ten.",
       "phonics": "/ˈɡælɝi/"
     },
     {
       "word": "gap",
       "translation": "l'écart",
-      "example": "There is a gap in the wall.",
+      "example": "There is a gap between the door and the floor.",
       "phonics": "/ˈɡæp/"
     },
     {
       "word": "gas",
       "translation": "le gaz",
-      "example": "We cook with gas.",
+      "example": "We cook with gas at home.",
       "phonics": "/ˈɡæs/"
     },
     {
       "word": "gate",
       "translation": "le portail",
-      "example": "Close the gate behind you.",
+      "example": "He closes the gate behind him.",
       "phonics": "/ˈɡeɪt/"
     },
     {
       "word": "general",
       "translation": "général",
-      "example": "The general rule is simple.",
+      "example": "The general rule of the game is simple.",
       "phonics": "/ˈdʒɛnɝəl/, /ˈdʒɛnrəl/"
     },
     {
@@ -1725,7 +1725,7 @@
     {
       "word": "government",
       "translation": "le gouvernement",
-      "example": "The government made new rules.",
+      "example": "The government made new rules for drivers.",
       "phonics": "/ˈɡəvɝmənt/, /ˈɡəvɝnmənt/"
     },
     {
@@ -1737,7 +1737,7 @@
     {
       "word": "grass",
       "translation": "l'herbe",
-      "example": "The grass needs cutting.",
+      "example": "The grass in the garden needs cutting.",
       "phonics": "/ˈɡræs/"
     },
     {
@@ -1749,7 +1749,7 @@
     {
       "word": "ground",
       "translation": "le sol",
-      "example": "The ground was still wet.",
+      "example": "The ground was still wet after the rain.",
       "phonics": "/ˈɡraʊnd/"
     },
     {
@@ -1785,7 +1785,7 @@
     {
       "word": "hall",
       "translation": "le hall",
-      "example": "The hall was full by seven.",
+      "example": "The hall was full of people by seven.",
       "phonics": "/ˈhɔl/"
     },
     {
@@ -1809,7 +1809,7 @@
     {
       "word": "heavy",
       "translation": "lourd",
-      "example": "This box is too heavy.",
+      "example": "This box of books is too heavy.",
       "phonics": "/ˈhɛvi/"
     },
     {
@@ -1827,7 +1827,7 @@
     {
       "word": "hide",
       "translation": "cacher",
-      "example": "She hid the letter.",
+      "example": "She hid the letter under her bed.",
       "phonics": "/ˈhaɪd/"
     },
     {
@@ -1851,7 +1851,7 @@
     {
       "word": "hold",
       "translation": "tenir",
-      "example": "Hold this for a moment.",
+      "example": "She holds the baby in her arms.",
       "phonics": "/ˈhoʊld/"
     },
     {
@@ -1863,7 +1863,7 @@
     {
       "word": "horn",
       "translation": "la corne",
-      "example": "The driver used his horn.",
+      "example": "The driver used his horn at the corner.",
       "phonics": "/ˈhɔrn/"
     },
     {
@@ -1893,7 +1893,7 @@
     {
       "word": "identify",
       "translation": "identifier",
-      "example": "Can you identify the man?",
+      "example": "She can identify the man in the photo.",
       "phonics": "/aɪˈdɛntəˌfaɪ/"
     },
     {
@@ -1917,19 +1917,19 @@
     {
       "word": "image",
       "translation": "l'image",
-      "example": "The image was very dark.",
+      "example": "The image on the screen was very dark.",
       "phonics": "/ˈɪmədʒ/, /ˈɪmɪdʒ/"
     },
     {
       "word": "immediately",
       "translation": "immédiatement",
-      "example": "Reply immediately, please.",
+      "example": "The doctor came immediately.",
       "phonics": "/ˌɪˈmiˌdiətli/"
     },
     {
       "word": "impossible",
       "translation": "impossible",
-      "example": "That is simply impossible.",
+      "example": "It is impossible to finish this work in one day.",
       "phonics": "/ˌɪmˈpɑsəbəl/"
     },
     {
@@ -1953,7 +1953,7 @@
     {
       "word": "individual",
       "translation": "individuel",
-      "example": "Every individual is different.",
+      "example": "Every individual in the team is different.",
       "phonics": "/ˌɪndəˈvɪdʒəwəl/"
     },
     {
@@ -1965,7 +1965,7 @@
     {
       "word": "informal",
       "translation": "informel",
-      "example": "The meeting was informal.",
+      "example": "The meeting with the new boss was informal.",
       "phonics": "/ˌɪnˈfɔrməl/"
     },
     {
@@ -1989,25 +1989,25 @@
     {
       "word": "inside",
       "translation": "à l'intérieur",
-      "example": "Wait inside, it is warmer.",
+      "example": "It is warmer inside the house.",
       "phonics": "/ˈɪnˌsaɪd/, /ˌɪnˈsaɪd/"
     },
     {
       "word": "instead",
       "translation": "au lieu de cela",
-      "example": "Take the bus instead.",
+      "example": "We took the bus instead of a taxi.",
       "phonics": "/ˌɪnˈstɛd/"
     },
     {
       "word": "instruction",
       "translation": "l'instruction",
-      "example": "Read the instructions before you start.",
+      "example": "She reads the instructions before she starts.",
       "phonics": "/ˌɪnˈstrəkʃən/"
     },
     {
       "word": "instructor",
       "translation": "l'instructeur",
-      "example": "The instructor showed us twice.",
+      "example": "The driving instructor showed us twice.",
       "phonics": "/ˌɪnˈstrəktɝ/"
     },
     {
@@ -2025,13 +2025,13 @@
     {
       "word": "international",
       "translation": "international",
-      "example": "It is an international company.",
+      "example": "She works for an international company.",
       "phonics": "/ˌɪnɝˈnæʃənəl/, /ˌɪntɝˈnæʃənəl/"
     },
     {
       "word": "introduction",
       "translation": "l'introduction",
-      "example": "The introduction is too long.",
+      "example": "The introduction of the book is too long.",
       "phonics": "/ˌɪntrəˈdəkʃən/, /ˌɪntroʊˈdəkʃən/"
     },
     {
@@ -2061,7 +2061,7 @@
     {
       "word": "item",
       "translation": "l'article",
-      "example": "One item was missing.",
+      "example": "One item from my order was missing.",
       "phonics": "/ˈaɪtəm/"
     },
     {
@@ -2085,13 +2085,13 @@
     {
       "word": "joke",
       "translation": "la blague",
-      "example": "It was only a joke.",
+      "example": "He told us a funny joke at dinner.",
       "phonics": "/ˈdʒoʊk/"
     },
     {
       "word": "journalist",
       "translation": "le journaliste",
-      "example": "A journalist called twice.",
+      "example": "A journalist called the school twice.",
       "phonics": "/ˈdʒɝnələst/, /ˈdʒɝnəlɪst/"
     },
     {
@@ -2127,19 +2127,19 @@
     {
       "word": "knife",
       "translation": "le couteau",
-      "example": "Cut the bread with this knife.",
+      "example": "He cuts the bread with a sharp knife.",
       "phonics": "/ˈnaɪf/"
     },
     {
       "word": "knock",
       "translation": "frapper",
-      "example": "Knock before you enter.",
+      "example": "He always knocks before he enters.",
       "phonics": "/ˈnɑk/"
     },
     {
       "word": "knowledge",
       "translation": "la connaissance",
-      "example": "His knowledge of the area helped.",
+      "example": "His knowledge of the area helped us a lot.",
       "phonics": "/ˈnɑlədʒ/, /ˈnɑlɪdʒ/"
     },
     {
@@ -2193,7 +2193,7 @@
     {
       "word": "lazy",
       "translation": "paresseux",
-      "example": "He is lazy in the mornings.",
+      "example": "He is too lazy to clean his room.",
       "phonics": "/ˈleɪzi/"
     },
     {
@@ -2205,19 +2205,19 @@
     {
       "word": "leader",
       "translation": "le chef",
-      "example": "The leader spoke first.",
+      "example": "The team leader spoke first at the meeting.",
       "phonics": "/ˈlidɝ/"
     },
     {
       "word": "lecture",
       "translation": "le cours magistral",
-      "example": "The lecture starts at nine.",
+      "example": "The history lecture starts at nine.",
       "phonics": "/ˈlɛktʃɝ/"
     },
     {
       "word": "lemon",
       "translation": "le citron",
-      "example": "Add a slice of lemon.",
+      "example": "She adds a slice of lemon to her tea.",
       "phonics": "/ˈlɛmən/"
     },
     {
@@ -2229,7 +2229,7 @@
     {
       "word": "level",
       "translation": "le niveau",
-      "example": "The water level is very high.",
+      "example": "The water level in the river is very high.",
       "phonics": "/ˈlɛvəl/"
     },
     {
@@ -2241,7 +2241,7 @@
     {
       "word": "lift",
       "translation": "l'ascenseur",
-      "example": "Take the lift to the fourth floor.",
+      "example": "We take the lift to the fourth floor.",
       "phonics": "/ˈlɪft/"
     },
     {
@@ -2253,7 +2253,7 @@
     {
       "word": "link",
       "translation": "le lien",
-      "example": "There is no link between them.",
+      "example": "The police found a link between the two crimes.",
       "phonics": "/ˈlɪŋk/"
     },
     {
@@ -2265,13 +2265,13 @@
     {
       "word": "litre",
       "translation": "le litre",
-      "example": "Buy two litres of milk.",
+      "example": "She buys two litres of milk every week.",
       "phonics": "/ˈlitɝ/"
     },
     {
       "word": "lock",
       "translation": "la serrure",
-      "example": "Lock the door when you leave.",
+      "example": "He locks the door when he leaves.",
       "phonics": "/ˈlɑk/"
     },
     {
@@ -2289,25 +2289,25 @@
     {
       "word": "loud",
       "translation": "fort",
-      "example": "The music was too loud.",
+      "example": "The music at the party was too loud.",
       "phonics": "/ˈlaʊd/"
     },
     {
       "word": "lovely",
       "translation": "charmant",
-      "example": "It was a lovely afternoon.",
+      "example": "We had a lovely afternoon in the park.",
       "phonics": "/ˈləvli/"
     },
     {
       "word": "low",
       "translation": "bas",
-      "example": "The bridge is very low.",
+      "example": "The bridge is too low for big trucks.",
       "phonics": "/ˈloʊ/"
     },
     {
       "word": "luck",
       "translation": "la chance",
-      "example": "Good luck with your exam!",
+      "example": "She wishes me good luck before the exam.",
       "phonics": "/ˈlək/"
     },
     {
@@ -2319,19 +2319,19 @@
     {
       "word": "mail",
       "translation": "le courrier",
-      "example": "The mail comes at eight.",
+      "example": "The mail comes at eight every morning.",
       "phonics": "/ˈmeɪl/"
     },
     {
       "word": "major",
       "translation": "majeur",
-      "example": "That is a major problem.",
+      "example": "Traffic is a major problem in the city.",
       "phonics": "/ˈmeɪdʒɝ/"
     },
     {
       "word": "male",
       "translation": "masculin",
-      "example": "A male voice answered.",
+      "example": "A male voice answered the phone.",
       "phonics": "/ˈmeɪl/"
     },
     {
@@ -2355,7 +2355,7 @@
     {
       "word": "mark",
       "translation": "la note, la marque",
-      "example": "She marked the page.",
+      "example": "She marked the page with a pen.",
       "phonics": "/ˈmɑrk/"
     },
     {
@@ -2367,7 +2367,7 @@
     {
       "word": "material",
       "translation": "le matériau",
-      "example": "This material is very soft.",
+      "example": "The material of this shirt is very soft.",
       "phonics": "/məˈtɪriəl/"
     },
     {
@@ -2379,31 +2379,31 @@
     {
       "word": "maths",
       "translation": "les maths",
-      "example": "We have maths on Monday.",
+      "example": "We have maths on Monday morning.",
       "phonics": "/ˈmæθ/"
     },
     {
       "word": "matter",
       "translation": "la question, importer",
-      "example": "It does not matter now.",
+      "example": "The cost does not matter to him.",
       "phonics": "/ˈmætɝ/"
     },
     {
       "word": "media",
       "translation": "les médias",
-      "example": "The media loves this story.",
+      "example": "The media loves stories about famous people.",
       "phonics": "/ˈmidiə/"
     },
     {
       "word": "medical",
       "translation": "médical",
-      "example": "He needs medical help.",
+      "example": "He needs medical help after the accident.",
       "phonics": "/ˈmɛdəkəl/, /ˈmɛdɪkəl/"
     },
     {
       "word": "medicine",
       "translation": "le médicament",
-      "example": "Take this medicine after food.",
+      "example": "She takes her medicine after food.",
       "phonics": "/ˈmɛdəsən/"
     },
     {
@@ -2427,7 +2427,7 @@
     {
       "word": "method",
       "translation": "la méthode",
-      "example": "They tried a new method.",
+      "example": "The teacher tried a new method in class.",
       "phonics": "/ˈmɛθəd/"
     },
     {
@@ -2445,7 +2445,7 @@
     {
       "word": "minute",
       "translation": "la minute",
-      "example": "Wait one minute, please.",
+      "example": "The bus comes in five minutes.",
       "phonics": "/ˈmɪnət/, /maɪˈnut/"
     },
     {
@@ -2487,7 +2487,7 @@
     {
       "word": "musician",
       "translation": "le musicien",
-      "example": "The musician played for an hour.",
+      "example": "The musician played the guitar for an hour.",
       "phonics": "/mjuˈzɪʃən/"
     },
     {
@@ -2499,7 +2499,7 @@
     {
       "word": "national",
       "translation": "national",
-      "example": "It is a national holiday.",
+      "example": "Today is a national holiday.",
       "phonics": "/ˈnæʃənəl/, /ˈnæʃnəl/"
     },
     {
@@ -2511,13 +2511,13 @@
     {
       "word": "nearly",
       "translation": "presque",
-      "example": "It is nearly midnight.",
+      "example": "It is nearly midnight now.",
       "phonics": "/ˈnɪrli/"
     },
     {
       "word": "necessary",
       "translation": "nécessaire",
-      "example": "Is it necessary to bring food?",
+      "example": "Is it necessary to bring food to the party?",
       "phonics": "/ˈnɛsəˌsɛri/"
     },
     {
@@ -2541,7 +2541,7 @@
     {
       "word": "network",
       "translation": "le réseau",
-      "example": "The phone network is very slow.",
+      "example": "The phone network in the village is very slow.",
       "phonics": "/ˈnɛtˌwɝk/"
     },
     {
@@ -2553,13 +2553,13 @@
     {
       "word": "normal",
       "translation": "normal",
-      "example": "It is normal to feel tired.",
+      "example": "It is normal to feel tired after a long trip.",
       "phonics": "/ˈnɔrməl/"
     },
     {
       "word": "notice",
       "translation": "remarquer",
-      "example": "Did you notice the change?",
+      "example": "Did you notice the change in her hair?",
       "phonics": "/ˈnoʊtəs/, /ˈnoʊtɪs/"
     },
     {
@@ -2577,7 +2577,7 @@
     {
       "word": "ocean",
       "translation": "l'océan",
-      "example": "The ocean is very deep.",
+      "example": "The Pacific Ocean is very deep.",
       "phonics": "/ˈoʊʃən/"
     },
     {
@@ -2595,7 +2595,7 @@
     {
       "word": "oil",
       "translation": "l'huile",
-      "example": "Cook the fish in a little oil.",
+      "example": "He cooks the fish in a little oil.",
       "phonics": "/ˈɔɪl/"
     },
     {
@@ -2607,7 +2607,7 @@
     {
       "word": "option",
       "translation": "l'option",
-      "example": "There is one other option.",
+      "example": "We have one other option for the trip.",
       "phonics": "/ˈɑpʃən/, /ˈɔpʃən/"
     },
     {
@@ -2625,43 +2625,43 @@
     {
       "word": "original",
       "translation": "original",
-      "example": "The original plan was better.",
+      "example": "The original plan was better than this one.",
       "phonics": "/ɝˈɪdʒənəl/"
     },
     {
       "word": "oven",
       "translation": "le four",
-      "example": "Put the bread in the oven.",
+      "example": "She puts the bread in the oven.",
       "phonics": "/ˈəvən/"
     },
     {
       "word": "owner",
       "translation": "le propriétaire",
-      "example": "The owner lives abroad.",
+      "example": "The owner of the shop lives abroad.",
       "phonics": "/ˈoʊnɝ/"
     },
     {
       "word": "pack",
       "translation": "emballer, le paquet",
-      "example": "Pack your bag tonight.",
+      "example": "I pack my bag the night before a trip.",
       "phonics": "/ˈpæk/"
     },
     {
       "word": "pain",
       "translation": "la douleur",
-      "example": "The pain has gone now.",
+      "example": "The pain in my back has gone now.",
       "phonics": "/ˈpeɪn/"
     },
     {
       "word": "painter",
       "translation": "le peintre",
-      "example": "The painter finished the hall.",
+      "example": "The painter finished the walls of the hall.",
       "phonics": "/ˈpeɪntɝ/"
     },
     {
       "word": "palace",
       "translation": "le palais",
-      "example": "The palace opens to visitors.",
+      "example": "The palace is open to visitors every day.",
       "phonics": "/ˈpæləs/"
     },
     {
@@ -2679,19 +2679,19 @@
     {
       "word": "pass",
       "translation": "passer",
-      "example": "Pass me the salt, please.",
+      "example": "She passes me the salt.",
       "phonics": "/ˈpæs/"
     },
     {
       "word": "passenger",
       "translation": "le passager",
-      "example": "One passenger was standing.",
+      "example": "One passenger on the bus was standing.",
       "phonics": "/ˈpæsəndʒɝ/"
     },
     {
       "word": "patient",
       "translation": "le patient, patient",
-      "example": "Be patient with the children.",
+      "example": "The teacher is patient with the children.",
       "phonics": "/ˈpeɪʃənt/"
     },
     {
@@ -2733,19 +2733,19 @@
     {
       "word": "perform",
       "translation": "exécuter, jouer",
-      "example": "The band performed twice.",
+      "example": "The band performed twice at the festival.",
       "phonics": "/pɝˈfɔrm/"
     },
     {
       "word": "perhaps",
       "translation": "peut-être",
-      "example": "Perhaps they forgot.",
+      "example": "Perhaps they forgot about the meeting.",
       "phonics": "/pɝˈhæps/"
     },
     {
       "word": "permission",
       "translation": "la permission",
-      "example": "Ask your parents for permission.",
+      "example": "She asks her parents for permission.",
       "phonics": "/pɝˈmɪʃən/"
     },
     {
@@ -2763,19 +2763,19 @@
     {
       "word": "physical",
       "translation": "physique",
-      "example": "It is a physical job.",
+      "example": "Building houses is a physical job.",
       "phonics": "/ˈfɪzɪkəl/"
     },
     {
       "word": "physics",
       "translation": "la physique",
-      "example": "He teaches physics.",
+      "example": "He teaches physics at the university.",
       "phonics": "/ˈfɪzɪks/"
     },
     {
       "word": "pick",
       "translation": "choisir",
-      "example": "Pick one and keep it.",
+      "example": "She picks a red apple from the tree.",
       "phonics": "/ˈpɪk/"
     },
     {
@@ -2793,7 +2793,7 @@
     {
       "word": "planet",
       "translation": "la planète",
-      "example": "The planet is very cold.",
+      "example": "Mars is a very cold planet.",
       "phonics": "/ˈplænət/"
     },
     {
@@ -2823,7 +2823,7 @@
     {
       "word": "plug",
       "translation": "la prise",
-      "example": "Where is the plug for the TV?",
+      "example": "The plug for the TV is behind the sofa.",
       "phonics": "/ˈpləɡ/"
     },
     {
@@ -2853,7 +2853,7 @@
     {
       "word": "pop",
       "translation": "la pop",
-      "example": "She only listens to pop.",
+      "example": "She only listens to pop music.",
       "phonics": "/ˈpɑp/"
     },
     {
@@ -2871,7 +2871,7 @@
     {
       "word": "possession",
       "translation": "la possession",
-      "example": "The ring is his only possession.",
+      "example": "The old ring is his only possession.",
       "phonics": "/pəˈzɛʃən/"
     },
     {
@@ -2889,13 +2889,13 @@
     {
       "word": "power",
       "translation": "le pouvoir",
-      "example": "There was no power for two hours.",
+      "example": "There was no power in the town for two hours.",
       "phonics": "/ˈpaʊɝ/"
     },
     {
       "word": "predict",
       "translation": "prédire",
-      "example": "Nobody predicted this result.",
+      "example": "Nobody predicted the result of the game.",
       "phonics": "/priˈdɪkt/, /prɪˈdɪkt/"
     },
     {
@@ -2907,19 +2907,19 @@
     {
       "word": "prevent",
       "translation": "empêcher",
-      "example": "The rules prevent accidents.",
+      "example": "Seat belts prevent many injuries.",
       "phonics": "/priˈvɛnt/, /prɪˈvɛnt/"
     },
     {
       "word": "print",
       "translation": "imprimer",
-      "example": "Print two copies, please.",
+      "example": "She prints two copies of the report.",
       "phonics": "/ˈprɪnt/"
     },
     {
       "word": "printer",
       "translation": "l'imprimante",
-      "example": "The printer is out of ink.",
+      "example": "The printer in the office is out of ink.",
       "phonics": "/ˈprɪnɝ/, /ˈprɪntɝ/"
     },
     {
@@ -2931,13 +2931,13 @@
     {
       "word": "prize",
       "translation": "le prix",
-      "example": "She won first prize.",
+      "example": "She won first prize in the art competition.",
       "phonics": "/ˈpraɪz/"
     },
     {
       "word": "process",
       "translation": "le processus",
-      "example": "The process takes three days.",
+      "example": "The visa process takes three days.",
       "phonics": "/ˈprɑˌsɛs/, /ˈprɔˌsɛs/"
     },
     {
@@ -2955,25 +2955,25 @@
     {
       "word": "professor",
       "translation": "le professeur",
-      "example": "The professor arrived late.",
+      "example": "The professor arrived late for the class.",
       "phonics": "/prəˈfɛsɝ/"
     },
     {
       "word": "profile",
       "translation": "le profil",
-      "example": "His profile photo is old.",
+      "example": "His profile photo is five years old.",
       "phonics": "/ˈproʊˌfaɪl/"
     },
     {
       "word": "progress",
       "translation": "le progrès",
-      "example": "We are making slow progress.",
+      "example": "She is making good progress in English.",
       "phonics": "/ˈprɑˌɡrɛs/, /prəˈɡrɛs/"
     },
     {
       "word": "promise",
       "translation": "promettre",
-      "example": "He promised to call.",
+      "example": "He promised to call me tonight.",
       "phonics": "/ˈprɑməs/"
     },
     {
@@ -2991,7 +2991,7 @@
     {
       "word": "provide",
       "translation": "fournir",
-      "example": "The school provides the books.",
+      "example": "The school provides books for every student.",
       "phonics": "/prəˈvaɪd/"
     },
     {
@@ -3003,7 +3003,7 @@
     {
       "word": "public",
       "translation": "public",
-      "example": "The park is open to the public.",
+      "example": "The park is open to the public every day.",
       "phonics": "/ˈpəblɪk/"
     },
     {
@@ -3015,19 +3015,19 @@
     {
       "word": "pull",
       "translation": "tirer",
-      "example": "Pull the handle towards you.",
+      "example": "He pulls the door handle towards him.",
       "phonics": "/ˈpʊl/"
     },
     {
       "word": "purpose",
       "translation": "le but",
-      "example": "The purpose of the trip was research.",
+      "example": "The purpose of her trip was research.",
       "phonics": "/ˈpɝpəs/"
     },
     {
       "word": "push",
       "translation": "pousser",
-      "example": "Push the door, do not pull.",
+      "example": "She pushes the door open.",
       "phonics": "/ˈpʊʃ/"
     },
     {
@@ -3063,7 +3063,7 @@
     {
       "word": "raise",
       "translation": "lever, élever",
-      "example": "They raised the price again.",
+      "example": "The shop raised its prices again.",
       "phonics": "/ˈreɪz/"
     },
     {
@@ -3093,7 +3093,7 @@
     {
       "word": "react",
       "translation": "réagir",
-      "example": "How did he react to the news?",
+      "example": "How did he react to the bad news?",
       "phonics": "/riˈækt/"
     },
     {
@@ -3105,7 +3105,7 @@
     {
       "word": "receive",
       "translation": "recevoir",
-      "example": "We received your letter.",
+      "example": "We received your letter yesterday.",
       "phonics": "/rəˈsiv/, /riˈsiv/"
     },
     {
@@ -3117,31 +3117,31 @@
     {
       "word": "reception",
       "translation": "la réception",
-      "example": "Ask at reception.",
+      "example": "You can ask for a map at reception.",
       "phonics": "/riˈsɛpʃən/, /rɪˈsɛpʃən/"
     },
     {
       "word": "recipe",
       "translation": "la recette",
-      "example": "The recipe needs four eggs.",
+      "example": "This cake recipe needs four eggs.",
       "phonics": "/ˈrɛsəpi/"
     },
     {
       "word": "recognize",
       "translation": "reconnaître",
-      "example": "I did not recognize him.",
+      "example": "I did not recognize him with his new glasses.",
       "phonics": "/ˈrɛkəɡˌnaɪz/"
     },
     {
       "word": "recommend",
       "translation": "recommander",
-      "example": "I recommend the fish.",
+      "example": "The waiter recommends the fish.",
       "phonics": "/ˌrɛkəˈmɛnd/"
     },
     {
       "word": "record",
       "translation": "enregistrer, le disque",
-      "example": "They recorded the meeting.",
+      "example": "They recorded the meeting on a phone.",
       "phonics": "/ˈrɛkɝd/, /rəˈkɔrd/"
     },
     {
@@ -3153,7 +3153,7 @@
     {
       "word": "reduce",
       "translation": "réduire",
-      "example": "They reduced the price twice.",
+      "example": "The shop reduced the price twice.",
       "phonics": "/rəˈdus/, /riˈdus/"
     },
     {
@@ -3165,37 +3165,37 @@
     {
       "word": "region",
       "translation": "la région",
-      "example": "The region gets little rain.",
+      "example": "This region gets very little rain.",
       "phonics": "/ˈridʒən/"
     },
     {
       "word": "regular",
       "translation": "régulier",
-      "example": "He is a regular customer.",
+      "example": "He is a regular customer at our cafe.",
       "phonics": "/ˈreɪɡjəlɝ/, /ˈrɛɡjəlɝ/"
     },
     {
       "word": "relationship",
       "translation": "la relation",
-      "example": "They have a good relationship.",
+      "example": "She has a good relationship with her parents.",
       "phonics": "/riˈleɪʃənˌʃɪp/"
     },
     {
       "word": "remove",
       "translation": "enlever",
-      "example": "Please remove your shoes.",
+      "example": "Visitors remove their shoes at the door.",
       "phonics": "/riˈmuv/"
     },
     {
       "word": "repair",
       "translation": "réparer",
-      "example": "The repair took two days.",
+      "example": "The repair of the car took two days.",
       "phonics": "/rɪˈpɛr/"
     },
     {
       "word": "replace",
       "translation": "remplacer",
-      "example": "We replaced the old machine.",
+      "example": "We replaced the old machine with a new one.",
       "phonics": "/ˌriˈpleɪs/, /ɝˈpleɪs/"
     },
     {
@@ -3207,13 +3207,13 @@
     {
       "word": "reporter",
       "translation": "le journaliste",
-      "example": "A reporter waited outside.",
+      "example": "A reporter waited outside the hospital.",
       "phonics": "/rɪˈpɔrtɝ/"
     },
     {
       "word": "request",
       "translation": "la demande",
-      "example": "They said no to my request.",
+      "example": "The manager said no to my request.",
       "phonics": "/riˈkwɛst/, /rɪˈkwɛst/"
     },
     {
@@ -3225,31 +3225,31 @@
     {
       "word": "researcher",
       "translation": "le chercheur",
-      "example": "The researcher works in a lab.",
+      "example": "The researcher works in a lab at the university.",
       "phonics": "/ˈrisɝtʃɝ/"
     },
     {
       "word": "respond",
       "translation": "répondre",
-      "example": "Nobody responded to the email.",
+      "example": "Nobody responded to my email.",
       "phonics": "/riˈspɑnd/, /rɪˈspɑnd/"
     },
     {
       "word": "response",
       "translation": "la réponse",
-      "example": "We are waiting for a response.",
+      "example": "We are waiting for a response from the bank.",
       "phonics": "/riˈspɑns/, /rɪˈspɑns/"
     },
     {
       "word": "rest",
       "translation": "le repos, se reposer",
-      "example": "Take a short rest now.",
+      "example": "The doctor told him to get some rest.",
       "phonics": "/ˈrɛst/"
     },
     {
       "word": "review",
       "translation": "la critique, la revue",
-      "example": "The review was very positive.",
+      "example": "The review of the new film was very positive.",
       "phonics": "/ˌrivˈju/"
     },
     {
@@ -3273,7 +3273,7 @@
     {
       "word": "role",
       "translation": "le rôle",
-      "example": "She played a small role.",
+      "example": "She played a small role in the film.",
       "phonics": "/ˈroʊl/"
     },
     {
@@ -3291,25 +3291,25 @@
     {
       "word": "route",
       "translation": "la route",
-      "example": "The route is longer but safer.",
+      "example": "This route is longer but safer.",
       "phonics": "/ˈraʊt/, /ˈrut/"
     },
     {
       "word": "rubbish",
       "translation": "les ordures",
-      "example": "Put the rubbish outside.",
+      "example": "He takes the rubbish outside every night.",
       "phonics": "/ˈrəbɪʃ/"
     },
     {
       "word": "rude",
       "translation": "impoli",
-      "example": "His answer was rude.",
+      "example": "The waiter was rude to us.",
       "phonics": "/ˈrud/"
     },
     {
       "word": "runner",
       "translation": "le coureur",
-      "example": "The runner stopped to drink.",
+      "example": "The runner stopped for a drink of water.",
       "phonics": "/ˈrənɝ/"
     },
     {
@@ -3321,7 +3321,7 @@
     {
       "word": "sadly",
       "translation": "malheureusement",
-      "example": "Sadly, the shop has closed.",
+      "example": "Sadly, the old shop has closed.",
       "phonics": "/ˈsædli/"
     },
     {
@@ -3339,31 +3339,31 @@
     {
       "word": "salary",
       "translation": "le salaire",
-      "example": "His salary is very good.",
+      "example": "His salary at the new job is very good.",
       "phonics": "/ˈsælɝi/"
     },
     {
       "word": "sale",
       "translation": "la vente",
-      "example": "The sale ends on Sunday.",
+      "example": "The summer sale ends on Sunday.",
       "phonics": "/ˈseɪl/"
     },
     {
       "word": "sauce",
       "translation": "la sauce",
-      "example": "The sauce was too thick.",
+      "example": "The tomato sauce was too thick.",
       "phonics": "/ˈsɔs/"
     },
     {
       "word": "save",
       "translation": "sauver, économiser",
-      "example": "Save the file before closing.",
+      "example": "She saves the file before she closes it.",
       "phonics": "/ˈseɪv/"
     },
     {
       "word": "scarf",
       "translation": "l'écharpe",
-      "example": "Wear a scarf, it is cold.",
+      "example": "She wears a scarf because it is cold.",
       "phonics": "/ˈskɑrf/"
     },
     {
@@ -3375,31 +3375,31 @@
     {
       "word": "scene",
       "translation": "la scène",
-      "example": "The final scene was cut.",
+      "example": "They cut the final scene of the film.",
       "phonics": "/ˈsin/"
     },
     {
       "word": "schedule",
       "translation": "l'emploi du temps",
-      "example": "The schedule changed twice.",
+      "example": "The train schedule changed twice this year.",
       "phonics": "/ˈskɛdʒul/, /ˈskɛdʒʊl/"
     },
     {
       "word": "score",
       "translation": "le score",
-      "example": "What is the score now?",
+      "example": "The final score was two to one.",
       "phonics": "/ˈskɔr/"
     },
     {
       "word": "screen",
       "translation": "l'écran",
-      "example": "The screen is too small.",
+      "example": "The screen on my phone is too small.",
       "phonics": "/ˈskrin/"
     },
     {
       "word": "search",
       "translation": "chercher",
-      "example": "The search took all night.",
+      "example": "The search for the lost dog took all night.",
       "phonics": "/ˈsɝtʃ/"
     },
     {
@@ -3411,13 +3411,13 @@
     {
       "word": "seat",
       "translation": "le siège",
-      "example": "Every seat was taken.",
+      "example": "Every seat on the bus was taken.",
       "phonics": "/ˈsit/"
     },
     {
       "word": "secondly",
       "translation": "deuxièmement",
-      "example": "Secondly, the cost is too high.",
+      "example": "Secondly, the hotel is too far from the beach.",
       "phonics": "/ˈsɛkəndli/"
     },
     {
@@ -3429,7 +3429,7 @@
     {
       "word": "secretary",
       "translation": "le secrétaire",
-      "example": "The secretary took the message.",
+      "example": "The secretary took a message for the manager.",
       "phonics": "/ˈsɛkrəˌtɛri/"
     },
     {
@@ -3441,7 +3441,7 @@
     {
       "word": "sense",
       "translation": "le sens",
-      "example": "That makes no sense.",
+      "example": "His story makes no sense to me.",
       "phonics": "/ˈsɛns/"
     },
     {
@@ -3459,19 +3459,19 @@
     {
       "word": "serious",
       "translation": "sérieux",
-      "example": "This is a serious mistake.",
+      "example": "The doctor says it is not a serious illness.",
       "phonics": "/ˈsɪriəs/"
     },
     {
       "word": "serve",
       "translation": "servir",
-      "example": "They serve breakfast until ten.",
+      "example": "The hotel serves breakfast until ten.",
       "phonics": "/ˈsɝv/"
     },
     {
       "word": "service",
       "translation": "le service",
-      "example": "The service was very slow.",
+      "example": "The service at the restaurant was very slow.",
       "phonics": "/ˈsɝvəs/, /ˈsɝvɪs/"
     },
     {
@@ -3483,7 +3483,7 @@
     {
       "word": "shake",
       "translation": "secouer",
-      "example": "Shake the bottle first.",
+      "example": "She shakes the bottle before she opens it.",
       "phonics": "/ˈʃeɪk/"
     },
     {
@@ -3495,7 +3495,7 @@
     {
       "word": "sheet",
       "translation": "le drap, la feuille",
-      "example": "Put a clean sheet on the bed.",
+      "example": "My mother puts a clean sheet on the bed.",
       "phonics": "/ˈʃit/"
     },
     {
@@ -3513,19 +3513,19 @@
     {
       "word": "shout",
       "translation": "crier",
-      "example": "Do not shout at the children.",
+      "example": "The teacher never shouts at the children.",
       "phonics": "/ˈʃaʊt/"
     },
     {
       "word": "shut",
       "translation": "fermer",
-      "example": "Shut the window, please.",
+      "example": "He shuts the window because of the rain.",
       "phonics": "/ˈʃət/"
     },
     {
       "word": "side",
       "translation": "le côté",
-      "example": "Sit on the other side.",
+      "example": "She sits on the other side of the table.",
       "phonics": "/ˈsaɪd/"
     },
     {
@@ -3543,7 +3543,7 @@
     {
       "word": "simple",
       "translation": "simple",
-      "example": "The answer is very simple.",
+      "example": "The answer to the question is very simple.",
       "phonics": "/ˈsɪmpəl/"
     },
     {
@@ -3567,13 +3567,13 @@
     {
       "word": "site",
       "translation": "le site",
-      "example": "The building site is closed.",
+      "example": "The building site is closed on Sundays.",
       "phonics": "/ˈsaɪt/"
     },
     {
       "word": "size",
       "translation": "la taille",
-      "example": "What size do you take?",
+      "example": "What size of shoes do you take?",
       "phonics": "/ˈsaɪz/"
     },
     {
@@ -3591,7 +3591,7 @@
     {
       "word": "skin",
       "translation": "la peau",
-      "example": "Babies have soft skin.",
+      "example": "Babies have very soft skin.",
       "phonics": "/ˈskɪn/"
     },
     {
@@ -3609,7 +3609,7 @@
     {
       "word": "smell",
       "translation": "l'odeur, sentir",
-      "example": "The smell came from the kitchen.",
+      "example": "The smell of bread came from the kitchen.",
       "phonics": "/ˈsmɛl/"
     },
     {
@@ -3639,25 +3639,25 @@
     {
       "word": "social",
       "translation": "social",
-      "example": "It is a social problem.",
+      "example": "Loneliness is a big social problem.",
       "phonics": "/ˈsoʊʃəl/"
     },
     {
       "word": "society",
       "translation": "la société",
-      "example": "Society changes slowly.",
+      "example": "Old people are important in our society.",
       "phonics": "/səˈsaɪəti/"
     },
     {
       "word": "sock",
       "translation": "la chaussette",
-      "example": "One sock was missing.",
+      "example": "One sock is missing from the washing machine.",
       "phonics": "/ˈsɑk/"
     },
     {
       "word": "soft",
       "translation": "doux",
-      "example": "The bread is still soft.",
+      "example": "This bread is still soft.",
       "phonics": "/ˈsɑft/, /ˈsɔft/"
     },
     {
@@ -3669,43 +3669,43 @@
     {
       "word": "solution",
       "translation": "la solution",
-      "example": "Nobody found a solution.",
+      "example": "Nobody found a solution to the problem.",
       "phonics": "/səˈluʃən/"
     },
     {
       "word": "solve",
       "translation": "résoudre",
-      "example": "Nobody could solve it.",
+      "example": "She solved the maths problem in a minute.",
       "phonics": "/ˈsɑlv/"
     },
     {
       "word": "somewhere",
       "translation": "quelque part",
-      "example": "I left it somewhere here.",
+      "example": "I left my keys somewhere in the house.",
       "phonics": "/ˈsəmˌwɛr/"
     },
     {
       "word": "sort",
       "translation": "le genre, trier",
-      "example": "What sort of car is it?",
+      "example": "What sort of music do you like?",
       "phonics": "/ˈsɔrt/"
     },
     {
       "word": "source",
       "translation": "la source",
-      "example": "The source of the noise was outside.",
+      "example": "The river is the main source of water for the town.",
       "phonics": "/ˈsɔrs/"
     },
     {
       "word": "speaker",
       "translation": "le haut-parleur, l'orateur",
-      "example": "The speaker was hard to hear.",
+      "example": "The speaker at the meeting was hard to hear.",
       "phonics": "/ˈspikɝ/"
     },
     {
       "word": "specific",
       "translation": "spécifique",
-      "example": "Give me a specific example.",
+      "example": "The teacher wants a specific example.",
       "phonics": "/spəˈsɪfɪk/, /spɪˈsɪfɪk/"
     },
     {
@@ -3729,7 +3729,7 @@
     {
       "word": "spoon",
       "translation": "la cuillère",
-      "example": "Eat the soup with a spoon.",
+      "example": "He eats his soup with a spoon.",
       "phonics": "/ˈspun/"
     },
     {
@@ -3747,7 +3747,7 @@
     {
       "word": "stage",
       "translation": "la scène, l'étape",
-      "example": "The stage was too small.",
+      "example": "The singer walked onto the stage.",
       "phonics": "/ˈsteɪdʒ/"
     },
     {
@@ -3759,7 +3759,7 @@
     {
       "word": "stamp",
       "translation": "le timbre",
-      "example": "I need a stamp for this letter.",
+      "example": "She puts a stamp on the letter.",
       "phonics": "/ˈstæmp/"
     },
     {
@@ -3771,19 +3771,19 @@
     {
       "word": "steal",
       "translation": "voler",
-      "example": "Someone stole his bicycle.",
+      "example": "Someone stole his bicycle last night.",
       "phonics": "/ˈstil/"
     },
     {
       "word": "step",
       "translation": "le pas, l'étape",
-      "example": "Be careful, there is a step here.",
+      "example": "The first step is to find a good teacher.",
       "phonics": "/ˈstɛp/"
     },
     {
       "word": "stomach",
       "translation": "l'estomac",
-      "example": "Do not go running on an empty stomach.",
+      "example": "My stomach hurts after lunch.",
       "phonics": "/ˈstəmək/"
     },
     {
@@ -3795,7 +3795,7 @@
     {
       "word": "store",
       "translation": "le magasin",
-      "example": "The store closes at nine.",
+      "example": "The store on the corner closes at nine.",
       "phonics": "/ˈstɔr/"
     },
     {
@@ -3807,19 +3807,19 @@
     {
       "word": "straight",
       "translation": "droit",
-      "example": "Go straight for two hundred metres.",
+      "example": "He walks straight to the station.",
       "phonics": "/ˈstreɪt/"
     },
     {
       "word": "strange",
       "translation": "étrange",
-      "example": "A strange noise woke me.",
+      "example": "A strange noise woke me in the night.",
       "phonics": "/ˈstreɪndʒ/"
     },
     {
       "word": "strategy",
       "translation": "la stratégie",
-      "example": "Their strategy did not work.",
+      "example": "Their strategy for the game did not work.",
       "phonics": "/ˈstrætədʒi/"
     },
     {
@@ -3831,7 +3831,7 @@
     {
       "word": "stress",
       "translation": "le stress",
-      "example": "The job causes a lot of stress.",
+      "example": "Her new job causes a lot of stress.",
       "phonics": "/ˈstrɛs/"
     },
     {
@@ -3843,7 +3843,7 @@
     {
       "word": "stupid",
       "translation": "stupide",
-      "example": "That was a stupid thing to do.",
+      "example": "He feels stupid after his mistake.",
       "phonics": "/ˈstupəd/, /ˈstupɪd/"
     },
     {
@@ -3873,7 +3873,7 @@
     {
       "word": "suit",
       "translation": "le costume",
-      "example": "That colour suits you.",
+      "example": "That colour suits you very well.",
       "phonics": "/ˈsut/"
     },
     {
@@ -3885,25 +3885,25 @@
     {
       "word": "suppose",
       "translation": "supposer",
-      "example": "I suppose he forgot.",
+      "example": "I suppose he forgot about the meeting.",
       "phonics": "/səˈpoʊz/"
     },
     {
       "word": "surprise",
       "translation": "la surprise",
-      "example": "The result was a surprise.",
+      "example": "The party was a big surprise for her.",
       "phonics": "/səˈpraɪz/, /sɝˈpraɪz/"
     },
     {
       "word": "survey",
       "translation": "le sondage",
-      "example": "We did a survey of our students.",
+      "example": "The school did a survey of its students.",
       "phonics": "/ˈsɝˌveɪ/, /sɝˈveɪ/"
     },
     {
       "word": "sweet",
       "translation": "sucré, le bonbon",
-      "example": "The tea is too sweet.",
+      "example": "This tea is too sweet for me.",
       "phonics": "/ˈswit/"
     },
     {
@@ -3915,13 +3915,13 @@
     {
       "word": "symbol",
       "translation": "le symbole",
-      "example": "The symbol means danger.",
+      "example": "This symbol on the box means danger.",
       "phonics": "/ˈsɪmbəl/"
     },
     {
       "word": "system",
       "translation": "le système",
-      "example": "The system failed twice.",
+      "example": "The computer system failed twice today.",
       "phonics": "/ˈsɪstəm/"
     },
     {
@@ -3939,7 +3939,7 @@
     {
       "word": "task",
       "translation": "la tâche",
-      "example": "The task took all morning.",
+      "example": "Cleaning the house took all morning.",
       "phonics": "/ˈtæsk/"
     },
     {
@@ -3963,13 +3963,13 @@
     {
       "word": "term",
       "translation": "le terme, le trimestre",
-      "example": "The term ends in April.",
+      "example": "The school term ends in April.",
       "phonics": "/ˈtɝm/"
     },
     {
       "word": "thick",
       "translation": "épais",
-      "example": "The walls are very thick.",
+      "example": "The walls of the old castle are very thick.",
       "phonics": "/ˈθɪk/"
     },
     {
@@ -3981,19 +3981,19 @@
     {
       "word": "thin",
       "translation": "mince",
-      "example": "The ice was too thin.",
+      "example": "The ice on the lake was too thin.",
       "phonics": "/ˈθɪn/"
     },
     {
       "word": "thought",
       "translation": "la pensée",
-      "example": "Suddenly, I had a thought.",
+      "example": "Suddenly, I had a good thought.",
       "phonics": "/ˈθɔt/"
     },
     {
       "word": "throw",
       "translation": "lancer",
-      "example": "Throw the ball to me.",
+      "example": "The boy throws the ball to his dog.",
       "phonics": "/ˈθroʊ/"
     },
     {
@@ -4017,7 +4017,7 @@
     {
       "word": "tip",
       "translation": "le pourboire, le conseil",
-      "example": "She left a small tip.",
+      "example": "She left a small tip for the waiter.",
       "phonics": "/ˈtɪp/"
     },
     {
@@ -4035,13 +4035,13 @@
     {
       "word": "touch",
       "translation": "toucher",
-      "example": "Do not touch the paint.",
+      "example": "The children touch the soft rabbit.",
       "phonics": "/ˈtətʃ/"
     },
     {
       "word": "tour",
       "translation": "la visite",
-      "example": "The tour lasts two hours.",
+      "example": "The tour of the old town lasts two hours.",
       "phonics": "/ˈtʊr/"
     },
     {
@@ -4059,19 +4059,19 @@
     {
       "word": "towel",
       "translation": "la serviette",
-      "example": "Take a towel to the beach.",
+      "example": "She takes a towel to the beach.",
       "phonics": "/ˈtaʊəl/, /ˈtaʊl/"
     },
     {
       "word": "tower",
       "translation": "la tour",
-      "example": "The tower is closed for repairs.",
+      "example": "The old tower is closed for repairs.",
       "phonics": "/ˈtaʊɝ/"
     },
     {
       "word": "toy",
       "translation": "le jouet",
-      "example": "The toy broke in a day.",
+      "example": "The new toy broke in a day.",
       "phonics": "/ˈtɔɪ/"
     },
     {
@@ -4083,13 +4083,13 @@
     {
       "word": "tradition",
       "translation": "la tradition",
-      "example": "It is an old family tradition.",
+      "example": "Eating together on Sundays is a family tradition.",
       "phonics": "/trəˈdɪʃən/"
     },
     {
       "word": "trainer",
       "translation": "l'entraîneur",
-      "example": "His trainer changed the plan.",
+      "example": "His trainer changed the training plan.",
       "phonics": "/ˈtreɪnɝ/"
     },
     {
@@ -4113,13 +4113,13 @@
     {
       "word": "trouble",
       "translation": "le problème",
-      "example": "We had trouble with the car.",
+      "example": "We had trouble with the car on the way home.",
       "phonics": "/ˈtrəbəl/"
     },
     {
       "word": "truck",
       "translation": "le camion",
-      "example": "The truck could not turn.",
+      "example": "The big truck could not turn into the street.",
       "phonics": "/ˈtrək/"
     },
     {
@@ -4131,7 +4131,7 @@
     {
       "word": "typical",
       "translation": "typique",
-      "example": "That is typical of him.",
+      "example": "Rice is a typical food in Thailand.",
       "phonics": "/ˈtɪpəkəl/, /ˈtɪpɪkəl/"
     },
     {
@@ -4155,19 +4155,19 @@
     {
       "word": "uniform",
       "translation": "l'uniforme",
-      "example": "The uniform did not fit.",
+      "example": "The new school uniform did not fit him.",
       "phonics": "/ˈjunəˌfɔrm/"
     },
     {
       "word": "unit",
       "translation": "l'unité",
-      "example": "Each unit costs ten euros.",
+      "example": "Each unit in the building has two bedrooms.",
       "phonics": "/ˈjunət/, /ˈjunɪt/"
     },
     {
       "word": "unusual",
       "translation": "inhabituel",
-      "example": "It is an unusual name.",
+      "example": "She has an unusual name.",
       "phonics": "/ənˈjuˌʒuəl/, /ənˈjuʒwəl/"
     },
     {
@@ -4179,7 +4179,7 @@
     {
       "word": "user",
       "translation": "l'utilisateur",
-      "example": "Every user needs a password.",
+      "example": "Every user of the website needs a password.",
       "phonics": "/ˈjuzɝ/"
     },
     {
@@ -4209,7 +4209,7 @@
     {
       "word": "vehicle",
       "translation": "le véhicule",
-      "example": "Vehicles cannot park here.",
+      "example": "This road is closed to all vehicles.",
       "phonics": "/ˈvihɪkəl/, /ˈviɪkəl/"
     },
     {
@@ -4227,7 +4227,7 @@
     {
       "word": "voice",
       "translation": "la voix",
-      "example": "Her voice was very quiet.",
+      "example": "Her voice was very quiet on the phone.",
       "phonics": "/ˈvɔɪs/"
     },
     {
@@ -4245,25 +4245,25 @@
     {
       "word": "weak",
       "translation": "faible",
-      "example": "The coffee is too weak.",
+      "example": "This coffee is too weak for me.",
       "phonics": "/ˈwik/"
     },
     {
       "word": "web",
       "translation": "la toile",
-      "example": "The web address was wrong.",
+      "example": "She finds most of her recipes on the web.",
       "phonics": "/ˈwɛb/"
     },
     {
       "word": "wedding",
       "translation": "le mariage",
-      "example": "The wedding was in June.",
+      "example": "Their wedding was in June.",
       "phonics": "/ˈwɛdɪŋ/"
     },
     {
       "word": "weight",
       "translation": "le poids",
-      "example": "His weight has not changed.",
+      "example": "His weight has not changed this year.",
       "phonics": "/ˈweɪt/"
     },
     {
@@ -4305,7 +4305,7 @@
     {
       "word": "winner",
       "translation": "le gagnant",
-      "example": "The winner gets a prize.",
+      "example": "The winner of the race gets a prize.",
       "phonics": "/ˈwɪnɝ/"
     },
     {
@@ -4329,25 +4329,25 @@
     {
       "word": "worry",
       "translation": "s'inquiéter",
-      "example": "Do not worry about it.",
+      "example": "Her parents worry about her a lot.",
       "phonics": "/ˈwɝi/"
     },
     {
       "word": "worse",
       "translation": "pire",
-      "example": "The weather got worse.",
+      "example": "The weather got worse in the afternoon.",
       "phonics": "/ˈwɝs/"
     },
     {
       "word": "worst",
       "translation": "le pire",
-      "example": "That was the worst part.",
+      "example": "This is the worst film of the year.",
       "phonics": "/ˈwɝst/"
     },
     {
       "word": "wow",
       "translation": "waouh",
-      "example": "Wow, that was fast.",
+      "example": "Wow, your new car is beautiful.",
       "phonics": "/ˈwaʊ/"
     },
     {

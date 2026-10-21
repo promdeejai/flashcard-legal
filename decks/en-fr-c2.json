@@ -4,7 +4,7 @@
   "learn": "en",
   "native": "fr",
   "level": "C2",
-  "version": 40,
+  "version": 41,
   "items": [
     {
       "word": "abate",
@@ -21,7 +21,7 @@
     {
       "word": "aberration",
       "translation": "aberration",
-      "example": "The result was an aberration.",
+      "example": "One bad result was an aberration.",
       "phonics": "/ˌæbɝˈeɪʃən/"
     },
     {
@@ -62,7 +62,7 @@
     {
       "word": "abrogate",
       "translation": "abroger",
-      "example": "The treaty was abrogated without warning.",
+      "example": "The new government abrogated the treaty.",
       "phonics": "/ˈæbrəˌɡeɪt/"
     },
     {
@@ -86,19 +86,19 @@
     {
       "word": "abstain",
       "translation": "s'abstenir",
-      "example": "Three members abstained.",
+      "example": "Three members abstained in the vote.",
       "phonics": "/æbˈsteɪn/, /əbˈsteɪn/"
     },
     {
       "word": "abstention",
       "translation": "abstention",
-      "example": "There was one abstention.",
+      "example": "There was one abstention in the vote.",
       "phonics": "/æbˈstɛntʃən/, /əbˈstɛntʃən/"
     },
     {
       "word": "abstinence",
       "translation": "abstinence",
-      "example": "The programme requires abstinence.",
+      "example": "He practises total abstinence from alcohol.",
       "phonics": "/ˈæbstənəns/"
     },
     {
@@ -116,13 +116,13 @@
     {
       "word": "accede",
       "translation": "accéder",
-      "example": "She acceded to the request.",
+      "example": "She acceded to their request.",
       "phonics": "/ækˈsid/"
     },
     {
       "word": "accentuate",
       "translation": "accentuer",
-      "example": "The light accentuates the cracks.",
+      "example": "The bright light accentuates the cracks in the wall.",
       "phonics": "/ækˈsɛntʃueɪt/"
     },
     {
@@ -140,7 +140,7 @@
     {
       "word": "acclamation",
       "translation": "acclamation",
-      "example": "The motion passed by acclamation.",
+      "example": "The crowd greeted the decision with acclamation.",
       "phonics": "/ˌækləˈmeɪʃən/"
     },
     {
@@ -152,7 +152,7 @@
     {
       "word": "accomplice",
       "translation": "complice",
-      "example": "The accomplice waited outside.",
+      "example": "The thief's accomplice waited outside in the car.",
       "phonics": "/əˈkɑmpləs/"
     },
     {
@@ -188,7 +188,7 @@
     {
       "word": "acquit",
       "translation": "acquitter",
-      "example": "The jury acquitted him.",
+      "example": "The jury acquitted him of the crime.",
       "phonics": "/əˈkwɪt/"
     },
     {
@@ -212,13 +212,13 @@
     {
       "word": "adage",
       "translation": "adage",
-      "example": "The old adage proved right.",
+      "example": "As the old adage says, time is money.",
       "phonics": "/ˈædədʒ/, /ˈædɪdʒ/"
     },
     {
       "word": "adamant",
       "translation": "inflexible",
-      "example": "She was adamant about the date.",
+      "example": "She was adamant that she was right.",
       "phonics": "/ˈædəmənt/"
     },
     {
@@ -247,7 +247,7 @@
     {
       "word": "adulation",
       "translation": "adulation",
-      "example": "The adulation did not last.",
+      "example": "The singer enjoyed the adulation of her fans.",
       "phonics": "/ˌædʒəˈleɪʃən/"
     },
     {
@@ -271,7 +271,7 @@
     {
       "word": "affable",
       "translation": "affable",
-      "example": "The landlord was affable.",
+      "example": "Our new landlord is very affable.",
       "phonics": "/ˈæfəbəl/"
     },
     {
@@ -295,7 +295,7 @@
     {
       "word": "affliction",
       "translation": "affliction",
-      "example": "Deafness was his one affliction.",
+      "example": "Deafness was his only affliction.",
       "phonics": "/əˈflɪkʃən/"
     },
     {
@@ -331,7 +331,7 @@
     {
       "word": "allusion",
       "translation": "allusion",
-      "example": "The allusion to the war is subtle.",
+      "example": "The poem contains an allusion to the war.",
       "phonics": "/əˈluʒən/"
     },
     {
@@ -361,7 +361,7 @@
     {
       "word": "ambiguity",
       "translation": "ambiguïté",
-      "example": "The wording leaves an ambiguity.",
+      "example": "The wording of the contract leaves some ambiguity.",
       "phonics": "/ˌæmbɪɡˈjuəti/"
     },
     {
@@ -373,7 +373,7 @@
     {
       "word": "ameliorate",
       "translation": "améliorer",
-      "example": "The grant ameliorated the worst of it.",
+      "example": "The new law ameliorated conditions for workers.",
       "phonics": "/əˈmiljɝˌeɪt/"
     },
     {
@@ -439,7 +439,7 @@
     {
       "word": "annum",
       "translation": "an",
-      "example": "The rent is four thousand per annum.",
+      "example": "The rent is four thousand dollars per annum.",
       "phonics": "/ˈænəm/"
     },
     {
@@ -457,7 +457,7 @@
     {
       "word": "antidote",
       "translation": "antidote",
-      "example": "Music was her antidote to the week.",
+      "example": "The doctor gave him the antidote quickly.",
       "phonics": "/ˈænɪˌdoʊt/, /ˈæntɪˌdoʊt/"
     },
     {
@@ -469,7 +469,7 @@
     {
       "word": "antiquated",
       "translation": "vieilli",
-      "example": "The system is antiquated.",
+      "example": "The office uses an antiquated computer system.",
       "phonics": "/ˈæntəˌkweɪtɪd/"
     },
     {
@@ -493,7 +493,7 @@
     {
       "word": "aperture",
       "translation": "ouverture",
-      "example": "Widen the aperture in low light.",
+      "example": "The photographer widens the aperture in low light.",
       "phonics": "/ˈæpɝtʃɝ/"
     },
     {
@@ -517,13 +517,13 @@
     {
       "word": "apostle",
       "translation": "apôtre",
-      "example": "The window shows one apostle.",
+      "example": "The window shows an apostle of Jesus.",
       "phonics": "/əˈpɑsəl/"
     },
     {
       "word": "apparition",
       "translation": "apparition",
-      "example": "The story turns on an apparition.",
+      "example": "She saw an apparition in the old house.",
       "phonics": "/ˌæpɝˈɪʃən/"
     },
     {
@@ -589,7 +589,7 @@
     {
       "word": "arduous",
       "translation": "ardu",
-      "example": "The climb was arduous.",
+      "example": "The climb to the summit was arduous.",
       "phonics": "/ˈɑrdʒuəs/"
     },
     {
@@ -601,7 +601,7 @@
     {
       "word": "arrogance",
       "translation": "arrogance",
-      "example": "His arrogance lost him the room.",
+      "example": "His arrogance made him many enemies.",
       "phonics": "/ˈɛrəɡəns/"
     },
     {
@@ -655,7 +655,7 @@
     {
       "word": "atone",
       "translation": "expier",
-      "example": "He wanted to atone for the delay.",
+      "example": "He wanted to atone for his mistake.",
       "phonics": "/əˈtoʊn/"
     },
     {
@@ -703,7 +703,7 @@
     {
       "word": "aversion",
       "translation": "aversion",
-      "example": "She has an aversion to crowds.",
+      "example": "She has an aversion to large crowds.",
       "phonics": "/əˈvɝʒən/"
     },
     {
@@ -739,7 +739,7 @@
     {
       "word": "balm",
       "translation": "baume",
-      "example": "The evening air was a balm.",
+      "example": "She rubs a herbal balm on her sore neck.",
       "phonics": "/ˈbɑlm/, /ˈbɑm/"
     },
     {
@@ -757,7 +757,7 @@
     {
       "word": "barrage",
       "translation": "barrage",
-      "example": "She faced a barrage of questions.",
+      "example": "She faced a barrage of questions from reporters.",
       "phonics": "/bɝˈɑʒ/"
     },
     {
@@ -769,13 +769,13 @@
     {
       "word": "bear up",
       "translation": "tenir bon",
-      "example": "She bore up well under the strain.",
+      "example": "She bore up well after her husband's death.",
       "phonics": "/ˈbɛr ˈəp/"
     },
     {
       "word": "bedlam",
       "translation": "chaos",
-      "example": "The hall was bedlam by four.",
+      "example": "The classroom was bedlam when the teacher left.",
       "phonics": "/ˈbɛdləm/"
     },
     {
@@ -805,7 +805,7 @@
     {
       "word": "bellicose",
       "translation": "belliqueux",
-      "example": "The speech was unusually bellicose.",
+      "example": "The leader's bellicose speech worried other countries.",
       "phonics": "/ˈbɛləˌkoʊs/"
     },
     {
@@ -829,13 +829,13 @@
     {
       "word": "benefactor",
       "translation": "bienfaiteur",
-      "example": "An unnamed benefactor paid for it.",
+      "example": "An unknown benefactor paid for the new library.",
       "phonics": "/ˈbɛnəˌfæktɝ/"
     },
     {
       "word": "benevolence",
       "translation": "bienveillance",
-      "example": "The school lives on quiet benevolence.",
+      "example": "The old man was known for his benevolence.",
       "phonics": "/bəˈnɛvələns/"
     },
     {
@@ -883,13 +883,13 @@
     {
       "word": "beset",
       "translation": "assaillir",
-      "example": "The project was beset by delays.",
+      "example": "Delays beset the project from the start.",
       "phonics": "/bɪˈsɛt/"
     },
     {
       "word": "besotted",
       "translation": "entiché",
-      "example": "He was besotted with the place.",
+      "example": "He is besotted with his new girlfriend.",
       "phonics": "/bɪˈsɔtɪd/"
     },
     {
@@ -906,7 +906,7 @@
     {
       "word": "bigotry",
       "translation": "sectarisme",
-      "example": "The letter is plain bigotry.",
+      "example": "The letter is full of bigotry.",
       "phonics": "/ˈbɪɡətri/"
     },
     {
@@ -924,7 +924,7 @@
     {
       "word": "bite the bullet",
       "translation": "serrer les dents",
-      "example": "We had to bite the bullet and pay.",
+      "example": "We had to bite the bullet and pay the bill.",
       "phonics": "/ˈbaɪt ˈðə ˈbʊlət/"
     },
     {
@@ -942,7 +942,7 @@
     {
       "word": "boisterous",
       "translation": "turbulent",
-      "example": "The class was boisterous on Friday.",
+      "example": "The children were boisterous at the party.",
       "phonics": "/ˈbɔɪstɝəs/, /ˈbɔɪstrəs/"
     },
     {
@@ -960,13 +960,13 @@
     {
       "word": "boorish",
       "translation": "rustre",
-      "example": "His boorish manner emptied the room.",
+      "example": "His boorish manners embarrassed his wife.",
       "phonics": "/ˈbʊrɪʃ/"
     },
     {
       "word": "bounty",
       "translation": "générosité",
-      "example": "The garden gave a summer bounty.",
+      "example": "The police offered a bounty for the robber.",
       "phonics": "/ˈbaʊnti/"
     },
     {
@@ -978,7 +978,7 @@
     {
       "word": "brandish",
       "translation": "brandir",
-      "example": "He brandished the letter at us.",
+      "example": "The robber brandished a knife.",
       "phonics": "/ˈbrændɪʃ/"
     },
     {
@@ -1008,7 +1008,7 @@
     {
       "word": "brusque",
       "translation": "brusque",
-      "example": "Her reply was brusque.",
+      "example": "The waiter gave a brusque reply.",
       "phonics": "/ˈbrəsk/"
     },
     {
@@ -1044,13 +1044,13 @@
     {
       "word": "cache",
       "translation": "cache",
-      "example": "They found a cache of old letters.",
+      "example": "The police found a cache of weapons.",
       "phonics": "/ˈkæʃ/, /kæˈʃeɪ/"
     },
     {
       "word": "cacophony",
       "translation": "cacophonie",
-      "example": "The market was a cacophony.",
+      "example": "The street was a cacophony of car horns.",
       "phonics": "/kæˈkɑfəni/"
     },
     {
@@ -1068,13 +1068,13 @@
     {
       "word": "calibre",
       "translation": "calibre",
-      "example": "The team is of a high calibre.",
+      "example": "The team has players of high calibre.",
       "phonics": "/ˈkæləbɝ/"
     },
     {
       "word": "callous",
       "translation": "insensible",
-      "example": "The remark was callous.",
+      "example": "His callous remark made her cry.",
       "phonics": "/ˈkæləs/"
     },
     {
@@ -1098,7 +1098,7 @@
     {
       "word": "cantankerous",
       "translation": "grincheux",
-      "example": "The old gate is cantankerous.",
+      "example": "Our cantankerous neighbour complains about everything.",
       "phonics": "/kænˈtæŋkɝəs/"
     },
     {
@@ -1116,7 +1116,7 @@
     {
       "word": "cardinal",
       "translation": "cardinal",
-      "example": "That is a cardinal rule.",
+      "example": "Never lying is her cardinal rule.",
       "phonics": "/ˈkɑrdənəl/, /ˈkɑrdɪnəl/"
     },
     {
@@ -1127,7 +1127,7 @@
     {
       "word": "caste",
       "translation": "caste",
-      "example": "The novel examines caste.",
+      "example": "The novel examines the caste system in India.",
       "phonics": "/ˈkæst/"
     },
     {
@@ -1139,7 +1139,7 @@
     {
       "word": "cataclysm",
       "translation": "cataclysme",
-      "example": "The flood was a cataclysm.",
+      "example": "The earthquake was a cataclysm for the region.",
       "phonics": "/ˈkætəˌklɪsəm/"
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "word": "cavil",
       "translation": "chicaner",
-      "example": "Do not cavil over small sums."
+      "example": "He always cavils over small sums of money."
     },
     {
       "word": "censure",
@@ -1174,7 +1174,7 @@
     {
       "word": "cessation",
       "translation": "cessation",
-      "example": "The cessation of work came at noon.",
+      "example": "The two sides agreed to a cessation of fighting.",
       "phonics": "/ˌsɛˈseɪʃən/"
     },
     {
@@ -1192,7 +1192,7 @@
     {
       "word": "chasm",
       "translation": "gouffre",
-      "example": "There is a chasm between the two views.",
+      "example": "A wide chasm separates the two views.",
       "phonics": "/ˈkæzəm/"
     },
     {
@@ -1204,7 +1204,7 @@
     {
       "word": "chattel",
       "translation": "bien mobilier",
-      "example": "In old law a chattel was movable property.",
+      "example": "In old times, a slave was treated as a chattel.",
       "phonics": "/ˈtʃætəl/"
     },
     {
@@ -1222,13 +1222,13 @@
     {
       "word": "chronology",
       "translation": "chronologie",
-      "example": "The chronology at the back helps.",
+      "example": "The chronology at the back of the book is useful.",
       "phonics": "/krəˈnɑlədʒi/"
     },
     {
       "word": "churlish",
       "translation": "rustre",
-      "example": "It would be churlish to refuse.",
+      "example": "It would be churlish to refuse her gift.",
       "phonics": "/ˈtʃɝlɪʃ/"
     },
     {
@@ -1264,7 +1264,7 @@
     {
       "word": "clemency",
       "translation": "clémence",
-      "example": "The court showed clemency.",
+      "example": "The king showed clemency to the prisoners.",
       "phonics": "/ˈklɛmənsi/"
     },
     {
@@ -1282,7 +1282,7 @@
     {
       "word": "clout",
       "translation": "influence",
-      "example": "The committee has real clout.",
+      "example": "The union has real political clout.",
       "phonics": "/ˈklaʊt/"
     },
     {
@@ -1300,7 +1300,7 @@
     {
       "word": "coercion",
       "translation": "coercition",
-      "example": "The confession followed coercion.",
+      "example": "He signed the contract under coercion.",
       "phonics": "/koʊˈɝʃən/"
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "word": "colossal",
       "translation": "colossal",
-      "example": "The cost was colossal.",
+      "example": "The project was a colossal waste of money.",
       "phonics": "/kəˈlɑsəl/"
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "word": "commiserate",
       "translation": "compatir",
-      "example": "We commiserated over the result.",
+      "example": "We commiserated with her over the bad result.",
       "phonics": "/kəˈmɪsɝˌeɪt/"
     },
     {
@@ -1384,7 +1384,7 @@
     {
       "word": "concatenation",
       "translation": "concaténation",
-      "example": "A concatenation of errors caused it.",
+      "example": "A concatenation of small errors caused the crash.",
       "phonics": "/kənˌkætəˈneɪʃən/"
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "word": "conclave",
       "translation": "conclave",
-      "example": "The conclave lasted three days.",
+      "example": "The cardinals met in a conclave to choose the Pope.",
       "phonics": "/ˈkɑnˌkleɪv/"
     },
     {
@@ -1419,13 +1419,13 @@
     {
       "word": "confiscate",
       "translation": "confisquer",
-      "example": "The guard confiscated the knife.",
+      "example": "The teacher confiscated his phone in class.",
       "phonics": "/ˈkɑnfəˌskeɪt/"
     },
     {
       "word": "conflagration",
       "translation": "conflagration",
-      "example": "The conflagration took the whole street.",
+      "example": "The conflagration destroyed the whole street.",
       "phonics": "/ˌkɑnfləˈɡreɪʃən/"
     },
     {
@@ -1443,7 +1443,7 @@
     {
       "word": "conjure",
       "translation": "évoquer",
-      "example": "The smell conjures a whole summer.",
+      "example": "The magician conjured a rabbit from his hat.",
       "phonics": "/ˈkɑndʒɝ/"
     },
     {
@@ -1455,13 +1455,13 @@
     {
       "word": "connoisseur",
       "translation": "connaisseur",
-      "example": "He is a connoisseur of old maps.",
+      "example": "He is a connoisseur of French wine.",
       "phonics": "/ˌkɑnəˈsɝ/"
     },
     {
       "word": "conquest",
       "translation": "conquête",
-      "example": "The conquest took a decade.",
+      "example": "The Roman conquest of Britain took decades.",
       "phonics": "/ˈkɑŋkwɛst/"
     },
     {
@@ -1485,7 +1485,7 @@
     {
       "word": "construe",
       "translation": "interpréter",
-      "example": "Do not construe silence as consent.",
+      "example": "People may construe his silence as agreement.",
       "phonics": "/kənˈstru/"
     },
     {
@@ -1664,13 +1664,13 @@
     {
       "word": "culprit",
       "translation": "coupable",
-      "example": "Damp was the culprit.",
+      "example": "The police caught the culprit.",
       "phonics": "/ˈkəlprɪt/"
     },
     {
       "word": "cunning",
       "translation": "rusé",
-      "example": "The plan showed real cunning.",
+      "example": "The fox is a cunning animal.",
       "phonics": "/ˈkənɪŋ/"
     },
     {
@@ -1700,13 +1700,13 @@
     {
       "word": "daunting",
       "translation": "intimidant",
-      "example": "The list was daunting.",
+      "example": "Starting a new school can be daunting.",
       "phonics": "/ˈdɔntɪŋ/"
     },
     {
       "word": "dawdle",
       "translation": "traîner",
-      "example": "Do not dawdle on the way home.",
+      "example": "The children dawdle on the way home.",
       "phonics": "/ˈdɔdəl/"
     },
     {
@@ -1772,13 +1772,13 @@
     {
       "word": "decree",
       "translation": "décret",
-      "example": "The council issued a decree.",
+      "example": "The king issued a decree.",
       "phonics": "/dɪˈkri/"
     },
     {
       "word": "decrepit",
       "translation": "décrépit",
-      "example": "The shed is decrepit.",
+      "example": "The old shed is decrepit.",
       "phonics": "/dəˈkrɛpɪt/"
     },
     {
@@ -1802,7 +1802,7 @@
     {
       "word": "deflate",
       "translation": "dégonfler",
-      "example": "The news deflated the whole room.",
+      "example": "The bad news deflated the whole team.",
       "phonics": "/dɪˈfleɪt/"
     },
     {
@@ -1814,7 +1814,7 @@
     {
       "word": "dehort",
       "translation": "dissuader",
-      "example": "The letter dehorts them from selling."
+      "example": "His father dehorted him from leaving school."
     },
     {
       "word": "deign",
@@ -1831,7 +1831,7 @@
     {
       "word": "deleterious",
       "translation": "délétère",
-      "example": "The delay had a deleterious effect.",
+      "example": "Smoking has a deleterious effect on health.",
       "phonics": "/ˌdɛləˈtɪriəs/"
     },
     {
@@ -1849,19 +1849,19 @@
     {
       "word": "delirium",
       "translation": "délire",
-      "example": "The fever brought delirium.",
+      "example": "The high fever caused delirium.",
       "phonics": "/dɪˈlɪriəm/"
     },
     {
       "word": "deliverance",
       "translation": "délivrance",
-      "example": "The rain was a deliverance.",
+      "example": "They prayed for deliverance from the war.",
       "phonics": "/dɪˈlɪvɝəns/, /dɪˈlɪvrəns/"
     },
     {
       "word": "deluge",
       "translation": "déluge",
-      "example": "A deluge closed the road.",
+      "example": "A deluge of rain closed the road.",
       "phonics": "/ˈdɛljudʒ/"
     },
     {
@@ -1939,7 +1939,7 @@
     {
       "word": "derelict",
       "translation": "abandonné",
-      "example": "The mill stood derelict for years.",
+      "example": "The old factory is now derelict.",
       "phonics": "/ˈdɛrəˌlɪkt/"
     },
     {
@@ -1957,7 +1957,7 @@
     {
       "word": "derogatory",
       "translation": "dénigrant",
-      "example": "The remark was derogatory.",
+      "example": "He made a derogatory remark about her accent.",
       "phonics": "/dɝˈɑɡəˌtɔri/"
     },
     {
@@ -2005,13 +2005,13 @@
     {
       "word": "deter",
       "translation": "dissuader",
-      "example": "The lock deters most thieves.",
+      "example": "A big dog deters most burglars.",
       "phonics": "/dɪˈtɝ/"
     },
     {
       "word": "detestable",
       "translation": "détestable",
-      "example": "The habit is detestable."
+      "example": "His cruelty to animals is detestable."
     },
     {
       "word": "detriment",
@@ -2028,7 +2028,7 @@
     {
       "word": "devious",
       "translation": "sournois",
-      "example": "He took a devious route.",
+      "example": "He used a devious plan to win.",
       "phonics": "/ˈdiviəs/"
     },
     {
@@ -2057,7 +2057,7 @@
     {
       "word": "diaphanous",
       "translation": "diaphane",
-      "example": "She wore something diaphanous and pale.",
+      "example": "She wore a diaphanous white dress.",
       "phonics": "/daɪˈæfənɪs/"
     },
     {
@@ -2092,7 +2092,7 @@
     {
       "word": "dilatory",
       "translation": "dilatoire",
-      "example": "The reply was dilatory.",
+      "example": "The bank was dilatory in answering my letter.",
       "phonics": "/ˈdɪləˌtɔri/"
     },
     {
@@ -2116,7 +2116,7 @@
     {
       "word": "dingy",
       "translation": "miteux",
-      "example": "The corridor is dingy.",
+      "example": "They rented a dingy room near the station.",
       "phonics": "/ˈdɪndʒi/"
     },
     {
@@ -2128,7 +2128,7 @@
     {
       "word": "disabuse",
       "translation": "détromper",
-      "example": "Let me disabuse you of that idea.",
+      "example": "She soon disabused him of that idea.",
       "phonics": "/dɪsəbˈjus/, /dɪsəbˈjuz/"
     },
     {
@@ -2200,7 +2200,7 @@
     {
       "word": "disparage",
       "translation": "dénigrer",
-      "example": "Do not disparage her effort.",
+      "example": "He never disparages his rivals.",
       "phonics": "/dɪˈspɛrɪdʒ/"
     },
     {
@@ -2254,7 +2254,7 @@
     {
       "word": "dissident",
       "translation": "dissident",
-      "example": "The dissident was refused a visa.",
+      "example": "The government refused the dissident a visa.",
       "phonics": "/ˈdɪsədənt/"
     },
     {
@@ -2319,13 +2319,13 @@
     {
       "word": "dormant",
       "translation": "dormant",
-      "example": "The account has been dormant for years.",
+      "example": "The volcano has been dormant for centuries.",
       "phonics": "/ˈdɔrmənt/"
     },
     {
       "word": "dossier",
       "translation": "dossier",
-      "example": "The dossier ran to fifty pages.",
+      "example": "The police keep a dossier on him.",
       "phonics": "/ˌdɔsˈjeɪ/, /ˌdɔsiˈeɪ/"
     },
     {
@@ -2354,7 +2354,7 @@
     {
       "word": "duress",
       "translation": "contrainte",
-      "example": "The signature was given under duress.",
+      "example": "He signed the contract under duress.",
       "phonics": "/ˈdʊrɛs/"
     },
     {
@@ -2420,7 +2420,7 @@
     {
       "word": "effigy",
       "translation": "effigie",
-      "example": "An effigy stood by the gate.",
+      "example": "Protesters burned an effigy of the president.",
       "phonics": "/ˈɛfɪdʒi/"
     },
     {
@@ -2467,13 +2467,13 @@
     {
       "word": "eloquent",
       "translation": "éloquent",
-      "example": "Her silence was eloquent.",
+      "example": "She gave an eloquent speech at the wedding.",
       "phonics": "/ˈɛləkwənt/"
     },
     {
       "word": "elucidate",
       "translation": "élucider",
-      "example": "Could you elucidate that point?",
+      "example": "The teacher elucidated the difficult point.",
       "phonics": "/ɪˈlusəˌdeɪt/"
     },
     {
@@ -2497,7 +2497,7 @@
     {
       "word": "emancipation",
       "translation": "émancipation",
-      "example": "Emancipation came slowly.",
+      "example": "The emancipation of slaves took many years.",
       "phonics": "/ɪˌmænsəˈpeɪʃən/"
     },
     {
@@ -2586,7 +2586,7 @@
     {
       "word": "enigmatic",
       "translation": "énigmatique",
-      "example": "Her reply was enigmatic.",
+      "example": "She gave an enigmatic smile.",
       "phonics": "/ˌɛnɪɡˈmætɪk/"
     },
     {
@@ -2616,7 +2616,7 @@
     {
       "word": "enticing",
       "translation": "attrayant",
-      "example": "The offer is enticing.",
+      "example": "The smell from the bakery is enticing.",
       "phonics": "/ɛnˈtaɪsɪŋ/"
     },
     {
@@ -2687,13 +2687,13 @@
     {
       "word": "epiphany",
       "translation": "révélation",
-      "example": "The walk brought a small epiphany.",
+      "example": "She had an epiphany during her walk.",
       "phonics": "/ɪˈpɪfəni/"
     },
     {
       "word": "epitaph",
       "translation": "épitaphe",
-      "example": "The epitaph is a single line.",
+      "example": "The epitaph on his grave is a single line.",
       "phonics": "/ˈɛpəˌtæf/"
     },
     {
@@ -2717,19 +2717,19 @@
     {
       "word": "equivocal",
       "translation": "équivoque",
-      "example": "The result was equivocal.",
+      "example": "The test results were equivocal.",
       "phonics": "/ɪˈkwɪvəkəl/"
     },
     {
       "word": "equivocation",
       "translation": "équivoque",
-      "example": "The answer was pure equivocation.",
+      "example": "The politician's answer was pure equivocation.",
       "phonics": "/ɪkwɪvəˈkeɪʃən/"
     },
     {
       "word": "eradicate",
       "translation": "éradiquer",
-      "example": "The scheme aims to eradicate the weed.",
+      "example": "Doctors hope to eradicate the disease.",
       "phonics": "/ɪˈrædəˌkeɪt/"
     },
     {
@@ -2747,7 +2747,7 @@
     {
       "word": "erudite",
       "translation": "érudit",
-      "example": "The introduction is erudite.",
+      "example": "The professor is an erudite man.",
       "phonics": "/ˈɛrəˌdaɪt/"
     },
     {
@@ -2777,7 +2777,7 @@
     {
       "word": "esoteric",
       "translation": "ésotérique",
-      "example": "The subject is esoteric.",
+      "example": "The book is about an esoteric subject.",
       "phonics": "/ˌɛsəˈtɛrɪk/, /ˌɛsoʊˈtɛrɪk/"
     },
     {
@@ -2789,13 +2789,13 @@
     {
       "word": "esteem",
       "translation": "estime",
-      "example": "She is held in high esteem.",
+      "example": "Everyone holds her in high esteem.",
       "phonics": "/əˈstim/"
     },
     {
       "word": "ethereal",
       "translation": "éthéré",
-      "example": "The light was ethereal.",
+      "example": "The singer has an ethereal voice.",
       "phonics": "/ɪˈθɪriəl/"
     },
     {
@@ -2813,13 +2813,13 @@
     {
       "word": "eulogy",
       "translation": "éloge funèbre",
-      "example": "His eulogy was brief and warm.",
+      "example": "His son gave a warm eulogy at the funeral.",
       "phonics": "/ˈjulədʒi/"
     },
     {
       "word": "euphemism",
       "translation": "euphémisme",
-      "example": "The phrase is a euphemism for a cut.",
+      "example": "Passed away is a euphemism for died.",
       "phonics": "/ˈjufəˌmɪzəm/"
     },
     {
@@ -2861,7 +2861,7 @@
     {
       "word": "excruciating",
       "translation": "atroce",
-      "example": "The wait was excruciating.",
+      "example": "He was in excruciating pain after the fall.",
       "phonics": "/ɪksˈkruʃiˌeɪtɪŋ/"
     },
     {
@@ -2897,7 +2897,7 @@
     {
       "word": "exodus",
       "translation": "exode",
-      "example": "There was an exodus from the villages.",
+      "example": "There was an exodus of young people to the cities.",
       "phonics": "/ˈɛksədəs/"
     },
     {
@@ -2909,7 +2909,7 @@
     {
       "word": "exorbitant",
       "translation": "exorbitant",
-      "example": "The price is exorbitant.",
+      "example": "The hotel charges exorbitant prices.",
       "phonics": "/ɪɡˈzɔrbɪtənt/"
     },
     {
@@ -2951,7 +2951,7 @@
     {
       "word": "expunge",
       "translation": "effacer",
-      "example": "The record was expunged.",
+      "example": "The court expunged the record.",
       "phonics": "/ɪkˈspəndʒ/"
     },
     {
@@ -2969,7 +2969,7 @@
     {
       "word": "extraneous",
       "translation": "superflu",
-      "example": "Cut the extraneous detail.",
+      "example": "The writer cuts all extraneous detail.",
       "phonics": "/ɛkˈstreɪniəs/"
     },
     {
@@ -2993,7 +2993,7 @@
     {
       "word": "exude",
       "translation": "exsuder",
-      "example": "He exudes calm.",
+      "example": "He exudes confidence.",
       "phonics": "/ɪɡˈzud/"
     },
     {
@@ -3010,7 +3010,7 @@
     {
       "word": "fabrication",
       "translation": "fabrication",
-      "example": "The story was a fabrication.",
+      "example": "His story was a complete fabrication.",
       "phonics": "/ˌfæbrɪˈkeɪʃən/"
     },
     {
@@ -3130,13 +3130,13 @@
     {
       "word": "fermentation",
       "translation": "fermentation",
-      "example": "Fermentation takes about a week.",
+      "example": "Fermentation turns the grape juice into wine.",
       "phonics": "/ˌfɝmənˈteɪʃən/"
     },
     {
       "word": "ferocious",
       "translation": "féroce",
-      "example": "The wind was ferocious.",
+      "example": "A ferocious storm hit the coast.",
       "phonics": "/fɝˈoʊʃəs/"
     },
     {
@@ -3166,7 +3166,7 @@
     {
       "word": "feud",
       "translation": "querelle",
-      "example": "The feud lasted three generations.",
+      "example": "The family feud lasted three generations.",
       "phonics": "/ˈfjud/"
     },
     {
@@ -3226,7 +3226,7 @@
     {
       "word": "flaunt",
       "translation": "exhiber",
-      "example": "He flaunts his knowledge.",
+      "example": "She flaunts her new car.",
       "phonics": "/ˈflɔnt/"
     },
     {
@@ -3238,7 +3238,7 @@
     {
       "word": "flimsy",
       "translation": "fragile",
-      "example": "The excuse was flimsy.",
+      "example": "He gave a flimsy excuse for being late.",
       "phonics": "/ˈflɪmzi/"
     },
     {
@@ -3280,7 +3280,7 @@
     {
       "word": "folly",
       "translation": "folie",
-      "example": "Building there was folly.",
+      "example": "Building a house near the river was folly.",
       "phonics": "/ˈfɑli/"
     },
     {
@@ -3548,7 +3548,7 @@
     {
       "word": "gist",
       "translation": "essentiel",
-      "example": "Give me the gist of it.",
+      "example": "She told me the gist of the story.",
       "phonics": "/ˈdʒɪst/"
     },
     {
@@ -3590,7 +3590,7 @@
     {
       "word": "gratuitous",
       "translation": "gratuit",
-      "example": "The detail is gratuitous.",
+      "example": "The violence in the film is gratuitous.",
       "phonics": "/ɡrəˈtuətəs/"
     },
     {
@@ -3686,7 +3686,7 @@
     {
       "word": "harness",
       "translation": "exploiter",
-      "example": "They harness the river for power.",
+      "example": "They harness the river to make electricity.",
       "phonics": "/ˈhɑrnəs/, /ˈhɑrnɪs/"
     },
     {
@@ -3722,7 +3722,7 @@
     {
       "word": "heed",
       "translation": "tenir compte de",
-      "example": "Take heed of the warning.",
+      "example": "He paid no heed to the warning.",
       "phonics": "/ˈhid/"
     },
     {
@@ -3734,7 +3734,7 @@
     {
       "word": "heinous",
       "translation": "odieux",
-      "example": "The charge was heinous.",
+      "example": "It was a heinous crime.",
       "phonics": "/ˈheɪnəs/"
     },
     {
@@ -3782,7 +3782,7 @@
     {
       "word": "hiatus",
       "translation": "interruption",
-      "example": "There was a two-year hiatus.",
+      "example": "The band returned after a two-year hiatus.",
       "phonics": "/haɪˈeɪtəs/"
     },
     {
@@ -3872,7 +3872,7 @@
     {
       "word": "hypothetical",
       "translation": "hypothétique",
-      "example": "The question is hypothetical.",
+      "example": "The teacher asked a hypothetical question.",
       "phonics": "/ˌhaɪpəˈθɛtəkəl/, /ˌhaɪpəˈθɛtɪkəl/"
     },
     {
@@ -3962,7 +3962,7 @@
     {
       "word": "immortal",
       "translation": "immortel",
-      "example": "The lines are immortal.",
+      "example": "The poet's words are immortal.",
       "phonics": "/ˌɪˈmɔrtəl/"
     },
     {
@@ -3986,7 +3986,7 @@
     {
       "word": "impasse",
       "translation": "impasse",
-      "example": "The talks reached an impasse.",
+      "example": "The talks between the two sides reached an impasse.",
       "phonics": "/ˈɪmˌpæs/, /ˌɪmˈpæs/"
     },
     {
@@ -4040,7 +4040,7 @@
     {
       "word": "impertinent",
       "translation": "impertinent",
-      "example": "The question was impertinent.",
+      "example": "The child asked an impertinent question.",
       "phonics": "/ˌɪmˈpɝtənənt/"
     },
     {
@@ -4133,7 +4133,7 @@
     {
       "word": "inane",
       "translation": "stupide",
-      "example": "The comment was inane.",
+      "example": "He made an inane comment about the weather.",
       "phonics": "/ˌɪˈneɪn/"
     },
     {
@@ -4367,7 +4367,7 @@
     {
       "word": "ineptitude",
       "translation": "ineptie",
-      "example": "The ineptitude of the reply astonished us.",
+      "example": "The ineptitude of the manager cost the company money.",
       "phonics": "/ˌɪˈnɛptɪˌtud/"
     },
     {
@@ -4415,7 +4415,7 @@
     {
       "word": "inferno",
       "translation": "enfer",
-      "example": "The building became an inferno.",
+      "example": "The burning building became an inferno.",
       "phonics": "/ˌɪnˈfɝˌnoʊ/"
     },
     {
@@ -4445,7 +4445,7 @@
     {
       "word": "ingenious",
       "translation": "ingénieux",
-      "example": "The catch is ingenious.",
+      "example": "The design of the lock is ingenious.",
       "phonics": "/ˌɪnˈdʒinjəs/"
     },
     {
@@ -4540,7 +4540,7 @@
     {
       "word": "insipid",
       "translation": "insipide",
-      "example": "The soup was insipid.",
+      "example": "The hotel food was insipid.",
       "phonics": "/ˌɪnˈsɪpəd/"
     },
     {
@@ -4599,7 +4599,7 @@
     {
       "word": "interlude",
       "translation": "interlude",
-      "example": "The garden was a quiet interlude.",
+      "example": "The quiet walk was a pleasant interlude in a busy day.",
       "phonics": "/ˈɪntɝˌlud/"
     },
     {
@@ -4748,7 +4748,7 @@
     {
       "word": "itinerary",
       "translation": "itinéraire",
-      "example": "The itinerary changed twice.",
+      "example": "The itinerary of our trip changed twice.",
       "phonics": "/aɪˈtɪnɝˌɛri/"
     },
     {
@@ -4819,7 +4819,7 @@
     {
       "word": "jubilee",
       "translation": "jubilé",
-      "example": "The town marked its jubilee.",
+      "example": "The town celebrated its fiftieth jubilee.",
       "phonics": "/ˈdʒubəˌli/, /ˌdʒubəˈli/"
     },
     {
@@ -4981,7 +4981,7 @@
     {
       "word": "lapse",
       "translation": "faux pas",
-      "example": "There was a lapse of three years.",
+      "example": "After a lapse of three years, she started painting again.",
       "phonics": "/ˈlæps/"
     },
     {
@@ -5035,7 +5035,7 @@
     {
       "word": "lenient",
       "translation": "clément",
-      "example": "The judge was lenient.",
+      "example": "The judge was lenient with the young thief.",
       "phonics": "/ˈliniənt/, /ˈlinjənt/"
     },
     {
@@ -5173,13 +5173,13 @@
     {
       "word": "lucid",
       "translation": "lucide",
-      "example": "Her account was lucid.",
+      "example": "Her explanation of the problem was lucid.",
       "phonics": "/ˈlusəd/"
     },
     {
       "word": "ludicrous",
       "translation": "ridicule",
-      "example": "The price is ludicrous.",
+      "example": "The price of the ticket is ludicrous.",
       "phonics": "/ˈludəkrəs/"
     },
     {
@@ -5203,7 +5203,7 @@
     {
       "word": "luminous",
       "translation": "lumineux",
-      "example": "The dial is luminous.",
+      "example": "The dial of my watch is luminous.",
       "phonics": "/ˈlumənəs/"
     },
     {
@@ -5531,7 +5531,7 @@
     {
       "word": "mischievous",
       "translation": "malicieux",
-      "example": "The kitten is mischievous.",
+      "example": "The mischievous kitten knocked over the vase.",
       "phonics": "/ˈmɪstʃəvəs/"
     },
     {
@@ -5679,7 +5679,7 @@
     {
       "word": "mutable",
       "translation": "changeant",
-      "example": "The rules are mutable.",
+      "example": "The rules of the club are mutable.",
       "phonics": "/ˈmjutəbəl/"
     },
     {
@@ -5720,7 +5720,7 @@
     {
       "word": "namesake",
       "translation": "homonyme",
-      "example": "He was named after his namesake.",
+      "example": "He met his namesake at the conference.",
       "phonics": "/ˈneɪmˌseɪk/"
     },
     {
@@ -5881,7 +5881,7 @@
     {
       "word": "obscure",
       "translation": "obscur",
-      "example": "The reference is obscure.",
+      "example": "The poem has an obscure meaning.",
       "phonics": "/əbˈskjʊr/"
     },
     {
@@ -5899,7 +5899,7 @@
     {
       "word": "obsolete",
       "translation": "obsolète",
-      "example": "The format is obsolete.",
+      "example": "Video tapes are now obsolete.",
       "phonics": "/ˈɑbsəˌlit/, /ˌɑbsəˈlit/"
     },
     {
@@ -5958,7 +5958,7 @@
     {
       "word": "ominous",
       "translation": "inquiétant",
-      "example": "The silence was ominous.",
+      "example": "Dark clouds gave the sky an ominous look.",
       "phonics": "/ˈɑmənəs/"
     },
     {
@@ -5981,7 +5981,7 @@
     {
       "word": "onerous",
       "translation": "onéreux",
-      "example": "The terms are onerous.",
+      "example": "The terms of the loan are onerous.",
       "phonics": "/ˈoʊnɝəs/"
     },
     {
@@ -6119,7 +6119,7 @@
     {
       "word": "oversight",
       "translation": "négligence",
-      "example": "The gap was an oversight.",
+      "example": "Missing her name from the list was an oversight.",
       "phonics": "/ˈoʊvɝˌsaɪt/"
     },
     {
@@ -6420,7 +6420,7 @@
     {
       "word": "pending",
       "translation": "en attente",
-      "example": "The decision is still pending.",
+      "example": "The court's decision is still pending.",
       "phonics": "/ˈpɛndɪŋ/"
     },
     {
@@ -6605,7 +6605,7 @@
     {
       "word": "philanthropic",
       "translation": "philanthropique",
-      "example": "The gift was philanthropic.",
+      "example": "Her philanthropic work helps poor children.",
       "phonics": "/ˌfɪlənˈθrɑpɪk/"
     },
     {
@@ -6754,7 +6754,7 @@
     {
       "word": "ploy",
       "translation": "stratagème",
-      "example": "The delay was a ploy.",
+      "example": "His illness was a ploy to avoid work.",
       "phonics": "/ˈplɔɪ/"
     },
     {
@@ -6976,7 +6976,7 @@
     {
       "word": "prerequisite",
       "translation": "prérequis",
-      "example": "A licence is a prerequisite.",
+      "example": "A driving licence is a prerequisite for the job.",
       "phonics": "/priˈrɛkwəzət/"
     },
     {
@@ -7060,7 +7060,7 @@
     {
       "word": "proclamation",
       "translation": "proclamation",
-      "example": "The proclamation was read at noon.",
+      "example": "The mayor read the proclamation at noon.",
       "phonics": "/ˌprɑkləˈmeɪʃən/"
     },
     {
@@ -7138,13 +7138,13 @@
     {
       "word": "prognosis",
       "translation": "pronostic",
-      "example": "The prognosis is good.",
+      "example": "The doctor says the prognosis is good.",
       "phonics": "/prɑɡˈnoʊsəs/"
     },
     {
       "word": "prohibitive",
       "translation": "prohibitif",
-      "example": "The cost is prohibitive.",
+      "example": "The cost of the trip is prohibitive.",
       "phonics": "/proʊˈhɪbətɪv/"
     },
     {
@@ -7245,7 +7245,7 @@
     {
       "word": "protract",
       "translation": "prolonger",
-      "example": "Do not protract the meeting.",
+      "example": "The lawyers protracted the case for years.",
       "phonics": "/ˈproʊtrækt/, /proʊˈtrækt/"
     },
     {
@@ -7400,7 +7400,7 @@
     {
       "word": "quaint",
       "translation": "pittoresque",
-      "example": "The village is quaint.",
+      "example": "We stayed in a quaint little village.",
       "phonics": "/ˈkweɪnt/"
     },
     {
@@ -7636,7 +7636,7 @@
     {
       "word": "rebuff",
       "translation": "rebuffade",
-      "example": "Her offer met a polite rebuff.",
+      "example": "She politely rebuffed his offer.",
       "phonics": "/riˈbəf/, /rɪˈbəf/"
     },
     {
@@ -7672,7 +7672,7 @@
     {
       "word": "reciprocal",
       "translation": "réciproque",
-      "example": "The arrangement is reciprocal.",
+      "example": "The two schools have a reciprocal exchange programme.",
       "phonics": "/rɪˈsɪprəkəl/"
     },
     {
@@ -7810,7 +7810,7 @@
     {
       "word": "reimbursement",
       "translation": "remboursement",
-      "example": "Reimbursement takes a month.",
+      "example": "Reimbursement of travel costs takes a month.",
       "phonics": "/ˌriɪmˈbɝsmənt/"
     },
     {
@@ -7989,7 +7989,7 @@
     {
       "word": "reprehensible",
       "translation": "répréhensible",
-      "example": "The delay was reprehensible.",
+      "example": "His cruelty to the dog was reprehensible.",
       "phonics": "/ˌrɛprɪˈhɛnsəbəl/"
     },
     {
@@ -8179,7 +8179,7 @@
     {
       "word": "reverent",
       "translation": "révérencieux",
-      "example": "The tone is reverent.",
+      "example": "The visitors were reverent in the temple.",
       "phonics": "/ˈrɛvɝənt/"
     },
     {
@@ -8298,7 +8298,7 @@
     {
       "word": "ruse",
       "translation": "ruse",
-      "example": "The delay was a ruse.",
+      "example": "His phone call was a ruse to get her out of the house.",
       "phonics": "/ˈruz/"
     },
     {
@@ -8444,7 +8444,7 @@
     {
       "word": "scathing",
       "translation": "cinglant",
-      "example": "The review was scathing.",
+      "example": "The critic wrote a scathing review of the film.",
       "phonics": "/ˈskeɪðɪŋ/"
     },
     {
@@ -8522,7 +8522,7 @@
     {
       "word": "sedentary",
       "translation": "sédentaire",
-      "example": "The job is sedentary.",
+      "example": "Office work is a sedentary job.",
       "phonics": "/ˈsɛdənˌtɛri/"
     },
     {
@@ -8545,7 +8545,7 @@
     {
       "word": "seer",
       "translation": "voyant",
-      "example": "The seer was consulted first.",
+      "example": "They consulted the seer first.",
       "phonics": "/ˈsir/"
     },
     {
@@ -8575,7 +8575,7 @@
     {
       "word": "seminal",
       "translation": "fondamental",
-      "example": "The paper was seminal.",
+      "example": "Her paper was a seminal work in physics.",
       "phonics": "/ˈsɛmənəl/"
     },
     {
@@ -8593,7 +8593,7 @@
     {
       "word": "sequestration",
       "translation": "séquestration",
-      "example": "The sequestration of the funds was ordered.",
+      "example": "The court ordered the sequestration of the funds.",
       "phonics": "/ˌsɛkwəˈstreɪʃən/"
     },
     {
@@ -8664,7 +8664,7 @@
     {
       "word": "shoddy",
       "translation": "de mauvaise qualité",
-      "example": "The work was shoddy.",
+      "example": "The builder did shoddy work on our roof.",
       "phonics": "/ˈʃɑdi/"
     },
     {
@@ -8721,7 +8721,7 @@
     {
       "word": "singular",
       "translation": "singulier",
-      "example": "The result was singular.",
+      "example": "She has a singular talent for music.",
       "phonics": "/ˈsɪŋɡjəlɝ/"
     },
     {
@@ -8774,7 +8774,7 @@
     {
       "word": "snooty",
       "translation": "snob",
-      "example": "The service was snooty.",
+      "example": "The waiter in the expensive hotel was snooty.",
       "phonics": "/ˈsnuti/"
     },
     {
@@ -8952,7 +8952,7 @@
     {
       "word": "spurious",
       "translation": "fallacieux",
-      "example": "The claim is spurious.",
+      "example": "He made a spurious claim about the accident.",
       "phonics": "/ˈspɝiəs/, /ˈspjʊriəs/"
     },
     {
@@ -8970,7 +8970,7 @@
     {
       "word": "squalid",
       "translation": "sordide",
-      "example": "The room was squalid.",
+      "example": "They lived in a squalid flat.",
       "phonics": "/ˈskwɑləd/"
     },
     {
@@ -8988,7 +8988,7 @@
     {
       "word": "stagnant",
       "translation": "stagnant",
-      "example": "The pool is stagnant.",
+      "example": "The water in the old pond is stagnant.",
       "phonics": "/ˈstæɡnənt/"
     },
     {
@@ -9041,7 +9041,7 @@
     {
       "word": "stately",
       "translation": "majestueux",
-      "example": "The house is stately.",
+      "example": "The stately old house stands on the hill.",
       "phonics": "/ˈsteɪtli/"
     },
     {
@@ -9137,13 +9137,13 @@
     {
       "word": "stowaway",
       "translation": "passager clandestin",
-      "example": "A stowaway was found in the hold.",
+      "example": "The crew found a stowaway in the hold.",
       "phonics": "/ˈstoʊəˌweɪ/"
     },
     {
       "word": "stratagem",
       "translation": "stratagème",
-      "example": "The delay was a stratagem.",
+      "example": "The general used a clever stratagem to win the battle.",
       "phonics": "/ˈstrætədʒəm/"
     },
     {
@@ -9191,7 +9191,7 @@
     {
       "word": "stringent",
       "translation": "strict",
-      "example": "The tests are stringent.",
+      "example": "The airport has stringent security checks.",
       "phonics": "/ˈstrɪndʒənt/"
     },
     {
@@ -9353,7 +9353,7 @@
     {
       "word": "superficial",
       "translation": "superficiel",
-      "example": "The damage is superficial.",
+      "example": "The cut on his arm is only superficial.",
       "phonics": "/ˌsupɝˈfɪʃəl/"
     },
     {
@@ -9519,7 +9519,7 @@
     {
       "word": "synopsis",
       "translation": "synopsis",
-      "example": "Send a one-page synopsis.",
+      "example": "The writer sent a one-page synopsis to the publisher.",
       "phonics": "/sɪˈnɑpsɪs/"
     },
     {
@@ -9632,7 +9632,7 @@
     {
       "word": "tedious",
       "translation": "fastidieux",
-      "example": "The form is tedious.",
+      "example": "Filling in the long form was tedious.",
       "phonics": "/ˈtidiəs/"
     },
     {
@@ -9722,7 +9722,7 @@
     {
       "word": "terminology",
       "translation": "terminologie",
-      "example": "The terminology is confusing.",
+      "example": "The medical terminology in the report is confusing.",
       "phonics": "/ˌtɝmɪˈnɑlədʒi/"
     },
     {
@@ -9734,7 +9734,7 @@
     {
       "word": "terse",
       "translation": "laconique",
-      "example": "His reply was terse.",
+      "example": "His reply to my email was terse.",
       "phonics": "/ˈtɝs/"
     },
     {
@@ -9926,7 +9926,7 @@
     {
       "word": "tortuous",
       "translation": "tortueux",
-      "example": "The route is tortuous.",
+      "example": "The mountain road is tortuous.",
       "phonics": "/ˈtɔrtʃəwəs/"
     },
     {
@@ -10031,7 +10031,7 @@
     {
       "word": "translucent",
       "translation": "translucide",
-      "example": "The shade is translucent.",
+      "example": "The lamp shade is translucent.",
       "phonics": "/trænˈslusənt/"
     },
     {
@@ -10133,7 +10133,7 @@
     {
       "word": "trite",
       "translation": "banal",
-      "example": "The ending is trite.",
+      "example": "The film has a trite ending.",
       "phonics": "/ˈtraɪt/"
     },
     {
@@ -10265,7 +10265,7 @@
     {
       "word": "ultimatum",
       "translation": "ultimatum",
-      "example": "They issued an ultimatum.",
+      "example": "The boss gave him an ultimatum.",
       "phonics": "/ˌəltəˈmeɪtəm/"
     },
     {
@@ -10289,7 +10289,7 @@
     {
       "word": "unanimous",
       "translation": "unanime",
-      "example": "The vote was unanimous.",
+      "example": "The vote for the new chair was unanimous.",
       "phonics": "/juˈnænəməs/"
     },
     {
@@ -10427,7 +10427,7 @@
     {
       "word": "unruly",
       "translation": "indiscipliné",
-      "example": "The class was unruly.",
+      "example": "The teacher could not control the unruly class.",
       "phonics": "/ənˈruli/"
     },
     {
@@ -10545,7 +10545,7 @@
     {
       "word": "utmost",
       "translation": "extrême",
-      "example": "She did her utmost.",
+      "example": "She did her utmost to help us.",
       "phonics": "/ˈətˌmoʊst/"
     },
     {
@@ -10586,7 +10586,7 @@
     {
       "word": "vacuous",
       "translation": "vide",
-      "example": "The reply was vacuous.",
+      "example": "The singer gave a vacuous interview.",
       "phonics": "/ˈvækjuəs/"
     },
     {
@@ -10604,7 +10604,7 @@
     {
       "word": "vain",
       "translation": "vaniteux",
-      "example": "It was a vain attempt.",
+      "example": "He made a vain attempt to catch the bus.",
       "phonics": "/ˈveɪn/"
     },
     {
@@ -10652,7 +10652,7 @@
     {
       "word": "vapid",
       "translation": "insipide",
-      "example": "The conversation was vapid.",
+      "example": "The film's dialogue was vapid.",
       "phonics": "/ˈvæpɪd/"
     },
     {
@@ -10760,7 +10760,7 @@
     {
       "word": "verbose",
       "translation": "verbeux",
-      "example": "The report is verbose."
+      "example": "The report is verbose and hard to read."
     },
     {
       "word": "verdant",
@@ -11032,13 +11032,13 @@
     {
       "word": "void",
       "translation": "vide",
-      "example": "The contract is void.",
+      "example": "The court declared the contract void.",
       "phonics": "/ˈvɔɪd/"
     },
     {
       "word": "volatile",
       "translation": "volatil",
-      "example": "The market is volatile.",
+      "example": "The price of oil is volatile.",
       "phonics": "/ˈvɑlətəl/"
     },
     {
@@ -11303,7 +11303,7 @@
     {
       "word": "wizened",
       "translation": "ratatiné",
-      "example": "The apple was wizened.",
+      "example": "The old man has a wizened face.",
       "phonics": "/ˈwaɪzənd/"
     },
     {
@@ -11344,7 +11344,7 @@
     {
       "word": "wrongdoer",
       "translation": "malfaiteur",
-      "example": "The wrongdoer was never named.",
+      "example": "The police never named the wrongdoer.",
       "phonics": "/ˈrɔŋˈduɝ/"
     },
     {

@@ -4,55 +4,55 @@
   "learn": "en",
   "native": "th",
   "level": "A1",
-  "version": 40,
+  "version": 41,
   "items": [
     {
       "word": "action",
       "translation": "การกระทำ",
-      "example": "She takes action now.",
-      "exampleTranslation": "เธอลงมือทำทันที",
+      "example": "His kind action makes his mother happy.",
+      "exampleTranslation": "การกระทำที่น่ารักของเขาทำให้แม่ดีใจมาก",
       "phonics": "/ˈækʃən/"
     },
     {
       "word": "activity",
       "translation": "กิจกรรม",
-      "example": "The main activity is swimming.",
-      "exampleTranslation": "กิจกรรมหลักคือการว่ายน้ำ",
+      "example": "The main activity at this camp is swimming.",
+      "exampleTranslation": "กิจกรรมหลักของค่ายนี้คือการว่ายน้ำ",
       "phonics": "/ækˈtɪvəti/, /ækˈtɪvɪti/"
     },
     {
       "word": "actor",
       "translation": "นักแสดงชาย",
       "example": "The actor forgets his line.",
-      "exampleTranslation": "นักแสดงชายลืมบทพูดของเขา",
+      "exampleTranslation": "นักแสดงชายลืมบทพูดของตัวเอง",
       "phonics": "/ˈæktɝ/"
     },
     {
       "word": "actress",
       "translation": "นักแสดงหญิง",
       "example": "The actress waves at people.",
-      "exampleTranslation": "นักแสดงหญิงโบกมือให้ผู้คน",
+      "exampleTranslation": "นักแสดงหญิงโบกมือให้ผู้ชม",
       "phonics": "/ˈæktrəs/"
     },
     {
       "word": "add",
       "translation": "เพิ่ม, ใส่",
-      "example": "Add a little salt.",
-      "exampleTranslation": "ใส่เกลือนิดหน่อย",
+      "example": "She adds a little salt to the soup.",
+      "exampleTranslation": "เธอใส่เกลือลงในซุปนิดหน่อย",
       "phonics": "/ˈæd/"
     },
     {
       "word": "address",
       "translation": "ที่อยู่",
-      "example": "Write your address on the form.",
-      "exampleTranslation": "เขียนที่อยู่ของคุณลงในแบบฟอร์ม",
+      "example": "He writes his address on the form.",
+      "exampleTranslation": "เขาเขียนที่อยู่ของตัวเองลงในแบบฟอร์ม",
       "phonics": "/ˈæˌdrɛs/, /əˈdrɛs/"
     },
     {
       "word": "adult",
       "translation": "ผู้ใหญ่",
-      "example": "One adult and two children, please.",
-      "exampleTranslation": "ผู้ใหญ่หนึ่งคนกับเด็กสองคน",
+      "example": "Children must come with an adult.",
+      "exampleTranslation": "เด็กต้องมากับผู้ใหญ่",
       "phonics": "/ˈædəlt/, /əˈdəlt/"
     },
     {
@@ -80,28 +80,28 @@
       "word": "afternoon",
       "translation": "ตอนบ่าย",
       "example": "I study every afternoon.",
-      "exampleTranslation": "ฉันเรียนหนังสือทุกบ่าย",
+      "exampleTranslation": "ฉันเรียนหนังสือทุกวันตอนบ่าย",
       "phonics": "/ˌæftɝˈnun/"
     },
     {
       "word": "again",
       "translation": "อีกครั้ง",
-      "example": "Try again tomorrow.",
-      "exampleTranslation": "พรุ่งนี้ลองอีกครั้ง",
+      "example": "She calls me again at night.",
+      "exampleTranslation": "เธอโทรหาฉันอีกครั้งตอนกลางคืน",
       "phonics": "/əˈɡeɪn/, /əˈɡɛn/"
     },
     {
       "word": "age",
       "translation": "อายุ",
-      "example": "Her age is twenty.",
-      "exampleTranslation": "เธออายุยี่สิบปี",
+      "example": "My son is the same age as your son.",
+      "exampleTranslation": "ลูกชายของฉันอายุเท่ากับลูกชายของคุณ",
       "phonics": "/ˈeɪdʒ/"
     },
     {
       "word": "ago",
-      "translation": "ที่แล้ว",
-      "example": "She left two years ago.",
-      "exampleTranslation": "สองปีที่แล้วเธอไปจากที่นี่",
+      "translation": "ที่แล้ว, ก่อน",
+      "example": "She moved here two years ago.",
+      "exampleTranslation": "เธอย้ายมาที่นี่เมื่อสองปีก่อน",
       "phonics": "/əˈɡoʊ/"
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "word": "air",
-      "translation": "อากาศที่หายใจ",
+      "translation": "อากาศ",
       "example": "The air is cooler by the river.",
       "exampleTranslation": "อากาศริมแม่น้ำเย็นกว่า",
       "phonics": "/ˈɛr/"
@@ -122,7 +122,7 @@
       "word": "airport",
       "translation": "สนามบิน",
       "example": "The airport is an hour away.",
-      "exampleTranslation": "สนามบินอยู่ห่างออกไปหนึ่งชั่วโมง",
+      "exampleTranslation": "สนามบินอยู่ห่างออกไปประมาณหนึ่งชั่วโมง",
       "phonics": "/ˈɛrˌpɔrt/"
     },
     {
@@ -134,16 +134,16 @@
     },
     {
       "word": "amazing",
-      "translation": "น่าทึ่ง",
-      "example": "The view is amazing.",
-      "exampleTranslation": "วิวสวยจนน่าทึ่ง",
+      "translation": "น่าทึ่ง, ยอดเยี่ยม, สุดยอด",
+      "example": "The view from the hotel is amazing.",
+      "exampleTranslation": "วิวจากโรงแรมสุดยอดไปเลย",
       "phonics": "/əˈmeɪzɪŋ/"
     },
     {
       "word": "angry",
       "translation": "โกรธ",
-      "example": "He is angry today.",
-      "exampleTranslation": "วันนี้เขาโกรธ",
+      "example": "He is angry with his little brother.",
+      "exampleTranslation": "เขาโกรธน้องชายของเขา",
       "phonics": "/ˈæŋɡri/"
     },
     {
@@ -156,22 +156,22 @@
     {
       "word": "answer",
       "translation": "คำตอบ",
-      "example": "Nobody knows the answer.",
-      "exampleTranslation": "ไม่มีใครรู้คำตอบ",
+      "example": "Nobody knows the answer to this question.",
+      "exampleTranslation": "ไม่มีใครรู้คำตอบของคำถามนี้เลย",
       "phonics": "/ˈænsɝ/"
     },
     {
       "word": "anyone",
-      "translation": "ใครก็ได้",
-      "example": "Anyone is welcome here.",
-      "exampleTranslation": "ที่นี่ยินดีต้อนรับทุกคน",
+      "translation": "ใครก็ได้, ใครก็ตาม",
+      "example": "Anyone can join our club.",
+      "exampleTranslation": "ใครก็เข้าชมรมของเราได้",
       "phonics": "/ˈɛniˌwən/, /ˈɛniwən/"
     },
     {
       "word": "anything",
       "translation": "อะไรก็ได้",
       "example": "Anything is better than waiting.",
-      "exampleTranslation": "อะไรก็ได้ดีกว่าการรอ",
+      "exampleTranslation": "อะไรก็ดีกว่าการรอทั้งนั้น",
       "phonics": "/ˈɛniˌθɪŋ/"
     },
     {
@@ -233,8 +233,8 @@
     {
       "word": "ask",
       "translation": "ถาม",
-      "example": "Ask him for the time.",
-      "exampleTranslation": "ถามเขาว่ากี่โมงแล้ว",
+      "example": "She asks the teacher about the homework.",
+      "exampleTranslation": "เธอถามครูเรื่องการบ้าน",
       "phonics": "/ˈæsk/"
     },
     {
@@ -248,7 +248,7 @@
       "word": "autumn",
       "translation": "ฤดูใบไม้ร่วง",
       "example": "The garden is best in autumn.",
-      "exampleTranslation": "สวนสวยที่สุดตอนฤดูใบไม้ร่วง",
+      "exampleTranslation": "สวนนี้สวยที่สุดในฤดูใบไม้ร่วง",
       "phonics": "/ˈɔtəm/"
     },
     {
@@ -261,15 +261,15 @@
     {
       "word": "baby",
       "translation": "ทารก",
-      "example": "The baby is asleep.",
-      "exampleTranslation": "ทารกกำลังหลับ",
+      "example": "The baby is asleep in her bed.",
+      "exampleTranslation": "ทารกกำลังหลับอยู่บนเตียง",
       "phonics": "/ˈbeɪbi/"
     },
     {
       "word": "back",
       "translation": "กลับมา",
-      "example": "He comes back at six.",
-      "exampleTranslation": "เขากลับมาตอนหกโมงเย็น",
+      "example": "He comes back home at six.",
+      "exampleTranslation": "เขากลับมาบ้านตอนหกโมงเย็น",
       "phonics": "/ˈbæk/"
     },
     {
@@ -290,7 +290,7 @@
       "word": "ball",
       "translation": "ลูกบอล",
       "example": "The children play with a ball.",
-      "exampleTranslation": "เด็กๆเล่นลูกบอล",
+      "exampleTranslation": "เด็กๆ เล่นลูกบอลกัน",
       "phonics": "/ˈbɔl/"
     },
     {
@@ -304,7 +304,7 @@
       "word": "band",
       "translation": "วงดนตรี",
       "example": "The band plays every Friday.",
-      "exampleTranslation": "วงดนตรีเล่นทุกวันศุกร์",
+      "exampleTranslation": "วงดนตรีนี้เล่นทุกวันศุกร์",
       "phonics": "/ˈbænd/"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "word": "bath",
-      "translation": "การอาบน้ำในอ่าง",
+      "translation": "การแช่น้ำในอ่าง, อ่างอาบน้ำ",
       "example": "He takes a hot bath.",
       "exampleTranslation": "เขาอาบน้ำอุ่นในอ่าง",
       "phonics": "/ˈbæθ/"
@@ -332,21 +332,21 @@
       "word": "beach",
       "translation": "ชายหาด",
       "example": "The beach is quiet in the morning.",
-      "exampleTranslation": "ชายหาดเงียบสงบตอนเช้า",
+      "exampleTranslation": "ชายหาดเงียบสงบในตอนเช้า",
       "phonics": "/ˈbitʃ/"
     },
     {
       "word": "beautiful",
       "translation": "สวยงาม",
-      "example": "The morning is beautiful today.",
-      "exampleTranslation": "เช้าวันนี้สวยงามมาก",
+      "example": "She has a beautiful garden.",
+      "exampleTranslation": "เธอมีสวนที่สวยมาก",
       "phonics": "/ˈbjutəfəl/"
     },
     {
       "word": "become",
       "translation": "กลายเป็น",
-      "example": "She becomes a nurse.",
-      "exampleTranslation": "เธอได้เป็นพยาบาล",
+      "example": "She wants to become a nurse.",
+      "exampleTranslation": "เธออยากเป็นพยาบาล",
       "phonics": "/bɪˈkəm/"
     },
     {
@@ -366,15 +366,15 @@
     {
       "word": "beer",
       "translation": "เบียร์",
-      "example": "He drinks one beer.",
-      "exampleTranslation": "เขาดื่มเบียร์หนึ่งขวด",
+      "example": "He drinks a cold beer after work.",
+      "exampleTranslation": "เขาดื่มเบียร์เย็นๆ หลังเลิกงาน",
       "phonics": "/ˈbɪr/"
     },
     {
       "word": "before",
       "translation": "ก่อน",
-      "example": "Call me before you leave.",
-      "exampleTranslation": "โทรหาฉันก่อนที่คุณจะไป",
+      "example": "I brush my teeth before bed.",
+      "exampleTranslation": "ฉันแปรงฟันก่อนนอน",
       "phonics": "/ˌbiˈfɔr/, /bɪˈfɔr/"
     },
     {
@@ -401,8 +401,8 @@
     {
       "word": "best",
       "translation": "ดีที่สุด",
-      "example": "This is the best one.",
-      "exampleTranslation": "อันนี้ดีที่สุด",
+      "example": "This is the best restaurant in our town.",
+      "exampleTranslation": "ร้านนี้เป็นร้านอาหารที่ดีที่สุดในเมืองของเรา",
       "phonics": "/ˈbɛst/"
     },
     {
@@ -435,7 +435,7 @@
     },
     {
       "word": "bill",
-      "translation": "ใบเสร็จ",
+      "translation": "บิล, ใบแจ้งหนี้",
       "example": "He pays the bill every month.",
       "exampleTranslation": "เขาจ่ายบิลทุกเดือน",
       "phonics": "/ˈbɪl/"
@@ -470,7 +470,7 @@
     },
     {
       "word": "blonde",
-      "translation": "ผมบลอนด์",
+      "translation": "สีบลอนด์",
       "example": "She has blonde hair.",
       "exampleTranslation": "เธอมีผมบลอนด์",
       "phonics": "/ˈblɑnd/"
@@ -506,8 +506,8 @@
     {
       "word": "boot",
       "translation": "รองเท้าบูต",
-      "example": "One boot is missing.",
-      "exampleTranslation": "รองเท้าบูตหายไปข้างหนึ่ง",
+      "example": "He wears black boots in winter.",
+      "exampleTranslation": "เขาใส่รองเท้าบูตสีดำในฤดูหนาว",
       "phonics": "/ˈbut/"
     },
     {
@@ -534,8 +534,8 @@
     {
       "word": "bottle",
       "translation": "ขวด",
-      "example": "There is one bottle left.",
-      "exampleTranslation": "เหลือขวดเดียว",
+      "example": "She drinks a bottle of water every day.",
+      "exampleTranslation": "เธอดื่มน้ำหนึ่งขวดทุกวัน",
       "phonics": "/ˈbɑtəl/"
     },
     {
@@ -568,9 +568,9 @@
     },
     {
       "word": "break",
-      "translation": "การพัก",
+      "translation": "การพัก, ช่วงพัก",
       "example": "We take a short break.",
-      "exampleTranslation": "เราพักสักครู่",
+      "exampleTranslation": "เราพักกันสักครู่",
       "phonics": "/ˈbreɪk/"
     },
     {
@@ -582,14 +582,14 @@
     },
     {
       "word": "bring",
-      "translation": "นำมา",
-      "example": "Please bring a coat.",
-      "exampleTranslation": "ช่วยนำเสื้อโค้ตมาด้วย",
+      "translation": "นำมา, เอามา",
+      "example": "I bring my lunch to work every day.",
+      "exampleTranslation": "ฉันเอาข้าวกลางวันมาที่ทำงานทุกวัน",
       "phonics": "/ˈbrɪŋ/"
     },
     {
       "word": "brother",
-      "translation": "พี่ชาย",
+      "translation": "พี่ชาย, น้องชาย",
       "example": "My brother is taller than me.",
       "exampleTranslation": "พี่ชายของฉันสูงกว่าฉัน",
       "phonics": "/ˈbrəðɝ/"
@@ -639,8 +639,8 @@
     {
       "word": "butter",
       "translation": "เนย",
-      "example": "There is no butter left.",
-      "exampleTranslation": "ไม่เหลือเนยเลย",
+      "example": "I put butter on my bread.",
+      "exampleTranslation": "ฉันทาเนยบนขนมปัง",
       "phonics": "/ˈbətɝ/"
     },
     {
@@ -667,8 +667,8 @@
     {
       "word": "call",
       "translation": "โทรหา",
-      "example": "Call me after seven.",
-      "exampleTranslation": "โทรหาฉันหลังหนึ่งทุ่ม",
+      "example": "My mother calls me every Sunday.",
+      "exampleTranslation": "แม่โทรหาฉันทุกวันอาทิตย์",
       "phonics": "/ˈkɔl/"
     },
     {
@@ -680,7 +680,7 @@
     },
     {
       "word": "cannot",
-      "translation": "ไม่สามารถ",
+      "translation": "ไม่สามารถ, ไม่ได้",
       "example": "I cannot open the door.",
       "exampleTranslation": "ฉันเปิดประตูไม่ได้",
       "phonics": "/ˈkænɑt/, /kəˈnɑt/"
@@ -688,8 +688,8 @@
     {
       "word": "capital",
       "translation": "เมืองหลวง",
-      "example": "Bangkok is the capital.",
-      "exampleTranslation": "กรุงเทพฯเป็นเมืองหลวง",
+      "example": "Bangkok is the capital of Thailand.",
+      "exampleTranslation": "กรุงเทพฯ เป็นเมืองหลวงของประเทศไทย",
       "phonics": "/ˈkæpətəl/, /ˈkæpɪtəl/"
     },
     {
@@ -702,22 +702,22 @@
     {
       "word": "card",
       "translation": "การ์ด",
-      "example": "He sends a card every year.",
-      "exampleTranslation": "เขาส่งการ์ดทุกปี",
+      "example": "He sends me a birthday card every year.",
+      "exampleTranslation": "เขาส่งการ์ดวันเกิดให้ฉันทุกปี",
       "phonics": "/ˈkɑrd/"
     },
     {
       "word": "career",
       "translation": "อาชีพ, การงาน",
-      "example": "Her career starts late.",
-      "exampleTranslation": "อาชีพของเธอเริ่มต้นช้า",
+      "example": "She has a long career as a teacher.",
+      "exampleTranslation": "เธอมีอาชีพเป็นครูมายาวนาน",
       "phonics": "/kɝˈɪr/"
     },
     {
       "word": "carrot",
       "translation": "แครอท",
-      "example": "Cut the carrot into small pieces.",
-      "exampleTranslation": "หั่นแครอทเป็นชิ้นเล็กๆ",
+      "example": "My mother cuts the carrot into small pieces.",
+      "exampleTranslation": "แม่หั่นแครอทเป็นชิ้นเล็กๆ",
       "phonics": "/ˈkærət/, /ˈkɛrət/"
     },
     {
@@ -738,21 +738,21 @@
       "word": "CD",
       "translation": "ซีดี",
       "example": "The CD is scratched.",
-      "exampleTranslation": "แผ่นซีดีเป็นรอยขีดข่วน",
+      "exampleTranslation": "แผ่นซีดีมีรอยขีดข่วน",
       "phonics": "/ˌsiˈdi/"
     },
     {
       "word": "cent",
       "translation": "เซ็นต์",
-      "example": "It costs fifty cents.",
-      "exampleTranslation": "ราคาห้าสิบเซ็นต์",
+      "example": "This pencil costs fifty cents.",
+      "exampleTranslation": "ดินสอแท่งนี้ราคาห้าสิบเซ็นต์",
       "phonics": "/ˈsɛnt/"
     },
     {
       "word": "centre",
       "translation": "ใจกลาง",
-      "example": "The station is in the centre.",
-      "exampleTranslation": "สถานีอยู่ใจกลางเมือง",
+      "example": "The train station is in the centre of the city.",
+      "exampleTranslation": "สถานีรถไฟอยู่ใจกลางเมือง",
       "phonics": "/ˈsɛntɝ/"
     },
     {
@@ -765,22 +765,22 @@
     {
       "word": "chair",
       "translation": "เก้าอี้",
-      "example": "He sits in a chair.",
-      "exampleTranslation": "เขานั่งบนเก้าอี้",
+      "example": "He sits in a chair by the window.",
+      "exampleTranslation": "เขานั่งบนเก้าอี้ข้างหน้าต่าง",
       "phonics": "/ˈtʃɛr/"
     },
     {
       "word": "change",
-      "translation": "เงินทอน",
-      "example": "He keeps the change.",
-      "exampleTranslation": "เขาเก็บเงินทอนไว้",
+      "translation": "เงินทอน, การเปลี่ยนแปลง",
+      "example": "The driver gives me my change.",
+      "exampleTranslation": "คนขับให้เงินทอนฉัน",
       "phonics": "/ˈtʃeɪndʒ/"
     },
     {
       "word": "chart",
       "translation": "แผนภูมิ",
-      "example": "The chart shows the change.",
-      "exampleTranslation": "แผนภูมิแสดงการเปลี่ยนแปลง",
+      "example": "The chart shows our sales this year.",
+      "exampleTranslation": "แผนภูมินี้แสดงยอดขายของเราในปีนี้",
       "phonics": "/ˈtʃɑrt/"
     },
     {
@@ -792,9 +792,9 @@
     },
     {
       "word": "check",
-      "translation": "ตรวจสอบ",
-      "example": "Check the time before you go.",
-      "exampleTranslation": "ตรวจสอบเวลาก่อนออกไป",
+      "translation": "ตรวจสอบ, เช็ก, ดู",
+      "example": "I check the time before I leave.",
+      "exampleTranslation": "ฉันเช็กเวลาก่อนออกจากบ้าน",
       "phonics": "/ˈtʃɛk/"
     },
     {
@@ -828,8 +828,8 @@
     {
       "word": "choose",
       "translation": "เลือก",
-      "example": "Choose any seat you like.",
-      "exampleTranslation": "เลือกที่นั่งที่คุณชอบ",
+      "example": "You can choose any seat you like.",
+      "exampleTranslation": "คุณเลือกนั่งตรงไหนก็ได้ที่ชอบ",
       "phonics": "/ˈtʃuz/"
     },
     {
@@ -856,8 +856,8 @@
     {
       "word": "classroom",
       "translation": "ห้องเรียน",
-      "example": "The classroom is empty.",
-      "exampleTranslation": "ห้องเรียนว่างเปล่า",
+      "example": "The classroom is empty after school.",
+      "exampleTranslation": "ห้องเรียนว่างเปล่าหลังเลิกเรียน",
       "phonics": "/ˈklæsˌrum/"
     },
     {
@@ -918,7 +918,7 @@
     },
     {
       "word": "cold",
-      "translation": "หนาว",
+      "translation": "หนาว, เย็น",
       "example": "My hands are cold.",
       "exampleTranslation": "มือของฉันเย็น",
       "phonics": "/ˈkoʊld/"
@@ -940,15 +940,15 @@
     {
       "word": "come",
       "translation": "มา",
-      "example": "Please come at seven.",
-      "exampleTranslation": "กรุณามาตอนเจ็ดโมง",
+      "example": "My friends come to my house at seven.",
+      "exampleTranslation": "เพื่อนๆ มาที่บ้านฉันตอนหนึ่งทุ่ม",
       "phonics": "/ˈkəm/"
     },
     {
       "word": "common",
-      "translation": "ทั่วไป",
+      "translation": "ทั่วไป, ธรรมดา, พบบ่อย",
       "example": "That name is very common here.",
-      "exampleTranslation": "ชื่อนั้นพบได้ทั่วไปที่นี่",
+      "exampleTranslation": "ชื่อนี้เป็นชื่อที่พบบ่อยมากที่นี่",
       "phonics": "/ˈkɑmən/"
     },
     {
@@ -961,15 +961,15 @@
     {
       "word": "compare",
       "translation": "เปรียบเทียบ",
-      "example": "Compare the two versions carefully.",
-      "exampleTranslation": "เปรียบเทียบสองเวอร์ชันอย่างละเอียด",
+      "example": "The teacher compares the two answers.",
+      "exampleTranslation": "ครูเปรียบเทียบคำตอบทั้งสองข้อ",
       "phonics": "/kəmˈpɛr/"
     },
     {
       "word": "complete",
-      "translation": "เสร็จสมบูรณ์",
-      "example": "The work is not complete.",
-      "exampleTranslation": "งานยังไม่เสร็จสมบูรณ์",
+      "translation": "เสร็จสมบูรณ์, ครบถ้วน, สมบูรณ์",
+      "example": "The new bridge is not complete yet.",
+      "exampleTranslation": "สะพานใหม่ยังสร้างไม่เสร็จ",
       "phonics": "/kəmˈplit/"
     },
     {
@@ -989,8 +989,8 @@
     {
       "word": "conversation",
       "translation": "การสนทนา",
-      "example": "We have a long conversation.",
-      "exampleTranslation": "เราคุยกันนานมาก",
+      "example": "We have a long conversation on the phone.",
+      "exampleTranslation": "เราคุยโทรศัพท์กันนานมาก",
       "phonics": "/ˌkɑnvɝˈseɪʃən/"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "word": "cost",
-      "translation": "มีราคา",
+      "translation": "มีราคา, ราคา",
       "example": "This book costs a lot.",
       "exampleTranslation": "หนังสือเล่มนี้มีราคาแพง",
       "phonics": "/ˈkɑst/, /ˈkɔst/"
@@ -1024,8 +1024,8 @@
     {
       "word": "country",
       "translation": "ประเทศ",
-      "example": "She visits many countries.",
-      "exampleTranslation": "เธอไปเยือนหลายประเทศ",
+      "example": "She visits a new country every year.",
+      "exampleTranslation": "เธอไปเที่ยวประเทศใหม่ทุกปี",
       "phonics": "/ˈkəntri/"
     },
     {
@@ -1058,9 +1058,9 @@
     },
     {
       "word": "create",
-      "translation": "สร้างสรรค์ขึ้น",
-      "example": "They create a new logo.",
-      "exampleTranslation": "พวกเขาสร้างสรรค์โลโก้ใหม่",
+      "translation": "สร้าง, สร้างสรรค์",
+      "example": "The students create a new logo for the school.",
+      "exampleTranslation": "นักเรียนสร้างโลโก้ใหม่ให้โรงเรียน",
       "phonics": "/kriˈeɪt/"
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "word": "dad",
-      "translation": "พ่อ (ภาษาพูด)",
+      "translation": "พ่อ",
       "example": "My dad drives a lorry.",
       "exampleTranslation": "พ่อของฉันขับรถบรรทุก",
       "phonics": "/ˈdæd/"
@@ -1143,15 +1143,15 @@
     {
       "word": "day",
       "translation": "วัน",
-      "example": "Today is a long day.",
-      "exampleTranslation": "วันนี้เป็นวันที่ยาวนาน",
+      "example": "There are seven days in a week.",
+      "exampleTranslation": "หนึ่งสัปดาห์มีเจ็ดวัน",
       "phonics": "/ˈdeɪ/"
     },
     {
       "word": "dear",
-      "translation": "ที่รัก",
-      "example": "Dear Anna, thank you for the book.",
-      "exampleTranslation": "แอนนาที่รัก ขอบคุณสำหรับหนังสือ",
+      "translation": "ที่รัก, เป็นที่รัก, เรียน",
+      "example": "She is a dear friend of mine.",
+      "exampleTranslation": "เธอเป็นเพื่อนรักของฉัน",
       "phonics": "/ˈdɪr/"
     },
     {
@@ -1164,20 +1164,20 @@
     {
       "word": "delicious",
       "translation": "อร่อย",
-      "example": "The soup is delicious.",
-      "exampleTranslation": "ซุปนี้อร่อยมาก",
+      "example": "The soup at this restaurant is delicious.",
+      "exampleTranslation": "ซุปของร้านนี้อร่อยมากเลย",
       "phonics": "/dɪˈlɪʃəs/"
     },
     {
       "word": "describe",
       "translation": "บรรยาย",
-      "example": "Describe the man to me.",
-      "exampleTranslation": "บรรยายลักษณะผู้ชายคนนั้นให้ฉันฟัง",
+      "example": "She describes the man to the police.",
+      "exampleTranslation": "เธอบรรยายลักษณะของผู้ชายคนนั้นให้ตำรวจฟัง",
       "phonics": "/dɪsˈkraɪb/"
     },
     {
       "word": "description",
-      "translation": "คำบรรยายลักษณะ",
+      "translation": "คำบรรยาย, คำอธิบาย",
       "example": "Her description is very clear.",
       "exampleTranslation": "คำบรรยายลักษณะของเธอชัดเจนมาก",
       "phonics": "/dɪsˈkrɪpʃən/"
@@ -1185,13 +1185,13 @@
     {
       "word": "design",
       "translation": "การออกแบบ",
-      "example": "The design is very simple.",
-      "exampleTranslation": "การออกแบบนี้เรียบง่ายมาก",
+      "example": "The design of this chair is very simple.",
+      "exampleTranslation": "การออกแบบของเก้าอี้ตัวนี้เรียบง่ายมาก",
       "phonics": "/dɪˈzaɪn/"
     },
     {
       "word": "desk",
-      "translation": "โต๊ะทำงาน",
+      "translation": "โต๊ะทำงาน, โต๊ะเรียน",
       "example": "His desk is by the window.",
       "exampleTranslation": "โต๊ะทำงานของเขาอยู่ริมหน้าต่าง",
       "phonics": "/ˈdɛsk/"
@@ -1206,22 +1206,22 @@
     {
       "word": "dialogue",
       "translation": "บทสนทนา",
-      "example": "The dialogue sounds natural.",
-      "exampleTranslation": "บทสนทนาฟังดูเป็นธรรมชาติ",
+      "example": "The dialogue in this film sounds natural.",
+      "exampleTranslation": "บทสนทนาในหนังเรื่องนี้ฟังดูเป็นธรรมชาติ",
       "phonics": "/ˈdaɪəˌlɔɡ/"
     },
     {
       "word": "dictionary",
       "translation": "พจนานุกรม",
-      "example": "Check the word in a dictionary.",
-      "exampleTranslation": "ตรวจสอบคำศัพท์ในพจนานุกรม",
+      "example": "I check new words in a dictionary.",
+      "exampleTranslation": "ฉันเปิดพจนานุกรมดูคำศัพท์ใหม่",
       "phonics": "/ˈdɪkʃəˌnɛri/"
     },
     {
       "word": "die",
       "translation": "ตาย",
       "example": "The plant dies without water.",
-      "exampleTranslation": "ต้นไม้ตายถ้าไม่มีน้ำ",
+      "exampleTranslation": "ต้นไม้จะตายถ้าไม่มีน้ำ",
       "phonics": "/ˈdaɪ/"
     },
     {
@@ -1234,29 +1234,29 @@
     {
       "word": "difference",
       "translation": "ความแตกต่าง",
-      "example": "The difference is small but real.",
-      "exampleTranslation": "ต่างกันนิดเดียวแต่ก็ต่างจริงๆ",
+      "example": "I cannot see the difference between the two colours.",
+      "exampleTranslation": "ฉันมองไม่เห็นความแตกต่างระหว่างสองสีนี้",
       "phonics": "/ˈdɪfɝəns/, /ˈdɪfrəns/"
     },
     {
       "word": "different",
       "translation": "แตกต่าง",
-      "example": "This one is different.",
-      "exampleTranslation": "อันนี้แตกต่างออกไป",
+      "example": "My new school is very different from my old one.",
+      "exampleTranslation": "โรงเรียนใหม่ของฉันแตกต่างจากโรงเรียนเก่ามาก",
       "phonics": "/ˈdɪfɝənt/, /ˈdɪfrənt/"
     },
     {
       "word": "difficult",
       "translation": "ยาก, ลำบาก",
-      "example": "The exam is difficult.",
-      "exampleTranslation": "ข้อสอบนี้ยาก",
+      "example": "The maths exam is difficult.",
+      "exampleTranslation": "ข้อสอบคณิตศาสตร์ยากมาก",
       "phonics": "/ˈdɪfəkəlt/"
     },
     {
       "word": "dinner",
       "translation": "อาหารเย็น",
-      "example": "Dinner is at seven.",
-      "exampleTranslation": "อาหารเย็นเวลาหนึ่งทุ่ม",
+      "example": "My family eats dinner together every night.",
+      "exampleTranslation": "ครอบครัวของฉันกินอาหารเย็นด้วยกันทุกคืน",
       "phonics": "/ˈdɪnɝ/"
     },
     {
@@ -1268,23 +1268,23 @@
     },
     {
       "word": "discuss",
-      "translation": "อภิปราย",
-      "example": "We discuss it every week.",
-      "exampleTranslation": "เราพูดคุยเรื่องนี้กันทุกสัปดาห์",
+      "translation": "พูดคุย, อภิปราย",
+      "example": "We discuss the news every morning.",
+      "exampleTranslation": "เราคุยเรื่องข่าวกันทุกเช้า",
       "phonics": "/dɪˈskəs/"
     },
     {
       "word": "dish",
       "translation": "จาน",
-      "example": "Wash the last dish, please.",
-      "exampleTranslation": "ล้างจานใบสุดท้ายด้วย",
+      "example": "He washes the dishes after dinner.",
+      "exampleTranslation": "เขาล้างจานหลังมื้อเย็น",
       "phonics": "/ˈdɪʃ/"
     },
     {
       "word": "doctor",
-      "translation": "แพทย์",
+      "translation": "หมอ, แพทย์",
       "example": "The doctor arrives at nine.",
-      "exampleTranslation": "แพทย์มาถึงตอนเก้าโมง",
+      "exampleTranslation": "หมอมาถึงตอนเก้าโมง",
       "phonics": "/ˈdɑktɝ/, /ˈdɔktɝ/"
     },
     {
@@ -1297,15 +1297,15 @@
     {
       "word": "dollar",
       "translation": "ดอลลาร์",
-      "example": "It costs one dollar.",
-      "exampleTranslation": "ราคาหนึ่งดอลลาร์",
+      "example": "This bottle of water costs one dollar.",
+      "exampleTranslation": "น้ำขวดนี้ราคาหนึ่งดอลลาร์",
       "phonics": "/ˈdɑlɝ/, /ˈdɔlɝ/"
     },
     {
       "word": "door",
       "translation": "ประตู",
-      "example": "Please close the door.",
-      "exampleTranslation": "กรุณาปิดประตูด้วย",
+      "example": "She closes the door quietly.",
+      "exampleTranslation": "เธอปิดประตูเบาๆ",
       "phonics": "/ˈdɔr/"
     },
     {
@@ -1324,9 +1324,9 @@
     },
     {
       "word": "dress",
-      "translation": "ชุดกระโปรง",
+      "translation": "ชุดเดรส, ชุดกระโปรง",
       "example": "That dress suits you.",
-      "exampleTranslation": "ชุดกระโปรงตัวนั้นเหมาะกับคุณ",
+      "exampleTranslation": "ชุดเดรสตัวนั้นเหมาะกับคุณ",
       "phonics": "/ˈdrɛs/"
     },
     {
@@ -1346,15 +1346,15 @@
     {
       "word": "driver",
       "translation": "คนขับ",
-      "example": "The driver waits outside.",
-      "exampleTranslation": "คนขับรอข้างนอก",
+      "example": "The taxi driver waits outside the hotel.",
+      "exampleTranslation": "คนขับแท็กซี่รออยู่หน้าโรงแรม",
       "phonics": "/ˈdraɪvɝ/"
     },
     {
       "word": "DVD",
       "translation": "ดีวีดี",
-      "example": "The DVD does not play.",
-      "exampleTranslation": "แผ่นดีวีดีเล่นไม่ได้",
+      "example": "My old DVD does not play anymore.",
+      "exampleTranslation": "แผ่นดีวีดีเก่าของฉันเล่นไม่ได้แล้ว",
       "phonics": "/ˌdiˌviˈdi/"
     },
     {
@@ -1366,9 +1366,9 @@
     },
     {
       "word": "early",
-      "translation": "แต่เช้า",
+      "translation": "เช้า, แต่เนิ่นๆ, ก่อนเวลา",
       "example": "He always arrives early.",
-      "exampleTranslation": "เขามาถึงแต่เช้าเสมอ",
+      "exampleTranslation": "เขามาถึงก่อนเวลาเสมอ",
       "phonics": "/ˈɝli/"
     },
     {
@@ -1381,8 +1381,8 @@
     {
       "word": "easy",
       "translation": "ง่าย",
-      "example": "The test is easy.",
-      "exampleTranslation": "ข้อสอบนี้ง่าย",
+      "example": "The first question on the test is easy.",
+      "exampleTranslation": "ข้อแรกของข้อสอบง่ายมาก",
       "phonics": "/ˈizi/"
     },
     {
@@ -1395,8 +1395,8 @@
     {
       "word": "egg",
       "translation": "ไข่",
-      "example": "She boils one egg.",
-      "exampleTranslation": "เธอต้มไข่หนึ่งฟอง",
+      "example": "She boils one egg for breakfast.",
+      "exampleTranslation": "เธอต้มไข่หนึ่งฟองเป็นอาหารเช้า",
       "phonics": "/ˈɛɡ/"
     },
     {
@@ -1409,27 +1409,27 @@
     {
       "word": "else",
       "translation": "อื่น",
-      "example": "Ask somebody else.",
-      "exampleTranslation": "ถามคนอื่นดูสิ",
+      "example": "Somebody else is in my seat.",
+      "exampleTranslation": "มีคนอื่นนั่งที่ของฉันอยู่",
       "phonics": "/ˈɛls/"
     },
     {
       "word": "email",
       "translation": "อีเมล",
-      "example": "Send me an email tonight.",
-      "exampleTranslation": "คืนนี้ส่งอีเมลมาให้ฉัน",
+      "example": "She sends me an email every week.",
+      "exampleTranslation": "เธอส่งอีเมลมาหาฉันทุกสัปดาห์",
       "phonics": "/iˈmeɪl/"
     },
     {
       "word": "end",
-      "translation": "ตอนจบ",
+      "translation": "ตอนจบ, จุดสิ้นสุด, ปลาย",
       "example": "The end of the movie is sad.",
       "exampleTranslation": "ตอนจบของหนังเรื่องนี้เศร้า",
       "phonics": "/ˈɛnd/"
     },
     {
       "word": "enjoy",
-      "translation": "เพลิดเพลินกับ",
+      "translation": "สนุกกับ, ชอบ",
       "example": "I enjoy long walks.",
       "exampleTranslation": "ฉันชอบเดินเล่นไกลๆ",
       "phonics": "/ˌɛnˈdʒɔɪ/, /ɪnˈdʒɔɪ/"
@@ -1437,15 +1437,15 @@
     {
       "word": "enough",
       "translation": "เพียงพอ",
-      "example": "There is not enough rice.",
-      "exampleTranslation": "ข้าวมีไม่เพียงพอ",
+      "example": "There is not enough rice for everyone.",
+      "exampleTranslation": "ข้าวมีไม่พอสำหรับทุกคน",
       "phonics": "/iˈnəf/, /ɪˈnəf/"
     },
     {
       "word": "euro",
       "translation": "ยูโร",
-      "example": "It costs three euros.",
-      "exampleTranslation": "ราคาสามยูโร",
+      "example": "A cup of coffee costs three euros here.",
+      "exampleTranslation": "ที่นี่กาแฟแก้วละสามยูโร",
       "phonics": "/ˈjuroʊ/, /ˈjʊrə/"
     },
     {
@@ -1458,29 +1458,29 @@
     {
       "word": "event",
       "translation": "งาน, เหตุการณ์",
-      "example": "The event lasts two days.",
-      "exampleTranslation": "งานนี้จัดขึ้นสองวัน",
+      "example": "The music event lasts two days.",
+      "exampleTranslation": "งานดนตรีนี้จัดสองวัน",
       "phonics": "/iˈvɛnt/, /ɪˈvɛnt/"
     },
     {
       "word": "everybody",
       "translation": "ทุกคน",
-      "example": "Everybody arrives on time.",
-      "exampleTranslation": "ทุกคนมาถึงตรงเวลา",
+      "example": "Everybody in my class likes the teacher.",
+      "exampleTranslation": "ทุกคนในห้องชอบครูคนนี้",
       "phonics": "/ˈɛvriˌbɑdi/"
     },
     {
       "word": "everyone",
       "translation": "ทุกคน",
-      "example": "Everyone arrives on time.",
-      "exampleTranslation": "ทุกคนมาถึงตรงเวลา",
+      "example": "Everyone at the party is happy.",
+      "exampleTranslation": "ทุกคนในงานปาร์ตี้มีความสุขกันมาก",
       "phonics": "/ˈɛvriˌwən/"
     },
     {
       "word": "everything",
       "translation": "ทุกสิ่งทุกอย่าง",
-      "example": "Everything is ready.",
-      "exampleTranslation": "ทุกสิ่งทุกอย่างพร้อมแล้ว",
+      "example": "Everything is ready for the party.",
+      "exampleTranslation": "ทุกอย่างพร้อมสำหรับงานปาร์ตี้แล้ว",
       "phonics": "/ˈɛvriˌθɪŋ/"
     },
     {
@@ -1493,22 +1493,22 @@
     {
       "word": "example",
       "translation": "ตัวอย่าง",
-      "example": "Give me one clear example.",
-      "exampleTranslation": "ยกตัวอย่างที่ชัดเจนให้ฉันหน่อย",
+      "example": "The teacher gives us an easy example.",
+      "exampleTranslation": "ครูยกตัวอย่างที่เข้าใจง่ายให้เราดู",
       "phonics": "/ɪɡˈzæmpəl/"
     },
     {
       "word": "excited",
       "translation": "ตื่นเต้น, ดีใจ",
-      "example": "The children are excited.",
-      "exampleTranslation": "เด็กๆตื่นเต้นกันมาก",
+      "example": "The children are excited about the trip.",
+      "exampleTranslation": "เด็กๆ ตื่นเต้นกับการไปเที่ยวมาก",
       "phonics": "/ɪkˈsaɪtəd/, /ɪkˈsaɪtɪd/"
     },
     {
       "word": "exciting",
       "translation": "น่าตื่นเต้น",
-      "example": "It is an exciting match.",
-      "exampleTranslation": "นี่คือการแข่งขันที่น่าตื่นเต้น",
+      "example": "The football match is very exciting.",
+      "exampleTranslation": "การแข่งฟุตบอลนัดนี้น่าตื่นเต้นมาก",
       "phonics": "/ɪkˈsaɪtɪŋ/"
     },
     {
@@ -1528,8 +1528,8 @@
     {
       "word": "explain",
       "translation": "อธิบาย",
-      "example": "Please explain the rule again.",
-      "exampleTranslation": "ช่วยอธิบายกฎอีกครั้ง",
+      "example": "The teacher explains the rule again.",
+      "exampleTranslation": "ครูอธิบายกฎอีกครั้ง",
       "phonics": "/ɪksˈpleɪn/"
     },
     {
@@ -1542,27 +1542,27 @@
     {
       "word": "eye",
       "translation": "ตา",
-      "example": "She closes one eye.",
-      "exampleTranslation": "เธอหลับตาข้างหนึ่ง",
+      "example": "She has blue eyes like her mother.",
+      "exampleTranslation": "เธอมีตาสีฟ้าเหมือนแม่",
       "phonics": "/ˈaɪ/"
     },
     {
       "word": "face",
       "translation": "ใบหน้า",
-      "example": "His face is very red.",
-      "exampleTranslation": "หน้าของเขาแดงมาก",
+      "example": "His face is very red after the run.",
+      "exampleTranslation": "หน้าของเขาแดงมากหลังจากวิ่ง",
       "phonics": "/ˈfeɪs/"
     },
     {
       "word": "fact",
       "translation": "ข้อเท็จจริง",
-      "example": "That is a simple fact.",
-      "exampleTranslation": "นั่นเป็นข้อเท็จจริงง่ายๆ",
+      "example": "The book has many facts about animals.",
+      "exampleTranslation": "หนังสือเล่มนี้มีข้อเท็จจริงเกี่ยวกับสัตว์มากมาย",
       "phonics": "/ˈfækt/"
     },
     {
       "word": "fall",
-      "translation": "ร่วงหล่น",
+      "translation": "ตก, ร่วง, หกล้ม",
       "example": "Leaves fall in October.",
       "exampleTranslation": "ใบไม้ร่วงในเดือนตุลาคม",
       "phonics": "/ˈfɑl/, /ˈfɔl/"
@@ -1570,8 +1570,8 @@
     {
       "word": "false",
       "translation": "เท็จ",
-      "example": "That statement is false.",
-      "exampleTranslation": "คำกล่าวนั้นเป็นเท็จ",
+      "example": "This story in the newspaper is false.",
+      "exampleTranslation": "ข่าวนี้ในหนังสือพิมพ์เป็นเรื่องเท็จ",
       "phonics": "/ˈfɔls/"
     },
     {
@@ -1590,9 +1590,9 @@
     },
     {
       "word": "fantastic",
-      "translation": "เยี่ยมยอด",
-      "example": "The concert is fantastic.",
-      "exampleTranslation": "คอนเสิร์ตนี้ยอดเยี่ยมมาก",
+      "translation": "ยอดเยี่ยม, วิเศษ",
+      "example": "The concert last night was fantastic.",
+      "exampleTranslation": "คอนเสิร์ตเมื่อคืนยอดเยี่ยมมาก",
       "phonics": "/fænˈtæstɪk/"
     },
     {
@@ -1611,9 +1611,9 @@
     },
     {
       "word": "farmer",
-      "translation": "ชาวนา, ชาวไร่",
+      "translation": "เกษตรกร, ชาวนา, ชาวไร่",
       "example": "The farmer sells his cows.",
-      "exampleTranslation": "ชาวนาขายวัวของเขา",
+      "exampleTranslation": "เกษตรกรขายวัวของเขา",
       "phonics": "/ˈfɑrmɝ/"
     },
     {
@@ -1639,9 +1639,9 @@
     },
     {
       "word": "favourite",
-      "translation": "ที่ชอบที่สุด",
+      "translation": "โปรด, ชอบที่สุด",
       "example": "This is my favourite song.",
-      "exampleTranslation": "นี่คือเพลงที่ฉันชอบที่สุด",
+      "exampleTranslation": "นี่คือเพลงโปรดของฉัน",
       "phonics": "/ˈfeɪvɝɪt/"
     },
     {
@@ -1654,15 +1654,15 @@
     {
       "word": "festival",
       "translation": "เทศกาล",
-      "example": "The festival lasts four days.",
-      "exampleTranslation": "เทศกาลนี้จัดขึ้นสี่วัน",
+      "example": "The flower festival lasts four days.",
+      "exampleTranslation": "เทศกาลดอกไม้จัดขึ้นสี่วัน",
       "phonics": "/ˈfɛstəvəl/, /ˈfɛstɪvəl/"
     },
     {
       "word": "fill",
-      "translation": "เติมให้เต็ม",
-      "example": "Fill the glass slowly.",
-      "exampleTranslation": "ค่อยๆเติมให้เต็มแก้ว",
+      "translation": "เติม, ทำให้เต็ม",
+      "example": "She fills the glass with water.",
+      "exampleTranslation": "เธอเติมน้ำใส่แก้วจนเต็ม",
       "phonics": "/ˈfɪl/"
     },
     {
@@ -1675,8 +1675,8 @@
     {
       "word": "final",
       "translation": "สุดท้าย",
-      "example": "This is the final version.",
-      "exampleTranslation": "นี่คือเวอร์ชันสุดท้าย",
+      "example": "This is the final game of the season.",
+      "exampleTranslation": "นี่คือเกมสุดท้ายของฤดูกาล",
       "phonics": "/ˈfaɪnəl/"
     },
     {
@@ -1688,30 +1688,30 @@
     },
     {
       "word": "fine",
-      "translation": "ดี, งาม",
+      "translation": "ดี, สบายดี",
       "example": "The weather is fine today.",
       "exampleTranslation": "วันนี้อากาศดี",
       "phonics": "/ˈfaɪn/"
     },
     {
       "word": "finish",
-      "translation": "ทำให้เสร็จ",
-      "example": "Finish your work first.",
-      "exampleTranslation": "ทำงานของคุณให้เสร็จก่อน",
+      "translation": "ทำเสร็จ, จบ",
+      "example": "He finishes his work at five.",
+      "exampleTranslation": "เขาทำงานเสร็จตอนห้าโมงเย็น",
       "phonics": "/ˈfɪnɪʃ/"
     },
     {
       "word": "fire",
       "translation": "ไฟ",
-      "example": "The fire burns all night.",
-      "exampleTranslation": "ไฟไหม้ตลอดทั้งคืน",
+      "example": "We sit around the fire at night.",
+      "exampleTranslation": "เรานั่งล้อมกองไฟตอนกลางคืน",
       "phonics": "/ˈfaɪɝ/, /ˈfaɪr/"
     },
     {
       "word": "fish",
       "translation": "ปลา",
-      "example": "The fish is very fresh.",
-      "exampleTranslation": "ปลาสดมาก",
+      "example": "The fish at this market is very fresh.",
+      "exampleTranslation": "ปลาที่ตลาดนี้สดมาก",
       "phonics": "/ˈfɪʃ/"
     },
     {
@@ -1724,13 +1724,13 @@
     {
       "word": "flight",
       "translation": "เที่ยวบิน",
-      "example": "The flight is delayed today.",
-      "exampleTranslation": "วันนี้เที่ยวบินล่าช้า",
+      "example": "My flight is late today.",
+      "exampleTranslation": "วันนี้เที่ยวบินของฉันล่าช้า",
       "phonics": "/ˈflaɪt/"
     },
     {
       "word": "floor",
-      "translation": "ชั้น",
+      "translation": "ชั้น, พื้น",
       "example": "Our office is on the third floor.",
       "exampleTranslation": "ออฟฟิศของเราอยู่ชั้นสาม",
       "phonics": "/ˈflɔr/"
@@ -1751,9 +1751,9 @@
     },
     {
       "word": "follow",
-      "translation": "ตามไป",
-      "example": "Follow me to the office.",
-      "exampleTranslation": "ตามฉันไปที่สำนักงาน",
+      "translation": "ตาม, ติดตาม",
+      "example": "The children follow their teacher to the bus.",
+      "exampleTranslation": "เด็กๆ เดินตามครูไปที่รถบัส",
       "phonics": "/ˈfɑloʊ/"
     },
     {
@@ -1780,22 +1780,22 @@
     {
       "word": "forget",
       "translation": "ลืม",
-      "example": "Do not forget your keys.",
-      "exampleTranslation": "อย่าลืมกุญแจของคุณ",
+      "example": "He always forgets his keys.",
+      "exampleTranslation": "เขาลืมกุญแจอยู่เสมอ",
       "phonics": "/fɝˈɡɛt/, /fɔrˈɡɛt/"
     },
     {
       "word": "form",
       "translation": "แบบฟอร์ม",
-      "example": "Write your name on the form.",
-      "exampleTranslation": "เขียนชื่อของคุณลงในแบบฟอร์ม",
+      "example": "She writes her name on the form.",
+      "exampleTranslation": "เธอเขียนชื่อของเธอลงในแบบฟอร์ม",
       "phonics": "/ˈfɔrm/"
     },
     {
       "word": "free",
-      "translation": "ฟรี",
-      "example": "Entry is free on Mondays.",
-      "exampleTranslation": "เข้าฟรีทุกวันจันทร์",
+      "translation": "ฟรี, ว่าง, อิสระ",
+      "example": "The concert in the park is free.",
+      "exampleTranslation": "คอนเสิร์ตในสวนสาธารณะเข้าฟรี",
       "phonics": "/ˈfri/"
     },
     {
@@ -1808,8 +1808,8 @@
     {
       "word": "front",
       "translation": "ด้านหน้า",
-      "example": "Wait at the front of the building.",
-      "exampleTranslation": "รอที่ด้านหน้าของอาคาร",
+      "example": "My father waits at the front of the building.",
+      "exampleTranslation": "พ่อรออยู่ที่ด้านหน้าของอาคาร",
       "phonics": "/ˈfrənt/"
     },
     {
@@ -1829,8 +1829,8 @@
     {
       "word": "fun",
       "translation": "ความสนุก",
-      "example": "The trip is great fun.",
-      "exampleTranslation": "ทริปนี้สนุกมาก",
+      "example": "Our school trip is great fun.",
+      "exampleTranslation": "ทริปของโรงเรียนสนุกมากเลย",
       "phonics": "/ˈfən/"
     },
     {
@@ -1850,8 +1850,8 @@
     {
       "word": "game",
       "translation": "เกม",
-      "example": "The game starts at noon.",
-      "exampleTranslation": "เกมเริ่มตอนเที่ยง",
+      "example": "The football game starts at noon.",
+      "exampleTranslation": "เกมฟุตบอลเริ่มตอนเที่ยง",
       "phonics": "/ˈɡeɪm/"
     },
     {
@@ -1864,15 +1864,15 @@
     {
       "word": "geography",
       "translation": "ภูมิศาสตร์",
-      "example": "She teaches geography.",
-      "exampleTranslation": "เธอสอนวิชาภูมิศาสตร์",
+      "example": "She teaches geography at my school.",
+      "exampleTranslation": "เธอสอนวิชาภูมิศาสตร์ที่โรงเรียนของฉัน",
       "phonics": "/dʒiˈɑɡrəfi/"
     },
     {
       "word": "girl",
       "translation": "เด็กผู้หญิง",
       "example": "A girl waves from the window.",
-      "exampleTranslation": "มีเด็กผู้หญิงโบกมืออยู่ที่หน้าต่าง",
+      "exampleTranslation": "เด็กผู้หญิงคนหนึ่งโบกมืออยู่ที่หน้าต่าง",
       "phonics": "/ˈɡɝl/"
     },
     {
@@ -1885,8 +1885,8 @@
     {
       "word": "give",
       "translation": "ให้",
-      "example": "Give me one minute.",
-      "exampleTranslation": "ให้เวลาฉันหนึ่งนาที",
+      "example": "My father gives me money for lunch.",
+      "exampleTranslation": "พ่อให้เงินฉันไว้ซื้อข้าวกลางวัน",
       "phonics": "/ˈɡɪv/"
     },
     {
@@ -1906,20 +1906,20 @@
     {
       "word": "good",
       "translation": "ดี",
-      "example": "This is a good idea.",
-      "exampleTranslation": "นี่เป็นความคิดที่ดี",
+      "example": "She is a good student.",
+      "exampleTranslation": "เธอเป็นนักเรียนที่ดี",
       "phonics": "/ˈɡʊd/, /ɡɪd/"
     },
     {
       "word": "grandfather",
-      "translation": "ปู่",
+      "translation": "ปู่, ตา",
       "example": "My grandfather tells great stories.",
       "exampleTranslation": "ปู่ของฉันเล่าเรื่องเก่งมาก",
       "phonics": "/ˈɡrænˌfɑðɝ/, /ˈɡrændˌfɑðɝ/"
     },
     {
       "word": "grandmother",
-      "translation": "ย่า",
+      "translation": "ย่า, ยาย",
       "example": "Her grandmother still cooks daily.",
       "exampleTranslation": "ย่าของเธอยังทำอาหารทุกวัน",
       "phonics": "/ˈɡrændˌməðɝ/"
@@ -1927,15 +1927,15 @@
     {
       "word": "grandparent",
       "translation": "ปู่ย่าตายาย",
-      "example": "My grandparent still drives.",
-      "exampleTranslation": "ปู่ย่าตายายของฉันยังขับรถอยู่",
+      "example": "My grandparents live in the country.",
+      "exampleTranslation": "ปู่ย่าตายายของฉันอาศัยอยู่ต่างจังหวัด",
       "phonics": "/ˈɡrændˌpɛrənt/"
     },
     {
       "word": "great",
-      "translation": "เยี่ยม",
-      "example": "That is a great idea.",
-      "exampleTranslation": "นั่นเป็นความคิดที่ยอดเยี่ยม",
+      "translation": "เยี่ยม, ยอดเยี่ยม, ยิ่งใหญ่",
+      "example": "The food here is great.",
+      "exampleTranslation": "อาหารที่นี่ยอดเยี่ยมมาก",
       "phonics": "/ˈɡreɪt/"
     },
     {
@@ -1956,7 +1956,7 @@
       "word": "group",
       "translation": "กลุ่ม",
       "example": "A group of students waits outside.",
-      "exampleTranslation": "มีนักเรียนกลุ่มหนึ่งรออยู่ข้างนอก",
+      "exampleTranslation": "นักเรียนกลุ่มหนึ่งรออยู่ข้างนอก",
       "phonics": "/ˈɡrup/"
     },
     {
@@ -1969,8 +1969,8 @@
     {
       "word": "guess",
       "translation": "เดา",
-      "example": "Guess how old he is.",
-      "exampleTranslation": "ลองเดาดูว่าเขาอายุเท่าไหร่",
+      "example": "I guess his age is about forty.",
+      "exampleTranslation": "ฉันเดาว่าเขาอายุประมาณสี่สิบ",
       "phonics": "/ˈɡɛs/"
     },
     {
@@ -2004,29 +2004,29 @@
     {
       "word": "hand",
       "translation": "มือ",
-      "example": "He raises his hand.",
-      "exampleTranslation": "เขายกมือขึ้น",
+      "example": "He raises his hand in class.",
+      "exampleTranslation": "เขายกมือขึ้นในห้องเรียน",
       "phonics": "/ˈhænd/"
     },
     {
       "word": "happen",
       "translation": "เกิดขึ้น",
       "example": "Accidents happen without warning.",
-      "exampleTranslation": "อุบัติเหตุเกิดขึ้นโดยไม่ทันตั้งตัว",
+      "exampleTranslation": "อุบัติเหตุเกิดขึ้นได้โดยไม่ทันตั้งตัว",
       "phonics": "/ˈhæpən/"
     },
     {
       "word": "happy",
       "translation": "มีความสุข",
-      "example": "She is happy today.",
-      "exampleTranslation": "วันนี้เธอมีความสุข",
+      "example": "She is happy with her new job.",
+      "exampleTranslation": "เธอมีความสุขกับงานใหม่",
       "phonics": "/ˈhæpi/"
     },
     {
       "word": "hard",
-      "translation": "ยาก",
-      "example": "This question is hard.",
-      "exampleTranslation": "คำถามนี้ยาก",
+      "translation": "ยาก, แข็ง",
+      "example": "This question is too hard for me.",
+      "exampleTranslation": "คำถามนี้ยากเกินไปสำหรับฉัน",
       "phonics": "/ˈhɑrd/"
     },
     {
@@ -2067,29 +2067,29 @@
     {
       "word": "hear",
       "translation": "ได้ยิน",
-      "example": "I cannot hear you.",
-      "exampleTranslation": "ฉันไม่ได้ยินคุณ",
+      "example": "I cannot hear you because of the music.",
+      "exampleTranslation": "ฉันไม่ได้ยินคุณเพราะเสียงเพลงดัง",
       "phonics": "/ˈhir/"
     },
     {
       "word": "help",
       "translation": "ช่วยเหลือ",
-      "example": "Please help me with this.",
-      "exampleTranslation": "ช่วยฉันเรื่องนี้หน่อย",
+      "example": "My brother helps me with my homework.",
+      "exampleTranslation": "พี่ชายช่วยฉันทำการบ้าน",
       "phonics": "/ˈhɛlp/"
     },
     {
       "word": "high",
       "translation": "สูง",
-      "example": "The wall is too high.",
-      "exampleTranslation": "กำแพงสูงเกินไป",
+      "example": "The wall is too high to climb.",
+      "exampleTranslation": "กำแพงสูงเกินกว่าจะปีนได้",
       "phonics": "/ˈhaɪ/"
     },
     {
       "word": "history",
       "translation": "ประวัติศาสตร์",
-      "example": "He studies history.",
-      "exampleTranslation": "เขาเรียนวิชาประวัติศาสตร์",
+      "example": "He studies history at university.",
+      "exampleTranslation": "เขาเรียนประวัติศาสตร์ที่มหาวิทยาลัย",
       "phonics": "/ˈhɪstɝi/, /ˈhɪstri/"
     },
     {
@@ -2101,9 +2101,9 @@
     },
     {
       "word": "holiday",
-      "translation": "วันหยุด",
+      "translation": "วันหยุด, การพักร้อน",
       "example": "We take a short holiday in June.",
-      "exampleTranslation": "เราไปพักผ่อนสั้นๆในเดือนมิถุนายน",
+      "exampleTranslation": "เราไปพักร้อนสั้นๆ ในเดือนมิถุนายน",
       "phonics": "/ˈhɑləˌdeɪ/, /ˈhɑlɪˌdeɪ/"
     },
     {
@@ -2124,7 +2124,7 @@
       "word": "hope",
       "translation": "หวัง",
       "example": "I hope she arrives soon.",
-      "exampleTranslation": "ฉันหวังว่าเธอจะมาถึงเร็วๆนี้",
+      "exampleTranslation": "ฉันหวังว่าเธอจะมาถึงเร็วๆ นี้",
       "phonics": "/ˈhoʊp/"
     },
     {
@@ -2173,14 +2173,14 @@
       "word": "however",
       "translation": "อย่างไรก็ตาม",
       "example": "It rained. However, we went out.",
-      "exampleTranslation": "ฝนตก แต่เราก็ยังออกไปข้างนอก",
+      "exampleTranslation": "ฝนตก อย่างไรก็ตามเราก็ยังออกไปข้างนอก",
       "phonics": "/ˌhaʊˈɛvɝ/"
     },
     {
       "word": "hungry",
       "translation": "หิว",
-      "example": "The children are hungry now.",
-      "exampleTranslation": "ตอนนี้เด็กๆหิว",
+      "example": "The children are hungry after school.",
+      "exampleTranslation": "เด็กๆ หิวหลังเลิกเรียน",
       "phonics": "/ˈhəŋɡri/"
     },
     {
@@ -2201,7 +2201,7 @@
       "word": "ice cream",
       "translation": "ไอศกรีม",
       "example": "The children want ice cream.",
-      "exampleTranslation": "เด็กๆอยากกินไอศกรีม",
+      "exampleTranslation": "เด็กๆ อยากกินไอศกรีม",
       "phonics": "/ˈaɪs ˈkrim/"
     },
     {
@@ -2214,43 +2214,43 @@
     {
       "word": "imagine",
       "translation": "จินตนาการ",
-      "example": "Imagine living there.",
-      "exampleTranslation": "ลองจินตนาการว่าอยู่ที่นั่น",
+      "example": "I imagine living by the sea.",
+      "exampleTranslation": "ฉันจินตนาการว่าได้อยู่ริมทะเล",
       "phonics": "/ˌɪˈmædʒən/"
     },
     {
       "word": "important",
       "translation": "สำคัญ",
-      "example": "This part is important.",
-      "exampleTranslation": "ส่วนนี้สำคัญมาก",
+      "example": "Sleep is important for your health.",
+      "exampleTranslation": "การนอนหลับสำคัญต่อสุขภาพของคุณ",
       "phonics": "/ˌɪmˈpɔrtənt/"
     },
     {
       "word": "improve",
-      "translation": "ปรับปรุง",
+      "translation": "ปรับปรุง, ดีขึ้น",
       "example": "His writing improves every week.",
       "exampleTranslation": "การเขียนของเขาดีขึ้นทุกสัปดาห์",
       "phonics": "/ˌɪmˈpruv/"
     },
     {
       "word": "include",
-      "translation": "รวมถึง",
+      "translation": "รวม, รวมถึง",
       "example": "The price includes breakfast.",
       "exampleTranslation": "ราคานี้รวมอาหารเช้าด้วย",
       "phonics": "/ˌɪnˈklud/"
     },
     {
       "word": "information",
-      "translation": "ข้อมูลข่าวสาร",
-      "example": "This information is wrong.",
-      "exampleTranslation": "ข้อมูลนี้ผิด",
+      "translation": "ข้อมูล",
+      "example": "The information on this website is wrong.",
+      "exampleTranslation": "ข้อมูลในเว็บไซต์นี้ผิด",
       "phonics": "/ˌɪnfɝˈmeɪʃən/, /ɪnˈfɔrˈmeɪʃən/"
     },
     {
       "word": "interest",
       "translation": "ความสนใจ",
       "example": "He has no interest in sport.",
-      "exampleTranslation": "เขาไม่มีความสนใจในกีฬาเลย",
+      "exampleTranslation": "เขาไม่สนใจกีฬาเลย",
       "phonics": "/ˈɪntɝəst/, /ˈɪntɝɪst/"
     },
     {
@@ -2263,22 +2263,22 @@
     {
       "word": "interview",
       "translation": "การสัมภาษณ์",
-      "example": "The interview lasts one hour.",
-      "exampleTranslation": "การสัมภาษณ์ใช้เวลาหนึ่งชั่วโมง",
+      "example": "The job interview lasts one hour.",
+      "exampleTranslation": "การสัมภาษณ์งานใช้เวลาหนึ่งชั่วโมง",
       "phonics": "/ˈɪntɝvˌju/"
     },
     {
       "word": "introduce",
       "translation": "แนะนำให้รู้จัก",
-      "example": "Let me introduce my sister.",
-      "exampleTranslation": "ขอแนะนำให้รู้จักน้องสาวของฉัน",
+      "example": "She introduces her sister to me.",
+      "exampleTranslation": "เธอแนะนำน้องสาวให้ฉันรู้จัก",
       "phonics": "/ˌɪntrəˈdus/, /ˌɪntroʊˈdus/"
     },
     {
       "word": "island",
       "translation": "เกาะ",
-      "example": "The island has one shop.",
-      "exampleTranslation": "เกาะนี้มีร้านค้าร้านเดียว",
+      "example": "The small island has only one shop.",
+      "exampleTranslation": "เกาะเล็กๆ แห่งนี้มีร้านค้าแค่ร้านเดียว",
       "phonics": "/ˈaɪlənd/"
     },
     {
@@ -2298,15 +2298,15 @@
     {
       "word": "job",
       "translation": "งาน, อาชีพ",
-      "example": "She has a new job.",
-      "exampleTranslation": "เธอมีงานใหม่",
+      "example": "She has a new job at a bank.",
+      "exampleTranslation": "เธอมีงานใหม่ที่ธนาคาร",
       "phonics": "/ˈdʒɑb/, /ˈdʒoʊb/"
     },
     {
       "word": "join",
       "translation": "เข้าร่วม",
-      "example": "Join us for dinner.",
-      "exampleTranslation": "มาร่วมกินมื้อเย็นกับเรา",
+      "example": "My friends join us for dinner.",
+      "exampleTranslation": "เพื่อนๆ มาร่วมกินมื้อเย็นกับเรา",
       "phonics": "/ˈdʒɔɪn/"
     },
     {
@@ -2325,9 +2325,9 @@
     },
     {
       "word": "keep",
-      "translation": "เก็บไว้",
-      "example": "Keep the receipt.",
-      "exampleTranslation": "เก็บใบเสร็จไว้",
+      "translation": "เก็บไว้, รักษา",
+      "example": "I keep the receipt in my bag.",
+      "exampleTranslation": "ฉันเก็บใบเสร็จไว้ในกระเป๋า",
       "phonics": "/ˈkip/"
     },
     {
@@ -2346,7 +2346,7 @@
     },
     {
       "word": "kind",
-      "translation": "ใจดี",
+      "translation": "ใจดี, ชนิด",
       "example": "She is very kind to us.",
       "exampleTranslation": "เธอใจดีกับเรามาก",
       "phonics": "/ˈkaɪnd/"
@@ -2360,14 +2360,14 @@
     },
     {
       "word": "know",
-      "translation": "รู้",
-      "example": "I know the answer.",
-      "exampleTranslation": "ฉันรู้คำตอบ",
+      "translation": "รู้, รู้จัก",
+      "example": "She knows my brother well.",
+      "exampleTranslation": "เธอรู้จักพี่ชายของฉันดี",
       "phonics": "/ˈnoʊ/"
     },
     {
       "word": "land",
-      "translation": "ลงจอด",
+      "translation": "ลงจอด, ที่ดิน, แผ่นดิน",
       "example": "The plane lands safely.",
       "exampleTranslation": "เครื่องบินลงจอดอย่างปลอดภัย",
       "phonics": "/ˈlænd/"
@@ -2381,14 +2381,14 @@
     },
     {
       "word": "large",
-      "translation": "ใหญ่โต",
+      "translation": "ใหญ่",
       "example": "They buy a large table.",
       "exampleTranslation": "พวกเขาซื้อโต๊ะตัวใหญ่",
       "phonics": "/ˈlɑrdʒ/"
     },
     {
       "word": "last",
-      "translation": "สุดท้าย",
+      "translation": "สุดท้าย, ล่าสุด",
       "example": "This is the last piece of cake.",
       "exampleTranslation": "นี่คือเค้กชิ้นสุดท้าย",
       "phonics": "/ˈlæs/, /ˈlæst/"
@@ -2402,9 +2402,9 @@
     },
     {
       "word": "later",
-      "translation": "ภายหลัง",
-      "example": "See you later.",
-      "exampleTranslation": "ไว้เจอกันทีหลัง",
+      "translation": "ทีหลัง, ภายหลัง",
+      "example": "I will finish my homework later.",
+      "exampleTranslation": "ฉันจะทำการบ้านให้เสร็จทีหลัง",
       "phonics": "/ˈleɪtɝ/"
     },
     {
@@ -2423,7 +2423,7 @@
     },
     {
       "word": "leave",
-      "translation": "ออกเดินทาง",
+      "translation": "ออกจาก, จากไป, ทิ้งไว้",
       "example": "We leave early tomorrow.",
       "exampleTranslation": "พรุ่งนี้เราออกเดินทางแต่เช้า",
       "phonics": "/ˈliv/"
@@ -2431,8 +2431,8 @@
     {
       "word": "left",
       "translation": "ซ้าย",
-      "example": "Turn left at the bank.",
-      "exampleTranslation": "เลี้ยวซ้ายตรงธนาคาร",
+      "example": "The car turns left at the bank.",
+      "exampleTranslation": "รถเลี้ยวซ้ายตรงธนาคาร",
       "phonics": "/ˈlɛft/"
     },
     {
@@ -2445,15 +2445,15 @@
     {
       "word": "lesson",
       "translation": "บทเรียน",
-      "example": "The lesson lasts one hour.",
-      "exampleTranslation": "บทเรียนใช้เวลาหนึ่งชั่วโมง",
+      "example": "The English lesson lasts one hour.",
+      "exampleTranslation": "บทเรียนภาษาอังกฤษใช้เวลาหนึ่งชั่วโมง",
       "phonics": "/ˈlɛsən/"
     },
     {
       "word": "letter",
       "translation": "จดหมาย",
-      "example": "He writes a letter every month.",
-      "exampleTranslation": "เขาเขียนจดหมายทุกเดือน",
+      "example": "He writes a letter to his mother every month.",
+      "exampleTranslation": "เขาเขียนจดหมายถึงแม่ทุกเดือน",
       "phonics": "/ˈlɛtɝ/"
     },
     {
@@ -2465,7 +2465,7 @@
     },
     {
       "word": "lie",
-      "translation": "นอนลง",
+      "translation": "นอน, โกหก",
       "example": "He likes to lie on the grass.",
       "exampleTranslation": "เขาชอบนอนบนสนามหญ้า",
       "phonics": "/ˈlaɪ/"
@@ -2479,9 +2479,9 @@
     },
     {
       "word": "light",
-      "translation": "เบา",
-      "example": "The bag is very light.",
-      "exampleTranslation": "กระเป๋าใบนี้เบามาก",
+      "translation": "เบา, แสง",
+      "example": "My new bag is very light.",
+      "exampleTranslation": "กระเป๋าใบใหม่ของฉันเบามาก",
       "phonics": "/ˈlaɪt/"
     },
     {
@@ -2494,8 +2494,8 @@
     {
       "word": "line",
       "translation": "เส้น",
-      "example": "Draw a straight line.",
-      "exampleTranslation": "วาดเส้นตรงหนึ่งเส้น",
+      "example": "The child draws a straight line.",
+      "exampleTranslation": "เด็กวาดเส้นตรงหนึ่งเส้น",
       "phonics": "/ˈlaɪn/"
     },
     {
@@ -2508,15 +2508,15 @@
     {
       "word": "list",
       "translation": "รายการ",
-      "example": "Write a list before shopping.",
-      "exampleTranslation": "เขียนรายการก่อนไปซื้อของ",
+      "example": "My mother writes a list before shopping.",
+      "exampleTranslation": "แม่เขียนรายการก่อนไปซื้อของ",
       "phonics": "/ˈlɪst/"
     },
     {
       "word": "listen",
       "translation": "ฟัง",
-      "example": "Listen to this song.",
-      "exampleTranslation": "ฟังเพลงนี้สิ",
+      "example": "We listen to the radio in the car.",
+      "exampleTranslation": "เราฟังวิทยุในรถ",
       "phonics": "/ˈlɪsən/"
     },
     {
@@ -2528,9 +2528,9 @@
     },
     {
       "word": "local",
-      "translation": "ท้องถิ่น",
-      "example": "The local shop sells bread.",
-      "exampleTranslation": "ร้านท้องถิ่นขายขนมปัง",
+      "translation": "ท้องถิ่น, ในละแวก",
+      "example": "The local shop sells fresh bread.",
+      "exampleTranslation": "ร้านค้าในท้องถิ่นขายขนมปังสด",
       "phonics": "/ˈloʊkəl/"
     },
     {
@@ -2542,21 +2542,21 @@
     },
     {
       "word": "look",
-      "translation": "มอง",
-      "example": "Look at that bird.",
-      "exampleTranslation": "มองนกตัวนั้นสิ",
+      "translation": "มอง, ดู",
+      "example": "The children look at the bird in the tree.",
+      "exampleTranslation": "เด็กๆ มองนกบนต้นไม้",
       "phonics": "/ˈlʊk/"
     },
     {
       "word": "lose",
-      "translation": "ทำหาย",
-      "example": "Do not lose the ticket.",
-      "exampleTranslation": "อย่าทำตั๋วหาย",
+      "translation": "ทำหาย, แพ้",
+      "example": "She often loses her phone.",
+      "exampleTranslation": "เธอทำโทรศัพท์หายบ่อยๆ",
       "phonics": "/ˈluz/"
     },
     {
       "word": "lot",
-      "translation": "จำนวนมาก",
+      "translation": "เยอะ, จำนวนมาก",
       "example": "There is a lot of work today.",
       "exampleTranslation": "วันนี้มีงานเยอะมาก",
       "phonics": "/ˈlɑt/, /ˈlɔt/"
@@ -2577,9 +2577,9 @@
     },
     {
       "word": "machine",
-      "translation": "เครื่องจักร",
-      "example": "The machine stops working.",
-      "exampleTranslation": "เครื่องจักรหยุดทำงาน",
+      "translation": "เครื่องจักร, เครื่อง",
+      "example": "The coffee machine stops working.",
+      "exampleTranslation": "เครื่องชงกาแฟหยุดทำงาน",
       "phonics": "/məˈʃin/"
     },
     {
@@ -2626,16 +2626,16 @@
     },
     {
       "word": "married",
-      "translation": "ที่แต่งงานแล้ว",
+      "translation": "แต่งงานแล้ว",
       "example": "They are married now.",
       "exampleTranslation": "ตอนนี้พวกเขาแต่งงานกันแล้ว",
       "phonics": "/ˈmɛrid/"
     },
     {
       "word": "match",
-      "translation": "การแข่งขันนัดหนึ่ง",
-      "example": "The match ends late.",
-      "exampleTranslation": "การแข่งขันจบช้า",
+      "translation": "การแข่งขัน, ไม้ขีดไฟ",
+      "example": "The football match ends late at night.",
+      "exampleTranslation": "การแข่งขันฟุตบอลจบตอนดึก",
       "phonics": "/ˈmætʃ/"
     },
     {
@@ -2648,13 +2648,13 @@
     {
       "word": "meal",
       "translation": "มื้ออาหาร",
-      "example": "The meal takes two hours.",
-      "exampleTranslation": "มื้ออาหารใช้เวลาสองชั่วโมง",
+      "example": "Breakfast is my favourite meal.",
+      "exampleTranslation": "อาหารเช้าเป็นมื้อโปรดของฉัน",
       "phonics": "/ˈmil/"
     },
     {
       "word": "mean",
-      "translation": "หมายความว่า",
+      "translation": "หมายความ, แปลว่า",
       "example": "What does this word mean?",
       "exampleTranslation": "คำนี้แปลว่าอะไร",
       "phonics": "/ˈmin/"
@@ -2668,16 +2668,16 @@
     },
     {
       "word": "meet",
-      "translation": "พบเจอ",
-      "example": "Let us meet at six.",
-      "exampleTranslation": "มาพบกันตอนหกโมงเย็น",
+      "translation": "พบ, เจอ",
+      "example": "I meet my friends at the cafe every Friday.",
+      "exampleTranslation": "ฉันเจอเพื่อนๆ ที่ร้านกาแฟทุกวันศุกร์",
       "phonics": "/ˈmit/"
     },
     {
       "word": "meeting",
       "translation": "การประชุม",
-      "example": "The meeting lasts two hours.",
-      "exampleTranslation": "การประชุมใช้เวลาสองชั่วโมง",
+      "example": "The team meeting lasts two hours.",
+      "exampleTranslation": "การประชุมทีมใช้เวลาสองชั่วโมง",
       "phonics": "/ˈmitɪŋ/"
     },
     {
@@ -2718,8 +2718,8 @@
     {
       "word": "mile",
       "translation": "ไมล์",
-      "example": "We walk three miles.",
-      "exampleTranslation": "เราเดินสามไมล์",
+      "example": "We walk three miles to the lake.",
+      "exampleTranslation": "เราเดินสามไมล์ไปที่ทะเลสาบ",
       "phonics": "/ˈmaɪl/"
     },
     {
@@ -2731,7 +2731,7 @@
     },
     {
       "word": "miss",
-      "translation": "คิดถึง",
+      "translation": "คิดถึง, พลาด",
       "example": "I miss my old school.",
       "exampleTranslation": "ฉันคิดถึงโรงเรียนเก่าของฉัน",
       "phonics": "/ˈmɪs/"
@@ -2739,15 +2739,15 @@
     {
       "word": "mistake",
       "translation": "ความผิดพลาด",
-      "example": "This is an honest mistake.",
-      "exampleTranslation": "นี่เป็นความผิดพลาดโดยไม่ตั้งใจ",
+      "example": "There is a mistake in my homework.",
+      "exampleTranslation": "ในการบ้านของฉันมีข้อผิดพลาดอยู่หนึ่งจุด",
       "phonics": "/mɪˈsteɪk/"
     },
     {
       "word": "model",
       "translation": "รุ่น, แบบ",
-      "example": "This model is cheaper.",
-      "exampleTranslation": "รุ่นนี้ราคาถูกกว่า",
+      "example": "This model of phone is cheaper.",
+      "exampleTranslation": "โทรศัพท์รุ่นนี้ราคาถูกกว่า",
       "phonics": "/ˈmɑdəl/"
     },
     {
@@ -2759,9 +2759,9 @@
     },
     {
       "word": "moment",
-      "translation": "ชั่วขณะ",
-      "example": "Wait a moment, please.",
-      "exampleTranslation": "กรุณารอสักครู่",
+      "translation": "ครู่, ขณะ",
+      "example": "The doctor will see you in a moment.",
+      "exampleTranslation": "หมอจะตรวจคุณในอีกสักครู่",
       "phonics": "/ˈmoʊmənt/"
     },
     {
@@ -2774,8 +2774,8 @@
     {
       "word": "month",
       "translation": "เดือน",
-      "example": "The rent is due every month.",
-      "exampleTranslation": "ต้องจ่ายค่าเช่าทุกเดือน",
+      "example": "I pay the rent every month.",
+      "exampleTranslation": "ฉันจ่ายค่าเช่าทุกเดือน",
       "phonics": "/ˈmənθ/"
     },
     {
@@ -2795,8 +2795,8 @@
     {
       "word": "mountain",
       "translation": "ภูเขา",
-      "example": "The mountain is covered in snow.",
-      "exampleTranslation": "ภูเขาปกคลุมไปด้วยหิมะ",
+      "example": "Snow covers the top of the mountain.",
+      "exampleTranslation": "หิมะปกคลุมยอดภูเขา",
       "phonics": "/ˈmaʊntən/"
     },
     {
@@ -2809,13 +2809,13 @@
     {
       "word": "mouth",
       "translation": "ปาก",
-      "example": "She covers her mouth.",
-      "exampleTranslation": "เธอปิดปากของเธอ",
+      "example": "She covers her mouth when she coughs.",
+      "exampleTranslation": "เธอปิดปากเวลาไอ",
       "phonics": "/ˈmaʊθ/"
     },
     {
       "word": "move",
-      "translation": "ย้าย",
+      "translation": "ย้าย, เคลื่อนที่",
       "example": "They move to a bigger flat.",
       "exampleTranslation": "พวกเขาย้ายไปอยู่แฟลตที่ใหญ่กว่า",
       "phonics": "/ˈmuv/"
@@ -2829,7 +2829,7 @@
     },
     {
       "word": "mum",
-      "translation": "แม่ (ภาษาพูด)",
+      "translation": "แม่",
       "example": "My mum works nights.",
       "exampleTranslation": "แม่ของฉันทำงานกะกลางคืน",
       "phonics": "/ˈməm/"
@@ -2851,29 +2851,29 @@
     {
       "word": "name",
       "translation": "ชื่อ",
-      "example": "Please write your name at the top.",
-      "exampleTranslation": "กรุณาเขียนชื่อของคุณไว้ด้านบน",
+      "example": "The teacher writes my name on the board.",
+      "exampleTranslation": "ครูเขียนชื่อของฉันบนกระดาน",
       "phonics": "/ˈneɪm/"
     },
     {
       "word": "natural",
-      "translation": "ตามธรรมชาติ",
-      "example": "This is a natural feeling.",
-      "exampleTranslation": "เป็นเรื่องธรรมชาติที่จะรู้สึกแบบนี้",
+      "translation": "เป็นธรรมชาติ, ตามธรรมชาติ",
+      "example": "Her hair colour is natural.",
+      "exampleTranslation": "สีผมของเธอเป็นสีธรรมชาติ",
       "phonics": "/ˈnætʃɝəl/, /ˈnætʃrəl/"
     },
     {
       "word": "near",
       "translation": "ใกล้",
-      "example": "The station is quite near.",
-      "exampleTranslation": "สถานีอยู่ใกล้พอสมควร",
+      "example": "The station is near my house.",
+      "exampleTranslation": "สถานีอยู่ใกล้บ้านของฉัน",
       "phonics": "/ˈnɪr/"
     },
     {
       "word": "negative",
       "translation": "เชิงลบ",
-      "example": "His answer is negative.",
-      "exampleTranslation": "คำตอบของเขาเป็นเชิงลบ",
+      "example": "He always has negative thoughts.",
+      "exampleTranslation": "เขามีความคิดเชิงลบอยู่เสมอ",
       "phonics": "/ˈnɛɡətɪv/"
     },
     {
@@ -2920,9 +2920,9 @@
     },
     {
       "word": "nice",
-      "translation": "ดี, น่าพอใจ",
-      "example": "This is a nice gift.",
-      "exampleTranslation": "นี่เป็นของขวัญที่ดี",
+      "translation": "ดี, น่ารัก, ใจดี",
+      "example": "My neighbour is a nice man.",
+      "exampleTranslation": "เพื่อนบ้านของฉันเป็นผู้ชายที่ใจดี",
       "phonics": "/ˈnaɪs/, /ˈnis/"
     },
     {
@@ -2956,13 +2956,13 @@
     {
       "word": "nose",
       "translation": "จมูก",
-      "example": "His nose is cold today.",
-      "exampleTranslation": "วันนี้จมูกของเขาเย็น",
+      "example": "The dog has a black nose.",
+      "exampleTranslation": "สุนัขตัวนั้นมีจมูกสีดำ",
       "phonics": "/ˈnoʊz/"
     },
     {
       "word": "note",
-      "translation": "บันทึกข้อความ",
+      "translation": "โน้ต, ข้อความสั้นๆ",
       "example": "She leaves a note on the table.",
       "exampleTranslation": "เธอเขียนโน้ตทิ้งไว้บนโต๊ะ",
       "phonics": "/ˈnoʊt/"
@@ -2970,8 +2970,8 @@
     {
       "word": "now",
       "translation": "ตอนนี้",
-      "example": "I need help now.",
-      "exampleTranslation": "ตอนนี้ฉันต้องการความช่วยเหลือ",
+      "example": "She is at home now.",
+      "exampleTranslation": "ตอนนี้เธออยู่บ้าน",
       "phonics": "/ˈnaʊ/"
     },
     {
@@ -2997,7 +2997,7 @@
     },
     {
       "word": "o’clock",
-      "translation": "นาฬิกา (บอกเวลา)",
+      "translation": "โมง, นาฬิกา",
       "example": "The train leaves at six o’clock.",
       "exampleTranslation": "รถไฟออกตอนหกโมงตรง",
       "phonics": "/əˈklɑk/"
@@ -3018,7 +3018,7 @@
     },
     {
       "word": "old",
-      "translation": "เก่า",
+      "translation": "เก่า, แก่",
       "example": "This building is very old.",
       "exampleTranslation": "อาคารหลังนี้เก่ามาก",
       "phonics": "/ˈoʊld/"
@@ -3026,8 +3026,8 @@
     {
       "word": "onion",
       "translation": "หัวหอม",
-      "example": "Chop one onion finely.",
-      "exampleTranslation": "หั่นหัวหอมให้ละเอียด",
+      "example": "My mother chops one onion finely.",
+      "exampleTranslation": "แม่สับหัวหอมหนึ่งหัวจนละเอียด",
       "phonics": "/ˈənjən/"
     },
     {
@@ -3061,13 +3061,13 @@
     {
       "word": "orange",
       "translation": "ส้ม",
-      "example": "She eats an orange.",
-      "exampleTranslation": "เธอกินส้ม",
+      "example": "She eats an orange after lunch.",
+      "exampleTranslation": "เธอกินส้มหลังมื้อกลางวัน",
       "phonics": "/ˈɔrəndʒ/, /ˈɔrɪndʒ/"
     },
     {
       "word": "order",
-      "translation": "สั่งอาหาร",
+      "translation": "สั่ง, ลำดับ, คำสั่ง",
       "example": "He orders soup and bread.",
       "exampleTranslation": "เขาสั่งซุปกับขนมปัง",
       "phonics": "/ˈɔrdɝ/"
@@ -3075,13 +3075,13 @@
     {
       "word": "outside",
       "translation": "ข้างนอก",
-      "example": "Wait outside, please.",
-      "exampleTranslation": "รอข้างนอกด้วย",
+      "example": "The children play outside after school.",
+      "exampleTranslation": "เด็กๆ เล่นข้างนอกหลังเลิกเรียน",
       "phonics": "/ˈaʊtˈsaɪd/"
     },
     {
       "word": "page",
-      "translation": "หน้ากระดาษ",
+      "translation": "หน้า",
       "example": "The answer is on page ten.",
       "exampleTranslation": "คำตอบอยู่หน้าสิบ",
       "phonics": "/ˈpeɪdʒ/"
@@ -3095,7 +3095,7 @@
     },
     {
       "word": "painting",
-      "translation": "ภาพวาดระบายสี",
+      "translation": "ภาพวาด, ภาพเขียน",
       "example": "The painting hangs by the stairs.",
       "exampleTranslation": "ภาพวาดแขวนอยู่ข้างบันได",
       "phonics": "/ˈpeɪntɪŋ/"
@@ -3110,15 +3110,15 @@
     {
       "word": "paper",
       "translation": "กระดาษ",
-      "example": "Write it on paper first.",
-      "exampleTranslation": "เขียนลงกระดาษก่อน",
+      "example": "He writes the answer on paper first.",
+      "exampleTranslation": "เขาเขียนคำตอบลงกระดาษก่อน",
       "phonics": "/ˈpeɪpɝ/"
     },
     {
       "word": "paragraph",
       "translation": "ย่อหน้า",
-      "example": "The last paragraph is unclear.",
-      "exampleTranslation": "ย่อหน้าสุดท้ายไม่ชัดเจน",
+      "example": "The last paragraph of the letter is unclear.",
+      "exampleTranslation": "ย่อหน้าสุดท้ายของจดหมายไม่ชัดเจน",
       "phonics": "/ˈpærəˌɡræf/, /ˈpɛrəˌɡræf/"
     },
     {
@@ -3137,9 +3137,9 @@
     },
     {
       "word": "part",
-      "translation": "ส่วนหนึ่ง",
-      "example": "This part is difficult.",
-      "exampleTranslation": "ส่วนนี้ยาก",
+      "translation": "ส่วน",
+      "example": "The first part of the book is difficult.",
+      "exampleTranslation": "ส่วนแรกของหนังสือเล่มนี้ยาก",
       "phonics": "/ˈpɑrt/"
     },
     {
@@ -3159,8 +3159,8 @@
     {
       "word": "passport",
       "translation": "หนังสือเดินทาง",
-      "example": "Keep your passport in your bag.",
-      "exampleTranslation": "เก็บหนังสือเดินทางไว้ในกระเป๋าของคุณ",
+      "example": "She keeps her passport in her bag.",
+      "exampleTranslation": "เธอเก็บหนังสือเดินทางไว้ในกระเป๋า",
       "phonics": "/ˈpæsˌpɔrt/"
     },
     {
@@ -3172,7 +3172,7 @@
     },
     {
       "word": "pay",
-      "translation": "จ่ายเงิน",
+      "translation": "จ่าย, จ่ายเงิน",
       "example": "I pay for lunch today.",
       "exampleTranslation": "วันนี้ฉันจ่ายค่าข้าวเที่ยง",
       "phonics": "/ˈpeɪ/"
@@ -3187,8 +3187,8 @@
     {
       "word": "pencil",
       "translation": "ดินสอ",
-      "example": "Use a pencil for the test.",
-      "exampleTranslation": "ใช้ดินสอทำข้อสอบ",
+      "example": "Students use a pencil for the test.",
+      "exampleTranslation": "นักเรียนใช้ดินสอทำข้อสอบ",
       "phonics": "/ˈpɛnsəl/"
     },
     {
@@ -3201,29 +3201,29 @@
     {
       "word": "pepper",
       "translation": "พริกไทย",
-      "example": "Add salt and pepper.",
-      "exampleTranslation": "เติมเกลือกับพริกไทย",
+      "example": "He adds salt and pepper to the soup.",
+      "exampleTranslation": "เขาเติมเกลือกับพริกไทยลงในซุป",
       "phonics": "/ˈpɛpɝ/"
     },
     {
       "word": "perfect",
       "translation": "สมบูรณ์แบบ",
-      "example": "The weather is perfect today.",
-      "exampleTranslation": "วันนี้อากาศสมบูรณ์แบบ",
+      "example": "Her English is perfect.",
+      "exampleTranslation": "ภาษาอังกฤษของเธอสมบูรณ์แบบ",
       "phonics": "/ˈpɝˌfɪkt/, /pɝˈfɛkt/"
     },
     {
       "word": "period",
       "translation": "ช่วงเวลา",
-      "example": "This is a difficult period.",
-      "exampleTranslation": "นี่เป็นช่วงเวลาที่ยาก",
+      "example": "Winter is a busy period for the shop.",
+      "exampleTranslation": "ฤดูหนาวเป็นช่วงเวลาที่ร้านยุ่งมาก",
       "phonics": "/ˈpɪriəd/"
     },
     {
       "word": "person",
-      "translation": "บุคคล",
-      "example": "Only one person answers.",
-      "exampleTranslation": "มีคนเดียวที่ตอบ",
+      "translation": "คน, บุคคล",
+      "example": "She is a very kind person.",
+      "exampleTranslation": "เธอเป็นคนใจดีมาก",
       "phonics": "/ˈpɝsən/"
     },
     {
@@ -3250,8 +3250,8 @@
     {
       "word": "phrase",
       "translation": "วลี",
-      "example": "That phrase is hard to translate.",
-      "exampleTranslation": "วลีนั้นแปลยาก",
+      "example": "This phrase is hard to translate into Thai.",
+      "exampleTranslation": "วลีนี้แปลเป็นภาษาไทยยาก",
       "phonics": "/ˈfreɪz/"
     },
     {
@@ -3264,15 +3264,15 @@
     {
       "word": "picture",
       "translation": "รูปภาพ",
-      "example": "The picture is crooked.",
-      "exampleTranslation": "รูปภาพนี้เอียง",
+      "example": "The picture on the wall is crooked.",
+      "exampleTranslation": "รูปภาพบนผนังเอียง",
       "phonics": "/ˈpɪktʃɝ/"
     },
     {
       "word": "piece",
       "translation": "ชิ้น",
-      "example": "Take one piece each.",
-      "exampleTranslation": "หยิบคนละหนึ่งชิ้น",
+      "example": "Each child takes one piece of cake.",
+      "exampleTranslation": "เด็กแต่ละคนหยิบเค้กไปคนละชิ้น",
       "phonics": "/ˈpis/"
     },
     {
@@ -3292,83 +3292,83 @@
     {
       "word": "pizza",
       "translation": "พิซซ่า",
-      "example": "We share a large pizza.",
-      "exampleTranslation": "เราแบ่งกินพิซซ่าถาดใหญ่",
+      "example": "We share a large pizza with our friends.",
+      "exampleTranslation": "เราแบ่งพิซซ่าถาดใหญ่กินกับเพื่อนๆ",
       "phonics": "/ˈpitsə/"
     },
     {
       "word": "place",
       "translation": "สถานที่",
-      "example": "This is a good place to stop.",
-      "exampleTranslation": "ที่นี่เป็นสถานที่ที่เหมาะจะแวะพัก",
+      "example": "This park is a good place for a picnic.",
+      "exampleTranslation": "สวนนี้เป็นสถานที่ที่เหมาะกับการปิกนิก",
       "phonics": "/ˈpleɪs/"
     },
     {
       "word": "plan",
       "translation": "แผน",
-      "example": "Our plan works very well.",
-      "exampleTranslation": "แผนของเราได้ผลดีมาก",
+      "example": "Our plan for the trip works very well.",
+      "exampleTranslation": "แผนการเที่ยวของเราได้ผลดีมาก",
       "phonics": "/ˈplæn/"
     },
     {
       "word": "plane",
       "translation": "เครื่องบิน",
       "example": "The plane is two hours late.",
-      "exampleTranslation": "เครื่องบินล่าช้าสองชั่วโมง",
+      "exampleTranslation": "เครื่องบินมาช้าไปสองชั่วโมง",
       "phonics": "/ˈpleɪn/"
     },
     {
       "word": "plant",
       "translation": "ต้นไม้, พืช",
-      "example": "Water the plant twice a week.",
-      "exampleTranslation": "รดน้ำต้นไม้สัปดาห์ละสองครั้ง",
+      "example": "She waters the plant twice a week.",
+      "exampleTranslation": "เธอรดน้ำต้นไม้สัปดาห์ละสองครั้ง",
       "phonics": "/ˈplænt/"
     },
     {
       "word": "play",
       "translation": "เล่น",
       "example": "The children play outside.",
-      "exampleTranslation": "เด็กๆเล่นข้างนอก",
+      "exampleTranslation": "เด็กๆ เล่นอยู่ข้างนอก",
       "phonics": "/ˈpleɪ/"
     },
     {
       "word": "player",
       "translation": "ผู้เล่น",
-      "example": "One player scores every game.",
-      "exampleTranslation": "ผู้เล่นคนหนึ่งทำประตูได้ทุกนัด",
+      "example": "The best player scores in every game.",
+      "exampleTranslation": "ผู้เล่นที่เก่งที่สุดทำประตูได้ทุกนัด",
       "phonics": "/ˈpleɪɝ/"
     },
     {
       "word": "point",
-      "translation": "ประเด็น",
-      "example": "He makes a good point.",
-      "exampleTranslation": "เขายกประเด็นที่ดีขึ้นมา",
+      "translation": "ประเด็น, จุด, คะแนน",
+      "example": "He makes a good point in the meeting.",
+      "exampleTranslation": "เขายกประเด็นที่ดีขึ้นมาในที่ประชุม",
       "phonics": "/ˈpɔɪnt/"
     },
     {
       "word": "police",
       "translation": "ตำรวจ",
-      "example": "The police arrive quickly.",
-      "exampleTranslation": "ตำรวจมาถึงอย่างรวดเร็ว",
+      "example": "The police arrive at the accident quickly.",
+      "exampleTranslation": "ตำรวจมาถึงที่เกิดเหตุอย่างรวดเร็ว",
       "phonics": "/pəˈlis/"
     },
     {
       "word": "policeman",
-      "translation": "ตำรวจชาย",
+      "translation": "ตำรวจ, ตำรวจชาย",
       "example": "A policeman stops the car.",
-      "exampleTranslation": "ตำรวจชายเรียกให้รถหยุด",
+      "exampleTranslation": "ตำรวจเรียกให้รถหยุด",
       "phonics": "/pəˈlismən/"
     },
     {
       "word": "pool",
       "translation": "สระว่ายน้ำ",
-      "example": "The pool closes at eight.",
-      "exampleTranslation": "สระว่ายน้ำปิดตอนสองทุ่ม",
+      "example": "The hotel pool closes at eight.",
+      "exampleTranslation": "สระว่ายน้ำของโรงแรมปิดตอนสองทุ่ม",
       "phonics": "/ˈpul/"
     },
     {
       "word": "poor",
-      "translation": "จน",
+      "translation": "จน, น่าสงสาร, แย่",
       "example": "The village is very poor.",
       "exampleTranslation": "หมู่บ้านนี้ยากจนมาก",
       "phonics": "/ˈpur/"
@@ -3376,50 +3376,50 @@
     {
       "word": "popular",
       "translation": "เป็นที่นิยม",
-      "example": "That song is very popular.",
-      "exampleTranslation": "เพลงนั้นเป็นที่นิยมมาก",
+      "example": "That song is very popular with young people.",
+      "exampleTranslation": "เพลงนั้นดังมากในหมู่วัยรุ่น",
       "phonics": "/ˈpɑpjəlɝ/"
     },
     {
       "word": "positive",
       "translation": "เชิงบวก",
-      "example": "The result is positive.",
-      "exampleTranslation": "ผลลัพธ์เป็นเชิงบวก",
+      "example": "She always has a positive attitude.",
+      "exampleTranslation": "เธอมีทัศนคติเชิงบวกเสมอ",
       "phonics": "/ˈpɑzətɪv/"
     },
     {
       "word": "possible",
       "translation": "เป็นไปได้",
-      "example": "It is possible but unlikely.",
-      "exampleTranslation": "เป็นไปได้แต่ไม่น่าจะเกิดขึ้น",
+      "example": "It is possible to walk to the beach from here.",
+      "exampleTranslation": "จากตรงนี้เดินไปชายหาดได้",
       "phonics": "/ˈpɑsəbəl/"
     },
     {
       "word": "post",
-      "translation": "ส่งไปรษณีย์",
-      "example": "I post the letter today.",
-      "exampleTranslation": "วันนี้ฉันส่งจดหมายทางไปรษณีย์",
+      "translation": "ส่งทางไปรษณีย์, โพสต์",
+      "example": "I post the letter to my aunt today.",
+      "exampleTranslation": "วันนี้ฉันส่งจดหมายไปให้ป้าทางไปรษณีย์",
       "phonics": "/ˈpoʊst/"
     },
     {
       "word": "potato",
       "translation": "มันฝรั่ง",
-      "example": "Peel two potatoes.",
-      "exampleTranslation": "ปอกมันฝรั่งสองหัว",
+      "example": "My father peels two potatoes for dinner.",
+      "exampleTranslation": "พ่อปอกมันฝรั่งสองหัวไว้ทำอาหารเย็น",
       "phonics": "/pəˈteɪˌtoʊ/"
     },
     {
       "word": "pound",
       "translation": "ปอนด์",
-      "example": "The bag weighs one pound.",
-      "exampleTranslation": "กระเป๋าใบนี้หนักหนึ่งปอนด์",
+      "example": "This bag of rice weighs one pound.",
+      "exampleTranslation": "ข้าวถุงนี้หนักหนึ่งปอนด์",
       "phonics": "/ˈpaʊnd/"
     },
     {
       "word": "practice",
       "translation": "การฝึกฝน",
-      "example": "Practice makes it easier.",
-      "exampleTranslation": "การฝึกฝนทำให้ง่ายขึ้น",
+      "example": "Football practice is every Tuesday.",
+      "exampleTranslation": "ทุกวันอังคารมีการฝึกซ้อมฟุตบอล",
       "phonics": "/ˈpræktəs/, /ˈpræktɪs/"
     },
     {
@@ -3439,13 +3439,13 @@
     {
       "word": "prepare",
       "translation": "เตรียม",
-      "example": "Prepare the room before noon.",
-      "exampleTranslation": "เตรียมห้องให้เสร็จก่อนเที่ยง",
+      "example": "My mother prepares the room for our guests.",
+      "exampleTranslation": "แม่เตรียมห้องไว้ให้แขก",
       "phonics": "/priˈpɛr/"
     },
     {
       "word": "present",
-      "translation": "ของขวัญ",
+      "translation": "ของขวัญ, ปัจจุบัน",
       "example": "She gives him a present.",
       "exampleTranslation": "เธอให้ของขวัญเขา",
       "phonics": "/ˈprɛzənt/, /pɝˈzɛnt/"
@@ -3454,19 +3454,19 @@
       "word": "pretty",
       "translation": "สวย, น่ารัก",
       "example": "The garden is very pretty.",
-      "exampleTranslation": "สวนนี้สวยมาก",
+      "exampleTranslation": "สวนนี้สวยมากเลย",
       "phonics": "/ˈprɪti/"
     },
     {
       "word": "price",
       "translation": "ราคา",
-      "example": "The price is very high.",
-      "exampleTranslation": "ราคานี้สูงมาก",
+      "example": "The price of this bag is very high.",
+      "exampleTranslation": "กระเป๋าใบนี้ราคาสูงมาก",
       "phonics": "/ˈpraɪs/"
     },
     {
       "word": "probably",
-      "translation": "คงจะ",
+      "translation": "คงจะ, น่าจะ",
       "example": "He probably works on Sundays.",
       "exampleTranslation": "เขาคงจะทำงานวันอาทิตย์",
       "phonics": "/ˈprɑbəˌbli/, /ˈprɑbli/"
@@ -3474,29 +3474,29 @@
     {
       "word": "problem",
       "translation": "ปัญหา",
-      "example": "We solve the problem together.",
-      "exampleTranslation": "เราแก้ปัญหาด้วยกัน",
+      "example": "We solve the problem with the car together.",
+      "exampleTranslation": "เราช่วยกันแก้ปัญหาเรื่องรถ",
       "phonics": "/ˈprɑbləm/"
     },
     {
       "word": "product",
       "translation": "ผลิตภัณฑ์",
-      "example": "The product sells well.",
-      "exampleTranslation": "สินค้านี้ขายดี",
+      "example": "This new product sells very well.",
+      "exampleTranslation": "ผลิตภัณฑ์ใหม่นี้ขายดีมาก",
       "phonics": "/ˈprɑdəkt/"
     },
     {
       "word": "programme",
-      "translation": "รายการ",
-      "example": "The programme lasts an hour.",
-      "exampleTranslation": "รายการนี้ใช้เวลาหนึ่งชั่วโมง",
+      "translation": "รายการ, โครงการ",
+      "example": "This TV programme lasts an hour.",
+      "exampleTranslation": "รายการทีวีนี้ยาวหนึ่งชั่วโมง",
       "phonics": "/ˈproʊˌɡræm/"
     },
     {
       "word": "project",
       "translation": "โครงการ",
-      "example": "The project runs until March.",
-      "exampleTranslation": "โครงการนี้ดำเนินไปจนถึงเดือนมีนาคม",
+      "example": "The school project runs until March.",
+      "exampleTranslation": "โครงการของโรงเรียนดำเนินไปจนถึงเดือนมีนาคม",
       "phonics": "/ˈprɑdʒɛkt/, /prəˈdʒɛkt/"
     },
     {
@@ -3508,9 +3508,9 @@
     },
     {
       "word": "put",
-      "translation": "วาง",
-      "example": "Put the box on the shelf.",
-      "exampleTranslation": "วางกล่องไว้บนชั้น",
+      "translation": "วาง, ใส่",
+      "example": "She puts the box on the shelf.",
+      "exampleTranslation": "เธอวางกล่องไว้บนชั้น",
       "phonics": "/ˈpʊt/"
     },
     {
@@ -3529,9 +3529,9 @@
     },
     {
       "word": "quick",
-      "translation": "รวดเร็ว",
-      "example": "That is a quick answer.",
-      "exampleTranslation": "ตอบได้เร็วมาก",
+      "translation": "เร็ว, รวดเร็ว",
+      "example": "He gives a quick answer to the question.",
+      "exampleTranslation": "เขาตอบคำถามได้อย่างรวดเร็ว",
       "phonics": "/ˈkwɪk/"
     },
     {
@@ -3543,7 +3543,7 @@
     },
     {
       "word": "quite",
-      "translation": "ค่อนข้างจะ",
+      "translation": "ค่อนข้าง",
       "example": "The room is quite small.",
       "exampleTranslation": "ห้องนี้ค่อนข้างเล็ก",
       "phonics": "/ˈkwaɪt/"
@@ -3558,15 +3558,15 @@
     {
       "word": "radio",
       "translation": "วิทยุ",
-      "example": "The radio is on all night.",
-      "exampleTranslation": "วิทยุเปิดอยู่ตลอดทั้งคืน",
+      "example": "The radio in the kitchen is on all day.",
+      "exampleTranslation": "วิทยุในครัวเปิดอยู่ทั้งวัน",
       "phonics": "/ˈreɪdiˌoʊ/"
     },
     {
       "word": "rain",
       "translation": "ฝน",
       "example": "The rain starts at noon.",
-      "exampleTranslation": "ฝนเริ่มตกตอนเที่ยงวัน",
+      "exampleTranslation": "ฝนเริ่มตกตอนเที่ยง",
       "phonics": "/ˈreɪn/"
     },
     {
@@ -3579,22 +3579,22 @@
     {
       "word": "reader",
       "translation": "ผู้อ่าน",
-      "example": "A reader writes to complain.",
-      "exampleTranslation": "ผู้อ่านคนหนึ่งเขียนมาต่อว่า",
+      "example": "A reader writes to the newspaper to complain.",
+      "exampleTranslation": "ผู้อ่านคนหนึ่งเขียนจดหมายมาต่อว่าหนังสือพิมพ์",
       "phonics": "/ˈridɝ/"
     },
     {
       "word": "ready",
       "translation": "พร้อม",
-      "example": "Dinner is ready.",
-      "exampleTranslation": "อาหารเย็นพร้อมแล้ว",
+      "example": "Dinner is ready on the table.",
+      "exampleTranslation": "อาหารเย็นพร้อมอยู่บนโต๊ะแล้ว",
       "phonics": "/ˈrɛdi/"
     },
     {
       "word": "real",
       "translation": "ของจริง, แท้",
-      "example": "Is that a real diamond?",
-      "exampleTranslation": "นั่นเป็นเพชรของจริงหรือเปล่า",
+      "example": "Her ring has a real diamond.",
+      "exampleTranslation": "แหวนของเธอเป็นเพชรแท้",
       "phonics": "/ˈril/"
     },
     {
@@ -3627,23 +3627,23 @@
     },
     {
       "word": "remember",
-      "translation": "จำได้",
+      "translation": "จำได้, นึกออก",
       "example": "I remember his face.",
       "exampleTranslation": "ฉันจำใบหน้าของเขาได้",
       "phonics": "/riˈmɛmbɝ/, /rɪˈmɛmbɝ/"
     },
     {
       "word": "repeat",
-      "translation": "พูดซ้ำ",
-      "example": "Please repeat the question.",
-      "exampleTranslation": "กรุณาพูดคำถามซ้ำอีกครั้ง",
+      "translation": "พูดซ้ำ, ทำซ้ำ",
+      "example": "The teacher repeats the question.",
+      "exampleTranslation": "ครูพูดคำถามซ้ำอีกครั้ง",
       "phonics": "/riˈpit/, /rɪˈpit/"
     },
     {
       "word": "report",
       "translation": "รายงาน",
-      "example": "She writes the report alone.",
-      "exampleTranslation": "เธอเขียนรายงานคนเดียว",
+      "example": "She writes the report for her boss alone.",
+      "exampleTranslation": "เธอเขียนรายงานให้หัวหน้าคนเดียว",
       "phonics": "/riˈpɔrt/, /rɪˈpɔrt/"
     },
     {
@@ -3656,15 +3656,15 @@
     {
       "word": "result",
       "translation": "ผลลัพธ์",
-      "example": "The result surprises everyone.",
-      "exampleTranslation": "ผลลัพธ์ทำให้ทุกคนแปลกใจ",
+      "example": "The result of the game surprises everyone.",
+      "exampleTranslation": "ผลการแข่งขันทำให้ทุกคนแปลกใจ",
       "phonics": "/riˈzəlt/, /rɪˈzəlt/"
     },
     {
       "word": "return",
-      "translation": "กลับมา",
-      "example": "They return on Sunday.",
-      "exampleTranslation": "พวกเขากลับมาวันอาทิตย์",
+      "translation": "กลับมา, คืน",
+      "example": "They return from their holiday on Sunday.",
+      "exampleTranslation": "พวกเขากลับจากวันหยุดในวันอาทิตย์",
       "phonics": "/riˈtɝn/, /rɪˈtɝn/"
     },
     {
@@ -3690,9 +3690,9 @@
     },
     {
       "word": "right",
-      "translation": "สิทธิ",
-      "example": "Every worker has that right.",
-      "exampleTranslation": "คนงานทุกคนมีสิทธินั้น",
+      "translation": "ขวา, ถูกต้อง, สิทธิ",
+      "example": "The bank is on the right side of the road.",
+      "exampleTranslation": "ธนาคารอยู่ด้านขวาของถนน",
       "phonics": "/ˈraɪt/"
     },
     {
@@ -3704,9 +3704,9 @@
     },
     {
       "word": "road",
-      "translation": "ถนนสายหลัก",
+      "translation": "ถนน",
       "example": "The road is closed for repairs.",
-      "exampleTranslation": "ถนนสายนี้ปิดเพื่อซ่อมแซม",
+      "exampleTranslation": "ถนนสายนี้ปิดซ่อม",
       "phonics": "/ˈroʊd/"
     },
     {
@@ -3719,20 +3719,20 @@
     {
       "word": "routine",
       "translation": "กิจวัตร",
-      "example": "Her morning routine is fixed.",
-      "exampleTranslation": "กิจวัตรตอนเช้าของเธอตายตัว",
+      "example": "Her morning routine starts with coffee.",
+      "exampleTranslation": "กิจวัตรตอนเช้าของเธอเริ่มต้นด้วยกาแฟ",
       "phonics": "/ruˈtin/"
     },
     {
       "word": "rule",
       "translation": "กฎ",
-      "example": "Everyone follows the same rule.",
-      "exampleTranslation": "ทุกคนทำตามกฎเดียวกัน",
+      "example": "Everyone at school follows the same rule.",
+      "exampleTranslation": "ทุกคนในโรงเรียนทำตามกฎเดียวกัน",
       "phonics": "/ˈrul/"
     },
     {
       "word": "run",
-      "translation": "วิ่ง",
+      "translation": "วิ่ง, ดำเนินการ",
       "example": "She runs every morning.",
       "exampleTranslation": "เธอวิ่งทุกเช้า",
       "phonics": "/ˈrən/"
@@ -3740,8 +3740,8 @@
     {
       "word": "sad",
       "translation": "เศร้า",
-      "example": "The ending is sad.",
-      "exampleTranslation": "ตอนจบเรื่องนี้เศร้า",
+      "example": "The ending of the film is sad.",
+      "exampleTranslation": "ตอนจบของหนังเรื่องนี้เศร้ามาก",
       "phonics": "/ˈsæd/"
     },
     {
@@ -3754,8 +3754,8 @@
     {
       "word": "salt",
       "translation": "เกลือ",
-      "example": "There is too much salt.",
-      "exampleTranslation": "มีเกลือเยอะเกินไป",
+      "example": "There is too much salt in the soup.",
+      "exampleTranslation": "ในซุปมีเกลือเยอะเกินไป",
       "phonics": "/ˈsɔlt/"
     },
     {
@@ -3767,9 +3767,9 @@
     },
     {
       "word": "say",
-      "translation": "บอก",
+      "translation": "พูด, บอก",
       "example": "He does not say much.",
-      "exampleTranslation": "เขาไม่ค่อยพูดอะไรมาก",
+      "exampleTranslation": "เขาไม่ค่อยพูดอะไร",
       "phonics": "/ˈseɪ/"
     },
     {
@@ -3789,8 +3789,8 @@
     {
       "word": "scientist",
       "translation": "นักวิทยาศาสตร์",
-      "example": "A scientist explains the result.",
-      "exampleTranslation": "นักวิทยาศาสตร์อธิบายผลลัพธ์",
+      "example": "The scientist explains the result to the class.",
+      "exampleTranslation": "นักวิทยาศาสตร์อธิบายผลลัพธ์ให้นักเรียนฟัง",
       "phonics": "/ˈsaɪəntɪst/"
     },
     {
@@ -3803,13 +3803,13 @@
     {
       "word": "section",
       "translation": "ส่วน, ตอน",
-      "example": "The last section is missing.",
-      "exampleTranslation": "ส่วนสุดท้ายหายไป",
+      "example": "The last section of the book is missing.",
+      "exampleTranslation": "ส่วนสุดท้ายของหนังสือหายไป",
       "phonics": "/ˈsɛkʃən/"
     },
     {
       "word": "see",
-      "translation": "เห็น",
+      "translation": "เห็น, ดู",
       "example": "I see the sea from here.",
       "exampleTranslation": "ฉันเห็นทะเลจากตรงนี้",
       "phonics": "/ˈsi/"
@@ -3824,15 +3824,15 @@
     {
       "word": "send",
       "translation": "ส่ง",
-      "example": "Please send the file today.",
-      "exampleTranslation": "กรุณาส่งไฟล์ภายในวันนี้",
+      "example": "She sends the file to her teacher today.",
+      "exampleTranslation": "วันนี้เธอส่งไฟล์ให้ครู",
       "phonics": "/ˈsɛnd/"
     },
     {
       "word": "sentence",
       "translation": "ประโยค",
-      "example": "Write one sentence only.",
-      "exampleTranslation": "เขียนแค่หนึ่งประโยค",
+      "example": "The students write one sentence about their family.",
+      "exampleTranslation": "นักเรียนเขียนประโยคเกี่ยวกับครอบครัวคนละหนึ่งประโยค",
       "phonics": "/ˈsɛntəns/"
     },
     {
@@ -3845,8 +3845,8 @@
     {
       "word": "sheep",
       "translation": "แกะ",
-      "example": "The sheep stays near the wall.",
-      "exampleTranslation": "แกะอยู่ใกล้กำแพง",
+      "example": "The sheep stay near the wall.",
+      "exampleTranslation": "ฝูงแกะอยู่ใกล้กำแพง",
       "phonics": "/ˈʃip/"
     },
     {
@@ -3859,8 +3859,8 @@
     {
       "word": "shoe",
       "translation": "รองเท้า",
-      "example": "One shoe is under the bed.",
-      "exampleTranslation": "รองเท้าข้างหนึ่งอยู่ใต้เตียง",
+      "example": "His shoe is under the bed.",
+      "exampleTranslation": "รองเท้าของเขาอยู่ใต้เตียง",
       "phonics": "/ˈʃu/"
     },
     {
@@ -3873,20 +3873,20 @@
     {
       "word": "short",
       "translation": "สั้น",
-      "example": "He gives a short answer.",
-      "exampleTranslation": "เขาให้คำตอบสั้นๆ",
+      "example": "He gives a short answer to every question.",
+      "exampleTranslation": "เขาตอบทุกคำถามสั้นๆ",
       "phonics": "/ˈʃɔrt/"
     },
     {
       "word": "show",
-      "translation": "แสดงให้ดู",
-      "example": "Show me the photograph.",
-      "exampleTranslation": "เอารูปถ่ายมาให้ฉันดูหน่อย",
+      "translation": "แสดง, ให้ดู, การแสดง",
+      "example": "She shows me a photograph of her family.",
+      "exampleTranslation": "เธอเอารูปครอบครัวมาให้ฉันดู",
       "phonics": "/ˈʃoʊ/"
     },
     {
       "word": "shower",
-      "translation": "การอาบน้ำฝักบัว",
+      "translation": "ฝักบัว, การอาบน้ำ",
       "example": "He takes a cold shower.",
       "exampleTranslation": "เขาอาบน้ำเย็น",
       "phonics": "/ˈʃaʊɝ/"
@@ -3921,7 +3921,7 @@
     },
     {
       "word": "sister",
-      "translation": "พี่สาว",
+      "translation": "พี่สาว, น้องสาว",
       "example": "Her sister lives abroad.",
       "exampleTranslation": "พี่สาวของเธออาศัยอยู่ต่างประเทศ",
       "phonics": "/ˈsɪstɝ/"
@@ -3929,15 +3929,15 @@
     {
       "word": "sit",
       "translation": "นั่ง",
-      "example": "Please sit here.",
-      "exampleTranslation": "กรุณานั่งตรงนี้",
+      "example": "The old man sits on the bench.",
+      "exampleTranslation": "ชายชรานั่งอยู่บนม้านั่ง",
       "phonics": "/ˈsɪt/"
     },
     {
       "word": "situation",
       "translation": "สถานการณ์",
-      "example": "The situation is improving.",
-      "exampleTranslation": "สถานการณ์กำลังดีขึ้น",
+      "example": "The situation in the city is improving.",
+      "exampleTranslation": "สถานการณ์ในเมืองกำลังดีขึ้น",
       "phonics": "/ˌsɪtʃuˈeɪʃən/"
     },
     {
@@ -3956,7 +3956,7 @@
     },
     {
       "word": "sleep",
-      "translation": "นอน",
+      "translation": "นอน, หลับ",
       "example": "The baby sleeps all afternoon.",
       "exampleTranslation": "ทารกนอนหลับทั้งบ่าย",
       "phonics": "/ˈslip/"
@@ -3986,7 +3986,7 @@
       "word": "snow",
       "translation": "หิมะ",
       "example": "The snow lasts three days.",
-      "exampleTranslation": "หิมะตกอยู่สามวัน",
+      "exampleTranslation": "หิมะตกนานสามวัน",
       "phonics": "/ˈsnoʊ/"
     },
     {
@@ -3999,15 +3999,15 @@
     {
       "word": "somebody",
       "translation": "ใครบางคน",
-      "example": "Somebody leaves the light on.",
-      "exampleTranslation": "ใครบางคนเปิดไฟทิ้งไว้",
+      "example": "Somebody leaves the light on every night.",
+      "exampleTranslation": "มีใครบางคนเปิดไฟทิ้งไว้ทุกคืน",
       "phonics": "/ˈsəmˌbɑdi/, /ˈsəmbəˌdi/"
     },
     {
       "word": "someone",
       "translation": "ใครบางคน",
-      "example": "Someone leaves a note here.",
-      "exampleTranslation": "ใครบางคนทิ้งข้อความไว้ตรงนี้",
+      "example": "Someone leaves a note on my desk.",
+      "exampleTranslation": "มีใครบางคนทิ้งโน้ตไว้บนโต๊ะของฉัน",
       "phonics": "/ˈsəmˌwən/"
     },
     {
@@ -4040,9 +4040,9 @@
     },
     {
       "word": "soon",
-      "translation": "เร็วๆ นี้",
+      "translation": "เร็วๆ นี้, ในไม่ช้า",
       "example": "The train leaves soon.",
-      "exampleTranslation": "รถไฟจะออกในอีกไม่ช้า",
+      "exampleTranslation": "อีกไม่นานรถไฟจะออกแล้ว",
       "phonics": "/ˈsun/"
     },
     {
@@ -4068,9 +4068,9 @@
     },
     {
       "word": "space",
-      "translation": "พื้นที่ว่าง",
-      "example": "There is space for one more.",
-      "exampleTranslation": "มีพื้นที่ว่างสำหรับอีกหนึ่งคน",
+      "translation": "พื้นที่, ที่ว่าง, อวกาศ",
+      "example": "There is space for one more person in the car.",
+      "exampleTranslation": "ในรถมีที่ว่างสำหรับอีกหนึ่งคน",
       "phonics": "/ˈspeɪs/"
     },
     {
@@ -4083,22 +4083,22 @@
     {
       "word": "special",
       "translation": "พิเศษ",
-      "example": "Today is a special day.",
-      "exampleTranslation": "วันนี้เป็นวันพิเศษ",
+      "example": "Today is a special day for my family.",
+      "exampleTranslation": "วันนี้เป็นวันพิเศษของครอบครัวฉัน",
       "phonics": "/ˈspɛʃəl/"
     },
     {
       "word": "spell",
-      "translation": "สะกดคำ",
+      "translation": "สะกด",
       "example": "How do you spell your name?",
       "exampleTranslation": "คุณสะกดชื่อของคุณอย่างไร",
       "phonics": "/ˈspɛl/"
     },
     {
       "word": "spend",
-      "translation": "ใช้จ่าย",
-      "example": "They spend little on food.",
-      "exampleTranslation": "พวกเขาใช้จ่ายกับอาหารน้อย",
+      "translation": "ใช้จ่าย, ใช้เวลา",
+      "example": "They spend a lot of money on food.",
+      "exampleTranslation": "พวกเขาใช้เงินไปกับอาหารเยอะมาก",
       "phonics": "/ˈspɛnd/"
     },
     {
@@ -4118,29 +4118,29 @@
     {
       "word": "stand",
       "translation": "ยืน",
-      "example": "Please stand near the door.",
-      "exampleTranslation": "กรุณายืนใกล้ประตู",
+      "example": "The children stand near the door.",
+      "exampleTranslation": "เด็กๆ ยืนอยู่ใกล้ประตู",
       "phonics": "/ˈstænd/"
     },
     {
       "word": "star",
-      "translation": "ดวงดาว",
-      "example": "One star shines above the hill.",
-      "exampleTranslation": "มีดาวดวงหนึ่งส่องแสงอยู่เหนือเนินเขา",
+      "translation": "ดาว, ดารา",
+      "example": "I can see one bright star above the hill.",
+      "exampleTranslation": "ฉันเห็นดาวสว่างดวงหนึ่งอยู่เหนือเนินเขา",
       "phonics": "/ˈstɑr/"
     },
     {
       "word": "start",
       "translation": "เริ่ม",
-      "example": "The class starts at ten.",
-      "exampleTranslation": "ชั้นเรียนเริ่มตอนสิบโมง",
+      "example": "The English class starts at ten.",
+      "exampleTranslation": "ชั้นเรียนภาษาอังกฤษเริ่มตอนสิบโมง",
       "phonics": "/ˈstɑrt/"
     },
     {
       "word": "statement",
-      "translation": "คำแถลง",
-      "example": "His statement is short.",
-      "exampleTranslation": "คำแถลงของเขาสั้น",
+      "translation": "คำกล่าว, คำแถลง",
+      "example": "The police read his statement.",
+      "exampleTranslation": "ตำรวจอ่านคำให้การของเขา",
       "phonics": "/ˈsteɪtmənt/"
     },
     {
@@ -4152,21 +4152,21 @@
     },
     {
       "word": "stay",
-      "translation": "พักอยู่",
-      "example": "We stay two nights.",
-      "exampleTranslation": "เราพักอยู่สองคืน",
+      "translation": "พัก, อยู่",
+      "example": "We stay at a small hotel for two nights.",
+      "exampleTranslation": "เราพักที่โรงแรมเล็กๆ สองคืน",
       "phonics": "/ˈsteɪ/"
     },
     {
       "word": "stop",
-      "translation": "หยุด",
-      "example": "The bus stops here.",
-      "exampleTranslation": "รถบัสจอดที่นี่",
+      "translation": "หยุด, จอด",
+      "example": "The bus stops in front of my school.",
+      "exampleTranslation": "รถบัสจอดหน้าโรงเรียนของฉัน",
       "phonics": "/ˈstɑp/"
     },
     {
       "word": "story",
-      "translation": "เรื่องราว",
+      "translation": "เรื่อง, เรื่องราว",
       "example": "He tells us a funny story.",
       "exampleTranslation": "เขาเล่าเรื่องตลกให้เราฟัง",
       "phonics": "/ˈstɔri/"
@@ -4180,7 +4180,7 @@
     },
     {
       "word": "strong",
-      "translation": "แรง",
+      "translation": "แข็งแรง, แรง, เข้ม",
       "example": "The coffee here is very strong.",
       "exampleTranslation": "กาแฟที่นี่เข้มมาก",
       "phonics": "/ˈstrɔŋ/"
@@ -4188,15 +4188,15 @@
     {
       "word": "student",
       "translation": "นักเรียน",
-      "example": "Every student needs a pen.",
-      "exampleTranslation": "นักเรียนทุกคนต้องมีปากกา",
+      "example": "Every student needs a pen for the test.",
+      "exampleTranslation": "นักเรียนทุกคนต้องมีปากกาไว้ทำข้อสอบ",
       "phonics": "/ˈstudənt/"
     },
     {
       "word": "study",
       "translation": "ศึกษา, เรียน",
-      "example": "She studies at night.",
-      "exampleTranslation": "เธอเรียนตอนกลางคืน",
+      "example": "She studies English at night.",
+      "exampleTranslation": "เธอเรียนภาษาอังกฤษตอนกลางคืน",
       "phonics": "/ˈstədi/"
     },
     {
@@ -4215,28 +4215,28 @@
     },
     {
       "word": "success",
-      "translation": "ความสำเร็จที่ได้",
+      "translation": "ความสำเร็จ",
       "example": "The party is a big success.",
-      "exampleTranslation": "งานเลี้ยงนี้ประสบความสำเร็จอย่างมาก",
+      "exampleTranslation": "งานเลี้ยงนี้ประสบความสำเร็จมาก",
       "phonics": "/səkˈsɛs/"
     },
     {
       "word": "sugar",
       "translation": "น้ำตาล",
-      "example": "He takes no sugar.",
-      "exampleTranslation": "เขาไม่ใส่น้ำตาลเลย",
+      "example": "He never puts sugar in his coffee.",
+      "exampleTranslation": "เขาไม่เคยใส่น้ำตาลในกาแฟเลย",
       "phonics": "/ˈʃʊɡɝ/"
     },
     {
       "word": "summer",
       "translation": "ฤดูร้อน",
-      "example": "The summer is very hot.",
-      "exampleTranslation": "ฤดูร้อนนี้ร้อนมาก",
+      "example": "The summer here is very hot.",
+      "exampleTranslation": "หน้าร้อนที่นี่ร้อนมาก",
       "phonics": "/ˈsəmɝ/"
     },
     {
       "word": "sun",
-      "translation": "ดวงอาทิตย์",
+      "translation": "ดวงอาทิตย์, แดด",
       "example": "The sun is very strong today.",
       "exampleTranslation": "วันนี้แดดแรงมาก",
       "phonics": "/ˈsən/"
@@ -4244,15 +4244,15 @@
     {
       "word": "supermarket",
       "translation": "ซูเปอร์มาร์เก็ต",
-      "example": "The supermarket opens early.",
-      "exampleTranslation": "ซูเปอร์มาร์เก็ตเปิดแต่เช้า",
+      "example": "The supermarket opens at seven.",
+      "exampleTranslation": "ซูเปอร์มาร์เก็ตเปิดตอนเจ็ดโมงเช้า",
       "phonics": "/ˈsupɝˌmɑrkɪt/"
     },
     {
       "word": "sure",
       "translation": "แน่ใจ",
-      "example": "I am not sure about the time.",
-      "exampleTranslation": "ฉันไม่แน่ใจเรื่องเวลา",
+      "example": "I am not sure about the time of the meeting.",
+      "exampleTranslation": "ฉันไม่แน่ใจเรื่องเวลาประชุม",
       "phonics": "/ˈʃʊr/"
     },
     {
@@ -4272,27 +4272,27 @@
     {
       "word": "table",
       "translation": "โต๊ะ",
-      "example": "The keys are on the table.",
-      "exampleTranslation": "กุญแจอยู่บนโต๊ะ",
+      "example": "My keys are on the table.",
+      "exampleTranslation": "กุญแจของฉันอยู่บนโต๊ะ",
       "phonics": "/ˈteɪbəl/"
     },
     {
       "word": "take",
-      "translation": "เอาไป",
-      "example": "Take an umbrella with you.",
-      "exampleTranslation": "เอาร่มไปด้วย",
+      "translation": "เอาไป, หยิบ, ใช้เวลา, นั่ง",
+      "example": "She takes an umbrella to work.",
+      "exampleTranslation": "เธอเอาร่มไปที่ทำงานด้วย",
       "phonics": "/ˈteɪk/"
     },
     {
       "word": "talk",
-      "translation": "พูดคุย",
-      "example": "We talk for an hour.",
-      "exampleTranslation": "เราคุยกันหนึ่งชั่วโมง",
+      "translation": "คุย, พูด",
+      "example": "We talk on the phone for an hour.",
+      "exampleTranslation": "เราคุยโทรศัพท์กันหนึ่งชั่วโมง",
       "phonics": "/ˈtɔk/"
     },
     {
       "word": "tall",
-      "translation": "สูงโปร่ง",
+      "translation": "สูง",
       "example": "He is taller than his father.",
       "exampleTranslation": "เขาสูงกว่าพ่อของเขา",
       "phonics": "/ˈtɔl/"
@@ -4321,43 +4321,43 @@
     {
       "word": "teacher",
       "translation": "ครู",
-      "example": "The teacher asks a question.",
-      "exampleTranslation": "ครูถามคำถาม",
+      "example": "The teacher asks us a question.",
+      "exampleTranslation": "ครูถามคำถามพวกเรา",
       "phonics": "/ˈtitʃɝ/"
     },
     {
       "word": "team",
       "translation": "ทีม",
-      "example": "Our team wins on Sunday.",
-      "exampleTranslation": "วันอาทิตย์ทีมของเราชนะ",
+      "example": "Our team wins the game on Sunday.",
+      "exampleTranslation": "ทีมของเราชนะการแข่งขันวันอาทิตย์",
       "phonics": "/ˈtim/"
     },
     {
       "word": "teenager",
       "translation": "วัยรุ่น",
-      "example": "The teenager misses the bus.",
-      "exampleTranslation": "วัยรุ่นคนนั้นตกรถบัส",
+      "example": "The teenager misses the school bus.",
+      "exampleTranslation": "วัยรุ่นคนนั้นตกรถโรงเรียน",
       "phonics": "/ˈtiˌneɪdʒɝ/"
     },
     {
       "word": "telephone",
-      "translation": "โทรศัพท์บ้าน",
-      "example": "The telephone rings twice.",
-      "exampleTranslation": "โทรศัพท์ดังสองครั้ง",
+      "translation": "โทรศัพท์",
+      "example": "The telephone rings in the office.",
+      "exampleTranslation": "โทรศัพท์ในออฟฟิศดังขึ้น",
       "phonics": "/ˈtɛləˌfoʊn/"
     },
     {
       "word": "television",
       "translation": "โทรทัศน์",
-      "example": "The television is too loud.",
-      "exampleTranslation": "โทรทัศน์ดังเกินไป",
+      "example": "The television in the living room is too loud.",
+      "exampleTranslation": "โทรทัศน์ในห้องนั่งเล่นเสียงดังเกินไป",
       "phonics": "/ˈtɛləˌvɪʒən/"
     },
     {
       "word": "tell",
-      "translation": "บอกเล่า",
-      "example": "Tell me what happened.",
-      "exampleTranslation": "บอกฉันหน่อยว่าเกิดอะไรขึ้น",
+      "translation": "บอก, เล่า",
+      "example": "She tells me about her weekend.",
+      "exampleTranslation": "เธอเล่าเรื่องวันหยุดสุดสัปดาห์ให้ฉันฟัง",
       "phonics": "/ˈtɛl/"
     },
     {
@@ -4370,22 +4370,22 @@
     {
       "word": "terrible",
       "translation": "แย่มาก",
-      "example": "The weather is terrible today.",
-      "exampleTranslation": "วันนี้อากาศแย่มาก",
+      "example": "The food at that hotel is terrible.",
+      "exampleTranslation": "อาหารที่โรงแรมนั้นแย่มาก",
       "phonics": "/ˈtɛrəbəl/"
     },
     {
       "word": "test",
       "translation": "การทดสอบ",
-      "example": "The test is easy today.",
-      "exampleTranslation": "วันนี้ข้อสอบง่าย",
+      "example": "The maths test is easy today.",
+      "exampleTranslation": "วันนี้ข้อสอบคณิตศาสตร์ง่าย",
       "phonics": "/ˈtɛst/"
     },
     {
       "word": "text",
-      "translation": "ข้อความสั้น",
-      "example": "Send me a text tonight.",
-      "exampleTranslation": "คืนนี้ส่งข้อความสั้นมาให้ฉัน",
+      "translation": "ข้อความ, ส่งข้อความ",
+      "example": "My friend sends me a text every night.",
+      "exampleTranslation": "เพื่อนส่งข้อความหาฉันทุกคืน",
       "phonics": "/ˈtɛkst/"
     },
     {
@@ -4397,9 +4397,9 @@
     },
     {
       "word": "thing",
-      "translation": "สิ่งของ",
-      "example": "One thing still worries me.",
-      "exampleTranslation": "ยังมีสิ่งหนึ่งที่ทำให้ฉันกังวลอยู่",
+      "translation": "สิ่ง, ของ",
+      "example": "One thing about the trip still worries me.",
+      "exampleTranslation": "มีเรื่องหนึ่งเกี่ยวกับการเดินทางที่ยังทำให้ฉันกังวล",
       "phonics": "/ˈθɪŋ/"
     },
     {
@@ -4412,22 +4412,22 @@
     {
       "word": "thirsty",
       "translation": "กระหายน้ำ",
-      "example": "The children are thirsty now.",
-      "exampleTranslation": "ตอนนี้เด็กๆกระหายน้ำ",
+      "example": "The children are thirsty after the game.",
+      "exampleTranslation": "เด็กๆ กระหายน้ำหลังเล่นกีฬา",
       "phonics": "/ˈθɝsti/"
     },
     {
       "word": "ticket",
       "translation": "ตั๋ว",
-      "example": "I buy a ticket every week.",
-      "exampleTranslation": "ฉันซื้อตั๋วทุกสัปดาห์",
+      "example": "I buy a bus ticket every week.",
+      "exampleTranslation": "ฉันซื้อตั๋วรถบัสทุกสัปดาห์",
       "phonics": "/ˈtɪkət/, /ˈtɪkɪt/"
     },
     {
       "word": "time",
       "translation": "เวลา",
-      "example": "I have no time today.",
-      "exampleTranslation": "วันนี้ฉันไม่มีเวลา",
+      "example": "I have no time for lunch today.",
+      "exampleTranslation": "วันนี้ฉันไม่มีเวลากินข้าวเที่ยงเลย",
       "phonics": "/ˈtaɪm/"
     },
     {
@@ -4440,15 +4440,15 @@
     {
       "word": "title",
       "translation": "ชื่อเรื่อง",
-      "example": "The title is very short.",
-      "exampleTranslation": "ชื่อเรื่องสั้นมาก",
+      "example": "The title of the book is very short.",
+      "exampleTranslation": "ชื่อหนังสือเล่มนี้สั้นมาก",
       "phonics": "/ˈtaɪtəl/"
     },
     {
       "word": "today",
       "translation": "วันนี้",
-      "example": "Today is my last day.",
-      "exampleTranslation": "วันนี้เป็นวันสุดท้ายของฉัน",
+      "example": "Today is my last day at this school.",
+      "exampleTranslation": "วันนี้เป็นวันสุดท้ายของฉันที่โรงเรียนนี้",
       "phonics": "/təˈdeɪ/, /tuˈdeɪ/"
     },
     {
@@ -4460,16 +4460,16 @@
     },
     {
       "word": "toilet",
-      "translation": "ห้องสุขา",
-      "example": "The toilet is at the back.",
-      "exampleTranslation": "ห้องสุขาอยู่ด้านหลัง",
+      "translation": "ห้องน้ำ, ห้องสุขา",
+      "example": "The toilet is at the back of the shop.",
+      "exampleTranslation": "ห้องน้ำอยู่ด้านหลังร้าน",
       "phonics": "/ˈtɔɪlət/"
     },
     {
       "word": "tomato",
       "translation": "มะเขือเทศ",
-      "example": "Slice one tomato thinly.",
-      "exampleTranslation": "หั่นมะเขือเทศหนึ่งลูกเป็นชิ้นบางๆ",
+      "example": "She slices one tomato for the salad.",
+      "exampleTranslation": "เธอหั่นมะเขือเทศหนึ่งลูกใส่สลัด",
       "phonics": "/təˈmɑˌtoʊ/, /təˈmeɪˌtoʊ/"
     },
     {
@@ -4482,8 +4482,8 @@
     {
       "word": "tonight",
       "translation": "คืนนี้",
-      "example": "There is a concert tonight.",
-      "exampleTranslation": "คืนนี้มีคอนเสิร์ต",
+      "example": "There is a concert in the park tonight.",
+      "exampleTranslation": "คืนนี้มีคอนเสิร์ตในสวนสาธารณะ",
       "phonics": "/təˈnaɪt/, /tʊˈnaɪt/"
     },
     {
@@ -4496,22 +4496,22 @@
     {
       "word": "topic",
       "translation": "หัวข้อ",
-      "example": "The topic changes quickly.",
-      "exampleTranslation": "หัวข้อเปลี่ยนเร็วมาก",
+      "example": "The topic of today's lesson is food.",
+      "exampleTranslation": "หัวข้อของบทเรียนวันนี้คืออาหาร",
       "phonics": "/ˈtɑpɪk/"
     },
     {
       "word": "tourist",
       "translation": "นักท่องเที่ยว",
-      "example": "A tourist asks for directions.",
-      "exampleTranslation": "นักท่องเที่ยวถามทาง",
+      "example": "A tourist asks me for directions.",
+      "exampleTranslation": "นักท่องเที่ยวคนหนึ่งถามทางฉัน",
       "phonics": "/ˈtʊrəst/, /ˈtʊrɪst/"
     },
     {
       "word": "town",
-      "translation": "เมืองเล็ก",
-      "example": "The town has one bank.",
-      "exampleTranslation": "เมืองเล็กนี้มีธนาคารแห่งเดียว",
+      "translation": "เมือง, เมืองเล็ก",
+      "example": "The small town has only one bank.",
+      "exampleTranslation": "เมืองเล็กๆ แห่งนี้มีธนาคารแค่แห่งเดียว",
       "phonics": "/ˈtaʊn/"
     },
     {
@@ -4545,8 +4545,8 @@
     {
       "word": "trip",
       "translation": "การเดินทาง, ทริป",
-      "example": "The trip takes two days.",
-      "exampleTranslation": "การเดินทางนี้ใช้เวลาสองวัน",
+      "example": "The trip to the mountains takes two days.",
+      "exampleTranslation": "การเดินทางไปภูเขาใช้เวลาสองวัน",
       "phonics": "/ˈtrɪp/"
     },
     {
@@ -4559,15 +4559,15 @@
     {
       "word": "true",
       "translation": "จริง",
-      "example": "That story is true.",
-      "exampleTranslation": "เรื่องนั้นเป็นเรื่องจริง",
+      "example": "That story about the old house is true.",
+      "exampleTranslation": "เรื่องเกี่ยวกับบ้านหลังเก่านั้นเป็นเรื่องจริง",
       "phonics": "/ˈtru/"
     },
     {
       "word": "try",
       "translation": "พยายาม, ลอง",
-      "example": "Try the other door.",
-      "exampleTranslation": "ลองเปิดประตูอีกบานดูสิ",
+      "example": "He tries the other door.",
+      "exampleTranslation": "เขาลองเปิดประตูอีกบาน",
       "phonics": "/ˈtraɪ/"
     },
     {
@@ -4579,23 +4579,23 @@
     },
     {
       "word": "turn",
-      "translation": "เลี้ยว",
-      "example": "Turn left at the church.",
-      "exampleTranslation": "เลี้ยวซ้ายตรงโบสถ์",
+      "translation": "เลี้ยว, หมุน",
+      "example": "The bus turns left at the church.",
+      "exampleTranslation": "รถบัสเลี้ยวซ้ายตรงโบสถ์",
       "phonics": "/ˈtɝn/"
     },
     {
       "word": "TV",
       "translation": "ทีวี",
       "example": "The TV is on all evening.",
-      "exampleTranslation": "ทีวีเปิดอยู่ตลอดเย็น",
+      "exampleTranslation": "ทีวีเปิดอยู่ตลอดช่วงเย็น",
       "phonics": "/ˈtiˈvi/, /ˌtɛləˈvɪʒən/"
     },
     {
       "word": "type",
       "translation": "ชนิด, ประเภท",
-      "example": "What type of bread is it?",
-      "exampleTranslation": "ขนมปังชนิดนี้คืออะไร",
+      "example": "What type of bread do you like?",
+      "exampleTranslation": "คุณชอบขนมปังแบบไหน",
       "phonics": "/ˈtaɪp/"
     },
     {
@@ -4636,36 +4636,36 @@
     {
       "word": "use",
       "translation": "ใช้",
-      "example": "Use a sharp knife.",
-      "exampleTranslation": "ใช้มีดคมๆ",
+      "example": "My father uses a sharp knife for the meat.",
+      "exampleTranslation": "พ่อใช้มีดคมๆ หั่นเนื้อ",
       "phonics": "/ˈjus/, /ˈjuz/"
     },
     {
       "word": "useful",
       "translation": "มีประโยชน์",
-      "example": "That is a useful suggestion.",
-      "exampleTranslation": "นั่นเป็นข้อเสนอแนะที่มีประโยชน์",
+      "example": "Her advice is very useful.",
+      "exampleTranslation": "คำแนะนำของเธอมีประโยชน์มาก",
       "phonics": "/ˈjusfəl/"
     },
     {
       "word": "vacation",
       "translation": "วันหยุดพักผ่อน",
-      "example": "They take a long vacation.",
-      "exampleTranslation": "พวกเขาไปพักผ่อนยาว",
+      "example": "They take a long vacation in the summer.",
+      "exampleTranslation": "พวกเขาไปพักผ่อนยาวในหน้าร้อน",
       "phonics": "/veɪˈkeɪʃən/"
     },
     {
       "word": "vegetable",
       "translation": "ผัก",
-      "example": "Eat one green vegetable daily.",
-      "exampleTranslation": "กินผักสีเขียวหนึ่งอย่างทุกวัน",
+      "example": "She eats a green vegetable every day.",
+      "exampleTranslation": "เธอกินผักสีเขียวทุกวัน",
       "phonics": "/ˈvɛdʒtəbəl/"
     },
     {
       "word": "video",
       "translation": "วิดีโอ",
-      "example": "The video does not load.",
-      "exampleTranslation": "วิดีโอโหลดไม่ขึ้น",
+      "example": "The video on my phone does not load.",
+      "exampleTranslation": "วิดีโอในโทรศัพท์ของฉันโหลดไม่ขึ้น",
       "phonics": "/ˈvɪdioʊ/"
     },
     {
@@ -4677,37 +4677,37 @@
     },
     {
       "word": "visit",
-      "translation": "เยี่ยมเยียน",
-      "example": "They visit every August.",
-      "exampleTranslation": "พวกเขามาเยี่ยมทุกเดือนสิงหาคม",
+      "translation": "เยี่ยม, ไปเที่ยว",
+      "example": "They visit their grandparents every August.",
+      "exampleTranslation": "พวกเขาไปเยี่ยมปู่ย่าทุกเดือนสิงหาคม",
       "phonics": "/ˈvɪzɪt/"
     },
     {
       "word": "visitor",
       "translation": "ผู้มาเยือน",
-      "example": "One visitor arrives early today.",
-      "exampleTranslation": "วันนี้ผู้มาเยือนคนหนึ่งมาถึงแต่เช้า",
+      "example": "The museum has many visitors today.",
+      "exampleTranslation": "วันนี้พิพิธภัณฑ์มีผู้มาเยือนเยอะมาก",
       "phonics": "/ˈvɪzɪtɝ/"
     },
     {
       "word": "wait",
       "translation": "รอ",
-      "example": "We wait for an hour.",
-      "exampleTranslation": "เรารอหนึ่งชั่วโมง",
+      "example": "We wait for the bus for an hour.",
+      "exampleTranslation": "เรารอรถบัสอยู่หนึ่งชั่วโมง",
       "phonics": "/ˈweɪt/"
     },
     {
       "word": "waiter",
-      "translation": "บริกร",
-      "example": "The waiter forgets the drinks.",
-      "exampleTranslation": "บริกรลืมเครื่องดื่ม",
+      "translation": "พนักงานเสิร์ฟ, บริกร",
+      "example": "The waiter forgets our drinks.",
+      "exampleTranslation": "พนักงานเสิร์ฟลืมเครื่องดื่มของเรา",
       "phonics": "/ˈweɪtɝ/"
     },
     {
       "word": "wake",
-      "translation": "ปลุกตื่น",
-      "example": "Wake me at seven.",
-      "exampleTranslation": "ปลุกฉันตอนเจ็ดโมง",
+      "translation": "ตื่น, ปลุก",
+      "example": "My mother wakes me at seven.",
+      "exampleTranslation": "แม่ปลุกฉันตอนเจ็ดโมง",
       "phonics": "/ˈweɪk/"
     },
     {
@@ -4721,35 +4721,35 @@
       "word": "wall",
       "translation": "กำแพง, ผนัง",
       "example": "The wall needs painting.",
-      "exampleTranslation": "กำแพงนี้ต้องทาสีใหม่",
+      "exampleTranslation": "กำแพงนี้ต้องทาสีใหม่แล้ว",
       "phonics": "/ˈwɔl/"
     },
     {
       "word": "want",
-      "translation": "ต้องการ",
-      "example": "I want a quiet evening.",
-      "exampleTranslation": "ฉันอยากใช้เวลาช่วงเย็นแบบเงียบๆ",
+      "translation": "อยาก, ต้องการ",
+      "example": "I want a quiet evening at home.",
+      "exampleTranslation": "ฉันอยากอยู่บ้านเงียบๆ ตอนเย็น",
       "phonics": "/ˈwɑnt/, /ˈwɔnt/"
     },
     {
       "word": "warm",
       "translation": "อบอุ่น",
-      "example": "The room is warm enough.",
-      "exampleTranslation": "ห้องนี้อบอุ่นพอแล้ว",
+      "example": "The room is warm enough for the baby.",
+      "exampleTranslation": "ห้องนี้อุ่นพอสำหรับทารกแล้ว",
       "phonics": "/ˈwɔrm/"
     },
     {
       "word": "wash",
       "translation": "ล้าง",
-      "example": "Wash your hands first.",
-      "exampleTranslation": "ล้างมือก่อน",
+      "example": "The children wash their hands before lunch.",
+      "exampleTranslation": "เด็กๆ ล้างมือก่อนกินข้าวกลางวัน",
       "phonics": "/ˈwɑʃ/"
     },
     {
       "word": "watch",
-      "translation": "เฝ้าดู",
-      "example": "We watch the sun every evening.",
-      "exampleTranslation": "เราดูพระอาทิตย์ตกทุกเย็น",
+      "translation": "ดู, นาฬิกาข้อมือ",
+      "example": "We watch the sunset every evening.",
+      "exampleTranslation": "เราดูพระอาทิตย์ตกด้วยกันทุกเย็น",
       "phonics": "/ˈwɑtʃ/, /ˈwɔtʃ/"
     },
     {
@@ -4762,13 +4762,13 @@
     {
       "word": "way",
       "translation": "ทาง, วิธี",
-      "example": "This is the quickest way.",
-      "exampleTranslation": "นี่คือทางที่เร็วที่สุด",
+      "example": "This is the quickest way to the station.",
+      "exampleTranslation": "นี่คือทางที่เร็วที่สุดไปสถานี",
       "phonics": "/ˈweɪ/"
     },
     {
       "word": "wear",
-      "translation": "สวมใส่",
+      "translation": "ใส่, สวม",
       "example": "She wears glasses to read.",
       "exampleTranslation": "เธอสวมแว่นตาเวลาอ่านหนังสือ",
       "phonics": "/ˈwɛr/"
@@ -4776,22 +4776,22 @@
     {
       "word": "weather",
       "translation": "อากาศ",
-      "example": "The weather changes suddenly.",
-      "exampleTranslation": "อากาศเปลี่ยนแปลงกะทันหัน",
+      "example": "The weather in the mountains changes suddenly.",
+      "exampleTranslation": "อากาศบนภูเขาเปลี่ยนแปลงกะทันหัน",
       "phonics": "/ˈwɛðɝ/"
     },
     {
       "word": "website",
       "translation": "เว็บไซต์",
-      "example": "The website is very slow.",
-      "exampleTranslation": "เว็บไซต์นี้ช้ามาก",
+      "example": "The school website is very slow.",
+      "exampleTranslation": "เว็บไซต์ของโรงเรียนช้ามาก",
       "phonics": "/ˈwɛbˌsaɪt/"
     },
     {
       "word": "week",
       "translation": "สัปดาห์",
       "example": "The meeting is next week.",
-      "exampleTranslation": "สัปดาห์หน้ามีประชุม",
+      "exampleTranslation": "ประชุมสัปดาห์หน้า",
       "phonics": "/ˈwik/"
     },
     {
@@ -4803,7 +4803,7 @@
     },
     {
       "word": "welcome",
-      "translation": "ต้อนรับ",
+      "translation": "ยินดีต้อนรับ, ต้อนรับ",
       "example": "Visitors are always welcome here.",
       "exampleTranslation": "ที่นี่ยินดีต้อนรับผู้มาเยือนเสมอ",
       "phonics": "/ˈwɛlkəm/"
@@ -4818,8 +4818,8 @@
     {
       "word": "white",
       "translation": "สีขาว",
-      "example": "The walls are white.",
-      "exampleTranslation": "กำแพงเป็นสีขาว",
+      "example": "The walls of my room are white.",
+      "exampleTranslation": "ผนังห้องของฉันเป็นสีขาว",
       "phonics": "/ˈhwaɪt/, /ˈwaɪt/"
     },
     {
@@ -4832,8 +4832,8 @@
     {
       "word": "win",
       "translation": "ชนะ",
-      "example": "They win by one goal.",
-      "exampleTranslation": "พวกเขาชนะด้วยหนึ่งประตู",
+      "example": "They win the game by one goal.",
+      "exampleTranslation": "พวกเขาชนะการแข่งขันด้วยหนึ่งประตู",
       "phonics": "/ˈwɪn/"
     },
     {
@@ -4846,8 +4846,8 @@
     {
       "word": "window",
       "translation": "หน้าต่าง",
-      "example": "Open the window for some air.",
-      "exampleTranslation": "เปิดหน้าต่างให้อากาศเข้าหน่อย",
+      "example": "She opens the window for some air.",
+      "exampleTranslation": "เธอเปิดหน้าต่างให้อากาศเข้า",
       "phonics": "/ˈwɪndoʊ/"
     },
     {
@@ -4860,8 +4860,8 @@
     {
       "word": "winter",
       "translation": "ฤดูหนาว",
-      "example": "The winter is very cold.",
-      "exampleTranslation": "ฤดูหนาวนี้หนาวมาก",
+      "example": "The winter here is very cold.",
+      "exampleTranslation": "ฤดูหนาวที่นี่หนาวมาก",
       "phonics": "/ˈwɪntɝ/"
     },
     {
@@ -4873,21 +4873,21 @@
     },
     {
       "word": "wonderful",
-      "translation": "วิเศษ",
-      "example": "This is a wonderful evening.",
-      "exampleTranslation": "ค่ำคืนนี้วิเศษมาก",
+      "translation": "ยอดเยี่ยม, วิเศษ",
+      "example": "We have a wonderful evening with our friends.",
+      "exampleTranslation": "เราใช้เวลาช่วงเย็นกับเพื่อนๆ อย่างวิเศษมาก",
       "phonics": "/ˈwəndɝfəl/"
     },
     {
       "word": "word",
       "translation": "คำ",
       "example": "I do not understand that word.",
-      "exampleTranslation": "ฉันไม่เข้าใจคำนั้น",
+      "exampleTranslation": "ฉันไม่เข้าใจคำนั้นเลย",
       "phonics": "/ˈwɝd/"
     },
     {
       "word": "work",
-      "translation": "ทำงาน",
+      "translation": "ทำงาน, งาน, ได้ผล",
       "example": "She works in a hospital.",
       "exampleTranslation": "เธอทำงานอยู่ที่โรงพยาบาล",
       "phonics": "/ˈwɝk/"
@@ -4895,50 +4895,50 @@
     {
       "word": "worker",
       "translation": "คนงาน",
-      "example": "Every worker gets a bonus.",
-      "exampleTranslation": "คนงานทุกคนได้รับโบนัส",
+      "example": "Every worker in the factory gets a bonus.",
+      "exampleTranslation": "คนงานทุกคนในโรงงานได้โบนัส",
       "phonics": "/ˈwɝkɝ/"
     },
     {
       "word": "world",
       "translation": "โลก",
-      "example": "The world changes every day.",
-      "exampleTranslation": "โลกเปลี่ยนแปลงทุกวัน",
+      "example": "She wants to travel around the world.",
+      "exampleTranslation": "เธออยากเดินทางรอบโลก",
       "phonics": "/ˈwɝld/"
     },
     {
       "word": "write",
       "translation": "เขียน",
-      "example": "Please write your answer here.",
-      "exampleTranslation": "กรุณาเขียนคำตอบของคุณตรงนี้",
+      "example": "She writes her answer on the board.",
+      "exampleTranslation": "เธอเขียนคำตอบบนกระดาน",
       "phonics": "/ˈraɪt/"
     },
     {
       "word": "writer",
       "translation": "นักเขียน",
-      "example": "The writer lives nearby.",
-      "exampleTranslation": "นักเขียนคนนั้นอาศัยอยู่ใกล้ๆ",
+      "example": "The writer lives near my house.",
+      "exampleTranslation": "นักเขียนคนนั้นอาศัยอยู่ใกล้บ้านฉัน",
       "phonics": "/ˈraɪtɝ/"
     },
     {
       "word": "wrong",
       "translation": "ผิด",
-      "example": "You have the wrong number.",
-      "exampleTranslation": "คุณโทรผิดเบอร์",
+      "example": "I call the wrong number by mistake.",
+      "exampleTranslation": "ฉันโทรผิดเบอร์โดยไม่ได้ตั้งใจ",
       "phonics": "/ˈrɔŋ/"
     },
     {
       "word": "year",
       "translation": "ปี",
-      "example": "They live here this year.",
-      "exampleTranslation": "ปีนี้พวกเขาอาศัยอยู่ที่นี่",
+      "example": "They live in Bangkok this year.",
+      "exampleTranslation": "ปีนี้พวกเขาอาศัยอยู่ที่กรุงเทพฯ",
       "phonics": "/ˈjɪr/"
     },
     {
       "word": "yellow",
       "translation": "สีเหลือง",
-      "example": "The walls are pale yellow.",
-      "exampleTranslation": "กำแพงเป็นสีเหลืองอ่อน",
+      "example": "The walls of the kitchen are pale yellow.",
+      "exampleTranslation": "ผนังห้องครัวเป็นสีเหลืองอ่อน",
       "phonics": "/ˈjɛloʊ/"
     },
     {
@@ -4950,7 +4950,7 @@
     },
     {
       "word": "young",
-      "translation": "อายุน้อย",
+      "translation": "อายุน้อย, เด็ก, หนุ่มสาว",
       "example": "She is too young to drive.",
       "exampleTranslation": "เธอยังเด็กเกินไปที่จะขับรถ",
       "phonics": "/ˈjəŋ/"
