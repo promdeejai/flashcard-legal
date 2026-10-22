@@ -3,7 +3,7 @@
   "name": "TOEIC Vocabulary",
   "learn": "en",
   "native": "th",
-  "version": 41,
+  "version": 42,
   "items": [
     {
       "word": "achieve",
@@ -29,8 +29,8 @@
     {
       "word": "adjust",
       "translation": "ปรับ, ปรับเปลี่ยน",
-      "example": "Please adjust the chair to your height.",
-      "exampleTranslation": "กรุณาปรับเก้าอี้ให้เข้ากับความสูงของคุณ",
+      "example": "She adjusts the chair to her height.",
+      "exampleTranslation": "เธอปรับเก้าอี้ให้เข้ากับความสูงของตัวเอง",
       "phonics": "/əˈdʒəst/"
     },
     {
@@ -125,7 +125,7 @@
       "word": "call off",
       "translation": "ยกเลิก, เลิก",
       "example": "They called off the meeting because the boss was sick.",
-      "exampleTranslation": "การประชุมถูกยกเลิกเพราะหัวหน้าป่วย"
+      "exampleTranslation": "พวกเขายกเลิกการประชุมเพราะหัวหน้าป่วย"
     },
     {
       "word": "clarify",
@@ -158,8 +158,8 @@
     {
       "word": "cooperate",
       "translation": "ร่วมมือ, ให้ความร่วมมือ",
-      "example": "Please cooperate with the security staff.",
-      "exampleTranslation": "กรุณาให้ความร่วมมือกับเจ้าหน้าที่รักษาความปลอดภัย",
+      "example": "Passengers cooperate with the security staff.",
+      "exampleTranslation": "ผู้โดยสารให้ความร่วมมือกับเจ้าหน้าที่รักษาความปลอดภัย",
       "phonics": "/ˈkwɑpɝˌeɪt/, /koʊˈɑpɝˌeɪt/"
     },
     {
@@ -172,8 +172,8 @@
     {
       "word": "confirm",
       "translation": "ยืนยัน",
-      "example": "Please confirm your booking by email.",
-      "exampleTranslation": "กรุณายืนยันการจองทางอีเมล",
+      "example": "Guests confirm their booking by email.",
+      "exampleTranslation": "แขกยืนยันการจองทางอีเมล",
       "phonics": "/kənˈfɝm/"
     },
     {
@@ -249,8 +249,8 @@
     {
       "word": "show",
       "translation": "แสดง, โชว์, การแสดง",
-      "example": "Please show your ticket at the door.",
-      "exampleTranslation": "กรุณาแสดงตั๋วที่ประตู",
+      "example": "Visitors show their tickets at the door.",
+      "exampleTranslation": "ผู้เข้าชมแสดงตั๋วที่ประตู",
       "phonics": "/ˈʃoʊ/"
     },
     {
@@ -277,8 +277,8 @@
     {
       "word": "distribute",
       "translation": "แจกจ่าย, กระจาย, จัดจำหน่าย",
-      "example": "Please distribute these papers to everyone.",
-      "exampleTranslation": "ช่วยแจกเอกสารเหล่านี้ให้ทุกคน",
+      "example": "The assistant distributes the papers to everyone.",
+      "exampleTranslation": "ผู้ช่วยแจกเอกสารให้ทุกคน",
       "phonics": "/dɪˈstrɪbjut/"
     },
     {
@@ -427,8 +427,8 @@
     {
       "word": "introduce",
       "translation": "แนะนำ, นำเข้ามาใช้",
-      "example": "Let me introduce our new manager.",
-      "exampleTranslation": "ขอแนะนำผู้จัดการคนใหม่ของเรา",
+      "example": "The CEO introduced our new manager at the meeting.",
+      "exampleTranslation": "ซีอีโอแนะนำผู้จัดการคนใหม่ของเราในที่ประชุม",
       "phonics": "/ˌɪntrəˈdus/, /ˌɪntroʊˈdus/"
     },
     {
@@ -442,7 +442,7 @@
       "word": "manage",
       "translation": "บริหาร, จัดการ",
       "example": "She manages a small hotel.",
-      "exampleTranslation": "เธอบริหารโรงแรมเล็ก ๆ แห่งหนึ่ง",
+      "exampleTranslation": "เธอบริหารโรงแรมเล็กๆ แห่งหนึ่ง",
       "phonics": "/ˈmænədʒ/, /ˈmænɪdʒ/"
     },
     {
@@ -476,8 +476,8 @@
     {
       "word": "discuss",
       "translation": "หารือ, อภิปราย, พูดคุย",
-      "example": "Let's discuss this after lunch.",
-      "exampleTranslation": "เรามาคุยเรื่องนี้หลังมื้อกลางวันกัน",
+      "example": "We will discuss this after lunch.",
+      "exampleTranslation": "เราจะคุยเรื่องนี้กันหลังมื้อกลางวัน",
       "phonics": "/dɪˈskəs/"
     },
     {
@@ -525,7 +525,7 @@
       "word": "suggest",
       "translation": "แนะนำ, เสนอแนะ",
       "example": "Can you suggest a good hotel?",
-      "exampleTranslation": "คุณช่วยแนะนำโรงแรมดี ๆ ได้ไหม",
+      "exampleTranslation": "คุณช่วยแนะนำโรงแรมดีๆ ได้ไหม",
       "phonics": "/səˈdʒɛst/"
     },
     {
@@ -580,8 +580,8 @@
     {
       "word": "register",
       "translation": "ลงทะเบียน, จดทะเบียน",
-      "example": "Please register before the class.",
-      "exampleTranslation": "กรุณาลงทะเบียนก่อนเข้าเรียน",
+      "example": "Students register before the class.",
+      "exampleTranslation": "นักเรียนลงทะเบียนก่อนเข้าเรียน",
       "phonics": "/ˈrɛdʒɪstɝ/"
     },
     {
@@ -593,8 +593,8 @@
     {
       "word": "sign up",
       "translation": "สมัคร, ลงชื่อ",
-      "example": "Sign up now and get a free gift.",
-      "exampleTranslation": "สมัครตอนนี้รับของขวัญฟรี"
+      "example": "Customers who sign up now get a free gift.",
+      "exampleTranslation": "ลูกค้าที่สมัครตอนนี้จะได้รับของขวัญฟรี"
     },
     {
       "word": "reject",
@@ -647,8 +647,8 @@
     {
       "word": "settle",
       "translation": "ตกลง, จ่าย, ตั้งรกราก",
-      "example": "Please settle your bill at the front desk.",
-      "exampleTranslation": "กรุณาชำระค่าใช้จ่ายที่แผนกต้อนรับ",
+      "example": "Guests settle their bill at the front desk.",
+      "exampleTranslation": "แขกชำระค่าห้องที่แผนกต้อนรับ",
       "phonics": "/ˈsɛtəl/"
     },
     {
@@ -694,8 +694,8 @@
     {
       "word": "authenticate",
       "translation": "ยืนยันตัวตน, พิสูจน์ความแท้",
-      "example": "Enter the code to authenticate your account.",
-      "exampleTranslation": "ใส่รหัสเพื่อยืนยันตัวตนบัญชีของคุณ"
+      "example": "Users enter a code to authenticate their account.",
+      "exampleTranslation": "ผู้ใช้ใส่รหัสเพื่อยืนยันตัวตนบัญชีของตัวเอง"
     },
     {
       "word": "agreement",
@@ -712,8 +712,8 @@
     {
       "word": "contract",
       "translation": "สัญญา, ทำสัญญา",
-      "example": "Please read the contract before you sign it.",
-      "exampleTranslation": "กรุณาอ่านสัญญาก่อนเซ็น",
+      "example": "You should read the contract before you sign it.",
+      "exampleTranslation": "คุณควรอ่านสัญญาก่อนเซ็น",
       "phonics": "/ˈkɑnˌtrækt/, /kənˈtrækt/"
     },
     {
@@ -871,8 +871,8 @@
     {
       "word": "document",
       "translation": "เอกสาร, บันทึก",
-      "example": "Please sign this document.",
-      "exampleTranslation": "กรุณาเซ็นเอกสารนี้",
+      "example": "The client signs the document.",
+      "exampleTranslation": "ลูกค้าเซ็นเอกสาร",
       "phonics": "/ˈdɑkjəmɛnt/, /ˈdɑkjumɛnt/"
     },
     {
@@ -962,8 +962,8 @@
     {
       "word": "administrator",
       "translation": "ผู้ดูแลระบบ, ผู้บริหาร",
-      "example": "Ask the system administrator for a new password.",
-      "exampleTranslation": "ขอรหัสผ่านใหม่จากผู้ดูแลระบบ",
+      "example": "The system administrator gives me a new password.",
+      "exampleTranslation": "ผู้ดูแลระบบให้รหัสผ่านใหม่กับฉัน",
       "phonics": "/ədˈmɪnəˌstreɪtɝ/"
     },
     {
@@ -976,8 +976,8 @@
     {
       "word": "expense",
       "translation": "ค่าใช้จ่าย",
-      "example": "Travel expenses are paid by the company.",
-      "exampleTranslation": "ค่าเดินทางบริษัทเป็นคนจ่าย"
+      "example": "The company pays our travel expenses.",
+      "exampleTranslation": "บริษัทจ่ายค่าเดินทางให้เรา"
     },
     {
       "word": "expenditure",
@@ -1064,8 +1064,8 @@
     {
       "word": "occupation",
       "translation": "อาชีพ, การยึดครอง",
-      "example": "Please write your occupation on the form.",
-      "exampleTranslation": "กรุณาเขียนอาชีพของคุณในแบบฟอร์ม",
+      "example": "Applicants write their occupation on the form.",
+      "exampleTranslation": "ผู้สมัครเขียนอาชีพของตัวเองในแบบฟอร์ม",
       "phonics": "/ˌɑkjəˈpeɪʃən/"
     },
     {
@@ -1078,8 +1078,8 @@
     {
       "word": "supervisor",
       "translation": "หัวหน้างาน, ผู้ควบคุม",
-      "example": "Ask your supervisor before you leave early.",
-      "exampleTranslation": "ถามหัวหน้างานก่อนออกจากงานเร็ว",
+      "example": "I ask my supervisor before I leave early.",
+      "exampleTranslation": "ฉันขออนุญาตหัวหน้างานก่อนออกจากงานเร็ว",
       "phonics": "/ˈsupɝˌvaɪzɝ/"
     },
     {
@@ -1113,7 +1113,7 @@
       "word": "gathering",
       "translation": "การรวมตัว, การชุมนุม",
       "example": "We had a small family gathering on Sunday.",
-      "exampleTranslation": "วันอาทิตย์เรามีงานรวมญาติเล็ก ๆ"
+      "exampleTranslation": "วันอาทิตย์เรามีงานรวมญาติเล็กๆ"
     },
     {
       "word": "negotiation",
@@ -1126,7 +1126,7 @@
       "word": "discussion",
       "translation": "การสนทนา, การอภิปราย, การหารือ",
       "example": "We had a short discussion about the budget.",
-      "exampleTranslation": "เราคุยกันสั้น ๆ เรื่องงบประมาณ",
+      "exampleTranslation": "เราคุยกันสั้นๆ เรื่องงบประมาณ",
       "phonics": "/dɪˈskəʃən/"
     },
     {
@@ -1314,8 +1314,8 @@
     {
       "word": "credential",
       "translation": "หลักฐานรับรอง, วุฒิ, ข้อมูลยืนยันตัวตน",
-      "example": "Please show your credentials at the gate.",
-      "exampleTranslation": "กรุณาแสดงหลักฐานยืนยันตัวตนที่ประตู"
+      "example": "Visitors show their credentials at the gate.",
+      "exampleTranslation": "ผู้มาเยือนแสดงบัตรยืนยันตัวตนที่ประตู"
     },
     {
       "word": "requirement",
@@ -1326,15 +1326,15 @@
     {
       "word": "reception",
       "translation": "แผนกต้อนรับ, งานเลี้ยงรับรอง, การต้อนรับ",
-      "example": "Please leave your key at reception.",
-      "exampleTranslation": "กรุณาฝากกุญแจไว้ที่แผนกต้อนรับ",
+      "example": "Guests leave their keys at reception.",
+      "exampleTranslation": "แขกฝากกุญแจไว้ที่แผนกต้อนรับ",
       "phonics": "/riˈsɛpʃən/, /rɪˈsɛpʃən/"
     },
     {
       "word": "front desk",
       "translation": "แผนกต้อนรับ, เคาน์เตอร์ต้อนรับ",
-      "example": "Ask at the front desk for a map.",
-      "exampleTranslation": "ขอแผนที่ได้ที่เคาน์เตอร์ต้อนรับ",
+      "example": "Guests can ask at the front desk for a map.",
+      "exampleTranslation": "แขกขอแผนที่ได้ที่เคาน์เตอร์ต้อนรับ",
       "phonics": "/ˈfrənt ˈdɛsk/"
     },
     {
@@ -1347,15 +1347,15 @@
     {
       "word": "report",
       "translation": "รายงาน, แจ้ง",
-      "example": "Please send me the report by Friday.",
-      "exampleTranslation": "กรุณาส่งรายงานให้ฉันภายในวันศุกร์",
+      "example": "She sends me the report every Friday.",
+      "exampleTranslation": "เธอส่งรายงานให้ฉันทุกวันศุกร์",
       "phonics": "/riˈpɔrt/, /rɪˈpɔrt/"
     },
     {
       "word": "summary",
       "translation": "บทสรุป, สรุป",
-      "example": "Write a short summary of the meeting.",
-      "exampleTranslation": "เขียนสรุปการประชุมสั้น ๆ",
+      "example": "He writes a short summary of the meeting.",
+      "exampleTranslation": "เขาเขียนสรุปการประชุมสั้นๆ",
       "phonics": "/ˈsəmɝi/"
     },
     {
@@ -1388,8 +1388,8 @@
     {
       "word": "departure",
       "translation": "การออกเดินทาง, ขาออก, การลาออก",
-      "example": "Check the departure time on your ticket.",
-      "exampleTranslation": "ดูเวลาออกเดินทางบนตั๋วของคุณ",
+      "example": "The departure time is on your ticket.",
+      "exampleTranslation": "เวลาออกเดินทางระบุอยู่บนตั๋วของคุณ",
       "phonics": "/dɪˈpɑrtʃɝ/"
     },
     {
@@ -1457,8 +1457,8 @@
     {
       "word": "schedule",
       "translation": "กำหนดการ, ตารางเวลา, กำหนดเวลา",
-      "example": "Let me check my schedule for tomorrow.",
-      "exampleTranslation": "ขอฉันดูตารางงานพรุ่งนี้ก่อน",
+      "example": "I check my schedule every morning.",
+      "exampleTranslation": "ฉันดูตารางงานทุกเช้า",
       "phonics": "/ˈskɛdʒul/, /ˈskɛdʒʊl/"
     },
     {
@@ -1471,8 +1471,8 @@
     {
       "word": "assistance",
       "translation": "ความช่วยเหลือ",
-      "example": "Please call us if you need assistance.",
-      "exampleTranslation": "หากต้องการความช่วยเหลือ กรุณาโทรหาเรา"
+      "example": "Customers can call us if they need assistance.",
+      "exampleTranslation": "ลูกค้าโทรหาเราได้หากต้องการความช่วยเหลือ"
     },
     {
       "word": "support",
@@ -1533,7 +1533,7 @@
       "word": "group",
       "translation": "กลุ่ม, คณะ",
       "example": "We work in small groups.",
-      "exampleTranslation": "เราทำงานเป็นกลุ่มเล็ก ๆ",
+      "exampleTranslation": "เราทำงานเป็นกลุ่มเล็กๆ",
       "phonics": "/ˈɡrup/"
     },
     {
@@ -1584,8 +1584,8 @@
     {
       "word": "instruction",
       "translation": "คำแนะนำ, คำสั่ง, การสอน",
-      "example": "Read the instructions before you start.",
-      "exampleTranslation": "อ่านคำแนะนำก่อนเริ่ม",
+      "example": "Workers read the instructions before they start.",
+      "exampleTranslation": "คนงานอ่านคำแนะนำก่อนเริ่มงาน",
       "phonics": "/ˌɪnˈstrəkʃən/"
     },
     {
@@ -1659,8 +1659,8 @@
     {
       "word": "collect",
       "translation": "เก็บ, รวบรวม, สะสม",
-      "example": "Please collect your bags at gate 3.",
-      "exampleTranslation": "กรุณารับกระเป๋าที่ประตู 3",
+      "example": "Passengers collect their bags at gate 3.",
+      "exampleTranslation": "ผู้โดยสารรับกระเป๋าที่ประตู 3",
       "phonics": "/kəˈlɛkt/"
     },
     {
@@ -1686,15 +1686,15 @@
     {
       "word": "review",
       "translation": "ทบทวน, ตรวจสอบ, รีวิว, บทวิจารณ์",
-      "example": "Please review the report before the meeting.",
-      "exampleTranslation": "กรุณาตรวจทานรายงานก่อนการประชุม",
+      "example": "The manager reviews the report before the meeting.",
+      "exampleTranslation": "ผู้จัดการตรวจทานรายงานก่อนการประชุม",
       "phonics": "/ˌrivˈju/"
     },
     {
       "word": "balance",
       "translation": "ยอดคงเหลือ, ความสมดุล, ปรับสมดุล",
-      "example": "Check your account balance online.",
-      "exampleTranslation": "ตรวจสอบยอดเงินคงเหลือในบัญชีทางออนไลน์",
+      "example": "You can check your account balance online.",
+      "exampleTranslation": "คุณตรวจสอบยอดเงินคงเหลือในบัญชีทางออนไลน์ได้",
       "phonics": "/ˈbæləns/"
     },
     {
@@ -1740,8 +1740,8 @@
     {
       "word": "calculate",
       "translation": "คำนวณ, คาดการณ์",
-      "example": "Please calculate the total cost.",
-      "exampleTranslation": "กรุณาคำนวณค่าใช้จ่ายทั้งหมด",
+      "example": "The accountant calculates the total cost.",
+      "exampleTranslation": "นักบัญชีคำนวณค่าใช้จ่ายทั้งหมด",
       "phonics": "/ˈkælkjəˌleɪt/"
     },
     {
@@ -1773,8 +1773,8 @@
     {
       "word": "bill",
       "translation": "ใบแจ้งหนี้, บิล, ธนบัตร, ร่างกฎหมาย",
-      "example": "Can we have the bill, please?",
-      "exampleTranslation": "ขอเช็กบิลด้วยค่ะ",
+      "example": "We ask the waiter for the bill.",
+      "exampleTranslation": "เราขอเช็กบิลจากพนักงานเสิร์ฟ",
       "phonics": "/ˈbɪl/"
     },
     {
@@ -1806,8 +1806,8 @@
     {
       "word": "combine",
       "translation": "รวม, ผสม",
-      "example": "Combine the eggs and the milk.",
-      "exampleTranslation": "ผสมไข่กับนม",
+      "example": "The cook combines the eggs and the milk.",
+      "exampleTranslation": "พ่อครัวผสมไข่กับนม",
       "phonics": "/ˈkɑmbaɪn/, /kəmˈbaɪn/"
     },
     {
@@ -1900,8 +1900,8 @@
     {
       "word": "give",
       "translation": "ให้, มอบ",
-      "example": "Please give this letter to your boss.",
-      "exampleTranslation": "กรุณาให้จดหมายนี้กับหัวหน้าของคุณ",
+      "example": "She gives the letter to her boss.",
+      "exampleTranslation": "เธอส่งจดหมายให้หัวหน้า",
       "phonics": "/ˈɡɪv/"
     },
     {
@@ -1920,7 +1920,7 @@
     },
     {
       "word": "approximate",
-      "translation": "ประมาณ, ราว ๆ",
+      "translation": "ประมาณ, ราวๆ",
       "example": "The approximate cost is 2,000 baht.",
       "exampleTranslation": "ค่าใช้จ่ายโดยประมาณคือ 2,000 บาท"
     },
@@ -1973,8 +1973,8 @@
     {
       "word": "excuse",
       "translation": "ข้ออ้าง, ให้อภัย, ยกเว้น",
-      "example": "Please excuse me for being late.",
-      "exampleTranslation": "ขอโทษที่มาสาย",
+      "example": "He asks the teacher to excuse him for being late.",
+      "exampleTranslation": "เขาขอให้ครูยกโทษที่มาสาย",
       "phonics": "/ɪkˈskjus/, /ɪkˈskjuz/"
     },
     {
@@ -2000,8 +2000,8 @@
     {
       "word": "submit",
       "translation": "ส่ง, ยื่น, เสนอ",
-      "example": "Please submit your report by Friday.",
-      "exampleTranslation": "กรุณาส่งรายงานภายในวันศุกร์",
+      "example": "Staff submit their reports by Friday.",
+      "exampleTranslation": "พนักงานส่งรายงานภายในวันศุกร์",
       "phonics": "/səbˈmɪt/"
     },
     {
@@ -2283,8 +2283,8 @@
     {
       "word": "check",
       "translation": "ตรวจสอบ, เช็ค, บิล",
-      "example": "Please check your work before you send it.",
-      "exampleTranslation": "กรุณาตรวจงานก่อนส่ง",
+      "example": "She checks her work before she sends it.",
+      "exampleTranslation": "เธอตรวจงานก่อนส่ง",
       "phonics": "/ˈtʃɛk/"
     },
     {
@@ -2316,8 +2316,8 @@
     {
       "word": "security",
       "translation": "ความปลอดภัย, การรักษาความปลอดภัย, หลักประกัน, หลักทรัพย์",
-      "example": "Please go through security before boarding.",
-      "exampleTranslation": "กรุณาผ่านจุดตรวจความปลอดภัยก่อนขึ้นเครื่อง",
+      "example": "Passengers go through security before boarding.",
+      "exampleTranslation": "ผู้โดยสารผ่านจุดตรวจความปลอดภัยก่อนขึ้นเครื่อง",
       "phonics": "/sɪkˈjʊrəti/"
     },
     {
@@ -2385,7 +2385,7 @@
       "word": "subtraction",
       "translation": "การลบ, การหักออก",
       "example": "Children learn addition and subtraction.",
-      "exampleTranslation": "เด็ก ๆ เรียนการบวกและการลบ"
+      "exampleTranslation": "เด็กๆ เรียนการบวกและการลบ"
     },
     {
       "word": "reduction",
@@ -2517,15 +2517,15 @@
     {
       "word": "judge",
       "translation": "ตัดสิน, ประเมิน, ผู้พิพากษา, กรรมการ",
-      "example": "Don't judge people by their clothes.",
-      "exampleTranslation": "อย่าตัดสินคนจากเสื้อผ้า",
+      "example": "People often judge others by their clothes.",
+      "exampleTranslation": "คนเรามักตัดสินผู้อื่นจากเสื้อผ้า",
       "phonics": "/ˈdʒədʒ/"
     },
     {
       "word": "clean",
       "translation": "ทำความสะอาด, สะอาด",
-      "example": "Please clean the table after lunch.",
-      "exampleTranslation": "กรุณาทำความสะอาดโต๊ะหลังมื้อกลางวัน",
+      "example": "Staff clean the tables after lunch.",
+      "exampleTranslation": "พนักงานทำความสะอาดโต๊ะหลังมื้อกลางวัน",
       "phonics": "/ˈklin/"
     },
     {
@@ -2537,8 +2537,8 @@
     {
       "word": "tidy up",
       "translation": "จัดให้เรียบร้อย, เก็บกวาด",
-      "example": "Please tidy up your desk before you go home.",
-      "exampleTranslation": "กรุณาจัดโต๊ะให้เรียบร้อยก่อนกลับบ้าน"
+      "example": "She tidies up her desk before she goes home.",
+      "exampleTranslation": "เธอจัดโต๊ะให้เรียบร้อยก่อนกลับบ้าน"
     },
     {
       "word": "fix",
@@ -2564,15 +2564,15 @@
     {
       "word": "acknowledge",
       "translation": "ยอมรับ, ตอบรับ, ทักทาย",
-      "example": "Please acknowledge this email when you get it.",
-      "exampleTranslation": "เมื่อได้รับอีเมลนี้แล้ว กรุณาตอบรับด้วย",
+      "example": "She acknowledges every email she gets.",
+      "exampleTranslation": "เธอตอบรับทุกอีเมลที่ได้รับ",
       "phonics": "/ækˈnɑlɪdʒ/"
     },
     {
       "word": "welcome",
       "translation": "ต้อนรับ, ยินดีต้อนรับ",
-      "example": "Welcome to our hotel!",
-      "exampleTranslation": "ยินดีต้อนรับสู่โรงแรมของเรา",
+      "example": "The manager welcomes every guest at the door.",
+      "exampleTranslation": "ผู้จัดการต้อนรับแขกทุกคนที่ประตู",
       "phonics": "/ˈwɛlkəm/"
     },
     {
@@ -2613,34 +2613,34 @@
       "word": "entertain",
       "translation": "ให้ความบันเทิง, รับรองแขก",
       "example": "We entertained our clients at a nice restaurant.",
-      "exampleTranslation": "เราเลี้ยงรับรองลูกค้าที่ร้านอาหารดี ๆ",
+      "exampleTranslation": "เราเลี้ยงรับรองลูกค้าที่ร้านอาหารดีๆ",
       "phonics": "/ˌɛnɝˈteɪn/, /ˌɛntɝˈteɪn/"
     },
     {
       "word": "inform",
       "translation": "แจ้ง, บอก",
-      "example": "Please inform us if you will be late.",
-      "exampleTranslation": "หากคุณจะมาสาย กรุณาแจ้งเรา"
+      "example": "Staff inform the manager if they will be late.",
+      "exampleTranslation": "พนักงานแจ้งผู้จัดการหากจะมาสาย"
     },
     {
       "word": "notify",
       "translation": "แจ้ง, แจ้งให้ทราบ",
       "example": "We will notify you when your order ships.",
-      "exampleTranslation": "เราจะแจ้งให้คุณทราบเมื่อสินค้าถูกส่งออก",
+      "exampleTranslation": "เราจะแจ้งให้คุณทราบเมื่อสินค้าของคุณออกจากคลัง",
       "phonics": "/ˈnoʊtəˌfaɪ/"
     },
     {
       "word": "tell",
       "translation": "บอก, เล่า",
-      "example": "Please tell me your name.",
-      "exampleTranslation": "กรุณาบอกชื่อของคุณ",
+      "example": "She tells me her name.",
+      "exampleTranslation": "เธอบอกชื่อของเธอให้ฉันรู้",
       "phonics": "/ˈtɛl/"
     },
     {
       "word": "familiarize",
       "translation": "ทำให้คุ้นเคย, ทำความคุ้นเคย",
-      "example": "Take time to familiarize yourself with the office.",
-      "exampleTranslation": "ใช้เวลาทำความคุ้นเคยกับสำนักงาน"
+      "example": "New staff take time to familiarize themselves with the office.",
+      "exampleTranslation": "พนักงานใหม่ใช้เวลาทำความคุ้นเคยกับสำนักงาน"
     },
     {
       "word": "present",
@@ -2673,8 +2673,8 @@
     {
       "word": "get ready",
       "translation": "เตรียมตัว, เตรียมพร้อม",
-      "example": "Get ready, the guests are here.",
-      "exampleTranslation": "เตรียมตัวนะ แขกมาแล้ว"
+      "example": "We get ready before the guests arrive.",
+      "exampleTranslation": "เราเตรียมตัวก่อนแขกมาถึง"
     },
     {
       "word": "set up",
@@ -2699,8 +2699,8 @@
     {
       "word": "proceed",
       "translation": "ดำเนินต่อ, ไปต่อ",
-      "example": "Please proceed to gate 5.",
-      "exampleTranslation": "กรุณาไปที่ประตู 5",
+      "example": "Passengers proceed to gate 5.",
+      "exampleTranslation": "ผู้โดยสารไปที่ประตู 5",
       "phonics": "/pɝˈsid/, /prəˈsid/"
     },
     {
@@ -2726,29 +2726,29 @@
     {
       "word": "remain",
       "translation": "ยังคง, เหลืออยู่, อยู่ต่อ",
-      "example": "Please remain in your seat.",
-      "exampleTranslation": "กรุณานั่งอยู่กับที่",
+      "example": "Passengers remain in their seats during the flight.",
+      "exampleTranslation": "ผู้โดยสารนั่งอยู่กับที่ระหว่างบิน",
       "phonics": "/riˈmeɪn/, /rɪˈmeɪn/"
     },
     {
       "word": "continue",
       "translation": "ดำเนินต่อ, ทำต่อ",
-      "example": "Let's continue after the break.",
-      "exampleTranslation": "เรามาทำต่อหลังพักกัน",
+      "example": "We will continue after the break.",
+      "exampleTranslation": "เราจะทำต่อหลังพัก",
       "phonics": "/kənˈtɪnju/"
     },
     {
       "word": "stay",
       "translation": "พัก, อยู่, การพัก",
       "example": "We stayed at a small hotel near the beach.",
-      "exampleTranslation": "เราพักที่โรงแรมเล็ก ๆ ใกล้ชายหาด",
+      "exampleTranslation": "เราพักที่โรงแรมเล็กๆ ใกล้ชายหาด",
       "phonics": "/ˈsteɪ/"
     },
     {
       "word": "replace",
       "translation": "เปลี่ยน, แทนที่",
-      "example": "Please replace the old light bulb.",
-      "exampleTranslation": "กรุณาเปลี่ยนหลอดไฟเก่า",
+      "example": "He replaces the old light bulb.",
+      "exampleTranslation": "เขาเปลี่ยนหลอดไฟเก่า",
       "phonics": "/ˌriˈpleɪs/, /ɝˈpleɪs/"
     },
     {
@@ -2767,15 +2767,15 @@
     {
       "word": "respond",
       "translation": "ตอบกลับ, ตอบสนอง",
-      "example": "Please respond to this email by Monday.",
-      "exampleTranslation": "กรุณาตอบกลับอีเมลนี้ภายในวันจันทร์",
+      "example": "Customers respond to the survey by Monday.",
+      "exampleTranslation": "ลูกค้าตอบแบบสำรวจภายในวันจันทร์",
       "phonics": "/riˈspɑnd/, /rɪˈspɑnd/"
     },
     {
       "word": "answer",
       "translation": "ตอบ, คำตอบ, รับสาย",
-      "example": "Please answer the phone.",
-      "exampleTranslation": "ช่วยรับโทรศัพท์หน่อย",
+      "example": "The receptionist answers the phone.",
+      "exampleTranslation": "พนักงานต้อนรับรับโทรศัพท์",
       "phonics": "/ˈænsɝ/"
     },
     {
@@ -2892,8 +2892,8 @@
     {
       "word": "arrival",
       "translation": "การมาถึง, ขาเข้า",
-      "example": "Please call us on arrival.",
-      "exampleTranslation": "กรุณาโทรหาเราเมื่อมาถึง"
+      "example": "Guests call the hotel on arrival.",
+      "exampleTranslation": "แขกโทรหาโรงแรมเมื่อมาถึง"
     },
     {
       "word": "check-out",
@@ -2998,8 +2998,8 @@
     {
       "word": "feedback",
       "translation": "ข้อเสนอแนะ, ความคิดเห็น, ผลตอบรับ",
-      "example": "Thank you for your feedback.",
-      "exampleTranslation": "ขอบคุณสำหรับความคิดเห็นของคุณ",
+      "example": "The manager reads all customer feedback.",
+      "exampleTranslation": "ผู้จัดการอ่านความคิดเห็นของลูกค้าทั้งหมด",
       "phonics": "/ˈfidˌbæk/"
     },
     {
@@ -3012,8 +3012,8 @@
     {
       "word": "hospitality",
       "translation": "การต้อนรับ, การบริการต้อนรับ, ธุรกิจโรงแรม",
-      "example": "Thank you for your kind hospitality.",
-      "exampleTranslation": "ขอบคุณสำหรับการต้อนรับอย่างอบอุ่น"
+      "example": "Thai people are famous for their hospitality.",
+      "exampleTranslation": "คนไทยขึ้นชื่อเรื่องการต้อนรับขับสู้"
     },
     {
       "word": "friendliness",
@@ -3024,8 +3024,8 @@
     {
       "word": "housekeeping",
       "translation": "งานแม่บ้าน, แผนกแม่บ้าน",
-      "example": "Call housekeeping if you need more towels.",
-      "exampleTranslation": "ถ้าต้องการผ้าเช็ดตัวเพิ่ม โทรหาแผนกแม่บ้าน"
+      "example": "Guests call housekeeping if they need more towels.",
+      "exampleTranslation": "แขกโทรหาแผนกแม่บ้านถ้าต้องการผ้าเช็ดตัวเพิ่ม"
     },
     {
       "word": "maintenance",
@@ -3037,8 +3037,8 @@
     {
       "word": "cleaning",
       "translation": "การทำความสะอาด",
-      "example": "The cleaning is done every morning.",
-      "exampleTranslation": "ทำความสะอาดทุกเช้า"
+      "example": "Staff do the cleaning every morning.",
+      "exampleTranslation": "พนักงานทำความสะอาดทุกเช้า"
     },
     {
       "word": "inquiry",
@@ -3056,8 +3056,8 @@
     {
       "word": "itinerary",
       "translation": "กำหนดการเดินทาง",
-      "example": "Here is your itinerary for the trip.",
-      "exampleTranslation": "นี่คือกำหนดการเดินทางของคุณ",
+      "example": "The travel agent sent me my itinerary.",
+      "exampleTranslation": "บริษัททัวร์ส่งกำหนดการเดินทางมาให้ฉัน",
       "phonics": "/aɪˈtɪnɝˌɛri/"
     },
     {
@@ -3117,15 +3117,15 @@
     {
       "word": "regulation",
       "translation": "กฎระเบียบ, ข้อบังคับ",
-      "example": "Please follow the safety regulations.",
-      "exampleTranslation": "กรุณาปฏิบัติตามกฎระเบียบด้านความปลอดภัย",
+      "example": "All workers follow the safety regulations.",
+      "exampleTranslation": "คนงานทุกคนปฏิบัติตามกฎระเบียบด้านความปลอดภัย",
       "phonics": "/ˌrɛɡjəˈleɪʃən/"
     },
     {
       "word": "rule",
       "translation": "กฎ, ปกครอง",
-      "example": "No smoking is a rule in this building.",
-      "exampleTranslation": "ห้ามสูบบุหรี่เป็นกฎของอาคารนี้",
+      "example": "This building has a strict no-smoking rule.",
+      "exampleTranslation": "อาคารนี้มีกฎห้ามสูบบุหรี่อย่างเคร่งครัด",
       "phonics": "/ˈrul/"
     },
     {
@@ -3150,8 +3150,8 @@
     {
       "word": "guest service",
       "translation": "บริการลูกค้า, ฝ่ายบริการแขก",
-      "example": "Please call guest service if you need help.",
-      "exampleTranslation": "หากต้องการความช่วยเหลือ กรุณาโทรหาฝ่ายบริการแขก",
+      "example": "Guests can call guest service if they need help.",
+      "exampleTranslation": "แขกโทรหาฝ่ายบริการแขกได้หากต้องการความช่วยเหลือ",
       "phonics": "/ˈɡɛst ˈsɝvəs/"
     },
     {
@@ -3177,8 +3177,8 @@
     {
       "word": "valet",
       "translation": "พนักงานรับจอดรถ, คนรับใช้",
-      "example": "Give your car key to the valet.",
-      "exampleTranslation": "ให้กุญแจรถกับพนักงานรับจอดรถ"
+      "example": "Guests give their car keys to the valet.",
+      "exampleTranslation": "แขกให้กุญแจรถกับพนักงานรับจอดรถ"
     },
     {
       "word": "parking service",
@@ -3209,8 +3209,8 @@
     {
       "word": "coupon",
       "translation": "คูปอง",
-      "example": "Use this coupon to get 20% off.",
-      "exampleTranslation": "ใช้คูปองนี้เพื่อรับส่วนลด 20%"
+      "example": "Customers use this coupon to get 20% off.",
+      "exampleTranslation": "ลูกค้าใช้คูปองนี้เพื่อรับส่วนลด 20%"
     },
     {
       "word": "waiting list",
@@ -3272,7 +3272,7 @@
       "word": "guesthouse",
       "translation": "เกสต์เฮาส์, บ้านพักรับรอง",
       "example": "We stayed at a small guesthouse in Chiang Mai.",
-      "exampleTranslation": "เราพักที่เกสต์เฮาส์เล็ก ๆ ในเชียงใหม่"
+      "exampleTranslation": "เราพักที่เกสต์เฮาส์เล็กๆ ในเชียงใหม่"
     },
     {
       "word": "lodge",
@@ -3334,8 +3334,8 @@
     {
       "word": "attend",
       "translation": "เข้าร่วม, ไปร่วม",
-      "example": "Please attend the meeting at 9 a.m.",
-      "exampleTranslation": "กรุณาเข้าร่วมประชุมเวลาเก้าโมงเช้า",
+      "example": "All staff attend the meeting at 9 a.m.",
+      "exampleTranslation": "พนักงานทุกคนเข้าร่วมประชุมเวลาเก้าโมงเช้า",
       "phonics": "/əˈtɛnd/"
     },
     {
@@ -3355,8 +3355,8 @@
     {
       "word": "complete",
       "translation": "ทำให้เสร็จ, สมบูรณ์, กรอก",
-      "example": "Please complete this form.",
-      "exampleTranslation": "กรุณากรอกแบบฟอร์มนี้ให้ครบ",
+      "example": "New customers complete this form.",
+      "exampleTranslation": "ลูกค้าใหม่กรอกแบบฟอร์มนี้ให้ครบ",
       "phonics": "/kəmˈplit/"
     },
     {
@@ -3528,8 +3528,8 @@
     {
       "word": "job description",
       "translation": "คำบรรยายลักษณะงาน, รายละเอียดงาน",
-      "example": "Please read the job description before you apply.",
-      "exampleTranslation": "กรุณาอ่านรายละเอียดงานก่อนสมัคร",
+      "example": "Applicants read the job description before they apply.",
+      "exampleTranslation": "ผู้สมัครอ่านรายละเอียดงานก่อนสมัคร",
       "phonics": "/ˈdʒɑb dɪsˈkrɪpʃən/"
     },
     {
@@ -3588,15 +3588,15 @@
     {
       "word": "resume",
       "translation": "ประวัติย่อ, เรซูเม่, ดำเนินต่อ",
-      "example": "Please send your resume by email.",
-      "exampleTranslation": "กรุณาส่งเรซูเม่ทางอีเมล",
+      "example": "Applicants send their resume by email.",
+      "exampleTranslation": "ผู้สมัครส่งเรซูเม่ทางอีเมล",
       "phonics": "/ˈrɛzəˌmeɪ/, /riˈzum/"
     },
     {
       "word": "curriculum vitae",
       "translation": "ประวัติย่อ, ประวัติการทำงาน",
-      "example": "Attach your curriculum vitae to the form.",
-      "exampleTranslation": "แนบประวัติย่อของคุณมากับแบบฟอร์ม"
+      "example": "She attaches her curriculum vitae to the form.",
+      "exampleTranslation": "เธอแนบประวัติย่อมากับแบบฟอร์ม"
     },
     {
       "word": "CV",
@@ -3653,8 +3653,8 @@
     {
       "word": "cooperation",
       "translation": "ความร่วมมือ",
-      "example": "Thank you for your cooperation.",
-      "exampleTranslation": "ขอบคุณสำหรับความร่วมมือ"
+      "example": "The police thanked the public for their cooperation.",
+      "exampleTranslation": "ตำรวจขอบคุณประชาชนที่ให้ความร่วมมือ"
     },
     {
       "word": "collaboration",
@@ -3882,8 +3882,8 @@
     {
       "word": "salary negotiation",
       "translation": "การต่อรองเงินเดือน",
-      "example": "Be ready for the salary negotiation.",
-      "exampleTranslation": "เตรียมตัวให้พร้อมสำหรับการต่อรองเงินเดือน",
+      "example": "She prepared well for the salary negotiation.",
+      "exampleTranslation": "เธอเตรียมตัวมาอย่างดีสำหรับการต่อรองเงินเดือน",
       "phonics": "/ˈsælɝi nɪˌɡoʊʃiˈeɪʃən/"
     },
     {
@@ -3921,8 +3921,8 @@
     {
       "word": "employment contract",
       "translation": "สัญญาจ้างงาน",
-      "example": "Read your employment contract carefully.",
-      "exampleTranslation": "อ่านสัญญาจ้างงานของคุณให้ละเอียด"
+      "example": "He reads his employment contract carefully.",
+      "exampleTranslation": "เขาอ่านสัญญาจ้างงานของตัวเองอย่างละเอียด"
     },
     {
       "word": "work agreement",
@@ -4082,7 +4082,7 @@
       "word": "connecting",
       "translation": "การเชื่อมต่อ, การติดต่อสัมพันธ์",
       "example": "The event is good for connecting with new people.",
-      "exampleTranslation": "งานนี้เหมาะสำหรับการทำความรู้จักคนใหม่ ๆ"
+      "exampleTranslation": "งานนี้เหมาะสำหรับการทำความรู้จักคนใหม่ๆ"
     },
     {
       "word": "job market",
@@ -4112,8 +4112,8 @@
     {
       "word": "work materials",
       "translation": "วัสดุอุปกรณ์การทำงาน",
-      "example": "Keep your work materials on your desk.",
-      "exampleTranslation": "เก็บอุปกรณ์การทำงานไว้บนโต๊ะของคุณ"
+      "example": "She keeps her work materials on her desk.",
+      "exampleTranslation": "เธอเก็บอุปกรณ์การทำงานไว้บนโต๊ะ"
     },
     {
       "word": "stationery",
@@ -4124,8 +4124,8 @@
     {
       "word": "team leader",
       "translation": "หัวหน้าทีม",
-      "example": "Ask your team leader for help.",
-      "exampleTranslation": "ขอความช่วยเหลือจากหัวหน้าทีมของคุณ",
+      "example": "New staff ask their team leader for help.",
+      "exampleTranslation": "พนักงานใหม่ขอความช่วยเหลือจากหัวหน้าทีม",
       "phonics": "/ˈtim ˈlidɝ/"
     },
     {
@@ -4152,7 +4152,7 @@
       "word": "promote",
       "translation": "ส่งเสริม, โปรโมต, เลื่อนตำแหน่ง",
       "example": "She was promoted to team leader.",
-      "exampleTranslation": "เธอได้เลื่อนตำแหน่งเป็นหัวหน้าทีม",
+      "exampleTranslation": "เธอได้รับการเลื่อนตำแหน่งเป็นหัวหน้าทีม",
       "phonics": "/prəˈmoʊt/"
     },
     {
@@ -4213,8 +4213,8 @@
     {
       "word": "label",
       "translation": "ฉลาก, ป้าย, ติดป้าย",
-      "example": "Read the label before you use it.",
-      "exampleTranslation": "อ่านฉลากก่อนใช้",
+      "example": "She reads the label before she uses the cleaner.",
+      "exampleTranslation": "เธออ่านฉลากก่อนใช้น้ำยาทำความสะอาด",
       "phonics": "/ˈleɪbəl/"
     },
     {
@@ -4256,7 +4256,7 @@
       "word": "sway",
       "translation": "โน้มน้าว, ครอบงำ, แกว่ง",
       "example": "Good reviews can sway customers.",
-      "exampleTranslation": "รีวิวดี ๆ โน้มน้าวลูกค้าได้"
+      "exampleTranslation": "รีวิวดีๆ โน้มน้าวลูกค้าได้"
     },
     {
       "word": "research",
@@ -4268,8 +4268,8 @@
     {
       "word": "survey",
       "translation": "แบบสำรวจ, การสำรวจ, สำรวจ",
-      "example": "Please fill out our short survey.",
-      "exampleTranslation": "กรุณาตอบแบบสำรวจสั้น ๆ ของเรา",
+      "example": "Customers fill out our short survey.",
+      "exampleTranslation": "ลูกค้าตอบแบบสำรวจสั้นๆ ของเรา",
       "phonics": "/ˈsɝˌveɪ/, /sɝˈveɪ/"
     },
     {
@@ -4354,8 +4354,8 @@
     {
       "word": "out of stock",
       "translation": "สินค้าหมด",
-      "example": "Sorry, this item is out of stock.",
-      "exampleTranslation": "ขอโทษค่ะ สินค้านี้หมดแล้ว"
+      "example": "This item is out of stock at the moment.",
+      "exampleTranslation": "ตอนนี้สินค้านี้หมดแล้ว"
     },
     {
       "word": "run out",
@@ -4461,8 +4461,8 @@
     {
       "word": "customer service",
       "translation": "บริการลูกค้า, ฝ่ายบริการลูกค้า",
-      "example": "Call customer service if you have a problem.",
-      "exampleTranslation": "ถ้ามีปัญหา โทรหาฝ่ายบริการลูกค้า",
+      "example": "Customers call customer service if they have a problem.",
+      "exampleTranslation": "ลูกค้าโทรหาฝ่ายบริการลูกค้าถ้ามีปัญหา",
       "phonics": "/ˈkəstəmɝ ˈsɝvəs/"
     },
     {
@@ -4475,8 +4475,8 @@
     {
       "word": "helpdesk",
       "translation": "ฝ่ายช่วยเหลือ, โต๊ะช่วยเหลือ",
-      "example": "Contact the IT helpdesk if your computer breaks.",
-      "exampleTranslation": "ถ้าคอมพิวเตอร์เสีย ติดต่อฝ่ายช่วยเหลือด้านไอที"
+      "example": "Staff contact the IT helpdesk if their computer breaks.",
+      "exampleTranslation": "พนักงานติดต่อฝ่ายช่วยเหลือด้านไอทีถ้าคอมพิวเตอร์เสีย"
     },
     {
       "word": "trade show",
@@ -4652,13 +4652,13 @@
       "word": "deflation",
       "translation": "ภาวะเงินฝืด",
       "example": "Deflation means prices keep going down.",
-      "exampleTranslation": "ภาวะเงินฝืดคือการที่ราคาสินค้าลดลงเรื่อย ๆ"
+      "exampleTranslation": "ภาวะเงินฝืดคือการที่ราคาสินค้าลดลงเรื่อยๆ"
     },
     {
       "word": "donation",
       "translation": "การบริจาค, เงินบริจาค",
-      "example": "Thank you for your kind donation.",
-      "exampleTranslation": "ขอบคุณสำหรับเงินบริจาคของคุณ",
+      "example": "The hospital received a large donation.",
+      "exampleTranslation": "โรงพยาบาลได้รับเงินบริจาคก้อนใหญ่",
       "phonics": "/doʊˈneɪʃən/"
     },
     {
@@ -4684,7 +4684,7 @@
       "word": "economy",
       "translation": "เศรษฐกิจ, ความประหยัด, ชั้นประหยัด",
       "example": "The economy is growing slowly.",
-      "exampleTranslation": "เศรษฐกิจกำลังเติบโตอย่างช้า ๆ",
+      "exampleTranslation": "เศรษฐกิจกำลังเติบโตอย่างช้าๆ",
       "phonics": "/iˈkɑnəmi/, /ɪˈkɑnəmi/"
     },
     {
@@ -4786,8 +4786,8 @@
     {
       "word": "receipt",
       "translation": "ใบเสร็จรับเงิน, การได้รับ",
-      "example": "Please keep your receipt.",
-      "exampleTranslation": "กรุณาเก็บใบเสร็จไว้",
+      "example": "Customers keep their receipts for returns.",
+      "exampleTranslation": "ลูกค้าเก็บใบเสร็จไว้สำหรับคืนสินค้า",
       "phonics": "/riˈsit/, /rɪˈsit/"
     },
     {
@@ -4811,8 +4811,8 @@
     {
       "word": "withdraw",
       "translation": "ถอนเงิน, ถอนตัว, เพิกถอน",
-      "example": "I need to withdraw some cash.",
-      "exampleTranslation": "ฉันต้องถอนเงินสดนิดหน่อย",
+      "example": "I withdraw some cash at the ATM.",
+      "exampleTranslation": "ฉันถอนเงินสดที่ตู้เอทีเอ็ม",
       "phonics": "/wɪðˈdrɔ/, /wɪθˈdrɔ/"
     },
     {
@@ -4824,8 +4824,8 @@
     {
       "word": "admittance",
       "translation": "การอนุญาตให้เข้า, การรับเข้า",
-      "example": "No admittance without a ticket.",
-      "exampleTranslation": "ห้ามเข้าหากไม่มีตั๋ว"
+      "example": "Visitors cannot gain admittance without a ticket.",
+      "exampleTranslation": "ผู้มาเยือนเข้าไม่ได้หากไม่มีตั๋ว"
     },
     {
       "word": "abroad",
@@ -4851,8 +4851,8 @@
     {
       "word": "announcement",
       "translation": "การประกาศ, ประกาศ",
-      "example": "Please listen to the announcement.",
-      "exampleTranslation": "กรุณาฟังประกาศ"
+      "example": "Passengers listen to the announcement.",
+      "exampleTranslation": "ผู้โดยสารฟังประกาศ"
     },
     {
       "word": "annual",
@@ -4871,8 +4871,8 @@
     {
       "word": "allow",
       "translation": "อนุญาต, ยอมให้",
-      "example": "Pets are not allowed in the hotel.",
-      "exampleTranslation": "ไม่อนุญาตให้นำสัตว์เลี้ยงเข้าโรงแรม",
+      "example": "The hotel does not allow pets.",
+      "exampleTranslation": "โรงแรมไม่อนุญาตให้นำสัตว์เลี้ยงเข้า",
       "phonics": "/əˈlaʊ/"
     },
     {
@@ -4892,35 +4892,35 @@
     {
       "word": "apology",
       "translation": "คำขอโทษ",
-      "example": "Please accept our apology for the delay.",
-      "exampleTranslation": "โปรดรับคำขอโทษของเราสำหรับความล่าช้า",
+      "example": "The airline made an apology for the delay.",
+      "exampleTranslation": "สายการบินขอโทษสำหรับความล่าช้า",
       "phonics": "/əˈpɑləˌdʒi/"
     },
     {
       "word": "application",
       "translation": "ใบสมัคร, การสมัคร, แอปพลิเคชัน",
-      "example": "Send your application by Friday.",
-      "exampleTranslation": "ส่งใบสมัครภายในวันศุกร์",
+      "example": "Applicants send their application by Friday.",
+      "exampleTranslation": "ผู้สมัครส่งใบสมัครภายในวันศุกร์",
       "phonics": "/ˌæpləˈkeɪʃən/"
     },
     {
       "word": "appropriate",
       "translation": "เหมาะสม",
-      "example": "Please wear appropriate clothes to work.",
-      "exampleTranslation": "กรุณาแต่งกายให้เหมาะสมในการทำงาน",
+      "example": "Staff wear appropriate clothes to work.",
+      "exampleTranslation": "พนักงานแต่งกายให้เหมาะสมในการทำงาน",
       "phonics": "/əˈproʊpriˌeɪt/, /əˈproʊpriət/"
     },
     {
       "word": "appoint",
       "translation": "แต่งตั้ง, นัดหมาย",
       "example": "They appointed her as the new director.",
-      "exampleTranslation": "เธอได้รับการแต่งตั้งเป็นผู้อำนวยการคนใหม่"
+      "exampleTranslation": "พวกเขาแต่งตั้งเธอเป็นผู้อำนวยการคนใหม่"
     },
     {
       "word": "attach",
       "translation": "แนบ, ติด",
-      "example": "Please attach a photo to the form.",
-      "exampleTranslation": "กรุณาแนบรูปถ่ายมากับแบบฟอร์ม",
+      "example": "Applicants attach a photo to the form.",
+      "exampleTranslation": "ผู้สมัครแนบรูปถ่ายมากับแบบฟอร์ม",
       "phonics": "/əˈtætʃ/"
     },
     {
@@ -4981,7 +4981,7 @@
       "word": "briefing",
       "translation": "การบรรยายสรุป, การชี้แจง",
       "example": "We have a short briefing before each shift.",
-      "exampleTranslation": "เรามีการชี้แจงสั้น ๆ ก่อนเริ่มกะทุกครั้ง"
+      "exampleTranslation": "เรามีการชี้แจงสั้นๆ ก่อนเริ่มกะทุกครั้ง"
     },
     {
       "word": "briefcase",
@@ -5024,8 +5024,8 @@
     {
       "word": "code",
       "translation": "รหัส, กฎ, โค้ด",
-      "example": "Enter the code to open the door.",
-      "exampleTranslation": "ใส่รหัสเพื่อเปิดประตู",
+      "example": "Staff enter a code to open the door.",
+      "exampleTranslation": "พนักงานใส่รหัสเพื่อเปิดประตู",
       "phonics": "/ˈkoʊd/"
     },
     {
@@ -5085,13 +5085,13 @@
     {
       "word": "contribution",
       "translation": "การมีส่วนร่วม, การบริจาค, ผลงาน",
-      "example": "Thank you for your contribution to the team.",
-      "exampleTranslation": "ขอบคุณสำหรับสิ่งที่คุณทำให้ทีม",
+      "example": "Her contribution to the team was huge.",
+      "exampleTranslation": "เธอมีส่วนช่วยทีมอย่างมาก",
       "phonics": "/ˌkɑntrəbˈjuʃən/"
     },
     {
       "word": "continual",
-      "translation": "ต่อเนื่อง, เกิดขึ้นบ่อย ๆ",
+      "translation": "ต่อเนื่อง, เกิดขึ้นบ่อยๆ",
       "example": "The continual noise made it hard to work.",
       "exampleTranslation": "เสียงดังที่เกิดขึ้นตลอดทำให้ทำงานยาก"
     },
@@ -5162,8 +5162,8 @@
     {
       "word": "delay",
       "translation": "ความล่าช้า, เลื่อน, ทำให้ล่าช้า",
-      "example": "Sorry for the delay.",
-      "exampleTranslation": "ขอโทษที่ล่าช้า",
+      "example": "The delay made everyone late.",
+      "exampleTranslation": "ความล่าช้าทำให้ทุกคนไปสาย",
       "phonics": "/dɪˈleɪ/"
     },
     {
@@ -5196,7 +5196,7 @@
       "word": "downturn",
       "translation": "ภาวะตกต่ำ, ขาลง",
       "example": "The downturn hurt many small shops.",
-      "exampleTranslation": "ภาวะเศรษฐกิจตกต่ำส่งผลเสียต่อร้านเล็ก ๆ หลายร้าน"
+      "exampleTranslation": "ภาวะเศรษฐกิจตกต่ำส่งผลเสียต่อร้านเล็กๆ หลายร้าน"
     },
     {
       "word": "developer",
@@ -5379,8 +5379,8 @@
     {
       "word": "extension",
       "translation": "การขยาย, การต่อเวลา, เบอร์ต่อภายใน",
-      "example": "Please call extension 205.",
-      "exampleTranslation": "กรุณาโทรเบอร์ต่อ 205",
+      "example": "Her office phone is extension 205.",
+      "exampleTranslation": "เบอร์ต่อโทรศัพท์ที่ออฟฟิศของเธอคือ 205",
       "phonics": "/ɪkˈstɛnʃən/"
     },
     {
@@ -5520,9 +5520,9 @@
     },
     {
       "word": "fluctuate",
-      "translation": "ขึ้น ๆ ลง ๆ, ผันผวน",
+      "translation": "ขึ้นๆ ลงๆ, ผันผวน",
       "example": "Oil prices fluctuate a lot.",
-      "exampleTranslation": "ราคาน้ำมันขึ้น ๆ ลง ๆ มาก"
+      "exampleTranslation": "ราคาน้ำมันขึ้นๆ ลงๆ มาก"
     },
     {
       "word": "growth",
@@ -5533,16 +5533,16 @@
     },
     {
       "word": "gradually",
-      "translation": "ค่อย ๆ, ทีละน้อย",
+      "translation": "ค่อยๆ, ทีละน้อย",
       "example": "Sales are gradually getting better.",
-      "exampleTranslation": "ยอดขายค่อย ๆ ดีขึ้น",
+      "exampleTranslation": "ยอดขายค่อยๆ ดีขึ้น",
       "phonics": "/ˈɡrædʒuəli/, /ˈɡrædʒuli/"
     },
     {
       "word": "guideline",
       "translation": "แนวทาง, หลักเกณฑ์",
-      "example": "Please follow the safety guidelines.",
-      "exampleTranslation": "กรุณาปฏิบัติตามแนวทางด้านความปลอดภัย",
+      "example": "All staff follow the safety guidelines.",
+      "exampleTranslation": "พนักงานทุกคนปฏิบัติตามแนวทางด้านความปลอดภัย",
       "phonics": "/ˈɡaɪdˌlaɪn/"
     },
     {
@@ -5555,8 +5555,8 @@
     {
       "word": "haphazard",
       "translation": "ไม่เป็นระบบ, สะเปะสะปะ",
-      "example": "The files are kept in a haphazard way.",
-      "exampleTranslation": "แฟ้มถูกเก็บไว้อย่างไม่เป็นระบบ",
+      "example": "The clerk keeps the files in a haphazard way.",
+      "exampleTranslation": "เสมียนเก็บแฟ้มไว้อย่างไม่เป็นระบบ",
       "phonics": "/hæpˈhæzɝd/"
     },
     {
@@ -5594,8 +5594,8 @@
     {
       "word": "hesitate",
       "translation": "ลังเล",
-      "example": "Don't hesitate to call me.",
-      "exampleTranslation": "ไม่ต้องลังเลที่จะโทรหาฉัน",
+      "example": "She never hesitates to ask questions.",
+      "exampleTranslation": "เธอไม่เคยลังเลที่จะถามคำถาม",
       "phonics": "/ˈhɛzəˌteɪt/"
     },
     {
@@ -5641,21 +5641,21 @@
     {
       "word": "itemize",
       "translation": "แจกแจงรายการ, ลงรายละเอียด",
-      "example": "Please itemize all your expenses.",
-      "exampleTranslation": "กรุณาแจกแจงค่าใช้จ่ายทั้งหมดของคุณ"
+      "example": "Staff itemize all their expenses.",
+      "exampleTranslation": "พนักงานแจกแจงค่าใช้จ่ายทั้งหมดของตัวเอง"
     },
     {
       "word": "ideal",
       "translation": "เหมาะที่สุด, ในอุดมคติ",
       "example": "This room is ideal for small meetings.",
-      "exampleTranslation": "ห้องนี้เหมาะที่สุดสำหรับการประชุมเล็ก ๆ",
+      "exampleTranslation": "ห้องนี้เหมาะที่สุดสำหรับการประชุมเล็กๆ",
       "phonics": "/aɪˈdil/"
     },
     {
       "word": "identification",
       "translation": "การระบุตัวตน, บัตรประจำตัว",
-      "example": "Please show some identification.",
-      "exampleTranslation": "กรุณาแสดงบัตรประจำตัว",
+      "example": "Visitors show some identification at the gate.",
+      "exampleTranslation": "ผู้มาเยือนแสดงบัตรประจำตัวที่ประตู",
       "phonics": "/aɪˌdɛntəfəˈkeɪʃən/"
     },
     {
@@ -5675,8 +5675,8 @@
     {
       "word": "ignore",
       "translation": "เพิกเฉย, ละเลย, ไม่สนใจ",
-      "example": "Please don't ignore this message.",
-      "exampleTranslation": "กรุณาอย่าเพิกเฉยต่อข้อความนี้",
+      "example": "He ignored my message.",
+      "exampleTranslation": "เขาเพิกเฉยต่อข้อความของฉัน",
       "phonics": "/ˌɪɡˈnɔr/"
     },
     {
@@ -5791,8 +5791,8 @@
     {
       "word": "information",
       "translation": "ข้อมูล, ข่าวสาร",
-      "example": "For more information, visit our website.",
-      "exampleTranslation": "ดูข้อมูลเพิ่มเติมได้ที่เว็บไซต์ของเรา",
+      "example": "Customers find more information on our website.",
+      "exampleTranslation": "ลูกค้าหาข้อมูลเพิ่มเติมได้ที่เว็บไซต์ของเรา",
       "phonics": "/ˌɪnfɝˈmeɪʃən/, /ɪnˈfɔrˈmeɪʃən/"
     },
     {
@@ -5805,8 +5805,8 @@
     {
       "word": "installation",
       "translation": "การติดตั้ง",
-      "example": "Installation is free.",
-      "exampleTranslation": "ติดตั้งฟรี"
+      "example": "The shop offers free installation.",
+      "exampleTranslation": "ร้านมีบริการติดตั้งฟรี"
     },
     {
       "word": "journal",
@@ -5917,8 +5917,8 @@
     {
       "word": "numeral",
       "translation": "ตัวเลข",
-      "example": "Write the date in numerals.",
-      "exampleTranslation": "เขียนวันที่เป็นตัวเลข"
+      "example": "She writes the date in numerals.",
+      "exampleTranslation": "เธอเขียนวันที่เป็นตัวเลข"
     },
     {
       "word": "numerical",
@@ -5942,8 +5942,8 @@
     {
       "word": "officer",
       "translation": "เจ้าหน้าที่, นายทหาร, ตำรวจ",
-      "example": "Ask the officer at the gate.",
-      "exampleTranslation": "ถามเจ้าหน้าที่ที่ประตู",
+      "example": "We asked the officer at the gate.",
+      "exampleTranslation": "เราถามเจ้าหน้าที่ที่ประตู",
       "phonics": "/ˈɔfəsɝ/, /ˈɔfɪsɝ/"
     },
     {
@@ -5977,8 +5977,8 @@
     {
       "word": "overview",
       "translation": "ภาพรวม",
-      "example": "Here is a short overview of our services.",
-      "exampleTranslation": "นี่คือภาพรวมสั้น ๆ ของบริการของเรา"
+      "example": "The brochure gives a short overview of our services.",
+      "exampleTranslation": "แผ่นพับให้ภาพรวมสั้นๆ ของบริการของเรา"
     },
     {
       "word": "overdue",
@@ -5989,8 +5989,8 @@
     {
       "word": "outline",
       "translation": "โครงร่าง, เค้าโครง, สรุปย่อ",
-      "example": "Please send me an outline of your plan.",
-      "exampleTranslation": "กรุณาส่งโครงร่างแผนของคุณมาให้ฉัน",
+      "example": "She sent me an outline of her plan.",
+      "exampleTranslation": "เธอส่งโครงร่างแผนของเธอมาให้ฉัน",
       "phonics": "/ˈaʊtˌlaɪn/"
     },
     {
@@ -6047,8 +6047,8 @@
     {
       "word": "personal",
       "translation": "ส่วนตัว, ส่วนบุคคล",
-      "example": "Please keep your personal things in your locker.",
-      "exampleTranslation": "กรุณาเก็บของส่วนตัวไว้ในล็อกเกอร์"
+      "example": "Staff keep their personal things in their lockers.",
+      "exampleTranslation": "พนักงานเก็บของส่วนตัวไว้ในล็อกเกอร์"
     },
     {
       "word": "productive",
@@ -6059,8 +6059,8 @@
     {
       "word": "prohibit",
       "translation": "ห้าม",
-      "example": "Smoking is prohibited in the building.",
-      "exampleTranslation": "ห้ามสูบบุหรี่ในอาคาร",
+      "example": "The rules prohibit smoking in the building.",
+      "exampleTranslation": "กฎห้ามสูบบุหรี่ในอาคาร",
       "phonics": "/proʊˈhɪbət/"
     },
     {
@@ -6113,21 +6113,21 @@
     {
       "word": "premises",
       "translation": "สถานที่, อาคารและที่ดิน",
-      "example": "No smoking on the premises.",
-      "exampleTranslation": "ห้ามสูบบุหรี่ภายในบริเวณสถานที่"
+      "example": "Smoking is not allowed on the premises.",
+      "exampleTranslation": "ไม่อนุญาตให้สูบบุหรี่ภายในบริเวณสถานที่"
     },
     {
       "word": "press",
       "translation": "กด, สื่อมวลชน, รีด",
-      "example": "Press the green button to start.",
-      "exampleTranslation": "กดปุ่มสีเขียวเพื่อเริ่ม",
+      "example": "She presses the green button to start the machine.",
+      "exampleTranslation": "เธอกดปุ่มสีเขียวเพื่อเปิดเครื่อง",
       "phonics": "/ˈprɛs/"
     },
     {
       "word": "profile",
       "translation": "ข้อมูลส่วนตัว, ประวัติย่อ, โปรไฟล์",
-      "example": "Please update your profile on the website.",
-      "exampleTranslation": "กรุณาอัปเดตโปรไฟล์ของคุณบนเว็บไซต์",
+      "example": "Members update their profile on the website.",
+      "exampleTranslation": "สมาชิกอัปเดตโปรไฟล์ของตัวเองบนเว็บไซต์",
       "phonics": "/ˈproʊˌfaɪl/"
     },
     {
@@ -6153,15 +6153,15 @@
     {
       "word": "polite",
       "translation": "สุภาพ",
-      "example": "Please be polite to every customer.",
-      "exampleTranslation": "กรุณาสุภาพกับลูกค้าทุกคน",
+      "example": "The staff are always polite to customers.",
+      "exampleTranslation": "พนักงานสุภาพกับลูกค้าเสมอ",
       "phonics": "/pəˈlaɪt/"
     },
     {
       "word": "postponement",
       "translation": "การเลื่อนเวลา, การเลื่อนออกไป",
-      "example": "We are sorry for the postponement of the event.",
-      "exampleTranslation": "เราขออภัยที่ต้องเลื่อนงานออกไป"
+      "example": "The postponement of the event upset many fans.",
+      "exampleTranslation": "การเลื่อนงานออกไปทำให้แฟนๆ หลายคนผิดหวัง"
     },
     {
       "word": "plumber",
@@ -6172,8 +6172,8 @@
     {
       "word": "quote",
       "translation": "ใบเสนอราคา, เสนอราคา, อ้างอิง",
-      "example": "Can you give me a quote for the repair?",
-      "exampleTranslation": "ช่วยให้ใบเสนอราคาค่าซ่อมได้ไหม",
+      "example": "The plumber gave me a quote for the repair.",
+      "exampleTranslation": "ช่างประปาให้ใบเสนอราคาค่าซ่อมกับฉัน",
       "phonics": "/ˈkwoʊt/"
     },
     {
@@ -6212,8 +6212,8 @@
     {
       "word": "relevant",
       "translation": "เกี่ยวข้อง, ตรงประเด็น",
-      "example": "Please send all relevant documents.",
-      "exampleTranslation": "กรุณาส่งเอกสารที่เกี่ยวข้องทั้งหมด",
+      "example": "Applicants send all relevant documents.",
+      "exampleTranslation": "ผู้สมัครส่งเอกสารที่เกี่ยวข้องทั้งหมด",
       "phonics": "/ˈrɛləvənt/"
     },
     {
@@ -6254,8 +6254,8 @@
     {
       "word": "secretary",
       "translation": "เลขานุการ",
-      "example": "Please leave a message with my secretary.",
-      "exampleTranslation": "กรุณาฝากข้อความไว้กับเลขานุการของฉัน",
+      "example": "Visitors leave messages with my secretary.",
+      "exampleTranslation": "ผู้มาติดต่อฝากข้อความไว้กับเลขานุการของฉัน",
       "phonics": "/ˈsɛkrəˌtɛri/"
     },
     {
@@ -6281,8 +6281,8 @@
     {
       "word": "specify",
       "translation": "ระบุ, กำหนดรายละเอียด",
-      "example": "Please specify the size you want.",
-      "exampleTranslation": "กรุณาระบุขนาดที่คุณต้องการ",
+      "example": "Customers specify the size they want.",
+      "exampleTranslation": "ลูกค้าระบุขนาดที่ต้องการ",
       "phonics": "/ˈspɛsəˌfaɪ/"
     },
     {
@@ -6321,8 +6321,8 @@
     {
       "word": "tardily",
       "translation": "อย่างล่าช้า, ช้ากว่ากำหนด",
-      "example": "The report was sent tardily.",
-      "exampleTranslation": "รายงานถูกส่งช้ากว่ากำหนด"
+      "example": "He sent the report tardily.",
+      "exampleTranslation": "เขาส่งรายงานช้ากว่ากำหนด"
     },
     {
       "word": "technical",
@@ -6347,8 +6347,8 @@
     {
       "word": "transmit",
       "translation": "ส่งผ่าน, ถ่ายทอด, แพร่เชื้อ",
-      "example": "The data is transmitted by satellite.",
-      "exampleTranslation": "ข้อมูลถูกส่งผ่านดาวเทียม",
+      "example": "The station transmits the data by satellite.",
+      "exampleTranslation": "สถานีส่งข้อมูลผ่านดาวเทียม",
       "phonics": "/trænzˈmɪt/"
     },
     {
@@ -6447,8 +6447,8 @@
     {
       "word": "xerox",
       "translation": "ถ่ายเอกสาร",
-      "example": "Please xerox these pages for the meeting.",
-      "exampleTranslation": "กรุณาถ่ายเอกสารหน้าเหล่านี้สำหรับการประชุม"
+      "example": "The assistant xeroxes the pages for the meeting.",
+      "exampleTranslation": "ผู้ช่วยถ่ายเอกสารหน้าเหล่านี้สำหรับการประชุม"
     },
     {
       "word": "yield",
@@ -6481,8 +6481,8 @@
     {
       "word": "aisle",
       "translation": "ทางเดินระหว่างที่นั่ง, ทางเดินระหว่างชั้นวาง",
-      "example": "I'd like an aisle seat, please.",
-      "exampleTranslation": "ขอที่นั่งติดทางเดินค่ะ"
+      "example": "She always asks for an aisle seat.",
+      "exampleTranslation": "เธอขอที่นั่งติดทางเดินเสมอ"
     },
     {
       "word": "appetizer",
@@ -6493,20 +6493,20 @@
     {
       "word": "baggage",
       "translation": "กระเป๋าเดินทาง, สัมภาระ",
-      "example": "Please collect your baggage at belt 4.",
-      "exampleTranslation": "กรุณารับกระเป๋าเดินทางที่สายพาน 4"
+      "example": "Passengers collect their baggage at belt 4.",
+      "exampleTranslation": "ผู้โดยสารรับกระเป๋าเดินทางที่สายพาน 4"
     },
     {
       "word": "belongings",
       "translation": "ข้าวของ, ของใช้ส่วนตัว",
-      "example": "Don't forget your belongings.",
-      "exampleTranslation": "อย่าลืมข้าวของของคุณ"
+      "example": "Passengers take their belongings when they leave the train.",
+      "exampleTranslation": "ผู้โดยสารนำข้าวของติดตัวไปด้วยเมื่อลงจากรถไฟ"
     },
     {
       "word": "beverage",
       "translation": "เครื่องดื่ม",
-      "example": "Hot beverages are free in the lobby.",
-      "exampleTranslation": "เครื่องดื่มร้อนบริการฟรีที่ล็อบบี้",
+      "example": "The hotel serves free hot beverages in the lobby.",
+      "exampleTranslation": "โรงแรมมีเครื่องดื่มร้อนบริการฟรีที่ล็อบบี้",
       "phonics": "/ˈbɛvɝɪdʒ/, /ˈbɛvrɪdʒ/"
     },
     {
@@ -6519,8 +6519,8 @@
     {
       "word": "cashier",
       "translation": "พนักงานเก็บเงิน, แคชเชียร์",
-      "example": "Please pay at the cashier.",
-      "exampleTranslation": "กรุณาชำระเงินที่แคชเชียร์"
+      "example": "Customers pay at the cashier.",
+      "exampleTranslation": "ลูกค้าชำระเงินที่แคชเชียร์"
     },
     {
       "word": "celebration",
@@ -6532,8 +6532,8 @@
     {
       "word": "celebrate",
       "translation": "ฉลอง, เฉลิมฉลอง",
-      "example": "Let's celebrate our good sales!",
-      "exampleTranslation": "มาฉลองยอดขายที่ดีของเรากันเถอะ",
+      "example": "We celebrated our good sales with a dinner.",
+      "exampleTranslation": "เราฉลองยอดขายที่ดีด้วยการกินมื้อค่ำด้วยกัน",
       "phonics": "/ˈsɛləˌbreɪt/"
     },
     {
@@ -6553,8 +6553,8 @@
     {
       "word": "danger",
       "translation": "อันตราย, ภัย",
-      "example": "Danger! Do not enter.",
-      "exampleTranslation": "อันตราย ห้ามเข้า",
+      "example": "The sign warns people about the danger.",
+      "exampleTranslation": "ป้ายเตือนผู้คนให้ระวังอันตราย",
       "phonics": "/ˈdeɪndʒɝ/"
     },
     {
@@ -6594,8 +6594,8 @@
     {
       "word": "timetable",
       "translation": "ตารางเวลา",
-      "example": "Check the train timetable before you go.",
-      "exampleTranslation": "ดูตารางเวลารถไฟก่อนออกเดินทาง"
+      "example": "She checks the train timetable before she goes.",
+      "exampleTranslation": "เธอดูตารางเวลารถไฟก่อนออกเดินทาง"
     },
     {
       "word": "luxury",
@@ -6614,8 +6614,8 @@
     {
       "word": "napkin",
       "translation": "ผ้าเช็ดปาก, กระดาษเช็ดปาก",
-      "example": "Can I have a napkin, please?",
-      "exampleTranslation": "ขอผ้าเช็ดปากหน่อยได้ไหม"
+      "example": "The waiter brings us some napkins.",
+      "exampleTranslation": "พนักงานเสิร์ฟนำผ้าเช็ดปากมาให้เรา"
     },
     {
       "word": "neighborhood",
@@ -6659,8 +6659,8 @@
     {
       "word": "emergency",
       "translation": "เหตุฉุกเฉิน, กรณีฉุกเฉิน",
-      "example": "In an emergency, call 191.",
-      "exampleTranslation": "กรณีฉุกเฉิน โทร 191",
+      "example": "People call 191 in an emergency.",
+      "exampleTranslation": "เวลาเกิดเหตุฉุกเฉิน ผู้คนโทร 191",
       "phonics": "/ˈimɝdʒənsi/, /ɪˈmɝdʒənsi/"
     },
     {
@@ -6673,8 +6673,8 @@
     {
       "word": "medical certificate",
       "translation": "ใบรับรองแพทย์",
-      "example": "Please bring a medical certificate if you are sick.",
-      "exampleTranslation": "ถ้าป่วย กรุณานำใบรับรองแพทย์มาด้วย",
+      "example": "Sick workers bring a medical certificate.",
+      "exampleTranslation": "คนงานที่ป่วยต้องนำใบรับรองแพทย์มาด้วย",
       "phonics": "/ˈmɛdəkəl sɝˈtɪfɪkət/"
     },
     {
@@ -6687,15 +6687,15 @@
     {
       "word": "medicine",
       "translation": "ยา, การแพทย์",
-      "example": "Take this medicine after meals.",
-      "exampleTranslation": "ทานยานี้หลังอาหาร",
+      "example": "She takes this medicine after meals.",
+      "exampleTranslation": "เธอกินยานี้หลังอาหาร",
       "phonics": "/ˈmɛdəsən/"
     },
     {
       "word": "prevention",
       "translation": "การป้องกัน",
       "example": "Prevention is better than cure.",
-      "exampleTranslation": "กันไว้ดีกว่าแก้",
+      "exampleTranslation": "การป้องกันดีกว่าการรักษา",
       "phonics": "/priˈvɛnʃən/"
     },
     {
